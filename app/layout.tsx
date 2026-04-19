@@ -2,6 +2,9 @@ import type { Metadata } from "next"
 import { Outfit } from "next/font/google"
 import NavBar from "@/components/NavBar"
 import Footer from "@/components/Footer"
+import OfferProvider from "@/components/OfferProvider"
+import OfferDock from "@/components/OfferDock"
+import OfferToast from "@/components/OfferToast"
 import "./globals.css"
 
 const outfit = Outfit({
@@ -21,11 +24,15 @@ export default function RootLayout({
   children,
 }: Readonly<{ children: React.ReactNode }>) {
   return (
-    <html lang="en" className={outfit.variable}>
+    <html lang="en" className={outfit.variable} data-scroll-behavior="smooth">
       <body className="flex flex-col min-h-screen">
-        <NavBar />
-        <main className="flex-1">{children}</main>
-        <Footer />
+        <OfferProvider>
+          <NavBar />
+          <main className="flex-1">{children}</main>
+          <Footer />
+          <OfferDock />
+          <OfferToast />
+        </OfferProvider>
       </body>
     </html>
   )

@@ -10,9 +10,9 @@ interface SocialLink {
 const socials: SocialLink[] = [
   {
     href: "#",
-    label: "LinkedIn",
+    label: "Facebook",
     path:
-      "M4.98 3.5C4.98 4.88 3.87 6 2.5 6S0 4.88 0 3.5 1.12 1 2.5 1s2.48 1.12 2.48 2.5zM.22 8h4.56v14H.22V8zm7.46 0h4.37v1.92h.06c.61-1.15 2.1-2.36 4.32-2.36 4.62 0 5.47 3.04 5.47 6.99V22h-4.56v-6.17c0-1.47-.03-3.36-2.05-3.36-2.05 0-2.36 1.6-2.36 3.25V22H7.68V8z",
+      "M22 12.07C22 6.51 17.52 2 12 2S2 6.51 2 12.07c0 5.02 3.66 9.18 8.44 9.93v-7.02H7.9v-2.91h2.54V9.85c0-2.52 1.49-3.91 3.78-3.91 1.1 0 2.24.2 2.24.2v2.47h-1.26c-1.24 0-1.63.77-1.63 1.56v1.87h2.78l-.45 2.91h-2.33V22c4.78-.75 8.43-4.91 8.43-9.93z",
   },
   {
     href: "#",
@@ -22,9 +22,15 @@ const socials: SocialLink[] = [
   },
   {
     href: "#",
-    label: "Facebook",
+    label: "LinkedIn",
     path:
-      "M22 12.07C22 6.51 17.52 2 12 2S2 6.51 2 12.07c0 5.02 3.66 9.18 8.44 9.93v-7.02H7.9v-2.91h2.54V9.85c0-2.52 1.49-3.91 3.78-3.91 1.1 0 2.24.2 2.24.2v2.47h-1.26c-1.24 0-1.63.77-1.63 1.56v1.87h2.78l-.45 2.91h-2.33V22c4.78-.75 8.43-4.91 8.43-9.93z",
+      "M4.98 3.5C4.98 4.88 3.87 6 2.5 6S0 4.88 0 3.5 1.12 1 2.5 1s2.48 1.12 2.48 2.5zM.22 8h4.56v14H.22V8zm7.46 0h4.37v1.92h.06c.61-1.15 2.1-2.36 4.32-2.36 4.62 0 5.47 3.04 5.47 6.99V22h-4.56v-6.17c0-1.47-.03-3.36-2.05-3.36-2.05 0-2.36 1.6-2.36 3.25V22H7.68V8z",
+  },
+  {
+    href: "#",
+    label: "Behance",
+    path:
+      "M7.799 5.698c.589 0 1.12.051 1.606.156.482.102.894.273 1.241.507.344.235.612.546.804.938.188.387.281.871.281 1.443 0 .619-.141 1.137-.421 1.551-.284.413-.7.751-1.255 1.014.756.218 1.317.601 1.689 1.146.371.546.557 1.205.557 1.975 0 .622-.12 1.16-.359 1.612a3.087 3.087 0 0 1-.991 1.119 4.439 4.439 0 0 1-1.444.622c-.546.135-1.121.205-1.703.205H1V5.698h6.799zm-.401 4.978c.484 0 .881-.115 1.192-.345.311-.23.466-.605.466-1.127 0-.291-.052-.529-.158-.713a1.146 1.146 0 0 0-.422-.451 1.769 1.769 0 0 0-.605-.234c-.226-.044-.464-.066-.71-.066H4v2.936h3.398zm.187 5.225c.265 0 .518-.027.758-.078a1.86 1.86 0 0 0 .637-.255 1.34 1.34 0 0 0 .438-.488c.107-.207.158-.477.158-.81 0-.65-.184-1.115-.546-1.395-.366-.279-.852-.42-1.453-.42H4v3.446h3.585zM17.062 16.512c.42.402.972.602 1.654.602.498 0 .926-.124 1.286-.371.358-.246.581-.504.661-.776h2.34c-.385 1.139-.969 1.957-1.756 2.448-.785.493-1.74.737-2.857.737-.778 0-1.479-.123-2.105-.371a4.453 4.453 0 0 1-1.585-1.058 4.696 4.696 0 0 1-1.005-1.624c-.234-.624-.354-1.314-.354-2.062 0-.732.121-1.408.358-2.034.241-.622.585-1.165 1.034-1.626a4.83 4.83 0 0 1 1.601-1.077c.624-.262 1.314-.392 2.072-.392.842 0 1.582.158 2.211.475a4.553 4.553 0 0 1 1.561 1.286c.413.529.708 1.137.886 1.811.176.673.226 1.385.146 2.118h-7.119c0 .785.272 1.523.692 1.918v-.004zm2.851-5.243c-.337-.348-.886-.539-1.516-.539-.41 0-.752.069-1.026.205a2.114 2.114 0 0 0-.661.502 1.83 1.83 0 0 0-.349.628c-.063.215-.103.41-.115.583h4.397c-.062-.703-.273-1.215-.612-1.55l-.118-.029zM15.34 6.246h5.447v1.346H15.34V6.246z",
   },
 ]
 
@@ -66,15 +72,23 @@ export default function Footer() {
 
         <div>
           <h3 className="text-sm font-semibold uppercase tracking-widest text-[var(--text-muted)]">
-            Company
+            Site
           </h3>
           <ul className="flex flex-col gap-2 mt-4">
             <li>
               <Link
-                href="/about"
+                href="/catalog"
                 className="text-sm text-[var(--text-soft)] hover:text-[var(--brand-black)] transition-colors"
               >
-                About
+                Catalog
+              </Link>
+            </li>
+            <li>
+              <Link
+                href="/offer"
+                className="text-sm text-[var(--text-soft)] hover:text-[var(--brand-black)] transition-colors"
+              >
+                My offer
               </Link>
             </li>
             <li>
@@ -83,6 +97,14 @@ export default function Footer() {
                 className="text-sm text-[var(--text-soft)] hover:text-[var(--brand-black)] transition-colors"
               >
                 Portfolio
+              </Link>
+            </li>
+            <li>
+              <Link
+                href="/about"
+                className="text-sm text-[var(--text-soft)] hover:text-[var(--brand-black)] transition-colors"
+              >
+                About
               </Link>
             </li>
             <li>
@@ -132,6 +154,12 @@ export default function Footer() {
         <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3 mx-auto px-6 lg:px-12 py-5 max-w-6xl text-xs text-[var(--text-muted)]">
           <p>© {year} TGV-Media. All rights reserved.</p>
           <div className="flex items-center gap-5">
+            <Link
+              href="/sitemap"
+              className="hover:text-[var(--brand-black)] transition-colors"
+            >
+              Sitemap
+            </Link>
             <Link
               href="/privacy"
               className="hover:text-[var(--brand-black)] transition-colors"

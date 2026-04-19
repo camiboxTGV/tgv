@@ -192,14 +192,14 @@ function ServicesPreview() {
           What we produce
         </p>
         <h2 className="text-3xl sm:text-4xl lg:text-5xl font-[family-name:var(--font-outfit)] font-semibold text-[var(--brand-black)]">
-          Six service categories, one production house.
+          Four services, one production house.
         </h2>
         <p className="text-base lg:text-lg text-[var(--text-soft)] leading-relaxed">
-          Every decoration technique you need, coordinated across formats and
-          quantities.
+          Personalizare, finishing, custom production and digital print —
+          coordinated across formats and quantities.
         </p>
       </div>
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-10">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-10">
         {services.map((service) => (
           <ServiceCard key={service.slug} service={service} />
         ))}

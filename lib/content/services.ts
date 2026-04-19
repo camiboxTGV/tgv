@@ -1,75 +1,114 @@
+export interface ServiceTechnique {
+  slug: string
+  title: string
+  description: string
+}
+
 export interface Service {
   slug: string
   title: string
   summary: string
-  bullets: string[]
+  lead: string
+  useCases: string[]
+  accent: string
+  techniques?: ServiceTechnique[]
 }
 
 export const services: Service[] = [
   {
-    slug: "apparel",
-    title: "Branded Apparel & Merch",
+    slug: "personalizare-obiecte-promotionale",
+    title: "Personalizare obiecte promoționale",
     summary:
-      "Decorated apparel for teams, campaigns and uniform programs — produced consistently across runs.",
-    bullets: [
-      "T-shirts, hoodies & polos",
-      "Caps, beanies & headwear",
-      "Workwear & uniform programs",
+      "Decoration on demand for promotional products — laser, UV print and transfer applied to drinkware, tech, gifting and more.",
+    lead:
+      "Four decoration methods, one workflow. Send us the object and the artwork — we match the technique to the substrate and produce a sample before the run.",
+    useCases: [
+      "Conference giveaways with on-brand finishing",
+      "Corporate gifting in low and mid volume",
+      "Internal recognition awards and milestone gifts",
+      "Retail product personalization runs",
+      "Trade-show swag with consistent decoration across formats",
+    ],
+    accent: "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    techniques: [
+      {
+        slug: "co2",
+        title: "Gravură CO2",
+        description:
+          "Engraving on wood, leather, acrylic and coated surfaces. Clean, permanent and tactile.",
+      },
+      {
+        slug: "fiber-laser",
+        title: "Gravură fiber laser — metale",
+        description:
+          "High-contrast marking on metals — stainless steel, aluminium, anodized finishes and brass.",
+      },
+      {
+        slug: "uv-print",
+        title: "Print UV",
+        description:
+          "Full-colour UV-cured print directly on rigid substrates — pens, hardware and flat objects.",
+      },
+      {
+        slug: "uv-transfer",
+        title: "Transfer UV",
+        description:
+          "UV-printed transfers applied to curved or irregular surfaces where direct print can't reach.",
+      },
     ],
   },
   {
-    slug: "print",
-    title: "Print Collateral",
+    slug: "timbru-sec-si-folio",
+    title: "Timbru sec și folio",
     summary:
-      "Stationery, sales tools and event collateral printed with calibrated colour and proper finishing.",
-    bullets: [
-      "Business cards & stationery",
-      "Brochures, flyers & catalogues",
-      "Folders & presentation packs",
+      "Embossing, debossing and hot-foil finishing for premium print and packaging.",
+    lead:
+      "Tactile finishing that signals quality before anyone reads a word. We pair foil and emboss tooling with our own print to keep registration tight.",
+    useCases: [
+      "Business card embossing and gold-foil monograms",
+      "Hot-foil branded folders and presentation packs",
+      "Luxury packaging with deboss + foil combinations",
+      "Wedding and event stationery",
+      "Premium invitations and direct-mail pieces",
     ],
+    accent: "linear-gradient(135deg, #0F0F10 0%, #4D4D4D 100%)",
   },
   {
-    slug: "signage",
-    title: "Large-Format & Signage",
+    slug: "productie-custom",
+    title: "Producție custom",
     summary:
-      "Banners, displays and environmental graphics built to read clearly at any distance and last on site.",
-    bullets: [
-      "Roll-up & pull-up banners",
-      "Trade show & event displays",
-      "Window graphics & wayfinding",
+      "Bespoke fabrication — when the catalog item doesn't exist, we build it from substrate up.",
+    lead:
+      "Display props, custom-shaped packaging, point-of-sale pieces, awards from raw stock. We engineer the build, source the materials and finish in-house.",
+    useCases: [
+      "Brand-shaped retail displays and POS",
+      "Custom packaging in non-standard formats",
+      "Event activations with bespoke signage and props",
+      "Limited-edition awards and trophies",
+      "Prototypes and small-batch product runs",
     ],
+    accent: "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
   },
   {
-    slug: "promo",
-    title: "Promotional Products",
+    slug: "tipar-digital",
+    title: "Tipar digital",
     summary:
-      "Tactile, useful giveaway products decorated to keep your brand in daily rotation.",
-    bullets: [
-      "Drinkware & desk accessories",
-      "Tech & travel giveaways",
-      "Event swag & gift sets",
+      "Short-run, full-colour digital print for stationery, marketing collateral and packaging proofs.",
+    lead:
+      "Calibrated colour and crisp text on paper, card and synthetic stocks. Ideal for variable data, fast turnarounds and small editions.",
+    useCases: [
+      "Business cards and stationery",
+      "Brochures, flyers and event programmes",
+      "Catalogues and brand books",
+      "Packaging proofs and short-run editions",
+      "Direct mail with variable data",
     ],
-  },
-  {
-    slug: "packaging",
-    title: "Packaging & Labels",
-    summary:
-      "Retail-ready packaging, labels and presentation pieces that protect product and carry the brand.",
-    bullets: [
-      "Custom printed boxes",
-      "Product labels & stickers",
-      "Sleeves & presentation packaging",
-    ],
-  },
-  {
-    slug: "design-to-production",
-    title: "Design to Production",
-    summary:
-      "Artwork preparation, proofing and production handled in one workflow — no handoffs between vendors.",
-    bullets: [
-      "Artwork preparation & vectorising",
-      "Print proofing & colour matching",
-      "Production, finishing & dispatch",
-    ],
+    accent: "linear-gradient(135deg, #FF6600 0%, #4D4D4D 60%, #0F0F10 100%)",
   },
 ]
+
+export const serviceSlugs: string[] = services.map((s) => s.slug)
+
+export function getServiceBySlug(slug: string): Service | undefined {
+  return services.find((s) => s.slug === slug)
+}

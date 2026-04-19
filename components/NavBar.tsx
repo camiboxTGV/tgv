@@ -3,6 +3,7 @@
 import { useEffect, useState } from "react"
 import Link from "next/link"
 import { usePathname } from "next/navigation"
+import { useOffer } from "@/components/OfferProvider"
 
 interface NavLink {
   href: string
@@ -11,13 +12,14 @@ interface NavLink {
 
 const links: NavLink[] = [
   { href: "/services", label: "Services" },
-  { href: "/techniques", label: "Techniques" },
+  { href: "/catalog", label: "Catalog" },
   { href: "/portfolio", label: "Portfolio" },
   { href: "/about", label: "About" },
 ]
 
 export default function NavBar() {
   const pathname = usePathname()
+  const { count, hydrated } = useOffer()
   const [scrolled, setScrolled] = useState(false)
   const [open, setOpen] = useState(false)
 
@@ -73,12 +75,23 @@ export default function NavBar() {
           ))}
         </nav>
 
-        <Link
-          href="/contact"
-          className="hidden md:inline-flex items-center px-5 py-2.5 text-sm font-semibold text-white bg-[var(--primary)] hover:bg-[var(--primary-hover)] rounded-full transition-colors"
-        >
-          Start a project
-        </Link>
+        <div className="hidden md:flex items-center gap-3">
+          {hydrated && count > 0 && (
+            <Link
+              href="/offer"
+              aria-label={`${count} item${count === 1 ? "" : "s"} in your offer`}
+              className="inline-flex items-center justify-center w-8 h-8 text-xs font-semibold text-[var(--brand-orange)] bg-[var(--surface)] border border-[var(--brand-orange)] rounded-full hover:bg-[var(--brand-orange)] hover:text-white transition-colors"
+            >
+              {count}
+            </Link>
+          )}
+          <Link
+            href="/contact"
+            className="inline-flex items-center px-5 py-2.5 text-sm font-semibold text-white bg-[var(--primary)] hover:bg-[var(--primary-hover)] rounded-full transition-colors"
+          >
+            Start a project
+          </Link>
+        </div>
 
         <button
           type="button"
@@ -154,10 +167,22 @@ export default function NavBar() {
             ))}
           </nav>
 
+          {hydrated && count > 0 && (
+            <Link
+              href="/offer"
+              onClick={() => setOpen(false)}
+              className="inline-flex items-center justify-center gap-2 mt-auto mb-3 px-6 py-3 text-sm font-semibold text-[var(--brand-orange)] bg-[var(--surface)] border border-[var(--brand-orange)] rounded-full"
+            >
+              <span>Build my offer ({count})</span>
+              <span aria-hidden="true">→</span>
+            </Link>
+          )}
           <Link
             href="/contact"
             onClick={() => setOpen(false)}
-            className="inline-flex items-center justify-center mt-auto px-6 py-3.5 text-base font-semibold text-white bg-[var(--primary)] hover:bg-[var(--primary-hover)] rounded-full transition-colors"
+            className={`inline-flex items-center justify-center px-6 py-3.5 text-base font-semibold text-white bg-[var(--primary)] hover:bg-[var(--primary-hover)] rounded-full transition-colors ${
+              hydrated && count > 0 ? "" : "mt-auto"
+            }`}
           >
             Start a project
           </Link>
