@@ -1,0 +1,33 @@
+[
+  {
+    "contentKey": "6dc411dce54a2f52",
+    "stock": 1082,
+    "stockLevel": "in-stock",
+    "price": 6.41,
+    "color": {
+      "name": "Pink",
+      "hex": "#ff34b3"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "c28f893b769ff7a5",
+    "stock": 898,
+    "stockLevel": "in-stock",
+    "price": 6.41,
+    "color": {
+      "name": "Violet",
+      "hex": "#a020f0"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6
+    ]
+  }
+]

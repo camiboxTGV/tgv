@@ -1,0 +1,71 @@
+[
+  {
+    "contentKey": "0794d2481d5e31cd",
+    "stock": 38,
+    "stockLevel": "in-stock",
+    "price": 3.22,
+    "color": {
+      "name": "Blue",
+      "hex": "#5b8eb5"
+    },
+    "size": "S",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "324a92b56e17680d",
+    "stock": 26,
+    "stockLevel": "in-stock",
+    "price": 3.22,
+    "color": {
+      "name": "Pink",
+      "hex": "#e9c0d4"
+    },
+    "size": "XL",
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "46601574b3c083c0",
+    "stock": 16,
+    "stockLevel": "in-stock",
+    "price": 3.22,
+    "color": {
+      "name": "Pink",
+      "hex": "#e9c0d4"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "affec22607266182",
+    "stock": 48,
+    "stockLevel": "in-stock",
+    "price": 3.22,
+    "color": {
+      "name": "Pink",
+      "hex": "#e9c0d4"
+    },
+    "size": "S",
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "ebc11e26d7828705",
+    "stock": 3,
+    "stockLevel": "low",
+    "price": 3.22,
+    "color": {
+      "name": "Grey",
+      "hex": "#b0b0b0"
+    },
+    "size": "S",
+    "imageRefs": [
+      1
+    ]
+  }
+]

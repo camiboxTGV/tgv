@@ -1,0 +1,51 @@
+[
+  {
+    "contentKey": "02836ecdb3471f26",
+    "stock": 8031,
+    "stockLevel": "in-stock",
+    "price": 1.89,
+    "color": {
+      "name": "Blue",
+      "hex": "#104e8b"
+    },
+    "imageRefs": [
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "contentKey": "77bac9e7989ede8a",
+    "stock": 2501,
+    "stockLevel": "in-stock",
+    "price": 1.89,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "c2ff5c3d233875c7",
+    "stock": 3772,
+    "stockLevel": "in-stock",
+    "price": 1.89,
+    "color": {
+      "name": "Red",
+      "hex": "#cc0000"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  }
+]

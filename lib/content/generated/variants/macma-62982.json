@@ -1,0 +1,31 @@
+[
+  {
+    "contentKey": "1f18c8ebb9b15d9b",
+    "stock": 1,
+    "stockLevel": "low",
+    "price": 0.92,
+    "color": {
+      "name": "Beige",
+      "hex": "#ffe4c4"
+    },
+    "imageRefs": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "contentKey": "c7270d9b99b07ba6",
+    "stock": 13963,
+    "stockLevel": "in-stock",
+    "price": 0.92,
+    "color": {
+      "name": "Dark Grey",
+      "hex": "#646464"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  }
+]

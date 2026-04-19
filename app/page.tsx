@@ -195,7 +195,7 @@ function ServicesPreview() {
           Four services, one production house.
         </h2>
         <p className="text-base lg:text-lg text-[var(--text-soft)] leading-relaxed">
-          Personalizare, finishing, custom production and digital print —
+          Personalization, finishing, custom production and digital print —
           coordinated across formats and quantities.
         </p>
       </div>

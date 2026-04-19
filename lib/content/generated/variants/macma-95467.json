@@ -1,0 +1,50 @@
+[
+  {
+    "contentKey": "18dba7c8332d9b0e",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 1.05,
+    "color": {
+      "name": "Blue",
+      "hex": "#104e8b"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "43eac29cb966db00",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 1.05,
+    "color": {
+      "name": "Dark Grey",
+      "hex": "#646464"
+    },
+    "imageRefs": [
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "a4fee6b28a6a4987",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 1.05,
+    "color": {
+      "name": "Red",
+      "hex": "#cc0000"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+]

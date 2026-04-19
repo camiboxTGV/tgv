@@ -1,0 +1,86 @@
+[
+  {
+    "contentKey": "3e285cac886daa89",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 3.54,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "size": "ONE SIZE",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "84a5d497efb471fc",
+    "stock": 88,
+    "stockLevel": "in-stock",
+    "price": 3.54,
+    "color": {
+      "name": "Biscuit",
+      "hex": "#9c7d5a"
+    },
+    "size": "ONE SIZE",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "c13d5508e85cfffd",
+    "stock": 228,
+    "stockLevel": "in-stock",
+    "price": 3.54,
+    "color": {
+      "name": "Granite",
+      "hex": "#a19688"
+    },
+    "size": "ONE SIZE",
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "c1a55a5adcd3bbf5",
+    "stock": 71,
+    "stockLevel": "in-stock",
+    "price": 3.54,
+    "color": {
+      "name": "Violet",
+      "hex": "#8381ba"
+    },
+    "size": "ONE SIZE",
+    "imageRefs": [
+      5
+    ]
+  },
+  {
+    "contentKey": "c30ce53deea20c0d",
+    "stock": 192,
+    "stockLevel": "in-stock",
+    "price": 3.54,
+    "color": {
+      "name": "Peach",
+      "hex": "#ebc1a9"
+    },
+    "size": "ONE SIZE",
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "edb0beab741ec936",
+    "stock": 144,
+    "stockLevel": "in-stock",
+    "price": 3.54,
+    "color": {
+      "name": "Vanilla",
+      "hex": "#e1d4bd"
+    },
+    "size": "ONE SIZE",
+    "imageRefs": [
+      4
+    ]
+  }
+]

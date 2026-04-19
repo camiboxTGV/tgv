@@ -1,0 +1,37 @@
+[
+  {
+    "contentKey": "2573a545e5530207",
+    "stock": 160566,
+    "stockLevel": "in-stock",
+    "price": 0.21,
+    "color": {
+      "name": "Light Blue",
+      "hex": "#bfefff"
+    },
+    "imageRefs": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "contentKey": "402829e418d0c0cf",
+    "stock": 40787,
+    "stockLevel": "in-stock",
+    "price": 0.21,
+    "color": {
+      "name": "Transparent",
+      "hex": "#ececec"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  }
+]

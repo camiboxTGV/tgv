@@ -1,0 +1,35 @@
+[
+  {
+    "contentKey": "a922eca67564df8d",
+    "stock": 18,
+    "stockLevel": "in-stock",
+    "price": 29.16,
+    "color": {
+      "name": "Red",
+      "hex": "#cc0000"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "fb12c62719cddb98",
+    "stock": 30,
+    "stockLevel": "in-stock",
+    "price": 29.16,
+    "color": {
+      "name": "Green",
+      "hex": "#00cc00"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  }
+]

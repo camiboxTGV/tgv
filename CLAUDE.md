@@ -17,15 +17,27 @@ We serve marketing teams, event planners, agencies, and SMBs who need branded me
 
 ## Site Scope
 
-This is a **showcase + lead-gen site**, not a storefront or quoting tool.
+This is a **lead-gen catalog site**, not a storefront.
 
-- No e-commerce, cart, or checkout
+- No cart, checkout, payment, or order management
 - No user accounts, login, or registration
-- No real-time price calculator
 - No authenticated areas
-- Lead capture happens through a single **contact form**
+- Catalog pages **display indicative prices (ex. VAT) and stock levels** sourced from supplier APIs; customers browse, add to an offer, and send the brief
+- Final quotes and order handling happen off-site; the contact form remains the single conversion point
 
-If a feature requires auth, backend state, or transactional flow, it does not belong in this project.
+If a feature requires auth, transactional flow, or payment processing, it does not belong in this project.
+
+### Catalog data pipeline
+
+Product data comes from supplier APIs (Macma today, 4–5 more to follow) via a daily sync:
+
+- Each supplier is an isolated adapter under `suppliers/<id>/` implementing the `SupplierAdapter` contract in `suppliers/_shared/adapter.ts`
+- `npm run sync:catalog` runs the orchestrator, which fetches + normalizes + applies markup + writes deterministic JSON to `lib/content/generated/products/<category-path>.json`
+- Site reads the generated JSON at build time — rendering remains fully static
+- Images are downloaded, resized to WebP, written to `public/catalog/<supplier>/<sku>/NN.webp`, and tracked via git-lfs
+- Markup rule: `supplier_price < €2 → ×1.5`, `>= €2 → ×1.3` (hardcoded in `suppliers/_shared/pricing.ts`, single source of truth — adapters must never leak display prices)
+- Category taxonomy (3-level tree) is hand-maintained in `lib/content/categories.ts`; each supplier's adapter has a `mapping.ts` translating supplier categories to TGV leaf slug paths
+- Unmapped supplier categories land in `lib/content/generated/unclassified.json` for human review (surfaced in the sync-report)
 
 ---
 

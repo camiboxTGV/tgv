@@ -9,6 +9,7 @@ import {
   useState,
 } from "react"
 import {
+  lineKey,
   type OfferItem,
   readOffer,
   writeOffer,
@@ -18,6 +19,10 @@ export interface AddToOfferInput {
   slug: string
   name: string
   category: string
+  variantKey?: string
+  colorName?: string
+  sizeLabel?: string
+  priceSnapshot?: number
 }
 
 interface OfferContextValue {
@@ -26,9 +31,10 @@ interface OfferContextValue {
   totalQuantity: number
   hydrated: boolean
   has: (slug: string) => boolean
+  hasLine: (key: string) => boolean
   add: (input: AddToOfferInput) => void
-  remove: (slug: string) => void
-  setQuantity: (slug: string, quantity: number) => void
+  remove: (key: string) => void
+  setLineQuantity: (key: string, quantity: number) => void
   clear: () => void
 }
 
@@ -66,9 +72,9 @@ function clampQuantity(n: number): number {
 
 export default function OfferProvider({
   children,
-}: {
+}: Readonly<{
   children: React.ReactNode
-}) {
+}>) {
   const [items, setItems] = useState<OfferItem[]>([])
   const [hydrated, setHydrated] = useState(false)
 
@@ -86,13 +92,31 @@ export default function OfferProvider({
     [items],
   )
 
+  const hasLine = useCallback(
+    (key: string) => items.some((i) => lineKey(i) === key),
+    [items],
+  )
+
   const add = useCallback((input: AddToOfferInput) => {
+    const newKey = input.variantKey ?? input.slug
     let added = false
     let nextCount = 0
     setItems((prev) => {
-      if (prev.some((i) => i.slug === input.slug)) return prev
+      if (prev.some((i) => lineKey(i) === newKey)) return prev
       added = true
-      const next = [...prev, { ...input, quantity: 1 }]
+      const next: OfferItem[] = [
+        ...prev,
+        {
+          slug: input.slug,
+          name: input.name,
+          category: input.category,
+          quantity: 1,
+          variantKey: input.variantKey,
+          colorName: input.colorName,
+          sizeLabel: input.sizeLabel,
+          priceSnapshot: input.priceSnapshot,
+        },
+      ]
       nextCount = next.length
       return next
     })
@@ -103,14 +127,14 @@ export default function OfferProvider({
     }
   }, [])
 
-  const remove = useCallback((slug: string) => {
-    setItems((prev) => prev.filter((i) => i.slug !== slug))
+  const remove = useCallback((key: string) => {
+    setItems((prev) => prev.filter((i) => lineKey(i) !== key))
   }, [])
 
-  const setQuantity = useCallback((slug: string, quantity: number) => {
+  const setLineQuantity = useCallback((key: string, quantity: number) => {
     setItems((prev) =>
       prev.map((i) =>
-        i.slug === slug ? { ...i, quantity: clampQuantity(quantity) } : i,
+        lineKey(i) === key ? { ...i, quantity: clampQuantity(quantity) } : i,
       ),
     )
   }, [])
@@ -124,12 +148,13 @@ export default function OfferProvider({
       totalQuantity: items.reduce((sum, i) => sum + i.quantity, 0),
       hydrated,
       has,
+      hasLine,
       add,
       remove,
-      setQuantity,
+      setLineQuantity,
       clear,
     }),
-    [items, hydrated, has, add, remove, setQuantity, clear],
+    [items, hydrated, has, hasLine, add, remove, setLineQuantity, clear],
   )
 
   return (

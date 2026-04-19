@@ -1,0 +1,44 @@
+[
+  {
+    "contentKey": "0c819873520ab821",
+    "stock": 4,
+    "stockLevel": "low",
+    "price": 8.13,
+    "color": {
+      "name": "Lotto Red",
+      "hex": "#891627"
+    },
+    "size": "One Size",
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "c321a9d76f084051",
+    "stock": 1002,
+    "stockLevel": "in-stock",
+    "price": 8.13,
+    "color": {
+      "name": "Black",
+      "hex": "#343331"
+    },
+    "size": "One Size",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "fa83e19fc4b787f0",
+    "stock": 92,
+    "stockLevel": "in-stock",
+    "price": 8.13,
+    "color": {
+      "name": "Sky Blue",
+      "hex": "#9cb4d6"
+    },
+    "size": "One Size",
+    "imageRefs": [
+      0
+    ]
+  }
+]

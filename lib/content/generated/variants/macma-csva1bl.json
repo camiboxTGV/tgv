@@ -1,0 +1,44 @@
+[
+  {
+    "contentKey": "46e021f5c31a9f94",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 10.56,
+    "color": {
+      "name": "Black",
+      "hex": "#343331"
+    },
+    "size": "40",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "5bf54b00ea919b55",
+    "stock": 538,
+    "stockLevel": "in-stock",
+    "price": 12.18,
+    "color": {
+      "name": "Sky Blue",
+      "hex": "#9cb4d6"
+    },
+    "size": "48",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "e013a4345e9598ec",
+    "stock": 1002,
+    "stockLevel": "in-stock",
+    "price": 10.56,
+    "color": {
+      "name": "Sky Blue",
+      "hex": "#9cb4d6"
+    },
+    "size": "38",
+    "imageRefs": [
+      0
+    ]
+  }
+]

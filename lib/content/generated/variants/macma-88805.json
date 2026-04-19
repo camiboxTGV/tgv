@@ -1,0 +1,32 @@
+[
+  {
+    "contentKey": "8e8bf74ff4003c9e",
+    "stock": 183,
+    "stockLevel": "in-stock",
+    "price": 1,
+    "color": {
+      "name": "White",
+      "hex": "#ffffff"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "b9079dd0908497b9",
+    "stock": 30,
+    "stockLevel": "in-stock",
+    "price": 1,
+    "color": {
+      "name": "Blue",
+      "hex": "#104e8b"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  }
+]

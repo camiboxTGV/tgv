@@ -1,0 +1,35 @@
+[
+  {
+    "contentKey": "00d25f1d58265562",
+    "stock": 2979,
+    "stockLevel": "in-stock",
+    "price": 10.93,
+    "color": {
+      "name": "Dark Grey",
+      "hex": "#646464"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "06ec758e8c567c3f",
+    "stock": 2603,
+    "stockLevel": "in-stock",
+    "price": 10.93,
+    "color": {
+      "name": "Transparent",
+      "hex": "#ececec"
+    },
+    "size": "270",
+    "imageRefs": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+]

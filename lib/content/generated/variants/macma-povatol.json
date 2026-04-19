@@ -1,0 +1,58 @@
+[
+  {
+    "contentKey": "02c5b01305b8a7c9",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 8.93,
+    "color": {
+      "name": "Orion Navy Blue",
+      "hex": "#12315a"
+    },
+    "size": "S",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "1b903d6769d2f197",
+    "stock": 1009,
+    "stockLevel": "in-stock",
+    "price": 8.93,
+    "color": {
+      "name": "Black",
+      "hex": "#343331"
+    },
+    "size": "L",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "cfe57f8517e20d48",
+    "stock": 1004,
+    "stockLevel": "in-stock",
+    "price": 8.93,
+    "color": {
+      "name": "Black",
+      "hex": "#343331"
+    },
+    "size": "XL",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "f7181263dc16ee08",
+    "stock": 1009,
+    "stockLevel": "in-stock",
+    "price": 8.93,
+    "color": {
+      "name": "Black",
+      "hex": "#343331"
+    },
+    "size": "M",
+    "imageRefs": [
+      1
+    ]
+  }
+]

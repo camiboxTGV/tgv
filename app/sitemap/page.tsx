@@ -1,6 +1,6 @@
 import type { Metadata } from "next"
 import Link from "next/link"
-import { categories } from "@/lib/content/catalog"
+import { getTopCategories } from "@/lib/content/catalog"
 import { services } from "@/lib/content/services"
 
 export const metadata: Metadata = {
@@ -50,7 +50,7 @@ export default function SitemapPage() {
       intro: "Browse personalizable products by category, then add to your offer.",
       links: [
         { href: "/catalog", label: "Catalog overview", description: "All categories with product counts." },
-        ...categories.map((c) => ({
+        ...getTopCategories().map((c) => ({
           href: `/catalog/${c.slug}`,
           label: c.name,
           description: c.description,

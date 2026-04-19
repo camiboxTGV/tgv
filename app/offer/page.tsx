@@ -3,11 +3,11 @@
 import Link from "next/link"
 import { useRouter } from "next/navigation"
 import { useOffer } from "@/components/OfferProvider"
-import { categories, getCategoryBySlug } from "@/lib/content/catalog"
-import { serializeForUrl } from "@/lib/offer/storage"
+import { getCategoryBySlugPath, getTopCategories } from "@/lib/content/catalog"
+import { lineKey, serializeForUrl } from "@/lib/offer/storage"
 
 export default function OfferPage() {
-  const { items, count, totalQuantity, hydrated, remove, setQuantity, clear } =
+  const { items, count, totalQuantity, hydrated, remove, setLineQuantity, clear } =
     useOffer()
   const router = useRouter()
 
@@ -43,10 +43,14 @@ export default function OfferPage() {
         <section className="mx-auto px-6 lg:px-8 pb-24 max-w-4xl">
           <ul className="flex flex-col gap-3">
             {items.map((item) => {
-              const category = getCategoryBySlug(item.category)
+              const category = getCategoryBySlugPath(item.category)
+              const key = lineKey(item)
+              const variantLabel = [item.colorName, item.sizeLabel]
+                .filter(Boolean)
+                .join(" · ")
               return (
                 <li
-                  key={item.slug}
+                  key={key}
                   className="flex flex-col sm:flex-row sm:items-center gap-4 p-5 bg-[var(--surface)] border border-[var(--border)] rounded-2xl"
                 >
                   <div className="flex-1 min-w-0">
@@ -55,16 +59,24 @@ export default function OfferPage() {
                     </h3>
                     <p className="mt-0.5 text-xs text-[var(--text-muted)]">
                       {category?.name ?? item.category}
+                      {variantLabel ? (
+                        <>
+                          {" · "}
+                          <span className="text-[var(--text-soft)] font-medium">
+                            {variantLabel}
+                          </span>
+                        </>
+                      ) : null}
                     </p>
                   </div>
                   <div className="flex items-center gap-3">
                     <QtyControl
                       value={item.quantity}
-                      onChange={(n) => setQuantity(item.slug, n)}
+                      onChange={(n) => setLineQuantity(key, n)}
                     />
                     <button
                       type="button"
-                      onClick={() => remove(item.slug)}
+                      onClick={() => remove(key)}
                       aria-label={`Remove ${item.name}`}
                       className="inline-flex items-center justify-center w-9 h-9 text-[var(--text-muted)] hover:text-[var(--brand-orange)] bg-[var(--surface-soft)] hover:bg-[var(--surface)] border border-[var(--border-soft)] rounded-full transition-colors"
                     >
@@ -157,7 +169,7 @@ function EmptyState() {
           </p>
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 w-full">
-          {categories.slice(0, 4).map((c) => (
+          {getTopCategories().slice(0, 4).map((c) => (
             <Link
               key={c.slug}
               href={`/catalog/${c.slug}`}

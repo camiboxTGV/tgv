@@ -1,0 +1,779 @@
+[
+  {
+    "contentKey": "125129f7840958ec",
+    "stock": 162,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "size": "M",
+    "imageRefs": [
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "2b29ab242ab08169",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Navy",
+      "hex": "#12315b"
+    },
+    "size": "XS",
+    "imageRefs": [
+      8
+    ]
+  },
+  {
+    "contentKey": "2c2993686106b8fa",
+    "stock": 137,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Fluorescent Green",
+      "hex": "#85be4c"
+    },
+    "imageRefs": [
+      6
+    ]
+  },
+  {
+    "contentKey": "2c9cc9808e7e82a7",
+    "stock": 174,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "White",
+      "hex": "#ffffff"
+    },
+    "imageRefs": [
+      12,
+      13
+    ]
+  },
+  {
+    "contentKey": "2de6d617bfbc4d28",
+    "stock": 22,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "White",
+      "hex": "#ffffff"
+    },
+    "size": "XS",
+    "imageRefs": [
+      12,
+      13
+    ]
+  },
+  {
+    "contentKey": "3d7c01d2ee0fc531",
+    "stock": 62,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Red",
+      "hex": "#d01c28"
+    },
+    "size": "S",
+    "imageRefs": [
+      9,
+      10
+    ]
+  },
+  {
+    "contentKey": "4586c047921b313e",
+    "stock": 174,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Red",
+      "hex": "#d01c28"
+    },
+    "size": "L",
+    "imageRefs": [
+      9,
+      10
+    ]
+  },
+  {
+    "contentKey": "4e126e70652a0160",
+    "stock": 192,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "size": "XL",
+    "imageRefs": [
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "56617c72868d0e71",
+    "stock": 264,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "White",
+      "hex": "#ffffff"
+    },
+    "size": "L",
+    "imageRefs": [
+      12,
+      13
+    ]
+  },
+  {
+    "contentKey": "587aece9e9706d6a",
+    "stock": 118,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Fluorescent Green",
+      "hex": "#85be4c"
+    },
+    "size": "L",
+    "imageRefs": [
+      6
+    ]
+  },
+  {
+    "contentKey": "59809bdd25cc9cde",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Atoll",
+      "hex": "#3e99bc"
+    },
+    "size": "XS",
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "5ada5821a3a7ad6e",
+    "stock": 64,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Dark Royal",
+      "hex": "#353361"
+    },
+    "size": "S",
+    "imageRefs": [
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "5c32503583c924f1",
+    "stock": 177,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Fluorescent Yellow",
+      "hex": "#f2e734"
+    },
+    "size": "M",
+    "imageRefs": [
+      7
+    ]
+  },
+  {
+    "contentKey": "5db5b385e677fce9",
+    "stock": 206,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Fluorescent Green",
+      "hex": "#85be4c"
+    },
+    "size": "XL",
+    "imageRefs": [
+      6
+    ]
+  },
+  {
+    "contentKey": "5f9eeb5109ac7b56",
+    "stock": 188,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Sport Grey",
+      "hex": "#a4a4a4"
+    },
+    "size": "XL",
+    "imageRefs": [
+      11
+    ]
+  },
+  {
+    "contentKey": "63166cd686bd5e89",
+    "stock": 13,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "size": "XS",
+    "imageRefs": [
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "6b3e634a2b0ebc9c",
+    "stock": 257,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "White",
+      "hex": "#ffffff"
+    },
+    "size": "XL",
+    "imageRefs": [
+      12,
+      13
+    ]
+  },
+  {
+    "contentKey": "6cb1b02d2de99a7d",
+    "stock": 124,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Navy",
+      "hex": "#12315b"
+    },
+    "size": "S",
+    "imageRefs": [
+      8
+    ]
+  },
+  {
+    "contentKey": "72e9479b22c50155",
+    "stock": 103,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Dark Royal",
+      "hex": "#353361"
+    },
+    "size": "M",
+    "imageRefs": [
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "73c6acf41978ba21",
+    "stock": 190,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Atoll",
+      "hex": "#3e99bc"
+    },
+    "size": "L",
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "7dfe3bd0196c571f",
+    "stock": 60,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Red",
+      "hex": "#d01c28"
+    },
+    "imageRefs": [
+      9,
+      10
+    ]
+  },
+  {
+    "contentKey": "7fce10dab3f69634",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Fluorescent Green",
+      "hex": "#85be4c"
+    },
+    "size": "XS",
+    "imageRefs": [
+      6
+    ]
+  },
+  {
+    "contentKey": "84a5fe56e5467eff",
+    "stock": 96,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Navy",
+      "hex": "#12315b"
+    },
+    "imageRefs": [
+      8
+    ]
+  },
+  {
+    "contentKey": "8a35229f09c38775",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Fluorescent Yellow",
+      "hex": "#f2e734"
+    },
+    "size": "XS",
+    "imageRefs": [
+      7
+    ]
+  },
+  {
+    "contentKey": "91ca71c00e29b143",
+    "stock": 164,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "White",
+      "hex": "#ffffff"
+    },
+    "size": "S",
+    "imageRefs": [
+      12,
+      13
+    ]
+  },
+  {
+    "contentKey": "96d61950d917e734",
+    "stock": 88,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Fluorescent Green",
+      "hex": "#85be4c"
+    },
+    "size": "S",
+    "imageRefs": [
+      6
+    ]
+  },
+  {
+    "contentKey": "9cbf68fe37365320",
+    "stock": 114,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Sport Grey",
+      "hex": "#a4a4a4"
+    },
+    "size": "M",
+    "imageRefs": [
+      11
+    ]
+  },
+  {
+    "contentKey": "9e8af9dab5fdb108",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Sport Grey",
+      "hex": "#a4a4a4"
+    },
+    "size": "XS",
+    "imageRefs": [
+      11
+    ]
+  },
+  {
+    "contentKey": "a2051b7e3964eb18",
+    "stock": 57,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Dark Royal",
+      "hex": "#353361"
+    },
+    "imageRefs": [
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "aa6b6837070d7ecf",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Red",
+      "hex": "#d01c28"
+    },
+    "size": "XS",
+    "imageRefs": [
+      9,
+      10
+    ]
+  },
+  {
+    "contentKey": "aa9e6d03bde791f9",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Dark Royal",
+      "hex": "#353361"
+    },
+    "size": "XS",
+    "imageRefs": [
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "af46044bedb44588",
+    "stock": 58,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Atoll",
+      "hex": "#3e99bc"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "b412f66a6efdd851",
+    "stock": 180,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Fluorescent Yellow",
+      "hex": "#f2e734"
+    },
+    "size": "XL",
+    "imageRefs": [
+      7
+    ]
+  },
+  {
+    "contentKey": "b53f9818accebd17",
+    "stock": 239,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Fluorescent Yellow",
+      "hex": "#f2e734"
+    },
+    "size": "L",
+    "imageRefs": [
+      7
+    ]
+  },
+  {
+    "contentKey": "b79f64a91ae5193c",
+    "stock": 110,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Navy",
+      "hex": "#12315b"
+    },
+    "size": "M",
+    "imageRefs": [
+      8
+    ]
+  },
+  {
+    "contentKey": "bd16098003d7aa69",
+    "stock": 137,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Red",
+      "hex": "#d01c28"
+    },
+    "size": "M",
+    "imageRefs": [
+      9,
+      10
+    ]
+  },
+  {
+    "contentKey": "c08a505683d464d7",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Fluorescent Green",
+      "hex": "#85be4c"
+    },
+    "size": "M",
+    "imageRefs": [
+      6
+    ]
+  },
+  {
+    "contentKey": "cf1f435d45c35c49",
+    "stock": 118,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Atoll",
+      "hex": "#3e99bc"
+    },
+    "size": "XL",
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "d2248e1daf781a5a",
+    "stock": 162,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Sport Grey",
+      "hex": "#a4a4a4"
+    },
+    "size": "L",
+    "imageRefs": [
+      11
+    ]
+  },
+  {
+    "contentKey": "d3fe8ce0321fb066",
+    "stock": 136,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Fluorescent Yellow",
+      "hex": "#f2e734"
+    },
+    "imageRefs": [
+      7
+    ]
+  },
+  {
+    "contentKey": "d7b4d8d4a3b17599",
+    "stock": 180,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "d8027bb73a5e0889",
+    "stock": 256,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "White",
+      "hex": "#ffffff"
+    },
+    "size": "M",
+    "imageRefs": [
+      12,
+      13
+    ]
+  },
+  {
+    "contentKey": "d840cb0e0f5ac57f",
+    "stock": 132,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Red",
+      "hex": "#d01c28"
+    },
+    "size": "XL",
+    "imageRefs": [
+      9,
+      10
+    ]
+  },
+  {
+    "contentKey": "da311238fa7e7172",
+    "stock": 122,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Sport Grey",
+      "hex": "#a4a4a4"
+    },
+    "imageRefs": [
+      11
+    ]
+  },
+  {
+    "contentKey": "db69ae5aa3308162",
+    "stock": 123,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Navy",
+      "hex": "#12315b"
+    },
+    "size": "XL",
+    "imageRefs": [
+      8
+    ]
+  },
+  {
+    "contentKey": "ddb7ac397043c0ca",
+    "stock": 154,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "size": "L",
+    "imageRefs": [
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "ddfe4386700007de",
+    "stock": 107,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Atoll",
+      "hex": "#3e99bc"
+    },
+    "size": "M",
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "e474623c0f923fc5",
+    "stock": 112,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Atoll",
+      "hex": "#3e99bc"
+    },
+    "size": "S",
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "ea54af27e5bac1a0",
+    "stock": 58,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Sport Grey",
+      "hex": "#a4a4a4"
+    },
+    "size": "S",
+    "imageRefs": [
+      11
+    ]
+  },
+  {
+    "contentKey": "f04a60607a8efd5c",
+    "stock": 43,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "size": "S",
+    "imageRefs": [
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "f4d8913076ad0aa3",
+    "stock": 85,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Dark Royal",
+      "hex": "#353361"
+    },
+    "size": "XL",
+    "imageRefs": [
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "f7b4104d586b9aec",
+    "stock": 151,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Navy",
+      "hex": "#12315b"
+    },
+    "size": "L",
+    "imageRefs": [
+      8
+    ]
+  },
+  {
+    "contentKey": "f7f04293208e5859",
+    "stock": 124,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Fluorescent Yellow",
+      "hex": "#f2e734"
+    },
+    "size": "S",
+    "imageRefs": [
+      7
+    ]
+  },
+  {
+    "contentKey": "fd3b8ad7752d5ff1",
+    "stock": 128,
+    "stockLevel": "in-stock",
+    "price": 2.85,
+    "color": {
+      "name": "Dark Royal",
+      "hex": "#353361"
+    },
+    "size": "L",
+    "imageRefs": [
+      4,
+      5
+    ]
+  }
+]

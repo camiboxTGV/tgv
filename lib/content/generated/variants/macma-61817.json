@@ -1,0 +1,47 @@
+[
+  {
+    "contentKey": "1bd6c83d8cb8d783",
+    "stock": 34518,
+    "stockLevel": "in-stock",
+    "price": 0.47,
+    "color": {
+      "name": "Green",
+      "hex": "#00cc00"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "43382eee2b92f3a7",
+    "stock": 27753,
+    "stockLevel": "in-stock",
+    "price": 0.47,
+    "color": {
+      "name": "Bordeaux",
+      "hex": "#880000"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "9b10e3937c0e36e0",
+    "stock": 25556,
+    "stockLevel": "in-stock",
+    "price": 0.47,
+    "color": {
+      "name": "Brown",
+      "hex": "#8b4513"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  }
+]

@@ -17,7 +17,7 @@ export interface Service {
 export const services: Service[] = [
   {
     slug: "personalizare-obiecte-promotionale",
-    title: "Personalizare obiecte promoționale",
+    title: "Promotional object personalization",
     summary:
       "Decoration on demand for promotional products — laser, UV print and transfer applied to drinkware, tech, gifting and more.",
     lead:
@@ -33,13 +33,13 @@ export const services: Service[] = [
     techniques: [
       {
         slug: "co2",
-        title: "Gravură CO2",
+        title: "CO2 engraving",
         description:
           "Engraving on wood, leather, acrylic and coated surfaces. Clean, permanent and tactile.",
       },
       {
         slug: "fiber-laser",
-        title: "Gravură fiber laser — metale",
+        title: "Fiber laser engraving — metals",
         description:
           "High-contrast marking on metals — stainless steel, aluminium, anodized finishes and brass.",
       },
@@ -59,7 +59,7 @@ export const services: Service[] = [
   },
   {
     slug: "timbru-sec-si-folio",
-    title: "Timbru sec și folio",
+    title: "Embossing & foil stamping",
     summary:
       "Embossing, debossing and hot-foil finishing for premium print and packaging.",
     lead:
@@ -75,7 +75,7 @@ export const services: Service[] = [
   },
   {
     slug: "productie-custom",
-    title: "Producție custom",
+    title: "Custom production",
     summary:
       "Bespoke fabrication — when the catalog item doesn't exist, we build it from substrate up.",
     lead:
@@ -91,7 +91,7 @@ export const services: Service[] = [
   },
   {
     slug: "tipar-digital",
-    title: "Tipar digital",
+    title: "Digital print",
     summary:
       "Short-run, full-colour digital print for stationery, marketing collateral and packaging proofs.",
     lead:

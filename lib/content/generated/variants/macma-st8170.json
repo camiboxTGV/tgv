@@ -1,0 +1,912 @@
+[
+  {
+    "contentKey": "01d428d4d8cc527a",
+    "stock": 504,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Bright Royal",
+      "hex": "#004080"
+    },
+    "size": "11-12",
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "0b24b5ba7a0b0d1d",
+    "stock": 816,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Hawaii Blue",
+      "hex": "#007d9f"
+    },
+    "size": "9-10",
+    "imageRefs": [
+      6
+    ]
+  },
+  {
+    "contentKey": "0c3780ac7773bd90",
+    "stock": 816,
+    "stockLevel": "in-stock",
+    "price": 3.81,
+    "color": {
+      "name": "White",
+      "hex": "#ffffff"
+    },
+    "size": "11-12",
+    "imageRefs": [
+      12
+    ]
+  },
+  {
+    "contentKey": "0cb3cc86f77b95c8",
+    "stock": 888,
+    "stockLevel": "in-stock",
+    "price": 3.81,
+    "color": {
+      "name": "White",
+      "hex": "#ffffff"
+    },
+    "size": "9-10",
+    "imageRefs": [
+      12
+    ]
+  },
+  {
+    "contentKey": "159e26b237754efc",
+    "stock": 456,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Cyber Yellow",
+      "hex": "#dbe129"
+    },
+    "size": "12-13",
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "1cb2baffe1afc249",
+    "stock": 696,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Cyber Orange",
+      "hex": "#f99e49"
+    },
+    "size": "7-8",
+    "imageRefs": [
+      4
+    ]
+  },
+  {
+    "contentKey": "1cb74f5f94737f68",
+    "stock": 168,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Kiwi Green",
+      "hex": "#3cba5c"
+    },
+    "size": "11-12",
+    "imageRefs": [
+      8
+    ]
+  },
+  {
+    "contentKey": "1d0e7380696bef2d",
+    "stock": 1896,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Black Opal",
+      "hex": "#040020"
+    },
+    "size": "11-12",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "1e9f879d0784555f",
+    "stock": 192,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Kiwi Green",
+      "hex": "#3cba5c"
+    },
+    "size": "9-10",
+    "imageRefs": [
+      8
+    ]
+  },
+  {
+    "contentKey": "217d1a98a6ed0e50",
+    "stock": 1080,
+    "stockLevel": "in-stock",
+    "price": 3.81,
+    "color": {
+      "name": "White",
+      "hex": "#ffffff"
+    },
+    "size": "12-13",
+    "imageRefs": [
+      12
+    ]
+  },
+  {
+    "contentKey": "23b48b565c3c0c57",
+    "stock": 504,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Scarlet Red",
+      "hex": "#d01c28"
+    },
+    "size": "12-13",
+    "imageRefs": [
+      11
+    ]
+  },
+  {
+    "contentKey": "24332a80a5a8d377",
+    "stock": 48,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Kiwi Green",
+      "hex": "#3cba5c"
+    },
+    "size": "12-13",
+    "imageRefs": [
+      8
+    ]
+  },
+  {
+    "contentKey": "255bf09f6b4e1d3e",
+    "stock": 384,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Kelly Green",
+      "hex": "#008f4f"
+    },
+    "size": "12-13",
+    "imageRefs": [
+      7
+    ]
+  },
+  {
+    "contentKey": "258b864edc600754",
+    "stock": 864,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Crimson Red",
+      "hex": "#c72334"
+    },
+    "size": "9-10",
+    "imageRefs": [
+      5
+    ]
+  },
+  {
+    "contentKey": "2c66c1c9e1a04362",
+    "stock": 1176,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Black Opal",
+      "hex": "#040020"
+    },
+    "size": "12-13",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "2ce0345f41b67b06",
+    "stock": 528,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Cyber Yellow",
+      "hex": "#dbe129"
+    },
+    "size": "7-8",
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "308e659fde0372f1",
+    "stock": 240,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Blue Midnight",
+      "hex": "#181e35"
+    },
+    "size": "12-13",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "30ef5dd47f7078b9",
+    "stock": 144,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Black Opal",
+      "hex": "#040020"
+    },
+    "size": "5-6",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "325042c883919e52",
+    "stock": 288,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Kelly Green",
+      "hex": "#008f4f"
+    },
+    "size": "9-10",
+    "imageRefs": [
+      7
+    ]
+  },
+  {
+    "contentKey": "3d59010e221b44f0",
+    "stock": 456,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Navy Blue",
+      "hex": "#001d43"
+    },
+    "size": "7-8",
+    "imageRefs": [
+      9
+    ]
+  },
+  {
+    "contentKey": "45ffcf63738488d3",
+    "stock": 216,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Cyber Yellow",
+      "hex": "#dbe129"
+    },
+    "size": "9-10",
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "50ef9a6527a1c075",
+    "stock": 1056,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Sweet Pink",
+      "hex": "#ea1d76"
+    },
+    "size": "9-10",
+    "imageRefs": [
+      10
+    ]
+  },
+  {
+    "contentKey": "556cf8ba5d75dd18",
+    "stock": 552,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Scarlet Red",
+      "hex": "#d01c28"
+    },
+    "size": "11-12",
+    "imageRefs": [
+      11
+    ]
+  },
+  {
+    "contentKey": "59b8a0a2cee08e23",
+    "stock": 312,
+    "stockLevel": "in-stock",
+    "price": 3.81,
+    "color": {
+      "name": "White",
+      "hex": "#ffffff"
+    },
+    "size": "5-6",
+    "imageRefs": [
+      12
+    ]
+  },
+  {
+    "contentKey": "62a663475ec7105a",
+    "stock": 288,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Bright Royal",
+      "hex": "#004080"
+    },
+    "size": "5-6",
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "6aff6326d5d00f7c",
+    "stock": 1056,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Cyber Orange",
+      "hex": "#f99e49"
+    },
+    "size": "11-12",
+    "imageRefs": [
+      4
+    ]
+  },
+  {
+    "contentKey": "6d6d268787708ba1",
+    "stock": 432,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Kiwi Green",
+      "hex": "#3cba5c"
+    },
+    "size": "5-6",
+    "imageRefs": [
+      8
+    ]
+  },
+  {
+    "contentKey": "6f31b23358f361b6",
+    "stock": 432,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Navy Blue",
+      "hex": "#001d43"
+    },
+    "size": "12-13",
+    "imageRefs": [
+      9
+    ]
+  },
+  {
+    "contentKey": "6fc311b7308e4c70",
+    "stock": 600,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Cyber Orange",
+      "hex": "#f99e49"
+    },
+    "size": "12-13",
+    "imageRefs": [
+      4
+    ]
+  },
+  {
+    "contentKey": "70155908ec071116",
+    "stock": 504,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Navy Blue",
+      "hex": "#001d43"
+    },
+    "size": "9-10",
+    "imageRefs": [
+      9
+    ]
+  },
+  {
+    "contentKey": "77ae6330656fdc92",
+    "stock": 432,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Crimson Red",
+      "hex": "#c72334"
+    },
+    "size": "11-12",
+    "imageRefs": [
+      5
+    ]
+  },
+  {
+    "contentKey": "7ca28acd4bfdd08a",
+    "stock": 264,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Cyber Yellow",
+      "hex": "#dbe129"
+    },
+    "size": "11-12",
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "89328c38ca8ef5e8",
+    "stock": 1416,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Black Opal",
+      "hex": "#040020"
+    },
+    "size": "9-10",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "8b938a690db3e62f",
+    "stock": 576,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Blue Midnight",
+      "hex": "#181e35"
+    },
+    "size": "9-10",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "8d4231bb2dcf421f",
+    "stock": 1032,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Sweet Pink",
+      "hex": "#ea1d76"
+    },
+    "size": "7-8",
+    "imageRefs": [
+      10
+    ]
+  },
+  {
+    "contentKey": "8d48cc8441d3b854",
+    "stock": 1008,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Cyber Orange",
+      "hex": "#f99e49"
+    },
+    "size": "9-10",
+    "imageRefs": [
+      4
+    ]
+  },
+  {
+    "contentKey": "8de081c40f9d86d8",
+    "stock": 1104,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Sweet Pink",
+      "hex": "#ea1d76"
+    },
+    "size": "11-12",
+    "imageRefs": [
+      10
+    ]
+  },
+  {
+    "contentKey": "9b4299b7f935355f",
+    "stock": 360,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Blue Midnight",
+      "hex": "#181e35"
+    },
+    "size": "11-12",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "a4d54b81d5a4d60b",
+    "stock": 144,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Cyber Orange",
+      "hex": "#f99e49"
+    },
+    "size": "5-6",
+    "imageRefs": [
+      4
+    ]
+  },
+  {
+    "contentKey": "a5cf8211b28a0d80",
+    "stock": 1128,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Black Opal",
+      "hex": "#040020"
+    },
+    "size": "7-8",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "aee12bb13e2e8fd6",
+    "stock": 1176,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Sweet Pink",
+      "hex": "#ea1d76"
+    },
+    "size": "12-13",
+    "imageRefs": [
+      10
+    ]
+  },
+  {
+    "contentKey": "af8f43cd1e9daf4e",
+    "stock": 384,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Bright Royal",
+      "hex": "#004080"
+    },
+    "size": "7-8",
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "afaf6c279f786a54",
+    "stock": 264,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Navy Blue",
+      "hex": "#001d43"
+    },
+    "size": "5-6",
+    "imageRefs": [
+      9
+    ]
+  },
+  {
+    "contentKey": "b1183522745d8b1f",
+    "stock": 528,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Scarlet Red",
+      "hex": "#d01c28"
+    },
+    "size": "9-10",
+    "imageRefs": [
+      11
+    ]
+  },
+  {
+    "contentKey": "b618f23179fd7bc5",
+    "stock": 168,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Crimson Red",
+      "hex": "#c72334"
+    },
+    "size": "5-6",
+    "imageRefs": [
+      5
+    ]
+  },
+  {
+    "contentKey": "b978c05aca224342",
+    "stock": 312,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Kelly Green",
+      "hex": "#008f4f"
+    },
+    "size": "7-8",
+    "imageRefs": [
+      7
+    ]
+  },
+  {
+    "contentKey": "b9bd7e30d287eaa3",
+    "stock": 240,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Scarlet Red",
+      "hex": "#d01c28"
+    },
+    "size": "5-6",
+    "imageRefs": [
+      11
+    ]
+  },
+  {
+    "contentKey": "bb8ca7e614e2e121",
+    "stock": 816,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Crimson Red",
+      "hex": "#c72334"
+    },
+    "size": "7-8",
+    "imageRefs": [
+      5
+    ]
+  },
+  {
+    "contentKey": "be5a0e278d582b60",
+    "stock": 168,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Cyber Yellow",
+      "hex": "#dbe129"
+    },
+    "size": "5-6",
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "c017ada39f69c824",
+    "stock": 456,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Bright Royal",
+      "hex": "#004080"
+    },
+    "size": "12-13",
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "c7d9bd499789411b",
+    "stock": 552,
+    "stockLevel": "in-stock",
+    "price": 3.81,
+    "color": {
+      "name": "White",
+      "hex": "#ffffff"
+    },
+    "size": "7-8",
+    "imageRefs": [
+      12
+    ]
+  },
+  {
+    "contentKey": "ccb2f74363b5e9eb",
+    "stock": 456,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Kiwi Green",
+      "hex": "#3cba5c"
+    },
+    "size": "7-8",
+    "imageRefs": [
+      8
+    ]
+  },
+  {
+    "contentKey": "d16214c5042df03b",
+    "stock": 432,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Scarlet Red",
+      "hex": "#d01c28"
+    },
+    "size": "7-8",
+    "imageRefs": [
+      11
+    ]
+  },
+  {
+    "contentKey": "d2fc4c9cedd8e336",
+    "stock": 672,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Crimson Red",
+      "hex": "#c72334"
+    },
+    "size": "12-13",
+    "imageRefs": [
+      5
+    ]
+  },
+  {
+    "contentKey": "d676cdb5ace760b4",
+    "stock": 24,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Hawaii Blue",
+      "hex": "#007d9f"
+    },
+    "size": "5-6",
+    "imageRefs": [
+      6
+    ]
+  },
+  {
+    "contentKey": "d7fbf732b2e321e4",
+    "stock": 480,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Bright Royal",
+      "hex": "#004080"
+    },
+    "size": "9-10",
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "daf00e903d4e1bfd",
+    "stock": 408,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Blue Midnight",
+      "hex": "#181e35"
+    },
+    "size": "7-8",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "df6839a2f3df4d92",
+    "stock": 168,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Blue Midnight",
+      "hex": "#181e35"
+    },
+    "size": "5-6",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "e2a7c5a5be80ed2d",
+    "stock": 504,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Navy Blue",
+      "hex": "#001d43"
+    },
+    "size": "11-12",
+    "imageRefs": [
+      9
+    ]
+  },
+  {
+    "contentKey": "e5c29b286b086665",
+    "stock": 816,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Hawaii Blue",
+      "hex": "#007d9f"
+    },
+    "size": "11-12",
+    "imageRefs": [
+      6
+    ]
+  },
+  {
+    "contentKey": "e93f7164df01c91e",
+    "stock": 504,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Hawaii Blue",
+      "hex": "#007d9f"
+    },
+    "size": "7-8",
+    "imageRefs": [
+      6
+    ]
+  },
+  {
+    "contentKey": "eaa7050d2d022e25",
+    "stock": 552,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Hawaii Blue",
+      "hex": "#007d9f"
+    },
+    "size": "12-13",
+    "imageRefs": [
+      6
+    ]
+  },
+  {
+    "contentKey": "ee1d706edcfd00bb",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Sweet Pink",
+      "hex": "#ea1d76"
+    },
+    "size": "5-6",
+    "imageRefs": [
+      10
+    ]
+  },
+  {
+    "contentKey": "f623659011e2c6fc",
+    "stock": 432,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Kelly Green",
+      "hex": "#008f4f"
+    },
+    "size": "11-12",
+    "imageRefs": [
+      7
+    ]
+  },
+  {
+    "contentKey": "f93a84462a083064",
+    "stock": 240,
+    "stockLevel": "in-stock",
+    "price": 4.25,
+    "color": {
+      "name": "Kelly Green",
+      "hex": "#008f4f"
+    },
+    "size": "5-6",
+    "imageRefs": [
+      7
+    ]
+  }
+]

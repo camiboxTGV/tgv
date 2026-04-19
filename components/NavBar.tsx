@@ -56,7 +56,7 @@ export default function NavBar() {
           href="/"
           className="text-xl font-[family-name:var(--font-outfit)] font-bold tracking-tight text-[var(--brand-black)]"
         >
-          TGV<span className="text-[var(--brand-orange)]">-</span>Media
+          TGV<span className="text-[var(--brand-orange)]">•</span>Media
         </Link>
 
         <nav className="hidden md:flex items-center gap-8">

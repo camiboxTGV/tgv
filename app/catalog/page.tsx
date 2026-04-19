@@ -4,14 +4,14 @@ import CategoryCard from "@/components/CategoryCard"
 import {
   PERSONALIZATION_LABELS,
   type Personalization,
-  categories,
-  getProductsByCategory,
+  getTopCategories,
 } from "@/lib/content/catalog"
+import { countProductsUnder } from "@/lib/content/catalog.server"
 
 export const metadata: Metadata = {
   title: "Catalog — TGV-Media",
   description:
-    "Browse personalizable products by category. Add what you like to your offer and we'll come back with a quote.",
+    "Browse personalizable products by category. Prices shown are indicative and exclude VAT; final quotes via the contact form.",
 }
 
 const PERSONALIZATIONS: Personalization[] = [
@@ -22,6 +22,8 @@ const PERSONALIZATIONS: Personalization[] = [
 ]
 
 export default function CatalogPage() {
+  const topCategories = getTopCategories()
+
   return (
     <>
       <section className="mx-auto px-6 lg:px-8 pt-20 pb-12 lg:pt-28 lg:pb-16 max-w-6xl">
@@ -33,18 +35,20 @@ export default function CatalogPage() {
           <span className="text-[var(--brand-orange)]">products</span>.
         </h1>
         <p className="mt-6 max-w-2xl text-lg text-[var(--text-soft)] leading-relaxed">
-          This is a reference catalog — not a webshop. Add products to your
-          offer and we'll come back with a quote, sample plan and timeline.
+          Prices shown are indicative and exclude VAT. Add products to your
+          offer and we'll come back with a final quote, sample plan and
+          timeline.
         </p>
       </section>
 
       <section className="mx-auto px-6 lg:px-8 pb-12 max-w-6xl">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {categories.map((category) => (
+          {topCategories.map((category) => (
             <CategoryCard
               key={category.slug}
               category={category}
-              productCount={getProductsByCategory(category.slug).length}
+              href={`/catalog/${category.slug}`}
+              productCount={countProductsUnder(category)}
             />
           ))}
         </div>
@@ -122,7 +126,7 @@ export default function CatalogPage() {
             href="/services/personalizare-obiecte-promotionale"
             className="inline-flex items-center gap-2 text-sm font-medium text-[var(--brand-orange)] hover:gap-3 transition-all"
           >
-            <span>Learn more about personalizare obiecte promoționale</span>
+            <span>Learn more about promotional object personalization</span>
             <span aria-hidden="true">→</span>
           </Link>
         </div>

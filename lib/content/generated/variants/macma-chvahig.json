@@ -1,0 +1,986 @@
+[
+  {
+    "contentKey": "02024c479b1a9333",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Orange-Orion Navy Blue",
+      "hex": "#c96958"
+    },
+    "imageRefs": [
+      11
+    ]
+  },
+  {
+    "contentKey": "02024c479b1a9333",
+    "stock": 302,
+    "stockLevel": "in-stock",
+    "price": 21.5,
+    "color": {
+      "name": "Neon Orange-Orion Navy Blue",
+      "hex": "#c96958"
+    },
+    "imageRefs": [
+      11
+    ]
+  },
+  {
+    "contentKey": "0291c65411b1ce02",
+    "stock": 364,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow-Mahogany Garnet",
+      "hex": "#e1dc18"
+    },
+    "imageRefs": [
+      8
+    ]
+  },
+  {
+    "contentKey": "0291c65411b1ce02",
+    "stock": 77,
+    "stockLevel": "in-stock",
+    "price": 21.5,
+    "color": {
+      "name": "Neon Yellow-Mahogany Garnet",
+      "hex": "#e1dc18"
+    },
+    "imageRefs": [
+      8
+    ]
+  },
+  {
+    "contentKey": "03deec36be6cc282",
+    "stock": 150,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow-Lotto Red",
+      "hex": "#e0dc18"
+    },
+    "size": "S",
+    "imageRefs": [
+      7
+    ]
+  },
+  {
+    "contentKey": "03e8bc3bdbe83944",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow-Bottle Green",
+      "hex": "#d9dc18"
+    },
+    "size": "L",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "10a9a10bd133a0ff",
+    "stock": 397,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow-Black",
+      "hex": "#dddc18"
+    },
+    "size": "S",
+    "imageRefs": [
+      5
+    ]
+  },
+  {
+    "contentKey": "13747424c082bcf5",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow-Mahogany Garnet",
+      "hex": "#e1dc18"
+    },
+    "size": "M",
+    "imageRefs": [
+      8
+    ]
+  },
+  {
+    "contentKey": "14b10dd3e92fa9d1",
+    "stock": 292,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow",
+      "hex": "#dedc18"
+    },
+    "size": "S",
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "22044f8e9abf6c7a",
+    "stock": 220,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow-Apple Green",
+      "hex": "#dbdc18"
+    },
+    "size": "M",
+    "imageRefs": [
+      6
+    ]
+  },
+  {
+    "contentKey": "228ccf429dc8c4bb",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow-Orion Navy Blue",
+      "hex": "#e2dc18"
+    },
+    "imageRefs": [
+      4
+    ]
+  },
+  {
+    "contentKey": "228ccf429dc8c4bb",
+    "stock": 845,
+    "stockLevel": "in-stock",
+    "price": 21.5,
+    "color": {
+      "name": "Neon Yellow-Orion Navy Blue",
+      "hex": "#e2dc18"
+    },
+    "imageRefs": [
+      4
+    ]
+  },
+  {
+    "contentKey": "277bc25eb24e2de0",
+    "stock": 633,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow-Black",
+      "hex": "#dddc18"
+    },
+    "size": "M",
+    "imageRefs": [
+      5
+    ]
+  },
+  {
+    "contentKey": "29950534849d369e",
+    "stock": 259,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow-Mahogany Garnet",
+      "hex": "#e1dc18"
+    },
+    "size": "L",
+    "imageRefs": [
+      8
+    ]
+  },
+  {
+    "contentKey": "2bcb2ca9b6b42322",
+    "stock": 387,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow-Bluish Blue",
+      "hex": "#dadc18"
+    },
+    "size": "L",
+    "imageRefs": [
+      9
+    ]
+  },
+  {
+    "contentKey": "2cfda81f0c8651b9",
+    "stock": 398,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow-Bluish Blue",
+      "hex": "#dadc18"
+    },
+    "size": "M",
+    "imageRefs": [
+      9
+    ]
+  },
+  {
+    "contentKey": "2d70d222915ce036",
+    "stock": 256,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow-Amazon Green",
+      "hex": "#dcdc18"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "2d70d222915ce036",
+    "stock": 152,
+    "stockLevel": "in-stock",
+    "price": 21.5,
+    "color": {
+      "name": "Neon Yellow-Amazon Green",
+      "hex": "#dcdc18"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "2ed14c9465925289",
+    "stock": 460,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow-Bluish Blue",
+      "hex": "#dadc18"
+    },
+    "imageRefs": [
+      9
+    ]
+  },
+  {
+    "contentKey": "2ed14c9465925289",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 21.5,
+    "color": {
+      "name": "Neon Yellow-Bluish Blue",
+      "hex": "#dadc18"
+    },
+    "imageRefs": [
+      9
+    ]
+  },
+  {
+    "contentKey": "33310d2828610e5c",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow-Orion Navy Blue",
+      "hex": "#e2dc18"
+    },
+    "size": "L",
+    "imageRefs": [
+      4
+    ]
+  },
+  {
+    "contentKey": "38e26a864f4bb8b1",
+    "stock": 872,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow-Charcoal Grey",
+      "hex": "#dfdc18"
+    },
+    "size": "XL",
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "3be9e9c44dfdb76e",
+    "stock": 556,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow",
+      "hex": "#dedc18"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "3be9e9c44dfdb76e",
+    "stock": 222,
+    "stockLevel": "in-stock",
+    "price": 21.5,
+    "color": {
+      "name": "Neon Yellow",
+      "hex": "#dedc18"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "3c5fd93cdc5dc01b",
+    "stock": 788,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow-Lotto Red",
+      "hex": "#e0dc18"
+    },
+    "size": "XL",
+    "imageRefs": [
+      7
+    ]
+  },
+  {
+    "contentKey": "4332005827ab7b00",
+    "stock": 666,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow-Charcoal Grey",
+      "hex": "#dfdc18"
+    },
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "4332005827ab7b00",
+    "stock": 124,
+    "stockLevel": "in-stock",
+    "price": 21.5,
+    "color": {
+      "name": "Neon Yellow-Charcoal Grey",
+      "hex": "#dfdc18"
+    },
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "497e756d29881977",
+    "stock": 126,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow-Apple Green",
+      "hex": "#dbdc18"
+    },
+    "size": "S",
+    "imageRefs": [
+      6
+    ]
+  },
+  {
+    "contentKey": "5abc7ccf2c1e7708",
+    "stock": 614,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow-Black",
+      "hex": "#dddc18"
+    },
+    "size": "L",
+    "imageRefs": [
+      5
+    ]
+  },
+  {
+    "contentKey": "5b67413e54739bc1",
+    "stock": 796,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Orange",
+      "hex": "#ca6958"
+    },
+    "size": "M",
+    "imageRefs": [
+      10
+    ]
+  },
+  {
+    "contentKey": "5c6b3e2da5856120",
+    "stock": 815,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow-Bluish Blue",
+      "hex": "#dadc18"
+    },
+    "size": "XL",
+    "imageRefs": [
+      9
+    ]
+  },
+  {
+    "contentKey": "65abd0175df992c2",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Orange-Orion Navy Blue",
+      "hex": "#c96958"
+    },
+    "size": "L",
+    "imageRefs": [
+      11
+    ]
+  },
+  {
+    "contentKey": "68b3cac75533e438",
+    "stock": 494,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Orange",
+      "hex": "#ca6958"
+    },
+    "imageRefs": [
+      10
+    ]
+  },
+  {
+    "contentKey": "68b3cac75533e438",
+    "stock": 307,
+    "stockLevel": "in-stock",
+    "price": 21.5,
+    "color": {
+      "name": "Neon Orange",
+      "hex": "#ca6958"
+    },
+    "imageRefs": [
+      10
+    ]
+  },
+  {
+    "contentKey": "696c092393573aca",
+    "stock": 951,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow-Bottle Green",
+      "hex": "#d9dc18"
+    },
+    "size": "M",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "696e2e58c1e84e35",
+    "stock": 151,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow",
+      "hex": "#dedc18"
+    },
+    "size": "M",
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "721c3430bc381290",
+    "stock": 643,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow-Orion Navy Blue",
+      "hex": "#e2dc18"
+    },
+    "size": "S",
+    "imageRefs": [
+      4
+    ]
+  },
+  {
+    "contentKey": "73439d6d24d18dcf",
+    "stock": 392,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Orange",
+      "hex": "#ca6958"
+    },
+    "size": "S",
+    "imageRefs": [
+      10
+    ]
+  },
+  {
+    "contentKey": "74b50a67aa578a5f",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow",
+      "hex": "#dedc18"
+    },
+    "size": "XL",
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "76b5860a0687556a",
+    "stock": 509,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow-Bottle Green",
+      "hex": "#d9dc18"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "76b5860a0687556a",
+    "stock": 123,
+    "stockLevel": "in-stock",
+    "price": 21.5,
+    "color": {
+      "name": "Neon Yellow-Bottle Green",
+      "hex": "#d9dc18"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "7c30e80bbfebac7a",
+    "stock": 690,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow-Apple Green",
+      "hex": "#dbdc18"
+    },
+    "size": "XL",
+    "imageRefs": [
+      6
+    ]
+  },
+  {
+    "contentKey": "7e7c69804054b2cf",
+    "stock": 886,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow-Charcoal Grey",
+      "hex": "#dfdc18"
+    },
+    "size": "M",
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "7f0f469344f9c53b",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow-Orion Navy Blue",
+      "hex": "#e2dc18"
+    },
+    "size": "M",
+    "imageRefs": [
+      4
+    ]
+  },
+  {
+    "contentKey": "839880d5b17d455b",
+    "stock": 955,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow",
+      "hex": "#dedc18"
+    },
+    "size": "L",
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "8a17c5ddb422fc6e",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow-Amazon Green",
+      "hex": "#dcdc18"
+    },
+    "size": "L",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "8a868707ec7f57d5",
+    "stock": 375,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow-Lotto Red",
+      "hex": "#e0dc18"
+    },
+    "imageRefs": [
+      7
+    ]
+  },
+  {
+    "contentKey": "8a868707ec7f57d5",
+    "stock": 189,
+    "stockLevel": "in-stock",
+    "price": 21.5,
+    "color": {
+      "name": "Neon Yellow-Lotto Red",
+      "hex": "#e0dc18"
+    },
+    "imageRefs": [
+      7
+    ]
+  },
+  {
+    "contentKey": "8e0d58d07389e7ad",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Orange",
+      "hex": "#ca6958"
+    },
+    "size": "L",
+    "imageRefs": [
+      10
+    ]
+  },
+  {
+    "contentKey": "902aaea182fc4c30",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow-Orion Navy Blue",
+      "hex": "#e2dc18"
+    },
+    "size": "XL",
+    "imageRefs": [
+      4
+    ]
+  },
+  {
+    "contentKey": "9875173541b15bd3",
+    "stock": 577,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow-Apple Green",
+      "hex": "#dbdc18"
+    },
+    "size": "L",
+    "imageRefs": [
+      6
+    ]
+  },
+  {
+    "contentKey": "a33c8f094317372d",
+    "stock": 937,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow-Black",
+      "hex": "#dddc18"
+    },
+    "size": "XL",
+    "imageRefs": [
+      5
+    ]
+  },
+  {
+    "contentKey": "a7ab22d861ed6763",
+    "stock": 260,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow-Lotto Red",
+      "hex": "#e0dc18"
+    },
+    "size": "M",
+    "imageRefs": [
+      7
+    ]
+  },
+  {
+    "contentKey": "ba5d3161af645e14",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Orange",
+      "hex": "#ca6958"
+    },
+    "size": "XL",
+    "imageRefs": [
+      10
+    ]
+  },
+  {
+    "contentKey": "bd823600b2c56677",
+    "stock": 664,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow-Amazon Green",
+      "hex": "#dcdc18"
+    },
+    "size": "XL",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "c06ad22596a5f8cf",
+    "stock": 769,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow-Charcoal Grey",
+      "hex": "#dfdc18"
+    },
+    "size": "L",
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "c3f5bd595a8e529e",
+    "stock": 481,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow-Mahogany Garnet",
+      "hex": "#e1dc18"
+    },
+    "size": "XL",
+    "imageRefs": [
+      8
+    ]
+  },
+  {
+    "contentKey": "c7d5d793c5c9ca02",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow-Bluish Blue",
+      "hex": "#dadc18"
+    },
+    "size": "S",
+    "imageRefs": [
+      9
+    ]
+  },
+  {
+    "contentKey": "c884de74ad0486cf",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow-Bottle Green",
+      "hex": "#d9dc18"
+    },
+    "size": "XL",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "caa46ecd8718cfab",
+    "stock": 345,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow-Charcoal Grey",
+      "hex": "#dfdc18"
+    },
+    "size": "S",
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "cd646dececcb0d46",
+    "stock": 546,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow-Bottle Green",
+      "hex": "#d9dc18"
+    },
+    "size": "S",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "d50c4841f34b92cb",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Orange-Orion Navy Blue",
+      "hex": "#c96958"
+    },
+    "size": "XL",
+    "imageRefs": [
+      11
+    ]
+  },
+  {
+    "contentKey": "defa0e1834b6c345",
+    "stock": 393,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow-Amazon Green",
+      "hex": "#dcdc18"
+    },
+    "size": "S",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "e29bbfda5fd1319e",
+    "stock": 54,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow-Mahogany Garnet",
+      "hex": "#e1dc18"
+    },
+    "size": "S",
+    "imageRefs": [
+      8
+    ]
+  },
+  {
+    "contentKey": "f003f5573e59ba91",
+    "stock": 892,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Orange-Orion Navy Blue",
+      "hex": "#c96958"
+    },
+    "size": "M",
+    "imageRefs": [
+      11
+    ]
+  },
+  {
+    "contentKey": "f0077efc71ce78a3",
+    "stock": 461,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Orange-Orion Navy Blue",
+      "hex": "#c96958"
+    },
+    "size": "S",
+    "imageRefs": [
+      11
+    ]
+  },
+  {
+    "contentKey": "f2843d335e4f0558",
+    "stock": 523,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow-Lotto Red",
+      "hex": "#e0dc18"
+    },
+    "size": "L",
+    "imageRefs": [
+      7
+    ]
+  },
+  {
+    "contentKey": "f3f581ba567a692c",
+    "stock": 684,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow-Amazon Green",
+      "hex": "#dcdc18"
+    },
+    "size": "M",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "f5c0c26db814127c",
+    "stock": 683,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow-Black",
+      "hex": "#dddc18"
+    },
+    "imageRefs": [
+      5
+    ]
+  },
+  {
+    "contentKey": "f5c0c26db814127c",
+    "stock": 112,
+    "stockLevel": "in-stock",
+    "price": 21.5,
+    "color": {
+      "name": "Neon Yellow-Black",
+      "hex": "#dddc18"
+    },
+    "imageRefs": [
+      5
+    ]
+  },
+  {
+    "contentKey": "fc31d0bfc87ac53f",
+    "stock": 388,
+    "stockLevel": "in-stock",
+    "price": 18.66,
+    "color": {
+      "name": "Neon Yellow-Apple Green",
+      "hex": "#dbdc18"
+    },
+    "imageRefs": [
+      6
+    ]
+  },
+  {
+    "contentKey": "fc31d0bfc87ac53f",
+    "stock": 138,
+    "stockLevel": "in-stock",
+    "price": 21.5,
+    "color": {
+      "name": "Neon Yellow-Apple Green",
+      "hex": "#dbdc18"
+    },
+    "imageRefs": [
+      6
+    ]
+  }
+]

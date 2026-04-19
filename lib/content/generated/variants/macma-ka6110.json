@@ -1,0 +1,723 @@
+[
+  {
+    "contentKey": "0a4f492e5e217bba",
+    "stock": 131,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "White",
+      "hex": "#ffffff"
+    },
+    "size": "S",
+    "imageRefs": [
+      13,
+      14
+    ]
+  },
+  {
+    "contentKey": "107432ebc37eff0f",
+    "stock": 223,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "White",
+      "hex": "#ffffff"
+    },
+    "size": "XL",
+    "imageRefs": [
+      13,
+      14
+    ]
+  },
+  {
+    "contentKey": "107567750d4bba7c",
+    "stock": 561,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "Light Royal Blue",
+      "hex": "#2c5697"
+    },
+    "size": "M",
+    "imageRefs": [
+      3,
+      4
+    ]
+  },
+  {
+    "contentKey": "12d2b33146d86d2d",
+    "stock": 353,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "Marl Grey",
+      "hex": "#818a90"
+    },
+    "size": "XL",
+    "imageRefs": [
+      5,
+      6
+    ]
+  },
+  {
+    "contentKey": "1315d668c368c3af",
+    "stock": 402,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "Marl Grey",
+      "hex": "#818a90"
+    },
+    "size": "M",
+    "imageRefs": [
+      5,
+      6
+    ]
+  },
+  {
+    "contentKey": "16ba13d7a334b0ce",
+    "stock": 533,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "Red",
+      "hex": "#d01c28"
+    },
+    "size": "M",
+    "imageRefs": [
+      11,
+      12
+    ]
+  },
+  {
+    "contentKey": "1d0b8ac33277e629",
+    "stock": 430,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "Navy",
+      "hex": "#12315b"
+    },
+    "size": "S",
+    "imageRefs": [
+      9,
+      10
+    ]
+  },
+  {
+    "contentKey": "1d5d497f1cb38db0",
+    "stock": 392,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "Marl Grey",
+      "hex": "#818a90"
+    },
+    "size": "L",
+    "imageRefs": [
+      5,
+      6
+    ]
+  },
+  {
+    "contentKey": "243062021daf734e",
+    "stock": 745,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "243062021daf734e",
+    "stock": 393,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "243062021daf734e",
+    "stock": 162,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "3325bdbb1a8f3b02",
+    "stock": 325,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "White",
+      "hex": "#ffffff"
+    },
+    "size": "L",
+    "imageRefs": [
+      13,
+      14
+    ]
+  },
+  {
+    "contentKey": "39b19520d9df252c",
+    "stock": 985,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "Navy",
+      "hex": "#12315b"
+    },
+    "size": "M",
+    "imageRefs": [
+      9,
+      10
+    ]
+  },
+  {
+    "contentKey": "45f0c16372593f7e",
+    "stock": 399,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "Light Royal Blue",
+      "hex": "#2c5697"
+    },
+    "size": "XL",
+    "imageRefs": [
+      3,
+      4
+    ]
+  },
+  {
+    "contentKey": "511e9329a149cd30",
+    "stock": 534,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "Silver Marl",
+      "hex": "#adc4d1"
+    },
+    "size": "XL",
+    "imageRefs": [
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "56c7a53170ffddd9",
+    "stock": 237,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "Silver Marl",
+      "hex": "#adc4d1"
+    },
+    "size": "S",
+    "imageRefs": [
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "5d56382e333a4916",
+    "stock": 579,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "Silver Marl",
+      "hex": "#adc4d1"
+    },
+    "size": "L",
+    "imageRefs": [
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "5f888db22fff5c76",
+    "stock": 299,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "Silver Marl",
+      "hex": "#adc4d1"
+    },
+    "imageRefs": [
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "5f888db22fff5c76",
+    "stock": 254,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "Silver Marl",
+      "hex": "#adc4d1"
+    },
+    "imageRefs": [
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "5f888db22fff5c76",
+    "stock": 163,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "Silver Marl",
+      "hex": "#adc4d1"
+    },
+    "imageRefs": [
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "6f473dfa725936cf",
+    "stock": 515,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "Light Royal Blue",
+      "hex": "#2c5697"
+    },
+    "size": "L",
+    "imageRefs": [
+      3,
+      4
+    ]
+  },
+  {
+    "contentKey": "77c4095c1d80f708",
+    "stock": 389,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "Marl Grey",
+      "hex": "#818a90"
+    },
+    "imageRefs": [
+      5,
+      6
+    ]
+  },
+  {
+    "contentKey": "77c4095c1d80f708",
+    "stock": 133,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "Marl Grey",
+      "hex": "#818a90"
+    },
+    "imageRefs": [
+      5,
+      6
+    ]
+  },
+  {
+    "contentKey": "77c4095c1d80f708",
+    "stock": 74,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "Marl Grey",
+      "hex": "#818a90"
+    },
+    "imageRefs": [
+      5,
+      6
+    ]
+  },
+  {
+    "contentKey": "7a3df5f1caacbfa3",
+    "stock": 320,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "Red",
+      "hex": "#d01c28"
+    },
+    "size": "S",
+    "imageRefs": [
+      11,
+      12
+    ]
+  },
+  {
+    "contentKey": "88b7b346c33f4319",
+    "stock": 360,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "Light Royal Blue",
+      "hex": "#2c5697"
+    },
+    "size": "S",
+    "imageRefs": [
+      3,
+      4
+    ]
+  },
+  {
+    "contentKey": "8d829014e2f164be",
+    "stock": 221,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "Light Royal Blue",
+      "hex": "#2c5697"
+    },
+    "imageRefs": [
+      3,
+      4
+    ]
+  },
+  {
+    "contentKey": "8d829014e2f164be",
+    "stock": 105,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "Light Royal Blue",
+      "hex": "#2c5697"
+    },
+    "imageRefs": [
+      3,
+      4
+    ]
+  },
+  {
+    "contentKey": "8d829014e2f164be",
+    "stock": 16,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "Light Royal Blue",
+      "hex": "#2c5697"
+    },
+    "imageRefs": [
+      3,
+      4
+    ]
+  },
+  {
+    "contentKey": "994d85993d188398",
+    "stock": 165,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "White",
+      "hex": "#ffffff"
+    },
+    "imageRefs": [
+      13,
+      14
+    ]
+  },
+  {
+    "contentKey": "994d85993d188398",
+    "stock": 165,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "White",
+      "hex": "#ffffff"
+    },
+    "imageRefs": [
+      13,
+      14
+    ]
+  },
+  {
+    "contentKey": "994d85993d188398",
+    "stock": 171,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "White",
+      "hex": "#ffffff"
+    },
+    "imageRefs": [
+      13,
+      14
+    ]
+  },
+  {
+    "contentKey": "99d8f7c23f4816aa",
+    "stock": 1541,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "size": "XL",
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "9b96d54cbd0fba1b",
+    "stock": 1859,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "size": "L",
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "b5cbc24dcb79515a",
+    "stock": 198,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "Marl Grey",
+      "hex": "#818a90"
+    },
+    "size": "S",
+    "imageRefs": [
+      5,
+      6
+    ]
+  },
+  {
+    "contentKey": "b64ca428cb44e130",
+    "stock": 1488,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "size": "M",
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "d6c11d57eeb5ee8d",
+    "stock": 569,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "Navy",
+      "hex": "#12315b"
+    },
+    "imageRefs": [
+      9,
+      10
+    ]
+  },
+  {
+    "contentKey": "d6c11d57eeb5ee8d",
+    "stock": 269,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "Navy",
+      "hex": "#12315b"
+    },
+    "imageRefs": [
+      9,
+      10
+    ]
+  },
+  {
+    "contentKey": "d6c11d57eeb5ee8d",
+    "stock": 109,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "Navy",
+      "hex": "#12315b"
+    },
+    "imageRefs": [
+      9,
+      10
+    ]
+  },
+  {
+    "contentKey": "dfbb086b96724538",
+    "stock": 63,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "Red",
+      "hex": "#d01c28"
+    },
+    "imageRefs": [
+      11,
+      12
+    ]
+  },
+  {
+    "contentKey": "dfbb086b96724538",
+    "stock": 91,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "Red",
+      "hex": "#d01c28"
+    },
+    "imageRefs": [
+      11,
+      12
+    ]
+  },
+  {
+    "contentKey": "dfbb086b96724538",
+    "stock": 118,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "Red",
+      "hex": "#d01c28"
+    },
+    "imageRefs": [
+      11,
+      12
+    ]
+  },
+  {
+    "contentKey": "ef98a8f75106bebe",
+    "stock": 392,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "Silver Marl",
+      "hex": "#adc4d1"
+    },
+    "size": "M",
+    "imageRefs": [
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "f299c6db624e9504",
+    "stock": 598,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "Red",
+      "hex": "#d01c28"
+    },
+    "size": "L",
+    "imageRefs": [
+      11,
+      12
+    ]
+  },
+  {
+    "contentKey": "f54bbdb126caea46",
+    "stock": 1151,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "Navy",
+      "hex": "#12315b"
+    },
+    "size": "XL",
+    "imageRefs": [
+      9,
+      10
+    ]
+  },
+  {
+    "contentKey": "f84463182749d46d",
+    "stock": 1349,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "Navy",
+      "hex": "#12315b"
+    },
+    "size": "L",
+    "imageRefs": [
+      9,
+      10
+    ]
+  },
+  {
+    "contentKey": "fae17ee338d5bdb3",
+    "stock": 973,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "size": "S",
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "fb074a456364b052",
+    "stock": 222,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "White",
+      "hex": "#ffffff"
+    },
+    "size": "M",
+    "imageRefs": [
+      13,
+      14
+    ]
+  },
+  {
+    "contentKey": "fe86d53de8761715",
+    "stock": 623,
+    "stockLevel": "in-stock",
+    "price": 29.82,
+    "color": {
+      "name": "Red",
+      "hex": "#d01c28"
+    },
+    "size": "XL",
+    "imageRefs": [
+      11,
+      12
+    ]
+  }
+]

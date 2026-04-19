@@ -1,0 +1,37 @@
+[
+  {
+    "contentKey": "4e7e191a2666a0b0",
+    "stock": 10988,
+    "stockLevel": "in-stock",
+    "price": 1.8,
+    "color": {
+      "name": "Orange",
+      "hex": "#ff6600"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "contentKey": "5975ddb84044e459",
+    "stock": 15363,
+    "stockLevel": "in-stock",
+    "price": 1.8,
+    "color": {
+      "name": "Yellow",
+      "hex": "#ffcc00"
+    },
+    "size": "S",
+    "imageRefs": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  }
+]

@@ -1,0 +1,617 @@
+[
+  {
+    "contentKey": "08ce8cbe142d13bd",
+    "stock": 86,
+    "stockLevel": "in-stock",
+    "price": 27.08,
+    "color": {
+      "name": "Classic Red/Black",
+      "hex": "#c31623"
+    },
+    "size": "S",
+    "imageRefs": [
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "0c79b995dde9bc80",
+    "stock": 144,
+    "stockLevel": "in-stock",
+    "price": 27.08,
+    "color": {
+      "name": "Classic Red/Black",
+      "hex": "#c31623"
+    },
+    "size": "L",
+    "imageRefs": [
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "0d952c15f8574cb7",
+    "stock": 65,
+    "stockLevel": "in-stock",
+    "price": 27.08,
+    "color": {
+      "name": "Classic Red/Black",
+      "hex": "#c31623"
+    },
+    "size": "XL",
+    "imageRefs": [
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "1da0efff32c6c474",
+    "stock": 145,
+    "stockLevel": "in-stock",
+    "price": 27.08,
+    "color": {
+      "name": "Seal Grey/Black",
+      "hex": "#425159"
+    },
+    "size": "S",
+    "imageRefs": [
+      17,
+      18,
+      19
+    ]
+  },
+  {
+    "contentKey": "21770c8e6de37f7b",
+    "stock": 25,
+    "stockLevel": "in-stock",
+    "price": 17.19,
+    "color": {
+      "name": "Black/Black",
+      "hex": "#000000"
+    },
+    "size": "XS",
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "contentKey": "25ea00e6dea7ac13",
+    "stock": 72,
+    "stockLevel": "in-stock",
+    "price": 17.19,
+    "color": {
+      "name": "Navy/Seal Grey",
+      "hex": "#131b38"
+    },
+    "size": "XS",
+    "imageRefs": [
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "contentKey": "2f9e678ded5648fe",
+    "stock": 490,
+    "stockLevel": "in-stock",
+    "price": 27.08,
+    "color": {
+      "name": "Black/Black",
+      "hex": "#000000"
+    },
+    "size": "S",
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "contentKey": "36010024d686f939",
+    "stock": 785,
+    "stockLevel": "in-stock",
+    "price": 27.08,
+    "color": {
+      "name": "Navy/Seal Grey",
+      "hex": "#131b38"
+    },
+    "size": "M",
+    "imageRefs": [
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "contentKey": "4aa4b95decee9674",
+    "stock": 488,
+    "stockLevel": "in-stock",
+    "price": 27.08,
+    "color": {
+      "name": "Oxford Blue/Black",
+      "hex": "#006cb4"
+    },
+    "size": "XL",
+    "imageRefs": [
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "contentKey": "4b7603e712d97463",
+    "stock": 226,
+    "stockLevel": "in-stock",
+    "price": 27.08,
+    "color": {
+      "name": "Seal Grey/Black",
+      "hex": "#425159"
+    },
+    "size": "XL",
+    "imageRefs": [
+      17,
+      18,
+      19
+    ]
+  },
+  {
+    "contentKey": "53e7368a83869056",
+    "stock": 113,
+    "stockLevel": "in-stock",
+    "price": 27.08,
+    "color": {
+      "name": "Seal Grey/Black",
+      "hex": "#425159"
+    },
+    "imageRefs": [
+      17,
+      18,
+      19
+    ]
+  },
+  {
+    "contentKey": "53e7368a83869056",
+    "stock": 84,
+    "stockLevel": "in-stock",
+    "price": 27.08,
+    "color": {
+      "name": "Seal Grey/Black",
+      "hex": "#425159"
+    },
+    "imageRefs": [
+      17,
+      18,
+      19
+    ]
+  },
+  {
+    "contentKey": "53e7368a83869056",
+    "stock": 91,
+    "stockLevel": "in-stock",
+    "price": 27.08,
+    "color": {
+      "name": "Seal Grey/Black",
+      "hex": "#425159"
+    },
+    "imageRefs": [
+      17,
+      18,
+      19
+    ]
+  },
+  {
+    "contentKey": "6c8cb40183f899d0",
+    "stock": 107,
+    "stockLevel": "in-stock",
+    "price": 27.08,
+    "color": {
+      "name": "Oxford Blue/Black",
+      "hex": "#006cb4"
+    },
+    "size": "S",
+    "imageRefs": [
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "contentKey": "70b5219a436dcf24",
+    "stock": 371,
+    "stockLevel": "in-stock",
+    "price": 27.08,
+    "color": {
+      "name": "Seal Grey/Black",
+      "hex": "#425159"
+    },
+    "size": "M",
+    "imageRefs": [
+      17,
+      18,
+      19
+    ]
+  },
+  {
+    "contentKey": "717c90b2d061137e",
+    "stock": 518,
+    "stockLevel": "in-stock",
+    "price": 27.08,
+    "color": {
+      "name": "Oxford Blue/Black",
+      "hex": "#006cb4"
+    },
+    "size": "L",
+    "imageRefs": [
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "contentKey": "738ccb84387b9d88",
+    "stock": 240,
+    "stockLevel": "in-stock",
+    "price": 27.08,
+    "color": {
+      "name": "Oxford Blue/Black",
+      "hex": "#006cb4"
+    },
+    "imageRefs": [
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "contentKey": "738ccb84387b9d88",
+    "stock": 91,
+    "stockLevel": "in-stock",
+    "price": 27.08,
+    "color": {
+      "name": "Oxford Blue/Black",
+      "hex": "#006cb4"
+    },
+    "imageRefs": [
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "contentKey": "738ccb84387b9d88",
+    "stock": 84,
+    "stockLevel": "in-stock",
+    "price": 27.08,
+    "color": {
+      "name": "Oxford Blue/Black",
+      "hex": "#006cb4"
+    },
+    "imageRefs": [
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "contentKey": "78d4a04496bbd6bf",
+    "stock": 1845,
+    "stockLevel": "in-stock",
+    "price": 27.08,
+    "color": {
+      "name": "Black/Black",
+      "hex": "#000000"
+    },
+    "size": "XL",
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "contentKey": "81572ad1fa17d4c1",
+    "stock": 173,
+    "stockLevel": "in-stock",
+    "price": 27.08,
+    "color": {
+      "name": "Navy/Seal Grey",
+      "hex": "#131b38"
+    },
+    "size": "S",
+    "imageRefs": [
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "contentKey": "83dc1009a809757c",
+    "stock": 41,
+    "stockLevel": "in-stock",
+    "price": 27.08,
+    "color": {
+      "name": "Classic Red/Black",
+      "hex": "#c31623"
+    },
+    "imageRefs": [
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "83dc1009a809757c",
+    "stock": 30,
+    "stockLevel": "in-stock",
+    "price": 27.08,
+    "color": {
+      "name": "Classic Red/Black",
+      "hex": "#c31623"
+    },
+    "imageRefs": [
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "83dc1009a809757c",
+    "stock": 45,
+    "stockLevel": "in-stock",
+    "price": 27.08,
+    "color": {
+      "name": "Classic Red/Black",
+      "hex": "#c31623"
+    },
+    "imageRefs": [
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "a0943d5476949d7e",
+    "stock": 1144,
+    "stockLevel": "in-stock",
+    "price": 27.08,
+    "color": {
+      "name": "Navy/Seal Grey",
+      "hex": "#131b38"
+    },
+    "size": "L",
+    "imageRefs": [
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "contentKey": "a43f12b816a6c10a",
+    "stock": 381,
+    "stockLevel": "in-stock",
+    "price": 27.08,
+    "color": {
+      "name": "Oxford Blue/Black",
+      "hex": "#006cb4"
+    },
+    "size": "M",
+    "imageRefs": [
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "contentKey": "ab0b05b1ebb4f937",
+    "stock": 823,
+    "stockLevel": "in-stock",
+    "price": 27.08,
+    "color": {
+      "name": "Black/Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "contentKey": "ab0b05b1ebb4f937",
+    "stock": 453,
+    "stockLevel": "in-stock",
+    "price": 27.08,
+    "color": {
+      "name": "Black/Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "contentKey": "ab0b05b1ebb4f937",
+    "stock": 205,
+    "stockLevel": "in-stock",
+    "price": 27.08,
+    "color": {
+      "name": "Black/Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "contentKey": "ab92403de502aeca",
+    "stock": 304,
+    "stockLevel": "in-stock",
+    "price": 27.08,
+    "color": {
+      "name": "Seal Grey/Black",
+      "hex": "#425159"
+    },
+    "size": "L",
+    "imageRefs": [
+      17,
+      18,
+      19
+    ]
+  },
+  {
+    "contentKey": "bff07b708a3789b2",
+    "stock": 569,
+    "stockLevel": "in-stock",
+    "price": 27.08,
+    "color": {
+      "name": "Navy/Seal Grey",
+      "hex": "#131b38"
+    },
+    "imageRefs": [
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "contentKey": "bff07b708a3789b2",
+    "stock": 261,
+    "stockLevel": "in-stock",
+    "price": 27.08,
+    "color": {
+      "name": "Navy/Seal Grey",
+      "hex": "#131b38"
+    },
+    "imageRefs": [
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "contentKey": "bff07b708a3789b2",
+    "stock": 252,
+    "stockLevel": "in-stock",
+    "price": 27.08,
+    "color": {
+      "name": "Navy/Seal Grey",
+      "hex": "#131b38"
+    },
+    "imageRefs": [
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "contentKey": "c321ab6a292a5c37",
+    "stock": 1916,
+    "stockLevel": "in-stock",
+    "price": 27.08,
+    "color": {
+      "name": "Black/Black",
+      "hex": "#000000"
+    },
+    "size": "M",
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "contentKey": "c4426713db819268",
+    "stock": 190,
+    "stockLevel": "in-stock",
+    "price": 27.08,
+    "color": {
+      "name": "Classic Red/Black",
+      "hex": "#c31623"
+    },
+    "size": "M",
+    "imageRefs": [
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "c6a965f40789467f",
+    "stock": 2005,
+    "stockLevel": "in-stock",
+    "price": 27.08,
+    "color": {
+      "name": "Black/Black",
+      "hex": "#000000"
+    },
+    "size": "L",
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "contentKey": "c7ef0760452bbf99",
+    "stock": 838,
+    "stockLevel": "in-stock",
+    "price": 27.08,
+    "color": {
+      "name": "Navy/Seal Grey",
+      "hex": "#131b38"
+    },
+    "size": "XL",
+    "imageRefs": [
+      9,
+      10,
+      11,
+      12
+    ]
+  }
+]

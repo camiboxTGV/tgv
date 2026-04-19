@@ -1,0 +1,773 @@
+[
+  {
+    "contentKey": "01a7a865dd2fb379",
+    "stock": 33,
+    "stockLevel": "in-stock",
+    "price": 12.62,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "size": "M",
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "106c74ff2bc7f945",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 12.62,
+    "color": {
+      "name": "Atoll",
+      "hex": "#3e99bc"
+    },
+    "size": "M",
+    "imageRefs": [
+      21,
+      22,
+      23
+    ]
+  },
+  {
+    "contentKey": "171f47b766794220",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 12.62,
+    "color": {
+      "name": "White",
+      "hex": "#ffffff"
+    },
+    "size": "M",
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "1eed75bbbf8efb8b",
+    "stock": 64,
+    "stockLevel": "in-stock",
+    "price": 12.62,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "size": "XL",
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "205af413086e210b",
+    "stock": 72,
+    "stockLevel": "in-stock",
+    "price": 12.62,
+    "color": {
+      "name": "White",
+      "hex": "#ffffff"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "29376d40474e21f9",
+    "stock": 14,
+    "stockLevel": "in-stock",
+    "price": 12.62,
+    "color": {
+      "name": "Navy",
+      "hex": "#12315b"
+    },
+    "size": "L",
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "320f3e93b458517f",
+    "stock": 38,
+    "stockLevel": "in-stock",
+    "price": 12.62,
+    "color": {
+      "name": "Royal Blue",
+      "hex": "#1663de"
+    },
+    "size": "XS",
+    "imageRefs": [
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "contentKey": "3a0a47d714e1deaa",
+    "stock": 6,
+    "stockLevel": "low",
+    "price": 12.62,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "size": "S",
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "42d7e6a950d7a9fd",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 12.62,
+    "color": {
+      "name": "Red",
+      "hex": "#d01c28"
+    },
+    "size": "XL",
+    "imageRefs": [
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "43651a9fa1e9eb99",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 12.62,
+    "color": {
+      "name": "Red",
+      "hex": "#d01c28"
+    },
+    "size": "M",
+    "imageRefs": [
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "4bfe2481fd1f9fe8",
+    "stock": 41,
+    "stockLevel": "in-stock",
+    "price": 12.62,
+    "color": {
+      "name": "Dark Grey",
+      "hex": "#4a4a4a"
+    },
+    "size": "S",
+    "imageRefs": [
+      18,
+      19,
+      20
+    ]
+  },
+  {
+    "contentKey": "59796734c7e35829",
+    "stock": 50,
+    "stockLevel": "in-stock",
+    "price": 12.62,
+    "color": {
+      "name": "Red",
+      "hex": "#d01c28"
+    },
+    "size": "XS",
+    "imageRefs": [
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "5e1f48c37dd08a23",
+    "stock": 215,
+    "stockLevel": "in-stock",
+    "price": 12.62,
+    "color": {
+      "name": "Royal Blue",
+      "hex": "#1663de"
+    },
+    "size": "L",
+    "imageRefs": [
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "contentKey": "6007cd9ab181e73e",
+    "stock": 191,
+    "stockLevel": "in-stock",
+    "price": 12.62,
+    "color": {
+      "name": "Royal Blue",
+      "hex": "#1663de"
+    },
+    "imageRefs": [
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "contentKey": "6007cd9ab181e73e",
+    "stock": 20,
+    "stockLevel": "in-stock",
+    "price": 12.62,
+    "color": {
+      "name": "Royal Blue",
+      "hex": "#1663de"
+    },
+    "imageRefs": [
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "contentKey": "7ee6b4368acd134a",
+    "stock": 5,
+    "stockLevel": "low",
+    "price": 12.62,
+    "color": {
+      "name": "Pumpkin Orange",
+      "hex": "#cc6425"
+    },
+    "size": "S",
+    "imageRefs": [
+      15,
+      16,
+      17
+    ]
+  },
+  {
+    "contentKey": "7ff60cfa84e0fa1f",
+    "stock": 55,
+    "stockLevel": "in-stock",
+    "price": 12.62,
+    "color": {
+      "name": "White",
+      "hex": "#ffffff"
+    },
+    "size": "XS",
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "8c324981de43033b",
+    "stock": 1,
+    "stockLevel": "low",
+    "price": 12.62,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "size": "XS",
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "8fa2aa8e1aa4d62f",
+    "stock": 39,
+    "stockLevel": "in-stock",
+    "price": 12.62,
+    "color": {
+      "name": "Navy",
+      "hex": "#12315b"
+    },
+    "size": "S",
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "9241bb19419b33ff",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 12.62,
+    "color": {
+      "name": "Red",
+      "hex": "#d01c28"
+    },
+    "size": "S",
+    "imageRefs": [
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "96e9ac2263ea8c06",
+    "stock": 130,
+    "stockLevel": "in-stock",
+    "price": 12.62,
+    "color": {
+      "name": "Royal Blue",
+      "hex": "#1663de"
+    },
+    "size": "S",
+    "imageRefs": [
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "contentKey": "9c90ad6a3e7a4107",
+    "stock": 19,
+    "stockLevel": "in-stock",
+    "price": 12.62,
+    "color": {
+      "name": "Navy",
+      "hex": "#12315b"
+    },
+    "size": "XS",
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "9de1320257943d97",
+    "stock": 23,
+    "stockLevel": "in-stock",
+    "price": 12.62,
+    "color": {
+      "name": "Atoll",
+      "hex": "#3e99bc"
+    },
+    "size": "S",
+    "imageRefs": [
+      21,
+      22,
+      23
+    ]
+  },
+  {
+    "contentKey": "a0566b804b69f281",
+    "stock": 200,
+    "stockLevel": "in-stock",
+    "price": 12.62,
+    "color": {
+      "name": "Dark Grey",
+      "hex": "#4a4a4a"
+    },
+    "size": "L",
+    "imageRefs": [
+      18,
+      19,
+      20
+    ]
+  },
+  {
+    "contentKey": "b0e686895614febe",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 12.62,
+    "color": {
+      "name": "White",
+      "hex": "#ffffff"
+    },
+    "size": "S",
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "b40e389725df9c87",
+    "stock": 8,
+    "stockLevel": "low",
+    "price": 12.62,
+    "color": {
+      "name": "Dark Grey",
+      "hex": "#4a4a4a"
+    },
+    "size": "M",
+    "imageRefs": [
+      18,
+      19,
+      20
+    ]
+  },
+  {
+    "contentKey": "b633ce99bcbeb536",
+    "stock": 46,
+    "stockLevel": "in-stock",
+    "price": 12.62,
+    "color": {
+      "name": "Atoll",
+      "hex": "#3e99bc"
+    },
+    "size": "XS",
+    "imageRefs": [
+      21,
+      22,
+      23
+    ]
+  },
+  {
+    "contentKey": "c2417d4f9453c863",
+    "stock": 28,
+    "stockLevel": "in-stock",
+    "price": 12.62,
+    "color": {
+      "name": "Navy",
+      "hex": "#12315b"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "c2417d4f9453c863",
+    "stock": 22,
+    "stockLevel": "in-stock",
+    "price": 12.62,
+    "color": {
+      "name": "Navy",
+      "hex": "#12315b"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "c5318801f325436e",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 12.62,
+    "color": {
+      "name": "Atoll",
+      "hex": "#3e99bc"
+    },
+    "imageRefs": [
+      21,
+      22,
+      23
+    ]
+  },
+  {
+    "contentKey": "c777b5a1386b2162",
+    "stock": 62,
+    "stockLevel": "in-stock",
+    "price": 12.62,
+    "color": {
+      "name": "Dark Grey",
+      "hex": "#4a4a4a"
+    },
+    "size": "XS",
+    "imageRefs": [
+      18,
+      19,
+      20
+    ]
+  },
+  {
+    "contentKey": "cb5121c5d94e69cd",
+    "stock": 35,
+    "stockLevel": "in-stock",
+    "price": 12.62,
+    "color": {
+      "name": "Navy",
+      "hex": "#12315b"
+    },
+    "size": "XL",
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "d6258df11503cf56",
+    "stock": 13,
+    "stockLevel": "in-stock",
+    "price": 12.62,
+    "color": {
+      "name": "Atoll",
+      "hex": "#3e99bc"
+    },
+    "size": "L",
+    "imageRefs": [
+      21,
+      22,
+      23
+    ]
+  },
+  {
+    "contentKey": "d92103fc31268af7",
+    "stock": 10,
+    "stockLevel": "in-stock",
+    "price": 12.62,
+    "color": {
+      "name": "White",
+      "hex": "#ffffff"
+    },
+    "size": "L",
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "dc03f5a6a4db6671",
+    "stock": 10,
+    "stockLevel": "in-stock",
+    "price": 12.62,
+    "color": {
+      "name": "Royal Blue",
+      "hex": "#1663de"
+    },
+    "size": "M",
+    "imageRefs": [
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "contentKey": "df51947518c62ff0",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 12.62,
+    "color": {
+      "name": "Red",
+      "hex": "#d01c28"
+    },
+    "size": "L",
+    "imageRefs": [
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "e41935bd7647e30a",
+    "stock": 10,
+    "stockLevel": "in-stock",
+    "price": 12.62,
+    "color": {
+      "name": "White",
+      "hex": "#ffffff"
+    },
+    "size": "XL",
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "e564416f7bcfcbf0",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 12.62,
+    "color": {
+      "name": "Atoll",
+      "hex": "#3e99bc"
+    },
+    "size": "XL",
+    "imageRefs": [
+      21,
+      22,
+      23
+    ]
+  },
+  {
+    "contentKey": "e849a627d8c28c0b",
+    "stock": 89,
+    "stockLevel": "in-stock",
+    "price": 12.62,
+    "color": {
+      "name": "Dark Grey",
+      "hex": "#4a4a4a"
+    },
+    "size": "XL",
+    "imageRefs": [
+      18,
+      19,
+      20
+    ]
+  },
+  {
+    "contentKey": "eaf78172c6f9559a",
+    "stock": 67,
+    "stockLevel": "in-stock",
+    "price": 12.62,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "size": "L",
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "ecae490bf70b68a3",
+    "stock": 14,
+    "stockLevel": "in-stock",
+    "price": 12.62,
+    "color": {
+      "name": "Pumpkin Orange",
+      "hex": "#cc6425"
+    },
+    "imageRefs": [
+      15,
+      16,
+      17
+    ]
+  },
+  {
+    "contentKey": "efe80b400a39ebc5",
+    "stock": 8,
+    "stockLevel": "low",
+    "price": 12.62,
+    "color": {
+      "name": "Navy",
+      "hex": "#12315b"
+    },
+    "size": "M",
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "f50f661b0363900e",
+    "stock": 73,
+    "stockLevel": "in-stock",
+    "price": 12.62,
+    "color": {
+      "name": "Red",
+      "hex": "#d01c28"
+    },
+    "imageRefs": [
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "f50f661b0363900e",
+    "stock": 4,
+    "stockLevel": "low",
+    "price": 12.62,
+    "color": {
+      "name": "Red",
+      "hex": "#d01c28"
+    },
+    "imageRefs": [
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "fa7d5be6ba708f78",
+    "stock": 65,
+    "stockLevel": "in-stock",
+    "price": 12.62,
+    "color": {
+      "name": "Pumpkin Orange",
+      "hex": "#cc6425"
+    },
+    "size": "XS",
+    "imageRefs": [
+      15,
+      16,
+      17
+    ]
+  },
+  {
+    "contentKey": "fc2f0ae173c525d9",
+    "stock": 197,
+    "stockLevel": "in-stock",
+    "price": 12.62,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "fc2f0ae173c525d9",
+    "stock": 1,
+    "stockLevel": "low",
+    "price": 12.62,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "fca5cab9269d0f0c",
+    "stock": 51,
+    "stockLevel": "in-stock",
+    "price": 12.62,
+    "color": {
+      "name": "Dark Grey",
+      "hex": "#4a4a4a"
+    },
+    "imageRefs": [
+      18,
+      19,
+      20
+    ]
+  },
+  {
+    "contentKey": "fca5cab9269d0f0c",
+    "stock": 58,
+    "stockLevel": "in-stock",
+    "price": 12.62,
+    "color": {
+      "name": "Dark Grey",
+      "hex": "#4a4a4a"
+    },
+    "imageRefs": [
+      18,
+      19,
+      20
+    ]
+  }
+]

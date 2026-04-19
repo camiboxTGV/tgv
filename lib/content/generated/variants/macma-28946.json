@@ -1,0 +1,43 @@
+[
+  {
+    "contentKey": "5e44e9efb4df4848",
+    "stock": 5,
+    "stockLevel": "low",
+    "price": 2.46,
+    "color": {
+      "name": "LIght Green",
+      "hex": "#caff70"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "bda7f1b925b92e9a",
+    "stock": 324,
+    "stockLevel": "in-stock",
+    "price": 2.46,
+    "color": {
+      "name": "Violet",
+      "hex": "#a020f0"
+    },
+    "imageRefs": [
+      3,
+      4
+    ]
+  },
+  {
+    "contentKey": "cdc916f60ce7b375",
+    "stock": 1189,
+    "stockLevel": "in-stock",
+    "price": 2.46,
+    "color": {
+      "name": "Pink",
+      "hex": "#ff34b3"
+    },
+    "imageRefs": [
+      1,
+      2
+    ]
+  }
+]

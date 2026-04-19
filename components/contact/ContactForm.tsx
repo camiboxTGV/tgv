@@ -60,13 +60,13 @@ const QUANTITY_BUCKETS: { value: QuantityBucket; label: string }[] = [
 ]
 
 const PERSONALIZATION_PREFS: { value: PersonalizationPref; label: string }[] = [
-  { value: "co2", label: "Gravură CO2" },
-  { value: "fiber-laser", label: "Gravură fiber laser" },
+  { value: "co2", label: "CO2 engraving" },
+  { value: "fiber-laser", label: "Fiber laser engraving" },
   { value: "uv-print", label: "Print UV" },
   { value: "uv-transfer", label: "Transfer UV" },
-  { value: "hot-foil", label: "Timbru sec & folio" },
-  { value: "custom-production", label: "Producție custom" },
-  { value: "digital-print", label: "Tipar digital" },
+  { value: "hot-foil", label: "Embossing & foil stamping" },
+  { value: "custom-production", label: "Custom production" },
+  { value: "digital-print", label: "Digital print" },
   { value: "not-sure", label: "Not sure yet" },
 ]
 

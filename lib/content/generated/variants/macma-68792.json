@@ -1,0 +1,36 @@
+[
+  {
+    "contentKey": "b2ca3fbe0c4d6696",
+    "stock": 5,
+    "stockLevel": "low",
+    "price": 0.64,
+    "color": {
+      "name": "Orange",
+      "hex": "#ff6600"
+    },
+    "imageRefs": [
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "contentKey": "e15fbe5066ed6fe8",
+    "stock": 8,
+    "stockLevel": "low",
+    "price": 0.64,
+    "color": {
+      "name": "Red",
+      "hex": "#cc0000"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  }
+]

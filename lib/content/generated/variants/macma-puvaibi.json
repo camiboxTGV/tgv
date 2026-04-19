@@ -1,0 +1,58 @@
+[
+  {
+    "contentKey": "7f20935114249535",
+    "stock": 666,
+    "stockLevel": "in-stock",
+    "price": 0.18,
+    "color": {
+      "name": "Neon Yellow",
+      "hex": "#dedc18"
+    },
+    "size": "One Size",
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "a4cf067f5c3efbd0",
+    "stock": 4076,
+    "stockLevel": "in-stock",
+    "price": 0.18,
+    "color": {
+      "name": "Neon Pink",
+      "hex": "#b5578b"
+    },
+    "size": "One Size",
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "cfe6157f3f275c18",
+    "stock": 93,
+    "stockLevel": "in-stock",
+    "price": 0.18,
+    "color": {
+      "name": "Royal Blue",
+      "hex": "#1c5e98"
+    },
+    "size": "One Size",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "de751d2cd04c7035",
+    "stock": 4084,
+    "stockLevel": "in-stock",
+    "price": 0.18,
+    "color": {
+      "name": "Neon Green",
+      "hex": "#91a536"
+    },
+    "size": "One Size",
+    "imageRefs": [
+      1
+    ]
+  }
+]

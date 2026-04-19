@@ -1,0 +1,66 @@
+[
+  {
+    "contentKey": "3037bf3f5a2ea7d8",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 7.03,
+    "color": {
+      "name": "Grey Melange",
+      "hex": "#9b9a9a"
+    },
+    "size": "XL",
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "42a9e6c6558b74ab",
+    "stock": 20,
+    "stockLevel": "in-stock",
+    "price": 7.03,
+    "color": {
+      "name": "Red",
+      "hex": "#b1302a"
+    },
+    "size": "S",
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "a1b518f312360879",
+    "stock": 7,
+    "stockLevel": "low",
+    "price": 7.03,
+    "color": {
+      "name": "Grey Melange",
+      "hex": "#9b9a9a"
+    },
+    "size": "S",
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "e66508b1ba370661",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 7.03,
+    "color": {
+      "name": "Grey Melange",
+      "hex": "#9b9a9a"
+    },
+    "size": "L",
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "contentKey": "66c1ace87e760529",
+    "stock": 1001,
+    "stockLevel": "in-stock",
+    "price": 10.96,
+    "color": {
+      "name": "Orion Navy Blue",
+      "hex": "#12315a"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "ae786f1fa2fbf320",
+    "stock": 662,
+    "stockLevel": "in-stock",
+    "price": 10.96,
+    "color": {
+      "name": "Lotto Red",
+      "hex": "#891627"
+    },
+    "size": "XL",
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "d3fd12b0298ef68a",
+    "stock": 1001,
+    "stockLevel": "in-stock",
+    "price": 10.96,
+    "color": {
+      "name": "Cement Grey",
+      "hex": "#7d8295"
+    },
+    "size": "M",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "d79b3abc2c747b4b",
+    "stock": 1001,
+    "stockLevel": "in-stock",
+    "price": 10.96,
+    "color": {
+      "name": "Cement Grey",
+      "hex": "#7d8295"
+    },
+    "size": "S",
+    "imageRefs": [
+      0
+    ]
+  }
+]

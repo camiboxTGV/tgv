@@ -1,0 +1,44 @@
+[
+  {
+    "contentKey": "5b468328f77a3552",
+    "stock": 1462,
+    "stockLevel": "in-stock",
+    "price": 14.38,
+    "color": {
+      "name": "Navy Heather",
+      "hex": "#222277"
+    },
+    "imageRefs": [
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "9e7d837bf7ede27a",
+    "stock": 795,
+    "stockLevel": "in-stock",
+    "price": 14.38,
+    "color": {
+      "name": "Red",
+      "hex": "#cc0000"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "cbbf95a47ab3e7b4",
+    "stock": 1315,
+    "stockLevel": "in-stock",
+    "price": 14.38,
+    "color": {
+      "name": "Dark Grey",
+      "hex": "#646464"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "contentKey": "78e8f1cf2b035e7c",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 22.44,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "size": "XS",
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "8e78ada176664cf5",
+    "stock": 18,
+    "stockLevel": "in-stock",
+    "price": 22.44,
+    "color": {
+      "name": "Burgundy",
+      "hex": "#5a2d44"
+    },
+    "size": "XS",
+    "imageRefs": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26
+    ]
+  },
+  {
+    "contentKey": "de7b2a4aeaac49f3",
+    "stock": 21,
+    "stockLevel": "in-stock",
+    "price": 22.44,
+    "color": {
+      "name": "Convoy Grey",
+      "hex": "#5d6369"
+    },
+    "size": "XS",
+    "imageRefs": [
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ]
+  },
+  {
+    "contentKey": "ffd554c214b75067",
+    "stock": 117,
+    "stockLevel": "in-stock",
+    "price": 22.44,
+    "color": {
+      "name": "French Navy",
+      "hex": "#12315a"
+    },
+    "size": "XS",
+    "imageRefs": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ]
+  }
+]

@@ -6,7 +6,7 @@ import { services } from "@/lib/content/services"
 export const metadata: Metadata = {
   title: "Services — TGV-Media",
   description:
-    "Personalizare obiecte promoționale, timbru sec și folio, producție custom și tipar digital — patru servicii sub același acoperiș.",
+    "Promotional object personalization, embossing & foil finishing, custom production and digital print — four services under one roof.",
 }
 
 export default function ServicesPage() {

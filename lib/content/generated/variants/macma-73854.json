@@ -1,0 +1,32 @@
+[
+  {
+    "contentKey": "71b71b8481586e3c",
+    "stock": 47800,
+    "stockLevel": "in-stock",
+    "price": 0.3,
+    "color": {
+      "name": "Transparent",
+      "hex": "#ececec"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "a67e1bc61738b1e8",
+    "stock": 12904,
+    "stockLevel": "in-stock",
+    "price": 0.3,
+    "color": {
+      "name": "Blue",
+      "hex": "#104e8b"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+name: Catalog sync
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # 03:00 UTC daily
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Bypass the 50% deletion guard"
+        type: boolean
+        default: false
+      skip_images:
+        description: "Skip image downloads (fast path)"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run catalog sync
+        env:
+          MACMA_API_BASE: ${{ secrets.MACMA_API_BASE }}
+        run: |
+          npm run sync:catalog -- \
+            ${{ inputs.force && '--force' || '' }} \
+            ${{ inputs.skip_images && '--skip-images' || '' }}
+
+      - name: Detect changes
+        id: diff
+        run: |
+          git add -A
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit and push
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore(catalog): daily sync #${{ github.run_number }}"
+          git push

@@ -1,0 +1,38 @@
+[
+  {
+    "contentKey": "7e7c9e64039982d8",
+    "stock": 7232,
+    "stockLevel": "in-stock",
+    "price": 4.39,
+    "color": {
+      "name": "White",
+      "hex": "#ffffff"
+    },
+    "imageRefs": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "efef7c779beecc84",
+    "stock": 3835,
+    "stockLevel": "in-stock",
+    "price": 4.39,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  }
+]

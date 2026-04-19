@@ -1,0 +1,44 @@
+[
+  {
+    "contentKey": "94ed36704149eff3",
+    "stock": 1001,
+    "stockLevel": "in-stock",
+    "price": 12.57,
+    "color": {
+      "name": "White",
+      "hex": "#ffffff"
+    },
+    "size": "M",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "a0d1a083a16bc874",
+    "stock": 1001,
+    "stockLevel": "in-stock",
+    "price": 12.57,
+    "color": {
+      "name": "White",
+      "hex": "#ffffff"
+    },
+    "size": "XL",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "c70ee3b036e85144",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 12.99,
+    "color": {
+      "name": "Black",
+      "hex": "#343331"
+    },
+    "size": "L",
+    "imageRefs": [
+      1
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "contentKey": "85261fa63b9693bb",
+    "stock": 17491,
+    "stockLevel": "in-stock",
+    "price": 0.67,
+    "color": {
+      "name": "Dark Grey",
+      "hex": "#646464"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "contentKey": "def5429e644f0746",
+    "stock": 9188,
+    "stockLevel": "in-stock",
+    "price": 0.67,
+    "color": {
+      "name": "Rose Gold",
+      "hex": "#cd5555"
+    },
+    "imageRefs": [
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "fd68460e886fbb75",
+    "stock": 13604,
+    "stockLevel": "in-stock",
+    "price": 0.67,
+    "color": {
+      "name": "Gold",
+      "hex": "#cd9b1d"
+    },
+    "imageRefs": [
+      9,
+      10,
+      11,
+      12
+    ]
+  }
+]
