@@ -7,10 +7,15 @@ import ChipGroup from "@/components/contact/ChipGroup"
 import FileDropZone from "@/components/contact/FileDropZone"
 import { useOffer } from "@/components/OfferProvider"
 import { deserializeFromUrl, lineKey, type OfferItem } from "@/lib/offer/storage"
-
-type QuantityBucket = "1-50" | "50-500" | "500-5000" | "5000+" | "other"
-
-type DeadlinePreset = "2-weeks" | "1-month" | "2-3-months" | "flexible"
+import {
+  ACCEPT_FILES_ATTR,
+  EMAIL_REGEX,
+  MAX_CONTEXT_CHARS,
+  MAX_FILE_BYTES,
+  MIN_CONTEXT_CHARS,
+  type DeadlinePreset,
+  type QuantityBucket,
+} from "@/lib/contact/types"
 
 interface FormState {
   name: string
@@ -42,10 +47,6 @@ const DEADLINE_PRESETS: { value: DeadlinePreset; label: string; hint: string }[]
   { value: "flexible", label: "Flexible", hint: "We'll suggest the optimal timeline" },
 ]
 
-const MAX_FILE_BYTES = 25 * 1024 * 1024
-const ACCEPT_FILES = ".ai,.eps,.svg,.pdf,.png,.tiff,.tif,.jpg,.jpeg,.psd,.indd"
-const EMAIL_REGEX = /^[^\s@]+@[^\s@]+\.[^\s@]+$/
-
 const initial: FormState = {
   name: "",
   email: "",
@@ -65,6 +66,23 @@ function todayIso(): string {
   return d.toISOString().slice(0, 10)
 }
 
+function errorMessage(code: string): string {
+  switch (code) {
+    case "file_too_large":
+      return "One of your files exceeds the 25 MB limit."
+    case "file_type_not_allowed":
+      return "One of your files has an unsupported format."
+    case "upload_total_too_large":
+      return "Total attachments exceed the upload limit. Please split into fewer files."
+    case "network":
+      return "We couldn't reach the server. Check your connection and try again."
+    case "send_failed":
+      return "We couldn't send your brief. Please try again in a moment or email us directly."
+    default:
+      return "Something went wrong. Please try again."
+  }
+}
+
 export default function ContactForm() {
   const searchParams = useSearchParams()
   const { items: offerItems, clear } = useOffer()
@@ -73,6 +91,7 @@ export default function ContactForm() {
   const [touched, setTouched] = useState<Set<keyof FormState>>(new Set())
   const [submitting, setSubmitting] = useState(false)
   const [submitted, setSubmitted] = useState(false)
+  const [submitError, setSubmitError] = useState<string | null>(null)
   const [selectedProducts, setSelectedProducts] = useState<OfferItem[]>([])
 
   const fromOffer = searchParams?.get("from") === "offer"
@@ -97,7 +116,7 @@ export default function ContactForm() {
       state.name.trim().length > 0 &&
       EMAIL_REGEX.test(state.email.trim()) &&
       deadlineOk &&
-      state.context.trim().length >= 20
+      state.context.trim().length >= MIN_CONTEXT_CHARS
     )
   }, [state])
 
@@ -146,7 +165,8 @@ export default function ContactForm() {
       case "context": {
         const v = (value as string).trim()
         if (v.length === 0) return "Required."
-        if (v.length < 20) return `Tell us a bit more (min 20 chars, ${v.length} so far).`
+        if (v.length < MIN_CONTEXT_CHARS)
+          return `Tell us a bit more (min ${MIN_CONTEXT_CHARS} chars, ${v.length} so far).`
         return undefined
       }
       default:
@@ -166,28 +186,49 @@ export default function ContactForm() {
     return Object.keys(all).length === 0
   }
 
-  function handleSubmit(e: React.FormEvent) {
+  async function handleSubmit(e: React.FormEvent) {
     e.preventDefault()
     if (!validateAll()) return
     setSubmitting(true)
+    setSubmitError(null)
 
-    const payload = {
-      ...state,
-      files: state.files.map((f) => ({
-        name: f.name,
-        size: f.size,
-        type: f.type,
-      })),
-      selectedProducts,
-      submittedAt: new Date().toISOString(),
+    const formData = new FormData()
+    formData.append("name", state.name.trim())
+    formData.append("email", state.email.trim())
+    formData.append("phone", state.phone.trim())
+    formData.append("company", state.company.trim())
+    if (state.quantity) formData.append("quantity", state.quantity)
+    formData.append("quantityOther", state.quantityOther.trim())
+    if (state.deadlinePreset) formData.append("deadlinePreset", state.deadlinePreset)
+    formData.append("deadlineDate", state.deadlineDate)
+    formData.append("context", state.context)
+    formData.append("selectedProducts", JSON.stringify(selectedProducts))
+    for (const file of state.files) {
+      formData.append("files", file, file.name)
     }
-    // eslint-disable-next-line no-console
-    console.log("[contact] brief payload", payload)
 
-    window.setTimeout(() => {
-      setSubmitting(false)
+    try {
+      const res = await fetch("/api/contact", {
+        method: "POST",
+        body: formData,
+      })
+      if (!res.ok) {
+        let code = "send_failed"
+        try {
+          const body = (await res.json()) as { error?: string }
+          if (body?.error) code = body.error
+        } catch {
+          // ignore parse failure — use default code
+        }
+        setSubmitError(errorMessage(code))
+        setSubmitting(false)
+        return
+      }
       setSubmitted(true)
-    }, 800)
+    } catch {
+      setSubmitError(errorMessage("network"))
+      setSubmitting(false)
+    }
   }
 
   if (submitted) {
@@ -308,11 +349,11 @@ export default function ContactForm() {
             label="Tell us about the event, audience or campaign"
             required
             error={errors.context}
-            help={`${state.context.length}/2000`}
+            help={`${state.context.length}/${MAX_CONTEXT_CHARS}`}
           >
             <textarea
               value={state.context}
-              onChange={(e) => update("context", e.target.value.slice(0, 2000))}
+              onChange={(e) => update("context", e.target.value.slice(0, MAX_CONTEXT_CHARS))}
               onBlur={() => markTouched("context")}
               rows={5}
               placeholder="Who is it for, when does it happen, what does success look like…"
@@ -327,11 +368,19 @@ export default function ContactForm() {
           files={state.files}
           onChange={(files) => update("files", files)}
           maxBytes={MAX_FILE_BYTES}
-          accept={ACCEPT_FILES}
+          accept={ACCEPT_FILES_ATTR}
         />
       </FieldGroup>
 
       <div className="flex flex-col gap-4 pt-2">
+        {submitError && (
+          <div
+            role="alert"
+            className="px-4 py-3 text-sm text-[var(--brand-orange)] bg-[var(--surface-soft)] border border-[var(--brand-orange)] rounded-xl"
+          >
+            {submitError}
+          </div>
+        )}
         <button
           type="submit"
           disabled={!requiredValid || submitting}

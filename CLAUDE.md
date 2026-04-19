@@ -170,19 +170,20 @@ The contact form is the site's single conversion point. Fields:
 - Message (required)
 - File attachment (optional — artwork, brief, reference images)
 
-### Submission — Not Yet Decided
+### Submission
 
-The form submission backend is **deliberately unspecified**. Options on the table:
+The form POSTs `multipart/form-data` to the Next.js route handler at [`app/api/contact/route.ts`](app/api/contact/route.ts). The handler re-runs validation, renders an HTML + text email via [`lib/email/renderContactEmail.ts`](lib/email/renderContactEmail.ts), and sends through nodemailer-over-SMTP from [`lib/email/smtp.ts`](lib/email/smtp.ts) using the `tgv@tgv-media.ro` mailbox on `mail.tgv-media.ro:465`.
 
-- **Static form service** (Formspree, Web3Forms, Getform) — zero backend, POST directly from client
-- **Serverless function** — Next.js route handler at `/api/contact` forwarding to email (Resend, SendGrid, Postmark)
-- **Custom backend API** — if infrastructure already exists, set `NEXT_PUBLIC_API_URL` and POST to `/inquiries`
+The email is internal-only — it goes to `camelia.tudor@tgv-media.ro` with the customer's address set as `Reply-To`. When the form carries offer products (from `/offer → Continue to brief`), the email includes a product table with snapshot prices and an indicative total. When there are no products, it includes the quantity-bucket estimate instead.
 
-When the submission method is chosen, update `ContactForm.tsx` and document it here. Until then, stub the submit handler with a clear placeholder that logs the payload and shows a success state — do **not** build speculative backend plumbing.
+Required env vars (see `.env.example`):
+
+- `SMTP_HOST`, `SMTP_PORT`, `SMTP_SECURE`, `SMTP_USER`, `SMTP_PASSWORD`
+- `CONTACT_NOTIFICATION_FROM`, `CONTACT_NOTIFICATION_TO`
 
 ### File Uploads
 
-If the chosen submission path doesn't support file uploads natively, files should be uploaded separately (pre-signed URL to object storage) before the form POST — or omitted until the backend is decided. Do not invent an upload flow speculatively.
+Files are transmitted with the form as binary (FormData) and attached to the email directly. Limits enforced on both client and server: max 25 MB per file, 35 MB total per submission, extension allowlist in [`lib/contact/types.ts`](lib/contact/types.ts).
 
 ---
 
@@ -347,19 +348,21 @@ npm run start   # Start production server
 npm run lint    # ESLint
 ```
 
-Environment variables (as needed):
+Environment variables (see `.env.example` for the full list):
 ```
-# Only if a backend or form service is wired up later
-NEXT_PUBLIC_CONTACT_ENDPOINT=<tbd>
+SMTP_HOST=mail.tgv-media.ro
+SMTP_PORT=465
+SMTP_SECURE=true
+SMTP_USER=tgv@tgv-media.ro
+SMTP_PASSWORD=<mailbox password>
+CONTACT_NOTIFICATION_FROM=tgv@tgv-media.ro
+CONTACT_NOTIFICATION_TO=camelia.tudor@tgv-media.ro
 NEXT_PUBLIC_CLARITY_PROJECT_ID=<your-clarity-id>
 ```
 
 ---
 
 ## Open Decisions / To Resolve Before Launch
-
-### Contact Form Submission
-Decide between static form service, serverless route, or custom API. Until chosen, the form logs payload and shows success state only. **Do not build speculative backend plumbing.**
 
 ### Content Authoring
 Services, techniques, and portfolio items live in `lib/content/` as typed static modules. If content editors need non-developer access later, migrate to a lightweight CMS (Sanity, Contentful, MDX) — keep the module function signatures stable so pages don't change.
