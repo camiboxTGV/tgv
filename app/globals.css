@@ -1,0 +1,63 @@
+@import "tailwindcss";
+
+:root {
+  --brand-orange: #FF6600;
+  --brand-gray: #4D4D4D;
+  --brand-black: #0F0F10;
+
+  --bg: #F6F5F9;
+  --surface: #FFFFFF;
+  --surface-soft: #F1F0F5;
+  --surface-elevated: #E9E8EF;
+
+  --text-primary: #0F0F10;
+  --text-soft: #3C3C45;
+  --text-muted: #6F6F7A;
+
+  --border: #E2E1E8;
+  --border-soft: #ECEBF2;
+  --border-strong: #D2D1DA;
+
+  --primary: #FF6600;
+  --primary-hover: #FF6600;
+  --secondary: #4D4D4D;
+  --secondary-hover: #4D4D4D;
+}
+
+@theme inline {
+  --color-brand-orange: var(--brand-orange);
+  --color-brand-gray: var(--brand-gray);
+  --color-brand-black: var(--brand-black);
+
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-soft: var(--surface-soft);
+  --color-surface-elevated: var(--surface-elevated);
+
+  --color-text-primary: var(--text-primary);
+  --color-text-soft: var(--text-soft);
+  --color-text-muted: var(--text-muted);
+
+  --color-border: var(--border);
+  --color-border-soft: var(--border-soft);
+  --color-border-strong: var(--border-strong);
+
+  --color-primary: var(--primary);
+  --color-primary-hover: var(--primary-hover);
+  --color-secondary: var(--secondary);
+  --color-secondary-hover: var(--secondary-hover);
+
+  --font-display: var(--font-outfit);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text-primary);
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
