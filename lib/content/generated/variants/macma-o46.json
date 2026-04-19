@@ -122,7 +122,7 @@
   },
   {
     "contentKey": "1e0bdccbc8ea8449",
-    "stock": 64,
+    "stock": 36,
     "stockLevel": "in-stock",
     "price": 7.84,
     "color": {
@@ -152,8 +152,8 @@
   },
   {
     "contentKey": "1e0bdccbc8ea8449",
-    "stock": 8,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 9.75,
     "color": {
       "name": "Burgundy",
@@ -167,7 +167,7 @@
   },
   {
     "contentKey": "2d2b1d0eeaf523f9",
-    "stock": 26,
+    "stock": 21,
     "stockLevel": "in-stock",
     "price": 7.84,
     "color": {
@@ -383,8 +383,8 @@
   },
   {
     "contentKey": "6a56712dd0700c82",
-    "stock": 11,
-    "stockLevel": "in-stock",
+    "stock": 2,
+    "stockLevel": "low",
     "price": 7.84,
     "color": {
       "name": "Red",
@@ -460,8 +460,8 @@
   },
   {
     "contentKey": "8576340cd6d9a25a",
-    "stock": 5,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 9.75,
     "color": {
       "name": "White",
@@ -475,8 +475,8 @@
   },
   {
     "contentKey": "85dac243b42f3c37",
-    "stock": 9,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 7.84,
     "color": {
       "name": "Black",
@@ -538,7 +538,7 @@
   },
   {
     "contentKey": "9731dc1eb6788bab",
-    "stock": 32,
+    "stock": 20,
     "stockLevel": "in-stock",
     "price": 7.84,
     "color": {
@@ -570,8 +570,8 @@
   },
   {
     "contentKey": "9bdff0817810ce23",
-    "stock": 21,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 7.84,
     "color": {
       "name": "Burgundy",
@@ -586,7 +586,7 @@
   },
   {
     "contentKey": "9c54be635c4eae5b",
-    "stock": 9,
+    "stock": 1,
     "stockLevel": "low",
     "price": 7.84,
     "color": {
@@ -634,8 +634,8 @@
   },
   {
     "contentKey": "aadd51144e974dad",
-    "stock": 15,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 7.84,
     "color": {
       "name": "Heather Grey",
@@ -710,8 +710,8 @@
   },
   {
     "contentKey": "ba43417658a82c90",
-    "stock": 26,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 7.84,
     "color": {
       "name": "Anthracite",
@@ -725,7 +725,7 @@
   },
   {
     "contentKey": "c5096c25cef4c009",
-    "stock": 43,
+    "stock": 10,
     "stockLevel": "in-stock",
     "price": 7.84,
     "color": {
@@ -877,8 +877,8 @@
   },
   {
     "contentKey": "dfc0544ad3e11c33",
-    "stock": 10,
-    "stockLevel": "in-stock",
+    "stock": 4,
+    "stockLevel": "low",
     "price": 7.84,
     "color": {
       "name": "Pumpkin Orange",
@@ -986,7 +986,7 @@
   },
   {
     "contentKey": "efe095fd1469785f",
-    "stock": 14,
+    "stock": 10,
     "stockLevel": "in-stock",
     "price": 7.84,
     "color": {
@@ -1001,7 +1001,7 @@
   },
   {
     "contentKey": "f26ce3e94cbb78e3",
-    "stock": 44,
+    "stock": 23,
     "stockLevel": "in-stock",
     "price": 7.84,
     "color": {

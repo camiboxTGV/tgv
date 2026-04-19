@@ -18,10 +18,20 @@
       "https://macma.ro/products/jpg/TEXTIL/OLIMA/ol2000-navy-white_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/OLIMA/ol2000-white-navy_1.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Navy/White",
+        "hex": "#3b3a50"
+      },
+      {
+        "name": "White/Navy",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "Olima",
     "weightGrams": 1000,
     "descriptionLong": "Premium quality 600g/m2 beach towels. made from 20/2 ring-spun cotton;100% cotton main body. 100% polyester stripes;7cm wide bordures for embroidery;No harmful substances! Certified according to STANDARD 100 by OEKO-TEX®.;Avoid using fabric softener because it reduces towels’ water absorbency;Supplier stockavailable within 72h!;",
@@ -45,10 +55,16 @@
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/OLIMA/ol3300-white_1.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 3,
     "colorCount": 1,
     "sizeCount": 2,
+    "colorSwatches": [
+      {
+        "name": "Arctic White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "Olima",
     "weightGrams": 950,
     "descriptionLong": "100% ring spun cotton;Shawl collar for extra comfort;Soft and highly absorbant;Waistband with belt loops;Hanging loop at neck;Avoid using fabric softener because it reduces towels’ water absorbency;No harmful substances! Certified according to STANDARD 100 by OEKO-TEX®;",
@@ -91,10 +107,52 @@
       "https://macma.ro/products/jpg/TEXTIL/OLIMA/ol360-yellow_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/OLIMA/ol360-yellow_a1.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 35,
     "colorCount": 10,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Carribean Blue",
+        "hex": "#07b5ae"
+      },
+      {
+        "name": "Kelly Green",
+        "hex": "#4aa065"
+      },
+      {
+        "name": "Lime",
+        "hex": "#6eff00"
+      },
+      {
+        "name": "Marine Blue",
+        "hex": "#332d6b"
+      },
+      {
+        "name": "Orange",
+        "hex": "#ff6600"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      },
+      {
+        "name": "Royal",
+        "hex": "#224d8f"
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1c2a3"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      },
+      {
+        "name": "Yellow",
+        "hex": "#ffcc00"
+      }
+    ],
     "brand": "Olima",
     "weightGrams": 540,
     "descriptionLong": "100% cotton;360g/m²;Tearaway/Cut Outlabel;Satin / Cotton hanger loop;Satin hanger loop is placed on shorter sideon all towel sizes;Cotton hanger:Guest and Hand towel - Hangeron shorter side;Bath and Maxi Bath - Hangeron longer side;;One emphasized bo",
@@ -118,10 +176,16 @@
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/OLIMA/ol400-white_7.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "Olima",
     "weightGrams": 36,
     "descriptionLong": "100% Ring-Spun Cotton;400 g/m2;Tear away label;Paper band on 10 pcs pack;Double stitching;No harmful substances! STANDARD 100 by OEKO-TEX® certified;Avoid using fabric softener because it reduces towels’ water absorbency;",
@@ -189,10 +253,148 @@
       "https://macma.ro/products/jpg/TEXTIL/OLIMA/ol450-white_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/OLIMA/ol450-yellow_1.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 169,
     "colorCount": 34,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Aqua",
+        "hex": "#03a3c8"
+      },
+      {
+        "name": "Baby Blue",
+        "hex": "#69b3e7"
+      },
+      {
+        "name": "Baby Pink",
+        "hex": "#f5b6cd"
+      },
+      {
+        "name": "Berry",
+        "hex": "#7f2952"
+      },
+      {
+        "name": "Black",
+        "hex": "#1a1718"
+      },
+      {
+        "name": "Bordeaux",
+        "hex": "#a40931"
+      },
+      {
+        "name": "Bottle Green",
+        "hex": "#41553c"
+      },
+      {
+        "name": "Caribbean Blue",
+        "hex": "#81cbd4"
+      },
+      {
+        "name": "Chilli Red",
+        "hex": "#a52e3a"
+      },
+      {
+        "name": "Dark Chocolate",
+        "hex": "#423238"
+      },
+      {
+        "name": "Dark Coffee",
+        "hex": "#453e37"
+      },
+      {
+        "name": "Denim",
+        "hex": "#535a77"
+      },
+      {
+        "name": "Festival Fuchsia",
+        "hex": "#924678"
+      },
+      {
+        "name": "Heliconia",
+        "hex": "#db3e79"
+      },
+      {
+        "name": "Jade",
+        "hex": "#007377"
+      },
+      {
+        "name": "Kelly Green",
+        "hex": "#00805e"
+      },
+      {
+        "name": "Light Grey",
+        "hex": "#a7a69f"
+      },
+      {
+        "name": "Lime",
+        "hex": "#92bf55"
+      },
+      {
+        "name": "Marine Blue",
+        "hex": "#332d6b"
+      },
+      {
+        "name": "Marzipan",
+        "hex": "#dac29b"
+      },
+      {
+        "name": "Navy",
+        "hex": "#263147"
+      },
+      {
+        "name": "Olive",
+        "hex": "#5e534e"
+      },
+      {
+        "name": "Orange",
+        "hex": "#df6426"
+      },
+      {
+        "name": "Pastel Mint",
+        "hex": "#d7e7ca"
+      },
+      {
+        "name": "Plum",
+        "hex": "#6a3460"
+      },
+      {
+        "name": "Purple",
+        "hex": "#3f2a56"
+      },
+      {
+        "name": "Red",
+        "hex": "#b1302a"
+      },
+      {
+        "name": "Royal",
+        "hex": "#224d8f"
+      },
+      {
+        "name": "Sand",
+        "hex": "#cabfad"
+      },
+      {
+        "name": "Sunflower",
+        "hex": "#f8c93c"
+      },
+      {
+        "name": "Tennessee Orange",
+        "hex": "#ea961c"
+      },
+      {
+        "name": "Venice Blue",
+        "hex": "#0084c0"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      },
+      {
+        "name": "Yellow",
+        "hex": "#ffcc00"
+      }
+    ],
     "brand": "Olima",
     "weightGrams": 730,
     "descriptionLong": "100% Ring-Spun cotton;450g/m²;Tear away label;Dyed to match. 100% cotton hanger loop;Guest and Hand towel - Hangeron shorter sides;Bath and Maxi Bath - Hangeron longer sides;Two emphasized bordures at towel ends;Border width:Guest (30x50) 6cm;Hand (5",
@@ -220,10 +422,28 @@
       "https://macma.ro/products/jpg/TEXTIL/OLIMA/ol500-red_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/OLIMA/ol500-white_1.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 19,
     "colorCount": 4,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Caribbean Blue",
+        "hex": "#81cbd4"
+      },
+      {
+        "name": "Navy",
+        "hex": "#263147"
+      },
+      {
+        "name": "Red",
+        "hex": "#d01c28"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "Olima",
     "weightGrams": 760,
     "descriptionLong": "Sport towels with contrast colour drawstring;100% ring-spun cotton. 16/1;No harmful substances! Certified according to STANDARD 100 by OEKO-TEX®.;Avoid using fabric softener because it reduces towels’ water absorbency;Supplier stockavailable within 7",
@@ -247,10 +467,16 @@
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/OLIMA/ol600-white_1.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "Olima",
     "weightGrams": 210,
     "descriptionLong": "100% Ring-Spun cotton;Tear away label;Double stitching on the longer side;White color can be washed at 95°C;No harmful substances! STANDARD 100 by OEKO-TEX® Certified;Avoid using fabric softener because it reduces towels’ water absorbency;",
@@ -274,10 +500,16 @@
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/OLIMA/olh400-white_1.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 3,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "Olima",
     "weightGrams": 400,
     "hasVariantDetail": true
@@ -300,10 +532,16 @@
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/OLIMA/olh500-white_1.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 3,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "Olima",
     "weightGrams": 500,
     "hasVariantDetail": true
@@ -333,10 +571,28 @@
       "https://macma.ro/products/jpg/TEXTIL/OLIMA/olp600-white_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/OLIMA/olp600-white_a1.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 8,
     "colorCount": 4,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Ecru",
+        "hex": "#dcd7d4"
+      },
+      {
+        "name": "Navy",
+        "hex": "#12315b"
+      },
+      {
+        "name": "Taupe",
+        "hex": "#998576"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "Olima",
     "weightGrams": 600,
     "hasVariantDetail": true
@@ -359,10 +615,16 @@
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/OLIMA/ols400-white_1.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 2,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "Olima",
     "weightGrams": 200,
     "descriptionLong": "100% ring spun cotton;Bordure: 100% polyester suitable for sublimation printing;Tear away label;Dyed to match. 100% cotton hanger loop;50x100 - Hangeron the shorter side;70x140 - Hangeron the longer side;Bordure size:;Hand (50x100): 50 x 9cm.",
@@ -383,10 +645,16 @@
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/OLIMA/olsub350-white_1.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 2,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "Olima",
     "weightGrams": 160,
     "descriptionLong": "Double face towel with 100% cotton terry on one side and 100% polyester microfibre for sublimation on the other side. Tear away label. Without hangerloop. No harmful substances! Certified according to STANDARD 100 by OEKO-TEX. Avoid using fabric softener because it reduces towels&rsquo water absorbency.",
@@ -414,10 +682,32 @@
       "https://macma.ro/products/jpg/TEXTIL/OLIMA/olv4000-royal_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/OLIMA/olv4000-sand_1.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Charcoal Grey",
+        "hex": "#4e4e50"
+      },
+      {
+        "name": "Marine Blue",
+        "hex": "#332d6b"
+      },
+      {
+        "name": "Red",
+        "hex": "#d01c28"
+      },
+      {
+        "name": "Royal",
+        "hex": "#224d8f"
+      },
+      {
+        "name": "Sand",
+        "hex": "#d1c2a3"
+      }
+    ],
     "brand": "Olima",
     "weightGrams": 720,
     "descriptionLong": "98% ring-spun cotton/2% polyester;100% ring-spun cotton main body. 100% polyester bordure;Beach velour/terry towel with 5.5cm widewhite sublimation bordures;Olima woven label andtear away care label;White sublimation bordure only on the velour side. The terry side has DTM cotton bordure;No harmful substances! Certified according to STANDARD 100 by OEKO-TEX®;Avoid using fabric softener because it reduces towels’ water absorbency;Supplier stockavailable within 72h!;",
@@ -440,10 +730,24 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/crawl-black_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/crawl-lottored_1.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 1,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#343331"
+      },
+      {
+        "name": "Lotto Red",
+        "hex": "#891627"
+      },
+      {
+        "name": "Sky Blue",
+        "hex": "#9cb4d6"
+      }
+    ],
     "brand": "Valento",
     "weightGrams": 60,
     "descriptionLong": "Microfiber towel made of 80% polyester, 20% polyamide. 225 gr/m2. Single packing.",

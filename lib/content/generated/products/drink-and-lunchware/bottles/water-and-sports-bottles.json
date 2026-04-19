@@ -12,7 +12,7 @@
     "supplierSku": "4900200AJ3",
     "price": 10.93,
     "priceFrom": false,
-    "stockLevel": "in-stock",
+    "stockLevel": "out-of-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4900200aj3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4900200aj3_2.jpg",
@@ -23,10 +23,20 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4900201aj3_c.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4900201aj3_d.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 1,
+    "colorSwatches": [
+      {
+        "name": "Dark Grey",
+        "hex": "#646464"
+      },
+      {
+        "name": "Transparent",
+        "hex": "#ececec"
+      }
+    ],
     "brand": "Schwarzwolf",
     "weightGrams": 150,
     "descriptionLong": "Schwarzwolf sports tritan bottle in a grey color with a pleasant rubber surface, black lid and loop for hanging. The bottle supports a healthy life style because it doesn´t include BPA. The bottle is suitable for cold and warm drinks from -10°C to 80°C. In the lower part of the bottle is a silicone stripe with the Schwarzwolf logo. Packed in a Schwarzwolf gift box. Volume: 0,8 l. Material: tritan.",
@@ -62,10 +72,32 @@
       "https://macma.ro/products/jpg/M/6019410_1.jpg",
       "https://macma.ro/products/jpg/M/6019410_2.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      },
+      {
+        "name": "Navy Heather",
+        "hex": "#222277"
+      },
+      {
+        "name": "Orange",
+        "hex": "#ff6600"
+      },
+      {
+        "name": "Yellow",
+        "hex": "#ffcc00"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 132,
     "descriptionLong": "800 ml aluminium drinking bottle with a snap hook.",
@@ -103,10 +135,32 @@
       "https://macma.ro/products/jpg/M/6019503_1.jpg",
       "https://macma.ro/products/jpg/M/6019503_2.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      },
+      {
+        "name": "Yellow",
+        "hex": "#ffcc00"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 104,
     "descriptionLong": "500 ml aluminium drinking bottle with a snap hook.",
@@ -155,10 +209,36 @@
       "https://macma.ro/products/jpg/M/6065608_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6065608_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Light Blue",
+        "hex": "#bfefff"
+      },
+      {
+        "name": "LIght Green",
+        "hex": "#caff70"
+      },
+      {
+        "name": "Orange",
+        "hex": "#ff6600"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      },
+      {
+        "name": "Transparent",
+        "hex": "#ececec"
+      },
+      {
+        "name": "Yellow",
+        "hex": "#ffcc00"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 119,
     "descriptionLong": "550 ml plastic drinking bottle in trendy colours with rubber finish.",
@@ -192,10 +272,16 @@
       "https://macma.ro/products/jpg/M/lifestyle/6081377_lifestyle_10.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6081377_lifestyle_6.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Dark Grey",
+        "hex": "#646464"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 320,
     "descriptionLong": "Drink dispenser made of plastic with lockable spout, carrying handle,sieve insert for e.g. fruits, and 1800 ml capacity. We will print your logo on the lower area of the bottle.",
@@ -224,10 +310,16 @@
       "https://macma.ro/products/jpg/M/6081506_6.jpg",
       "https://macma.ro/products/jpg/M/6081506_7.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 204,
     "descriptionLong": "Tritan drinking bottle with a filling capacity of 850 ml. The insert including the integrated straw ensures an easy drinking.",
@@ -268,10 +360,24 @@
       "https://macma.ro/products/jpg/M/6086305_4.jpg",
       "https://macma.ro/products/jpg/M/6086305_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 133,
     "descriptionLong": "Drinking bottle, made of aluminium with silicone lid, belt holder and 600 ml capacity. We will engrave your logo on the bottle.",
@@ -315,10 +421,20 @@
       "https://macma.ro/products/jpg/M/6098506_8.jpg",
       "https://macma.ro/products/jpg/M/6098506_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 237,
     "descriptionLong": "Transparent drinking bottle made of glass, with neoprene sleeve, closing lid, carrying strap, and 300 ml capacity.",
@@ -352,10 +468,24 @@
       "https://macma.ro/products/jpg/M/6098666_1.jpg",
       "https://macma.ro/products/jpg/M/6098666_2.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      },
+      {
+        "name": "Transparent",
+        "hex": "#ececec"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 151,
     "descriptionLong": "Transparent drinking bottle made of Tritan, with closing lid and 800 ml capacity.",
@@ -385,10 +515,16 @@
       "https://macma.ro/products/jpg/M/6134366_6.jpg",
       "https://macma.ro/products/jpg/M/6134366_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Transparent",
+        "hex": "#ececec"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 604,
     "descriptionLong": "Double-walled vacuum glass bottle with bamboo lid, sieve insert for tea or fruits and 420 ml capacity.",
@@ -439,10 +575,36 @@
       "https://macma.ro/products/jpg/M/6139466_box.jpg",
       "https://macma.ro/products/jpg/M/6139466_print.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Green",
+        "hex": "#00cc00"
+      },
+      {
+        "name": "Orange",
+        "hex": "#ff6600"
+      },
+      {
+        "name": "Pink",
+        "hex": "#ff34b3"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      },
+      {
+        "name": "Transparent",
+        "hex": "#ececec"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 360,
     "descriptionLong": "Drinking bottle, made of glass, with grey leak-proof lid and a 500 ml filling capacity.",
@@ -471,10 +633,16 @@
       "https://macma.ro/products/jpg/M/6151206_box.jpg",
       "https://macma.ro/products/jpg/M/6151206_print.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 126,
     "descriptionLong": "Aluminium bottle with lockable lid and a 600 ml capacity.",
@@ -502,10 +670,16 @@
       "https://macma.ro/products/jpg/M/6151406_3.jpg",
       "https://macma.ro/products/jpg/M/6151406_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 207,
     "descriptionLong": "Metal drinking bottle with lockable lid and 750 ml filling capacity.",
@@ -533,10 +707,16 @@
       "https://macma.ro/products/jpg/M/6151907_box.jpg",
       "https://macma.ro/products/jpg/M/6151907_print.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 353,
     "descriptionLong": "Leakproof, double-walled premium drinking bottle made of stainless steel with M-Powder coating, lockable screw cap and 500 ml filling capacity.",
@@ -609,10 +789,40 @@
       "https://macma.ro/products/jpg/M/6209829_5.jpg",
       "https://macma.ro/products/jpg/M/6209829_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 7,
     "colorCount": 7,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      },
+      {
+        "name": "LIght Green",
+        "hex": "#caff70"
+      },
+      {
+        "name": "Orange",
+        "hex": "#ff6600"
+      },
+      {
+        "name": "Pink",
+        "hex": "#ff34b3"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      },
+      {
+        "name": "Transparent",
+        "hex": "#ececec"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 120,
     "descriptionLong": "PET drinking bottle with stainless steel lid, hand loop and a capacity of 500 ml.",
@@ -644,10 +854,16 @@
       "https://macma.ro/products/jpg/M/6233566_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6233566_lifestyle_7.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Transparent",
+        "hex": "#ececec"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 328,
     "descriptionLong": "Leakproof glass bottle with bamboo lid, Jute cover, loop and a capacity of 500 ml.",
@@ -770,10 +986,60 @@
       "https://macma.ro/products/jpg/M/6242709_6.jpg",
       "https://macma.ro/products/jpg/M/6242709_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 12,
     "colorCount": 12,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Dark Grey",
+        "hex": "#646464"
+      },
+      {
+        "name": "Green",
+        "hex": "#00cc00"
+      },
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      },
+      {
+        "name": "Light Blue",
+        "hex": "#bfefff"
+      },
+      {
+        "name": "LIght Green",
+        "hex": "#caff70"
+      },
+      {
+        "name": "Navy Heather",
+        "hex": "#222277"
+      },
+      {
+        "name": "Orange",
+        "hex": "#ff6600"
+      },
+      {
+        "name": "Pink",
+        "hex": "#ff34b3"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      },
+      {
+        "name": "Violet",
+        "hex": "#a020f0"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 573,
     "descriptionLong": "Leakproof  drinking bottle, made out of glass, with neoprene sleeve, loop and a capacity of 1.000 ml.",
@@ -808,10 +1074,20 @@
       "https://macma.ro/products/jpg/M/6259224_5.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6259224_lifestyle_6.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Pink",
+        "hex": "#ff34b3"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 219,
     "descriptionLong": "Sports drinking bottle made of PP and PC material with spray function, a lockable lid and a capacity of 700 ml.",
@@ -914,10 +1190,56 @@
       "https://macma.ro/products/jpg/M/6318112_5.jpg",
       "https://macma.ro/products/jpg/M/6318112_6.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 11,
     "colorCount": 11,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Green",
+        "hex": "#00cc00"
+      },
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      },
+      {
+        "name": "Light Blue",
+        "hex": "#bfefff"
+      },
+      {
+        "name": "LIght Green",
+        "hex": "#caff70"
+      },
+      {
+        "name": "Navy Heather",
+        "hex": "#222277"
+      },
+      {
+        "name": "Orange",
+        "hex": "#ff6600"
+      },
+      {
+        "name": "Pink",
+        "hex": "#ff34b3"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      },
+      {
+        "name": "Violet",
+        "hex": "#a020f0"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 431,
     "descriptionLong": "Glass drinking bottle with neoprene sleeve, stainless steel lid with bamboo top, carrying handle and a capacity of 600 ml.",
@@ -944,10 +1266,16 @@
       "https://macma.ro/products/jpg/M/6571005_box.jpg",
       "https://macma.ro/products/jpg/M/6571005_print.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 166,
     "descriptionLong": "Aluminium drinking bottle with a sports closure and 600 ml capacity. Your logo will be engraved.",
@@ -1025,10 +1353,44 @@
       "https://macma.ro/products/jpg/M/8358329_6.jpg",
       "https://macma.ro/products/jpg/M/8358329_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 8,
     "colorCount": 8,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Dark Grey",
+        "hex": "#646464"
+      },
+      {
+        "name": "Green",
+        "hex": "#00cc00"
+      },
+      {
+        "name": "LIght Green",
+        "hex": "#caff70"
+      },
+      {
+        "name": "Pink",
+        "hex": "#ff34b3"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      },
+      {
+        "name": "Transparent",
+        "hex": "#ececec"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 186,
     "descriptionLong": "Leak-proof, BPA-free drinking bottle made of Tritan with lockable lid, drinking device and hand strap. The bottle has a filling capacity of 1,000ml with printed scale.",
@@ -1057,10 +1419,16 @@
       "https://macma.ro/products/jpg/M/8376307_5.jpg",
       "https://macma.ro/products/jpg/M/8376307_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 156,
     "descriptionLong": "Large drinking bottle made of recycled aluminium with a filling capacity of 750ml. The lid is made of bamboo and has a snap hook. Your logo will be engraved on the bottle.",
@@ -1090,10 +1458,16 @@
       "https://macma.ro/products/jpg/M/8378306_box.jpg",
       "https://macma.ro/products/jpg/M/8378306_print.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 154,
     "descriptionLong": "Drinking bottle made of recycled aluminium and 600 ml capacity. The bamboo closure has a practical carrying strap.",
@@ -1133,10 +1507,28 @@
       "https://macma.ro/products/jpg/M/lifestyle/8387906_lifestyle_1.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8387906_lifestyle_2.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 105,
     "descriptionLong": "Sports drinking bottle made of plastic (BPA free) with 750ml capacity and sports cap.",
@@ -1161,10 +1553,16 @@
       "https://macma.ro/products/jpg/M/8389766_1.jpg",
       "https://macma.ro/products/jpg/M/8389766_2.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Transparent",
+        "hex": "#ececec"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 274,
     "descriptionLong": "Drinking bottle made of borosilicate glass with 300ml capacity.",
@@ -1189,10 +1587,16 @@
       "https://macma.ro/products/jpg/M/8389866_1.jpg",
       "https://macma.ro/products/jpg/M/8389866_2.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Transparent",
+        "hex": "#ececec"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 467,
     "descriptionLong": "Large drinking bottle made of borosilicate glass with 750ml capacity.",
@@ -1223,10 +1627,16 @@
       "https://macma.ro/products/jpg/M/8436266_6.jpg",
       "https://macma.ro/products/jpg/M/8436266_7.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Transparent",
+        "hex": "#ececec"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 375,
     "descriptionLong": "Frosted glass bottle with bamboo lid and 500ml capacity. We will print your logo all over the bottle using photo-quality sublimation printing.",
@@ -1287,10 +1697,32 @@
       "https://macma.ro/products/jpg/M/8436909_4.jpg",
       "https://macma.ro/products/jpg/M/8436909_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Dark Grey",
+        "hex": "#646464"
+      },
+      {
+        "name": "Green",
+        "hex": "#00cc00"
+      },
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 150,
     "descriptionLong": "Drinking bottle with 750ml capacity made of recycled aluminium and practical silicone loop. We will engrave your logo on the bottle.",
@@ -1342,10 +1774,36 @@
       "https://macma.ro/products/jpg/M/8437011_2.jpg",
       "https://macma.ro/products/jpg/M/8437011_3.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Dark Grey",
+        "hex": "#646464"
+      },
+      {
+        "name": "Green",
+        "hex": "#00cc00"
+      },
+      {
+        "name": "Pink",
+        "hex": "#ff34b3"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      },
+      {
+        "name": "Transparent",
+        "hex": "#ececec"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 124,
     "descriptionLong": "Drinking bottle made of plastic (PET) with leak-proof closure, aluminium carabiner and a capacity of 600 ml.",
@@ -1383,10 +1841,32 @@
       "https://macma.ro/products/jpg/M/8481691_1.jpg",
       "https://macma.ro/products/jpg/M/8481691_2.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Green",
+        "hex": "#00cc00"
+      },
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      },
+      {
+        "name": "Navy Heather",
+        "hex": "#222277"
+      },
+      {
+        "name": "Rose",
+        "hex": "#eeb4b4"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "CrisMa",
     "weightGrams": 220,
     "descriptionLong": "Leak-proof drinking bottle made from recycled stainless steel with a capacity of 700ml and a lockable screw cap. This bottle is supplied in a black box.",
@@ -1425,10 +1905,28 @@
       "https://macma.ro/products/jpg/M/8482209_2.jpg",
       "https://macma.ro/products/jpg/M/8482209_3.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Dark Grey",
+        "hex": "#646464"
+      },
+      {
+        "name": "Green",
+        "hex": "#00cc00"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 127,
     "descriptionLong": "PET drinking bottle with bamboo lid and a capacity of 500ml.",
@@ -1495,10 +1993,48 @@
       "https://macma.ro/products/jpg/M/8497107_3.jpg",
       "https://macma.ro/products/jpg/M/8497107_4.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 9,
     "colorCount": 9,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      },
+      {
+        "name": "LIght Green",
+        "hex": "#caff70"
+      },
+      {
+        "name": "Navy Heather",
+        "hex": "#222277"
+      },
+      {
+        "name": "Orange",
+        "hex": "#ff6600"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      },
+      {
+        "name": "Yellow",
+        "hex": "#ffcc00"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 220,
     "descriptionLong": "Large stainless steel drinking bottle with practical carabiner, a capacity of 750ml and a leak-proof screw cap with bamboo lid.",
@@ -1565,10 +2101,48 @@
       "https://macma.ro/products/jpg/M/8497207_3.jpg",
       "https://macma.ro/products/jpg/M/8497207_4.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 9,
     "colorCount": 9,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      },
+      {
+        "name": "LIght Green",
+        "hex": "#caff70"
+      },
+      {
+        "name": "Navy Heather",
+        "hex": "#222277"
+      },
+      {
+        "name": "Orange",
+        "hex": "#ff6600"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      },
+      {
+        "name": "Yellow",
+        "hex": "#ffcc00"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 140,
     "descriptionLong": "Small stainless steel drinking bottle with practical carabiner, a capacity of 400ml and a leak-proof screw cap with bamboo lid.",
@@ -1618,10 +2192,28 @@
       "https://macma.ro/products/jpg/M/8547806_5.jpg",
       "https://macma.ro/products/jpg/M/8547806_6.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 220,
     "descriptionLong": "Tritan drinking bottle in colored-transparent design with 750ml capacity and leak-proof lid.",
@@ -1671,10 +2263,28 @@
       "https://macma.ro/products/jpg/M/8553044_5.jpg",
       "https://macma.ro/products/jpg/M/8553044_6.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Green",
+        "hex": "#00cc00"
+      },
+      {
+        "name": "Navy Heather",
+        "hex": "#222277"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 300,
     "descriptionLong": "PET drinking bottle with leak-proof lid and 820ml capacity.",
@@ -1733,10 +2343,36 @@
       "https://macma.ro/products/jpg/M/8558829_4.jpg",
       "https://macma.ro/products/jpg/M/8558829_5.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Light Blue",
+        "hex": "#bfefff"
+      },
+      {
+        "name": "LIght Green",
+        "hex": "#caff70"
+      },
+      {
+        "name": "Orange",
+        "hex": "#ff6600"
+      },
+      {
+        "name": "Pink",
+        "hex": "#ff34b3"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 200,
     "descriptionLong": "Tritan drinking bottle with screw cap, non-slip silicone grip zone, and 750ml capacity.",
@@ -1756,7 +2392,7 @@
     "supplierSku": "ANAMUDI",
     "price": 8.66,
     "priceFrom": false,
-    "stockLevel": "in-stock",
+    "stockLevel": "out-of-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/VANILLA/f4912400aj3_1.jpg",
       "https://macma.ro/products/jpg/PSV/VANILLA/f4912400aj3_2.jpg",
@@ -1765,10 +2401,16 @@
       "https://macma.ro/products/jpg/PSV/VANILLA/f4912400aj3_5.jpg",
       "https://macma.ro/products/jpg/PSV/VANILLA/f4912400aj3_6.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Transparent",
+        "hex": "#ececec"
+      }
+    ],
     "brand": "Vanilla Season",
     "weightGrams": 570,
     "descriptionLong": "An elegant 750ml glass drink bottle with a bamboo lid, which will stand out in any kitchen. The bottle is perfect for preparing a drink for your table. It is made of recycled glass. Packaged in a Vanilla Season gift box.",
@@ -1785,7 +2427,7 @@
     "supplierSku": "F4912700AJ3",
     "price": 7.1,
     "priceFrom": false,
-    "stockLevel": "in-stock",
+    "stockLevel": "out-of-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4912700aj3_0.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4912700aj3_a_0.jpg",
@@ -1794,10 +2436,16 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4912700aj3_d_0.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4912700aj3_e_0.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Assorted",
+        "hex": "#000000"
+      }
+    ],
     "brand": "Schwarzwolf",
     "weightGrams": 135,
     "descriptionLong": "Schwarzwolf sports tritan bottle in a transparent color with a black lid and loop for hanging. The bottle has a volume of 650 ml and supports a healthy life style because it doesn´t contain BPA. It offers two drinking options: free flow or with a straw. It´s suitable for cold and warm drinks from -10°C to 80°C. Packed in a gift box.",
@@ -1817,7 +2465,7 @@
     "supplierSku": "SEYHAN",
     "price": 12.14,
     "priceFrom": false,
-    "stockLevel": "in-stock",
+    "stockLevel": "out-of-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4912600aj3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4912600aj3_2.jpg",
@@ -1825,10 +2473,16 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4912600aj3_4.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4912600aj3_5.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Transparent",
+        "hex": "#ececec"
+      }
+    ],
     "brand": "Schwarzwolf",
     "weightGrams": 264,
     "descriptionLong": "Schwarzwolf sports bottle made of transparent tritan with 900 ml volume. The bottle has a black wrist strap and it doesn´t contain BPA. It is suitable for cold and warm drinks from -10°C to 80°C. Packed in a gift box.",

@@ -12,16 +12,22 @@
     "supplierSku": "6000100AJ3",
     "price": 2.71,
     "priceFrom": false,
-    "stockLevel": "in-stock",
+    "stockLevel": "out-of-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f6000100aj3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f6000100aj3_2.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f6000100aj3_9.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      }
+    ],
     "brand": "Schwarzwolf",
     "weightGrams": 25,
     "descriptionLong": "Multifunctional Schwarzwolf keychain contains 13 tools: meter ruler, magnet, nail lifter, spanner (6 sizes), bottle opener, valve key, spokes key (2 sizes). Comes in handy especially when you haven't got your a tool box or a can opener at your disposal. Packed in Schwarzwolf gift box.",
@@ -40,16 +46,22 @@
     "supplierSku": "6000200AJ3",
     "price": 2.71,
     "priceFrom": false,
-    "stockLevel": "in-stock",
+    "stockLevel": "out-of-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f6000200aj3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f6000200aj3_2.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f6000200aj3_9.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      }
+    ],
     "brand": "Schwarzwolf",
     "weightGrams": 25,
     "descriptionLong": "Multifunctional Schwarzwolf keychain contains 10 tools: Phillips head screwdriver, head screwdriver, spanner (4 sizes), spokes key (2 sizes), magnet and carabiner. Comes in handy especially when you haven't got a toolbox at your disposal. Packed in Schwarzwolf gift box.",
@@ -78,10 +90,16 @@
       "https://macma.ro/products/jpg/M/8181603_5.jpg",
       "https://macma.ro/products/jpg/M/8181603_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 67,
     "descriptionLong": "Metal Multitool with Keyring, LED-Light, Flat- and Srewdriver, Bottle Opener and Knife.",
@@ -118,10 +136,32 @@
       "https://macma.ro/products/jpg/M/8880804_1.jpg",
       "https://macma.ro/products/jpg/M/8880804_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Green",
+        "hex": "#00cc00"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      },
+      {
+        "name": "Yellow",
+        "hex": "#ffcc00"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 19,
     "descriptionLong": "Flexible steel measuring tape, 1 m, with key chain.",
@@ -144,10 +184,16 @@
     "images": [
       "https://macma.ro/products/jpg/M/other/90039ca_1.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 61,
     "descriptionLong": "Metal key ring with 3 charms.",
@@ -190,10 +236,32 @@
       "https://macma.ro/products/jpg/M/9047709_2.jpg",
       "https://macma.ro/products/jpg/M/9047709_3.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Green",
+        "hex": "#00cc00"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 12,
     "descriptionLong": "Metal keyring with snap hook and shopping coin.",
@@ -215,10 +283,16 @@
       "https://macma.ro/products/jpg/M/9073706_0.jpg",
       "https://macma.ro/products/jpg/M/9073706_1.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 10,
     "descriptionLong": "Pocket torch in plastic with 1 LED and keyring.",
@@ -244,10 +318,16 @@
       "https://macma.ro/products/jpg/M/9086803_2.jpg",
       "https://macma.ro/products/jpg/M/9086803_print.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 7,
     "descriptionLong": "Metal pendant with small chain, it can be branded with laser engraving or digital print. Ideal for logo on picnic baskets or trolleys.",
@@ -270,10 +350,16 @@
       "https://macma.ro/products/jpg/M/9094708_1.jpg",
       "https://macma.ro/products/jpg/M/9094708_2.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Yellow",
+        "hex": "#ffcc00"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 7,
     "descriptionLong": "Plastic key fob in the shape of a safety vest.",
@@ -321,10 +407,36 @@
       "https://macma.ro/products/jpg/M/9095710_3.jpg",
       "https://macma.ro/products/jpg/M/9095710_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Green",
+        "hex": "#00cc00"
+      },
+      {
+        "name": "Orange",
+        "hex": "#ff6600"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      },
+      {
+        "name": "Yellow",
+        "hex": "#ffcc00"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 21,
     "descriptionLong": "Keychain with colour ribbon and shiny metal plate.",
@@ -356,10 +468,32 @@
       "https://macma.ro/products/jpg/M/9116403_0.jpg",
       "https://macma.ro/products/jpg/M/9116403_1.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Green",
+        "hex": "#00cc00"
+      },
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 17,
     "descriptionLong": "Aluminium keyring with snap hook.",
@@ -397,10 +531,28 @@
       "https://macma.ro/products/jpg/M/9116803_3.jpg",
       "https://macma.ro/products/jpg/M/9116803_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Green",
+        "hex": "#00cc00"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 27,
     "descriptionLong": "Keyring with fabric band, snap hook, and rivet metal tag.",
@@ -437,10 +589,24 @@
       "https://macma.ro/products/jpg/M/9116909_2.jpg",
       "https://macma.ro/products/jpg/M/9116909_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Green",
+        "hex": "#00cc00"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 22,
     "descriptionLong": "Keychain with coloured leatherette and shiny metal plate.",
@@ -484,10 +650,28 @@
       "https://macma.ro/products/jpg/M/9117104_6.jpg",
       "https://macma.ro/products/jpg/M/9117104_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 26,
     "descriptionLong": "Plastic keyring with a small snap hook, belt clip, and pull-out keyring. Ideal for attaching admission tickets, visitor passes, etc.",
@@ -513,10 +697,16 @@
       "https://macma.ro/products/jpg/M/9135506_1.jpg",
       "https://macma.ro/products/jpg/M/9135506_2.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 26,
     "descriptionLong": "Keyring with fold-out plastic ruler with up to 0.5 metres measuring range (scaling in cm).",
@@ -538,10 +728,16 @@
       "https://macma.ro/products/jpg/M/9135608_0.jpg",
       "https://macma.ro/products/jpg/M/9135608_1.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Yellow",
+        "hex": "#ffcc00"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 13,
     "descriptionLong": "Keyring with a small plastic spirit level, ideal when on-the-go.",
@@ -565,10 +761,16 @@
       "https://macma.ro/products/jpg/LANYARD/9158900.png",
       "https://macma.ro/products/jpg/M/other/9158900_1.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Transparent",
+        "hex": "#ececec"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 100,
     "descriptionLong": "Transparent plastic vertical badge holder for lanyards. 6 x 9 cm",
@@ -592,10 +794,16 @@
       "https://macma.ro/products/jpg/LANYARD/9159100.png",
       "https://macma.ro/products/jpg/M/other/9159100_1.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Transparent",
+        "hex": "#ececec"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 100,
     "descriptionLong": "Transparent plastic horizontial badge holder for lanyards. 9 x 6 cm",
@@ -623,10 +831,16 @@
       "https://macma.ro/products/jpg/M/9221107_4.jpg",
       "https://macma.ro/products/jpg/M/9221107_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 29,
     "descriptionLong": "Metal keyring, round, chrome with shiny inner part.",
@@ -653,10 +867,16 @@
       "https://macma.ro/products/jpg/M/9221207_3_print.jpg",
       "https://macma.ro/products/jpg/M/9221207_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 32,
     "descriptionLong": "Metal keyring, rectangular, chrome with matt-brushed inner part.",
@@ -684,10 +904,16 @@
       "https://macma.ro/products/jpg/M/9227007_4.jpg",
       "https://macma.ro/products/jpg/M/9227007_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 42,
     "descriptionLong": "Wave metal keyring.",
@@ -713,10 +939,16 @@
       "https://macma.ro/products/jpg/M/9227307_2_print.jpg",
       "https://macma.ro/products/jpg/M/9227307_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 28,
     "descriptionLong": "Metal keyring in rectangular design.",
@@ -760,10 +992,28 @@
       "https://macma.ro/products/jpg/M/9231104_5.jpg",
       "https://macma.ro/products/jpg/M/9231104_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 17,
     "descriptionLong": "Two-colour key chain with white LED light.",
@@ -791,10 +1041,24 @@
       "https://macma.ro/products/jpg/M/9244906_0.jpg",
       "https://macma.ro/products/jpg/M/9244906_1.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      },
+      {
+        "name": "Yellow",
+        "hex": "#ffcc00"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 14,
     "descriptionLong": "Reflecting Keyring in the shape of a bear.",
@@ -815,10 +1079,16 @@
     "images": [
       "https://macma.ro/products/jpg/M/9288908_0.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Yellow",
+        "hex": "#ffcc00"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 5,
     "descriptionLong": "Reflecting pendant with smiley face, in PVC, it can be attached to bags or backpacks.",
@@ -852,10 +1122,32 @@
       "https://macma.ro/products/jpg/M/9323503_0.jpg",
       "https://macma.ro/products/jpg/M/9323503_1.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      },
+      {
+        "name": "Olive",
+        "hex": "#02592e"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 8,
     "descriptionLong": "RPET felt loop keychain with key ring and reinforced ring.",
@@ -884,10 +1176,28 @@
       "https://macma.ro/products/jpg/M/9348124_0.jpg",
       "https://macma.ro/products/jpg/M/9348124_1.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Light Blue",
+        "hex": "#bfefff"
+      },
+      {
+        "name": "Orange",
+        "hex": "#ff6600"
+      },
+      {
+        "name": "Violet",
+        "hex": "#a020f0"
+      },
+      {
+        "name": "Yellow",
+        "hex": "#ffcc00"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 69,
     "descriptionLong": "Keyring made of metal with coloured front.",
@@ -921,10 +1231,24 @@
       "https://macma.ro/products/jpg/M/9350309_3.jpg",
       "https://macma.ro/products/jpg/M/9350309_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Green",
+        "hex": "#00cc00"
+      },
+      {
+        "name": "Light Blue",
+        "hex": "#bfefff"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 36,
     "descriptionLong": "Keyring made of metal with coloured lacquered front.",
@@ -954,10 +1278,20 @@
       "https://macma.ro/products/jpg/M/9350509_3.jpg",
       "https://macma.ro/products/jpg/M/9350509_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Green",
+        "hex": "#00cc00"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 36,
     "descriptionLong": "Keyring made of metal with coloured lacquered front. We will engrave your logo on the plate.",
@@ -991,10 +1325,24 @@
       "https://macma.ro/products/jpg/M/9350624_3.jpg",
       "https://macma.ro/products/jpg/M/9350624_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Green",
+        "hex": "#00cc00"
+      },
+      {
+        "name": "Light Blue",
+        "hex": "#bfefff"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 36,
     "descriptionLong": "Keyring made of metal with coloured lacquered front. We will engrave your logo on the plate.",
@@ -1028,10 +1376,24 @@
       "https://macma.ro/products/jpg/M/9350724_3.jpg",
       "https://macma.ro/products/jpg/M/9350724_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Green",
+        "hex": "#00cc00"
+      },
+      {
+        "name": "Light Blue",
+        "hex": "#bfefff"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 38,
     "descriptionLong": "Keyring made of metal with coloured lacquered front. We will engrave your logo on the plate.",
@@ -1065,10 +1427,24 @@
       "https://macma.ro/products/jpg/M/9351009_3.jpg",
       "https://macma.ro/products/jpg/M/9351009_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Green",
+        "hex": "#00cc00"
+      },
+      {
+        "name": "Light Blue",
+        "hex": "#bfefff"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 38,
     "descriptionLong": "Keyring made of metal with coloured lacquered front. We will engrave your logo on the plate.",
@@ -1094,10 +1470,16 @@
       "https://macma.ro/products/jpg/M/9363113_1.jpg",
       "https://macma.ro/products/jpg/M/9363113_2.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Beige",
+        "hex": "#ffe4c4"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 12,
     "descriptionLong": "Cork lanyard with carabiner and separable safety clip.",
@@ -1152,10 +1534,44 @@
       "https://macma.ro/products/jpg/M/9363809_2.jpg",
       "https://macma.ro/products/jpg/M/9363809_3.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 8,
     "colorCount": 8,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Green",
+        "hex": "#00cc00"
+      },
+      {
+        "name": "Orange",
+        "hex": "#ff6600"
+      },
+      {
+        "name": "Pink",
+        "hex": "#ff34b3"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      },
+      {
+        "name": "Yellow",
+        "hex": "#ffcc00"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 2,
     "descriptionLong": "Festival bracelet made of polyester with a non-manipulable safety clip in various colours.",
@@ -1180,10 +1596,16 @@
       "https://macma.ro/products/jpg/M/9364513_0.jpg",
       "https://macma.ro/products/jpg/M/9364513_1.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Beige",
+        "hex": "#ffe4c4"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 11,
     "descriptionLong": "Lanyard, made of cotton, with carabiner.",
@@ -1216,10 +1638,32 @@
       "https://macma.ro/products/jpg/M/9493703_0.jpg",
       "https://macma.ro/products/jpg/M/9493703_1.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Green",
+        "hex": "#00cc00"
+      },
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 9,
     "descriptionLong": "Stylish key fob made from recycled aluminium in the fashionable design of a dog tag.",
@@ -1249,10 +1693,16 @@
       "https://macma.ro/products/jpg/M/9538277_7.jpg",
       "https://macma.ro/products/jpg/M/9538277_8.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Dark Grey",
+        "hex": "#646464"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 34,
     "descriptionLong": "Mini stainless steel pocket knife with a sturdy key ring. Compact size for on-the-go use, delivered in a small package.",
@@ -1286,10 +1736,28 @@
       "https://macma.ro/products/jpg/M/9546611_1.jpg",
       "https://macma.ro/products/jpg/M/9546611_2.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Orange",
+        "hex": "#ff6600"
+      },
+      {
+        "name": "Pink",
+        "hex": "#ff34b3"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 33,
     "descriptionLong": "Metal keychain with durable PU cord.",
@@ -1318,10 +1786,16 @@
       "https://macma.ro/products/jpg/M/9765407_5_print.jpg",
       "https://macma.ro/products/jpg/M/9765407_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 52,
     "descriptionLong": "The Home keyring - in metal house shape with chain.",
@@ -1350,10 +1824,16 @@
       "https://macma.ro/products/jpg/M/9788107_box.jpg",
       "https://macma.ro/products/jpg/M/9788107_print.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 40,
     "descriptionLong": "High-gloss finished metal keyring in HGV shape with black insert.",
@@ -1380,10 +1860,16 @@
       "https://macma.ro/products/jpg/M/9788207_3_print.jpg",
       "https://macma.ro/products/jpg/M/9788207_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 43,
     "descriptionLong": "High-gloss finished metal keyring containing a practical shopping cart chip.",
@@ -1409,10 +1895,16 @@
       "https://macma.ro/products/jpg/M/9788507_2_print.jpg",
       "https://macma.ro/products/jpg/M/9788507_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 21,
     "descriptionLong": "Keyring with a black PU strap and a shiny metal plate.",
@@ -1431,15 +1923,21 @@
     "supplierSku": "F2300500AJ",
     "price": 2.53,
     "priceFrom": false,
-    "stockLevel": "in-stock",
+    "stockLevel": "out-of-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2300500aj3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2300500aj3_2.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Dark Grey",
+        "hex": "#646464"
+      }
+    ],
     "brand": "Schwarzwolf",
     "weightGrams": 30,
     "descriptionLong": "Small safety Schwarzwolf light with COB diode and flashing mode. Possibility of holding with plastic clip or keyring. Packed in. Luminosity: 80 lumens. Dimensions: 6 × 3 × 2 cm. 2 × 3 V CR2032 Batteries included",

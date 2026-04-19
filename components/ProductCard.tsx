@@ -84,20 +84,11 @@ export default function ProductCard({ product }: Readonly<Props>) {
           <span className="text-xs text-[var(--text-muted)]">ex. VAT</span>
         </div>
 
-        {product.colorCount > 1 || product.sizeCount > 1 ? (
-          <div className="flex flex-wrap gap-1.5">
-            {product.colorCount > 1 ? (
-              <span className="px-2 py-0.5 text-xs text-[var(--text-soft)] bg-[var(--surface-soft)] border border-[var(--border-soft)] rounded-full">
-                {product.colorCount} colours
-              </span>
-            ) : null}
-            {product.sizeCount > 1 ? (
-              <span className="px-2 py-0.5 text-xs text-[var(--text-soft)] bg-[var(--surface-soft)] border border-[var(--border-soft)] rounded-full">
-                {product.sizeCount} sizes
-              </span>
-            ) : null}
-          </div>
-        ) : null}
+        <VariantSummary
+          swatches={product.colorSwatches}
+          sizeCount={product.sizeCount}
+        />
+
 
         {product.personalizations.length > 0 ? (
           <div className="flex flex-wrap gap-1.5">
@@ -121,5 +112,46 @@ export default function ProductCard({ product }: Readonly<Props>) {
 
       <AddToOfferButton product={product} />
     </article>
+  )
+}
+
+function VariantSummary({
+  swatches,
+  sizeCount,
+}: Readonly<{
+  swatches: CatalogProduct["colorSwatches"]
+  sizeCount: number
+}>) {
+  const visibleSwatches = swatches && swatches.length > 1 ? swatches : null
+  const hasSizes = sizeCount > 1
+  if (!visibleSwatches && !hasSizes) return null
+
+  const extra = visibleSwatches ? Math.max(0, visibleSwatches.length - 8) : 0
+  const sizeChipClass = visibleSwatches
+    ? "ml-1 px-2 py-0.5 text-xs text-[var(--text-soft)] bg-[var(--surface-soft)] border border-[var(--border-soft)] rounded-full"
+    : "px-2 py-0.5 text-xs text-[var(--text-soft)] bg-[var(--surface-soft)] border border-[var(--border-soft)] rounded-full"
+
+  return (
+    <div className="flex flex-wrap items-center gap-1.5">
+      {visibleSwatches
+        ? visibleSwatches.slice(0, 8).map((c) => (
+            <span
+              key={c.name}
+              aria-label={c.name}
+              title={c.name}
+              className="inline-block w-4 h-4 rounded-full border border-[var(--border)]"
+              style={{
+                background:
+                  c.hex ??
+                  "linear-gradient(135deg, #E2E1E8 0%, #C7C6CE 100%)",
+              }}
+            />
+          ))
+        : null}
+      {extra > 0 ? (
+        <span className="text-[11px] text-[var(--text-muted)]">+{extra}</span>
+      ) : null}
+      {hasSizes ? <span className={sizeChipClass}>{sizeCount} sizes</span> : null}
+    </div>
   )
 }

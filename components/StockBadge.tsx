@@ -2,6 +2,7 @@ import type { StockLevel } from "@/lib/content/catalog"
 
 interface Props {
   level: StockLevel
+  count?: number
   size?: "sm" | "md"
   className?: string
 }
@@ -20,13 +21,22 @@ const STOCK_CLASS: Record<StockLevel, string> = {
     "text-[var(--text-muted)] bg-[var(--surface-soft)] border-[var(--border-soft)]",
 }
 
-export default function StockBadge({ level, size = "sm", className = "" }: Readonly<Props>) {
+export default function StockBadge({
+  level,
+  count,
+  size = "sm",
+  className = "",
+}: Readonly<Props>) {
   const sizeClass = size === "md" ? "px-3 py-1 text-sm" : "px-2 py-0.5 text-xs"
+  const showCount = typeof count === "number" && count > 0 && level !== "out-of-stock"
   return (
     <span
-      className={`inline-flex items-center font-medium border rounded-full ${sizeClass} ${STOCK_CLASS[level]} ${className}`.trim()}
+      className={`inline-flex items-center gap-1.5 font-medium border rounded-full ${sizeClass} ${STOCK_CLASS[level]} ${className}`.trim()}
     >
-      {STOCK_LABEL[level]}
+      <span>{STOCK_LABEL[level]}</span>
+      {showCount ? (
+        <span className="opacity-70">· {count.toLocaleString("en-IE")}</span>
+      ) : null}
     </span>
   )
 }

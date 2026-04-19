@@ -1,8 +1,8 @@
 [
   {
     "contentKey": "051c334602fe1f02",
-    "stock": 6,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 12.62,
     "color": {
       "name": "Pumpkin Orange",
@@ -17,8 +17,8 @@
   },
   {
     "contentKey": "087e2d92dfe67241",
-    "stock": 2,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 12.62,
     "color": {
       "name": "Pumpkin Orange",
@@ -33,7 +33,7 @@
   },
   {
     "contentKey": "0b9a0a32cde86718",
-    "stock": 54,
+    "stock": 25,
     "stockLevel": "in-stock",
     "price": 12.62,
     "color": {
@@ -48,7 +48,7 @@
   },
   {
     "contentKey": "0b9a0a32cde86718",
-    "stock": 51,
+    "stock": 30,
     "stockLevel": "in-stock",
     "price": 12.62,
     "color": {
@@ -79,8 +79,8 @@
   },
   {
     "contentKey": "0f6e1e77d1b9ebc1",
-    "stock": 3,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 12.62,
     "color": {
       "name": "Pumpkin Orange",
@@ -94,8 +94,8 @@
   },
   {
     "contentKey": "0f6e1e77d1b9ebc1",
-    "stock": 5,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 12.62,
     "color": {
       "name": "Pumpkin Orange",
@@ -109,7 +109,7 @@
   },
   {
     "contentKey": "1c9a5f6cdb458c50",
-    "stock": 33,
+    "stock": 20,
     "stockLevel": "in-stock",
     "price": 12.62,
     "color": {
@@ -141,8 +141,8 @@
   },
   {
     "contentKey": "2e256bd461a53337",
-    "stock": 14,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 12.62,
     "color": {
       "name": "White",
@@ -173,7 +173,7 @@
   },
   {
     "contentKey": "2fcade957bbb5d41",
-    "stock": 121,
+    "stock": 75,
     "stockLevel": "in-stock",
     "price": 12.62,
     "color": {
@@ -221,8 +221,8 @@
   },
   {
     "contentKey": "3fe655a0aa2519f2",
-    "stock": 44,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 12.62,
     "color": {
       "name": "Red",
@@ -252,8 +252,8 @@
   },
   {
     "contentKey": "4d5b155df612348e",
-    "stock": 11,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 12.62,
     "color": {
       "name": "Navy",
@@ -267,7 +267,7 @@
   },
   {
     "contentKey": "4d5b155df612348e",
-    "stock": 149,
+    "stock": 145,
     "stockLevel": "in-stock",
     "price": 12.62,
     "color": {
@@ -282,8 +282,8 @@
   },
   {
     "contentKey": "4fd87e50b7f95741",
-    "stock": 44,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 12.62,
     "color": {
       "name": "Forest Green",
@@ -298,8 +298,8 @@
   },
   {
     "contentKey": "581621e3f8f2f34d",
-    "stock": 10,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 12.62,
     "color": {
       "name": "Atoll",
@@ -314,7 +314,7 @@
   },
   {
     "contentKey": "599808bdecc704c7",
-    "stock": 29,
+    "stock": 10,
     "stockLevel": "in-stock",
     "price": 12.62,
     "color": {
@@ -330,8 +330,8 @@
   },
   {
     "contentKey": "5fe6dfa37de056b3",
-    "stock": 59,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 12.62,
     "color": {
       "name": "Forest Green",
@@ -346,8 +346,8 @@
   },
   {
     "contentKey": "624bae0420e62a90",
-    "stock": 65,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 12.62,
     "color": {
       "name": "Forest Green",
@@ -362,8 +362,8 @@
   },
   {
     "contentKey": "62ad283ee101f46e",
-    "stock": 48,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 12.62,
     "color": {
       "name": "Forest Green",
@@ -378,8 +378,8 @@
   },
   {
     "contentKey": "6361dce1a01d216f",
-    "stock": 20,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 12.62,
     "color": {
       "name": "Black",
@@ -394,7 +394,7 @@
   },
   {
     "contentKey": "677049de9aa03c29",
-    "stock": 93,
+    "stock": 45,
     "stockLevel": "in-stock",
     "price": 12.62,
     "color": {
@@ -409,7 +409,7 @@
   },
   {
     "contentKey": "677049de9aa03c29",
-    "stock": 57,
+    "stock": 25,
     "stockLevel": "in-stock",
     "price": 12.62,
     "color": {
@@ -424,8 +424,8 @@
   },
   {
     "contentKey": "677049de9aa03c29",
-    "stock": 17,
-    "stockLevel": "in-stock",
+    "stock": 5,
+    "stockLevel": "low",
     "price": 12.62,
     "color": {
       "name": "Red",
@@ -439,7 +439,7 @@
   },
   {
     "contentKey": "7144ef05f78ede5e",
-    "stock": 34,
+    "stock": 15,
     "stockLevel": "in-stock",
     "price": 12.62,
     "color": {
@@ -455,7 +455,7 @@
   },
   {
     "contentKey": "720aa9d38de9696f",
-    "stock": 32,
+    "stock": 10,
     "stockLevel": "in-stock",
     "price": 12.62,
     "color": {
@@ -471,7 +471,7 @@
   },
   {
     "contentKey": "7d1c3525d9920949",
-    "stock": 94,
+    "stock": 10,
     "stockLevel": "in-stock",
     "price": 12.62,
     "color": {
@@ -487,7 +487,7 @@
   },
   {
     "contentKey": "8a88e9b4e290e325",
-    "stock": 95,
+    "stock": 50,
     "stockLevel": "in-stock",
     "price": 12.62,
     "color": {
@@ -503,7 +503,7 @@
   },
   {
     "contentKey": "9a73911eed2067c8",
-    "stock": 42,
+    "stock": 10,
     "stockLevel": "in-stock",
     "price": 12.62,
     "color": {
@@ -519,7 +519,7 @@
   },
   {
     "contentKey": "9b2c6c79cc1af7b9",
-    "stock": 337,
+    "stock": 330,
     "stockLevel": "in-stock",
     "price": 12.62,
     "color": {
@@ -534,7 +534,7 @@
   },
   {
     "contentKey": "9b2c6c79cc1af7b9",
-    "stock": 165,
+    "stock": 120,
     "stockLevel": "in-stock",
     "price": 12.62,
     "color": {
@@ -549,7 +549,7 @@
   },
   {
     "contentKey": "9b2c6c79cc1af7b9",
-    "stock": 164,
+    "stock": 130,
     "stockLevel": "in-stock",
     "price": 12.62,
     "color": {
@@ -564,8 +564,8 @@
   },
   {
     "contentKey": "9b99103acce97d41",
-    "stock": 56,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 12.62,
     "color": {
       "name": "Red",
@@ -580,7 +580,7 @@
   },
   {
     "contentKey": "9bc1ceaca35f7104",
-    "stock": 110,
+    "stock": 105,
     "stockLevel": "in-stock",
     "price": 12.62,
     "color": {
@@ -596,7 +596,7 @@
   },
   {
     "contentKey": "9fbdf0514f803c4f",
-    "stock": 122,
+    "stock": 90,
     "stockLevel": "in-stock",
     "price": 12.62,
     "color": {
@@ -611,7 +611,7 @@
   },
   {
     "contentKey": "9fbdf0514f803c4f",
-    "stock": 46,
+    "stock": 40,
     "stockLevel": "in-stock",
     "price": 12.62,
     "color": {
@@ -626,7 +626,7 @@
   },
   {
     "contentKey": "9fbdf0514f803c4f",
-    "stock": 79,
+    "stock": 45,
     "stockLevel": "in-stock",
     "price": 12.62,
     "color": {
@@ -641,7 +641,7 @@
   },
   {
     "contentKey": "9fddb8cf6d8bd70d",
-    "stock": 135,
+    "stock": 60,
     "stockLevel": "in-stock",
     "price": 12.62,
     "color": {
@@ -673,7 +673,7 @@
   },
   {
     "contentKey": "a4f078c5b245a1d7",
-    "stock": 25,
+    "stock": 15,
     "stockLevel": "in-stock",
     "price": 12.62,
     "color": {
@@ -705,8 +705,8 @@
   },
   {
     "contentKey": "afc2548aba1ebd1a",
-    "stock": 26,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 12.62,
     "color": {
       "name": "Black",
@@ -737,7 +737,7 @@
   },
   {
     "contentKey": "b0171de4ba45a0a6",
-    "stock": 62,
+    "stock": 35,
     "stockLevel": "in-stock",
     "price": 12.62,
     "color": {
@@ -753,7 +753,7 @@
   },
   {
     "contentKey": "b1f451e8c456ed9c",
-    "stock": 39,
+    "stock": 25,
     "stockLevel": "in-stock",
     "price": 12.62,
     "color": {
@@ -785,7 +785,7 @@
   },
   {
     "contentKey": "bca87a49f9b54bef",
-    "stock": 29,
+    "stock": 10,
     "stockLevel": "in-stock",
     "price": 12.62,
     "color": {
@@ -801,8 +801,8 @@
   },
   {
     "contentKey": "bdbfa3ae13d21b13",
-    "stock": 45,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 12.62,
     "color": {
       "name": "Forest Green",
@@ -816,8 +816,8 @@
   },
   {
     "contentKey": "bdbfa3ae13d21b13",
-    "stock": 18,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 12.62,
     "color": {
       "name": "Forest Green",
@@ -831,8 +831,8 @@
   },
   {
     "contentKey": "bdbfa3ae13d21b13",
-    "stock": 13,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 12.62,
     "color": {
       "name": "Forest Green",
@@ -862,8 +862,8 @@
   },
   {
     "contentKey": "cf451f0d958d5dae",
-    "stock": 10,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 12.62,
     "color": {
       "name": "Atoll",
@@ -878,7 +878,7 @@
   },
   {
     "contentKey": "cf6f3ca91128a9ed",
-    "stock": 436,
+    "stock": 435,
     "stockLevel": "in-stock",
     "price": 12.62,
     "color": {
@@ -894,8 +894,8 @@
   },
   {
     "contentKey": "d91f1d1e90f88cc0",
-    "stock": 66,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 12.62,
     "color": {
       "name": "Red",
@@ -910,7 +910,7 @@
   },
   {
     "contentKey": "e10f6cdbcb6540c0",
-    "stock": 99,
+    "stock": 14,
     "stockLevel": "in-stock",
     "price": 12.62,
     "color": {
@@ -925,7 +925,7 @@
   },
   {
     "contentKey": "e10f6cdbcb6540c0",
-    "stock": 53,
+    "stock": 10,
     "stockLevel": "in-stock",
     "price": 12.62,
     "color": {
@@ -940,7 +940,7 @@
   },
   {
     "contentKey": "e10f6cdbcb6540c0",
-    "stock": 66,
+    "stock": 40,
     "stockLevel": "in-stock",
     "price": 12.62,
     "color": {
@@ -955,7 +955,7 @@
   },
   {
     "contentKey": "e6368e1425be87e7",
-    "stock": 191,
+    "stock": 112,
     "stockLevel": "in-stock",
     "price": 12.62,
     "color": {
@@ -971,8 +971,8 @@
   },
   {
     "contentKey": "ed006bd6ef40939e",
-    "stock": 11,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 12.62,
     "color": {
       "name": "Atoll",
@@ -1019,7 +1019,7 @@
   },
   {
     "contentKey": "f4e6818323786dcf",
-    "stock": 157,
+    "stock": 90,
     "stockLevel": "in-stock",
     "price": 12.62,
     "color": {

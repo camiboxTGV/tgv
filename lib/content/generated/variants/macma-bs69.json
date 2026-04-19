@@ -15,7 +15,7 @@
   },
   {
     "contentKey": "09293622c1ed4336",
-    "stock": 42,
+    "stock": 33,
     "stockLevel": "in-stock",
     "price": 20.35,
     "color": {
@@ -42,7 +42,7 @@
   },
   {
     "contentKey": "09cc88ac629f9826",
-    "stock": 213,
+    "stock": 208,
     "stockLevel": "in-stock",
     "price": 20.35,
     "color": {
@@ -55,7 +55,7 @@
   },
   {
     "contentKey": "16d19f4316a68359",
-    "stock": 50,
+    "stock": 41,
     "stockLevel": "in-stock",
     "price": 20.35,
     "color": {
@@ -69,8 +69,8 @@
   },
   {
     "contentKey": "1d856b27fb2c2abb",
-    "stock": 5,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 20.35,
     "color": {
       "name": "Red",
@@ -82,8 +82,8 @@
   },
   {
     "contentKey": "28d7f3016979061b",
-    "stock": 28,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 20.35,
     "color": {
       "name": "Navy",
@@ -96,8 +96,8 @@
   },
   {
     "contentKey": "35f048fdffec2fd1",
-    "stock": 26,
-    "stockLevel": "in-stock",
+    "stock": 2,
+    "stockLevel": "low",
     "price": 20.35,
     "color": {
       "name": "Red",
@@ -110,7 +110,7 @@
   },
   {
     "contentKey": "4919b9b2026dd8a2",
-    "stock": 965,
+    "stock": 933,
     "stockLevel": "in-stock",
     "price": 20.35,
     "color": {
@@ -124,7 +124,7 @@
   },
   {
     "contentKey": "4afa48288e5b357e",
-    "stock": 31,
+    "stock": 20,
     "stockLevel": "in-stock",
     "price": 20.35,
     "color": {
@@ -138,7 +138,7 @@
   },
   {
     "contentKey": "4da3f1fbdd2fff1b",
-    "stock": 582,
+    "stock": 573,
     "stockLevel": "in-stock",
     "price": 20.35,
     "color": {
@@ -166,7 +166,7 @@
   },
   {
     "contentKey": "65c60038304c9b33",
-    "stock": 5,
+    "stock": 3,
     "stockLevel": "low",
     "price": 20.35,
     "color": {
@@ -180,7 +180,7 @@
   },
   {
     "contentKey": "9285eb7f4da76612",
-    "stock": 345,
+    "stock": 331,
     "stockLevel": "in-stock",
     "price": 20.35,
     "color": {
@@ -194,7 +194,7 @@
   },
   {
     "contentKey": "a05c9dc7ffee8896",
-    "stock": 513,
+    "stock": 505,
     "stockLevel": "in-stock",
     "price": 20.35,
     "color": {
@@ -207,7 +207,7 @@
   },
   {
     "contentKey": "a05c9dc7ffee8896",
-    "stock": 24,
+    "stock": 10,
     "stockLevel": "in-stock",
     "price": 20.35,
     "color": {
@@ -234,7 +234,7 @@
   },
   {
     "contentKey": "b75de6b56decce69",
-    "stock": 339,
+    "stock": 323,
     "stockLevel": "in-stock",
     "price": 20.35,
     "color": {
@@ -248,7 +248,7 @@
   },
   {
     "contentKey": "bbdc79aacdc9d1e3",
-    "stock": 321,
+    "stock": 295,
     "stockLevel": "in-stock",
     "price": 20.35,
     "color": {
@@ -262,7 +262,7 @@
   },
   {
     "contentKey": "bc183326086bc777",
-    "stock": 183,
+    "stock": 176,
     "stockLevel": "in-stock",
     "price": 20.35,
     "color": {
@@ -276,7 +276,7 @@
   },
   {
     "contentKey": "be0d3e072e7a3f29",
-    "stock": 19,
+    "stock": 18,
     "stockLevel": "in-stock",
     "price": 20.35,
     "color": {
@@ -290,7 +290,7 @@
   },
   {
     "contentKey": "c14bfb08b4f54f54",
-    "stock": 13,
+    "stock": 12,
     "stockLevel": "in-stock",
     "price": 20.35,
     "color": {
@@ -304,8 +304,8 @@
   },
   {
     "contentKey": "e9d3f51c1819a461",
-    "stock": 5,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 20.35,
     "color": {
       "name": "Atoll",
@@ -318,7 +318,7 @@
   },
   {
     "contentKey": "f0f5f22e248bad73",
-    "stock": 18,
+    "stock": 10,
     "stockLevel": "in-stock",
     "price": 20.35,
     "color": {
@@ -331,8 +331,8 @@
   },
   {
     "contentKey": "f0f5f22e248bad73",
-    "stock": 13,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 20.35,
     "color": {
       "name": "Atoll",

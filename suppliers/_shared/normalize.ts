@@ -72,6 +72,26 @@ function imageRefsAgainstParent(
   return refs
 }
 
+function buildColorSwatches(
+  raw: RawProduct,
+): { name: string; hex?: string }[] | undefined {
+  if (!raw.variants || raw.variants.length === 0) return undefined
+  const byName = new Map<string, string | undefined>()
+  for (const v of raw.variants) {
+    const name = v.colorName?.trim()
+    if (!name) continue
+    if (!byName.has(name)) {
+      byName.set(name, v.colorHex)
+    } else if (!byName.get(name) && v.colorHex) {
+      byName.set(name, v.colorHex)
+    }
+  }
+  if (byName.size === 0) return undefined
+  return [...byName.entries()]
+    .sort((a, b) => a[0].localeCompare(b[0]))
+    .map(([name, hex]) => (hex ? { name, hex } : { name }))
+}
+
 function buildVariants(raw: RawProduct): ProductVariant[] {
   if (!raw.variants || raw.variants.length <= 1) return []
   return raw.variants.map((rv: RawVariant) => {
@@ -120,6 +140,7 @@ export function normalize(
     raw.supplierPriceEurMax > raw.supplierPriceEur + 0.005
 
   const variants = buildVariants(raw)
+  const colorSwatches = buildColorSwatches(raw)
 
   const product: CatalogProduct = {
     slug,
@@ -139,6 +160,7 @@ export function normalize(
     variantCount,
     colorCount,
     sizeCount,
+    colorSwatches,
     brand: raw.brand,
     weightGrams: raw.weightGrams,
     capacity: raw.capacity,

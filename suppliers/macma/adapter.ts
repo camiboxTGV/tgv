@@ -68,7 +68,7 @@ async function loadAll(): Promise<{
 
   const stockMap = new Map<string, number>()
   for (const s of stockRes.data) {
-    const total = (s.local ?? 0) + (s.regional ?? 0) + (s.international ?? 0)
+    const total = (s.local ?? 0) + (s.international ?? 0)
     stockMap.set(s.id, total)
   }
 

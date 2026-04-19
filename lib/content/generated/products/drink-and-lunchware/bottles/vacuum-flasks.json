@@ -33,16 +33,22 @@
     "supplierSku": "4900400AJ3",
     "price": 12.16,
     "priceFrom": false,
-    "stockLevel": "in-stock",
+    "stockLevel": "out-of-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4900400aj3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4900400aj3_2.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4900400aj3_3.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
     "brand": "Schwarzwolf",
     "weightGrams": 625,
     "descriptionLong": "Schwarzwolf vacuum bottle with 1l volume which makes the temperature of your drink last longer. It is made in elegant design and packed in a Schwarzwolf gift box.",
@@ -61,7 +67,7 @@
     "supplierSku": "5100101AJ3",
     "price": 10.21,
     "priceFrom": false,
-    "stockLevel": "in-stock",
+    "stockLevel": "out-of-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5100100aj3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5100100aj3_2.jpg",
@@ -73,10 +79,20 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5100101aj3_3.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5100101aj3_4.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "Schwarzwolf",
     "weightGrams": 269,
     "descriptionLong": "Schwarzwolf thermo mug in a black or white color which is made of stainless steel. The mug has a volume 360 ml. Thanks to its property to keep temperature of cold and hot drinks will be very handy. Packed in a Schwarzwolf gift box.",
@@ -103,10 +119,16 @@
       "https://macma.ro/products/jpg/M/6008906_2.jpg",
       "https://macma.ro/products/jpg/M/6008906_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 395,
     "descriptionLong": "Double-walled thermal flask with 500 ml capacity, fast stopper, and metal cup.",
@@ -132,10 +154,16 @@
       "https://macma.ro/products/jpg/M/60196mc_2.jpg",
       "https://macma.ro/products/jpg/M/60196mc_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Vegyes",
+        "hex": "#000000"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 515,
     "descriptionLong": "Colourful, stainless steel drinking bottle (750ml) of course leakproof - every bottle is unique, because the colours are slightly different.",
@@ -163,10 +191,16 @@
       "https://macma.ro/products/jpg/M/6043006_4.jpg",
       "https://macma.ro/products/jpg/M/6043006_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 375,
     "descriptionLong": "Stainless steel vacuum flask (500ml) with the perfect design drinking mug.",
@@ -191,10 +225,20 @@
       "https://macma.ro/products/jpg/M/other/6070909_1.jpg",
       "https://macma.ro/products/jpg/M/other/6070909_2.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Green",
+        "hex": "#00cc00"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 295,
     "descriptionLong": "Leak-proof, insulating mug with 300 ml capacity, lid lock, and rubberized grip zone. We will engrave your logo onto the mug.",
@@ -221,10 +265,16 @@
       "https://macma.ro/products/jpg/M/6071003_3.jpg",
       "https://macma.ro/products/jpg/M/6071003_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 295,
     "descriptionLong": "Metal, leak-proof insulating mug with 300 ml capacity, lid lock, and rubberized grip zone.",
@@ -265,10 +315,24 @@
       "https://macma.ro/products/jpg/M/6084104_4.jpg",
       "https://macma.ro/products/jpg/M/6084104_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 183,
     "descriptionLong": "Double-walled drinking cup made of metal with drinking sliding bar in a screw cap and 250 ml capacity.",
@@ -296,10 +360,16 @@
       "https://macma.ro/products/jpg/M/6092613_box.jpg",
       "https://macma.ro/products/jpg/M/6092613_print.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Beige",
+        "hex": "#ffe4c4"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 286,
     "descriptionLong": "Doublewall stainless steel drinking mug with bamboo sheathing, drinking sliding bar, and 400 ml capacity.",
@@ -334,10 +404,20 @@
       "https://macma.ro/products/jpg/M/6098307_4.jpg",
       "https://macma.ro/products/jpg/M/6098307_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 667,
     "descriptionLong": "500ml drinking bottle made of stainless steel, with carrying handle and silicone closure.",
@@ -366,10 +446,16 @@
       "https://macma.ro/products/jpg/M/6119907_box.jpg",
       "https://macma.ro/products/jpg/M/6119907_print.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 402,
     "descriptionLong": "Stainless steel drinking bottle with leak-proof vacuum seal, a straight grip zone and a filling capacity of 500 ml.",
@@ -407,10 +493,20 @@
       "https://macma.ro/products/jpg/M/6148504_6.jpg",
       "https://macma.ro/products/jpg/M/6148504_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Dark Grey",
+        "hex": "#646464"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 278,
     "descriptionLong": "Double-walled, leak-proof vacuum drinking cup made of stainless steel with closable drinking opening and 300 ml capacity.",
@@ -439,10 +535,16 @@
       "https://macma.ro/products/jpg/M/6150906_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6150906_lifestyle_5.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 323,
     "descriptionLong": "Noble, double-walled flask made of stainless steel, with a 500 ml filling capacity and wooden closure.",
@@ -474,10 +576,20 @@
       "https://macma.ro/products/jpg/M/6154503_3.jpg",
       "https://macma.ro/products/jpg/M/6154503_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 262,
     "descriptionLong": "Leak-proof, slim, stainless steel thermos flask with a 310 ml filling capacity.",
@@ -510,10 +622,20 @@
       "https://macma.ro/products/jpg/M/6155406_4.jpg",
       "https://macma.ro/products/jpg/M/6155406_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 333,
     "descriptionLong": "Stainless steel, vacuum flask with thermometer, simply touch the display and the temperature will appear on the lid.",
@@ -545,10 +667,16 @@
       "https://macma.ro/products/jpg/M/lifestyle/6166713_lifestyle_6.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6166713_lifestyle_7.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Beige",
+        "hex": "#ffe4c4"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 298,
     "descriptionLong": "Drinking cup made of stainless steel with a bamboo coating and tea strainer, capacity of 350ml.",
@@ -579,10 +707,16 @@
       "https://macma.ro/products/jpg/M/lifestyle/6214203_lifestyle_6.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6214203_lifestyle_7.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 348,
     "descriptionLong": "Double-walled vacuum bottle with cork bottom, insert strainer and a capacity of 450 ml.",
@@ -611,10 +745,16 @@
       "https://macma.ro/products/jpg/M/lifestyle/6215713_lifestyle_4.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6215713_lifestyle_5.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Beige",
+        "hex": "#ffe4c4"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 261,
     "descriptionLong": "Double-walled, leakproof, drinking mug with cork coating, lockable mouthpiece and a capacity of 400 ml.",
@@ -644,10 +784,16 @@
       "https://macma.ro/products/jpg/M/6233413_5.jpg",
       "https://macma.ro/products/jpg/M/6233413_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Beige",
+        "hex": "#ffe4c4"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 436,
     "descriptionLong": "Double walled vacuum drinking bottle made of Stainless Steel with Hand Loop, bamboo coating and a capacity of 450 ml.",
@@ -677,10 +823,16 @@
       "https://macma.ro/products/jpg/M/lifestyle/6241407_lifestyle_4.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6241407_lifestyle_5.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 326,
     "descriptionLong": "Vacuum, leakproof drinking bottle made from stainless steel with carrying handle and a capacity of 550 ml.",
@@ -710,10 +862,16 @@
       "https://macma.ro/products/jpg/M/6246403_6.jpg",
       "https://macma.ro/products/jpg/M/6246403_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 875,
     "descriptionLong": "Set containing a double walled, stainless steel vacuum bottle and a two-leveled wheatstraw lunch box with two compartments.",
@@ -750,10 +908,20 @@
       "https://macma.ro/products/jpg/M/lifestyle/6252206_lifestyle_5.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6252206_lifestyle_6.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 240,
     "descriptionLong": "Double-walled, vacuum drinking cup with a capacity of 300 ml and a transparent drinking cap, made of stainless steel.",
@@ -783,10 +951,16 @@
       "https://macma.ro/products/jpg/M/6254495_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6254495_lifestyle_6.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Rose Gold",
+        "hex": "#cd5555"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 240,
     "descriptionLong": "Double-walled, vacuum drinking cup, made of stainless steel, with a capacity of 300 ml and a transparent drinking cap.",
@@ -817,10 +991,20 @@
       "https://macma.ro/products/jpg/M/6257398_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6257398_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Gold",
+        "hex": "#cd9b1d"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 350,
     "descriptionLong": "Double-walled vacuum bottle made of stainless steel with a leak-proof closure and a capacity of 500 ml.",
@@ -853,10 +1037,16 @@
       "https://macma.ro/products/jpg/M/lifestyle/6257407_lifestyle_3.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6257407_lifestyle_6.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 251,
     "descriptionLong": "Double walled, leak-proof, non-slip thermo mug made of stainless steel with a capacity of 400 ml.",
@@ -898,10 +1088,24 @@
       "https://macma.ro/products/jpg/M/6257791_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6257791_lifestyle_5.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Rose",
+        "hex": "#eeb4b4"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 236,
     "descriptionLong": "Double walled vacuum stainless steel drinking cup with a transparent lid with sliding drinking bar. Capacity 300 ml.",
@@ -975,10 +1179,40 @@
       "https://macma.ro/products/jpg/M/6265809_5.jpg",
       "https://macma.ro/products/jpg/M/6265809_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 7,
     "colorCount": 7,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Gold",
+        "hex": "#cd9b1d"
+      },
+      {
+        "name": "Green",
+        "hex": "#00cc00"
+      },
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 308,
     "descriptionLong": "Thermo drinking mug with stainless steel casing and a capacity of 480 mlm double-walled.",
@@ -1017,10 +1251,28 @@
       "https://macma.ro/products/jpg/M/6289229_2.jpg",
       "https://macma.ro/products/jpg/M/6289229_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "LIght Green",
+        "hex": "#caff70"
+      },
+      {
+        "name": "Orange",
+        "hex": "#ff6600"
+      },
+      {
+        "name": "Pink",
+        "hex": "#ff34b3"
+      },
+      {
+        "name": "Violet",
+        "hex": "#a020f0"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 425,
     "descriptionLong": "Double-walled thermal flask with 500 ml capacity, fast stopper and metal cup in trendy colours. We will engrave your logo on the flask.",
@@ -1052,10 +1304,16 @@
       "https://macma.ro/products/jpg/M/lifestyle/6297913_lifestyle_6.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6297913_lifestyle_7.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Beige",
+        "hex": "#ffe4c4"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 642,
     "descriptionLong": "Set consisting of a double-walled bamboo drinking cup (400ml) and a double-walled-vacuum bamboo drinking bottle (350ml). This set is delivered in a single box.",
@@ -1087,10 +1345,16 @@
       "https://macma.ro/products/jpg/M/6311313_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6311313_lifestyle_8.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Beige",
+        "hex": "#ffe4c4"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 446,
     "descriptionLong": "Double-walled stainless steel drinking bottle made of bamboo with a tea strainer, a capacity of 500ml and a handle in the lid.",
@@ -1119,10 +1383,16 @@
       "https://macma.ro/products/jpg/M/6317903_4.jpg",
       "https://macma.ro/products/jpg/M/6317903_5.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 334,
     "descriptionLong": "Vacuum insulated bottle made of copper with a lower section made of bamboo, leak-proof lid, a carrying handle and a capacity of 500 ml.",
@@ -1149,10 +1419,16 @@
       "https://macma.ro/products/jpg/M/6370244_3.jpg",
       "https://macma.ro/products/jpg/M/6370244_4.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Navy Heather",
+        "hex": "#222277"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 515,
     "descriptionLong": "Double-walled, vacuum, stainless steel thermo mug. Including a lockable lid with drinking slide and a filling capacity of 650ml.",
@@ -1182,10 +1458,16 @@
       "https://macma.ro/products/jpg/M/6530007_print.jpg",
       "https://macma.ro/products/jpg/M/6530007_print_1.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 285,
     "descriptionLong": "Double-walled stainless steel travel mug with sliding ledge on the lid and 0.4L capacity.",
@@ -1211,10 +1493,16 @@
       "https://macma.ro/products/jpg/M/6540107_1.jpg",
       "https://macma.ro/products/jpg/M/6540107_print.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 660,
     "descriptionLong": "Double-walled stainless steel thermal flask with 1L capacity, fast closure, and metal cup.",
@@ -1244,10 +1532,16 @@
       "https://macma.ro/products/jpg/M/6540307_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6540307_lifestyle_6.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 363,
     "descriptionLong": "Double-walled stainless steel thermal flask with 500ml capacity, fast closure, and metal cup.",
@@ -1285,10 +1579,24 @@
       "https://macma.ro/products/jpg/M/6542004_2.jpg",
       "https://macma.ro/products/jpg/M/6542004_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 363,
     "descriptionLong": "Stainless steel thermal flask with 500 ml capacity and coloured matt coating.",
@@ -1328,10 +1636,36 @@
       "https://macma.ro/products/jpg/M/6561010_1.jpg",
       "https://macma.ro/products/jpg/M/6561010_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Green",
+        "hex": "#00cc00"
+      },
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      },
+      {
+        "name": "Orange",
+        "hex": "#ff6600"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 209,
     "descriptionLong": "Plastic thermo travel mug with sliding ledge and 400 ml capacity.",
@@ -1359,10 +1693,16 @@
       "https://macma.ro/products/jpg/M/6879903_box.jpg",
       "https://macma.ro/products/jpg/M/6879903_print.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 363,
     "descriptionLong": "Double-walled elegant insulated drinking mug, which can be opened and closed by a push button on the lid. The mug has a capacity of 400 ml and is made of high-quality stainless steel inside and outside.",
@@ -1389,10 +1729,16 @@
       "https://macma.ro/products/jpg/M/8358007_3.jpg",
       "https://macma.ro/products/jpg/M/8358007_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 590,
     "descriptionLong": "Stainless steel double-walled vacuum bottle with bamboo lid, carrying handle and 1.000ml capacity.",
@@ -1418,10 +1764,16 @@
       "https://macma.ro/products/jpg/M/8382406_4.jpg",
       "https://macma.ro/products/jpg/M/8382406_5.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 332,
     "descriptionLong": "Double-walled vacuum drinking bottle made of stainless steel for sublimation printing in photo quality and a capacity of 500ml.",
@@ -1467,10 +1819,28 @@
       "https://macma.ro/products/jpg/M/8389012_4.jpg",
       "https://macma.ro/products/jpg/M/8389012_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Light Blue",
+        "hex": "#bfefff"
+      },
+      {
+        "name": "Pink",
+        "hex": "#ff34b3"
+      },
+      {
+        "name": "Violet",
+        "hex": "#a020f0"
+      },
+      {
+        "name": "Yellow",
+        "hex": "#ffcc00"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 514,
     "descriptionLong": "Large drinking bottle with rubberised outer coating and 750 ml capacity. The vacuum insulation keeps drinks hot and cold for a long time.",
@@ -1503,10 +1873,20 @@
       "https://macma.ro/products/jpg/M/8389306_3.jpg",
       "https://macma.ro/products/jpg/M/8389306_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 380,
     "descriptionLong": "Drinking bottle made from recycled stainless steel with vacuum insulation, bamboo lid with handle and 550ml capacity.",
@@ -1535,10 +1915,16 @@
       "https://macma.ro/products/jpg/M/8397507_4.jpg",
       "https://macma.ro/products/jpg/M/8397507_5.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 580,
     "descriptionLong": "Large metal drinking bottle with 1200ml capacity and vacuum insulation. Equipped with a screw cap and additional quick-release fastener, as well as a loop.",
@@ -1566,10 +1952,16 @@
       "https://macma.ro/products/jpg/M/8424803_5.jpg",
       "https://macma.ro/products/jpg/M/8424803_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 283,
     "descriptionLong": "Double-walled vacuum insulated mug made of stainless steel with 350ml capacity and cork base.",
@@ -1606,10 +1998,20 @@
       "https://macma.ro/products/jpg/M/8431803_5.jpg",
       "https://macma.ro/products/jpg/M/8431803_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 330,
     "descriptionLong": "Vacuum coffee mug made of stainless steel with a capacity of 500ml. The ceramic coating on the inside is tasteless and odourless and is particularly suitable for tea and coffee.",
@@ -1647,10 +2049,20 @@
       "https://macma.ro/products/jpg/M/8467677_5.jpg",
       "https://macma.ro/products/jpg/M/8467677_6_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Dark Grey",
+        "hex": "#646464"
+      },
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 368,
     "descriptionLong": "Ceramic drinking cup with silicone sleeve, drinking slide in the lid and 340ml capacity.",
@@ -1700,10 +2112,28 @@
       "https://macma.ro/products/jpg/M/8468605_4.jpg",
       "https://macma.ro/products/jpg/M/8468605_5.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Navy Heather",
+        "hex": "#222277"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 572,
     "descriptionLong": "Double-walled XXL plastic drinking cup with a capacity of 1200ml, practical carrying handle and removable straw in the lid.",
@@ -1732,10 +2162,16 @@
       "https://macma.ro/products/jpg/M/8474903_4.jpg",
       "https://macma.ro/products/jpg/M/8474903_5.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 350,
     "descriptionLong": "Double-walled vacuum drinking bottle made of stainless steel with matt surface and leak-proof screw cap incl. snap hook. Capacity of 500 ml.",
@@ -1763,10 +2199,16 @@
       "https://macma.ro/products/jpg/M/8481413_5.jpg",
       "https://macma.ro/products/jpg/M/8481413_6.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Beige",
+        "hex": "#ffe4c4"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 380,
     "descriptionLong": "Double-walled vacuum stainless steel drinking bottle with a capacity of 800ml. Leak-proof screw cap with integrated carrying strap.",
@@ -1803,10 +2245,24 @@
       "https://macma.ro/products/jpg/M/8481929_3.jpg",
       "https://macma.ro/products/jpg/M/8481929_4.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Dark Grey",
+        "hex": "#646464"
+      },
+      {
+        "name": "LIght Green",
+        "hex": "#caff70"
+      },
+      {
+        "name": "Navy Heather",
+        "hex": "#222277"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 375,
     "descriptionLong": "Large drinking bottle with rubberised outer coating and 500 ml capacity. The vacuum insulation keeps drinks hot and cold for a long time. Practical lid with screw cap and loop.",
@@ -1838,10 +2294,24 @@
       "https://macma.ro/products/jpg/M/8482907_1.jpg",
       "https://macma.ro/products/jpg/M/8482907_2.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Dark Grey",
+        "hex": "#646464"
+      },
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "CrisMa",
     "weightGrams": 356,
     "descriptionLong": "Large double-walled vacuum drinking bottle made from recycled stainless steel with a leak-proof cap and a capacity of 600ml. This bottle is supplied in a black box.",
@@ -1870,10 +2340,16 @@
       "https://macma.ro/products/jpg/M/8496195_5.jpg",
       "https://macma.ro/products/jpg/M/8496195_6.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Rose Gold",
+        "hex": "#cd5555"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 340,
     "descriptionLong": "Double-walled vacuum drinking bottle made of stainless steel with a leak-proof cap, a capacity of 500ml and copper coating. The bottle shimmers in rainbow colours in the light.",
@@ -1961,10 +2437,56 @@
       "https://macma.ro/products/jpg/M/8496203_4.jpg",
       "https://macma.ro/products/jpg/M/8496203_5.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 11,
     "colorCount": 11,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Green",
+        "hex": "#00cc00"
+      },
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      },
+      {
+        "name": "LIght Green",
+        "hex": "#caff70"
+      },
+      {
+        "name": "Navy Heather",
+        "hex": "#222277"
+      },
+      {
+        "name": "Orange",
+        "hex": "#ff6600"
+      },
+      {
+        "name": "Pink",
+        "hex": "#ff34b3"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      },
+      {
+        "name": "Yellow",
+        "hex": "#ffcc00"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 180,
     "descriptionLong": "Double-walled drinking cup with a stainless steel interior and a recycled plastic exterior. Filling capacity of 350ml and a leak-proof screw cap with lockable drinking opening.",
@@ -2008,10 +2530,24 @@
       "https://macma.ro/products/jpg/M/8510613_5.jpg",
       "https://macma.ro/products/jpg/M/8510613_6.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Beige",
+        "hex": "#ffe4c4"
+      },
+      {
+        "name": "Navy Heather",
+        "hex": "#222277"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 340,
     "descriptionLong": "Elegant double-walled vacuum drinking cup made of stainless steel - perfect for travelling. With a capacity of 350ml and a leak-proof lid.",
@@ -2037,10 +2573,16 @@
       "https://macma.ro/products/jpg/M/8522507_2.jpg",
       "https://macma.ro/products/jpg/M/8522507_3.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 182,
     "descriptionLong": "Double-walled vacuum drinking bottle made of stainless steel with sparkling rhinestone accents, a capacity of 350ml, strainer insert and a leak-proof screw cap.",
@@ -2066,10 +2608,16 @@
       "https://macma.ro/products/jpg/M/8522607_2.jpg",
       "https://macma.ro/products/jpg/M/8522607_3.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 205,
     "descriptionLong": "Double-walled vacuum drinking bottle made of stainless steel with sparkling rhinestone accents, a capacity of 500ml, strainer insert and a leak-proof screw cap.",
@@ -2111,10 +2659,28 @@
       "https://macma.ro/products/jpg/M/8523605_3.jpg",
       "https://macma.ro/products/jpg/M/8523605_4.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Dark Grey",
+        "hex": "#646464"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 310,
     "descriptionLong": "Double-walled vacuum drinking bottle made of stainless steel with a capacity of 600ml, a leak-proof screw cap and a carabiner.",
@@ -2207,10 +2773,52 @@
       "https://macma.ro/products/jpg/M/8523908_5.jpg",
       "https://macma.ro/products/jpg/M/8523908_6.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 10,
     "colorCount": 10,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Green",
+        "hex": "#00cc00"
+      },
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      },
+      {
+        "name": "LIght Green",
+        "hex": "#caff70"
+      },
+      {
+        "name": "Navy Heather",
+        "hex": "#222277"
+      },
+      {
+        "name": "Orange",
+        "hex": "#ff6600"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      },
+      {
+        "name": "Yellow",
+        "hex": "#ffcc00"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 340,
     "descriptionLong": "Elegant double-walled vacuum drinking cup made of stainless steel with a capacity of 550ml, a leak-proof screw cap and drinking opening as well as a practical carrying strap.",
@@ -2236,10 +2844,16 @@
       "https://macma.ro/products/jpg/M/8525906_4.jpg",
       "https://macma.ro/products/jpg/M/8525906_5.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 360,
     "descriptionLong": "Double-walled sublimation drinking bottle made of stainless steel with a capacity of 500ml and a carrying handle.",
@@ -2275,10 +2889,20 @@
       "https://macma.ro/products/jpg/M/8536506_5.jpg",
       "https://macma.ro/products/jpg/M/8536506_6.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 330,
     "descriptionLong": "Double-walled vacuum thermo drinking cup made of recycled stainless steel, featuring a leak-proof drinking opening and a capacity of 450 ml.",
@@ -2316,10 +2940,28 @@
       "https://macma.ro/products/jpg/M/8536844_2.jpg",
       "https://macma.ro/products/jpg/M/8536844_3.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Green",
+        "hex": "#00cc00"
+      },
+      {
+        "name": "Navy Heather",
+        "hex": "#222277"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 383,
     "descriptionLong": "Leak-proof, double-walled vacuum thermos bottle made of stainless steel with a capacity of 750 ml.",
@@ -2367,10 +3009,32 @@
       "https://macma.ro/products/jpg/M/8536944_3.jpg",
       "https://macma.ro/products/jpg/M/8536944_4.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Navy Heather",
+        "hex": "#222277"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      },
+      {
+        "name": "Turquoise",
+        "hex": "#00ced1"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 288,
     "descriptionLong": "Double-walled 600 ml coffee thermo cup with a plastic inner core and stainless steel exterior. Keeps beverages hot or cold for longer and is also suitable for carbonated drinks.",
@@ -2396,10 +3060,16 @@
       "https://macma.ro/products/jpg/M/8539603_2.jpg",
       "https://macma.ro/products/jpg/M/8539603_3.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 308,
     "descriptionLong": "Double-walled 480 ml vacuum thermos drinking bottle with a hook made of stainless steel with two openings: one for easy filling and one for comfortable drinking. Keeps beverages hot or cold for a long time.",
@@ -2425,10 +3095,16 @@
       "https://macma.ro/products/jpg/M/8539904_2_box.jpg",
       "https://macma.ro/products/jpg/M/8539904_3.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 468,
     "descriptionLong": "Double-walled stainless steel vacuum thermos drinking bottle with copper insulation and color gradient. It keeps beverages hot or cold for a long time and is leak-proof. Capacity 750 ml.",
@@ -2457,10 +3133,16 @@
       "https://macma.ro/products/jpg/M/8541409_5.jpg",
       "https://macma.ro/products/jpg/M/8541409_6.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Green",
+        "hex": "#00cc00"
+      }
+    ],
     "brand": "CrisMa",
     "weightGrams": 440,
     "descriptionLong": "CrisMa stainless steel vacuum thermo drinking cup, double-walled and leak-proof, with a closable drinking opening and a capacity of 600 ml.",
@@ -2510,10 +3192,28 @@
       "https://macma.ro/products/jpg/M/8541506_5.jpg",
       "https://macma.ro/products/jpg/M/8541506_6.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "CrisMa",
     "weightGrams": 302,
     "descriptionLong": "CrisMa stainless steel vacuum thermo drinking cup, double-walled and leak-proof, with a closable drinking opening and a capacity of 480 ml.",
@@ -2540,10 +3240,16 @@
       "https://macma.ro/products/jpg/M/8545307_4.jpg",
       "https://macma.ro/products/jpg/M/8545307_5.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 890,
     "descriptionLong": "Robust 1000 ml vacuum insulated stainless steel flask with carrying strap and two integrated cups, ideal for on the go.",
@@ -2570,10 +3276,16 @@
       "https://macma.ro/products/jpg/M/8545807_3.jpg",
       "https://macma.ro/products/jpg/M/8545807_4.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 395,
     "descriptionLong": "Double-walled stainless steel drinking bottle with leak-proof screw cap. The vacuum insulation keeps drinks hot or cold for a long time.",
@@ -2631,10 +3343,32 @@
       "https://macma.ro/products/jpg/M/8547599_5.jpg",
       "https://macma.ro/products/jpg/M/8547599_6.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Beige",
+        "hex": "#ffe4c4"
+      },
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Navy Heather",
+        "hex": "#222277"
+      },
+      {
+        "name": "Olive",
+        "hex": "#02592e"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 260,
     "descriptionLong": "Double-walled vacuum stainless steel drinking cup with 500ml capacity and leak-proof lid.",
@@ -2677,10 +3411,32 @@
       "https://macma.ro/products/jpg/M/8548899_2.jpg",
       "https://macma.ro/products/jpg/M/8548899_3.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Bordeaux",
+        "hex": "#880000"
+      },
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      },
+      {
+        "name": "Light Blue",
+        "hex": "#bfefff"
+      },
+      {
+        "name": "Navy Heather",
+        "hex": "#222277"
+      },
+      {
+        "name": "Olive",
+        "hex": "#02592e"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 300,
     "descriptionLong": "Double-walled vacuum stainless steel bottle with 600ml capacity. Ergonomically designed with a color-coordinated PU band for a comfortable grip.",
@@ -2763,10 +3519,52 @@
       "https://macma.ro/products/jpg/M/8559844_4.jpg",
       "https://macma.ro/products/jpg/M/8559844_5.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 10,
     "colorCount": 10,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Green",
+        "hex": "#00cc00"
+      },
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      },
+      {
+        "name": "Light Blue",
+        "hex": "#bfefff"
+      },
+      {
+        "name": "Navy Heather",
+        "hex": "#222277"
+      },
+      {
+        "name": "Pink",
+        "hex": "#ff34b3"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      },
+      {
+        "name": "Violet",
+        "hex": "#a020f0"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      },
+      {
+        "name": "Yellow",
+        "hex": "#ffcc00"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 360,
     "descriptionLong": "Double-walled vacuum stainless steel bottle with 500ml capacity. The leak-proof lid opens with a click.",
@@ -2804,10 +3602,28 @@
       "https://macma.ro/products/jpg/M/8561799_2.jpg",
       "https://macma.ro/products/jpg/M/8561799_3.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Navy Heather",
+        "hex": "#222277"
+      },
+      {
+        "name": "Olive",
+        "hex": "#02592e"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 390,
     "descriptionLong": "Double-walled vacuum stainless steel bottle with 600ml capacity.",
@@ -2845,10 +3661,32 @@
       "https://macma.ro/products/jpg/M/8565199_1.jpg",
       "https://macma.ro/products/jpg/M/8565199_2.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Beige",
+        "hex": "#ffe4c4"
+      },
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Navy Heather",
+        "hex": "#222277"
+      },
+      {
+        "name": "Olive",
+        "hex": "#02592e"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 310,
     "descriptionLong": "Double-walled vacuum stainless steel bottle made of recycled material with distinctive ribbed structure and 700 ml capacity.",
@@ -2868,7 +3706,7 @@
     "supplierSku": "ADRASAN",
     "price": 11.81,
     "priceFrom": false,
-    "stockLevel": "in-stock",
+    "stockLevel": "out-of-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5106000aj3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5106000aj3_2.jpg",
@@ -2880,10 +3718,16 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5106000aj3_8.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5106000aj3_9.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
     "brand": "Schwarzwolf",
     "weightGrams": 286,
     "descriptionLong": "Schwarzwolf double-walled thermo mug in a black color with a volume of 240 ml, which is made of stainless steel. The mug will maintain the temperature of your drink approx. 5 hours (measured at room temperature), which makes it perfect for your tea or coffee. Packed in a gift box.",
@@ -2902,7 +3746,7 @@
     "supplierSku": "ARANSOL",
     "price": 10.88,
     "priceFrom": false,
-    "stockLevel": "in-stock",
+    "stockLevel": "out-of-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5106100aj3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5106100aj3_2.jpg",
@@ -2911,10 +3755,16 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5106100aj3_5.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5106100aj3_6.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Anthracite",
+        "hex": "#38393a"
+      }
+    ],
     "brand": "Schwarzwolf",
     "weightGrams": 326,
     "descriptionLong": "Schwarzwolf double-walled thermo mug in an anthracite color with a volume of 300 ml. It is made of stainless steel. The mug will maintain the temperature of your drink approx. 6 hours (measured at room temperature), which makes it perfect for your tea or coffee. Thanks to the 360° opening, it allows drinking all around. Packed in a gift box. Material: stainless steel, plastic",
@@ -2933,7 +3783,7 @@
     "supplierSku": "F4912200AJ",
     "price": 15.71,
     "priceFrom": false,
-    "stockLevel": "in-stock",
+    "stockLevel": "out-of-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4912200aj3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4912200aj3_2.jpg",
@@ -2943,10 +3793,16 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4912200aj3_6.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4912200aj3_7.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
     "brand": "Schwarzwolf",
     "weightGrams": 393,
     "descriptionLong": "This 550 ml Schwarzwolf food thermos allows you to take your favourite soup or porridge with you on a trip to nature or even to work and keep it hot or cold for a long time. The thermos is complemented by a folding spoon in the cap for your convenience. It is easy to maintain and has a practical design. Packed in a gift box. Volume: 550 ml. Material: stainless steel.",
@@ -2965,16 +3821,22 @@
     "supplierSku": "F5105900AJ3",
     "price": 22.49,
     "priceFrom": false,
-    "stockLevel": "in-stock",
+    "stockLevel": "out-of-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5105900aj3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5105900aj3_2.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5105900aj3_3.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
     "brand": "Schwarzwolf",
     "weightGrams": 586,
     "descriptionLong": "Schwarzwolf 750 ml double-walled vacuum bottle that will maintain the temperature of your drink. Packed in a Schwarzwolf gift box.",
@@ -2993,7 +3855,7 @@
     "supplierSku": "NIKKO",
     "price": 13.3,
     "priceFrom": false,
-    "stockLevel": "in-stock",
+    "stockLevel": "out-of-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4912300aj3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4912301aj3_1.jpg",
@@ -3002,10 +3864,24 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4912301aj3_4.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4912302aj3_1.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Dark Grey",
+        "hex": "#646464"
+      }
+    ],
     "brand": "Schwarzwolf",
     "weightGrams": 332,
     "descriptionLong": "Schwarzwolf double-walled vacuum bottle with 500 ml volume. The vacuum bottle has an ergonomically shaped rotating handle for easy use and is offered in three modern colors. It will maintain the temperature of your drink approx. 20 hours (measured at room temperature). Packed in a gift box.",

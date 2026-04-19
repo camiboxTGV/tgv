@@ -168,7 +168,12 @@ export default function ProductDetail({
                   {formatPrice(displayPrice)}
                 </span>
                 <span className="text-sm text-[var(--text-soft)]">ex. VAT</span>
-                <StockBadge level={displayStockLevel} size="md" className="ml-2" />
+                <StockBadge
+                  level={displayStockLevel}
+                  count={selectedVariant?.stock}
+                  size="md"
+                  className="ml-2"
+                />
               </div>
               {asOf ? (
                 <p className="text-xs text-[var(--text-muted)]">

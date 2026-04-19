@@ -12,7 +12,7 @@
     "supplierSku": "2400300AJ3",
     "price": 6.52,
     "priceFrom": false,
-    "stockLevel": "in-stock",
+    "stockLevel": "out-of-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2400300aj3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2400300aj3_2.jpg",
@@ -25,10 +25,32 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2400303aj3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2400304aj3_1.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 1,
+    "colorSwatches": [
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Green",
+        "hex": "#00cc00"
+      },
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      },
+      {
+        "name": "Orange",
+        "hex": "#ff6600"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      }
+    ],
     "brand": "Schwarzwolf",
     "weightGrams": 128,
     "descriptionLong": "13-in-1 mini multitool Schwarzwolf with heavy duty neoprene pouch. Packed in Schwarzwolf gift box. Material: non slip aluminium handle, stainless steel tools.",
@@ -47,7 +69,7 @@
     "supplierSku": "2400400AJ3",
     "price": 10,
     "priceFrom": false,
-    "stockLevel": "in-stock",
+    "stockLevel": "out-of-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2400400aj3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2400400aj3_2.jpg",
@@ -74,10 +96,28 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2400404aj3_5.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2400404aj3_9.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 1,
+    "colorSwatches": [
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Green",
+        "hex": "#00cc00"
+      },
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      }
+    ],
     "brand": "Schwarzwolf",
     "weightGrams": 313,
     "descriptionLong": "10-in-1 multitool Schwarzwolf with safety lock in black neoprene pouch. Packed in Schwarzwolf gift box. Material: non slip aluminium handle, stainless steel tools. Recommended branding: laser engraving.",
@@ -108,10 +148,16 @@
       "https://macma.ro/products/jpg/M/8141901_6.jpg",
       "https://macma.ro/products/jpg/M/8141901_7.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Brown",
+        "hex": "#8b4513"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 411,
     "descriptionLong": "High-quality stainless steel multi-tool with wooden grip in a black case.",
@@ -143,10 +189,16 @@
       "https://macma.ro/products/jpg/M/8312706_7.jpg",
       "https://macma.ro/products/jpg/M/8312706_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 200,
     "descriptionLong": "Screwdriver set with 24 magnetic precision slotted and cross bits made of stainless steel and holder in a plastic packaging to slide on.",
@@ -175,10 +227,16 @@
       "https://macma.ro/products/jpg/M/8782307_3_print.jpg",
       "https://macma.ro/products/jpg/M/8782307_4.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 361,
     "descriptionLong": "For the road or at home, this 25-piece aluminium tool box with zipper contains 2 pliers, bits and screwdrivers in various sizes and tweezers.",
@@ -206,10 +264,16 @@
       "https://macma.ro/products/jpg/M/8800207_2_print.jpg",
       "https://macma.ro/products/jpg/M/8800207_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 513,
     "descriptionLong": "Foldable 25-piece tool case, hard shell.",
@@ -244,10 +308,16 @@
       "https://macma.ro/products/jpg/M/9081703_9.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/9081703_lifestyle_10.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 313,
     "descriptionLong": "Multitool made of metal with the following functions: LED light, emergency hammer, belt cutter, screwdrivers, knife, bottle opener, saw and wrench, packed in a case.",
@@ -275,10 +345,16 @@
       "https://macma.ro/products/jpg/M/9323013_3.jpg",
       "https://macma.ro/products/jpg/M/9323013_box.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Beige",
+        "hex": "#ffe4c4"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 100,
     "descriptionLong": "Multifunction tool made of stainless steel with bamboo shells and various tools such as pliers, knife, saw, screwdriver, file, etc.",
@@ -306,10 +382,16 @@
       "https://macma.ro/products/jpg/M/9324513_4.jpg",
       "https://macma.ro/products/jpg/M/9324513_5.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Beige",
+        "hex": "#ffe4c4"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 175,
     "descriptionLong": "Handy garden helper! Cotton belt with click closure, rake and two different sized shovels.",
@@ -338,10 +420,16 @@
       "https://macma.ro/products/jpg/M/9435207_3.jpg",
       "https://macma.ro/products/jpg/M/9435207_4.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      }
+    ],
     "brand": "CrisMa",
     "weightGrams": 290,
     "descriptionLong": "Aluminium spirit level with three vials (horizontal, vertical and 45°), magnetic base and 40 cm scale.",
@@ -368,10 +456,16 @@
       "https://macma.ro/products/jpg/M/9489407_4.jpg",
       "https://macma.ro/products/jpg/M/9489407_5.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 600,
     "descriptionLong": "41-piece tool set incl. ratchet and a practical storage case.",
@@ -403,10 +497,16 @@
       "https://macma.ro/products/jpg/M/9497907_8.jpg",
       "https://macma.ro/products/jpg/M/9497907_9.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      }
+    ],
     "brand": "CrisMa",
     "weightGrams": 375,
     "descriptionLong": "CrisMa 15-piece multifunctional tool made of stainless steel and various tools such as pliers, knife, saw, scissors, screwdriver etc. and practical clip for attaching to the belt. This item is supplied in a black box.",
@@ -434,10 +534,16 @@
       "https://macma.ro/products/jpg/M/9541903_4.jpg",
       "https://macma.ro/products/jpg/M/9541903_5.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
     "brand": "M-Collection",
     "weightGrams": 100,
     "descriptionLong": "Stainless steel 8-piece multitool with hex keys H3/H4/H5/H6, T25, Phillips PH2, flathead screwdriver, and integrated ruler. Compact and versatile.",
@@ -466,10 +572,16 @@
       "https://macma.ro/products/jpg/M/9542377_5.jpg",
       "https://macma.ro/products/jpg/M/9542377_6.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Dark Grey",
+        "hex": "#646464"
+      }
+    ],
     "brand": "CrisMa",
     "descriptionLong": "45 pieces bit set from CrisMa. Comprehensive selection of bits for versatile applications, neatly organized and compactly stored in an aluminum case.",
     "hasVariantDetail": false
@@ -495,10 +607,16 @@
       "https://macma.ro/products/jpg/M/9553177_2.jpg",
       "https://macma.ro/products/jpg/M/9553177_3.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Dark Grey",
+        "hex": "#646464"
+      }
+    ],
     "brand": "CrisMa",
     "weightGrams": 256,
     "descriptionLong": "CrisMa 31-in-1 screwdriver set in plastic box.",
@@ -517,7 +635,7 @@
     "supplierSku": "BAKO",
     "price": 8.49,
     "priceFrom": false,
-    "stockLevel": "in-stock",
+    "stockLevel": "out-of-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f1904400aj3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f1904400aj3_2.jpg",
@@ -527,10 +645,16 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f1904400aj3_6.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f1904400aj3_7.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black/Orange",
+        "hex": "#232350"
+      }
+    ],
     "brand": "Schwarzwolf",
     "weightGrams": 81,
     "descriptionLong": "Multifunctional Schwarzwolf knife in a case with a cord. The multifunctional knife handle can be used as a bottle opener and wrench holes for tightening a nuts. The cord includes an orange whistle. The case is made of special plastic alloy Kydex. Packed in a Schwarzwolf gift box.",
@@ -549,7 +673,7 @@
     "supplierSku": "F2400200AJ",
     "price": 9.56,
     "priceFrom": false,
-    "stockLevel": "in-stock",
+    "stockLevel": "out-of-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2400200aj3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2400200aj3_2.jpg",
@@ -561,10 +685,16 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2400200aj3_8.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2400200aj3_9.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
     "brand": "Schwarzwolf",
     "weightGrams": 140,
     "descriptionLong": "Multifunctional Schwarzwolf knife with 9 tools for your trips in the nature. Packed in case and gift box Schwarzwolf. Material: S/S 2CR13 steel.",
@@ -584,7 +714,7 @@
     "supplierSku": "F2400500AJ",
     "price": 11.42,
     "priceFrom": false,
-    "stockLevel": "in-stock",
+    "stockLevel": "out-of-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2400500aj3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2400500aj3_2.jpg",
@@ -593,10 +723,16 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2400500aj3_5.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2400500aj3_9.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
     "brand": "Schwarzwolf",
     "weightGrams": 270,
     "descriptionLong": "Elegant black 15-in-1 multitool Schwarzwolf with safety lock in black neoprene pouch. Packed in Schwarzwolf gift box. Material: stainless steel tools, aluminium handle  Dimensions (closed): 10 × 4.5 cm",
@@ -615,15 +751,21 @@
     "supplierSku": "F2400700SA3",
     "price": 4.47,
     "priceFrom": false,
-    "stockLevel": "in-stock",
+    "stockLevel": "out-of-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2400700sa3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2400700sa3_2.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      }
+    ],
     "brand": "Schwarzwolf",
     "weightGrams": 100,
     "descriptionLong": "9-in-1 multifunction folding knife Schwarzwolf Material: stainless steel, wood. Packaging: Schwarzwolf Outdoor gift box",
@@ -642,16 +784,22 @@
     "supplierSku": "F2405700AJ3",
     "price": 14.96,
     "priceFrom": false,
-    "stockLevel": "in-stock",
+    "stockLevel": "out-of-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2405700aj3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2405700aj3_2.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2405700aj3_3.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
     "brand": "Schwarzwolf",
     "weightGrams": 256,
     "descriptionLong": "Schwarzwolf multitool contains 11 kinds of tools - a knife, a beer opener, a can opener, pliers, splitters, a saw, a screwdriver, a Phillips screwdriver, a file, a stripping tool. The tool set has a carabiner and comes in a neoprene case and is packe",
@@ -670,17 +818,23 @@
     "supplierSku": "F2405900AJ3",
     "price": 8.16,
     "priceFrom": false,
-    "stockLevel": "in-stock",
+    "stockLevel": "out-of-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2405900aj3_0.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2405900aj3_a.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2405900aj3_b.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2405900aj3_c.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
     "brand": "Schwarzwolf",
     "weightGrams": 128,
     "descriptionLong": "Schwarzwolf 13-in-1 mini multitool in black neoprene pouch.Packed in Schwarzwolf gift box. Dimensions (closed): 6.8 cm.",
@@ -697,7 +851,7 @@
     "supplierSku": "F2406100AJ3",
     "price": 10.11,
     "priceFrom": false,
-    "stockLevel": "in-stock",
+    "stockLevel": "out-of-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2406100aj3_0.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2406100aj3_a_0.jpg",
@@ -709,10 +863,16 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2406100aj3_g_0.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2406100aj3_h_0.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
     "brand": "Schwarzwolf",
     "weightGrams": 250,
     "descriptionLong": "Multifunctional Schwarzwolf tool in a black color with 10 functions - pliers (3 variations), knife (sharp and serrated), can opener, bottle opener, flat screwdriver, multi-purpose screwdriver, safety lock. Packed in a gift box.",
@@ -731,7 +891,7 @@
     "supplierSku": "NEMRUT",
     "price": 9.24,
     "priceFrom": false,
-    "stockLevel": "in-stock",
+    "stockLevel": "out-of-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2405800aj3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2405800aj3_2.jpg",
@@ -742,10 +902,16 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2405800aj3_7.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2405800aj3_8.jpg"
     ],
-    "fetchedAt": "2026-04-19T16:54:07.381Z",
+    "fetchedAt": "2026-04-19T17:53:54.873Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
     "brand": "Schwarzwolf",
     "weightGrams": 137,
     "descriptionLong": "Multifunctional Schwarzwolf pocket knife. Includes 9 tools – knife, scissors, saw, corkscrew, bottle opener, can opener, flat screwdriver, phillips screwdriver and carabiner. The handle of knife is in a modern grooved design on the one side and has a smooth surface for your logo printing from the other side. Packed in a gift box.",

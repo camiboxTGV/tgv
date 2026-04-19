@@ -40,6 +40,7 @@ export interface CatalogProduct {
   variantCount: number
   colorCount: number
   sizeCount: number
+  colorSwatches?: { name: string; hex?: string }[]
   brand?: string
   weightGrams?: number
   capacity?: string
