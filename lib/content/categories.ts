@@ -3,6 +3,7 @@ export interface CategoryNode {
   name: string
   description?: string
   accent?: string
+  image?: string
   children?: CategoryNode[]
 }
 
@@ -20,8 +21,8 @@ function leaf(name: string): CategoryNode {
   return { slug: toSlug(name), name }
 }
 
-function group(name: string, children: CategoryNode[], accent?: string): CategoryNode {
-  return { slug: toSlug(name), name, children, accent }
+function group(name: string, children: CategoryNode[], accent?: string, image?: string): CategoryNode {
+  return { slug: toSlug(name), name, children, accent, image }
 }
 
 function toSlug(name: string): string {
@@ -160,7 +161,7 @@ export const categoryTree: CategoryNode[] = [
       leaf("Cleaning cloths & cases"),
       leaf("Sunglasses"),
     ]),
-  ], GRADIENTS[5]),
+  ], GRADIENTS[5], "/outdoor_leisure.jpeg"),
 
   group("Head & multiwear", [], GRADIENTS[6]),
 
