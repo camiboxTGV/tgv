@@ -6,50 +6,26 @@ import { useSearchParams } from "next/navigation"
 import ChipGroup from "@/components/contact/ChipGroup"
 import FileDropZone from "@/components/contact/FileDropZone"
 import { useOffer } from "@/components/OfferProvider"
-import { deserializeFromUrl, type OfferItem } from "@/lib/offer/storage"
-
-type ProjectType =
-  | "promotional"
-  | "custom-production"
-  | "print-collateral"
-  | "awards-gifting"
-  | "other"
+import { deserializeFromUrl, lineKey, type OfferItem } from "@/lib/offer/storage"
 
 type QuantityBucket = "1-50" | "50-500" | "500-5000" | "5000+" | "other"
 
-type PersonalizationPref =
-  | "co2"
-  | "fiber-laser"
-  | "uv-print"
-  | "uv-transfer"
-  | "hot-foil"
-  | "custom-production"
-  | "digital-print"
-  | "not-sure"
+type DeadlinePreset = "2-weeks" | "1-month" | "2-3-months" | "flexible"
 
 interface FormState {
   name: string
   email: string
   phone: string
   company: string
-  projectType: ProjectType | null
   quantity: QuantityBucket | null
   quantityOther: string
-  deadline: string
+  deadlinePreset: DeadlinePreset | null
+  deadlineDate: string
   context: string
-  personalizationPrefs: PersonalizationPref[]
   files: File[]
 }
 
 type Errors = Partial<Record<keyof FormState, string>>
-
-const PROJECT_TYPES: { value: ProjectType; label: string }[] = [
-  { value: "promotional", label: "Promotional products" },
-  { value: "custom-production", label: "Custom production" },
-  { value: "print-collateral", label: "Print collateral" },
-  { value: "awards-gifting", label: "Awards & gifting" },
-  { value: "other", label: "Other" },
-]
 
 const QUANTITY_BUCKETS: { value: QuantityBucket; label: string }[] = [
   { value: "1-50", label: "1–50" },
@@ -59,15 +35,11 @@ const QUANTITY_BUCKETS: { value: QuantityBucket; label: string }[] = [
   { value: "other", label: "Other" },
 ]
 
-const PERSONALIZATION_PREFS: { value: PersonalizationPref; label: string }[] = [
-  { value: "co2", label: "CO2 engraving" },
-  { value: "fiber-laser", label: "Fiber laser engraving" },
-  { value: "uv-print", label: "Print UV" },
-  { value: "uv-transfer", label: "Transfer UV" },
-  { value: "hot-foil", label: "Embossing & foil stamping" },
-  { value: "custom-production", label: "Custom production" },
-  { value: "digital-print", label: "Digital print" },
-  { value: "not-sure", label: "Not sure yet" },
+const DEADLINE_PRESETS: { value: DeadlinePreset; label: string; hint: string }[] = [
+  { value: "2-weeks", label: "Within 2 weeks", hint: "Rush — premium rate may apply" },
+  { value: "1-month", label: "Within 1 month", hint: "Standard lead time" },
+  { value: "2-3-months", label: "2–3 months", hint: "Best pricing window" },
+  { value: "flexible", label: "Flexible", hint: "We'll suggest the optimal timeline" },
 ]
 
 const MAX_FILE_BYTES = 25 * 1024 * 1024
@@ -79,13 +51,18 @@ const initial: FormState = {
   email: "",
   phone: "",
   company: "",
-  projectType: null,
   quantity: null,
   quantityOther: "",
-  deadline: "",
+  deadlinePreset: null,
+  deadlineDate: "",
   context: "",
-  personalizationPrefs: [],
   files: [],
+}
+
+function todayIso(): string {
+  const d = new Date()
+  d.setHours(0, 0, 0, 0)
+  return d.toISOString().slice(0, 10)
 }
 
 export default function ContactForm() {
@@ -99,6 +76,7 @@ export default function ContactForm() {
   const [selectedProducts, setSelectedProducts] = useState<OfferItem[]>([])
 
   const fromOffer = searchParams?.get("from") === "offer"
+  const hasSelectedProducts = selectedProducts.length > 0
 
   useEffect(() => {
     if (!fromOffer) return
@@ -114,13 +92,16 @@ export default function ContactForm() {
   }, [fromOffer, searchParams, offerItems])
 
   const requiredValid = useMemo(() => {
+    const deadlineOk = state.deadlinePreset !== null || state.deadlineDate.length > 0
     return (
       state.name.trim().length > 0 &&
       EMAIL_REGEX.test(state.email.trim()) &&
-      state.projectType !== null &&
+      deadlineOk &&
       state.context.trim().length >= 20
     )
   }, [state])
+
+  const minDeadline = useMemo(() => todayIso(), [])
 
   function update<K extends keyof FormState>(key: K, value: FormState[K]) {
     setState((s) => ({ ...s, [key]: value }))
@@ -150,8 +131,18 @@ export default function ContactForm() {
         if (!EMAIL_REGEX.test(v)) return "Use a valid email."
         return undefined
       }
-      case "projectType":
-        return value === null ? "Pick one." : undefined
+      case "deadlinePreset":
+      case "deadlineDate": {
+        const presetSet =
+          key === "deadlinePreset"
+            ? value !== null
+            : state.deadlinePreset !== null
+        const dateSet =
+          key === "deadlineDate"
+            ? (value as string).length > 0
+            : state.deadlineDate.length > 0
+        return presetSet || dateSet ? undefined : "Pick a timeframe or exact date."
+      }
       case "context": {
         const v = (value as string).trim()
         if (v.length === 0) return "Required."
@@ -165,7 +156,7 @@ export default function ContactForm() {
 
   function validateAll(): boolean {
     const all: Errors = {}
-    const keys: (keyof FormState)[] = ["name", "email", "projectType", "context"]
+    const keys: (keyof FormState)[] = ["name", "email", "deadlinePreset", "context"]
     keys.forEach((k) => {
       const err = validateField(k, state[k])
       if (err) all[k] = err
@@ -271,55 +262,46 @@ export default function ContactForm() {
 
       <FieldGroup label="About the project">
         <div className="flex flex-col gap-6">
-          <Field
-            label="Project type"
-            required
-            error={errors.projectType}
-          >
-            <ChipGroup
-              variant="single"
-              name="projectType"
-              options={PROJECT_TYPES}
-              value={state.projectType}
-              onChange={(v) => {
-                update("projectType", v)
-                markTouched("projectType")
-              }}
-            />
-          </Field>
-          <Field label="Quantity estimate">
-            <ChipGroup
-              variant="single"
-              name="quantity"
-              options={QUANTITY_BUCKETS}
-              value={state.quantity}
-              onChange={(v) => update("quantity", v)}
-            />
-            {state.quantity === "other" && (
-              <input
-                type="text"
-                placeholder="e.g. 12,500 units"
-                value={state.quantityOther}
-                onChange={(e) => update("quantityOther", e.target.value)}
-                className={`${inputClass(false)} mt-3`}
+          {!hasSelectedProducts && (
+            <Field label="Quantity estimate">
+              <ChipGroup
+                variant="single"
+                name="quantity"
+                options={QUANTITY_BUCKETS}
+                value={state.quantity}
+                onChange={(v) => update("quantity", v)}
               />
-            )}
-          </Field>
-          <Field label="Deadline">
-            <input
-              type="date"
-              value={state.deadline}
-              onChange={(e) => update("deadline", e.target.value)}
-              className={inputClass(false)}
-            />
-          </Field>
-          <Field label="Personalization preferences">
-            <ChipGroup
-              variant="multi"
-              name="personalizationPrefs"
-              options={PERSONALIZATION_PREFS}
-              value={state.personalizationPrefs}
-              onChange={(v) => update("personalizationPrefs", v)}
+              {state.quantity === "other" && (
+                <input
+                  type="text"
+                  placeholder="e.g. 12,500 units"
+                  value={state.quantityOther}
+                  onChange={(e) => update("quantityOther", e.target.value)}
+                  className={`${inputClass(false)} mt-3`}
+                />
+              )}
+            </Field>
+          )}
+          <Field
+            label="Deadline"
+            required
+            error={errors.deadlinePreset}
+            help="Pick a timeframe or set an exact date"
+          >
+            <DeadlinePicker
+              preset={state.deadlinePreset}
+              date={state.deadlineDate}
+              minDate={minDeadline}
+              onPresetChange={(v) => {
+                update("deadlinePreset", v)
+                if (v !== null) update("deadlineDate", "")
+                markTouched("deadlinePreset")
+              }}
+              onDateChange={(v) => {
+                update("deadlineDate", v)
+                if (v.length > 0) update("deadlinePreset", null)
+                markTouched("deadlineDate")
+              }}
             />
           </Field>
           <Field
@@ -437,6 +419,68 @@ function Field({
   )
 }
 
+function DeadlinePicker({
+  preset,
+  date,
+  minDate,
+  onPresetChange,
+  onDateChange,
+}: {
+  preset: DeadlinePreset | null
+  date: string
+  minDate: string
+  onPresetChange: (v: DeadlinePreset | null) => void
+  onDateChange: (v: string) => void
+}) {
+  const activeHint = DEADLINE_PRESETS.find((p) => p.value === preset)?.hint
+  return (
+    <div className="flex flex-col gap-3">
+      <div className="grid grid-cols-2 sm:grid-cols-4 gap-2">
+        {DEADLINE_PRESETS.map((opt) => {
+          const selected = preset === opt.value
+          return (
+            <button
+              key={opt.value}
+              type="button"
+              role="radio"
+              aria-checked={selected}
+              onClick={() => onPresetChange(selected ? null : opt.value)}
+              className={`flex items-center justify-center px-3 py-3 text-sm font-medium rounded-xl border transition-all hover:scale-[1.02] ${
+                selected
+                  ? "text-white bg-[var(--brand-orange)] border-[var(--brand-orange)]"
+                  : "text-[var(--text-soft)] bg-[var(--surface)] border-[var(--border)] hover:border-[var(--border-strong)]"
+              }`}
+            >
+              {opt.label}
+            </button>
+          )
+        })}
+      </div>
+      {activeHint && (
+        <p className="text-xs text-[var(--text-muted)]">{activeHint}</p>
+      )}
+      <div className="flex items-center gap-3">
+        <span className="text-xs uppercase tracking-widest text-[var(--text-muted)]">
+          or
+        </span>
+        <span className="flex-1 h-px bg-[var(--border-soft)]" />
+      </div>
+      <label className="flex flex-col gap-2">
+        <span className="text-xs font-medium text-[var(--text-muted)]">
+          Exact date
+        </span>
+        <input
+          type="date"
+          min={minDate}
+          value={date}
+          onChange={(e) => onDateChange(e.target.value)}
+          className={inputClass(false)}
+        />
+      </label>
+    </div>
+  )
+}
+
 function SelectedProductsPanel({ items }: { items: OfferItem[] }) {
   return (
     <div className="flex flex-col gap-3 p-5 bg-[var(--surface-soft)] border border-[var(--border-soft)] rounded-2xl">
@@ -452,15 +496,23 @@ function SelectedProductsPanel({ items }: { items: OfferItem[] }) {
         </Link>
       </div>
       <div className="flex flex-wrap gap-2">
-        {items.map((item) => (
-          <span
-            key={item.slug}
-            className="inline-flex items-center gap-2 px-3 py-1.5 text-xs font-medium text-[var(--brand-black)] bg-[var(--surface)] border border-[var(--border)] rounded-full"
-          >
-            {item.name}
-            <span className="text-[var(--text-muted)]">× {item.quantity}</span>
-          </span>
-        ))}
+        {items.map((item) => {
+          const variantLabel = [item.colorName, item.sizeLabel]
+            .filter(Boolean)
+            .join(" · ")
+          return (
+            <span
+              key={lineKey(item)}
+              className="inline-flex items-center gap-2 px-3 py-1.5 text-xs font-medium text-[var(--brand-black)] bg-[var(--surface)] border border-[var(--border)] rounded-full"
+            >
+              {item.name}
+              {variantLabel && (
+                <span className="text-[var(--text-soft)]">· {variantLabel}</span>
+              )}
+              <span className="text-[var(--text-muted)]">× {item.quantity}</span>
+            </span>
+          )
+        })}
       </div>
     </div>
   )
