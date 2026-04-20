@@ -54,7 +54,7 @@ export const categoryTree: CategoryNode[] = [
       leaf("Seasonal & special occasion"),
       leaf("Sports & active wear"),
     ]),
-  ], GRADIENTS[0]),
+  ], GRADIENTS[0], "/Clothing %26 wearables.jpg"),
 
   group("Lanyards & events", [
     leaf("Badges & holders"),
@@ -67,12 +67,12 @@ export const categoryTree: CategoryNode[] = [
     leaf("Pins & buttons"),
     leaf("Sunglasses"),
     leaf("Wristbands"),
-  ], GRADIENTS[1]),
+  ], GRADIENTS[1], "/Lanyards %26 events.jpg"),
 
   group("Umbrellas & rainwear", [
     leaf("Rainwear"),
     leaf("Umbrellas"),
-  ], GRADIENTS[2]),
+  ], GRADIENTS[2], "/Umbrellas %26 rainwear.jpg"),
 
   group("Kitchen & accessories", [
     group("Gift sets", [
@@ -94,7 +94,7 @@ export const categoryTree: CategoryNode[] = [
       leaf("Others"),
     ]),
     leaf("Tea & coffee"),
-  ], GRADIENTS[3]),
+  ], GRADIENTS[3], "/Kitchen %26 accessories.jpg"),
 
   group("Tools & keyrings", [
     group("Car accessories", [
@@ -128,7 +128,7 @@ export const categoryTree: CategoryNode[] = [
       leaf("Tool sets & other tools"),
       leaf("Torches"),
     ]),
-  ], GRADIENTS[4]),
+  ], GRADIENTS[4], "/Tools %26 keyrings.jpg"),
 
   group("Outdoor & leisure", [
     leaf("Barbecue"),
@@ -161,9 +161,9 @@ export const categoryTree: CategoryNode[] = [
       leaf("Cleaning cloths & cases"),
       leaf("Sunglasses"),
     ]),
-  ], GRADIENTS[5], "/outdoor_leisure.jpeg"),
+  ], GRADIENTS[5], "/Outdoor %26 leisure.jpg"),
 
-  group("Head & multiwear", [], GRADIENTS[6]),
+  group("Head & multiwear", [], GRADIENTS[6], "/Head %26 multiwear.jpg"),
 
   group("Technology", [
     leaf("AA/AAA batteries"),
@@ -198,7 +198,7 @@ export const categoryTree: CategoryNode[] = [
       leaf("Sets"),
       leaf("Wireless chargers"),
     ]),
-  ], GRADIENTS[0]),
+  ], GRADIENTS[0], "/Technology.jpg"),
 
   group("Drink & lunchware", [
     group("Bottles", [
@@ -232,7 +232,7 @@ export const categoryTree: CategoryNode[] = [
       leaf("Tumblers double wall"),
       leaf("Tumblers single wall"),
     ]),
-  ], GRADIENTS[1]),
+  ], GRADIENTS[1], "/Drink %26 lunchware.jpg"),
 
   group("Bags & travel", [
     group("Backpacks", [
@@ -276,7 +276,7 @@ export const categoryTree: CategoryNode[] = [
       leaf("Carry on trolleys"),
       leaf("Travel bags"),
     ]),
-  ], GRADIENTS[2]),
+  ], GRADIENTS[2], "/Bags %26 travel.jpg"),
 
   group("Kids & games", [
     leaf("Baby & toddlers"),
@@ -299,7 +299,7 @@ export const categoryTree: CategoryNode[] = [
       leaf("Kids colouring bags"),
       leaf("Pencil cases & Accessories"),
     ]),
-  ], GRADIENTS[3]),
+  ], GRADIENTS[3], "/Kids %26 games.jpg"),
 
   group("Seasonal gifts", [
     leaf("Candles & lights"),
@@ -307,7 +307,7 @@ export const categoryTree: CategoryNode[] = [
     leaf("Drink & lunchware"),
     leaf("Others"),
     leaf("Wearables"),
-  ], GRADIENTS[4]),
+  ], GRADIENTS[4], "/Seasonal gifts.jpg"),
 
   group("Home & wellness", [
     group("Candles & fragrances", [
@@ -334,7 +334,7 @@ export const categoryTree: CategoryNode[] = [
       leaf("Sports towels"),
       leaf("Towels"),
     ]),
-  ], GRADIENTS[5]),
+  ], GRADIENTS[5], "/Home %26 wellness.jpg"),
 
   group("Office & writing", [
     group("Computer accessories", [
@@ -374,7 +374,7 @@ export const categoryTree: CategoryNode[] = [
       leaf("Pencils"),
       leaf("Stylus pens"),
     ]),
-  ], GRADIENTS[6]),
+  ], GRADIENTS[6], "/Office %26 writing.jpg"),
 ]
 
 export interface FlatNode {
