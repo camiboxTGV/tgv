@@ -1,0 +1,99 @@
+[
+  {
+    "slug": "macma-cqvahel",
+    "name": "shirt HELSINKI",
+    "category": "apparel-and-wearables/textile-accessories",
+    "summary": "SHIRT HELSINKI SURGICAL GREEN - M",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [],
+    "supplierId": "macma",
+    "supplierSku": "CQVAHEL",
+    "price": 8.52,
+    "priceFrom": false,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://macma.ro/products/jpg/TEXTIL/VALENTO/cqvahel-surgicalgreen_1.jpg"
+    ],
+    "fetchedAt": "2026-04-26T16:26:28.356Z",
+    "variantCount": 3,
+    "colorCount": 1,
+    "sizeCount": 2,
+    "colorSwatches": [
+      {
+        "name": "Surgical Green",
+        "hex": "#3d948c"
+      }
+    ],
+    "brand": "Valento",
+    "weightGrams": 374,
+    "descriptionLong": "SHIRT HELSINKI SURGICAL GREEN - M",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "macma-so01211",
+    "name": "SOL'S BABIB - BABY BIB",
+    "category": "apparel-and-wearables/textile-accessories",
+    "summary": "U — cotton",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
+    "personalizations": [
+      "uv-print",
+      "uv-transfer"
+    ],
+    "supplierId": "macma",
+    "supplierSku": "SO01211",
+    "price": 2.42,
+    "priceFrom": false,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://macma.ro/products/jpg/TEXTIL/SOLS/so01211-whitefrenchnavy_a1.jpg",
+      "https://macma.ro/products/jpg/TEXTIL/SOLS/so01211-whitefuchsia_a1.jpg",
+      "https://macma.ro/products/jpg/TEXTIL/SOLS/so01211-whitemelangegrey_a1.jpg"
+    ],
+    "fetchedAt": "2026-04-26T16:26:28.356Z",
+    "variantCount": 3,
+    "colorCount": 1,
+    "sizeCount": 1,
+    "colorSwatches": [
+      {
+        "name": "White/French Navy",
+        "hex": "#ffffff"
+      }
+    ],
+    "brand": "Sols",
+    "weightGrams": 28,
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "macma-st9691",
+    "name": "Stretch Boxers",
+    "category": "apparel-and-wearables/textile-accessories",
+    "summary": "These modern men’s boxer shorts made of a soft and sleek cotton-elastane-blend offer supreme comfort. 92% ring-spun combed cotton, 8% elastane monofilament; single jersey \"full feeder\"",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [
+      "uv-print",
+      "uv-transfer"
+    ],
+    "supplierId": "macma",
+    "supplierSku": "ST9691",
+    "price": 15.54,
+    "priceFrom": false,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st9691-blackopal.jpg"
+    ],
+    "fetchedAt": "2026-04-26T16:26:28.356Z",
+    "variantCount": 5,
+    "colorCount": 1,
+    "sizeCount": 4,
+    "colorSwatches": [
+      {
+        "name": "Black Opal",
+        "hex": "#040020"
+      }
+    ],
+    "brand": "Stedman",
+    "weightGrams": 125,
+    "descriptionLong": "These modern men’s boxer shorts made of a soft and sleek cotton-elastane-blend offer supreme comfort. 92% ring-spun combed cotton, 8% elastane monofilament; single jersey \"full feeder\"",
+    "hasVariantDetail": true
+  }
+]

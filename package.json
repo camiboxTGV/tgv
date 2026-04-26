@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "sync:catalog": "node --experimental-strip-types scripts/sync-catalog.ts"
+    "sync:catalog": "node --env-file=.env.local --experimental-strip-types scripts/sync-catalog.ts --skip-images",
+    "sync:catalog:full": "node --env-file=.env.local --experimental-strip-types scripts/sync-catalog.ts"
   },
   "dependencies": {
     "next": "16.2.4",

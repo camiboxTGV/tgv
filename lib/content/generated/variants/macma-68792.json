@@ -1,8 +1,8 @@
 [
   {
     "contentKey": "b2ca3fbe0c4d6696",
-    "stock": 5,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 0.64,
     "color": {
       "name": "Orange",
@@ -16,7 +16,7 @@
   },
   {
     "contentKey": "e15fbe5066ed6fe8",
-    "stock": 8,
+    "stock": 7,
     "stockLevel": "low",
     "price": 0.64,
     "color": {

@@ -37,344 +37,230 @@ function toSlug(name: string): string {
 }
 
 export const categoryTree: CategoryNode[] = [
-  group("Clothing & wearables", [
-    group("Textile categories", [
-      leaf("Bodywarmers"),
-      leaf("Jackets"),
-      leaf("Polos"),
+  group("Accommodation & Travel", [
+    leaf("Travel Accessories"),
+    leaf("Travel Bags & Luggage"),
+    leaf("Toiletry Bags"),
+  ], GRADIENTS[0]),
+
+  group("Apparel & Wearables", [
+    leaf("T-shirts"),
+    leaf("Polo Shirts"),
+    leaf("Sweaters & Fleece"),
+    leaf("Jackets & Bodywarmers"),
+    group("Headwear", [
+      leaf("Caps & Hats"),
+      leaf("Beanies"),
+      leaf("Visors"),
+    ]),
+    leaf("Socks"),
+    leaf("Textile Accessories"),
+    leaf("Workwear & Safety"),
+    leaf("Sportswear & Activewear"),
+    group("Fashion Apparel", [
       leaf("Shirts"),
-      leaf("Socks"),
-      leaf("Softshells"),
-      leaf("Sweaters"),
-      leaf("T-shirts"),
-      leaf("Textile Accessories"),
+      leaf("Pants"),
+      leaf("Shorts"),
     ]),
-    group("Occasion to wear", [
-      leaf("Corporate & workwear"),
-      leaf("Seasonal & special occasion"),
-      leaf("Sports & active wear"),
-    ]),
-  ], GRADIENTS[0], "/Clothing %26 wearables.jpg"),
+    leaf("Seasonal Wearables"),
+  ], GRADIENTS[1]),
 
-  group("Lanyards & events", [
-    leaf("Badges & holders"),
-    group("Lanyards", [
-      leaf("Cord lanyards"),
-      leaf("Silk screen lanyards"),
-      leaf("Special lanyards"),
-      leaf("Wrist & phone holders"),
+  group("Bags", [
+    group("Shopping Bags", [
+      leaf("Cotton & Canvas"),
+      leaf("Non-Woven Bags"),
+      leaf("Foldable Bags"),
+      leaf("Jute Bags"),
+      leaf("RPET & Recycled Bags"),
     ]),
-    leaf("Pins & buttons"),
-    leaf("Sunglasses"),
-    leaf("Wristbands"),
-  ], GRADIENTS[1], "/Lanyards %26 events.jpg"),
-
-  group("Umbrellas & rainwear", [
-    leaf("Rainwear"),
-    leaf("Umbrellas"),
-  ], GRADIENTS[2], "/Umbrellas %26 rainwear.jpg"),
-
-  group("Kitchen & accessories", [
-    group("Gift sets", [
-      leaf("Cheese sets"),
-      leaf("Cocktail sets & accessories"),
-      leaf("Wine sets & accessories"),
-    ]),
-    group("Home & hospitality textiles", [
-      leaf("Aprons & gloves"),
-      leaf("Kitchen & table linen"),
-      leaf("Others"),
-    ]),
-    group("Kitchenware", [
-      leaf("Boards"),
-      leaf("Bottle openers & stoppers"),
-      leaf("Chef's knives"),
-      leaf("Coasters"),
-      leaf("Kitchen utensils"),
-      leaf("Others"),
-    ]),
-    leaf("Tea & coffee"),
-  ], GRADIENTS[3], "/Kitchen %26 accessories.jpg"),
-
-  group("Tools & keyrings", [
-    group("Car accessories", [
-      leaf("Car air fresheners"),
-      leaf("Car blankets"),
-      leaf("Car phone holders & chargers"),
-      leaf("Ice scrapers"),
-      leaf("Others"),
-      leaf("Safety car tools"),
-      leaf("Sunshades"),
-    ]),
-    group("Keyrings", [
-      leaf("Basic keyrings"),
-      leaf("Fabric keyrings"),
-      leaf("Multifunctional keyrings"),
-      leaf("Opener keyrings"),
-      leaf("Reflective keyrings"),
-      leaf("Smart key finders and alarms"),
-      leaf("Token keyrings"),
-      leaf("Torch keyrings"),
-    ]),
-    group("Reflective items", [
-      leaf("Reflective items"),
-      leaf("Safety vests"),
-    ]),
-    group("Tools & torches", [
-      leaf("Dynamo & solar torches"),
-      leaf("Measuring tapes"),
-      leaf("Multi tools"),
-      leaf("Pocket knives"),
-      leaf("Tool sets & other tools"),
-      leaf("Torches"),
-    ]),
-  ], GRADIENTS[4], "/Tools %26 keyrings.jpg"),
-
-  group("Outdoor & leisure", [
-    leaf("Barbecue"),
-    group("Beach items", [
-      leaf("Beach & hammam towels"),
-      leaf("Beach games"),
-    ]),
-    group("Gardening", [
-      leaf("Gardening tools"),
-      leaf("Plants & seed items"),
-    ]),
-    leaf("Hammocks & chairs"),
-    group("Outdoor events", [
-      leaf("Hand fans"),
-      leaf("Seat mat"),
-    ]),
-    leaf("Picnic & camping"),
-    group("Sport & health", [
-      leaf("Bicycle accessories"),
-      leaf("Fitness & yoga accessories"),
-      leaf("Football items"),
-      leaf("Medals"),
-      leaf("Multiscarves"),
-      leaf("Reflectives"),
-      leaf("Running & hiking accessories"),
-      leaf("Smartphone pouches"),
-      leaf("Sports towels"),
-    ]),
-    group("Sunglasses", [
-      leaf("Cleaning cloths & cases"),
-      leaf("Sunglasses"),
-    ]),
-  ], GRADIENTS[5], "/Outdoor %26 leisure.jpg"),
-
-  group("Head & multiwear", [], GRADIENTS[6], "/Head %26 multiwear.jpg"),
-
-  group("Technology", [
-    leaf("AA/AAA batteries"),
-    group("Phone accessories", [
-      leaf("Cables"),
-      leaf("Card holders"),
-      leaf("Others"),
-      leaf("Phone cords & straps"),
-      leaf("Phone stands & holders"),
-    ]),
-    group("Power banks", [
-      leaf("High capacity =8.000"),
-      leaf("Low capacity =2.000"),
-      leaf("Mid capacity =4.000"),
-      leaf("Multifunctional"),
-      leaf("Powerbank with wireless charging"),
-      leaf("Solar"),
-    ]),
-    leaf("Smart finders"),
-    leaf("Smartwatches"),
-    group("Speakers & earphones", [
-      leaf("Earphones/TWS"),
-      leaf("Headphones"),
-      leaf("Multifunctional speakers"),
-      leaf("Speakers"),
-    ]),
-    leaf("USB flashdrives"),
-    group("Wireless chargers", [
-      leaf("Car chargers"),
-      leaf("Magnetic chargers"),
-      leaf("Multifunctional chargers"),
-      leaf("Sets"),
-      leaf("Wireless chargers"),
-    ]),
-  ], GRADIENTS[0], "/Technology.jpg"),
-
-  group("Drink & lunchware", [
-    group("Bottles", [
-      leaf("Double wall bottles"),
-      leaf("Glass bottles"),
-      leaf("Hip flasks"),
-      leaf("Smart bottles & sets"),
-      leaf("Vacuum flasks"),
-      leaf("Water & sports bottles"),
-    ]),
-    group("Ceramics", [
-      leaf("Mugs"),
-      leaf("Sets"),
-    ]),
-    group("Glasses hospitality", [
-      leaf("Carafes"),
-      leaf("Long glasses"),
-      leaf("Sets"),
-      leaf("Short glasses"),
-      leaf("Shot glasses"),
-      leaf("Tea & coffee glasses"),
-      leaf("Wine glasses"),
-    ]),
-    group("Lunchware", [
-      leaf("Cutlery"),
-      leaf("Lunch boxes"),
-      leaf("Straws"),
-    ]),
-    group("Mugs & tumblers", [
-      leaf("Mugs & cups"),
-      leaf("Tumblers double wall"),
-      leaf("Tumblers single wall"),
-    ]),
-  ], GRADIENTS[1], "/Drink %26 lunchware.jpg"),
-
-  group("Bags & travel", [
     group("Backpacks", [
-      leaf("Backpacks"),
-      leaf("Laptop backpacks"),
-      leaf("Reflective bags"),
+      leaf("Standard Backpacks"),
+      leaf("Laptop Backpacks"),
+      leaf("Drawstring Bags"),
+      leaf("Anti-theft Backpacks"),
+      leaf("Urban Backpacks"),
     ]),
-    group("Business bags", [
-      leaf("Business trolleys"),
-      leaf("Document bags"),
-      leaf("Laptop bags"),
-      leaf("Laptop pouches"),
+    group("Specialty Bags", [
+      leaf("Cooler Bags"),
+      leaf("Gym & Sports Bags"),
+      leaf("Document & Laptop Bags"),
+      leaf("Waterproof Bags"),
+      leaf("Fanny Packs & Waist Bags"),
     ]),
-    leaf("Drawstring bags"),
-    group("Gift bags", [
-      leaf("Gift bags"),
-      leaf("Paper bags"),
-    ]),
-    group("Shopping bags", [
-      leaf("Foldable bags"),
-      leaf("Food bags"),
-      leaf("Large shopping bags"),
-      leaf("Tote bags"),
-    ]),
-    group("Sports & outdoor bags", [
-      leaf("Beach bags"),
-      leaf("Cooler bags"),
-      leaf("Sports & gym bags"),
-      leaf("Waist & cross body bags"),
-      leaf("Waterproof bags"),
-    ]),
-    group("Travel accessories", [
-      leaf("Adapters SKROSS"),
-      leaf("Blankets & cushions"),
-      leaf("Luggage tags"),
-      leaf("Toiletry bags"),
-      leaf("Travel accessories"),
-      leaf("Wallets & RFID"),
-    ]),
-    group("Travel bags & trolleys", [
-      leaf("Carry on trolleys"),
-      leaf("Travel bags"),
-    ]),
-  ], GRADIENTS[2], "/Bags %26 travel.jpg"),
+    leaf("Gift Bags"),
+    leaf("Travel Bags"),
+  ], GRADIENTS[2]),
 
-  group("Kids & games", [
-    leaf("Baby & toddlers"),
-    group("Indoor games", [
-      leaf("Anti stress"),
-      leaf("Brain teasers"),
-      leaf("Card games"),
-      leaf("Desk games"),
-      leaf("Others"),
+  group("Drinkware", [
+    group("Bottles", [
+      leaf("Water Bottles"),
+      leaf("Thermal & Vacuum Flasks"),
+      leaf("Hip Flasks"),
+      leaf("Sport Bottles"),
     ]),
-    group("Outdoor games", [
-      leaf("Inflatables"),
-      leaf("Outdoor games"),
+    group("Mugs & Cups", [
+      leaf("Ceramic Mugs"),
+      leaf("Glass Mugs"),
+      leaf("Travel Tumblers"),
+      leaf("Enamel Mugs"),
     ]),
-    leaf("Stuffed animals"),
-    group("Writing & colouring", [
-      leaf("Art paints"),
-      leaf("Colouring pencils"),
-      leaf("Colouring sets"),
-      leaf("Kids colouring bags"),
-      leaf("Pencil cases & Accessories"),
+    group("Bar & Wine Accessories", [
+      leaf("Cocktail Sets"),
+      leaf("Wine Sets"),
+      leaf("Bottle Openers & Stoppers"),
+      leaf("Coasters"),
+      leaf("Reusable Straws"),
     ]),
-  ], GRADIENTS[3], "/Kids %26 games.jpg"),
+  ], GRADIENTS[3]),
 
-  group("Seasonal gifts", [
-    leaf("Candles & lights"),
-    leaf("Decoration"),
-    leaf("Drink & lunchware"),
-    leaf("Others"),
-    leaf("Wearables"),
-  ], GRADIENTS[4], "/Seasonal gifts.jpg"),
+  group("Electronics", [
+    group("Audio Devices", [
+      leaf("Bluetooth Speakers"),
+      leaf("Earphones & Headphones"),
+    ]),
+    group("Power & Charging", [
+      leaf("Power Banks"),
+      leaf("Wireless Chargers"),
+      leaf("Charging Cables & Adapters"),
+    ]),
+    leaf("USB Flash Drives"),
+    group("Computer & Mobile Accessories", [
+      leaf("Phone Holders & Stands"),
+      leaf("Computer Mice & Mousepads"),
+      leaf("Webcam Covers"),
+    ]),
+    group("Smart Devices", [
+      leaf("Smartwatches"),
+      leaf("Smart Finders"),
+    ]),
+  ], GRADIENTS[4]),
 
-  group("Home & wellness", [
-    group("Candles & fragrances", [
-      leaf("Candles"),
-      leaf("Diffusers & scents"),
+  group("Home & Living", [
+    group("Kitchen & Dining", [
+      leaf("Lunch Boxes & Food Containers"),
+      leaf("Kitchen Tools & Utensils"),
+      leaf("Aprons & Gloves"),
+      leaf("Cutting Boards"),
+      leaf("Salt & Pepper Mills"),
     ]),
-    group("Cosmetics", [
-      leaf("Lipbalms"),
-      leaf("Sun lotions"),
+    group("Home Decor", [
+      leaf("Candles & Fragrances"),
+      leaf("Photo Frames"),
+      leaf("Clocks & Weather Stations"),
+      leaf("Money Boxes"),
     ]),
-    leaf("Mints & sweets"),
-    group("Personal care", [
-      leaf("Bath accessories"),
-      leaf("Care essentials"),
-      leaf("Heat & cold pads"),
-      leaf("Mirrors"),
-      leaf("Nail kits"),
-      leaf("Soaps & gels"),
-      leaf("Toiletry & cosmetic bags"),
-    ]),
-    group("Towels & blankets", [
-      leaf("Beach & hammam towels"),
+    group("Textiles", [
       leaf("Blankets"),
-      leaf("Sports towels"),
       leaf("Towels"),
     ]),
-  ], GRADIENTS[5], "/Home %26 wellness.jpg"),
+    group("Personal Care & Wellness", [
+      leaf("Lip Balms"),
+      leaf("Hand Sanitizers & Gels"),
+      leaf("Mirrors"),
+      leaf("Nail & Manicure Kits"),
+      leaf("First Aid Kits"),
+    ]),
+    group("Seasonal & Event Items", [
+      leaf("Christmas Decorations"),
+      leaf("Summer & Beach Items"),
+      leaf("Household Accessories"),
+    ]),
+  ], GRADIENTS[5]),
 
-  group("Office & writing", [
-    group("Computer accessories", [
-      leaf("Hubs"),
-      leaf("Phone stands & holders"),
+  group("Kids & Games", [
+    group("Toys & Plush", [
+      leaf("Stuffed Animals"),
+      leaf("Outdoor & Indoor Games"),
     ]),
-    group("Desk accessories", [
-      leaf("Desk & wall clocks"),
-      leaf("Desk lamps"),
-      leaf("Mousepads & mouses"),
-      leaf("Others"),
-      leaf("Trophies (awards) & paper weights"),
-      leaf("Weather stations"),
+    group("Creative Play", [
+      leaf("Drawing & Coloring Items"),
+      leaf("Pencil Cases & Accessories"),
     ]),
-    group("Notebooks", [
-      leaf("Combi sets"),
-      leaf("Hard cover"),
-      leaf("Ringbound (spiral)"),
-      leaf("Soft cover"),
+  ], GRADIENTS[6]),
+
+  group("Lanyards & Events", [
+    leaf("Lanyards"),
+    leaf("Badges & Holders"),
+    leaf("Wristbands"),
+    leaf("Pins & Buttons"),
+    group("Event Accessories", [
+      leaf("Flags & Banners"),
+      leaf("Fans"),
     ]),
-    group("Paper desk accessories", [
-      leaf("Desk pads & calendars"),
-      leaf("Memo pads & sticky notes"),
-    ]),
-    leaf("Phone accessories"),
-    group("Portfolios", [
-      leaf("Conference folders"),
-      leaf("Smart folders"),
-    ]),
-    group("Writing", [
-      leaf("Accessories & cases"),
-      leaf("Ball pens"),
-      leaf("Gift writing sets"),
-      leaf("Highlighters"),
-      leaf("Inkless pens"),
-      leaf("Multifunctional pens"),
+  ], GRADIENTS[0]),
+
+  group("Office & Writing", [
+    group("Writing Instruments", [
+      leaf("Ball Pens"),
       leaf("Pencils"),
-      leaf("Stylus pens"),
+      leaf("Highlighters"),
+      leaf("Stylus Pens"),
+      leaf("Gift Sets"),
     ]),
-  ], GRADIENTS[6], "/Office %26 writing.jpg"),
+    group("Notebooks & Planners", [
+      leaf("Notebooks"),
+      leaf("Diaries & Almanacs"),
+    ]),
+    group("Office Accessories", [
+      leaf("Desk Accessories"),
+      leaf("Mouse Pads"),
+      leaf("Folders & Portfolios"),
+      leaf("Calculators"),
+      leaf("Trophies & Paperweights"),
+      leaf("Business Card Holders"),
+      leaf("Paper Cutters"),
+    ]),
+  ], GRADIENTS[1]),
+
+  group("Outdoor & Leisure", [
+    group("Outdoor Gear", [
+      leaf("Barbecue & Picnic Items"),
+      leaf("Camping Gear"),
+      leaf("Tools & Torches"),
+      leaf("Gardening Tools"),
+    ]),
+    group("Sports & Fitness", [
+      leaf("Fitness & Yoga Accessories"),
+      leaf("Cycling Accessories"),
+      leaf("Football Items"),
+      leaf("Sports Towels"),
+      leaf("Running & Hiking Accessories"),
+    ]),
+    group("Travel & Beach", [
+      leaf("Beach Items"),
+      leaf("Sunglasses"),
+    ]),
+  ], GRADIENTS[2]),
+
+  group("Tools & Keyrings", [
+    group("Keyrings", [
+      leaf("Basic Keyrings"),
+      leaf("Multifunctional Keyrings"),
+      leaf("Smart Key Finders"),
+    ]),
+    group("Tools", [
+      leaf("Multi-tools"),
+      leaf("Pocket Knives"),
+      leaf("Measuring Tapes"),
+      leaf("Flashlights & Torches"),
+      leaf("Lighters"),
+    ]),
+    group("Car Accessories", [
+      leaf("Ice Scrapers"),
+      leaf("Car Air Fresheners"),
+      leaf("Car Phone Holders"),
+    ]),
+  ], GRADIENTS[3]),
+
+  group("Umbrellas & Rainwear", [
+    group("Umbrellas", [
+      leaf("Folding Umbrellas"),
+      leaf("Golf Umbrellas"),
+    ]),
+    group("Rainwear", [
+      leaf("Raincoats"),
+    ]),
+  ], GRADIENTS[4]),
 ]
 
 export interface FlatNode {
