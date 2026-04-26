@@ -41,7 +41,7 @@ export const categoryTree: CategoryNode[] = [
     leaf("Travel Accessories"),
     leaf("Travel Bags & Luggage"),
     leaf("Toiletry Bags"),
-  ], GRADIENTS[0]),
+  ], GRADIENTS[0], "/Accommodation & Travel.webp"),
 
   group("Apparel & Wearables", [
     leaf("T-shirts"),
@@ -63,7 +63,7 @@ export const categoryTree: CategoryNode[] = [
       leaf("Shorts"),
     ]),
     leaf("Seasonal Wearables"),
-  ], GRADIENTS[1]),
+  ], GRADIENTS[1], "/Apparel & Wearables.webp"),
 
   group("Bags", [
     group("Shopping Bags", [
@@ -89,7 +89,7 @@ export const categoryTree: CategoryNode[] = [
     ]),
     leaf("Gift Bags"),
     leaf("Travel Bags"),
-  ], GRADIENTS[2]),
+  ], GRADIENTS[2], "/Bags.webp"),
 
   group("Drinkware", [
     group("Bottles", [
@@ -111,7 +111,7 @@ export const categoryTree: CategoryNode[] = [
       leaf("Coasters"),
       leaf("Reusable Straws"),
     ]),
-  ], GRADIENTS[3]),
+  ], GRADIENTS[3], "/Drinkware.webp"),
 
   group("Electronics", [
     group("Audio Devices", [
@@ -133,7 +133,7 @@ export const categoryTree: CategoryNode[] = [
       leaf("Smartwatches"),
       leaf("Smart Finders"),
     ]),
-  ], GRADIENTS[4]),
+  ], GRADIENTS[4], "/Electronics.webp"),
 
   group("Home & Living", [
     group("Kitchen & Dining", [
@@ -165,7 +165,7 @@ export const categoryTree: CategoryNode[] = [
       leaf("Summer & Beach Items"),
       leaf("Household Accessories"),
     ]),
-  ], GRADIENTS[5]),
+  ], GRADIENTS[5], "/Home & Living.webp"),
 
   group("Kids & Games", [
     group("Toys & Plush", [
@@ -176,7 +176,7 @@ export const categoryTree: CategoryNode[] = [
       leaf("Drawing & Coloring Items"),
       leaf("Pencil Cases & Accessories"),
     ]),
-  ], GRADIENTS[6]),
+  ], GRADIENTS[6], "/Kids & Games.webp"),
 
   group("Lanyards & Events", [
     leaf("Lanyards"),
@@ -187,7 +187,7 @@ export const categoryTree: CategoryNode[] = [
       leaf("Flags & Banners"),
       leaf("Fans"),
     ]),
-  ], GRADIENTS[0]),
+  ], GRADIENTS[0], "/Lanyards & Events.webp"),
 
   group("Office & Writing", [
     group("Writing Instruments", [
@@ -210,7 +210,7 @@ export const categoryTree: CategoryNode[] = [
       leaf("Business Card Holders"),
       leaf("Paper Cutters"),
     ]),
-  ], GRADIENTS[1]),
+  ], GRADIENTS[1], "/Office & Writing.webp"),
 
   group("Outdoor & Leisure", [
     group("Outdoor Gear", [
@@ -230,7 +230,7 @@ export const categoryTree: CategoryNode[] = [
       leaf("Beach Items"),
       leaf("Sunglasses"),
     ]),
-  ], GRADIENTS[2]),
+  ], GRADIENTS[2], "/Outdoor & Leisure.webp"),
 
   group("Tools & Keyrings", [
     group("Keyrings", [
@@ -250,7 +250,7 @@ export const categoryTree: CategoryNode[] = [
       leaf("Car Air Fresheners"),
       leaf("Car Phone Holders"),
     ]),
-  ], GRADIENTS[3]),
+  ], GRADIENTS[3], "/Tools & Keyrings.webp"),
 
   group("Umbrellas & Rainwear", [
     group("Umbrellas", [
@@ -260,9 +260,9 @@ export const categoryTree: CategoryNode[] = [
     group("Rainwear", [
       leaf("Raincoats"),
     ]),
-  ], GRADIENTS[4]),
+  ], GRADIENTS[4], "/Umbrellas & Rainwear.webp"),
 
-  { slug: "seasonal-gifts", name: "Seasonal Gifts", accent: GRADIENTS[5] },
+  { slug: "seasonal-gifts", name: "Seasonal Gifts", accent: GRADIENTS[5], image: "/Seasonal gifts.webp" },
 ]
 
 export interface FlatNode {
