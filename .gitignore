@@ -141,3 +141,9 @@ vite.config.ts.timestamp-*
 # Supplier raw-response caches (never committed)
 suppliers/**/cache/
 
+# Local product image downloads — products are served from supplier CDNs at
+# runtime via next.config.ts remotePatterns, so the local /public/catalog tree
+# is never used by the deployed site. Sync may write here when run without
+# --skip-images; never commit these binaries.
+public/catalog/
+

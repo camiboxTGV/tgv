@@ -1,0 +1,1405 @@
+[
+  {
+    "slug": "fixtures-fx-005",
+    "name": "Cotton tote bag 240gsm",
+    "category": "bags/shopping-bags/cotton-and-canvas",
+    "summary": "240gsm cotton tote with reinforced handles. UV transfer for high-volume runs.",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
+    "personalizations": [
+      "uv-transfer"
+    ],
+    "supplierId": "fixtures",
+    "supplierSku": "FX-005",
+    "price": 3.84,
+    "priceFrom": false,
+    "stockLevel": "in-stock",
+    "images": [],
+    "fetchedAt": "2026-04-19T00:00:00.000Z",
+    "variantCount": 1,
+    "colorCount": 0,
+    "sizeCount": 0,
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "macma-60058",
+    "name": "Foldable shopping basket ",
+    "category": "bags/shopping-bags/cotton-and-canvas",
+    "summary": "Foldable shopping basket made of polyester and aluminium linkage. A useful companion that can be stored folded to save space.",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "uv-transfer",
+      "uv-print"
+    ],
+    "supplierId": "macma",
+    "supplierSku": "60058",
+    "price": 13.25,
+    "priceFrom": false,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://macma.ro/products/jpg/M/6005844_0.jpg",
+      "https://macma.ro/products/jpg/M/6005844_1.jpg",
+      "https://macma.ro/products/jpg/M/6005805_0.jpg",
+      "https://macma.ro/products/jpg/M/6005805_1.jpg",
+      "https://macma.ro/products/jpg/M/6005877_0.jpg",
+      "https://macma.ro/products/jpg/M/6005877_1.jpg"
+    ],
+    "fetchedAt": "2026-04-26T16:26:28.356Z",
+    "variantCount": 3,
+    "colorCount": 3,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Dark Grey",
+        "hex": "#646464"
+      },
+      {
+        "name": "Navy Heather",
+        "hex": "#222277"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      }
+    ],
+    "brand": "M-Collection",
+    "weightGrams": 592,
+    "descriptionLong": "Foldable shopping basket made of polyester and aluminium linkage. A useful companion that can be stored folded to save space.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "macma-60059",
+    "name": "Foldable polyester shopping basket ",
+    "category": "bags/shopping-bags/cotton-and-canvas",
+    "summary": "Foldable polyester shopping basket with insulating function and aluminium linkage. A useful companion that can be stored folded to save space.",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
+    "personalizations": [
+      "uv-transfer",
+      "uv-print"
+    ],
+    "supplierId": "macma",
+    "supplierSku": "60059",
+    "price": 14.38,
+    "priceFrom": false,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://macma.ro/products/jpg/M/6005905_0.jpg",
+      "https://macma.ro/products/jpg/M/6005905_1.jpg",
+      "https://macma.ro/products/jpg/M/6005977_0.jpg",
+      "https://macma.ro/products/jpg/M/6005977_1.jpg",
+      "https://macma.ro/products/jpg/M/6005944_0.jpg",
+      "https://macma.ro/products/jpg/M/6005944_1.jpg"
+    ],
+    "fetchedAt": "2026-04-26T16:26:28.356Z",
+    "variantCount": 3,
+    "colorCount": 3,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Dark Grey",
+        "hex": "#646464"
+      },
+      {
+        "name": "Navy Heather",
+        "hex": "#222277"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      }
+    ],
+    "brand": "M-Collection",
+    "weightGrams": 783,
+    "descriptionLong": "Foldable polyester shopping basket with insulating function and aluminium linkage. A useful companion that can be stored folded to save space.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "macma-60061",
+    "name": "Luxury shopping basket with cooler function",
+    "category": "bags/shopping-bags/cotton-and-canvas",
+    "summary": "Handy shopping basket made of polyester with foldable carrying handle made of aluminium and a cooler function. Thanks to the special material, the basket can be easily folded and has a carrying capacity of 15kg. We wi...",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "uv-transfer",
+      "uv-print"
+    ],
+    "supplierId": "macma",
+    "supplierSku": "60061",
+    "price": 9.89,
+    "priceFrom": false,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://macma.ro/products/jpg/M/6006105_0.jpg",
+      "https://macma.ro/products/jpg/M/6006105_1.jpg",
+      "https://macma.ro/products/jpg/M/6006105_2.jpg",
+      "https://macma.ro/products/jpg/M/6006105_3.jpg"
+    ],
+    "fetchedAt": "2026-04-26T16:26:28.356Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      }
+    ],
+    "brand": "M-Collection",
+    "weightGrams": 1033,
+    "descriptionLong": "Handy shopping basket made of polyester with foldable carrying handle made of aluminium and a cooler function. Thanks to the special material, the basket can be easily folded and has a carrying capacity of 15kg. We will print your logo on the basket.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "macma-60063",
+    "name": "Foldable shopping trolley",
+    "category": "bags/shopping-bags/cotton-and-canvas",
+    "summary": "Foldable shopping trolley made of polyester with integrated cooling compartment. The frame is made of aluminium and includes a hook for hanging the trolley to a shopping cart.",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [
+      "uv-print",
+      "uv-transfer"
+    ],
+    "supplierId": "macma",
+    "supplierSku": "60063",
+    "price": 55.93,
+    "priceFrom": false,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://macma.ro/products/jpg/M/6006377_0.jpg",
+      "https://macma.ro/products/jpg/M/6006377_1.jpg",
+      "https://macma.ro/products/jpg/M/6006377_2.jpg",
+      "https://macma.ro/products/jpg/M/6006377_3.jpg",
+      "https://macma.ro/products/jpg/M/6006377_4.jpg",
+      "https://macma.ro/products/jpg/M/6006377_5.jpg",
+      "https://macma.ro/products/jpg/M/6006377_6.jpg"
+    ],
+    "fetchedAt": "2026-04-26T16:26:28.356Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Dark Grey",
+        "hex": "#646464"
+      }
+    ],
+    "brand": "M-Collection",
+    "weightGrams": 2300,
+    "descriptionLong": "Foldable shopping trolley made of polyester with integrated cooling compartment. The frame is made of aluminium and includes a hook for hanging the trolley to a shopping cart.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "macma-60094",
+    "name": "Non-woven shopping bag",
+    "category": "bags/shopping-bags/cotton-and-canvas",
+    "summary": "Foldable non-woven shopping bag in a nice 2-colour design with carrying handles. 80 g/m²",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "uv-transfer",
+      "uv-print"
+    ],
+    "supplierId": "macma",
+    "supplierSku": "60094",
+    "price": 0.78,
+    "priceFrom": false,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://macma.ro/products/jpg/M/6009405_0.jpg",
+      "https://macma.ro/products/jpg/M/6009405_1.jpg",
+      "https://macma.ro/products/jpg/M/6009406_0.jpg",
+      "https://macma.ro/products/jpg/M/6009406_1.jpg",
+      "https://macma.ro/products/jpg/M/6009404_0.jpg",
+      "https://macma.ro/products/jpg/M/6009404_1.jpg",
+      "https://macma.ro/products/jpg/M/6009410_0.jpg",
+      "https://macma.ro/products/jpg/M/6009410_1.jpg",
+      "https://macma.ro/products/jpg/M/6009410_print.jpg",
+      "https://macma.ro/products/jpg/M/6009408_0.jpg",
+      "https://macma.ro/products/jpg/M/6009408_1.jpg",
+      "https://macma.ro/products/jpg/M/lifestyle/6009408_lifestyle_2.jpg",
+      "https://macma.ro/products/jpg/M/6009411_0.jpg",
+      "https://macma.ro/products/jpg/M/6009411_1.jpg",
+      "https://macma.ro/products/jpg/M/6009409_0.jpg",
+      "https://macma.ro/products/jpg/M/6009409_1.jpg"
+    ],
+    "fetchedAt": "2026-04-26T16:26:28.356Z",
+    "variantCount": 7,
+    "colorCount": 7,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Green",
+        "hex": "#00cc00"
+      },
+      {
+        "name": "Orange",
+        "hex": "#ff6600"
+      },
+      {
+        "name": "Pink",
+        "hex": "#ff34b3"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      },
+      {
+        "name": "Yellow",
+        "hex": "#ffcc00"
+      }
+    ],
+    "brand": "M-Collection",
+    "weightGrams": 42,
+    "descriptionLong": "Foldable non-woven shopping bag in a nice 2-colour design with carrying handles. 80 g/m²",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "macma-60724",
+    "name": "Foldable shopping bag",
+    "category": "bags/shopping-bags/cotton-and-canvas",
+    "summary": "190T polyester foldable shopping bag with carrying straps.",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "uv-transfer",
+      "uv-print"
+    ],
+    "supplierId": "macma",
+    "supplierSku": "60724",
+    "price": 0.84,
+    "priceFrom": false,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://macma.ro/products/jpg/M/6072403_group.jpg",
+      "https://macma.ro/products/jpg/M/6072403_1.jpg",
+      "https://macma.ro/products/jpg/M/6072403_2.jpg",
+      "https://macma.ro/products/jpg/M/6072403_3.jpg",
+      "https://macma.ro/products/jpg/M/6072406_group.jpg",
+      "https://macma.ro/products/jpg/M/6072406_1.jpg",
+      "https://macma.ro/products/jpg/M/6072406_2.jpg",
+      "https://macma.ro/products/jpg/M/6072406_3.jpg",
+      "https://macma.ro/products/jpg/M/6072411_group.jpg",
+      "https://macma.ro/products/jpg/M/6072411_1.jpg",
+      "https://macma.ro/products/jpg/M/6072411_2.jpg",
+      "https://macma.ro/products/jpg/M/6072411_3.jpg",
+      "https://macma.ro/products/jpg/M/6072405_group.jpg",
+      "https://macma.ro/products/jpg/M/6072405_1.jpg",
+      "https://macma.ro/products/jpg/M/6072405_2.jpg",
+      "https://macma.ro/products/jpg/M/6072405_3.jpg",
+      "https://macma.ro/products/jpg/M/6072405_3_print.jpg",
+      "https://macma.ro/products/jpg/M/6072410_group.jpg",
+      "https://macma.ro/products/jpg/M/6072410_1.jpg",
+      "https://macma.ro/products/jpg/M/6072410_2.jpg",
+      "https://macma.ro/products/jpg/M/6072410_3.jpg",
+      "https://macma.ro/products/jpg/M/6072412_group.jpg",
+      "https://macma.ro/products/jpg/M/6072412_1.jpg",
+      "https://macma.ro/products/jpg/M/6072412_2.jpg",
+      "https://macma.ro/products/jpg/M/6072412_3.jpg",
+      "https://macma.ro/products/jpg/M/lifestyle/6072412_lifestyle_1.jpg",
+      "https://macma.ro/products/jpg/M/lifestyle/6072412_lifestyle_2.jpg",
+      "https://macma.ro/products/jpg/M/lifestyle/6072412_lifestyle_3.jpg",
+      "https://macma.ro/products/jpg/M/6072408_group.jpg",
+      "https://macma.ro/products/jpg/M/6072408_1.jpg",
+      "https://macma.ro/products/jpg/M/6072408_2.jpg",
+      "https://macma.ro/products/jpg/M/6072408_3.jpg",
+      "https://macma.ro/products/jpg/M/6072444_group.jpg",
+      "https://macma.ro/products/jpg/M/6072444_1.jpg",
+      "https://macma.ro/products/jpg/M/6072444_2.jpg",
+      "https://macma.ro/products/jpg/M/6072444_3.jpg",
+      "https://macma.ro/products/jpg/M/6072409_group.jpg",
+      "https://macma.ro/products/jpg/M/6072409_1.jpg",
+      "https://macma.ro/products/jpg/M/6072409_2.jpg",
+      "https://macma.ro/products/jpg/M/6072409_3.jpg",
+      "https://macma.ro/products/jpg/M/6072407_group.jpg",
+      "https://macma.ro/products/jpg/M/6072407_1.jpg",
+      "https://macma.ro/products/jpg/M/6072407_2.jpg",
+      "https://macma.ro/products/jpg/M/6072407_3.jpg",
+      "https://macma.ro/products/jpg/M/6072429_group.jpg",
+      "https://macma.ro/products/jpg/M/6072429_1.jpg",
+      "https://macma.ro/products/jpg/M/6072429_2.jpg",
+      "https://macma.ro/products/jpg/M/6072429_3.jpg",
+      "https://macma.ro/products/jpg/M/6072429_3_print.jpg",
+      "https://macma.ro/products/jpg/M/6072424_group.jpg",
+      "https://macma.ro/products/jpg/M/6072424_1.jpg",
+      "https://macma.ro/products/jpg/M/6072424_2.jpg",
+      "https://macma.ro/products/jpg/M/6072424_3.jpg",
+      "https://macma.ro/products/jpg/M/6072404_group.jpg",
+      "https://macma.ro/products/jpg/M/6072404_1.jpg",
+      "https://macma.ro/products/jpg/M/6072404_2.jpg",
+      "https://macma.ro/products/jpg/M/6072404_3.jpg"
+    ],
+    "fetchedAt": "2026-04-26T16:26:28.356Z",
+    "variantCount": 13,
+    "colorCount": 13,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Green",
+        "hex": "#00cc00"
+      },
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      },
+      {
+        "name": "Light Blue",
+        "hex": "#bfefff"
+      },
+      {
+        "name": "LIght Green",
+        "hex": "#caff70"
+      },
+      {
+        "name": "Navy Heather",
+        "hex": "#222277"
+      },
+      {
+        "name": "Orange",
+        "hex": "#ff6600"
+      },
+      {
+        "name": "Pink",
+        "hex": "#ff34b3"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      },
+      {
+        "name": "Violet",
+        "hex": "#a020f0"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      },
+      {
+        "name": "Yellow",
+        "hex": "#ffcc00"
+      }
+    ],
+    "brand": "M-Collection",
+    "weightGrams": 36,
+    "descriptionLong": "190T polyester foldable shopping bag with carrying straps.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "macma-60864",
+    "name": "Beach bag with drawstring",
+    "category": "bags/shopping-bags/cotton-and-canvas",
+    "summary": "Jute bag with drawstring, perfect for the beach or outdoor swimming.",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [
+      "uv-print"
+    ],
+    "supplierId": "macma",
+    "supplierSku": "60864",
+    "price": 6.06,
+    "priceFrom": false,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://macma.ro/products/jpg/M/6086403_0.jpg",
+      "https://macma.ro/products/jpg/M/6086403_1.jpg",
+      "https://macma.ro/products/jpg/M/6086444_0.jpg",
+      "https://macma.ro/products/jpg/M/6086444_1.jpg",
+      "https://macma.ro/products/jpg/M/6086404_0.jpg",
+      "https://macma.ro/products/jpg/M/6086404_1.jpg",
+      "https://macma.ro/products/jpg/M/6086405_0.jpg",
+      "https://macma.ro/products/jpg/M/6086405_1.jpg"
+    ],
+    "fetchedAt": "2026-04-26T16:26:28.356Z",
+    "variantCount": 4,
+    "colorCount": 4,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Navy Heather",
+        "hex": "#222277"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      }
+    ],
+    "brand": "M-Collection",
+    "weightGrams": 430,
+    "descriptionLong": "Jute bag with drawstring, perfect for the beach or outdoor swimming.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "macma-60865",
+    "name": "Jute bag with drawstring",
+    "category": "bags/shopping-bags/cotton-and-canvas",
+    "summary": "Large, coloured jute bag with drawstring, your ideal shopping companion.",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "uv-print"
+    ],
+    "supplierId": "macma",
+    "supplierSku": "60865",
+    "price": 5.65,
+    "priceFrom": false,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://macma.ro/products/jpg/M/6086511_0.jpg",
+      "https://macma.ro/products/jpg/M/6086511_1.jpg",
+      "https://macma.ro/products/jpg/M/6086511_2.jpg",
+      "https://macma.ro/products/jpg/M/6086511_3.jpg",
+      "https://macma.ro/products/jpg/M/6086504_0.jpg",
+      "https://macma.ro/products/jpg/M/6086504_1.jpg",
+      "https://macma.ro/products/jpg/M/6086504_2.jpg",
+      "https://macma.ro/products/jpg/M/6086504_3.jpg"
+    ],
+    "fetchedAt": "2026-04-26T16:26:28.356Z",
+    "variantCount": 2,
+    "colorCount": 2,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Pink",
+        "hex": "#ff34b3"
+      }
+    ],
+    "brand": "M-Collection",
+    "weightGrams": 392,
+    "descriptionLong": "Large, coloured jute bag with drawstring, your ideal shopping companion.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "macma-60917",
+    "name": "Non-woven bag",
+    "category": "bags/shopping-bags/cotton-and-canvas",
+    "summary": "Large non-woven shopping bag with long straps and cross seam.",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
+    "personalizations": [
+      "uv-transfer",
+      "uv-print"
+    ],
+    "supplierId": "macma",
+    "supplierSku": "60917",
+    "price": 0.45,
+    "priceFrom": false,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://macma.ro/products/jpg/M/6091714_0.jpg",
+      "https://macma.ro/products/jpg/M/6091714_1.jpg",
+      "https://macma.ro/products/jpg/M/6091703_0.jpg",
+      "https://macma.ro/products/jpg/M/6091703_1.jpg",
+      "https://macma.ro/products/jpg/M/6091710_0.jpg",
+      "https://macma.ro/products/jpg/M/6091710_1.jpg",
+      "https://macma.ro/products/jpg/M/6091777_0.jpg",
+      "https://macma.ro/products/jpg/M/6091777_1.jpg",
+      "https://macma.ro/products/jpg/M/6091706_0.jpg",
+      "https://macma.ro/products/jpg/M/6091706_1.jpg",
+      "https://macma.ro/products/jpg/M/6091799_0.jpg",
+      "https://macma.ro/products/jpg/M/6091799_1.jpg",
+      "https://macma.ro/products/jpg/M/6091704_0.jpg",
+      "https://macma.ro/products/jpg/M/6091704_1.jpg",
+      "https://macma.ro/products/jpg/M/6091708_0.jpg",
+      "https://macma.ro/products/jpg/M/6091708_1.jpg",
+      "https://macma.ro/products/jpg/M/6091705_0.jpg",
+      "https://macma.ro/products/jpg/M/6091705_1.jpg",
+      "https://macma.ro/products/jpg/M/6091707_0.jpg",
+      "https://macma.ro/products/jpg/M/6091707_1.jpg",
+      "https://macma.ro/products/jpg/M/6091702_0.jpg",
+      "https://macma.ro/products/jpg/M/6091702_1.jpg",
+      "https://macma.ro/products/jpg/M/6091702_print.jpg",
+      "https://macma.ro/products/jpg/M/6091724_0.jpg",
+      "https://macma.ro/products/jpg/M/6091724_1.jpg",
+      "https://macma.ro/products/jpg/M/6091729_0.jpg",
+      "https://macma.ro/products/jpg/M/6091729_1.jpg",
+      "https://macma.ro/products/jpg/M/6091711_0.jpg",
+      "https://macma.ro/products/jpg/M/6091711_1.jpg"
+    ],
+    "fetchedAt": "2026-04-26T16:26:28.356Z",
+    "variantCount": 14,
+    "colorCount": 14,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Bordeaux",
+        "hex": "#880000"
+      },
+      {
+        "name": "Dark Grey",
+        "hex": "#646464"
+      },
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      },
+      {
+        "name": "Light Blue",
+        "hex": "#bfefff"
+      },
+      {
+        "name": "LIght Green",
+        "hex": "#caff70"
+      },
+      {
+        "name": "Olive",
+        "hex": "#02592e"
+      },
+      {
+        "name": "Orange",
+        "hex": "#ff6600"
+      },
+      {
+        "name": "Pink",
+        "hex": "#ff34b3"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      },
+      {
+        "name": "Turquoise",
+        "hex": "#00ced1"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      },
+      {
+        "name": "Yellow",
+        "hex": "#ffcc00"
+      }
+    ],
+    "brand": "M-Collection",
+    "weightGrams": 40,
+    "descriptionLong": "Large non-woven shopping bag with long straps and cross seam.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "macma-61831",
+    "name": "Cotton bag with crocheted part",
+    "category": "bags/shopping-bags/cotton-and-canvas",
+    "summary": "Eco Tex Standard 100 cotton bag with crocheted middle section, which makes the bag flexible. 150 g/m²",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "uv-transfer",
+      "uv-print"
+    ],
+    "supplierId": "macma",
+    "supplierSku": "61831",
+    "price": 1.55,
+    "priceFrom": false,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://macma.ro/products/jpg/M/6183106_0.jpg",
+      "https://macma.ro/products/jpg/M/6183106_1.jpg",
+      "https://macma.ro/products/jpg/M/lifestyle/6183106_lifestyle_1.jpg",
+      "https://macma.ro/products/jpg/M/lifestyle/6183106_lifestyle_2.jpg"
+    ],
+    "fetchedAt": "2026-04-26T16:26:28.356Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
+    "brand": "M-Collection",
+    "weightGrams": 94,
+    "descriptionLong": "Eco Tex Standard 100 cotton bag with crocheted middle section, which makes the bag flexible. 150 g/m²",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "macma-62358",
+    "name": "Recycled cotton bag with long handles",
+    "category": "bags/shopping-bags/cotton-and-canvas",
+    "summary": "Recycled, Eco Tex Standard 100 cotton bag with long handles (140g/m²).",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [
+      "uv-transfer",
+      "uv-print"
+    ],
+    "supplierId": "macma",
+    "supplierSku": "62358",
+    "price": 0.78,
+    "priceFrom": false,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://macma.ro/products/jpg/M/6235804_0.jpg",
+      "https://macma.ro/products/jpg/M/6235804_1.jpg",
+      "https://macma.ro/products/jpg/M/6235803_0.jpg",
+      "https://macma.ro/products/jpg/M/6235803_1.jpg",
+      "https://macma.ro/products/jpg/M/6235805_0.jpg",
+      "https://macma.ro/products/jpg/M/6235805_1.jpg",
+      "https://macma.ro/products/jpg/M/6235806_0.jpg",
+      "https://macma.ro/products/jpg/M/6235806_1.jpg"
+    ],
+    "fetchedAt": "2026-04-26T16:26:28.356Z",
+    "variantCount": 4,
+    "colorCount": 4,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
+    "brand": "M-Collection",
+    "weightGrams": 66,
+    "descriptionLong": "Recycled, Eco Tex Standard 100 cotton bag with long handles (140g/m²).",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "macma-63152",
+    "name": "Shopping basket  ",
+    "category": "bags/shopping-bags/cotton-and-canvas",
+    "summary": "Handy polyester shopping basket with a foldable aluminium carrying handle. The basket folds easily and has a carrying capacity of 15kg.",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
+    "personalizations": [
+      "uv-transfer",
+      "uv-print"
+    ],
+    "supplierId": "macma",
+    "supplierSku": "63152",
+    "price": 17.95,
+    "priceFrom": false,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://macma.ro/products/jpg/M/6315277_0.jpg",
+      "https://macma.ro/products/jpg/M/6315277_1.jpg",
+      "https://macma.ro/products/jpg/M/6315277_2.jpg",
+      "https://macma.ro/products/jpg/M/6315277_3.jpg",
+      "https://macma.ro/products/jpg/M/6315205_0.jpg",
+      "https://macma.ro/products/jpg/M/6315205_1.jpg",
+      "https://macma.ro/products/jpg/M/6315205_2.jpg",
+      "https://macma.ro/products/jpg/M/6315205_3.jpg",
+      "https://macma.ro/products/jpg/M/6315244_0.jpg",
+      "https://macma.ro/products/jpg/M/6315244_1.jpg",
+      "https://macma.ro/products/jpg/M/6315244_2.jpg",
+      "https://macma.ro/products/jpg/M/6315244_3.jpg"
+    ],
+    "fetchedAt": "2026-04-26T16:26:28.356Z",
+    "variantCount": 3,
+    "colorCount": 3,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Dark Grey",
+        "hex": "#646464"
+      },
+      {
+        "name": "Navy Heather",
+        "hex": "#222277"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      }
+    ],
+    "brand": "M-Collection",
+    "weightGrams": 913,
+    "descriptionLong": "Handy polyester shopping basket with a foldable aluminium carrying handle. The basket folds easily and has a carrying capacity of 15kg.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "macma-63256",
+    "name": "Cotton bag for coloring",
+    "category": "bags/shopping-bags/cotton-and-canvas",
+    "summary": "Cotton bag with 120gsm, carrying handles, wax crayons and a printed design for colouring.",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
+    "personalizations": [
+      "uv-transfer",
+      "uv-print"
+    ],
+    "supplierId": "macma",
+    "supplierSku": "63256",
+    "price": 1.65,
+    "priceFrom": false,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://macma.ro/products/jpg/M/6325613_0.jpg",
+      "https://macma.ro/products/jpg/M/6325613_1.jpg",
+      "https://macma.ro/products/jpg/M/6325613_2.jpg"
+    ],
+    "fetchedAt": "2026-04-26T16:26:28.356Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Beige",
+        "hex": "#ffe4c4"
+      }
+    ],
+    "brand": "M-Collection",
+    "weightGrams": 120,
+    "descriptionLong": "Cotton bag with 120gsm, carrying handles, wax crayons and a printed design for colouring.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "macma-63477",
+    "name": "Reusable cotton net",
+    "category": "bags/shopping-bags/cotton-and-canvas",
+    "summary": "Washable and reusable cotton net for fruits, vegetables and more. Comes with a closing cord and a small cotton patch on the front.",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [
+      "uv-transfer",
+      "uv-print"
+    ],
+    "supplierId": "macma",
+    "supplierSku": "63477",
+    "price": 1.21,
+    "priceFrom": false,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://macma.ro/products/jpg/M/6347713_0.jpg",
+      "https://macma.ro/products/jpg/M/6347713_1.jpg"
+    ],
+    "fetchedAt": "2026-04-26T16:26:28.356Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Beige",
+        "hex": "#ffe4c4"
+      }
+    ],
+    "brand": "M-Collection",
+    "weightGrams": 27,
+    "descriptionLong": "Washable and reusable cotton net for fruits, vegetables and more. Comes with a closing cord and a small cotton patch on the front.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "macma-63651",
+    "name": "Non-woven bag with long handles",
+    "category": "bags/shopping-bags/cotton-and-canvas",
+    "summary": "Non woven bag with 80gsm, solid cross stitching and long handles.",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [
+      "uv-transfer",
+      "uv-print"
+    ],
+    "supplierId": "macma",
+    "supplierSku": "63651",
+    "price": 0.42,
+    "priceFrom": false,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://macma.ro/products/jpg/M/6365113_0.jpg",
+      "https://macma.ro/products/jpg/M/6365113_1.jpg"
+    ],
+    "fetchedAt": "2026-04-26T16:26:28.356Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Beige",
+        "hex": "#ffe4c4"
+      }
+    ],
+    "brand": "M-Collection",
+    "weightGrams": 33,
+    "descriptionLong": "Non woven bag with 80gsm, solid cross stitching and long handles.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "macma-63652",
+    "name": "Non-woven bag with bottom gusset",
+    "category": "bags/shopping-bags/cotton-and-canvas",
+    "summary": "Large non-woven bag with 80gsm, solid cross stitching, bottom gusset and long handles.",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
+    "personalizations": [
+      "uv-transfer",
+      "uv-print"
+    ],
+    "supplierId": "macma",
+    "supplierSku": "63652",
+    "price": 0.51,
+    "priceFrom": false,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://macma.ro/products/jpg/M/6365213_0.jpg",
+      "https://macma.ro/products/jpg/M/6365213_1.jpg"
+    ],
+    "fetchedAt": "2026-04-26T16:26:28.356Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Beige",
+        "hex": "#ffe4c4"
+      }
+    ],
+    "brand": "M-Collection",
+    "weightGrams": 43,
+    "descriptionLong": "Large non-woven bag with 80gsm, solid cross stitching, bottom gusset and long handles.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "macma-63654",
+    "name": "Foldable non-woven bag",
+    "category": "bags/shopping-bags/cotton-and-canvas",
+    "summary": "Foldable non woven bag with 80gsm, solid cross stitching and handles.",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [
+      "uv-transfer",
+      "uv-print"
+    ],
+    "supplierId": "macma",
+    "supplierSku": "63654",
+    "price": 0.67,
+    "priceFrom": false,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://macma.ro/products/jpg/M/6365413_group.jpg",
+      "https://macma.ro/products/jpg/M/6365413_1.jpg",
+      "https://macma.ro/products/jpg/M/6365413_2.jpg",
+      "https://macma.ro/products/jpg/M/6365413_3.jpg",
+      "https://macma.ro/products/jpg/M/6365413_4.jpg",
+      "https://macma.ro/products/jpg/M/6365413_5.jpg",
+      "https://macma.ro/products/jpg/M/6365413_6.jpg"
+    ],
+    "fetchedAt": "2026-04-26T16:26:28.356Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Beige",
+        "hex": "#ffe4c4"
+      }
+    ],
+    "brand": "M-Collection",
+    "weightGrams": 43,
+    "descriptionLong": "Foldable non woven bag with 80gsm, solid cross stitching and handles.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "macma-63861",
+    "name": "Folding shopping trolley",
+    "category": "bags/shopping-bags/cotton-and-canvas",
+    "summary": "Folding plastic shopping trolley with extendable handle and 32 litre capacity. This makes it easy to transport your shopping.",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [
+      "uv-transfer"
+    ],
+    "supplierId": "macma",
+    "supplierSku": "63861",
+    "price": 15.81,
+    "priceFrom": false,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://macma.ro/products/jpg/M/6386103_group.jpg",
+      "https://macma.ro/products/jpg/M/6386103_1.jpg",
+      "https://macma.ro/products/jpg/M/6386103_2.jpg",
+      "https://macma.ro/products/jpg/M/6386103_3.jpg",
+      "https://macma.ro/products/jpg/M/6386103_4.jpg",
+      "https://macma.ro/products/jpg/M/6386103_5.jpg",
+      "https://macma.ro/products/jpg/M/6386103_6.jpg",
+      "https://macma.ro/products/jpg/M/lifestyle/6386103_lifestyle_1.jpg",
+      "https://macma.ro/products/jpg/M/lifestyle/6386103_lifestyle_2.jpg",
+      "https://macma.ro/products/jpg/M/lifestyle/6386103_lifestyle_3.jpg",
+      "https://macma.ro/products/jpg/M/lifestyle/6386103_lifestyle_4.jpg",
+      "https://macma.ro/products/jpg/M/lifestyle/6386103_lifestyle_5.jpg",
+      "https://macma.ro/products/jpg/M/lifestyle/6386103_lifestyle_6.jpg"
+    ],
+    "fetchedAt": "2026-04-26T16:26:28.356Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
+    "brand": "M-Collection",
+    "weightGrams": 2508,
+    "descriptionLong": "Folding plastic shopping trolley with extendable handle and 32 litre capacity. This makes it easy to transport your shopping.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "macma-63880",
+    "name": "Cotton bag with long handles",
+    "category": "bags/shopping-bags/cotton-and-canvas",
+    "summary": "Natural-coloured, environmentally friendly cotton bag (180g/m²) with two long handles.",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "uv-transfer",
+      "uv-print"
+    ],
+    "supplierId": "macma",
+    "supplierSku": "63880",
+    "price": 0.81,
+    "priceFrom": false,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://macma.ro/products/jpg/M/6388013_0.jpg",
+      "https://macma.ro/products/jpg/M/6388013_1.jpg"
+    ],
+    "fetchedAt": "2026-04-26T16:26:28.356Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Beige",
+        "hex": "#ffe4c4"
+      }
+    ],
+    "brand": "M-Collection",
+    "weightGrams": 98,
+    "descriptionLong": "Natural-coloured, environmentally friendly cotton bag (180g/m²) with two long handles.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "macma-63886",
+    "name": "Rattan shopping basket",
+    "category": "bags/shopping-bags/cotton-and-canvas",
+    "summary": "Rattan shopping basket with aluminium handle. We will engrave your logo on the handle.",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "co2"
+    ],
+    "supplierId": "macma",
+    "supplierSku": "63886",
+    "price": 18.63,
+    "priceFrom": false,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://macma.ro/products/jpg/M/6388601_0.jpg",
+      "https://macma.ro/products/jpg/M/6388601_1.jpg",
+      "https://macma.ro/products/jpg/M/6388601_2.jpg",
+      "https://macma.ro/products/jpg/M/6388601_3.jpg",
+      "https://macma.ro/products/jpg/M/lifestyle/6388601_lifestyle_1.jpg",
+      "https://macma.ro/products/jpg/M/lifestyle/6388601_lifestyle_2.jpg",
+      "https://macma.ro/products/jpg/M/lifestyle/6388601_lifestyle_3.jpg"
+    ],
+    "fetchedAt": "2026-04-26T16:26:28.356Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Brown",
+        "hex": "#8b4513"
+      }
+    ],
+    "brand": "M-Collection",
+    "weightGrams": 870,
+    "descriptionLong": "Rattan shopping basket with aluminium handle. We will engrave your logo on the handle.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "macma-64940",
+    "name": "Cotton bag with closable front pocket",
+    "category": "bags/shopping-bags/cotton-and-canvas",
+    "summary": "Oeko-Tex® STANDARD 100 certified, natural coloured cotton bag (140g/m²) with two carrying straps and a closable front pocket.",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
+    "personalizations": [
+      "uv-transfer",
+      "uv-print"
+    ],
+    "supplierId": "macma",
+    "supplierSku": "64940",
+    "price": 2.13,
+    "priceFrom": false,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://macma.ro/products/jpg/M/6494006_0.jpg",
+      "https://macma.ro/products/jpg/M/6494006_1.jpg"
+    ],
+    "fetchedAt": "2026-04-26T16:26:28.356Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
+    "brand": "M-Collection",
+    "weightGrams": 91,
+    "descriptionLong": "Oeko-Tex® STANDARD 100 certified, natural coloured cotton bag (140g/m²) with two carrying straps and a closable front pocket.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "macma-65386",
+    "name": "Polyester beach bag",
+    "category": "bags/shopping-bags/cotton-and-canvas",
+    "summary": "Large, transparent beach or shopping bag made of polyester with long carrying handles.",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
+    "personalizations": [
+      "uv-transfer",
+      "uv-print"
+    ],
+    "supplierId": "macma",
+    "supplierSku": "65386",
+    "price": 2.63,
+    "priceFrom": false,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://macma.ro/products/jpg/M/6538603_0.jpg",
+      "https://macma.ro/products/jpg/M/6538603_1.jpg",
+      "https://macma.ro/products/jpg/M/6538603_2.jpg"
+    ],
+    "fetchedAt": "2026-04-26T16:26:28.356Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
+    "brand": "M-Collection",
+    "weightGrams": 113,
+    "descriptionLong": "Large, transparent beach or shopping bag made of polyester with long carrying handles.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "macma-65425",
+    "name": "Cord shopper",
+    "category": "bags/shopping-bags/cotton-and-canvas",
+    "summary": "Sturdy shopper made of durable playester cord fabric, 250gsm corduroy (100%) with a front pocket, snap closure, and long, comfortable carrying handles.",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
+    "personalizations": [
+      "uv-transfer",
+      "uv-print"
+    ],
+    "supplierId": "macma",
+    "supplierSku": "65425",
+    "price": 6.41,
+    "priceFrom": false,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://macma.ro/products/jpg/M/6542507_0.jpg",
+      "https://macma.ro/products/jpg/M/6542507_1.jpg",
+      "https://macma.ro/products/jpg/M/6542507_2_lifestyle.jpg"
+    ],
+    "fetchedAt": "2026-04-26T16:26:28.356Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      }
+    ],
+    "brand": "M-Collection",
+    "weightGrams": 300,
+    "descriptionLong": "Sturdy shopper made of durable playester cord fabric, 250gsm corduroy (100%) with a front pocket, snap closure, and long, comfortable carrying handles.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "macma-65476",
+    "name": "CrisMa shopper",
+    "category": "bags/shopping-bags/cotton-and-canvas",
+    "summary": "Premium PU shopper bag with subtle CrisMa label.",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
+    "personalizations": [
+      "uv-transfer",
+      "uv-print"
+    ],
+    "supplierId": "macma",
+    "supplierSku": "65476",
+    "price": 7.2,
+    "priceFrom": false,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://macma.ro/products/jpg/M/6547603_0.jpg",
+      "https://macma.ro/products/jpg/M/6547603_1.jpg",
+      "https://macma.ro/products/jpg/M/6547603_2.jpg",
+      "https://macma.ro/products/jpg/M/6547603_3.jpg",
+      "https://macma.ro/products/jpg/M/6547603_4.jpg",
+      "https://macma.ro/products/jpg/M/6547603_5.jpg"
+    ],
+    "fetchedAt": "2026-04-26T16:26:28.356Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
+    "brand": "CrisMa",
+    "weightGrams": 400,
+    "descriptionLong": "Premium PU shopper bag with subtle CrisMa label.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "macma-65482",
+    "name": "Fairtrade cotton tote with gusset",
+    "category": "bags/shopping-bags/cotton-and-canvas",
+    "summary": "Fairtrade cotton tote (180 gsm) with gusset and long handles (70 cm).",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "uv-print"
+    ],
+    "supplierId": "macma",
+    "supplierSku": "65482",
+    "price": 1.89,
+    "priceFrom": false,
+    "stockLevel": "out-of-stock",
+    "images": [
+      "https://macma.ro/products/jpg/M/6548203_0.jpg",
+      "https://macma.ro/products/jpg/M/6548203_1.jpg",
+      "https://macma.ro/products/jpg/M/6548203_2.jpg",
+      "https://macma.ro/products/jpg/M/6548205_0.jpg",
+      "https://macma.ro/products/jpg/M/6548205_1.jpg",
+      "https://macma.ro/products/jpg/M/6548205_2.jpg",
+      "https://macma.ro/products/jpg/M/6548206_0.jpg",
+      "https://macma.ro/products/jpg/M/6548206_1.jpg",
+      "https://macma.ro/products/jpg/M/6548206_2.jpg",
+      "https://macma.ro/products/jpg/M/6548209_0.jpg",
+      "https://macma.ro/products/jpg/M/6548209_1.jpg",
+      "https://macma.ro/products/jpg/M/6548209_2.jpg",
+      "https://macma.ro/products/jpg/M/6548244_0.jpg",
+      "https://macma.ro/products/jpg/M/6548244_1.jpg",
+      "https://macma.ro/products/jpg/M/6548244_2.jpg"
+    ],
+    "fetchedAt": "2026-04-26T16:26:28.356Z",
+    "variantCount": 5,
+    "colorCount": 5,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Green",
+        "hex": "#00cc00"
+      },
+      {
+        "name": "Navy Heather",
+        "hex": "#222277"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
+      }
+    ],
+    "brand": "M-Collection",
+    "weightGrams": 107,
+    "descriptionLong": "Fairtrade cotton tote (180 gsm) with gusset and long handles (70 cm).",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "macma-67551",
+    "name": "Trunk bag",
+    "category": "bags/shopping-bags/cotton-and-canvas",
+    "summary": "XXL allround bag, ideal for shopping and the car. This bag is small when folded and huge when unfolded, with 2 compartments. Thanks to its firm walls, it provides a fix stand in the trunk. It is also ideal for all the...",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [
+      "uv-print"
+    ],
+    "supplierId": "macma",
+    "supplierSku": "67551",
+    "price": 10.79,
+    "priceFrom": false,
+    "stockLevel": "low",
+    "images": [
+      "https://macma.ro/products/jpg/M/6755103_1.jpg",
+      "https://macma.ro/products/jpg/M/6755103_1_print.jpg",
+      "https://macma.ro/products/jpg/M/6755103_3.jpg",
+      "https://macma.ro/products/jpg/M/6755103_3_print.jpg",
+      "https://macma.ro/products/jpg/M/lifestyle/6755103_lifestyle_2.jpg"
+    ],
+    "fetchedAt": "2026-04-26T16:26:28.356Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
+    "brand": "M-Collection",
+    "weightGrams": 600,
+    "descriptionLong": "XXL allround bag, ideal for shopping and the car. This bag is small when folded and huge when unfolded, with 2 compartments. Thanks to its firm walls, it provides a fix stand in the trunk. It is also ideal for all the equipment in your car. We will print your logo on the front.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "macma-68792",
+    "name": "Foldable non-woven shopping bag",
+    "category": "bags/shopping-bags/cotton-and-canvas",
+    "summary": "The non-woven shopping bag can be folded saving space, and stored anywhere, thus, it is always at hand for spontaneous shopping trips. We will print your logo on one side.",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
+    "personalizations": [
+      "uv-transfer",
+      "uv-print"
+    ],
+    "supplierId": "macma",
+    "supplierSku": "68792",
+    "price": 0.64,
+    "priceFrom": false,
+    "stockLevel": "low",
+    "images": [
+      "https://macma.ro/products/jpg/M/6879205_0.jpg",
+      "https://macma.ro/products/jpg/M/6879205_1.jpg",
+      "https://macma.ro/products/jpg/M/6879205_2.jpg",
+      "https://macma.ro/products/jpg/M/lifestyle/6879205_lifestyle_1.jpg",
+      "https://macma.ro/products/jpg/M/lifestyle/6879205_lifestyle_2.jpg",
+      "https://macma.ro/products/jpg/M/lifestyle/6879205_lifestyle_3.jpg",
+      "https://macma.ro/products/jpg/M/lifestyle/6879205_lifestyle_4.jpg",
+      "https://macma.ro/products/jpg/M/6879210_0.jpg",
+      "https://macma.ro/products/jpg/M/6879210_1.jpg",
+      "https://macma.ro/products/jpg/M/6879210_2.jpg"
+    ],
+    "fetchedAt": "2026-04-26T16:26:28.356Z",
+    "variantCount": 2,
+    "colorCount": 2,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Orange",
+        "hex": "#ff6600"
+      },
+      {
+        "name": "Red",
+        "hex": "#cc0000"
+      }
+    ],
+    "brand": "M-Collection",
+    "weightGrams": 40,
+    "descriptionLong": "The non-woven shopping bag can be folded saving space, and stored anywhere, thus, it is always at hand for spontaneous shopping trips. We will print your logo on one side.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "macma-h510020",
+    "name": "TAMALA Shopping and leisure bag",
+    "category": "bags/shopping-bags/cotton-and-canvas",
+    "summary": "Elegant Vanilla Seaon shopping and leisure bag. The bag is made in beige color. It has a main compartment that can be closed with a press, a small inner pocket and a large front pocket. The bag is very spacious, so it...",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
+    "personalizations": [],
+    "supplierId": "macma",
+    "supplierSku": "H510020",
+    "price": 11.78,
+    "priceFrom": false,
+    "stockLevel": "out-of-stock",
+    "images": [
+      "https://macma.ro/products/jpg/PSV/VANILLA/h5100200aj3.jpg",
+      "https://macma.ro/products/jpg/PSV/VANILLA/h5100200aj3_a.jpg",
+      "https://macma.ro/products/jpg/PSV/VANILLA/h5100200aj3_b.jpg",
+      "https://macma.ro/products/jpg/PSV/VANILLA/h5100200aj3_c.jpg",
+      "https://macma.ro/products/jpg/PSV/VANILLA/h5100200aj3_d.jpg",
+      "https://macma.ro/products/jpg/PSV/VANILLA/h5100200aj3_e.jpg"
+    ],
+    "fetchedAt": "2026-04-26T16:26:28.356Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Beige",
+        "hex": "#ffe4c4"
+      }
+    ],
+    "brand": "Vanilla Season",
+    "descriptionLong": "Elegant Vanilla Seaon shopping and leisure bag. The bag is made in beige color. It has a main compartment that can be closed with a press, a small inner pocket and a large front pocket. The bag is very spacious, so it can be used not only for your shopping, but also as a hand bag that you take to the beach or the swimming pool. The long handles allow for comfortable carrying over the shoulder. The bag is made of ripstop fake cotton.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "macma-kalbarri",
+    "name": "KALBARRI folding shopping bag",
+    "category": "bags/shopping-bags/cotton-and-canvas",
+    "summary": "Practical Vanilla Season folding shopping bag, which must not be missing in any handbag. The bag is made of recycled polyester with GRS certification. Offered in 4 modern colours.",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
+    "personalizations": [
+      "uv-transfer",
+      "uv-print"
+    ],
+    "supplierId": "macma",
+    "supplierSku": "KALBARRI",
+    "price": 2.73,
+    "priceFrom": false,
+    "stockLevel": "out-of-stock",
+    "images": [
+      "https://macma.ro/products/jpg/PSV/SCHWARZ/h5100100aj3_1.jpg",
+      "https://macma.ro/products/jpg/PSV/SCHWARZ/h5100100aj3_2.jpg",
+      "https://macma.ro/products/jpg/PSV/SCHWARZ/h5100101aj3_1.jpg",
+      "https://macma.ro/products/jpg/PSV/SCHWARZ/h5100101aj3_2.jpg",
+      "https://macma.ro/products/jpg/PSV/SCHWARZ/h5100101aj3_3.jpg",
+      "https://macma.ro/products/jpg/PSV/SCHWARZ/h5100103aj3_1.jpg",
+      "https://macma.ro/products/jpg/PSV/SCHWARZ/h5100103aj3_2.jpg"
+    ],
+    "fetchedAt": "2026-04-26T16:26:28.356Z",
+    "variantCount": 3,
+    "colorCount": 3,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Blue",
+        "hex": "#104e8b"
+      },
+      {
+        "name": "Green",
+        "hex": "#00cc00"
+      },
+      {
+        "name": "Grey",
+        "hex": "#909090"
+      }
+    ],
+    "brand": "Vanilla Season",
+    "weightGrams": 35,
+    "descriptionLong": "Practical Vanilla Season folding shopping bag, which must not be missing in any handbag. The bag is made of recycled polyester with GRS certification. Offered in 4 modern colours.",
+    "hasVariantDetail": true
+  }
+]

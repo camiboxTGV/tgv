@@ -3,7 +3,7 @@
     "contentKey": "1b08a6af67b9aef0",
     "stock": 2,
     "stockLevel": "low",
-    "price": 5.95,
+    "price": 4.81,
     "color": {
       "name": "Royal Blue",
       "hex": "#1663de"
@@ -31,7 +31,7 @@
     "contentKey": "5069d2a6dff3eff3",
     "stock": 31,
     "stockLevel": "in-stock",
-    "price": 5.95,
+    "price": 4.81,
     "color": {
       "name": "Royal Blue",
       "hex": "#1663de"
@@ -43,9 +43,9 @@
   },
   {
     "contentKey": "588232a3abe8b6de",
-    "stock": 1,
-    "stockLevel": "low",
-    "price": 5.95,
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 4.81,
     "color": {
       "name": "Heather Grey",
       "hex": "#a7a7a7"
@@ -71,9 +71,9 @@
   },
   {
     "contentKey": "7c028d4e22994736",
-    "stock": 11,
+    "stock": 10,
     "stockLevel": "in-stock",
-    "price": 5.95,
+    "price": 4.81,
     "color": {
       "name": "Heather Grey",
       "hex": "#a7a7a7"
@@ -101,7 +101,7 @@
     "contentKey": "b6f07afc72e8d9cf",
     "stock": 2,
     "stockLevel": "low",
-    "price": 5.95,
+    "price": 4.81,
     "color": {
       "name": "Royal Blue",
       "hex": "#1663de"
@@ -126,9 +126,9 @@
   },
   {
     "contentKey": "c61ea3b557402b52",
-    "stock": 39,
+    "stock": 14,
     "stockLevel": "in-stock",
-    "price": 5.95,
+    "price": 4.81,
     "color": {
       "name": "Heather Grey",
       "hex": "#a7a7a7"
@@ -139,9 +139,9 @@
   },
   {
     "contentKey": "c61ea3b557402b52",
-    "stock": 4,
-    "stockLevel": "low",
-    "price": 5.95,
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 4.81,
     "color": {
       "name": "Heather Grey",
       "hex": "#a7a7a7"
