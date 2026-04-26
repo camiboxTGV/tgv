@@ -4,6 +4,7 @@ import { useEffect, useState } from "react"
 import Link from "next/link"
 import { usePathname } from "next/navigation"
 import { useOffer } from "@/components/OfferProvider"
+import SearchBox from "@/components/SearchBox"
 
 interface NavLink {
   href: string
@@ -51,7 +52,7 @@ export default function NavBar() {
           : "bg-transparent"
       }`}
     >
-      <div className="flex items-center justify-between mx-auto px-6 lg:px-8 py-4 max-w-6xl">
+      <div className="flex items-center justify-between gap-6 mx-auto px-6 lg:px-8 py-4 max-w-6xl">
         <Link
           href="/"
           className="text-xl font-[family-name:var(--font-outfit)] font-bold tracking-tight text-[var(--brand-black)]"
@@ -59,38 +60,42 @@ export default function NavBar() {
           TGV<span className="text-[var(--brand-orange)]">•</span>Media
         </Link>
 
-        <nav className="hidden md:flex items-center gap-8">
-          {links.map((link) => (
-            <Link
-              key={link.href}
-              href={link.href}
-              className={`text-sm font-medium transition-colors ${
-                isActive(link.href)
-                  ? "text-[var(--brand-black)]"
-                  : "text-[var(--text-soft)] hover:text-[var(--brand-black)]"
-              }`}
-            >
-              {link.label}
-            </Link>
-          ))}
-        </nav>
+        <div className="hidden md:flex grow items-center justify-end gap-6">
+          <nav className="flex items-center gap-8">
+            {links.map((link) => (
+              <Link
+                key={link.href}
+                href={link.href}
+                className={`text-sm font-medium transition-colors ${
+                  isActive(link.href)
+                    ? "text-[var(--brand-black)]"
+                    : "text-[var(--text-soft)] hover:text-[var(--brand-black)]"
+                }`}
+              >
+                {link.label}
+              </Link>
+            ))}
+          </nav>
 
-        <div className="hidden md:flex items-center gap-3">
-          {hydrated && count > 0 && (
+          <SearchBox className="w-56 lg:w-72" />
+
+          <div className="flex items-center gap-3">
+            {hydrated && count > 0 && (
+              <Link
+                href="/offer"
+                aria-label={`${count} item${count === 1 ? "" : "s"} in your offer`}
+                className="inline-flex items-center justify-center w-8 h-8 text-xs font-semibold text-[var(--brand-orange)] bg-[var(--surface)] border border-[var(--brand-orange)] rounded-full hover:bg-[var(--brand-orange)] hover:text-white transition-colors"
+              >
+                {count}
+              </Link>
+            )}
             <Link
-              href="/offer"
-              aria-label={`${count} item${count === 1 ? "" : "s"} in your offer`}
-              className="inline-flex items-center justify-center w-8 h-8 text-xs font-semibold text-[var(--brand-orange)] bg-[var(--surface)] border border-[var(--brand-orange)] rounded-full hover:bg-[var(--brand-orange)] hover:text-white transition-colors"
+              href="/contact"
+              className="inline-flex items-center px-5 py-2.5 text-sm font-semibold text-white bg-[var(--primary)] hover:bg-[var(--primary-hover)] rounded-full transition-colors"
             >
-              {count}
+              Start a project
             </Link>
-          )}
-          <Link
-            href="/contact"
-            className="inline-flex items-center px-5 py-2.5 text-sm font-semibold text-white bg-[var(--primary)] hover:bg-[var(--primary-hover)] rounded-full transition-colors"
-          >
-            Start a project
-          </Link>
+          </div>
         </div>
 
         <button
@@ -150,7 +155,14 @@ export default function NavBar() {
             </button>
           </div>
 
-          <nav className="flex flex-col gap-6 mt-12">
+          <div className="mt-8">
+            <SearchBox
+              className="w-full"
+              onNavigate={() => setOpen(false)}
+            />
+          </div>
+
+          <nav className="flex flex-col gap-6 mt-8">
             {links.map((link) => (
               <Link
                 key={link.href}
