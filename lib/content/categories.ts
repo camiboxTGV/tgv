@@ -261,6 +261,8 @@ export const categoryTree: CategoryNode[] = [
       leaf("Raincoats"),
     ]),
   ], GRADIENTS[4]),
+
+  { slug: "seasonal-gifts", name: "Seasonal Gifts", accent: GRADIENTS[5] },
 ]
 
 export interface FlatNode {
