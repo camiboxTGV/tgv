@@ -221,7 +221,7 @@ export default function SearchBox({ className, onNavigate }: SearchBoxProps) {
               </div>
               <span className="shrink-0 text-sm font-semibold text-[var(--brand-orange)]">
                 {r.priceFrom ? "from " : ""}
-                {r.price.toFixed(2)} RON
+                {r.price.toFixed(2)} €
               </span>
             </li>
           ))}
