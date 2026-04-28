@@ -17,8 +17,8 @@
   },
   {
     "contentKey": "42a9e6c6558b74ab",
-    "stock": 19,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 7.03,
     "color": {
       "name": "Red",
@@ -33,8 +33,8 @@
   },
   {
     "contentKey": "a1b518f312360879",
-    "stock": 3,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 7.03,
     "color": {
       "name": "Grey Melange",

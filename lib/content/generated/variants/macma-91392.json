@@ -1,8 +1,8 @@
 [
   {
     "contentKey": "26b2c21d0bb10c93",
-    "stock": 50,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 0.49,
     "color": {
       "name": "Black",
@@ -17,7 +17,7 @@
   },
   {
     "contentKey": "3466e73b3e13e17e",
-    "stock": 40508,
+    "stock": 40308,
     "stockLevel": "in-stock",
     "price": 0.49,
     "color": {
