@@ -151,7 +151,7 @@
   },
   {
     "contentKey": "2005f0f31015db0d",
-    "stock": 5007,
+    "stock": 5103,
     "stockLevel": "in-stock",
     "price": 3.09,
     "color": {
@@ -247,7 +247,7 @@
   },
   {
     "contentKey": "2d5fffbb595626c3",
-    "stock": 192,
+    "stock": 96,
     "stockLevel": "in-stock",
     "price": 3.77,
     "color": {
@@ -587,7 +587,7 @@
   },
   {
     "contentKey": "6641ad59b8c97240",
-    "stock": 288,
+    "stock": 192,
     "stockLevel": "in-stock",
     "price": 3.77,
     "color": {
@@ -601,7 +601,7 @@
   },
   {
     "contentKey": "66e9cca7d8396d68",
-    "stock": 5019,
+    "stock": 5115,
     "stockLevel": "in-stock",
     "price": 3.09,
     "color": {
@@ -738,8 +738,8 @@
   },
   {
     "contentKey": "813ed3ee3235894d",
-    "stock": 96,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 3.77,
     "color": {
       "name": "Deep Berry",
@@ -765,7 +765,7 @@
   },
   {
     "contentKey": "8c92250d9a031e59",
-    "stock": 768,
+    "stock": 672,
     "stockLevel": "in-stock",
     "price": 3.77,
     "color": {
@@ -1221,7 +1221,7 @@
   },
   {
     "contentKey": "ff9b766ef7d83e2e",
-    "stock": 2688,
+    "stock": 2592,
     "stockLevel": "in-stock",
     "price": 3.77,
     "color": {
