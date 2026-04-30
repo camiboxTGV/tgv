@@ -158,8 +158,8 @@
   },
   {
     "contentKey": "343fa228a443a64d",
-    "stock": 20,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 10.01,
     "color": {
       "name": "Heather Grey",
@@ -173,8 +173,8 @@
   },
   {
     "contentKey": "343fa228a443a64d",
-    "stock": 17,
-    "stockLevel": "in-stock",
+    "stock": 7,
+    "stockLevel": "low",
     "price": 10.01,
     "color": {
       "name": "Heather Grey",
@@ -946,7 +946,7 @@
   },
   {
     "contentKey": "a504e8be76b02b9a",
-    "stock": 23,
+    "stock": 13,
     "stockLevel": "in-stock",
     "price": 10.01,
     "color": {
