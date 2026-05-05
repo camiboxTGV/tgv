@@ -10,20 +10,6 @@
     },
     "size": "S",
     "imageRefs": [
-      2
-    ]
-  },
-  {
-    "contentKey": "35501e444b8f5875",
-    "stock": 150,
-    "stockLevel": "in-stock",
-    "price": 7.62,
-    "color": {
-      "name": "White",
-      "hex": "#ffffff"
-    },
-    "size": "L",
-    "imageRefs": [
       0
     ]
   },
@@ -38,7 +24,7 @@
     },
     "size": "M",
     "imageRefs": [
-      2
+      0
     ]
   },
   {
@@ -51,20 +37,6 @@
       "hex": "#a7a7a7"
     },
     "size": "XL",
-    "imageRefs": [
-      3
-    ]
-  },
-  {
-    "contentKey": "6fcd2c09ae528f60",
-    "stock": 0,
-    "stockLevel": "out-of-stock",
-    "price": 5.95,
-    "color": {
-      "name": "Navy",
-      "hex": "#12315b"
-    },
-    "size": "S",
     "imageRefs": [
       1
     ]
@@ -80,26 +52,12 @@
     },
     "size": "S",
     "imageRefs": [
-      3
-    ]
-  },
-  {
-    "contentKey": "93ce23ac90e6bc8d",
-    "stock": 50,
-    "stockLevel": "in-stock",
-    "price": 7.62,
-    "color": {
-      "name": "White",
-      "hex": "#ffffff"
-    },
-    "size": "S",
-    "imageRefs": [
-      0
+      1
     ]
   },
   {
     "contentKey": "b6f07afc72e8d9cf",
-    "stock": 2,
+    "stock": 1,
     "stockLevel": "low",
     "price": 4.81,
     "color": {
@@ -107,38 +65,24 @@
       "hex": "#1663de"
     },
     "imageRefs": [
-      2
+      0
     ]
   },
   {
-    "contentKey": "bb53b5e4b75d6532",
-    "stock": 0,
-    "stockLevel": "out-of-stock",
-    "price": 8.49,
+    "contentKey": "c61ea3b557402b52",
+    "stock": 13,
+    "stockLevel": "in-stock",
+    "price": 4.81,
     "color": {
-      "name": "Navy",
-      "hex": "#12315b"
+      "name": "Heather Grey",
+      "hex": "#a7a7a7"
     },
-    "size": "M",
     "imageRefs": [
       1
     ]
   },
   {
     "contentKey": "c61ea3b557402b52",
-    "stock": 14,
-    "stockLevel": "in-stock",
-    "price": 4.81,
-    "color": {
-      "name": "Heather Grey",
-      "hex": "#a7a7a7"
-    },
-    "imageRefs": [
-      3
-    ]
-  },
-  {
-    "contentKey": "c61ea3b557402b52",
     "stock": 0,
     "stockLevel": "out-of-stock",
     "price": 4.81,
@@ -147,61 +91,7 @@
       "hex": "#a7a7a7"
     },
     "imageRefs": [
-      3
-    ]
-  },
-  {
-    "contentKey": "cbecb637e375aaf2",
-    "stock": 85,
-    "stockLevel": "in-stock",
-    "price": 7.62,
-    "color": {
-      "name": "White",
-      "hex": "#ffffff"
-    },
-    "imageRefs": [
-      0
-    ]
-  },
-  {
-    "contentKey": "cbecb637e375aaf2",
-    "stock": 0,
-    "stockLevel": "out-of-stock",
-    "price": 7.62,
-    "color": {
-      "name": "White",
-      "hex": "#ffffff"
-    },
-    "imageRefs": [
-      0
-    ]
-  },
-  {
-    "contentKey": "d751ad28c9452bf2",
-    "stock": 148,
-    "stockLevel": "in-stock",
-    "price": 7.62,
-    "color": {
-      "name": "White",
-      "hex": "#ffffff"
-    },
-    "size": "XL",
-    "imageRefs": [
-      0
-    ]
-  },
-  {
-    "contentKey": "fc7711b1b2623acf",
-    "stock": 98,
-    "stockLevel": "in-stock",
-    "price": 7.62,
-    "color": {
-      "name": "White",
-      "hex": "#ffffff"
-    },
-    "size": "M",
-    "imageRefs": [
-      0
+      1
     ]
   }
 ]
