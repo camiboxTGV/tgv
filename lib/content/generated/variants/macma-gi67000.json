@@ -41,7 +41,7 @@
   },
   {
     "contentKey": "6acaa2c4a99b90d9",
-    "stock": 4711,
+    "stock": 4656,
     "stockLevel": "in-stock",
     "price": 2.31,
     "color": {
@@ -55,7 +55,7 @@
   },
   {
     "contentKey": "73f29e64ef7cd3ec",
-    "stock": 22,
+    "stock": 21,
     "stockLevel": "in-stock",
     "price": 1.83,
     "color": {
@@ -83,8 +83,8 @@
   },
   {
     "contentKey": "917d6b4216a98729",
-    "stock": 25,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 1.83,
     "color": {
       "name": "Red Mist",
