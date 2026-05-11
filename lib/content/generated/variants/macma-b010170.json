@@ -37,8 +37,8 @@
   },
   {
     "contentKey": "6f58095a295cc8f5",
-    "stock": 9,
-    "stockLevel": "low",
+    "stock": 10,
+    "stockLevel": "in-stock",
     "price": 3.65,
     "color": {
       "name": "Light Blue",
@@ -125,8 +125,8 @@
   },
   {
     "contentKey": "d789ed3ab47cede3",
-    "stock": 0,
-    "stockLevel": "out-of-stock",
+    "stock": 1,
+    "stockLevel": "low",
     "price": 3.65,
     "color": {
       "name": "Pink",
