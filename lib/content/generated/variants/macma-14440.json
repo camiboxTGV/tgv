@@ -1,7 +1,7 @@
 [
   {
     "contentKey": "019b25e9806b564a",
-    "stock": 49942,
+    "stock": 49842,
     "stockLevel": "in-stock",
     "price": 0.45,
     "color": {
@@ -9,15 +9,15 @@
       "hex": "#000000"
     },
     "imageRefs": [
-      35,
-      36,
-      37,
-      38
+      39,
+      40,
+      41,
+      42
     ]
   },
   {
     "contentKey": "1ddb0d1462391bb0",
-    "stock": 6035,
+    "stock": 5935,
     "stockLevel": "in-stock",
     "price": 0.45,
     "color": {
@@ -25,15 +25,15 @@
       "hex": "#caff70"
     },
     "imageRefs": [
-      55,
-      56,
-      57,
-      58
+      59,
+      60,
+      61,
+      62
     ]
   },
   {
     "contentKey": "1f8a7997773dcd49",
-    "stock": 38348,
+    "stock": 38248,
     "stockLevel": "in-stock",
     "price": 0.45,
     "color": {
@@ -49,28 +49,12 @@
   },
   {
     "contentKey": "31b1bc74433e10f6",
-    "stock": 17036,
+    "stock": 16936,
     "stockLevel": "in-stock",
     "price": 0.45,
     "color": {
       "name": "Violet",
       "hex": "#a020f0"
-    },
-    "imageRefs": [
-      43,
-      44,
-      45,
-      46
-    ]
-  },
-  {
-    "contentKey": "3f07feee7bf19ec7",
-    "stock": 22668,
-    "stockLevel": "in-stock",
-    "price": 0.45,
-    "color": {
-      "name": "Dark Grey",
-      "hex": "#646464"
     },
     "imageRefs": [
       47,
@@ -80,8 +64,24 @@
     ]
   },
   {
+    "contentKey": "3f07feee7bf19ec7",
+    "stock": 22568,
+    "stockLevel": "in-stock",
+    "price": 0.45,
+    "color": {
+      "name": "Dark Grey",
+      "hex": "#646464"
+    },
+    "imageRefs": [
+      51,
+      52,
+      53,
+      54
+    ]
+  },
+  {
     "contentKey": "3f096050ee4f2459",
-    "stock": 22073,
+    "stock": 21973,
     "stockLevel": "in-stock",
     "price": 0.45,
     "color": {
@@ -89,15 +89,15 @@
       "hex": "#ff6600"
     },
     "imageRefs": [
-      59,
-      60,
-      61,
-      62
+      63,
+      64,
+      65,
+      66
     ]
   },
   {
     "contentKey": "5741620b6d395e39",
-    "stock": 21071,
+    "stock": 20971,
     "stockLevel": "in-stock",
     "price": 0.45,
     "color": {
@@ -113,7 +113,7 @@
   },
   {
     "contentKey": "7313f2be624989c9",
-    "stock": 45636,
+    "stock": 45536,
     "stockLevel": "in-stock",
     "price": 0.45,
     "color": {
@@ -129,7 +129,7 @@
   },
   {
     "contentKey": "a0025975b017a021",
-    "stock": 36092,
+    "stock": 35992,
     "stockLevel": "in-stock",
     "price": 0.45,
     "color": {
@@ -137,15 +137,15 @@
       "hex": "#00cc00"
     },
     "imageRefs": [
-      31,
-      32,
-      33,
-      34
+      35,
+      36,
+      37,
+      38
     ]
   },
   {
     "contentKey": "cde249601a543ee8",
-    "stock": 9991,
+    "stock": 9891,
     "stockLevel": "in-stock",
     "price": 0.45,
     "color": {
@@ -161,7 +161,7 @@
   },
   {
     "contentKey": "d711b4f6ef6e472f",
-    "stock": 11331,
+    "stock": 11231,
     "stockLevel": "in-stock",
     "price": 0.45,
     "color": {
@@ -177,7 +177,7 @@
   },
   {
     "contentKey": "ec2402e9fc90d445",
-    "stock": 24293,
+    "stock": 24193,
     "stockLevel": "in-stock",
     "price": 0.45,
     "color": {
@@ -185,15 +185,15 @@
       "hex": "#880000"
     },
     "imageRefs": [
-      39,
-      40,
-      41,
-      42
+      43,
+      44,
+      45,
+      46
     ]
   },
   {
     "contentKey": "f2fac5dd018b1fee",
-    "stock": 23905,
+    "stock": 23805,
     "stockLevel": "in-stock",
     "price": 0.45,
     "color": {
@@ -209,7 +209,7 @@
   },
   {
     "contentKey": "f44528c4d8102df4",
-    "stock": 20112,
+    "stock": 20012,
     "stockLevel": "in-stock",
     "price": 0.45,
     "color": {
@@ -217,15 +217,15 @@
       "hex": "#bfefff"
     },
     "imageRefs": [
-      51,
-      52,
-      53,
-      54
+      55,
+      56,
+      57,
+      58
     ]
   },
   {
     "contentKey": "f69aa0561473b0ad",
-    "stock": 50460,
+    "stock": 50360,
     "stockLevel": "in-stock",
     "price": 0.45,
     "color": {
@@ -239,7 +239,11 @@
       27,
       28,
       29,
-      30
+      30,
+      31,
+      32,
+      33,
+      34
     ]
   }
 ]

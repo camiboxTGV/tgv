@@ -1,8 +1,8 @@
 [
   {
     "contentKey": "2d764a6d35ed357c",
-    "stock": 5,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 45.34,
     "color": {
       "name": "Azure",
@@ -15,8 +15,8 @@
   },
   {
     "contentKey": "3357dd2897d837a6",
-    "stock": 15,
-    "stockLevel": "in-stock",
+    "stock": 8,
+    "stockLevel": "low",
     "price": 45.34,
     "color": {
       "name": "Azure",
@@ -42,7 +42,7 @@
   },
   {
     "contentKey": "34b2715a10b14b1c",
-    "stock": 26,
+    "stock": 14,
     "stockLevel": "in-stock",
     "price": 45.34,
     "color": {
@@ -56,8 +56,8 @@
   },
   {
     "contentKey": "57994080d8230613",
-    "stock": 14,
-    "stockLevel": "in-stock",
+    "stock": 9,
+    "stockLevel": "low",
     "price": 45.34,
     "color": {
       "name": "Black",
@@ -100,8 +100,8 @@
   },
   {
     "contentKey": "60c7f91a0794ac67",
-    "stock": 2,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 45.34,
     "color": {
       "name": "Dark Grey",
@@ -142,8 +142,8 @@
   },
   {
     "contentKey": "6769e5c1654eccb6",
-    "stock": 93,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 45.34,
     "color": {
       "name": "White",
@@ -155,7 +155,7 @@
   },
   {
     "contentKey": "6d2cb367bf0841a0",
-    "stock": 44,
+    "stock": 24,
     "stockLevel": "in-stock",
     "price": 45.34,
     "color": {
@@ -170,7 +170,7 @@
   },
   {
     "contentKey": "6f7a23e9072b5bfa",
-    "stock": 9,
+    "stock": 6,
     "stockLevel": "low",
     "price": 45.34,
     "color": {
@@ -199,8 +199,8 @@
   },
   {
     "contentKey": "788b364b5ff25b6f",
-    "stock": 38,
-    "stockLevel": "in-stock",
+    "stock": 6,
+    "stockLevel": "low",
     "price": 45.34,
     "color": {
       "name": "Red",
@@ -212,8 +212,8 @@
   },
   {
     "contentKey": "97fe9bef7d93e351",
-    "stock": 127,
-    "stockLevel": "in-stock",
+    "stock": 5,
+    "stockLevel": "low",
     "price": 45.34,
     "color": {
       "name": "White",
@@ -254,8 +254,8 @@
   },
   {
     "contentKey": "c7a789e8df7246a6",
-    "stock": 2,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 45.34,
     "color": {
       "name": "Dark Grey",
@@ -268,7 +268,7 @@
   },
   {
     "contentKey": "d28c93bef7f98ba9",
-    "stock": 53,
+    "stock": 13,
     "stockLevel": "in-stock",
     "price": 45.34,
     "color": {
@@ -282,8 +282,8 @@
   },
   {
     "contentKey": "d6e4faf0996a9033",
-    "stock": 2,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 45.34,
     "color": {
       "name": "Dark Grey",
@@ -296,8 +296,8 @@
   },
   {
     "contentKey": "d790d5aee6c7efeb",
-    "stock": 13,
-    "stockLevel": "in-stock",
+    "stock": 5,
+    "stockLevel": "low",
     "price": 45.34,
     "color": {
       "name": "Azure",
@@ -353,8 +353,8 @@
   },
   {
     "contentKey": "e379bc7b1c73c02f",
-    "stock": 31,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 45.34,
     "color": {
       "name": "Red",
@@ -397,8 +397,8 @@
   },
   {
     "contentKey": "ed40c66423193253",
-    "stock": 46,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 45.34,
     "color": {
       "name": "White",

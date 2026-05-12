@@ -1,7 +1,7 @@
 [
   {
     "contentKey": "316295359c189fe4",
-    "stock": 2614,
+    "stock": 2610,
     "stockLevel": "in-stock",
     "price": 6.32,
     "color": {
@@ -9,9 +9,6 @@
       "hex": "#bfefff"
     },
     "imageRefs": [
-      26,
-      27,
-      28,
       29,
       30,
       31,
@@ -21,12 +18,15 @@
       35,
       36,
       37,
-      38
+      38,
+      39,
+      40,
+      41
     ]
   },
   {
     "contentKey": "5003f39c0fb14447",
-    "stock": 2728,
+    "stock": 2723,
     "stockLevel": "in-stock",
     "price": 6.32,
     "color": {
@@ -34,9 +34,6 @@
       "hex": "#caff70"
     },
     "imageRefs": [
-      39,
-      40,
-      41,
       42,
       43,
       44,
@@ -46,12 +43,15 @@
       48,
       49,
       50,
-      51
+      51,
+      52,
+      53,
+      54
     ]
   },
   {
     "contentKey": "71b8c2a07c39bfcb",
-    "stock": 2279,
+    "stock": 2275,
     "stockLevel": "in-stock",
     "price": 6.32,
     "color": {
@@ -76,7 +76,7 @@
   },
   {
     "contentKey": "acfda7bb16442162",
-    "stock": 2277,
+    "stock": 2291,
     "stockLevel": "in-stock",
     "price": 6.32,
     "color": {
@@ -96,7 +96,10 @@
       22,
       23,
       24,
-      25
+      25,
+      26,
+      27,
+      28
     ]
   }
 ]

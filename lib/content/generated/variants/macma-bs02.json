@@ -1,8 +1,8 @@
 [
   {
     "contentKey": "00eee3a15e2d23fa",
-    "stock": 30,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 8.75,
     "color": {
       "name": "Yellow Gold",
@@ -16,7 +16,7 @@
   },
   {
     "contentKey": "01f68cc636470213",
-    "stock": 109,
+    "stock": 79,
     "stockLevel": "in-stock",
     "price": 8.75,
     "color": {
@@ -64,7 +64,7 @@
   },
   {
     "contentKey": "12ede40d0ca26ff6",
-    "stock": 106,
+    "stock": 96,
     "stockLevel": "in-stock",
     "price": 8.75,
     "color": {
@@ -80,8 +80,8 @@
   },
   {
     "contentKey": "1de97ac6edffafac",
-    "stock": 3880,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 8.75,
     "color": {
       "name": "Black",
@@ -95,8 +95,8 @@
   },
   {
     "contentKey": "1de97ac6edffafac",
-    "stock": 255,
-    "stockLevel": "in-stock",
+    "stock": 5,
+    "stockLevel": "low",
     "price": 8.75,
     "color": {
       "name": "Black",
@@ -126,7 +126,7 @@
   },
   {
     "contentKey": "259c86f2fa39bb6b",
-    "stock": 136,
+    "stock": 35,
     "stockLevel": "in-stock",
     "price": 8.75,
     "color": {
@@ -141,7 +141,7 @@
   },
   {
     "contentKey": "29fd26af8647677c",
-    "stock": 25,
+    "stock": 15,
     "stockLevel": "in-stock",
     "price": 8.75,
     "color": {
@@ -157,7 +157,7 @@
   },
   {
     "contentKey": "2d14ac8f6545a945",
-    "stock": 71,
+    "stock": 31,
     "stockLevel": "in-stock",
     "price": 8.75,
     "color": {
@@ -173,7 +173,7 @@
   },
   {
     "contentKey": "39d448f1b712e120",
-    "stock": 394,
+    "stock": 14,
     "stockLevel": "in-stock",
     "price": 8.75,
     "color": {
@@ -188,8 +188,8 @@
   },
   {
     "contentKey": "39d448f1b712e120",
-    "stock": 110,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 8.75,
     "color": {
       "name": "White",
@@ -235,7 +235,7 @@
   },
   {
     "contentKey": "4231dc842a1b4bc3",
-    "stock": 274,
+    "stock": 94,
     "stockLevel": "in-stock",
     "price": 8.75,
     "color": {
@@ -251,7 +251,7 @@
   },
   {
     "contentKey": "50330cf4670f79c6",
-    "stock": 427,
+    "stock": 27,
     "stockLevel": "in-stock",
     "price": 8.75,
     "color": {
@@ -282,8 +282,8 @@
   },
   {
     "contentKey": "56838f485bf4ef8c",
-    "stock": 850,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 8.75,
     "color": {
       "name": "Navy",
@@ -298,8 +298,8 @@
   },
   {
     "contentKey": "57f80a150d9da459",
-    "stock": 1121,
-    "stockLevel": "in-stock",
+    "stock": 1,
+    "stockLevel": "low",
     "price": 8.75,
     "color": {
       "name": "Black",
@@ -314,7 +314,7 @@
   },
   {
     "contentKey": "65b8c63dc3e09410",
-    "stock": 166,
+    "stock": 66,
     "stockLevel": "in-stock",
     "price": 8.75,
     "color": {
@@ -330,7 +330,7 @@
   },
   {
     "contentKey": "670ee60ce33c7fed",
-    "stock": 833,
+    "stock": 73,
     "stockLevel": "in-stock",
     "price": 8.75,
     "color": {
@@ -426,8 +426,8 @@
   },
   {
     "contentKey": "9914a6bc99f83799",
-    "stock": 700,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 8.75,
     "color": {
       "name": "Navy",
@@ -442,8 +442,8 @@
   },
   {
     "contentKey": "9a7d1eb8b87b07e8",
-    "stock": 250,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 8.75,
     "color": {
       "name": "Navy",
@@ -490,7 +490,7 @@
   },
   {
     "contentKey": "a2d2a4113ab9aa3c",
-    "stock": 663,
+    "stock": 33,
     "stockLevel": "in-stock",
     "price": 8.75,
     "color": {
@@ -521,7 +521,7 @@
   },
   {
     "contentKey": "aa11242ec8dab6f9",
-    "stock": 46,
+    "stock": 16,
     "stockLevel": "in-stock",
     "price": 8.75,
     "color": {
@@ -552,8 +552,8 @@
   },
   {
     "contentKey": "ae3e3da889afe070",
-    "stock": 10,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 8.75,
     "color": {
       "name": "Bottle Green",
@@ -598,7 +598,7 @@
   },
   {
     "contentKey": "bad412f58ec1e525",
-    "stock": 81,
+    "stock": 31,
     "stockLevel": "in-stock",
     "price": 8.75,
     "color": {
@@ -614,7 +614,7 @@
   },
   {
     "contentKey": "ca239d851eba8454",
-    "stock": 88,
+    "stock": 38,
     "stockLevel": "in-stock",
     "price": 8.75,
     "color": {
@@ -629,7 +629,7 @@
   },
   {
     "contentKey": "ca239d851eba8454",
-    "stock": 52,
+    "stock": 32,
     "stockLevel": "in-stock",
     "price": 8.75,
     "color": {
@@ -659,7 +659,7 @@
   },
   {
     "contentKey": "ccbc8de45e59a759",
-    "stock": 203,
+    "stock": 43,
     "stockLevel": "in-stock",
     "price": 8.75,
     "color": {
@@ -691,8 +691,8 @@
   },
   {
     "contentKey": "d5b07dc91ea336e7",
-    "stock": 20,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 8.75,
     "color": {
       "name": "Black",
@@ -707,7 +707,7 @@
   },
   {
     "contentKey": "d6408f9499d4def0",
-    "stock": 97,
+    "stock": 77,
     "stockLevel": "in-stock",
     "price": 8.75,
     "color": {
@@ -723,7 +723,7 @@
   },
   {
     "contentKey": "dbcbe14cd671b077",
-    "stock": 661,
+    "stock": 21,
     "stockLevel": "in-stock",
     "price": 8.75,
     "color": {
@@ -755,7 +755,7 @@
   },
   {
     "contentKey": "e3ccb09f75e88556",
-    "stock": 436,
+    "stock": 16,
     "stockLevel": "in-stock",
     "price": 8.75,
     "color": {
@@ -771,7 +771,7 @@
   },
   {
     "contentKey": "e59024e625fbbb55",
-    "stock": 854,
+    "stock": 34,
     "stockLevel": "in-stock",
     "price": 8.75,
     "color": {
@@ -787,7 +787,7 @@
   },
   {
     "contentKey": "ec508d79605b2978",
-    "stock": 839,
+    "stock": 69,
     "stockLevel": "in-stock",
     "price": 8.75,
     "color": {

@@ -1,7 +1,7 @@
 [
   {
     "contentKey": "19af8f556fac1113",
-    "stock": 15711,
+    "stock": 14711,
     "stockLevel": "in-stock",
     "price": 0.34,
     "color": {
@@ -18,7 +18,7 @@
   },
   {
     "contentKey": "7c2f115bcc8d9e69",
-    "stock": 55136,
+    "stock": 55511,
     "stockLevel": "in-stock",
     "price": 0.34,
     "color": {
@@ -43,16 +43,16 @@
       "hex": "#646464"
     },
     "imageRefs": [
-      25,
       26,
       27,
       28,
-      29
+      29,
+      30
     ]
   },
   {
     "contentKey": "d86c73d3ccc5fc8d",
-    "stock": 8889,
+    "stock": 6389,
     "stockLevel": "in-stock",
     "price": 0.34,
     "color": {
@@ -98,7 +98,8 @@
       21,
       22,
       23,
-      24
+      24,
+      25
     ]
   }
 ]
