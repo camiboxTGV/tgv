@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-05-13T12:45:08.893Z",
+  "ranAt": "2026-05-14T12:31:29.457Z",
   "success": true,
-  "totalProducts": 2061,
+  "totalProducts": 2060,
   "totalUnclassified": 1,
   "suppliers": {
     "fixtures": {
@@ -30,15 +30,15 @@
       "id": "macma",
       "displayName": "Macma",
       "ok": true,
-      "fetched": 2056,
-      "normalized": 2056,
+      "fetched": 2055,
+      "normalized": 2055,
       "unclassified": 0,
       "droppedMissingPrice": 0,
       "variantFilesWritten": 0,
       "newUnmappedCategories": [],
       "unknownPersonalizationCodes": [],
       "images": {
-        "downloaded": 25833,
+        "downloaded": 25825,
         "skipped": 0,
         "failed": 0
       }
@@ -103,7 +103,7 @@
     "outdoor-and-leisure/outdoor-gear/barbecue-and-picnic-items": 31,
     "outdoor-and-leisure/sports-and-fitness/cycling-accessories": 7,
     "outdoor-and-leisure/sports-and-fitness/fitness-and-yoga-accessories": 7,
-    "outdoor-and-leisure/travel-and-beach/beach-items": 34,
+    "outdoor-and-leisure/travel-and-beach/beach-items": 33,
     "outdoor-and-leisure/travel-and-beach/sunglasses": 8,
     "tools-and-keyrings/car-accessories/car-air-fresheners": 9,
     "tools-and-keyrings/keyrings/basic-keyrings": 43,
