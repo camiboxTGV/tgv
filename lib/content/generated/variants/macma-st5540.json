@@ -1,7 +1,7 @@
 [
   {
     "contentKey": "01a5e83cb9f6eadd",
-    "stock": 280,
+    "stock": 260,
     "stockLevel": "in-stock",
     "price": 41.18,
     "color": {
@@ -55,7 +55,7 @@
   },
   {
     "contentKey": "34a31c334606c425",
-    "stock": 260,
+    "stock": 240,
     "stockLevel": "in-stock",
     "price": 41.18,
     "color": {
@@ -96,7 +96,7 @@
   },
   {
     "contentKey": "509baa7e00cdd4b7",
-    "stock": 100,
+    "stock": 90,
     "stockLevel": "in-stock",
     "price": 41.18,
     "color": {
@@ -109,8 +109,8 @@
   },
   {
     "contentKey": "747e2ed2b80a047d",
-    "stock": 20,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 41.18,
     "color": {
       "name": "Black Opal",
