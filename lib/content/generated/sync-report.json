@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-05-19T15:14:40.901Z",
+  "ranAt": "2026-05-20T08:03:56.199Z",
   "success": true,
-  "totalProducts": 2060,
+  "totalProducts": 2061,
   "totalUnclassified": 1,
   "suppliers": {
     "fixtures": {
@@ -30,17 +30,17 @@
       "id": "macma",
       "displayName": "Macma",
       "ok": true,
-      "fetched": 2055,
-      "normalized": 2055,
+      "fetched": 2056,
+      "normalized": 2056,
       "unclassified": 0,
       "droppedMissingPrice": 0,
       "variantFilesWritten": 0,
       "newUnmappedCategories": [],
       "unknownPersonalizationCodes": [],
       "images": {
-        "downloaded": 25824,
+        "downloaded": 25831,
         "skipped": 0,
-        "failed": 1
+        "failed": 0
       }
     }
   },
@@ -108,7 +108,7 @@
     "tools-and-keyrings/car-accessories/car-air-fresheners": 9,
     "tools-and-keyrings/keyrings/basic-keyrings": 43,
     "tools-and-keyrings/tools/flashlights-and-torches": 16,
-    "tools-and-keyrings/tools/lighters": 14,
+    "tools-and-keyrings/tools/lighters": 15,
     "tools-and-keyrings/tools/measuring-tapes": 8,
     "tools-and-keyrings/tools/multi-tools": 23,
     "tools-and-keyrings/tools/pocket-knives": 14,
