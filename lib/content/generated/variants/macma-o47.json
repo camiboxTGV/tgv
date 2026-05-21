@@ -373,7 +373,7 @@
   },
   {
     "contentKey": "48c2517d5ccb89bd",
-    "stock": 22,
+    "stock": 21,
     "stockLevel": "in-stock",
     "price": 10.01,
     "color": {
@@ -405,7 +405,7 @@
   },
   {
     "contentKey": "4e235653a600f16d",
-    "stock": 4,
+    "stock": 3,
     "stockLevel": "low",
     "price": 10.01,
     "color": {
@@ -556,8 +556,8 @@
   },
   {
     "contentKey": "5d2d8c473940c5d1",
-    "stock": 1,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 10.01,
     "color": {
       "name": "Gold",
@@ -930,7 +930,7 @@
   },
   {
     "contentKey": "a35c0a8829e5fdfc",
-    "stock": 41,
+    "stock": 39,
     "stockLevel": "in-stock",
     "price": 10.01,
     "color": {
@@ -1133,7 +1133,7 @@
   },
   {
     "contentKey": "d426052f934cce29",
-    "stock": 16,
+    "stock": 15,
     "stockLevel": "in-stock",
     "price": 10.01,
     "color": {
