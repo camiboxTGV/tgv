@@ -471,8 +471,8 @@
   },
   {
     "contentKey": "7d1c3525d9920949",
-    "stock": 5,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 12.55,
     "color": {
       "name": "Red",
@@ -596,7 +596,7 @@
   },
   {
     "contentKey": "9fbdf0514f803c4f",
-    "stock": 90,
+    "stock": 85,
     "stockLevel": "in-stock",
     "price": 12.55,
     "color": {
@@ -737,7 +737,7 @@
   },
   {
     "contentKey": "b0171de4ba45a0a6",
-    "stock": 35,
+    "stock": 30,
     "stockLevel": "in-stock",
     "price": 12.55,
     "color": {
@@ -878,7 +878,7 @@
   },
   {
     "contentKey": "cf6f3ca91128a9ed",
-    "stock": 375,
+    "stock": 360,
     "stockLevel": "in-stock",
     "price": 12.55,
     "color": {
