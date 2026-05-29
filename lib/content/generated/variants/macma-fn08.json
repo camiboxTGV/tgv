@@ -43,7 +43,7 @@
   },
   {
     "contentKey": "2b17ed0a3e12c155",
-    "stock": 42,
+    "stock": 40,
     "stockLevel": "in-stock",
     "price": 13.77,
     "color": {
@@ -99,8 +99,8 @@
   },
   {
     "contentKey": "abf2b46b985d5d68",
-    "stock": 2,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 13.77,
     "color": {
       "name": "Deep Navy",
@@ -141,7 +141,7 @@
   },
   {
     "contentKey": "f602d7d269091e1d",
-    "stock": 40,
+    "stock": 38,
     "stockLevel": "in-stock",
     "price": 13.77,
     "color": {

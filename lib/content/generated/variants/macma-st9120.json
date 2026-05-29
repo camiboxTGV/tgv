@@ -1,7 +1,7 @@
 [
   {
     "contentKey": "028dd3a35d0b4668",
-    "stock": 696,
+    "stock": 600,
     "stockLevel": "in-stock",
     "price": 4.38,
     "color": {
@@ -15,7 +15,7 @@
   },
   {
     "contentKey": "15436645d9ee0355",
-    "stock": 792,
+    "stock": 768,
     "stockLevel": "in-stock",
     "price": 4.38,
     "color": {
@@ -29,8 +29,8 @@
   },
   {
     "contentKey": "1fe37eb2552f7d55",
-    "stock": 24,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 5.15,
     "color": {
       "name": "Marina Blue",
@@ -99,8 +99,8 @@
   },
   {
     "contentKey": "789e7927b7903090",
-    "stock": 48,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 5.15,
     "color": {
       "name": "Marina Blue",
@@ -183,8 +183,8 @@
   },
   {
     "contentKey": "e1402d449efb6418",
-    "stock": 168,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 5.15,
     "color": {
       "name": "Black Opal",
