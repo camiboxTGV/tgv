@@ -125,7 +125,7 @@
   },
   {
     "contentKey": "22e7717f24a6dd86",
-    "stock": 255,
+    "stock": 240,
     "stockLevel": "in-stock",
     "price": 12.55,
     "color": {
@@ -237,8 +237,8 @@
   },
   {
     "contentKey": "4d5b155df612348e",
-    "stock": 30,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 12.55,
     "color": {
       "name": "Navy",
@@ -641,7 +641,7 @@
   },
   {
     "contentKey": "9fddb8cf6d8bd70d",
-    "stock": 45,
+    "stock": 30,
     "stockLevel": "in-stock",
     "price": 12.55,
     "color": {
@@ -1019,7 +1019,7 @@
   },
   {
     "contentKey": "f4e6818323786dcf",
-    "stock": 90,
+    "stock": 75,
     "stockLevel": "in-stock",
     "price": 12.55,
     "color": {
