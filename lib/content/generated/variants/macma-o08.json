@@ -98,7 +98,7 @@
   },
   {
     "contentKey": "1db146fdede14710",
-    "stock": 1400,
+    "stock": 1350,
     "stockLevel": "in-stock",
     "price": 8.42,
     "color": {
@@ -428,7 +428,7 @@
   },
   {
     "contentKey": "813c71e5c24385a2",
-    "stock": 4100,
+    "stock": 4000,
     "stockLevel": "in-stock",
     "price": 8.42,
     "color": {
@@ -462,7 +462,7 @@
   },
   {
     "contentKey": "9687a7f8f7a1a3d0",
-    "stock": 3100,
+    "stock": 3050,
     "stockLevel": "in-stock",
     "price": 8.42,
     "color": {
@@ -496,8 +496,8 @@
   },
   {
     "contentKey": "a5526b511de487c9",
-    "stock": 50,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 8.42,
     "color": {
       "name": "Orange",
