@@ -907,8 +907,8 @@
   },
   {
     "contentKey": "4148283eea4843bf",
-    "stock": 100,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 2.68,
     "color": {
       "name": "Ash",
@@ -1329,7 +1329,7 @@
   },
   {
     "contentKey": "5a167332b7fa359c",
-    "stock": 1700,
+    "stock": 1600,
     "stockLevel": "in-stock",
     "price": 3.42,
     "color": {
@@ -1469,7 +1469,7 @@
   },
   {
     "contentKey": "5e161dae70ab45c2",
-    "stock": 148,
+    "stock": 248,
     "stockLevel": "in-stock",
     "price": 2.47,
     "color": {
@@ -1896,7 +1896,7 @@
   },
   {
     "contentKey": "764e0da4dce0ec39",
-    "stock": 900,
+    "stock": 800,
     "stockLevel": "in-stock",
     "price": 2.68,
     "color": {
@@ -2783,7 +2783,7 @@
   },
   {
     "contentKey": "b5670a41626318f7",
-    "stock": 800,
+    "stock": 700,
     "stockLevel": "in-stock",
     "price": 2.68,
     "color": {
