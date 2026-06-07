@@ -1,7 +1,7 @@
 [
   {
     "contentKey": "121713e84195283f",
-    "stock": 20,
+    "stock": 10,
     "stockLevel": "in-stock",
     "price": 18.99,
     "color": {
@@ -17,7 +17,7 @@
   },
   {
     "contentKey": "155a0a732e9d6b2e",
-    "stock": 21,
+    "stock": 20,
     "stockLevel": "in-stock",
     "price": 18.99,
     "color": {
@@ -186,7 +186,7 @@
   },
   {
     "contentKey": "a556430bf0d49b29",
-    "stock": 58,
+    "stock": 57,
     "stockLevel": "in-stock",
     "price": 18.99,
     "color": {
@@ -202,7 +202,7 @@
   },
   {
     "contentKey": "a68f119d9955011c",
-    "stock": 16,
+    "stock": 15,
     "stockLevel": "in-stock",
     "price": 18.99,
     "color": {
@@ -234,7 +234,7 @@
   },
   {
     "contentKey": "c3ac4b61c535ae36",
-    "stock": 29,
+    "stock": 17,
     "stockLevel": "in-stock",
     "price": 18.99,
     "color": {
@@ -250,8 +250,8 @@
   },
   {
     "contentKey": "c45f62d2aeaef646",
-    "stock": 3,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 18.99,
     "color": {
       "name": "Black",
@@ -282,7 +282,7 @@
   },
   {
     "contentKey": "e97960c74e73a781",
-    "stock": 48,
+    "stock": 40,
     "stockLevel": "in-stock",
     "price": 18.99,
     "color": {

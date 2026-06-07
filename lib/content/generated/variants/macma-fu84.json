@@ -1,8 +1,8 @@
 [
   {
     "contentKey": "0326c4f400a17783",
-    "stock": 3,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 17.59,
     "color": {
       "name": "Deep Navy",
@@ -29,7 +29,7 @@
   },
   {
     "contentKey": "07e65b77c6ed07a7",
-    "stock": 71,
+    "stock": 69,
     "stockLevel": "in-stock",
     "price": 17.59,
     "color": {
@@ -98,8 +98,8 @@
   },
   {
     "contentKey": "1ed92d1523a465f5",
-    "stock": 1,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 17.59,
     "color": {
       "name": "Black",
@@ -346,7 +346,7 @@
   },
   {
     "contentKey": "a5f8188a5324fe5b",
-    "stock": 30,
+    "stock": 29,
     "stockLevel": "in-stock",
     "price": 17.59,
     "color": {
@@ -387,7 +387,7 @@
   },
   {
     "contentKey": "b93f3f9571930192",
-    "stock": 6,
+    "stock": 5,
     "stockLevel": "low",
     "price": 17.59,
     "color": {
@@ -442,7 +442,7 @@
   },
   {
     "contentKey": "f2de08b81c50412f",
-    "stock": 3,
+    "stock": 1,
     "stockLevel": "low",
     "price": 17.59,
     "color": {
