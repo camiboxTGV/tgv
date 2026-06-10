@@ -1,8 +1,8 @@
 [
   {
     "contentKey": "03304440621d14ce",
-    "stock": 50,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 7.88,
     "color": {
       "name": "White",
@@ -17,8 +17,8 @@
   },
   {
     "contentKey": "03304440621d14ce",
-    "stock": 50,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 9.46,
     "color": {
       "name": "White",
@@ -81,7 +81,7 @@
   },
   {
     "contentKey": "12d063fe63149af9",
-    "stock": 850,
+    "stock": 200,
     "stockLevel": "in-stock",
     "price": 7.88,
     "color": {
@@ -98,7 +98,7 @@
   },
   {
     "contentKey": "1db146fdede14710",
-    "stock": 1350,
+    "stock": 1250,
     "stockLevel": "in-stock",
     "price": 8.42,
     "color": {
@@ -278,7 +278,7 @@
   },
   {
     "contentKey": "4ca740d2b7c28c3e",
-    "stock": 950,
+    "stock": 450,
     "stockLevel": "in-stock",
     "price": 7.88,
     "color": {
@@ -329,7 +329,7 @@
   },
   {
     "contentKey": "54cfefb057924a8f",
-    "stock": 2000,
+    "stock": 1950,
     "stockLevel": "in-stock",
     "price": 8.42,
     "color": {
@@ -428,7 +428,7 @@
   },
   {
     "contentKey": "813c71e5c24385a2",
-    "stock": 4000,
+    "stock": 3900,
     "stockLevel": "in-stock",
     "price": 8.42,
     "color": {
@@ -445,7 +445,7 @@
   },
   {
     "contentKey": "8a425847d1bd973f",
-    "stock": 600,
+    "stock": 550,
     "stockLevel": "in-stock",
     "price": 7.88,
     "color": {
@@ -462,7 +462,7 @@
   },
   {
     "contentKey": "9687a7f8f7a1a3d0",
-    "stock": 3050,
+    "stock": 2900,
     "stockLevel": "in-stock",
     "price": 8.42,
     "color": {
@@ -688,7 +688,7 @@
   },
   {
     "contentKey": "d3d7e0f883ef5f96",
-    "stock": 700,
+    "stock": 600,
     "stockLevel": "in-stock",
     "price": 8.42,
     "color": {
@@ -704,7 +704,7 @@
   },
   {
     "contentKey": "da220e535562aea1",
-    "stock": 650,
+    "stock": 600,
     "stockLevel": "in-stock",
     "price": 8.42,
     "color": {
@@ -738,7 +738,7 @@
   },
   {
     "contentKey": "eb8aad6766d84751",
-    "stock": 300,
+    "stock": 250,
     "stockLevel": "in-stock",
     "price": 8.42,
     "color": {
