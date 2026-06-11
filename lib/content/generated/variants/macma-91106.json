@@ -14,6 +14,21 @@
     ]
   },
   {
+    "contentKey": "33950d942766750a",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.35,
+    "color": {
+      "name": "Blue",
+      "hex": "#104e8b"
+    },
+    "imageRefs": [
+      8,
+      9,
+      10
+    ]
+  },
+  {
     "contentKey": "72937c44d12bb45c",
     "stock": 10,
     "stockLevel": "in-stock",
@@ -37,7 +52,7 @@
       "hex": "#909090"
     },
     "imageRefs": [
-      8
+      11
     ]
   },
   {
