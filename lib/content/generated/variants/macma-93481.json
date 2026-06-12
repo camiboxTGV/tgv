@@ -1,8 +1,8 @@
 [
   {
     "contentKey": "04dd8835ca419944",
-    "stock": 4,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 0.27,
     "color": {
       "name": "Violet",
@@ -29,7 +29,7 @@
   },
   {
     "contentKey": "506872662499047e",
-    "stock": 1005,
+    "stock": 1004,
     "stockLevel": "in-stock",
     "price": 0.27,
     "color": {
