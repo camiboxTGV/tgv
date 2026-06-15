@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-06-14T08:39:51.358Z",
+  "ranAt": "2026-06-15T10:49:03.380Z",
   "success": true,
-  "totalProducts": 2061,
+  "totalProducts": 2060,
   "totalUnclassified": 1,
   "suppliers": {
     "fixtures": {
@@ -30,17 +30,17 @@
       "id": "macma",
       "displayName": "Macma",
       "ok": true,
-      "fetched": 2056,
-      "normalized": 2056,
+      "fetched": 2055,
+      "normalized": 2055,
       "unclassified": 0,
       "droppedMissingPrice": 0,
       "variantFilesWritten": 0,
       "newUnmappedCategories": [],
       "unknownPersonalizationCodes": [],
       "images": {
-        "downloaded": 25836,
+        "downloaded": 25827,
         "skipped": 0,
-        "failed": 0
+        "failed": 2
       }
     }
   },
@@ -95,7 +95,7 @@
     "office-and-writing/office-accessories/desk-accessories": 15,
     "office-and-writing/office-accessories/paper-cutters": 8,
     "office-and-writing/office-accessories/trophies-and-paperweights": 3,
-    "office-and-writing/writing-instruments/ball-pens": 190,
+    "office-and-writing/writing-instruments/ball-pens": 189,
     "office-and-writing/writing-instruments/gift-sets": 18,
     "office-and-writing/writing-instruments/highlighters": 8,
     "office-and-writing/writing-instruments/pencils": 17,
