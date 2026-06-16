@@ -9,7 +9,9 @@
       "hex": "#004080"
     },
     "imageRefs": [
-      4
+      18,
+      19,
+      20
     ]
   },
   {
@@ -23,7 +25,7 @@
     },
     "size": "XL",
     "imageRefs": [
-      14
+      47
     ]
   },
   {
@@ -37,12 +39,12 @@
     },
     "size": "XL",
     "imageRefs": [
-      15
+      48
     ]
   },
   {
     "contentKey": "0de64329ef9e4720",
-    "stock": 314,
+    "stock": 313,
     "stockLevel": "in-stock",
     "price": 6.03,
     "color": {
@@ -50,7 +52,9 @@
       "hex": "#12315a"
     },
     "imageRefs": [
-      2
+      10,
+      11,
+      12
     ]
   },
   {
@@ -64,7 +68,9 @@
     },
     "size": "XL",
     "imageRefs": [
-      4
+      18,
+      19,
+      20
     ]
   },
   {
@@ -78,7 +84,11 @@
     },
     "size": "S",
     "imageRefs": [
-      3
+      13,
+      14,
+      15,
+      16,
+      17
     ]
   },
   {
@@ -92,12 +102,14 @@
     },
     "size": "XS",
     "imageRefs": [
-      6
+      25,
+      26,
+      27
     ]
   },
   {
     "contentKey": "175e4e11398c60a4",
-    "stock": 101,
+    "stock": 100,
     "stockLevel": "in-stock",
     "price": 6.03,
     "color": {
@@ -106,7 +118,9 @@
     },
     "size": "XL",
     "imageRefs": [
-      2
+      10,
+      11,
+      12
     ]
   },
   {
@@ -120,7 +134,9 @@
     },
     "size": "XL",
     "imageRefs": [
-      0
+      0,
+      1,
+      2
     ]
   },
   {
@@ -133,12 +149,14 @@
       "hex": "#6eff00"
     },
     "imageRefs": [
-      16
+      49,
+      50,
+      51
     ]
   },
   {
     "contentKey": "1c0afafdb3e15c31",
-    "stock": 3407,
+    "stock": 3406,
     "stockLevel": "in-stock",
     "price": 6.03,
     "color": {
@@ -147,12 +165,18 @@
     },
     "size": "M",
     "imageRefs": [
-      1
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
     ]
   },
   {
     "contentKey": "1d4e4d6bfae775e3",
-    "stock": 1479,
+    "stock": 1471,
     "stockLevel": "in-stock",
     "price": 6.03,
     "color": {
@@ -161,7 +185,9 @@
     },
     "size": "S",
     "imageRefs": [
-      0
+      0,
+      1,
+      2
     ]
   },
   {
@@ -175,7 +201,7 @@
     },
     "size": "XS",
     "imageRefs": [
-      15
+      48
     ]
   },
   {
@@ -189,7 +215,9 @@
     },
     "size": "L",
     "imageRefs": [
-      8
+      35,
+      36,
+      37
     ]
   },
   {
@@ -203,7 +231,9 @@
     },
     "size": "L",
     "imageRefs": [
-      13
+      44,
+      45,
+      46
     ]
   },
   {
@@ -217,20 +247,7 @@
     },
     "size": "XS",
     "imageRefs": [
-      11
-    ]
-  },
-  {
-    "contentKey": "2b2afbe9250bf4f8",
-    "stock": 1147,
-    "stockLevel": "in-stock",
-    "price": 6.03,
-    "color": {
-      "name": "Sunflower",
-      "hex": "#f8c93c"
-    },
-    "imageRefs": [
-      10
+      41
     ]
   },
   {
@@ -244,7 +261,9 @@
     },
     "size": "XS",
     "imageRefs": [
-      8
+      35,
+      36,
+      37
     ]
   },
   {
@@ -258,12 +277,14 @@
     },
     "size": "M",
     "imageRefs": [
-      8
+      35,
+      36,
+      37
     ]
   },
   {
     "contentKey": "2cee8d1a4c98d68c",
-    "stock": 1687,
+    "stock": 1686,
     "stockLevel": "in-stock",
     "price": 6.03,
     "color": {
@@ -272,7 +293,9 @@
     },
     "size": "L",
     "imageRefs": [
-      2
+      10,
+      11,
+      12
     ]
   },
   {
@@ -286,7 +309,10 @@
     },
     "size": "XL",
     "imageRefs": [
-      5
+      21,
+      22,
+      23,
+      24
     ]
   },
   {
@@ -299,7 +325,9 @@
       "hex": "#d66118"
     },
     "imageRefs": [
-      6
+      25,
+      26,
+      27
     ]
   },
   {
@@ -312,7 +340,9 @@
       "hex": "#eac0d4"
     },
     "imageRefs": [
-      13
+      44,
+      45,
+      46
     ]
   },
   {
@@ -326,7 +356,13 @@
     },
     "size": "XS",
     "imageRefs": [
-      1
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
     ]
   },
   {
@@ -340,7 +376,9 @@
     },
     "size": "S",
     "imageRefs": [
-      16
+      49,
+      50,
+      51
     ]
   },
   {
@@ -354,7 +392,8 @@
     },
     "size": "L",
     "imageRefs": [
-      12
+      42,
+      43
     ]
   },
   {
@@ -367,21 +406,9 @@
       "hex": "#ffffff"
     },
     "imageRefs": [
-      0
-    ]
-  },
-  {
-    "contentKey": "4ae7b0044167fbd9",
-    "stock": 225,
-    "stockLevel": "in-stock",
-    "price": 6.03,
-    "color": {
-      "name": "Sunflower",
-      "hex": "#f8c93c"
-    },
-    "size": "XS",
-    "imageRefs": [
-      10
+      0,
+      1,
+      2
     ]
   },
   {
@@ -395,7 +422,9 @@
     },
     "size": "L",
     "imageRefs": [
-      6
+      25,
+      26,
+      27
     ]
   },
   {
@@ -409,12 +438,18 @@
     },
     "size": "XS",
     "imageRefs": [
-      7
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
     ]
   },
   {
     "contentKey": "55eed943c50425c0",
-    "stock": 1631,
+    "stock": 1595,
     "stockLevel": "in-stock",
     "price": 6.03,
     "color": {
@@ -423,7 +458,7 @@
     },
     "size": "S",
     "imageRefs": [
-      15
+      48
     ]
   },
   {
@@ -437,7 +472,9 @@
     },
     "size": "XS",
     "imageRefs": [
-      4
+      18,
+      19,
+      20
     ]
   },
   {
@@ -451,7 +488,13 @@
     },
     "size": "XL",
     "imageRefs": [
-      7
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
     ]
   },
   {
@@ -465,7 +508,7 @@
     },
     "size": "M",
     "imageRefs": [
-      11
+      41
     ]
   },
   {
@@ -479,12 +522,14 @@
     },
     "size": "XS",
     "imageRefs": [
-      13
+      44,
+      45,
+      46
     ]
   },
   {
     "contentKey": "6cddce26a2f91ede",
-    "stock": 234,
+    "stock": 231,
     "stockLevel": "in-stock",
     "price": 6.03,
     "color": {
@@ -493,7 +538,9 @@
     },
     "size": "XS",
     "imageRefs": [
-      0
+      0,
+      1,
+      2
     ]
   },
   {
@@ -507,7 +554,8 @@
     },
     "size": "XS",
     "imageRefs": [
-      12
+      42,
+      43
     ]
   },
   {
@@ -521,7 +569,13 @@
     },
     "size": "L",
     "imageRefs": [
-      7
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
     ]
   },
   {
@@ -535,7 +589,7 @@
     },
     "size": "XS",
     "imageRefs": [
-      14
+      47
     ]
   },
   {
@@ -549,7 +603,11 @@
     },
     "size": "L",
     "imageRefs": [
-      3
+      13,
+      14,
+      15,
+      16,
+      17
     ]
   },
   {
@@ -563,7 +621,8 @@
     },
     "size": "S",
     "imageRefs": [
-      12
+      42,
+      43
     ]
   },
   {
@@ -577,7 +636,7 @@
     },
     "size": "M",
     "imageRefs": [
-      15
+      48
     ]
   },
   {
@@ -590,7 +649,7 @@
       "hex": "#5081bb"
     },
     "imageRefs": [
-      11
+      41
     ]
   },
   {
@@ -603,7 +662,10 @@
       "hex": "#5a2d44"
     },
     "imageRefs": [
-      5
+      21,
+      22,
+      23,
+      24
     ]
   },
   {
@@ -616,7 +678,7 @@
       "hex": "#04132d"
     },
     "imageRefs": [
-      15
+      48
     ]
   },
   {
@@ -630,7 +692,9 @@
     },
     "size": "XL",
     "imageRefs": [
-      8
+      35,
+      36,
+      37
     ]
   },
   {
@@ -644,26 +708,14 @@
     },
     "size": "XL",
     "imageRefs": [
-      6
-    ]
-  },
-  {
-    "contentKey": "8fbaae6762dafce6",
-    "stock": 1103,
-    "stockLevel": "in-stock",
-    "price": 6.03,
-    "color": {
-      "name": "Sunflower",
-      "hex": "#f8c93c"
-    },
-    "size": "S",
-    "imageRefs": [
-      10
+      25,
+      26,
+      27
     ]
   },
   {
     "contentKey": "92ff4e81f975a5d4",
-    "stock": 1038,
+    "stock": 1036,
     "stockLevel": "in-stock",
     "price": 6.03,
     "color": {
@@ -672,12 +724,14 @@
     },
     "size": "M",
     "imageRefs": [
-      4
+      18,
+      19,
+      20
     ]
   },
   {
     "contentKey": "96ca3c763cea59a2",
-    "stock": 436,
+    "stock": 428,
     "stockLevel": "in-stock",
     "price": 6.03,
     "color": {
@@ -686,7 +740,9 @@
     },
     "size": "L",
     "imageRefs": [
-      9
+      38,
+      39,
+      40
     ]
   },
   {
@@ -700,12 +756,14 @@
     },
     "size": "M",
     "imageRefs": [
-      16
+      49,
+      50,
+      51
     ]
   },
   {
     "contentKey": "9b971eb6fe8c4a57",
-    "stock": 1442,
+    "stock": 1441,
     "stockLevel": "in-stock",
     "price": 6.03,
     "color": {
@@ -714,7 +772,9 @@
     },
     "size": "M",
     "imageRefs": [
-      2
+      10,
+      11,
+      12
     ]
   },
   {
@@ -728,12 +788,12 @@
     },
     "size": "XL",
     "imageRefs": [
-      11
+      41
     ]
   },
   {
     "contentKey": "a085910bf3be89bd",
-    "stock": 696,
+    "stock": 695,
     "stockLevel": "in-stock",
     "price": 6.03,
     "color": {
@@ -742,7 +802,9 @@
     },
     "size": "S",
     "imageRefs": [
-      9
+      38,
+      39,
+      40
     ]
   },
   {
@@ -756,7 +818,9 @@
     },
     "size": "XS",
     "imageRefs": [
-      9
+      38,
+      39,
+      40
     ]
   },
   {
@@ -770,7 +834,11 @@
     },
     "size": "M",
     "imageRefs": [
-      3
+      13,
+      14,
+      15,
+      16,
+      17
     ]
   },
   {
@@ -784,12 +852,12 @@
     },
     "size": "L",
     "imageRefs": [
-      15
+      48
     ]
   },
   {
     "contentKey": "b267238258e99d01",
-    "stock": 1080,
+    "stock": 1077,
     "stockLevel": "in-stock",
     "price": 6.03,
     "color": {
@@ -798,7 +866,10 @@
     },
     "size": "S",
     "imageRefs": [
-      5
+      21,
+      22,
+      23,
+      24
     ]
   },
   {
@@ -812,7 +883,10 @@
     },
     "size": "L",
     "imageRefs": [
-      5
+      21,
+      22,
+      23,
+      24
     ]
   },
   {
@@ -826,7 +900,7 @@
     },
     "size": "S",
     "imageRefs": [
-      11
+      41
     ]
   },
   {
@@ -840,7 +914,9 @@
     },
     "size": "L",
     "imageRefs": [
-      4
+      18,
+      19,
+      20
     ]
   },
   {
@@ -854,21 +930,10 @@
     },
     "size": "XS",
     "imageRefs": [
-      5
-    ]
-  },
-  {
-    "contentKey": "c1ac604aacf1bc05",
-    "stock": 1096,
-    "stockLevel": "in-stock",
-    "price": 6.03,
-    "color": {
-      "name": "Sunflower",
-      "hex": "#f8c93c"
-    },
-    "size": "XL",
-    "imageRefs": [
-      10
+      21,
+      22,
+      23,
+      24
     ]
   },
   {
@@ -882,21 +947,13 @@
     },
     "size": "S",
     "imageRefs": [
-      7
-    ]
-  },
-  {
-    "contentKey": "c37d0bb8522d2cf0",
-    "stock": 657,
-    "stockLevel": "in-stock",
-    "price": 6.03,
-    "color": {
-      "name": "Sunflower",
-      "hex": "#f8c93c"
-    },
-    "size": "M",
-    "imageRefs": [
-      10
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
     ]
   },
   {
@@ -910,7 +967,11 @@
     },
     "size": "XL",
     "imageRefs": [
-      3
+      13,
+      14,
+      15,
+      16,
+      17
     ]
   },
   {
@@ -924,12 +985,14 @@
     },
     "size": "M",
     "imageRefs": [
-      0
+      0,
+      1,
+      2
     ]
   },
   {
     "contentKey": "cd6acec4073e809f",
-    "stock": 1886,
+    "stock": 1883,
     "stockLevel": "in-stock",
     "price": 6.03,
     "color": {
@@ -938,7 +1001,13 @@
     },
     "size": "L",
     "imageRefs": [
-      1
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
     ]
   },
   {
@@ -952,7 +1021,9 @@
     },
     "size": "M",
     "imageRefs": [
-      13
+      44,
+      45,
+      46
     ]
   },
   {
@@ -966,7 +1037,9 @@
     },
     "size": "S",
     "imageRefs": [
-      13
+      44,
+      45,
+      46
     ]
   },
   {
@@ -979,7 +1052,13 @@
       "hex": "#add0f0"
     },
     "imageRefs": [
-      7
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
     ]
   },
   {
@@ -993,12 +1072,14 @@
     },
     "size": "L",
     "imageRefs": [
-      16
+      49,
+      50,
+      51
     ]
   },
   {
     "contentKey": "d43e73169505cf15",
-    "stock": 1494,
+    "stock": 1492,
     "stockLevel": "in-stock",
     "price": 6.03,
     "color": {
@@ -1007,7 +1088,13 @@
     },
     "size": "XL",
     "imageRefs": [
-      1
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
     ]
   },
   {
@@ -1021,12 +1108,12 @@
     },
     "size": "L",
     "imageRefs": [
-      11
+      41
     ]
   },
   {
     "contentKey": "d5da9ae373db52b8",
-    "stock": 193,
+    "stock": 192,
     "stockLevel": "in-stock",
     "price": 6.03,
     "color": {
@@ -1035,12 +1122,14 @@
     },
     "size": "S",
     "imageRefs": [
-      2
+      10,
+      11,
+      12
     ]
   },
   {
     "contentKey": "d95a1c23e1a419e7",
-    "stock": 794,
+    "stock": 791,
     "stockLevel": "in-stock",
     "price": 6.03,
     "color": {
@@ -1049,7 +1138,10 @@
     },
     "size": "M",
     "imageRefs": [
-      5
+      21,
+      22,
+      23,
+      24
     ]
   },
   {
@@ -1063,7 +1155,9 @@
     },
     "size": "XL",
     "imageRefs": [
-      13
+      44,
+      45,
+      46
     ]
   },
   {
@@ -1077,7 +1171,9 @@
     },
     "size": "XS",
     "imageRefs": [
-      16
+      49,
+      50,
+      51
     ]
   },
   {
@@ -1091,7 +1187,9 @@
     },
     "size": "M",
     "imageRefs": [
-      6
+      25,
+      26,
+      27
     ]
   },
   {
@@ -1105,7 +1203,9 @@
     },
     "size": "S",
     "imageRefs": [
-      8
+      35,
+      36,
+      37
     ]
   },
   {
@@ -1118,12 +1218,12 @@
       "hex": "#41553c"
     },
     "imageRefs": [
-      14
+      47
     ]
   },
   {
     "contentKey": "df945daeb8f1d105",
-    "stock": 1062,
+    "stock": 1060,
     "stockLevel": "in-stock",
     "price": 6.03,
     "color": {
@@ -1132,7 +1232,9 @@
     },
     "size": "L",
     "imageRefs": [
-      0
+      0,
+      1,
+      2
     ]
   },
   {
@@ -1146,7 +1248,13 @@
     },
     "size": "S",
     "imageRefs": [
-      1
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
     ]
   },
   {
@@ -1160,7 +1268,8 @@
     },
     "size": "M",
     "imageRefs": [
-      12
+      42,
+      43
     ]
   },
   {
@@ -1174,12 +1283,18 @@
     },
     "size": "M",
     "imageRefs": [
-      7
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
     ]
   },
   {
     "contentKey": "e7fc158f3124db8d",
-    "stock": 1168,
+    "stock": 1167,
     "stockLevel": "in-stock",
     "price": 6.03,
     "color": {
@@ -1187,7 +1302,13 @@
       "hex": "#000000"
     },
     "imageRefs": [
-      1
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
     ]
   },
   {
@@ -1200,7 +1321,11 @@
       "hex": "#d01c28"
     },
     "imageRefs": [
-      3
+      13,
+      14,
+      15,
+      16,
+      17
     ]
   },
   {
@@ -1214,7 +1339,8 @@
     },
     "size": "XL",
     "imageRefs": [
-      12
+      42,
+      43
     ]
   },
   {
@@ -1228,7 +1354,9 @@
     },
     "size": "XL",
     "imageRefs": [
-      16
+      49,
+      50,
+      51
     ]
   },
   {
@@ -1241,7 +1369,8 @@
       "hex": "#4e4e4e"
     },
     "imageRefs": [
-      12
+      42,
+      43
     ]
   },
   {
@@ -1255,7 +1384,11 @@
     },
     "size": "XS",
     "imageRefs": [
-      3
+      13,
+      14,
+      15,
+      16,
+      17
     ]
   },
   {
@@ -1268,12 +1401,14 @@
       "hex": "#4aa065"
     },
     "imageRefs": [
-      8
+      35,
+      36,
+      37
     ]
   },
   {
     "contentKey": "f166d91e2ba6397a",
-    "stock": 23,
+    "stock": 22,
     "stockLevel": "in-stock",
     "price": 6.03,
     "color": {
@@ -1281,12 +1416,14 @@
       "hex": "#b0b0af"
     },
     "imageRefs": [
-      9
+      38,
+      39,
+      40
     ]
   },
   {
     "contentKey": "f5615c256a9274db",
-    "stock": 133,
+    "stock": 127,
     "stockLevel": "in-stock",
     "price": 6.03,
     "color": {
@@ -1295,7 +1432,9 @@
     },
     "size": "XL",
     "imageRefs": [
-      9
+      38,
+      39,
+      40
     ]
   },
   {
@@ -1309,26 +1448,14 @@
     },
     "size": "S",
     "imageRefs": [
-      6
-    ]
-  },
-  {
-    "contentKey": "f61902e9bc259d59",
-    "stock": 1040,
-    "stockLevel": "in-stock",
-    "price": 6.03,
-    "color": {
-      "name": "Sunflower",
-      "hex": "#f8c93c"
-    },
-    "size": "L",
-    "imageRefs": [
-      10
+      25,
+      26,
+      27
     ]
   },
   {
     "contentKey": "f75d7fd889ca1987",
-    "stock": 606,
+    "stock": 601,
     "stockLevel": "in-stock",
     "price": 6.03,
     "color": {
@@ -1337,12 +1464,14 @@
     },
     "size": "S",
     "imageRefs": [
-      4
+      18,
+      19,
+      20
     ]
   },
   {
     "contentKey": "fbb90e50957e5708",
-    "stock": 510,
+    "stock": 503,
     "stockLevel": "in-stock",
     "price": 6.03,
     "color": {
@@ -1351,7 +1480,9 @@
     },
     "size": "M",
     "imageRefs": [
-      9
+      38,
+      39,
+      40
     ]
   },
   {
@@ -1365,7 +1496,9 @@
     },
     "size": "XS",
     "imageRefs": [
-      2
+      10,
+      11,
+      12
     ]
   }
 ]
