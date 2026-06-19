@@ -641,8 +641,8 @@
   },
   {
     "contentKey": "9fddb8cf6d8bd70d",
-    "stock": 15,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 12.55,
     "color": {
       "name": "Royal Blue",
@@ -955,7 +955,7 @@
   },
   {
     "contentKey": "e6368e1425be87e7",
-    "stock": 97,
+    "stock": 82,
     "stockLevel": "in-stock",
     "price": 12.55,
     "color": {

@@ -1,8 +1,8 @@
 [
   {
     "contentKey": "00617d0117968da2",
-    "stock": 240,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 4.3,
     "color": {
       "name": "Black",
@@ -15,8 +15,8 @@
   },
   {
     "contentKey": "181cfb016b41996f",
-    "stock": 272,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 4.3,
     "color": {
       "name": "Black",
@@ -107,7 +107,7 @@
   },
   {
     "contentKey": "2da9bb336ebe41df",
-    "stock": 446,
+    "stock": 436,
     "stockLevel": "in-stock",
     "price": 3.52,
     "color": {
@@ -135,7 +135,7 @@
   },
   {
     "contentKey": "328b0cc0cc832e23",
-    "stock": 819,
+    "stock": 697,
     "stockLevel": "in-stock",
     "price": 4.3,
     "color": {
@@ -149,7 +149,7 @@
   },
   {
     "contentKey": "33531e450c25b0b7",
-    "stock": 657,
+    "stock": 647,
     "stockLevel": "in-stock",
     "price": 4.3,
     "color": {
@@ -245,7 +245,7 @@
   },
   {
     "contentKey": "5aa0bdb083b8b8dd",
-    "stock": 4149,
+    "stock": 4077,
     "stockLevel": "in-stock",
     "price": 3.52,
     "color": {
@@ -273,7 +273,7 @@
   },
   {
     "contentKey": "6a6acbe94d0a050e",
-    "stock": 267,
+    "stock": 257,
     "stockLevel": "in-stock",
     "price": 4.3,
     "color": {
@@ -327,7 +327,7 @@
   },
   {
     "contentKey": "7e696e1e76b2ff95",
-    "stock": 2680,
+    "stock": 2608,
     "stockLevel": "in-stock",
     "price": 3.52,
     "color": {
@@ -489,7 +489,7 @@
   },
   {
     "contentKey": "c9337a4d99aa75e0",
-    "stock": 768,
+    "stock": 696,
     "stockLevel": "in-stock",
     "price": 4.3,
     "color": {
@@ -503,7 +503,7 @@
   },
   {
     "contentKey": "d03fda2b51f0de06",
-    "stock": 2354,
+    "stock": 2294,
     "stockLevel": "in-stock",
     "price": 4.3,
     "color": {
@@ -555,7 +555,7 @@
   },
   {
     "contentKey": "d48029fcf4de46b1",
-    "stock": 1708,
+    "stock": 1636,
     "stockLevel": "in-stock",
     "price": 4.3,
     "color": {
@@ -583,8 +583,8 @@
   },
   {
     "contentKey": "de1e8d9079eb787b",
-    "stock": 385,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 4.3,
     "color": {
       "name": "Black",

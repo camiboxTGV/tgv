@@ -1,8 +1,8 @@
 [
   {
     "contentKey": "03304440621d14ce",
-    "stock": 50,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 7.88,
     "color": {
       "name": "White",
@@ -98,7 +98,7 @@
   },
   {
     "contentKey": "1db146fdede14710",
-    "stock": 1600,
+    "stock": 1550,
     "stockLevel": "in-stock",
     "price": 8.42,
     "color": {
@@ -428,7 +428,7 @@
   },
   {
     "contentKey": "813c71e5c24385a2",
-    "stock": 4700,
+    "stock": 4650,
     "stockLevel": "in-stock",
     "price": 8.42,
     "color": {
@@ -688,7 +688,7 @@
   },
   {
     "contentKey": "d3d7e0f883ef5f96",
-    "stock": 900,
+    "stock": 850,
     "stockLevel": "in-stock",
     "price": 8.42,
     "color": {
