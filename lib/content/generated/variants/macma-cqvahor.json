@@ -372,8 +372,8 @@
   },
   {
     "contentKey": "69320fba4b74ea1a",
-    "stock": 1,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 17.03,
     "color": {
       "name": "Sand Beige",
@@ -711,7 +711,7 @@
   },
   {
     "contentKey": "b15f4136dc7c6073",
-    "stock": 4,
+    "stock": 2,
     "stockLevel": "low",
     "price": 17.03,
     "color": {
@@ -821,7 +821,7 @@
   },
   {
     "contentKey": "c2cb56889f857e5d",
-    "stock": 447,
+    "stock": 446,
     "stockLevel": "in-stock",
     "price": 17.03,
     "color": {
@@ -945,7 +945,7 @@
   },
   {
     "contentKey": "d2df46220f4a0dfe",
-    "stock": 890,
+    "stock": 888,
     "stockLevel": "in-stock",
     "price": 17.03,
     "color": {
