@@ -1,7 +1,7 @@
 [
   {
     "contentKey": "0080b49a3038fed1",
-    "stock": 605,
+    "stock": 604,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -35,7 +35,7 @@
   },
   {
     "contentKey": "0080b49a3038fed1",
-    "stock": 53,
+    "stock": 47,
     "stockLevel": "in-stock",
     "price": 7.03,
     "color": {
@@ -52,8 +52,8 @@
   },
   {
     "contentKey": "0080b49a3038fed1",
-    "stock": 5,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 7.03,
     "color": {
       "name": "Carolina Blue",
@@ -171,7 +171,7 @@
   },
   {
     "contentKey": "03244c17793d73d9",
-    "stock": 333,
+    "stock": 327,
     "stockLevel": "in-stock",
     "price": 7.03,
     "color": {
@@ -188,7 +188,7 @@
   },
   {
     "contentKey": "03244c17793d73d9",
-    "stock": 120,
+    "stock": 114,
     "stockLevel": "in-stock",
     "price": 7.03,
     "color": {
@@ -205,7 +205,7 @@
   },
   {
     "contentKey": "04f161fd0934ec9d",
-    "stock": 4773,
+    "stock": 4779,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -223,7 +223,7 @@
   },
   {
     "contentKey": "05c25d55a86d96ba",
-    "stock": 164,
+    "stock": 152,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -241,7 +241,7 @@
   },
   {
     "contentKey": "06de78e1d0c97440",
-    "stock": 12,
+    "stock": 11,
     "stockLevel": "in-stock",
     "price": 3.59,
     "color": {
@@ -256,7 +256,7 @@
   },
   {
     "contentKey": "07af625b1e3aecd4",
-    "stock": 566,
+    "stock": 537,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -274,7 +274,7 @@
   },
   {
     "contentKey": "07ca6e48df0aef33",
-    "stock": 1122,
+    "stock": 2010,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -291,7 +291,7 @@
   },
   {
     "contentKey": "07ca6e48df0aef33",
-    "stock": 146,
+    "stock": 140,
     "stockLevel": "in-stock",
     "price": 13.21,
     "color": {
@@ -308,7 +308,7 @@
   },
   {
     "contentKey": "07ca6e48df0aef33",
-    "stock": 178,
+    "stock": 172,
     "stockLevel": "in-stock",
     "price": 7.03,
     "color": {
@@ -325,7 +325,7 @@
   },
   {
     "contentKey": "07ca6e48df0aef33",
-    "stock": 181,
+    "stock": 175,
     "stockLevel": "in-stock",
     "price": 7.03,
     "color": {
@@ -359,7 +359,7 @@
   },
   {
     "contentKey": "08b31165e9393470",
-    "stock": 422,
+    "stock": 416,
     "stockLevel": "in-stock",
     "price": 13.21,
     "color": {
@@ -376,7 +376,7 @@
   },
   {
     "contentKey": "08b31165e9393470",
-    "stock": 3127,
+    "stock": 3121,
     "stockLevel": "in-stock",
     "price": 13.21,
     "color": {
@@ -393,7 +393,7 @@
   },
   {
     "contentKey": "08b31165e9393470",
-    "stock": 2884,
+    "stock": 2878,
     "stockLevel": "in-stock",
     "price": 13.21,
     "color": {
@@ -410,7 +410,7 @@
   },
   {
     "contentKey": "09bc3111c500beb0",
-    "stock": 3903,
+    "stock": 3882,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -537,7 +537,7 @@
   },
   {
     "contentKey": "1752c9831063556a",
-    "stock": 1934,
+    "stock": 1925,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -653,7 +653,7 @@
   },
   {
     "contentKey": "1c50c23d397a4171",
-    "stock": 883,
+    "stock": 880,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -668,7 +668,7 @@
   },
   {
     "contentKey": "1ca5118c18dafc5a",
-    "stock": 2465,
+    "stock": 2460,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -686,7 +686,7 @@
   },
   {
     "contentKey": "1dec0eadd5f4229c",
-    "stock": 3308,
+    "stock": 3334,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -760,7 +760,7 @@
   },
   {
     "contentKey": "1fb61dcecd19e1d5",
-    "stock": 2173,
+    "stock": 2171,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -790,7 +790,7 @@
   },
   {
     "contentKey": "2250fd82896e9c55",
-    "stock": 665,
+    "stock": 671,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -807,7 +807,7 @@
   },
   {
     "contentKey": "2250fd82896e9c55",
-    "stock": 166,
+    "stock": 169,
     "stockLevel": "in-stock",
     "price": 13.21,
     "color": {
@@ -824,7 +824,7 @@
   },
   {
     "contentKey": "2250fd82896e9c55",
-    "stock": 61,
+    "stock": 55,
     "stockLevel": "in-stock",
     "price": 7.03,
     "color": {
@@ -841,7 +841,7 @@
   },
   {
     "contentKey": "2250fd82896e9c55",
-    "stock": 61,
+    "stock": 55,
     "stockLevel": "in-stock",
     "price": 7.03,
     "color": {
@@ -858,7 +858,7 @@
   },
   {
     "contentKey": "22824420beff0e89",
-    "stock": 2429,
+    "stock": 2411,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -876,7 +876,7 @@
   },
   {
     "contentKey": "257be52bfb535ac9",
-    "stock": 1246,
+    "stock": 1582,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -928,7 +928,7 @@
   },
   {
     "contentKey": "270cdb840e59f1cf",
-    "stock": 3413,
+    "stock": 3407,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -946,7 +946,7 @@
   },
   {
     "contentKey": "2a3b83d4083d18a5",
-    "stock": 2651,
+    "stock": 2657,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -982,7 +982,7 @@
   },
   {
     "contentKey": "2c5f5cfaad533718",
-    "stock": 1123,
+    "stock": 1099,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -1018,7 +1018,7 @@
   },
   {
     "contentKey": "321c53ba2da09164",
-    "stock": 41557,
+    "stock": 41524,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -1036,7 +1036,7 @@
   },
   {
     "contentKey": "34ab6562663bd6c6",
-    "stock": 61727,
+    "stock": 61685,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -1054,7 +1054,7 @@
   },
   {
     "contentKey": "351fc998c9a58b46",
-    "stock": 398,
+    "stock": 395,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -1072,7 +1072,7 @@
   },
   {
     "contentKey": "358a028e170fa8fd",
-    "stock": 8603,
+    "stock": 8609,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -1141,7 +1141,7 @@
   },
   {
     "contentKey": "3893f3a91362b359",
-    "stock": 806,
+    "stock": 781,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -1177,7 +1177,7 @@
   },
   {
     "contentKey": "3bbf185c700e8e99",
-    "stock": 91196,
+    "stock": 91397,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -1212,7 +1212,7 @@
   },
   {
     "contentKey": "3c245167a4063793",
-    "stock": 1054,
+    "stock": 1048,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -1229,7 +1229,7 @@
   },
   {
     "contentKey": "3d4b0c35d5ec4174",
-    "stock": 2966,
+    "stock": 2955,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -1247,7 +1247,7 @@
   },
   {
     "contentKey": "3e8fe59c456f0067",
-    "stock": 14662,
+    "stock": 14650,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -1265,7 +1265,7 @@
   },
   {
     "contentKey": "422adc4fb6710d70",
-    "stock": 31848,
+    "stock": 31844,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -1298,7 +1298,7 @@
   },
   {
     "contentKey": "448f4c93cd42c23f",
-    "stock": 1603,
+    "stock": 1591,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -1334,7 +1334,7 @@
   },
   {
     "contentKey": "47874a81c230bc98",
-    "stock": 392,
+    "stock": 393,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -1370,7 +1370,7 @@
   },
   {
     "contentKey": "50f43d6382b075ff",
-    "stock": 575,
+    "stock": 574,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -1471,7 +1471,7 @@
   },
   {
     "contentKey": "5524dfe5d6cd842a",
-    "stock": 1621,
+    "stock": 1617,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -1504,7 +1504,7 @@
   },
   {
     "contentKey": "57260de95e5668a8",
-    "stock": 192,
+    "stock": 1128,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -1538,7 +1538,7 @@
   },
   {
     "contentKey": "57260de95e5668a8",
-    "stock": 1614,
+    "stock": 1626,
     "stockLevel": "in-stock",
     "price": 13.21,
     "color": {
@@ -1555,7 +1555,7 @@
   },
   {
     "contentKey": "57260de95e5668a8",
-    "stock": 1214,
+    "stock": 1208,
     "stockLevel": "in-stock",
     "price": 13.21,
     "color": {
@@ -1606,7 +1606,7 @@
   },
   {
     "contentKey": "575c9d62fc8a2f79",
-    "stock": 1488,
+    "stock": 1482,
     "stockLevel": "in-stock",
     "price": 13.21,
     "color": {
@@ -1708,7 +1708,7 @@
   },
   {
     "contentKey": "5a4fda0790970d60",
-    "stock": 170,
+    "stock": 578,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -1738,7 +1738,7 @@
   },
   {
     "contentKey": "5acbbc405677f2fe",
-    "stock": 856,
+    "stock": 853,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -1804,7 +1804,7 @@
   },
   {
     "contentKey": "5bce2b3ebaa480b8",
-    "stock": 3431,
+    "stock": 3426,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -1936,7 +1936,7 @@
   },
   {
     "contentKey": "623ba1b4ea490912",
-    "stock": 340,
+    "stock": 343,
     "stockLevel": "in-stock",
     "price": 13.21,
     "color": {
@@ -2002,7 +2002,7 @@
   },
   {
     "contentKey": "67955583aec6f655",
-    "stock": 4930,
+    "stock": 4901,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -2020,7 +2020,7 @@
   },
   {
     "contentKey": "68eb7817dbe1ec71",
-    "stock": 23423,
+    "stock": 23790,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -2037,7 +2037,7 @@
   },
   {
     "contentKey": "68eb7817dbe1ec71",
-    "stock": 12151,
+    "stock": 12143,
     "stockLevel": "in-stock",
     "price": 13.21,
     "color": {
@@ -2071,7 +2071,7 @@
   },
   {
     "contentKey": "68eb7817dbe1ec71",
-    "stock": 3867,
+    "stock": 3855,
     "stockLevel": "in-stock",
     "price": 13.21,
     "color": {
@@ -2088,7 +2088,7 @@
   },
   {
     "contentKey": "694b3bf771dbbd0b",
-    "stock": 685,
+    "stock": 973,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -2138,7 +2138,7 @@
   },
   {
     "contentKey": "6c7d736f3ded00b0",
-    "stock": 312,
+    "stock": 306,
     "stockLevel": "in-stock",
     "price": 13.21,
     "color": {
@@ -2155,8 +2155,8 @@
   },
   {
     "contentKey": "6c7d736f3ded00b0",
-    "stock": 11,
-    "stockLevel": "in-stock",
+    "stock": 5,
+    "stockLevel": "low",
     "price": 7.03,
     "color": {
       "name": "Forest Green",
@@ -2172,7 +2172,7 @@
   },
   {
     "contentKey": "6ce3075686ef8e76",
-    "stock": 1767,
+    "stock": 1766,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -2190,7 +2190,7 @@
   },
   {
     "contentKey": "7182d81e5c856cdf",
-    "stock": 1375,
+    "stock": 1381,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -2237,7 +2237,7 @@
   },
   {
     "contentKey": "740dc8a592fb9023",
-    "stock": 331,
+    "stock": 325,
     "stockLevel": "in-stock",
     "price": 13.21,
     "color": {
@@ -2279,7 +2279,7 @@
   },
   {
     "contentKey": "74fa61cf86fbb195",
-    "stock": 264,
+    "stock": 984,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -2297,7 +2297,7 @@
   },
   {
     "contentKey": "78bc9579ac4cea7f",
-    "stock": 2933,
+    "stock": 2918,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -2330,7 +2330,7 @@
   },
   {
     "contentKey": "7a6504669eedf1ff",
-    "stock": 5359,
+    "stock": 5343,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -2348,7 +2348,7 @@
   },
   {
     "contentKey": "7bbb5c2a93e74bb4",
-    "stock": 2663,
+    "stock": 2662,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -2396,7 +2396,7 @@
   },
   {
     "contentKey": "7c6a2dcfa7e78113",
-    "stock": 8378,
+    "stock": 8366,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -2498,7 +2498,7 @@
   },
   {
     "contentKey": "84de9132096d6a84",
-    "stock": 3542,
+    "stock": 3541,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -2568,7 +2568,7 @@
   },
   {
     "contentKey": "87a6b3634bd2f1e8",
-    "stock": 4345,
+    "stock": 4348,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -2604,7 +2604,7 @@
   },
   {
     "contentKey": "899a4178ebb7d708",
-    "stock": 1062,
+    "stock": 1060,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -2622,7 +2622,7 @@
   },
   {
     "contentKey": "8da513c1b4d78a94",
-    "stock": 151,
+    "stock": 139,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -2655,7 +2655,7 @@
   },
   {
     "contentKey": "8e8b8b493a0a572e",
-    "stock": 792,
+    "stock": 797,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -2673,7 +2673,7 @@
   },
   {
     "contentKey": "906e244a7a9784d2",
-    "stock": 6456,
+    "stock": 6452,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -2691,7 +2691,7 @@
   },
   {
     "contentKey": "90d374e2edffb0b8",
-    "stock": 5479,
+    "stock": 5485,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -2709,7 +2709,7 @@
   },
   {
     "contentKey": "925eb88ba2fb3971",
-    "stock": 1004,
+    "stock": 1002,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -2727,7 +2727,7 @@
   },
   {
     "contentKey": "926afb96eb30b1a1",
-    "stock": 10446,
+    "stock": 10445,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -2760,7 +2760,7 @@
   },
   {
     "contentKey": "95a39ec26bb088c1",
-    "stock": 1361,
+    "stock": 1358,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -2778,8 +2778,8 @@
   },
   {
     "contentKey": "95d822abf974083f",
-    "stock": 1,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 9.13,
     "color": {
       "name": "Cherry Red",
@@ -2824,7 +2824,7 @@
   },
   {
     "contentKey": "9960c35e1378ebd2",
-    "stock": 1637,
+    "stock": 1632,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -2842,7 +2842,7 @@
   },
   {
     "contentKey": "99a7e16b273dc35e",
-    "stock": 1635,
+    "stock": 1621,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -2860,7 +2860,7 @@
   },
   {
     "contentKey": "9cfad31aab212016",
-    "stock": 9925,
+    "stock": 9931,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -2878,7 +2878,7 @@
   },
   {
     "contentKey": "9e16678d1ad09de3",
-    "stock": 29052,
+    "stock": 29053,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -2896,7 +2896,7 @@
   },
   {
     "contentKey": "a04d0b15b0127a26",
-    "stock": 4314,
+    "stock": 4301,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -2914,7 +2914,7 @@
   },
   {
     "contentKey": "a079df8bab203c42",
-    "stock": 1613,
+    "stock": 1691,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -2932,7 +2932,7 @@
   },
   {
     "contentKey": "a211be934764a2a4",
-    "stock": 8663,
+    "stock": 8640,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -2950,7 +2950,7 @@
   },
   {
     "contentKey": "a261f43d4b144722",
-    "stock": 2117,
+    "stock": 2102,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -3001,7 +3001,7 @@
   },
   {
     "contentKey": "a56f653231cd9738",
-    "stock": 1495,
+    "stock": 1491,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -3053,7 +3053,7 @@
   },
   {
     "contentKey": "a593d4bcf0cf9b3f",
-    "stock": 83,
+    "stock": 77,
     "stockLevel": "in-stock",
     "price": 7.03,
     "color": {
@@ -3070,7 +3070,7 @@
   },
   {
     "contentKey": "a83a3ff49faad2f1",
-    "stock": 892,
+    "stock": 891,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -3087,7 +3087,7 @@
   },
   {
     "contentKey": "a83a3ff49faad2f1",
-    "stock": 266,
+    "stock": 284,
     "stockLevel": "in-stock",
     "price": 13.21,
     "color": {
@@ -3121,7 +3121,7 @@
   },
   {
     "contentKey": "a8982d8f20813586",
-    "stock": 333,
+    "stock": 323,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -3283,7 +3283,7 @@
   },
   {
     "contentKey": "af343a95bdc5a8d3",
-    "stock": 2599,
+    "stock": 2585,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -3301,7 +3301,7 @@
   },
   {
     "contentKey": "b0717b8e99ba328f",
-    "stock": 2435,
+    "stock": 2441,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -3318,7 +3318,7 @@
   },
   {
     "contentKey": "b0717b8e99ba328f",
-    "stock": 629,
+    "stock": 632,
     "stockLevel": "in-stock",
     "price": 13.21,
     "color": {
@@ -3369,7 +3369,7 @@
   },
   {
     "contentKey": "b213b3b30c08cc32",
-    "stock": 732,
+    "stock": 737,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -3387,7 +3387,7 @@
   },
   {
     "contentKey": "b21ab35bc816eced",
-    "stock": 5694,
+    "stock": 5670,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -3455,7 +3455,7 @@
   },
   {
     "contentKey": "b449a0782abffe53",
-    "stock": 3873,
+    "stock": 3846,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -3556,8 +3556,8 @@
   },
   {
     "contentKey": "b75aac1d6f2051db",
-    "stock": 0,
-    "stockLevel": "out-of-stock",
+    "stock": 1080,
+    "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
       "name": "Charcoal",
@@ -3666,7 +3666,7 @@
   },
   {
     "contentKey": "ba320d355eeb6aa1",
-    "stock": 2451,
+    "stock": 2457,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -3683,7 +3683,7 @@
   },
   {
     "contentKey": "ba320d355eeb6aa1",
-    "stock": 1053,
+    "stock": 1056,
     "stockLevel": "in-stock",
     "price": 13.21,
     "color": {
@@ -3700,7 +3700,7 @@
   },
   {
     "contentKey": "ba320d355eeb6aa1",
-    "stock": 1427,
+    "stock": 1421,
     "stockLevel": "in-stock",
     "price": 13.21,
     "color": {
@@ -3734,7 +3734,7 @@
   },
   {
     "contentKey": "ba5370f557575013",
-    "stock": 9424,
+    "stock": 10120,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -3752,7 +3752,7 @@
   },
   {
     "contentKey": "bb87f42497dc5384",
-    "stock": 2206,
+    "stock": 2201,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -3770,7 +3770,7 @@
   },
   {
     "contentKey": "bc180a1e4c65ee7b",
-    "stock": 7244,
+    "stock": 7243,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -3788,7 +3788,7 @@
   },
   {
     "contentKey": "be6e15d06fe6c89f",
-    "stock": 919,
+    "stock": 869,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -3842,7 +3842,7 @@
   },
   {
     "contentKey": "c37f01d1053ddff2",
-    "stock": 18680,
+    "stock": 18661,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -3860,7 +3860,7 @@
   },
   {
     "contentKey": "c38a901eaf3ee1f2",
-    "stock": 827,
+    "stock": 812,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -3878,7 +3878,7 @@
   },
   {
     "contentKey": "c841008c1fe09157",
-    "stock": 512,
+    "stock": 500,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -3929,7 +3929,7 @@
   },
   {
     "contentKey": "cd49da4062a52f75",
-    "stock": 1481,
+    "stock": 1484,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -4015,7 +4015,7 @@
   },
   {
     "contentKey": "d0ca78c6f43428c2",
-    "stock": 2701,
+    "stock": 2696,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -4033,7 +4033,7 @@
   },
   {
     "contentKey": "d0e167d60a241f0d",
-    "stock": 2173,
+    "stock": 2170,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -4173,7 +4173,7 @@
   },
   {
     "contentKey": "de921b9a8eda5859",
-    "stock": 22216,
+    "stock": 22154,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -4191,7 +4191,7 @@
   },
   {
     "contentKey": "ded69046def60de9",
-    "stock": 17718,
+    "stock": 17719,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -4257,7 +4257,7 @@
   },
   {
     "contentKey": "e44735f01f65cbff",
-    "stock": 17,
+    "stock": 15,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -4275,7 +4275,7 @@
   },
   {
     "contentKey": "e6e33f328bd124b0",
-    "stock": 791,
+    "stock": 789,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -4305,7 +4305,7 @@
   },
   {
     "contentKey": "e9a8529fbf088b57",
-    "stock": 41,
+    "stock": 396,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -4323,7 +4323,7 @@
   },
   {
     "contentKey": "ec4390249c6d45fb",
-    "stock": 64738,
+    "stock": 64661,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -4374,7 +4374,7 @@
   },
   {
     "contentKey": "f3be208d6f086f4d",
-    "stock": 7383,
+    "stock": 7358,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -4410,7 +4410,7 @@
   },
   {
     "contentKey": "f41973cd9354acef",
-    "stock": 1195,
+    "stock": 1192,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -4446,7 +4446,7 @@
   },
   {
     "contentKey": "f8ff6094eab7defa",
-    "stock": 5854,
+    "stock": 5858,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -4464,7 +4464,7 @@
   },
   {
     "contentKey": "fa1af6053560e433",
-    "stock": 833,
+    "stock": 1239,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -4482,7 +4482,7 @@
   },
   {
     "contentKey": "faa0200c90eef7d1",
-    "stock": 18444,
+    "stock": 18439,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -4499,7 +4499,7 @@
   },
   {
     "contentKey": "faa0200c90eef7d1",
-    "stock": 5706,
+    "stock": 5802,
     "stockLevel": "in-stock",
     "price": 13.21,
     "color": {
@@ -4550,7 +4550,7 @@
   },
   {
     "contentKey": "fae67eb86103443c",
-    "stock": 2220,
+    "stock": 2218,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
@@ -4568,7 +4568,7 @@
   },
   {
     "contentKey": "fe110cca0143a54b",
-    "stock": 8572,
+    "stock": 8571,
     "stockLevel": "in-stock",
     "price": 9.13,
     "color": {
