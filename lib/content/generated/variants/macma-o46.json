@@ -491,7 +491,7 @@
   },
   {
     "contentKey": "8994cf8378d084ff",
-    "stock": 23,
+    "stock": 22,
     "stockLevel": "in-stock",
     "price": 8,
     "color": {
@@ -586,8 +586,8 @@
   },
   {
     "contentKey": "9c54be635c4eae5b",
-    "stock": 1,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 8,
     "color": {
       "name": "Pumpkin Orange",
@@ -649,8 +649,8 @@
   },
   {
     "contentKey": "b78a432f95a053dd",
-    "stock": 1,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 8,
     "color": {
       "name": "Black",
