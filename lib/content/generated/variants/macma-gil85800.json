@@ -1,8 +1,8 @@
 [
   {
     "contentKey": "10ac081119dc6243",
-    "stock": 14,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 1.5,
     "color": {
       "name": "Purple",
@@ -16,7 +16,7 @@
   },
   {
     "contentKey": "12c5262325653144",
-    "stock": 125,
+    "stock": 95,
     "stockLevel": "in-stock",
     "price": 1.5,
     "color": {
@@ -31,7 +31,7 @@
   },
   {
     "contentKey": "266381bd896aefe0",
-    "stock": 215,
+    "stock": 185,
     "stockLevel": "in-stock",
     "price": 1.5,
     "color": {
@@ -46,8 +46,8 @@
   },
   {
     "contentKey": "3599ae15000c0a1a",
-    "stock": 66,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 0.84,
     "color": {
       "name": "Maroon",
@@ -76,7 +76,7 @@
   },
   {
     "contentKey": "60f5723c78462838",
-    "stock": 409,
+    "stock": 377,
     "stockLevel": "in-stock",
     "price": 1.5,
     "color": {
@@ -91,7 +91,7 @@
   },
   {
     "contentKey": "686ff61f916a7552",
-    "stock": 222,
+    "stock": 192,
     "stockLevel": "in-stock",
     "price": 1.5,
     "color": {
@@ -136,7 +136,7 @@
   },
   {
     "contentKey": "7ea51ceec137b8b3",
-    "stock": 542,
+    "stock": 522,
     "stockLevel": "in-stock",
     "price": 1.5,
     "color": {
@@ -151,7 +151,7 @@
   },
   {
     "contentKey": "a6894c167de9fc51",
-    "stock": 140,
+    "stock": 106,
     "stockLevel": "in-stock",
     "price": 1.5,
     "color": {
@@ -166,8 +166,8 @@
   },
   {
     "contentKey": "b036982cfe1943d2",
-    "stock": 7,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 0.84,
     "color": {
       "name": "Maroon",
@@ -181,7 +181,7 @@
   },
   {
     "contentKey": "c4e02d2ec593447f",
-    "stock": 205,
+    "stock": 185,
     "stockLevel": "in-stock",
     "price": 1.5,
     "color": {

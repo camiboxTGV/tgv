@@ -43,7 +43,7 @@
   },
   {
     "contentKey": "19f502f21ea65f67",
-    "stock": 688,
+    "stock": 683,
     "stockLevel": "in-stock",
     "price": 5.02,
     "color": {
@@ -57,8 +57,8 @@
   },
   {
     "contentKey": "3325c13a454e59ef",
-    "stock": 2,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 7.45,
     "color": {
       "name": "Sand",
@@ -309,7 +309,7 @@
   },
   {
     "contentKey": "815f35ae8e18d716",
-    "stock": 1636,
+    "stock": 1633,
     "stockLevel": "in-stock",
     "price": 2.97,
     "color": {
@@ -379,7 +379,7 @@
   },
   {
     "contentKey": "9ba48841c69619ab",
-    "stock": 6976,
+    "stock": 6971,
     "stockLevel": "in-stock",
     "price": 4.08,
     "color": {
