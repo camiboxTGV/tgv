@@ -1,7 +1,7 @@
 [
   {
     "contentKey": "00b694b2d5a09b3c",
-    "stock": 17,
+    "stock": 16,
     "stockLevel": "in-stock",
     "price": 20.24,
     "color": {
@@ -166,8 +166,8 @@
   },
   {
     "contentKey": "65c60038304c9b33",
-    "stock": 1,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 20.24,
     "color": {
       "name": "White",
