@@ -55,8 +55,8 @@
   },
   {
     "contentKey": "37b8a62dc27e0bbe",
-    "stock": 1,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 2.73,
     "color": {
       "name": "Forest Green",
@@ -159,7 +159,7 @@
   },
   {
     "contentKey": "b2b955eea19a88f9",
-    "stock": 552,
+    "stock": 551,
     "stockLevel": "in-stock",
     "price": 2.73,
     "color": {
@@ -195,7 +195,7 @@
   },
   {
     "contentKey": "cb545bb9456eadbc",
-    "stock": 255,
+    "stock": 254,
     "stockLevel": "in-stock",
     "price": 2.73,
     "color": {
@@ -213,7 +213,7 @@
   },
   {
     "contentKey": "e0859f2d02fd79f4",
-    "stock": 265,
+    "stock": 264,
     "stockLevel": "in-stock",
     "price": 4.16,
     "color": {
@@ -231,7 +231,7 @@
   },
   {
     "contentKey": "e85cc8e268ce560c",
-    "stock": 660,
+    "stock": 620,
     "stockLevel": "in-stock",
     "price": 4.16,
     "color": {
