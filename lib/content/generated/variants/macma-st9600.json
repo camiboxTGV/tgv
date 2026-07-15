@@ -57,8 +57,8 @@
   },
   {
     "contentKey": "238dd350fe22d81e",
-    "stock": 24,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 7.5,
     "color": {
       "name": "Scarlet Red",
@@ -165,7 +165,7 @@
   },
   {
     "contentKey": "4745a634c6ca7993",
-    "stock": 96,
+    "stock": 72,
     "stockLevel": "in-stock",
     "price": 7.5,
     "color": {
@@ -233,7 +233,7 @@
   },
   {
     "contentKey": "6a5011674a40b546",
-    "stock": 168,
+    "stock": 144,
     "stockLevel": "in-stock",
     "price": 7.5,
     "color": {
@@ -261,7 +261,7 @@
   },
   {
     "contentKey": "7b18244dd4b87187",
-    "stock": 216,
+    "stock": 192,
     "stockLevel": "in-stock",
     "price": 7.5,
     "color": {
@@ -685,7 +685,7 @@
   },
   {
     "contentKey": "f23303cb7845810a",
-    "stock": 144,
+    "stock": 120,
     "stockLevel": "in-stock",
     "price": 9.01,
     "color": {
