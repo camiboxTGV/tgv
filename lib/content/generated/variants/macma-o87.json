@@ -97,8 +97,8 @@
   },
   {
     "contentKey": "47227a8401fa6bf6",
-    "stock": 0,
-    "stockLevel": "out-of-stock",
+    "stock": 100,
+    "stockLevel": "in-stock",
     "price": 22.35,
     "color": {
       "name": "Asphalt",
@@ -113,7 +113,7 @@
   },
   {
     "contentKey": "4a253d7c58914106",
-    "stock": 98,
+    "stock": 58,
     "stockLevel": "in-stock",
     "price": 22.35,
     "color": {
@@ -145,7 +145,7 @@
   },
   {
     "contentKey": "60877dcbf292dae7",
-    "stock": 165,
+    "stock": 145,
     "stockLevel": "in-stock",
     "price": 22.35,
     "color": {
@@ -299,7 +299,7 @@
   },
   {
     "contentKey": "8c74cd4dedd79845",
-    "stock": 211,
+    "stock": 191,
     "stockLevel": "in-stock",
     "price": 22.35,
     "color": {
@@ -454,8 +454,8 @@
   },
   {
     "contentKey": "f315447d5ab4cf87",
-    "stock": 5,
-    "stockLevel": "low",
+    "stock": 85,
+    "stockLevel": "in-stock",
     "price": 22.35,
     "color": {
       "name": "Asphalt",

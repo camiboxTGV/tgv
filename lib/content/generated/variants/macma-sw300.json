@@ -277,7 +277,7 @@
   },
   {
     "contentKey": "73c6acf41978ba21",
-    "stock": 68,
+    "stock": 67,
     "stockLevel": "in-stock",
     "price": 2.7,
     "color": {
@@ -533,8 +533,8 @@
   },
   {
     "contentKey": "cf1f435d45c35c49",
-    "stock": 2,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 2.7,
     "color": {
       "name": "Atoll",
@@ -619,7 +619,7 @@
   },
   {
     "contentKey": "da311238fa7e7172",
-    "stock": 118,
+    "stock": 119,
     "stockLevel": "in-stock",
     "price": 2.7,
     "color": {
