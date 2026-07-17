@@ -1215,7 +1215,7 @@
   },
   {
     "contentKey": "3ed4d91270d65cfc",
-    "stock": 136,
+    "stock": 135,
     "stockLevel": "in-stock",
     "price": 3.46,
     "color": {
@@ -2006,8 +2006,8 @@
   },
   {
     "contentKey": "686e65d4a39c6682",
-    "stock": 1,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 3.46,
     "color": {
       "name": "Chocolate",
@@ -2435,7 +2435,7 @@
   },
   {
     "contentKey": "853d8a187a299d31",
-    "stock": 15907,
+    "stock": 15906,
     "stockLevel": "in-stock",
     "price": 2.89,
     "color": {
