@@ -57,8 +57,8 @@
   },
   {
     "contentKey": "3398abc864a5c804",
-    "stock": 11,
-    "stockLevel": "in-stock",
+    "stock": 9,
+    "stockLevel": "low",
     "price": 16.48,
     "color": {
       "name": "Deep Navy",
@@ -195,7 +195,7 @@
   },
   {
     "contentKey": "a1e0ac893194aa51",
-    "stock": 22,
+    "stock": 16,
     "stockLevel": "in-stock",
     "price": 16.48,
     "color": {
@@ -236,7 +236,7 @@
   },
   {
     "contentKey": "ccfb77430063572e",
-    "stock": 37,
+    "stock": 36,
     "stockLevel": "in-stock",
     "price": 16.48,
     "color": {
@@ -249,7 +249,7 @@
   },
   {
     "contentKey": "d1f127a6e7451785",
-    "stock": 23,
+    "stock": 20,
     "stockLevel": "in-stock",
     "price": 16.48,
     "color": {
@@ -277,8 +277,8 @@
   },
   {
     "contentKey": "daf33b5a0078fdf1",
-    "stock": 8,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 16.48,
     "color": {
       "name": "Deep Navy",
