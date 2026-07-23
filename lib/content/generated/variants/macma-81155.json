@@ -1,8 +1,8 @@
 [
   {
     "contentKey": "0b89d23a9a565638",
-    "stock": 1,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 5.17,
     "color": {
       "name": "Dark Grey",
@@ -20,7 +20,7 @@
   },
   {
     "contentKey": "57660fae894340d3",
-    "stock": 1246,
+    "stock": 1225,
     "stockLevel": "in-stock",
     "price": 5.17,
     "color": {
@@ -44,7 +44,7 @@
   },
   {
     "contentKey": "c33aa90dd7315c15",
-    "stock": 3384,
+    "stock": 3334,
     "stockLevel": "in-stock",
     "price": 5.17,
     "color": {

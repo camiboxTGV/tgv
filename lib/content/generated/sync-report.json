@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-22T08:18:24.510Z",
+  "ranAt": "2026-07-23T08:29:27.096Z",
   "success": true,
-  "totalProducts": 2059,
+  "totalProducts": 2058,
   "totalUnclassified": 1,
   "suppliers": {
     "fixtures": {
@@ -30,15 +30,15 @@
       "id": "macma",
       "displayName": "Macma",
       "ok": true,
-      "fetched": 2054,
-      "normalized": 2054,
+      "fetched": 2053,
+      "normalized": 2053,
       "unclassified": 0,
       "droppedMissingPrice": 0,
       "variantFilesWritten": 0,
       "newUnmappedCategories": [],
       "unknownPersonalizationCodes": [],
       "images": {
-        "downloaded": 25952,
+        "downloaded": 25951,
         "skipped": 0,
         "failed": 0
       }
@@ -51,7 +51,7 @@
     "apparel-and-wearables/fashion-apparel/pants": 15,
     "apparel-and-wearables/fashion-apparel/shirts": 12,
     "apparel-and-wearables/fashion-apparel/shorts": 2,
-    "apparel-and-wearables/headwear/caps-and-hats": 19,
+    "apparel-and-wearables/headwear/caps-and-hats": 18,
     "apparel-and-wearables/jackets-and-bodywarmers": 104,
     "apparel-and-wearables/polo-shirts": 58,
     "apparel-and-wearables/sportswear-and-activewear": 2,
