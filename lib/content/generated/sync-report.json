@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-23T08:29:27.096Z",
+  "ranAt": "2026-07-24T08:17:36.862Z",
   "success": true,
-  "totalProducts": 2058,
+  "totalProducts": 2057,
   "totalUnclassified": 1,
   "suppliers": {
     "fixtures": {
@@ -30,15 +30,15 @@
       "id": "macma",
       "displayName": "Macma",
       "ok": true,
-      "fetched": 2053,
-      "normalized": 2053,
+      "fetched": 2052,
+      "normalized": 2052,
       "unclassified": 0,
       "droppedMissingPrice": 0,
       "variantFilesWritten": 0,
       "newUnmappedCategories": [],
       "unknownPersonalizationCodes": [],
       "images": {
-        "downloaded": 25951,
+        "downloaded": 25947,
         "skipped": 0,
         "failed": 0
       }
@@ -75,7 +75,7 @@
     "drinkware/bottles/thermal-and-vacuum-flasks": 80,
     "drinkware/bottles/water-bottles": 39,
     "drinkware/mugs-and-cups/ceramic-mugs": 82,
-    "electronics/audio-devices/bluetooth-speakers": 16,
+    "electronics/audio-devices/bluetooth-speakers": 15,
     "electronics/audio-devices/earphones-and-headphones": 8,
     "electronics/computer-and-mobile-accessories/phone-holders-and-stands": 34,
     "electronics/power-and-charging/power-banks": 26,
