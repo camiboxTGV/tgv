@@ -1,7 +1,7 @@
 [
   {
     "contentKey": "04b066b2614fb8db",
-    "stock": 408,
+    "stock": 384,
     "stockLevel": "in-stock",
     "price": 5.67,
     "color": {
@@ -14,7 +14,7 @@
   },
   {
     "contentKey": "04b066b2614fb8db",
-    "stock": 720,
+    "stock": 672,
     "stockLevel": "in-stock",
     "price": 4.75,
     "color": {
@@ -167,7 +167,7 @@
   },
   {
     "contentKey": "1f27d1457a39f1f6",
-    "stock": 2405,
+    "stock": 3845,
     "stockLevel": "in-stock",
     "price": 4.75,
     "color": {
@@ -289,7 +289,7 @@
   },
   {
     "contentKey": "2e1980b7752b2586",
-    "stock": 3011,
+    "stock": 5035,
     "stockLevel": "in-stock",
     "price": 4.75,
     "color": {
@@ -303,7 +303,7 @@
   },
   {
     "contentKey": "2e4036adb2485448",
-    "stock": 2561,
+    "stock": 4001,
     "stockLevel": "in-stock",
     "price": 4.75,
     "color": {
@@ -317,7 +317,7 @@
   },
   {
     "contentKey": "3756ec4d984c305e",
-    "stock": 2015,
+    "stock": 1967,
     "stockLevel": "in-stock",
     "price": 4.25,
     "color": {
@@ -633,7 +633,7 @@
   },
   {
     "contentKey": "6c7f3736e1d5f1ea",
-    "stock": 624,
+    "stock": 576,
     "stockLevel": "in-stock",
     "price": 4.75,
     "color": {
@@ -947,7 +947,7 @@
   },
   {
     "contentKey": "aae86120aa9651f8",
-    "stock": 4406,
+    "stock": 5038,
     "stockLevel": "in-stock",
     "price": 4.75,
     "color": {
@@ -1167,7 +1167,7 @@
   },
   {
     "contentKey": "d908903d01b336f5",
-    "stock": 288,
+    "stock": 240,
     "stockLevel": "in-stock",
     "price": 4.75,
     "color": {
@@ -1383,7 +1383,20 @@
   },
   {
     "contentKey": "f8981f6354588ec9",
-    "stock": 130,
+    "stock": 370,
+    "stockLevel": "in-stock",
+    "price": 5.67,
+    "color": {
+      "name": "Black Opal",
+      "hex": "#040020"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "f8981f6354588ec9",
+    "stock": 96,
     "stockLevel": "in-stock",
     "price": 5.67,
     "color": {
@@ -1409,20 +1422,7 @@
   },
   {
     "contentKey": "f8981f6354588ec9",
-    "stock": 0,
-    "stockLevel": "out-of-stock",
-    "price": 5.67,
-    "color": {
-      "name": "Black Opal",
-      "hex": "#040020"
-    },
-    "imageRefs": [
-      1
-    ]
-  },
-  {
-    "contentKey": "f8981f6354588ec9",
-    "stock": 193,
+    "stock": 673,
     "stockLevel": "in-stock",
     "price": 4.75,
     "color": {
@@ -1435,7 +1435,7 @@
   },
   {
     "contentKey": "fb7bb14fd459bddc",
-    "stock": 441,
+    "stock": 1113,
     "stockLevel": "in-stock",
     "price": 4.75,
     "color": {
