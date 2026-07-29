@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-28T08:15:05.801Z",
+  "ranAt": "2026-07-29T08:20:21.316Z",
   "success": true,
-  "totalProducts": 2057,
+  "totalProducts": 2056,
   "totalUnclassified": 1,
   "suppliers": {
     "fixtures": {
@@ -30,17 +30,17 @@
       "id": "macma",
       "displayName": "Macma",
       "ok": true,
-      "fetched": 2052,
-      "normalized": 2052,
+      "fetched": 2051,
+      "normalized": 2051,
       "unclassified": 0,
       "droppedMissingPrice": 0,
       "variantFilesWritten": 0,
       "newUnmappedCategories": [],
       "unknownPersonalizationCodes": [],
       "images": {
-        "downloaded": 25947,
+        "downloaded": 25943,
         "skipped": 0,
-        "failed": 1
+        "failed": 0
       }
     }
   },
@@ -66,7 +66,7 @@
     "bags/specialty-bags/cooler-bags": 27,
     "bags/specialty-bags/document-and-laptop-bags": 7,
     "bags/specialty-bags/fanny-packs-and-waist-bags": 6,
-    "bags/specialty-bags/gym-and-sports-bags": 18,
+    "bags/specialty-bags/gym-and-sports-bags": 17,
     "bags/specialty-bags/waterproof-bags": 3,
     "drinkware/bar-and-wine-accessories/bottle-openers-and-stoppers": 17,
     "drinkware/bar-and-wine-accessories/cocktail-sets": 29,

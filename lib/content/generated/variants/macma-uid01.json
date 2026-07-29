@@ -3,32 +3,6 @@
     "contentKey": "68366c2080194089",
     "stock": 0,
     "stockLevel": "out-of-stock",
-    "price": 3.73,
-    "color": {
-      "name": "Grey",
-      "hex": "#909090"
-    },
-    "imageRefs": [
-      1
-    ]
-  },
-  {
-    "contentKey": "68366c2080194089",
-    "stock": 0,
-    "stockLevel": "out-of-stock",
-    "price": 3.73,
-    "color": {
-      "name": "Grey",
-      "hex": "#909090"
-    },
-    "imageRefs": [
-      1
-    ]
-  },
-  {
-    "contentKey": "68366c2080194089",
-    "stock": 0,
-    "stockLevel": "out-of-stock",
     "price": 3.86,
     "color": {
       "name": "Grey",
@@ -42,7 +16,7 @@
     "contentKey": "68366c2080194089",
     "stock": 0,
     "stockLevel": "out-of-stock",
-    "price": 3.94,
+    "price": 3.93,
     "color": {
       "name": "Grey",
       "hex": "#909090"
@@ -55,7 +29,7 @@
     "contentKey": "68366c2080194089",
     "stock": 0,
     "stockLevel": "out-of-stock",
-    "price": 4.34,
+    "price": 4.13,
     "color": {
       "name": "Grey",
       "hex": "#909090"
@@ -65,29 +39,29 @@
     ]
   },
   {
-    "contentKey": "78761dce9131ec07",
+    "contentKey": "68366c2080194089",
     "stock": 0,
     "stockLevel": "out-of-stock",
-    "price": 3.73,
+    "price": 4.26,
     "color": {
-      "name": "Black",
-      "hex": "#000000"
+      "name": "Grey",
+      "hex": "#909090"
     },
     "imageRefs": [
-      0
+      1
     ]
   },
   {
-    "contentKey": "78761dce9131ec07",
+    "contentKey": "68366c2080194089",
     "stock": 0,
     "stockLevel": "out-of-stock",
-    "price": 3.73,
+    "price": 4.75,
     "color": {
-      "name": "Black",
-      "hex": "#000000"
+      "name": "Grey",
+      "hex": "#909090"
     },
     "imageRefs": [
-      0
+      1
     ]
   },
   {
@@ -107,7 +81,7 @@
     "contentKey": "78761dce9131ec07",
     "stock": 0,
     "stockLevel": "out-of-stock",
-    "price": 3.94,
+    "price": 3.93,
     "color": {
       "name": "Black",
       "hex": "#000000"
@@ -120,7 +94,7 @@
     "contentKey": "78761dce9131ec07",
     "stock": 0,
     "stockLevel": "out-of-stock",
-    "price": 4.34,
+    "price": 4.13,
     "color": {
       "name": "Black",
       "hex": "#000000"
@@ -130,29 +104,29 @@
     ]
   },
   {
-    "contentKey": "7d4b508770ccccc9",
+    "contentKey": "78761dce9131ec07",
     "stock": 0,
     "stockLevel": "out-of-stock",
-    "price": 3.73,
+    "price": 4.26,
     "color": {
-      "name": "Yellow",
-      "hex": "#ffcc00"
+      "name": "Black",
+      "hex": "#000000"
     },
     "imageRefs": [
-      2
+      0
     ]
   },
   {
-    "contentKey": "7d4b508770ccccc9",
+    "contentKey": "78761dce9131ec07",
     "stock": 0,
     "stockLevel": "out-of-stock",
-    "price": 3.73,
+    "price": 4.75,
     "color": {
-      "name": "Yellow",
-      "hex": "#ffcc00"
+      "name": "Black",
+      "hex": "#000000"
     },
     "imageRefs": [
-      2
+      0
     ]
   },
   {
@@ -172,7 +146,7 @@
     "contentKey": "7d4b508770ccccc9",
     "stock": 0,
     "stockLevel": "out-of-stock",
-    "price": 3.94,
+    "price": 3.93,
     "color": {
       "name": "Yellow",
       "hex": "#ffcc00"
@@ -185,7 +159,33 @@
     "contentKey": "7d4b508770ccccc9",
     "stock": 0,
     "stockLevel": "out-of-stock",
-    "price": 4.34,
+    "price": 4.13,
+    "color": {
+      "name": "Yellow",
+      "hex": "#ffcc00"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "7d4b508770ccccc9",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 4.26,
+    "color": {
+      "name": "Yellow",
+      "hex": "#ffcc00"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "7d4b508770ccccc9",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 4.75,
     "color": {
       "name": "Yellow",
       "hex": "#ffcc00"
