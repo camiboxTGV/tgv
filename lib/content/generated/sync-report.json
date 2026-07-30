@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-07-29T08:20:21.316Z",
+  "ranAt": "2026-07-30T08:09:40.097Z",
   "success": true,
-  "totalProducts": 2056,
+  "totalProducts": 2057,
   "totalUnclassified": 1,
   "suppliers": {
     "fixtures": {
@@ -30,17 +30,17 @@
       "id": "macma",
       "displayName": "Macma",
       "ok": true,
-      "fetched": 2051,
-      "normalized": 2051,
+      "fetched": 2052,
+      "normalized": 2052,
       "unclassified": 0,
       "droppedMissingPrice": 0,
       "variantFilesWritten": 0,
       "newUnmappedCategories": [],
       "unknownPersonalizationCodes": [],
       "images": {
-        "downloaded": 25943,
+        "downloaded": 25951,
         "skipped": 0,
-        "failed": 0
+        "failed": 1
       }
     }
   },
@@ -81,7 +81,7 @@
     "electronics/power-and-charging/power-banks": 26,
     "electronics/power-and-charging/wireless-chargers": 14,
     "electronics/usb-flash-drives": 52,
-    "home-and-living/home-decor/candles-and-fragrances": 55,
+    "home-and-living/home-decor/candles-and-fragrances": 56,
     "home-and-living/home-decor/money-boxes": 3,
     "home-and-living/kitchen-and-dining/cutting-boards": 14,
     "home-and-living/kitchen-and-dining/kitchen-tools-and-utensils": 53,

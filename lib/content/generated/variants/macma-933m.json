@@ -1,8 +1,8 @@
 [
   {
     "contentKey": "03aa5318d19edb0f",
-    "stock": 439,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 16.2,
     "color": {
       "name": "Navy",
@@ -15,8 +15,8 @@
   },
   {
     "contentKey": "040482d94455242d",
-    "stock": 1428,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 16.2,
     "color": {
       "name": "Silver",
@@ -29,8 +29,8 @@
   },
   {
     "contentKey": "1605b3e048ae01c8",
-    "stock": 315,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 16.2,
     "color": {
       "name": "Black",
@@ -43,8 +43,8 @@
   },
   {
     "contentKey": "17b8bd15180ef921",
-    "stock": 208,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 16.2,
     "color": {
       "name": "Black",
@@ -56,8 +56,8 @@
   },
   {
     "contentKey": "17b8bd15180ef921",
-    "stock": 409,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 16.2,
     "color": {
       "name": "Black",
@@ -69,8 +69,8 @@
   },
   {
     "contentKey": "17b8bd15180ef921",
-    "stock": 285,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 16.2,
     "color": {
       "name": "Black",
@@ -82,8 +82,8 @@
   },
   {
     "contentKey": "17b8bd15180ef921",
-    "stock": 249,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 16.2,
     "color": {
       "name": "Black",
@@ -95,8 +95,8 @@
   },
   {
     "contentKey": "17b8bd15180ef921",
-    "stock": 316,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 16.2,
     "color": {
       "name": "Black",
@@ -108,8 +108,8 @@
   },
   {
     "contentKey": "1ac677c166124443",
-    "stock": 997,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 16.2,
     "color": {
       "name": "Silver",
@@ -122,8 +122,8 @@
   },
   {
     "contentKey": "1dde2fa1dfa0efcc",
-    "stock": 217,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 16.2,
     "color": {
       "name": "Bright Royal",
@@ -136,8 +136,8 @@
   },
   {
     "contentKey": "1fc5363e4562300b",
-    "stock": 939,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 16.2,
     "color": {
       "name": "Silver",
@@ -150,8 +150,8 @@
   },
   {
     "contentKey": "1fcc250d21547654",
-    "stock": 160,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 16.2,
     "color": {
       "name": "Black",
@@ -164,8 +164,8 @@
   },
   {
     "contentKey": "2690dc605319e060",
-    "stock": 226,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 16.2,
     "color": {
       "name": "Navy",
@@ -177,8 +177,8 @@
   },
   {
     "contentKey": "2690dc605319e060",
-    "stock": 398,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 16.2,
     "color": {
       "name": "Navy",
@@ -190,8 +190,8 @@
   },
   {
     "contentKey": "2690dc605319e060",
-    "stock": 138,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 16.2,
     "color": {
       "name": "Navy",
@@ -203,8 +203,8 @@
   },
   {
     "contentKey": "2690dc605319e060",
-    "stock": 59,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 16.2,
     "color": {
       "name": "Navy",
@@ -216,8 +216,8 @@
   },
   {
     "contentKey": "2690dc605319e060",
-    "stock": 63,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 16.2,
     "color": {
       "name": "Navy",
@@ -229,36 +229,8 @@
   },
   {
     "contentKey": "2bc1e6e200bd660f",
-    "stock": 361,
-    "stockLevel": "in-stock",
-    "price": 16.2,
-    "color": {
-      "name": "Oxford Blue",
-      "hex": "#9bb0db"
-    },
-    "imageRefs": [
-      3,
-      4
-    ]
-  },
-  {
-    "contentKey": "2bc1e6e200bd660f",
-    "stock": 194,
-    "stockLevel": "in-stock",
-    "price": 16.2,
-    "color": {
-      "name": "Oxford Blue",
-      "hex": "#9bb0db"
-    },
-    "imageRefs": [
-      3,
-      4
-    ]
-  },
-  {
-    "contentKey": "2bc1e6e200bd660f",
-    "stock": 76,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 16.2,
     "color": {
       "name": "Oxford Blue",
@@ -285,8 +257,36 @@
   },
   {
     "contentKey": "2bc1e6e200bd660f",
-    "stock": 328,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 16.2,
+    "color": {
+      "name": "Oxford Blue",
+      "hex": "#9bb0db"
+    },
+    "imageRefs": [
+      3,
+      4
+    ]
+  },
+  {
+    "contentKey": "2bc1e6e200bd660f",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 16.2,
+    "color": {
+      "name": "Oxford Blue",
+      "hex": "#9bb0db"
+    },
+    "imageRefs": [
+      3,
+      4
+    ]
+  },
+  {
+    "contentKey": "2bc1e6e200bd660f",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 16.2,
     "color": {
       "name": "Oxford Blue",
@@ -299,8 +299,8 @@
   },
   {
     "contentKey": "2f3136a5eec78232",
-    "stock": 1041,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 16.2,
     "color": {
       "name": "Silver",
@@ -313,8 +313,8 @@
   },
   {
     "contentKey": "2f53edf3e9c9620b",
-    "stock": 258,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 16.2,
     "color": {
       "name": "Bright Royal",
@@ -326,8 +326,8 @@
   },
   {
     "contentKey": "2f53edf3e9c9620b",
-    "stock": 144,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 16.2,
     "color": {
       "name": "Bright Royal",
@@ -339,8 +339,8 @@
   },
   {
     "contentKey": "2f53edf3e9c9620b",
-    "stock": 179,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 16.2,
     "color": {
       "name": "Bright Royal",
@@ -352,8 +352,8 @@
   },
   {
     "contentKey": "2f53edf3e9c9620b",
-    "stock": 84,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 16.2,
     "color": {
       "name": "Bright Royal",
@@ -378,8 +378,8 @@
   },
   {
     "contentKey": "31559478ae1af438",
-    "stock": 330,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 16.2,
     "color": {
       "name": "Navy",
@@ -392,8 +392,8 @@
   },
   {
     "contentKey": "759671fdafbe71ea",
-    "stock": 1082,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 16.2,
     "color": {
       "name": "Oxford Blue",
@@ -407,8 +407,8 @@
   },
   {
     "contentKey": "8e72f1ae657be63d",
-    "stock": 561,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 16.2,
     "color": {
       "name": "Navy",
@@ -421,8 +421,8 @@
   },
   {
     "contentKey": "b71c6f0769ff0739",
-    "stock": 130,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 16.2,
     "color": {
       "name": "Black",
@@ -435,8 +435,8 @@
   },
   {
     "contentKey": "c80197e5842ff119",
-    "stock": 302,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 16.2,
     "color": {
       "name": "Navy",
@@ -449,8 +449,8 @@
   },
   {
     "contentKey": "d0025b77e7d41fea",
-    "stock": 378,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 16.2,
     "color": {
       "name": "Bright Royal",
@@ -463,8 +463,8 @@
   },
   {
     "contentKey": "da59dfbae6555c20",
-    "stock": 352,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 16.2,
     "color": {
       "name": "Silver",
@@ -476,8 +476,8 @@
   },
   {
     "contentKey": "da59dfbae6555c20",
-    "stock": 138,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 16.2,
     "color": {
       "name": "Silver",
@@ -489,8 +489,8 @@
   },
   {
     "contentKey": "da59dfbae6555c20",
-    "stock": 252,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 16.2,
     "color": {
       "name": "Silver",
@@ -502,8 +502,8 @@
   },
   {
     "contentKey": "da59dfbae6555c20",
-    "stock": 96,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 16.2,
     "color": {
       "name": "Silver",
@@ -515,8 +515,8 @@
   },
   {
     "contentKey": "da59dfbae6555c20",
-    "stock": 35,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 16.2,
     "color": {
       "name": "Silver",
@@ -528,8 +528,8 @@
   },
   {
     "contentKey": "dba9867a3db6b121",
-    "stock": 422,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 16.2,
     "color": {
       "name": "Bright Royal",
@@ -542,8 +542,8 @@
   },
   {
     "contentKey": "dc96e02589f8ed0e",
-    "stock": 319,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 16.2,
     "color": {
       "name": "Bright Royal",
@@ -556,8 +556,8 @@
   },
   {
     "contentKey": "defe95225dcac21b",
-    "stock": 933,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 16.2,
     "color": {
       "name": "Oxford Blue",
@@ -571,8 +571,8 @@
   },
   {
     "contentKey": "e55ec8012f6c0e02",
-    "stock": 358,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 16.2,
     "color": {
       "name": "Oxford Blue",
@@ -586,8 +586,8 @@
   },
   {
     "contentKey": "e5d9f29b1524029e",
-    "stock": 587,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 16.2,
     "color": {
       "name": "Oxford Blue",
@@ -601,8 +601,8 @@
   },
   {
     "contentKey": "fffa7aba5534bdb2",
-    "stock": 326,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 16.2,
     "color": {
       "name": "Black",

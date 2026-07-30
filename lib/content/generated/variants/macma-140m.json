@@ -1,8 +1,8 @@
 [
   {
     "contentKey": "07d1474d1fe8c9fb",
-    "stock": 335,
-    "stockLevel": "in-stock",
+    "stock": 9,
+    "stockLevel": "low",
     "price": 41.03,
     "color": {
       "name": "Black",
@@ -15,8 +15,8 @@
   },
   {
     "contentKey": "0ff8e2795458729d",
-    "stock": 90,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 41.03,
     "color": {
       "name": "Titanium",
@@ -29,7 +29,7 @@
   },
   {
     "contentKey": "1abfab089e65be1a",
-    "stock": 732,
+    "stock": 11,
     "stockLevel": "in-stock",
     "price": 41.03,
     "color": {
@@ -43,8 +43,8 @@
   },
   {
     "contentKey": "1b49003facaf264a",
-    "stock": 13,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 41.03,
     "color": {
       "name": "Azure",
@@ -57,8 +57,8 @@
   },
   {
     "contentKey": "1f5840d5404f9829",
-    "stock": 468,
-    "stockLevel": "in-stock",
+    "stock": 5,
+    "stockLevel": "low",
     "price": 41.03,
     "color": {
       "name": "French Navy",
@@ -71,8 +71,8 @@
   },
   {
     "contentKey": "2357534a43b8b10d",
-    "stock": 216,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 41.03,
     "color": {
       "name": "Classic Red",
@@ -85,7 +85,7 @@
   },
   {
     "contentKey": "2ded8af13a49ba6f",
-    "stock": 1037,
+    "stock": 16,
     "stockLevel": "in-stock",
     "price": 41.03,
     "color": {
@@ -99,7 +99,7 @@
   },
   {
     "contentKey": "3d7c38576ac18889",
-    "stock": 540,
+    "stock": 14,
     "stockLevel": "in-stock",
     "price": 41.03,
     "color": {
@@ -113,7 +113,7 @@
   },
   {
     "contentKey": "41e184687fc36251",
-    "stock": 61,
+    "stock": 18,
     "stockLevel": "in-stock",
     "price": 41.03,
     "color": {
@@ -127,7 +127,7 @@
   },
   {
     "contentKey": "455605279f1d6b37",
-    "stock": 2246,
+    "stock": 23,
     "stockLevel": "in-stock",
     "price": 41.03,
     "color": {
@@ -155,7 +155,7 @@
   },
   {
     "contentKey": "5b6655c14de02c49",
-    "stock": 508,
+    "stock": 39,
     "stockLevel": "in-stock",
     "price": 41.03,
     "color": {
@@ -169,7 +169,7 @@
   },
   {
     "contentKey": "5d21290713cf706b",
-    "stock": 47,
+    "stock": 13,
     "stockLevel": "in-stock",
     "price": 41.03,
     "color": {
@@ -182,8 +182,8 @@
   },
   {
     "contentKey": "5d21290713cf706b",
-    "stock": 94,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 47.2,
     "color": {
       "name": "Classic Red",
@@ -208,8 +208,8 @@
   },
   {
     "contentKey": "6c86bebbd62e15aa",
-    "stock": 323,
-    "stockLevel": "in-stock",
+    "stock": 6,
+    "stockLevel": "low",
     "price": 41.03,
     "color": {
       "name": "Azure",
@@ -221,7 +221,7 @@
   },
   {
     "contentKey": "7ae80ec8bad40bd0",
-    "stock": 539,
+    "stock": 12,
     "stockLevel": "in-stock",
     "price": 41.03,
     "color": {
@@ -234,8 +234,8 @@
   },
   {
     "contentKey": "7ae80ec8bad40bd0",
-    "stock": 195,
-    "stockLevel": "in-stock",
+    "stock": 8,
+    "stockLevel": "low",
     "price": 47.2,
     "color": {
       "name": "French Navy",
@@ -247,8 +247,8 @@
   },
   {
     "contentKey": "7ae80ec8bad40bd0",
-    "stock": 135,
-    "stockLevel": "in-stock",
+    "stock": 5,
+    "stockLevel": "low",
     "price": 47.2,
     "color": {
       "name": "French Navy",
@@ -260,7 +260,7 @@
   },
   {
     "contentKey": "801a2028db98237a",
-    "stock": 176,
+    "stock": 15,
     "stockLevel": "in-stock",
     "price": 41.03,
     "color": {
@@ -273,8 +273,8 @@
   },
   {
     "contentKey": "801a2028db98237a",
-    "stock": 249,
-    "stockLevel": "in-stock",
+    "stock": 6,
+    "stockLevel": "low",
     "price": 47.2,
     "color": {
       "name": "Titanium",
@@ -299,7 +299,7 @@
   },
   {
     "contentKey": "8f53755ad27d245b",
-    "stock": 719,
+    "stock": 10,
     "stockLevel": "in-stock",
     "price": 41.03,
     "color": {
@@ -352,8 +352,8 @@
   },
   {
     "contentKey": "934205597f369522",
-    "stock": 116,
-    "stockLevel": "in-stock",
+    "stock": 8,
+    "stockLevel": "low",
     "price": 41.03,
     "color": {
       "name": "Azure",
@@ -366,7 +366,7 @@
   },
   {
     "contentKey": "9b6580a37baf9c6c",
-    "stock": 261,
+    "stock": 15,
     "stockLevel": "in-stock",
     "price": 41.03,
     "color": {
@@ -380,8 +380,8 @@
   },
   {
     "contentKey": "a081b9fb9b296623",
-    "stock": 761,
-    "stockLevel": "in-stock",
+    "stock": 7,
+    "stockLevel": "low",
     "price": 41.03,
     "color": {
       "name": "Azure",
@@ -394,7 +394,7 @@
   },
   {
     "contentKey": "a24b776e5437d557",
-    "stock": 739,
+    "stock": 17,
     "stockLevel": "in-stock",
     "price": 41.03,
     "color": {
@@ -408,8 +408,8 @@
   },
   {
     "contentKey": "a53c8b34abe0d73d",
-    "stock": 102,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 41.03,
     "color": {
       "name": "Black",
@@ -422,7 +422,7 @@
   },
   {
     "contentKey": "ba9a803a4be63a16",
-    "stock": 662,
+    "stock": 30,
     "stockLevel": "in-stock",
     "price": 41.03,
     "color": {
@@ -436,7 +436,7 @@
   },
   {
     "contentKey": "cb63fb77558cd1d8",
-    "stock": 3537,
+    "stock": 29,
     "stockLevel": "in-stock",
     "price": 41.03,
     "color": {
@@ -450,7 +450,7 @@
   },
   {
     "contentKey": "ce34b8bc3e832e31",
-    "stock": 1940,
+    "stock": 12,
     "stockLevel": "in-stock",
     "price": 41.03,
     "color": {
@@ -464,7 +464,7 @@
   },
   {
     "contentKey": "f7efdffd9bd04273",
-    "stock": 1518,
+    "stock": 23,
     "stockLevel": "in-stock",
     "price": 41.03,
     "color": {
@@ -478,8 +478,8 @@
   },
   {
     "contentKey": "fc69773981d7ffec",
-    "stock": 434,
-    "stockLevel": "in-stock",
+    "stock": 9,
+    "stockLevel": "low",
     "price": 41.03,
     "color": {
       "name": "Classic Red",
@@ -492,7 +492,7 @@
   },
   {
     "contentKey": "ffab53898d23f6f7",
-    "stock": 1879,
+    "stock": 22,
     "stockLevel": "in-stock",
     "price": 41.03,
     "color": {
