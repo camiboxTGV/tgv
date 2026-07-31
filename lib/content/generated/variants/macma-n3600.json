@@ -230,6 +230,20 @@
     ]
   },
   {
+    "contentKey": "19010c924d0542f3",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 4.5,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "size": "L",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
     "contentKey": "1ab44d5403481d72",
     "stock": 1008,
     "stockLevel": "in-stock",
@@ -241,6 +255,58 @@
     "size": "L",
     "imageRefs": [
       10
+    ]
+  },
+  {
+    "contentKey": "1bc485480086ff88",
+    "stock": 1404,
+    "stockLevel": "in-stock",
+    "price": 5.84,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "1bc485480086ff88",
+    "stock": 1368,
+    "stockLevel": "in-stock",
+    "price": 5.84,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "1bc485480086ff88",
+    "stock": 540,
+    "stockLevel": "in-stock",
+    "price": 5.84,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "1bc485480086ff88",
+    "stock": 3600,
+    "stockLevel": "in-stock",
+    "price": 4.5,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      1
     ]
   },
   {
@@ -1025,7 +1091,7 @@
   },
   {
     "contentKey": "668101356a2e1abf",
-    "stock": 4608,
+    "stock": 4536,
     "stockLevel": "in-stock",
     "price": 4.5,
     "color": {
@@ -1103,6 +1169,20 @@
     "size": "L",
     "imageRefs": [
       12
+    ]
+  },
+  {
+    "contentKey": "6987fedb8ccadf0f",
+    "stock": 4104,
+    "stockLevel": "in-stock",
+    "price": 4.5,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "size": "XS",
+    "imageRefs": [
+      1
     ]
   },
   {
@@ -1231,20 +1311,6 @@
   },
   {
     "contentKey": "713173530880fd88",
-    "stock": 2880,
-    "stockLevel": "in-stock",
-    "price": 4.5,
-    "color": {
-      "name": "Graphit Black",
-      "hex": "#1e1e1e"
-    },
-    "size": "S",
-    "imageRefs": [
-      1
-    ]
-  },
-  {
-    "contentKey": "713173530880fd88",
     "stock": 648,
     "stockLevel": "in-stock",
     "price": 4.5,
@@ -1357,7 +1423,7 @@
   },
   {
     "contentKey": "7d66b3007d2f818f",
-    "stock": 2880,
+    "stock": 2808,
     "stockLevel": "in-stock",
     "price": 4.5,
     "color": {
@@ -1684,6 +1750,20 @@
     ]
   },
   {
+    "contentKey": "99d8708fc8c1dc77",
+    "stock": 4968,
+    "stockLevel": "in-stock",
+    "price": 4.5,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "size": "M",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
     "contentKey": "9ab715a5bcbd124d",
     "stock": 648,
     "stockLevel": "in-stock",
@@ -1741,7 +1821,7 @@
   },
   {
     "contentKey": "a4440be8c264d99a",
-    "stock": 1368,
+    "stock": 1296,
     "stockLevel": "in-stock",
     "price": 4.5,
     "color": {
@@ -1881,58 +1961,6 @@
   },
   {
     "contentKey": "b2510c6e6aa616a1",
-    "stock": 1404,
-    "stockLevel": "in-stock",
-    "price": 5.84,
-    "color": {
-      "name": "Graphit Black",
-      "hex": "#1e1e1e"
-    },
-    "imageRefs": [
-      1
-    ]
-  },
-  {
-    "contentKey": "b2510c6e6aa616a1",
-    "stock": 1368,
-    "stockLevel": "in-stock",
-    "price": 5.84,
-    "color": {
-      "name": "Graphit Black",
-      "hex": "#1e1e1e"
-    },
-    "imageRefs": [
-      1
-    ]
-  },
-  {
-    "contentKey": "b2510c6e6aa616a1",
-    "stock": 540,
-    "stockLevel": "in-stock",
-    "price": 5.84,
-    "color": {
-      "name": "Graphit Black",
-      "hex": "#1e1e1e"
-    },
-    "imageRefs": [
-      1
-    ]
-  },
-  {
-    "contentKey": "b2510c6e6aa616a1",
-    "stock": 3600,
-    "stockLevel": "in-stock",
-    "price": 4.5,
-    "color": {
-      "name": "Graphit Black",
-      "hex": "#1e1e1e"
-    },
-    "imageRefs": [
-      1
-    ]
-  },
-  {
-    "contentKey": "b2510c6e6aa616a1",
     "stock": 396,
     "stockLevel": "in-stock",
     "price": 5.84,
@@ -1955,20 +1983,6 @@
     },
     "imageRefs": [
       8
-    ]
-  },
-  {
-    "contentKey": "b5c812ca3581a406",
-    "stock": 5000,
-    "stockLevel": "in-stock",
-    "price": 4.5,
-    "color": {
-      "name": "Graphit Black",
-      "hex": "#1e1e1e"
-    },
-    "size": "XL",
-    "imageRefs": [
-      1
     ]
   },
   {
@@ -2081,7 +2095,7 @@
   },
   {
     "contentKey": "bd402ec4f4c212dd",
-    "stock": 144,
+    "stock": 72,
     "stockLevel": "in-stock",
     "price": 4.5,
     "color": {
@@ -2205,20 +2219,6 @@
   },
   {
     "contentKey": "c5c7dcad16c4acf4",
-    "stock": 5000,
-    "stockLevel": "in-stock",
-    "price": 4.5,
-    "color": {
-      "name": "Graphit Black",
-      "hex": "#1e1e1e"
-    },
-    "size": "L",
-    "imageRefs": [
-      1
-    ]
-  },
-  {
-    "contentKey": "c5c7dcad16c4acf4",
     "stock": 504,
     "stockLevel": "in-stock",
     "price": 4.5,
@@ -2283,20 +2283,6 @@
     "size": "L",
     "imageRefs": [
       26
-    ]
-  },
-  {
-    "contentKey": "c865657703f75b0a",
-    "stock": 4104,
-    "stockLevel": "in-stock",
-    "price": 4.5,
-    "color": {
-      "name": "Graphit Black",
-      "hex": "#1e1e1e"
-    },
-    "size": "XS",
-    "imageRefs": [
-      1
     ]
   },
   {
@@ -2421,6 +2407,34 @@
     "size": "L",
     "imageRefs": [
       23
+    ]
+  },
+  {
+    "contentKey": "d00f10cad155959a",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 4.5,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "size": "XL",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "d3ce070786f65701",
+    "stock": 2880,
+    "stockLevel": "in-stock",
+    "price": 4.5,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "size": "S",
+    "imageRefs": [
+      1
     ]
   },
   {
@@ -2609,20 +2623,6 @@
     "size": "XS",
     "imageRefs": [
       2
-    ]
-  },
-  {
-    "contentKey": "de0300a9deaadf9b",
-    "stock": 4968,
-    "stockLevel": "in-stock",
-    "price": 4.5,
-    "color": {
-      "name": "Graphit Black",
-      "hex": "#1e1e1e"
-    },
-    "size": "M",
-    "imageRefs": [
-      1
     ]
   },
   {

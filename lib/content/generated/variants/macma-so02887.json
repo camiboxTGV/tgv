@@ -1,7 +1,7 @@
 [
   {
     "contentKey": "08f8578243378ed6",
-    "stock": 1670,
+    "stock": 1660,
     "stockLevel": "in-stock",
     "price": 12.78,
     "color": {
@@ -18,8 +18,8 @@
   },
   {
     "contentKey": "1e4fa466ab41037c",
-    "stock": 2,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 12.78,
     "color": {
       "name": "Black",
@@ -34,7 +34,7 @@
   },
   {
     "contentKey": "1e4fa466ab41037c",
-    "stock": 315,
+    "stock": 313,
     "stockLevel": "in-stock",
     "price": 13.69,
     "color": {
@@ -50,7 +50,7 @@
   },
   {
     "contentKey": "2a2b1c4da4db7d4a",
-    "stock": 2552,
+    "stock": 2487,
     "stockLevel": "in-stock",
     "price": 12.78,
     "color": {
@@ -118,7 +118,7 @@
   },
   {
     "contentKey": "6c2061ca33c82cd9",
-    "stock": 3162,
+    "stock": 3087,
     "stockLevel": "in-stock",
     "price": 12.78,
     "color": {
@@ -169,7 +169,7 @@
   },
   {
     "contentKey": "7ed2a69a7087e96c",
-    "stock": 2681,
+    "stock": 2651,
     "stockLevel": "in-stock",
     "price": 12.78,
     "color": {
@@ -186,7 +186,7 @@
   },
   {
     "contentKey": "9c8c2d5f1fc2fd0b",
-    "stock": 1790,
+    "stock": 1734,
     "stockLevel": "in-stock",
     "price": 12.78,
     "color": {
@@ -203,7 +203,7 @@
   },
   {
     "contentKey": "aadc8ab7a915cdd9",
-    "stock": 4288,
+    "stock": 4243,
     "stockLevel": "in-stock",
     "price": 12.78,
     "color": {
@@ -220,7 +220,7 @@
   },
   {
     "contentKey": "b31af37eddb197a0",
-    "stock": 1065,
+    "stock": 1038,
     "stockLevel": "in-stock",
     "price": 12.78,
     "color": {
@@ -236,7 +236,7 @@
   },
   {
     "contentKey": "b31af37eddb197a0",
-    "stock": 590,
+    "stock": 575,
     "stockLevel": "in-stock",
     "price": 13.69,
     "color": {
@@ -252,7 +252,7 @@
   },
   {
     "contentKey": "b5412a6d2733d45d",
-    "stock": 713,
+    "stock": 667,
     "stockLevel": "in-stock",
     "price": 12.78,
     "color": {
@@ -335,7 +335,7 @@
   },
   {
     "contentKey": "d6f9a330f0d0050c",
-    "stock": 3469,
+    "stock": 3448,
     "stockLevel": "in-stock",
     "price": 12.78,
     "color": {
