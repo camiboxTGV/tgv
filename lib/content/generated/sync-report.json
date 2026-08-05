@@ -1,8 +1,8 @@
 {
-  "ranAt": "2026-08-04T08:16:27.280Z",
+  "ranAt": "2026-08-05T08:13:37.538Z",
   "success": true,
-  "totalProducts": 2057,
-  "totalUnclassified": 1,
+  "totalProducts": 2034,
+  "totalUnclassified": 24,
   "suppliers": {
     "fixtures": {
       "id": "fixtures",
@@ -31,11 +31,28 @@
       "displayName": "Macma",
       "ok": true,
       "fetched": 2052,
-      "normalized": 2052,
-      "unclassified": 0,
+      "normalized": 2029,
+      "unclassified": 23,
       "droppedMissingPrice": 0,
       "variantFilesWritten": 0,
-      "newUnmappedCategories": [],
+      "newUnmappedCategories": [
+        {
+          "category": "Beach accessories",
+          "count": 11
+        },
+        {
+          "category": "Beach accessories|Sunglasses",
+          "count": 9
+        },
+        {
+          "category": "Beach accessories|Sunglasses|Bicycle accessories",
+          "count": 2
+        },
+        {
+          "category": "Beach accessories|Towel",
+          "count": 1
+        }
+      ],
       "unknownPersonalizationCodes": [],
       "images": {
         "downloaded": 25926,
@@ -88,7 +105,7 @@
     "home-and-living/kitchen-and-dining/lunch-boxes-and-food-containers": 16,
     "home-and-living/kitchen-and-dining/salt-and-pepper-mills": 6,
     "home-and-living/textiles/towels": 14,
-    "kids-and-games/toys-and-plush/outdoor-and-indoor-games": 46,
+    "kids-and-games/toys-and-plush/outdoor-and-indoor-games": 56,
     "office-and-writing/notebooks-and-planners/notebooks": 78,
     "office-and-writing/office-accessories/business-card-holders": 11,
     "office-and-writing/office-accessories/calculators": 22,
@@ -103,7 +120,6 @@
     "outdoor-and-leisure/outdoor-gear/barbecue-and-picnic-items": 31,
     "outdoor-and-leisure/sports-and-fitness/cycling-accessories": 7,
     "outdoor-and-leisure/sports-and-fitness/fitness-and-yoga-accessories": 7,
-    "outdoor-and-leisure/travel-and-beach/beach-items": 33,
     "outdoor-and-leisure/travel-and-beach/sunglasses": 8,
     "tools-and-keyrings/car-accessories/car-air-fresheners": 9,
     "tools-and-keyrings/keyrings/basic-keyrings": 43,

@@ -204,8 +204,8 @@
   },
   {
     "contentKey": "95d3bad3aeeb159c",
-    "stock": 1,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 3.59,
     "color": {
       "name": "Maroon",
@@ -270,7 +270,7 @@
   },
   {
     "contentKey": "d9e10d9a44584532",
-    "stock": 585,
+    "stock": 584,
     "stockLevel": "in-stock",
     "price": 2.73,
     "color": {
