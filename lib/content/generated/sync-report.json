@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-08-05T08:13:37.538Z",
+  "ranAt": "2026-08-06T08:17:49.267Z",
   "success": true,
-  "totalProducts": 2034,
+  "totalProducts": 2031,
   "totalUnclassified": 24,
   "suppliers": {
     "fixtures": {
@@ -30,8 +30,8 @@
       "id": "macma",
       "displayName": "Macma",
       "ok": true,
-      "fetched": 2052,
-      "normalized": 2029,
+      "fetched": 2049,
+      "normalized": 2026,
       "unclassified": 23,
       "droppedMissingPrice": 0,
       "variantFilesWritten": 0,
@@ -55,7 +55,7 @@
       ],
       "unknownPersonalizationCodes": [],
       "images": {
-        "downloaded": 25926,
+        "downloaded": 25900,
         "skipped": 0,
         "failed": 0
       }
@@ -86,7 +86,7 @@
     "bags/specialty-bags/gym-and-sports-bags": 17,
     "bags/specialty-bags/waterproof-bags": 3,
     "drinkware/bar-and-wine-accessories/bottle-openers-and-stoppers": 17,
-    "drinkware/bar-and-wine-accessories/cocktail-sets": 29,
+    "drinkware/bar-and-wine-accessories/cocktail-sets": 26,
     "drinkware/bar-and-wine-accessories/reusable-straws": 4,
     "drinkware/bottles/hip-flasks": 14,
     "drinkware/bottles/thermal-and-vacuum-flasks": 80,
