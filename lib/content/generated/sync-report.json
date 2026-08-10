@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-08-09T06:44:34.229Z",
+  "ranAt": "2026-08-10T07:05:58.723Z",
   "success": true,
-  "totalProducts": 2031,
+  "totalProducts": 2032,
   "totalUnclassified": 24,
   "suppliers": {
     "fixtures": {
@@ -30,8 +30,8 @@
       "id": "macma",
       "displayName": "Macma",
       "ok": true,
-      "fetched": 2049,
-      "normalized": 2026,
+      "fetched": 2050,
+      "normalized": 2027,
       "unclassified": 23,
       "droppedMissingPrice": 0,
       "variantFilesWritten": 0,
@@ -55,7 +55,7 @@
       ],
       "unknownPersonalizationCodes": [],
       "images": {
-        "downloaded": 25900,
+        "downloaded": 25908,
         "skipped": 0,
         "failed": 0
       }
@@ -89,7 +89,7 @@
     "drinkware/bar-and-wine-accessories/cocktail-sets": 26,
     "drinkware/bar-and-wine-accessories/reusable-straws": 4,
     "drinkware/bottles/hip-flasks": 14,
-    "drinkware/bottles/thermal-and-vacuum-flasks": 80,
+    "drinkware/bottles/thermal-and-vacuum-flasks": 81,
     "drinkware/bottles/water-bottles": 39,
     "drinkware/mugs-and-cups/ceramic-mugs": 82,
     "electronics/audio-devices/bluetooth-speakers": 15,
