@@ -33,7 +33,7 @@
   },
   {
     "contentKey": "5414d096161cfa60",
-    "stock": 16,
+    "stock": 12,
     "stockLevel": "in-stock",
     "price": 3.59,
     "color": {
@@ -96,8 +96,8 @@
   },
   {
     "contentKey": "f7b3db5b3358f207",
-    "stock": 49,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 3.59,
     "color": {
       "name": "Deep Black",
@@ -112,8 +112,8 @@
   },
   {
     "contentKey": "fa3d3aad2fd90b55",
-    "stock": 11,
-    "stockLevel": "in-stock",
+    "stock": 9,
+    "stockLevel": "low",
     "price": 3.59,
     "color": {
       "name": "White",
