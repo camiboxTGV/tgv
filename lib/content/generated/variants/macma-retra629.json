@@ -72,7 +72,7 @@
   },
   {
     "contentKey": "0a055b633b1cc266",
-    "stock": 106,
+    "stock": 105,
     "stockLevel": "in-stock",
     "price": 14.5,
     "color": {
@@ -320,8 +320,8 @@
   },
   {
     "contentKey": "3b227d2ba8346d16",
-    "stock": 1,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 5.59,
     "color": {
       "name": "Hot Pink/Black",
@@ -335,7 +335,7 @@
   },
   {
     "contentKey": "3cfe62eddffc9325",
-    "stock": 178,
+    "stock": 177,
     "stockLevel": "in-stock",
     "price": 5.59,
     "color": {
@@ -378,7 +378,7 @@
   },
   {
     "contentKey": "4b98e8ec38f0306b",
-    "stock": 78,
+    "stock": 77,
     "stockLevel": "in-stock",
     "price": 5.59,
     "color": {
@@ -423,7 +423,7 @@
   },
   {
     "contentKey": "519349d7a80b3b2f",
-    "stock": 83,
+    "stock": 82,
     "stockLevel": "in-stock",
     "price": 5.59,
     "color": {
@@ -1232,7 +1232,7 @@
   },
   {
     "contentKey": "ea459f5ebff9669b",
-    "stock": 154,
+    "stock": 153,
     "stockLevel": "in-stock",
     "price": 5.59,
     "color": {

@@ -1,7 +1,7 @@
 [
   {
     "contentKey": "11d47d34c1ebf68e",
-    "stock": 22,
+    "stock": 13,
     "stockLevel": "in-stock",
     "price": 3.59,
     "color": {
@@ -17,8 +17,8 @@
   },
   {
     "contentKey": "47ed9fa63f689bf2",
-    "stock": 2,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 3.59,
     "color": {
       "name": "Deep Black",
@@ -65,7 +65,7 @@
   },
   {
     "contentKey": "aa3d164f1370fe8f",
-    "stock": 44,
+    "stock": 37,
     "stockLevel": "in-stock",
     "price": 3.59,
     "color": {

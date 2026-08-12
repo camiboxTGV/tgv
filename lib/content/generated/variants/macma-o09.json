@@ -17,8 +17,8 @@
   },
   {
     "contentKey": "0ada671bcf74d11b",
-    "stock": 100,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 8.42,
     "color": {
       "name": "Bottle Green",
@@ -329,7 +329,7 @@
   },
   {
     "contentKey": "96833f2d7147e4be",
-    "stock": 250,
+    "stock": 100,
     "stockLevel": "in-stock",
     "price": 8.42,
     "color": {
@@ -345,8 +345,8 @@
   },
   {
     "contentKey": "9a481a3c5ed54a0d",
-    "stock": 50,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 8.42,
     "color": {
       "name": "Bottle Green",
@@ -455,7 +455,7 @@
   },
   {
     "contentKey": "c45b07f50bf63cfc",
-    "stock": 350,
+    "stock": 200,
     "stockLevel": "in-stock",
     "price": 8.42,
     "color": {
@@ -470,7 +470,7 @@
   },
   {
     "contentKey": "c45b07f50bf63cfc",
-    "stock": 290,
+    "stock": 210,
     "stockLevel": "in-stock",
     "price": 10.13,
     "color": {
