@@ -1,8 +1,8 @@
 [
   {
     "contentKey": "072c9d0840c60d6c",
-    "stock": 1,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 24.7,
     "color": {
       "name": "Red",
@@ -159,8 +159,8 @@
   },
   {
     "contentKey": "a00ca076c0d39dc6",
-    "stock": 15,
-    "stockLevel": "in-stock",
+    "stock": 8,
+    "stockLevel": "low",
     "price": 24.7,
     "color": {
       "name": "Red",

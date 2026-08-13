@@ -1,8 +1,8 @@
 [
   {
     "contentKey": "0b7415a6da65d245",
-    "stock": 12,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 0.66,
     "color": {
       "name": "Light Blue",
@@ -16,7 +16,7 @@
   },
   {
     "contentKey": "27b5814c8fe26679",
-    "stock": 269,
+    "stock": 259,
     "stockLevel": "in-stock",
     "price": 0.84,
     "color": {
@@ -31,7 +31,7 @@
   },
   {
     "contentKey": "7ca66da6df6e4c4d",
-    "stock": 106,
+    "stock": 96,
     "stockLevel": "in-stock",
     "price": 0.84,
     "color": {
@@ -61,7 +61,7 @@
   },
   {
     "contentKey": "d20cf6f7caf752e8",
-    "stock": 37,
+    "stock": 26,
     "stockLevel": "in-stock",
     "price": 0.84,
     "color": {
@@ -76,7 +76,7 @@
   },
   {
     "contentKey": "d809fcd52cc6f480",
-    "stock": 123,
+    "stock": 80,
     "stockLevel": "in-stock",
     "price": 0.66,
     "color": {
