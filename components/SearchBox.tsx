@@ -3,6 +3,7 @@
 import { useEffect, useRef, useState, type ReactNode } from "react"
 import { useRouter } from "next/navigation"
 import type { SearchResponse, SearchResult } from "@/lib/search/types"
+import { SEARCH_RESULT_LIMIT } from "@/lib/search/fuseConfig"
 import { useLanguage } from "@/components/LanguageProvider"
 
 type Status = "idle" | "loading" | "ready" | "error"
@@ -42,6 +43,7 @@ export default function SearchBox({ className, onNavigate }: SearchBoxProps) {
   const router = useRouter()
   const [query, setQuery] = useState("")
   const [results, setResults] = useState<SearchResult[]>([])
+  const [total, setTotal] = useState(0)
   const [status, setStatus] = useState<Status>("idle")
   const [isOpen, setIsOpen] = useState(false)
   const [activeIndex, setActiveIndex] = useState(-1)
@@ -56,23 +58,23 @@ export default function SearchBox({ className, onNavigate }: SearchBoxProps) {
     const trimmed = query.trim()
     if (debounceRef.current) clearTimeout(debounceRef.current)
     if (loadingDelayRef.current) clearTimeout(loadingDelayRef.current)
+    abortRef.current?.abort()
     if (trimmed.length < 2) {
-      abortRef.current?.abort()
       setResults([])
+      setTotal(0)
       setStatus("idle")
       setIsOpen(false)
       setActiveIndex(-1)
       return
     }
     debounceRef.current = setTimeout(() => {
-      abortRef.current?.abort()
       const controller = new AbortController()
       abortRef.current = controller
       loadingDelayRef.current = setTimeout(() => {
         setStatus("loading")
         setIsOpen(true)
       }, 200)
-      fetch(`/api/search?q=${encodeURIComponent(trimmed)}`, {
+      fetch(`/api/search?q=${encodeURIComponent(trimmed)}&limit=${SEARCH_RESULT_LIMIT}`, {
         signal: controller.signal,
       })
         .then((res) => {
@@ -82,6 +84,7 @@ export default function SearchBox({ className, onNavigate }: SearchBoxProps) {
         .then((data) => {
           if (loadingDelayRef.current) clearTimeout(loadingDelayRef.current)
           setResults(data.results)
+          setTotal(data.total)
           setStatus("ready")
           setIsOpen(true)
           setActiveIndex(-1)
@@ -90,6 +93,7 @@ export default function SearchBox({ className, onNavigate }: SearchBoxProps) {
           if (err instanceof DOMException && err.name === "AbortError") return
           if (loadingDelayRef.current) clearTimeout(loadingDelayRef.current)
           setResults([])
+          setTotal(0)
           setStatus("error")
           setIsOpen(true)
         })
@@ -123,6 +127,16 @@ export default function SearchBox({ className, onNavigate }: SearchBoxProps) {
     onNavigate?.()
   }
 
+  function viewAllResults() {
+    const trimmed = query.trim()
+    if (trimmed.length < 2) return
+
+    router.push(`/search?q=${encodeURIComponent(trimmed)}`)
+    setIsOpen(false)
+    setActiveIndex(-1)
+    onNavigate?.()
+  }
+
   function onKeyDown(e: React.KeyboardEvent<HTMLInputElement>) {
     if (e.key === "ArrowDown") {
       e.preventDefault()
@@ -136,9 +150,9 @@ export default function SearchBox({ className, onNavigate }: SearchBoxProps) {
       if (activeIndex >= 0 && results[activeIndex]) {
         e.preventDefault()
         navigate(results[activeIndex])
-      } else if (results.length === 1) {
+      } else if (query.trim().length >= 2) {
         e.preventDefault()
-        navigate(results[0])
+        viewAllResults()
       }
     } else if (e.key === "Escape") {
       setIsOpen(false)
@@ -162,78 +176,97 @@ export default function SearchBox({ className, onNavigate }: SearchBoxProps) {
         value={query}
         onChange={(e) => setQuery(e.target.value)}
         onFocus={() => {
-          if (results.length || status === "error") setIsOpen(true)
+          if (status !== "idle") setIsOpen(true)
         }}
         onKeyDown={onKeyDown}
         className="px-4 py-2.5 w-full text-sm text-[var(--brand-black)] placeholder:text-[var(--text-muted)] bg-[var(--surface-soft)] border border-transparent rounded-xl outline-none transition-colors focus:bg-[var(--surface)] focus:ring-2 focus:ring-[var(--brand-orange)]"
       />
       {isOpen && (
-        <ul
-          id="search-listbox"
-          role="listbox"
-          className="absolute top-full right-0 left-0 z-40 mt-2 max-h-96 overflow-y-auto bg-[var(--surface)] border border-[var(--border-soft)] rounded-xl shadow-lg"
-        >
-          {status === "loading" && (
-            <li className="px-4 py-3 text-sm text-[var(--text-muted)]">
-              {locale === "ro" ? "Se caută…" : "Searching…"}
-            </li>
-          )}
-          {status === "ready" && results.length === 0 && (
-            <li className="px-4 py-3 text-sm text-[var(--text-muted)]">
-              {locale === "ro" ? "Niciun rezultat pentru" : "No matches for"}{" "}
-              &ldquo;{query}&rdquo;
-            </li>
-          )}
-          {status === "error" && (
-            <li className="px-4 py-3 text-sm text-[var(--text-muted)]">
-              {locale === "ro"
-                ? "Căutarea nu este disponibilă. Încearcă din nou în câteva momente."
-                : "Search unavailable. Try again in a moment."}
-            </li>
-          )}
-          {results.map((r, i) => (
-            <li
-              key={r.slug}
-              id={`search-opt-${i}`}
-              role="option"
-              aria-selected={i === activeIndex}
-              onMouseEnter={() => setActiveIndex(i)}
-              onMouseDown={(e) => {
-                e.preventDefault()
-                navigate(r)
-              }}
-              className={`flex items-center gap-3 px-4 py-3 cursor-pointer ${
-                i === activeIndex ? "bg-[var(--surface-soft)]" : ""
-              }`}
-            >
-              {r.thumbnail ? (
-                <img
-                  src={r.thumbnail}
-                  alt=""
-                  loading="lazy"
-                  className="shrink-0 w-12 h-12 rounded-md object-cover bg-[var(--surface-soft)]"
-                />
-              ) : (
-                <div className="shrink-0 w-12 h-12 rounded-md bg-[var(--surface-soft)]" />
-              )}
-              <div className="flex flex-col min-w-0 grow">
-                <span className="text-sm font-medium text-[var(--brand-black)] truncate">
-                  {highlight(r.name, r.matches)}
-                </span>
-                <span className="text-xs text-[var(--text-muted)] truncate">
-                  <span className="font-mono font-semibold text-[var(--text-soft)]">
-                    {r.supplierSku}
+        <div className="absolute top-full right-0 left-0 z-40 mt-2 overflow-hidden rounded-xl border border-[var(--border-soft)] bg-[var(--surface)] shadow-lg">
+          <ul
+            id="search-listbox"
+            role="listbox"
+            className="max-h-96 overflow-y-auto"
+          >
+            {status === "loading" && (
+              <li className="px-4 py-3 text-sm text-[var(--text-muted)]">
+                {locale === "ro" ? "Se caută…" : "Searching…"}
+              </li>
+            )}
+            {status === "ready" && results.length === 0 && (
+              <li className="px-4 py-3 text-sm text-[var(--text-muted)]">
+                {locale === "ro" ? "Niciun rezultat pentru" : "No matches for"}{" "}
+                &ldquo;{query}&rdquo;
+              </li>
+            )}
+            {status === "error" && (
+              <li className="px-4 py-3 text-sm text-[var(--text-muted)]">
+                {locale === "ro"
+                  ? "Căutarea nu este disponibilă. Încearcă din nou în câteva momente."
+                  : "Search unavailable. Try again in a moment."}
+              </li>
+            )}
+            {results.map((r, i) => (
+              <li
+                key={r.slug}
+                id={`search-opt-${i}`}
+                role="option"
+                aria-selected={i === activeIndex}
+                onMouseEnter={() => setActiveIndex(i)}
+                onMouseDown={(e) => {
+                  e.preventDefault()
+                  navigate(r)
+                }}
+                className={`flex items-center gap-3 px-4 py-2.5 cursor-pointer ${
+                  i === activeIndex ? "bg-[var(--surface-soft)]" : ""
+                }`}
+              >
+                {r.thumbnail ? (
+                  <img
+                    src={r.thumbnail}
+                    alt=""
+                    loading="lazy"
+                    className="shrink-0 w-10 h-10 rounded-md object-cover bg-[var(--surface-soft)]"
+                  />
+                ) : (
+                  <div className="shrink-0 w-10 h-10 rounded-md bg-[var(--surface-soft)]" />
+                )}
+                <div className="flex flex-col min-w-0 grow">
+                  <span className="text-sm font-medium text-[var(--brand-black)] truncate">
+                    {highlight(r.name, r.matches)}
                   </span>
-                  {" · "}{r.categoryLabel}
+                  <span className="text-xs text-[var(--text-muted)] truncate">
+                    <span className="font-mono font-semibold text-[var(--text-soft)]">
+                      {r.supplierSku}
+                    </span>
+                    {" · "}{r.categoryLabel}
+                  </span>
+                </div>
+                <span className="shrink-0 text-sm font-semibold text-[var(--brand-orange)]">
+                  {r.priceFrom ? (locale === "ro" ? "de la " : "from ") : ""}
+                  {r.price.toFixed(2)} €
                 </span>
-              </div>
-              <span className="shrink-0 text-sm font-semibold text-[var(--brand-orange)]">
-                {r.priceFrom ? (locale === "ro" ? "de la " : "from ") : ""}
-                {r.price.toFixed(2)} €
+              </li>
+            ))}
+          </ul>
+          {status === "ready" && total > results.length && (
+            <button
+              type="button"
+              onMouseDown={(event) => {
+                event.preventDefault()
+                viewAllResults()
+              }}
+              className="flex w-full items-center justify-between gap-4 border-t border-[var(--border-soft)] px-4 py-3 text-left text-sm font-semibold text-[var(--brand-orange)] transition-colors hover:bg-[var(--surface-soft)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-inset focus-visible:ring-[var(--brand-orange)]"
+            >
+              <span>
+                {locale === "ro"
+                  ? `Vezi toate cele ${total} rezultate`
+                  : `Show all ${total} results`}
               </span>
-            </li>
-          ))}
-        </ul>
+              <span aria-hidden="true">&rarr;</span>
+            </button>
+          )}
+        </div>
       )}
     </div>
   )

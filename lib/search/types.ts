@@ -16,4 +16,6 @@ export interface SearchResult {
 export interface SearchResponse {
   results: SearchResult[]
   query: string
+  total: number
+  hasMore: boolean
 }
