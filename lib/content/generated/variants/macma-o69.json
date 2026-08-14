@@ -192,7 +192,7 @@
   },
   {
     "contentKey": "5e1f48c37dd08a23",
-    "stock": 110,
+    "stock": 35,
     "stockLevel": "in-stock",
     "price": 12.55,
     "color": {
@@ -208,7 +208,7 @@
   },
   {
     "contentKey": "6007cd9ab181e73e",
-    "stock": 170,
+    "stock": 140,
     "stockLevel": "in-stock",
     "price": 12.55,
     "color": {
@@ -318,8 +318,8 @@
   },
   {
     "contentKey": "96e9ac2263ea8c06",
-    "stock": 75,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 12.55,
     "color": {
       "name": "Royal Blue",
@@ -366,8 +366,8 @@
   },
   {
     "contentKey": "a0566b804b69f281",
-    "stock": 20,
-    "stockLevel": "in-stock",
+    "stock": 5,
+    "stockLevel": "low",
     "price": 12.55,
     "color": {
       "name": "Dark Grey",
