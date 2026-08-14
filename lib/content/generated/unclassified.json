@@ -1,24 +1,5 @@
 [
   {
-    "slug": "fixtures-fx-006",
-    "name": "Mystery product",
-    "category": "unclassified",
-    "summary": "Product whose supplier category we haven't mapped yet.",
-    "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
-    "personalizations": [],
-    "supplierId": "fixtures",
-    "supplierSku": "FX-006",
-    "price": 3.9,
-    "priceFrom": false,
-    "stockLevel": "in-stock",
-    "images": [],
-    "fetchedAt": "2026-04-19T00:00:00.000Z",
-    "variantCount": 1,
-    "colorCount": 0,
-    "sizeCount": 0,
-    "hasVariantDetail": false
-  },
-  {
     "slug": "macma-50671",
     "name": "Bicoloured sunglasses with mirrored lenses",
     "category": "unclassified",

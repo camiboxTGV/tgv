@@ -1,4 +1,9 @@
 import type { SupplierAdapter } from "./adapter.ts"
+import {
+  assertSupplierDefinitions,
+  supplierDefinitions,
+  type SupplierDefinition,
+} from "../suppliers.ts"
 
 export interface SupplierRegistration {
   adapter: SupplierAdapter
@@ -10,28 +15,32 @@ export async function loadActiveAdapters(): Promise<SupplierAdapter[]> {
   return registrations.filter((r) => r.enabled).map((r) => r.adapter)
 }
 
-interface AdapterModule {
-  adapter: SupplierAdapter
-}
-
-const KNOWN_ADAPTERS: { path: string; enabled: boolean }[] = [
-  { path: "../_fixtures/adapter.ts", enabled: true },
-  { path: "../macma/adapter.ts", enabled: true },
-]
-
 async function loadAllRegistrations(): Promise<SupplierRegistration[]> {
+  assertSupplierDefinitions()
   const out: SupplierRegistration[] = []
-  for (const entry of KNOWN_ADAPTERS) {
-    const mod = await tryImport(entry.path)
-    if (mod) out.push({ adapter: mod.adapter, enabled: entry.enabled })
+  for (const definition of supplierDefinitions) {
+    if (!definition.enabled) continue
+    const mod = await tryImport(definition)
+    if (mod.adapter.id !== definition.id) {
+      throw new Error(
+        `Supplier adapter id "${mod.adapter.id}" does not match definition "${definition.id}".`,
+      )
+    }
+    if (mod.adapter.displayName !== definition.displayName) {
+      throw new Error(
+        `Supplier adapter "${definition.id}" display name does not match its definition.`,
+      )
+    }
+    out.push({ adapter: mod.adapter, enabled: definition.enabled })
   }
   return out
 }
 
-async function tryImport(path: string): Promise<AdapterModule | null> {
+async function tryImport(definition: SupplierDefinition) {
   try {
-    return (await import(path)) as AdapterModule
-  } catch {
-    return null
+    return await definition.loadAdapter()
+  } catch (error) {
+    const message = error instanceof Error ? error.message : String(error)
+    throw new Error(`Could not load enabled supplier "${definition.id}": ${message}`)
   }
 }

@@ -1,8 +1,9 @@
-import { mkdir, readFile, rename, writeFile } from "node:fs/promises"
+import { mkdir, readFile, readdir, rename, rm, writeFile } from "node:fs/promises"
 import { dirname, join } from "node:path"
 import type { CatalogProduct, ProductVariant } from "../../lib/content/catalog.ts"
 import { flattenTree, categoryTree } from "../../lib/content/categories.ts"
 import type { SupplierAdapter } from "./adapter.ts"
+import { getSupplierDefinition, isSupplierImageUrlAllowed } from "../suppliers.ts"
 import { normalize } from "./normalize.ts"
 import { assertUniqueSlugs } from "./slug.ts"
 import {
@@ -48,6 +49,7 @@ export interface SyncReport {
 interface LastSync {
   ranAt: string
   totalProducts: number
+  suppliers?: Record<string, number>
 }
 
 const GENERATED_ROOT = "lib/content/generated"
@@ -64,6 +66,14 @@ export async function runSync(opts: OrchestratorOptions): Promise<SyncReport> {
   if (active.length === 0) {
     const suffix = supplierFilter ? ` (filter "${supplierFilter}" matched nothing)` : ""
     throw new Error(`No adapters to run${suffix}.`)
+  }
+
+  assertAdapterContracts(active)
+  if (supplierFilter && !dryRun) {
+    throw new Error(
+      "A filtered supplier sync cannot write catalog files because it would remove other suppliers. " +
+        "Use --supplier only with --dry-run, or run an unfiltered full sync.",
+    )
   }
 
   const manifest: ImageManifest = skipImages ? { entries: {} } : await loadManifest(repoRoot)
@@ -93,13 +103,6 @@ export async function runSync(opts: OrchestratorOptions): Promise<SyncReport> {
   const productsPerLeaf = groupByCategory(allProducts)
 
   const last = await loadLastSync(repoRoot)
-  if (last && !force && allProducts.length < last.totalProducts * 0.5) {
-    throw new Error(
-      `Catastrophic drop: previous sync had ${last.totalProducts} products, new run has ${allProducts.length}. ` +
-        `Refusing to write. Re-run with --force to override.`,
-    )
-  }
-
   const report: SyncReport = {
     ranAt: new Date().toISOString(),
     success: results.every((r) => r.summary.ok),
@@ -107,6 +110,19 @@ export async function runSync(opts: OrchestratorOptions): Promise<SyncReport> {
     totalUnclassified: allUnclassified.length,
     suppliers: suppliersReport,
     productsPerLeaf,
+  }
+
+  if (!report.success) {
+    if (dryRun) return report
+    const failures = Object.values(report.suppliers)
+      .filter((supplier) => !supplier.ok)
+      .map((supplier) => `${supplier.id}: ${supplier.error ?? "unknown error"}`)
+      .join("; ")
+    throw new Error(`Supplier sync failed; catalog data was not written. ${failures}`)
+  }
+
+  if (!supplierFilter) {
+    assertSafeCatalogSize(last, report, !!force)
   }
 
   if (dryRun) {
@@ -121,14 +137,20 @@ export async function runSync(opts: OrchestratorOptions): Promise<SyncReport> {
     report,
   )
   for (const [supplierId, count] of variantFilesWritten) {
-    const s = suppliersReport[supplierId]
-    if (s) s.variantFilesWritten = count
+    const supplier = suppliersReport[supplierId]
+    if (supplier) supplier.variantFilesWritten = count
   }
   await saveManifest(repoRoot, manifest)
   await writeFileAtomic(
     join(repoRoot, LAST_SYNC_FILE),
     JSON.stringify(
-      { ranAt: report.ranAt, totalProducts: report.totalProducts } satisfies LastSync,
+      {
+        ranAt: report.ranAt,
+        totalProducts: report.totalProducts,
+        suppliers: Object.fromEntries(
+          Object.entries(report.suppliers).map(([id, supplier]) => [id, supplier.normalized]),
+        ),
+      } satisfies LastSync,
       null,
       2,
     ),
@@ -174,6 +196,14 @@ async function runOneAdapter(
     return { summary, mapped, unclassified, variantsBySlug }
   }
   summary.fetched = raws.length
+
+  try {
+    assertRawProducts(adapter, raws)
+  } catch (err) {
+    summary.ok = false
+    summary.error = (err as Error).message
+    return { summary, mapped, unclassified, variantsBySlug }
+  }
 
   const unmappedCounts = new Map<string, number>()
 
@@ -224,7 +254,89 @@ async function runOneAdapter(
     .map(([category, count]) => ({ category, count }))
     .sort((a, b) => b.count - a.count)
 
+  if (summary.images.failed > 0) {
+    summary.ok = false
+    summary.error = summary.error ?? `${summary.images.failed} product image downloads failed.`
+  }
+
   return { summary, mapped, unclassified, variantsBySlug }
+}
+
+function assertAdapterContracts(adapters: SupplierAdapter[]): void {
+  const seen = new Set<string>()
+  for (const adapter of adapters) {
+    if (seen.has(adapter.id)) {
+      throw new Error(`Duplicate active supplier adapter id "${adapter.id}".`)
+    }
+    seen.add(adapter.id)
+
+    const definition = getSupplierDefinition(adapter.id)
+    if (!definition) {
+      throw new Error(`Supplier adapter "${adapter.id}" has no supplier definition.`)
+    }
+    if (definition.displayName !== adapter.displayName) {
+      throw new Error(`Supplier adapter "${adapter.id}" does not match its definition.`)
+    }
+  }
+}
+
+function assertRawProducts(
+  adapter: SupplierAdapter,
+  raws: Awaited<ReturnType<SupplierAdapter["fetchAll"]>>,
+): void {
+  const definition = getSupplierDefinition(adapter.id)
+  if (!definition) throw new Error(`Supplier "${adapter.id}" has no definition.`)
+
+  const seenSkus = new Set<string>()
+  for (let index = 0; index < raws.length; index++) {
+    const raw = raws[index]
+    const label = `${adapter.id} product #${index + 1}`
+    if (raw.supplierId !== adapter.id) {
+      throw new Error(`${label} declares supplierId "${raw.supplierId}".`)
+    }
+    if (!raw.supplierSku?.trim()) throw new Error(`${label} has no supplier SKU.`)
+    if (seenSkus.has(raw.supplierSku)) {
+      throw new Error(`Supplier "${adapter.id}" returned duplicate SKU "${raw.supplierSku}".`)
+    }
+    seenSkus.add(raw.supplierSku)
+    if (!raw.name?.trim()) throw new Error(`${label} has no product name.`)
+    if (!Array.isArray(raw.images)) throw new Error(`${label} has an invalid images field.`)
+    if (!definition.allowProductsWithoutImages && raw.images.length === 0) {
+      throw new Error(`${label} (${raw.supplierSku}) has no images.`)
+    }
+
+    const imageUrls = [
+      ...raw.images,
+      ...(raw.variants ?? []).flatMap((variant) => variant.images ?? []),
+    ]
+    for (const imageUrl of imageUrls) {
+      if (!isSupplierImageUrlAllowed(adapter.id, imageUrl)) {
+        throw new Error(
+          `${label} (${raw.supplierSku}) uses an unapproved image URL: ${imageUrl}`,
+        )
+      }
+    }
+  }
+}
+
+function assertSafeCatalogSize(last: LastSync | null, report: SyncReport, force: boolean): void {
+  if (!last || force) return
+  for (const [supplierId, previousCount] of Object.entries(last.suppliers ?? {})) {
+    const currentCount = report.suppliers[supplierId]?.normalized ?? 0
+    if (currentCount < previousCount * 0.5) {
+      throw new Error(
+        `Catastrophic supplier drop for "${supplierId}": previous sync had ${previousCount} mapped products, ` +
+          `new run has ${currentCount}. Refusing to write. Re-run with --force to override.`,
+      )
+    }
+  }
+
+  if (report.totalProducts < last.totalProducts * 0.5) {
+    throw new Error(
+      `Catastrophic drop: previous sync had ${last.totalProducts} products, new run has ${report.totalProducts}. ` +
+        `Refusing to write. Re-run with --force to override.`,
+    )
+  }
 }
 
 function sortProducts(list: CatalogProduct[]): void {
@@ -261,15 +373,19 @@ async function writeCatalog(
 
   const productsDir = join(repoRoot, PRODUCTS_DIR)
   await mkdir(productsDir, { recursive: true })
+  const expectedProductFiles = new Set<string>()
 
   for (const [slugPath, list] of byCategory) {
     const file = join(productsDir, `${slugPath}.json`)
+    expectedProductFiles.add(file)
     await mkdir(dirname(file), { recursive: true })
     await writeFileAtomic(file, JSON.stringify(list, null, 2))
   }
+  await pruneStaleJsonFiles(productsDir, expectedProductFiles)
 
   const variantsDir = join(repoRoot, VARIANTS_DIR)
   await mkdir(variantsDir, { recursive: true })
+  const expectedVariantFiles = new Set<string>()
   const productsBySlug = new Map<string, CatalogProduct>()
   for (const p of mapped) productsBySlug.set(p.slug, p)
   for (const p of unclassified) productsBySlug.set(p.slug, p)
@@ -280,12 +396,19 @@ async function writeCatalog(
     if (!vs || vs.length === 0) continue
     const sorted = [...vs].sort((a, b) => a.contentKey.localeCompare(b.contentKey))
     const file = join(variantsDir, `${slug}.json`)
+    expectedVariantFiles.add(file)
     await writeFileAtomic(file, JSON.stringify(sorted, null, 2))
     const supplierId = productsBySlug.get(slug)?.supplierId ?? "unknown"
     perSupplierVariantCount.set(
       supplierId,
       (perSupplierVariantCount.get(supplierId) ?? 0) + 1,
     )
+  }
+  await pruneStaleJsonFiles(variantsDir, expectedVariantFiles)
+
+  for (const [supplierId, count] of perSupplierVariantCount) {
+    const supplier = report.suppliers[supplierId]
+    if (supplier) supplier.variantFilesWritten = count
   }
 
   await writeFileAtomic(
@@ -313,9 +436,40 @@ function buildIndex(byCategory: Map<string, CatalogProduct[]>): string {
 async function loadLastSync(repoRoot: string): Promise<LastSync | null> {
   try {
     const txt = await readFile(join(repoRoot, LAST_SYNC_FILE), "utf8")
-    return JSON.parse(txt) as LastSync
+    const last = JSON.parse(txt) as LastSync
+    if (last.suppliers) return last
+
+    try {
+      const reportText = await readFile(join(repoRoot, SYNC_REPORT_FILE), "utf8")
+      const report = JSON.parse(reportText) as SyncReport
+      last.suppliers = Object.fromEntries(
+        Object.entries(report.suppliers).map(([id, supplier]) => [id, supplier.normalized]),
+      )
+    } catch {
+      // Older syncs may not have a usable report; the global guard still applies.
+    }
+    return last
   } catch {
     return null
+  }
+}
+
+async function pruneStaleJsonFiles(root: string, expected: Set<string>): Promise<void> {
+  let entries
+  try {
+    entries = await readdir(root, { withFileTypes: true })
+  } catch (error) {
+    if ((error as NodeJS.ErrnoException).code === "ENOENT") return
+    throw error
+  }
+
+  for (const entry of entries) {
+    const fullPath = join(root, entry.name)
+    if (entry.isDirectory()) {
+      await pruneStaleJsonFiles(fullPath, expected)
+    } else if (entry.isFile() && entry.name.endsWith(".json") && !expected.has(fullPath)) {
+      await rm(fullPath, { force: true })
+    }
   }
 }
 
