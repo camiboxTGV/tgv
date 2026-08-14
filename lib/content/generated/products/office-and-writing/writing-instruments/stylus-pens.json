@@ -39,7 +39,7 @@
       "https://macma.ro/products/jpg/M/1323913_3.jpg",
       "https://macma.ro/products/jpg/M/1323913_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -47,6 +47,47 @@
       {
         "name": "Beige",
         "hex": "#ffe4c4"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "ø 1,1 x 14,2 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Bamboo, Metal"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "96081092"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "500 pcs",
+        "valueRo": "500 buc."
       }
     ],
     "brand": "M-Collection",

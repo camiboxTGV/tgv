@@ -36,7 +36,7 @@
       "https://macma.ro/products/jpg/M/other/8880504_2.jpg",
       "https://macma.ro/products/jpg/M/other/8880504_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -48,6 +48,47 @@
       {
         "name": "White",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "6 × 5,5 × 2,3"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Plastic"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "90178010"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "25 pcs",
+        "valueRo": "25 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "250 pcs",
+        "valueRo": "250 buc."
       }
     ],
     "brand": "M-Collection",
@@ -93,7 +134,7 @@
       "https://macma.ro/products/jpg/M/9879413_1.jpg",
       "https://macma.ro/products/jpg/M/9879413_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -101,6 +142,43 @@
       {
         "name": "Beige",
         "hex": "#ffe4c4"
+      }
+    ],
+    "availableSizes": [
+      "size 10"
+    ],
+    "specifications": [
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Genuine_leather"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "42032910"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "60 pcs",
+        "valueRo": "60 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "60 pcs",
+        "valueRo": "60 buc."
       }
     ],
     "brand": "M-Collection",
@@ -150,7 +228,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/cabernet-white_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/cabernet-black_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 1,
@@ -162,6 +240,37 @@
       {
         "name": "White",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [
+      "One Size"
+    ],
+    "specifications": [
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "62114310"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
       }
     ],
     "brand": "Valento",
@@ -211,7 +320,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/coffee-white_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/coffee-black_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 1,
@@ -223,6 +332,37 @@
       {
         "name": "White",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [
+      "One Size"
+    ],
+    "specifications": [
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "62114310"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
       }
     ],
     "brand": "Valento",
@@ -250,7 +390,7 @@
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/bower-black_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -258,6 +398,37 @@
       {
         "name": "Black",
         "hex": "#343331"
+      }
+    ],
+    "availableSizes": [
+      "Adult"
+    ],
+    "specifications": [
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "65050090"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "20 pcs",
+        "valueRo": "20 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "300 pcs",
+        "valueRo": "300 buc."
       }
     ],
     "brand": "Valento",
@@ -285,7 +456,7 @@
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/spinner-black_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -293,6 +464,37 @@
       {
         "name": "Black",
         "hex": "#343331"
+      }
+    ],
+    "availableSizes": [
+      "Adult"
+    ],
+    "specifications": [
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "65050090"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "10 pcs",
+        "valueRo": "10 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "200 pcs",
+        "valueRo": "200 buc."
       }
     ],
     "brand": "Valento",

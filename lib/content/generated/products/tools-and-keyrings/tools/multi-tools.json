@@ -43,7 +43,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2400303aj3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2400304aj3_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 1,
@@ -67,6 +67,37 @@
       {
         "name": "Red",
         "hex": "#cc0000"
+      }
+    ],
+    "availableSizes": [
+      "7"
+    ],
+    "specifications": [
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "82032000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
       }
     ],
     "brand": "Schwarzwolf",
@@ -131,7 +162,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2400404aj3_5.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2400404aj3_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 1,
@@ -151,6 +182,43 @@
       {
         "name": "Red",
         "hex": "#cc0000"
+      }
+    ],
+    "availableSizes": [
+      "10"
+    ],
+    "specifications": [
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Stainless_steel"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "82032000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
       }
     ],
     "brand": "Schwarzwolf",
@@ -210,7 +278,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/8141901_lifestyle_4.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8141901_lifestyle_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -218,6 +286,47 @@
       {
         "name": "Brown",
         "hex": "#8b4513"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "5,6 × 3 × 12,8 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Stainless_steel"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "82032000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "20 pcs",
+        "valueRo": "20 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "60 pcs",
+        "valueRo": "60 buc."
       }
     ],
     "brand": "M-Collection",
@@ -269,7 +378,7 @@
       "https://macma.ro/products/jpg/M/8312706_7.jpg",
       "https://macma.ro/products/jpg/M/8312706_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -277,6 +386,47 @@
       {
         "name": "White",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "16,5 x 6,2 x 1,7 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Plastic, Stainless_steel"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "82060000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "25 pcs",
+        "valueRo": "25 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
       }
     ],
     "brand": "M-Collection",
@@ -325,7 +475,7 @@
       "https://macma.ro/products/jpg/M/8782307_3_print.jpg",
       "https://macma.ro/products/jpg/M/8782307_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -333,6 +483,47 @@
       {
         "name": "Grey",
         "hex": "#909090"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "20 × 13,5 × 3 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Aluminium"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "82060000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "10 pcs",
+        "valueRo": "10 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "20 pcs",
+        "valueRo": "20 buc."
       }
     ],
     "brand": "M-Collection",
@@ -386,7 +577,7 @@
       "https://macma.ro/products/jpg/M/8800207_2_print.jpg",
       "https://macma.ro/products/jpg/M/8800207_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -394,6 +585,47 @@
       {
         "name": "Grey",
         "hex": "#909090"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "15,5 × 10 × 5 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Metal, Plastic"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "82060000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "6 pcs",
+        "valueRo": "6 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "24 pcs",
+        "valueRo": "24 buc."
       }
     ],
     "brand": "M-Collection",
@@ -454,7 +686,7 @@
       "https://macma.ro/products/jpg/M/9081703_9.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/9081703_lifestyle_10.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -462,6 +694,47 @@
       {
         "name": "Black",
         "hex": "#000000"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "15,1 × 5,6 × 2,3 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Stainless_steel"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "82119300"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "18 pcs",
+        "valueRo": "18 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "36 pcs",
+        "valueRo": "36 buc."
       }
     ],
     "brand": "M-Collection",
@@ -509,7 +782,7 @@
       "https://macma.ro/products/jpg/M/9323013_3.jpg",
       "https://macma.ro/products/jpg/M/9323013_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -517,6 +790,47 @@
       {
         "name": "Beige",
         "hex": "#ffe4c4"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "7,2 × 3,5 × 1,8 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Bamboo, Metal"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "82032000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "20 pcs",
+        "valueRo": "20 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "120 pcs",
+        "valueRo": "120 buc."
       }
     ],
     "brand": "M-Collection",
@@ -564,7 +878,7 @@
       "https://macma.ro/products/jpg/M/9324513_4.jpg",
       "https://macma.ro/products/jpg/M/9324513_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -572,6 +886,47 @@
       {
         "name": "Beige",
         "hex": "#ffe4c4"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "17,5 × 14,5 × 2,5 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Cotton"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "82060000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "40 pcs",
+        "valueRo": "40 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "80 pcs",
+        "valueRo": "80 buc."
       }
     ],
     "brand": "M-Collection",
@@ -620,7 +975,7 @@
       "https://macma.ro/products/jpg/M/9435207_3.jpg",
       "https://macma.ro/products/jpg/M/9435207_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -628,6 +983,47 @@
       {
         "name": "Grey",
         "hex": "#909090"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "40 x 2,1 x 4,9 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Aluminium"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "90318020"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "25 pcs",
+        "valueRo": "25 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
       }
     ],
     "brand": "CrisMa",
@@ -668,7 +1064,7 @@
       "https://macma.ro/products/jpg/M/9489407_4.jpg",
       "https://macma.ro/products/jpg/M/9489407_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -676,6 +1072,47 @@
       {
         "name": "Grey",
         "hex": "#909090"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "17,8 x 9,6 x 3,4 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Stainless_steel"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "82060000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "20 pcs",
+        "valueRo": "20 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "20 pcs",
+        "valueRo": "20 buc."
       }
     ],
     "brand": "M-Collection",
@@ -722,7 +1159,7 @@
       "https://macma.ro/products/jpg/M/9497907_9.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/9497907_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -730,6 +1167,47 @@
       {
         "name": "Grey",
         "hex": "#909090"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "16,2 x 2,2 x 5,7 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Stainless_steel"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "82032000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "40 pcs",
+        "valueRo": "40 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "40 pcs",
+        "valueRo": "40 buc."
       }
     ],
     "brand": "CrisMa",
@@ -774,7 +1252,7 @@
       "https://macma.ro/products/jpg/M/9541903_5.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/9541903_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -782,6 +1260,41 @@
       {
         "name": "Black",
         "hex": "#000000"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "8,8 x 2,6 x 1,1 cm"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "82059090"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "100 pcs",
+        "valueRo": "100 buc."
       }
     ],
     "brand": "M-Collection",
@@ -827,7 +1340,7 @@
       "https://macma.ro/products/jpg/M/9542377_6.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/9542377_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -835,6 +1348,41 @@
       {
         "name": "Dark Grey",
         "hex": "#646464"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "14,8 x 3,8 x 3,8 cm"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "82054000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "25 pcs",
+        "valueRo": "25 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
       }
     ],
     "brand": "CrisMa",
@@ -887,7 +1435,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/9553177_lifestyle_1.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/9553177_lifestyle_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -895,6 +1443,41 @@
       {
         "name": "Dark Grey",
         "hex": "#646464"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "ø 5,8 x 10,5 cm"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "82054000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
       }
     ],
     "brand": "CrisMa",
@@ -939,7 +1522,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f1904400aj3_6.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f1904400aj3_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -947,6 +1530,47 @@
       {
         "name": "Black/Orange",
         "hex": "#232350"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "20 × 130"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Plastic, Stainless_steel"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "82119200"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "96 pcs",
+        "valueRo": "96 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "96 pcs",
+        "valueRo": "96 buc."
       }
     ],
     "brand": "Schwarzwolf",
@@ -993,7 +1617,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2400200aj3_8.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2400200aj3_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1001,6 +1625,47 @@
       {
         "name": "Black",
         "hex": "#000000"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "10 × 1,5 × 2"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Stainless_steel"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "82119300"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
       }
     ],
     "brand": "Schwarzwolf",
@@ -1053,7 +1718,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2400500aj3_5.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2400500aj3_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1061,6 +1726,47 @@
       {
         "name": "Black",
         "hex": "#000000"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "Ø 10 × 4.5 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Stainless_steel"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "82032000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
       }
     ],
     "brand": "Schwarzwolf",
@@ -1098,7 +1804,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2400700sa3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2400700sa3_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1106,6 +1812,47 @@
       {
         "name": "Grey",
         "hex": "#909090"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "9,3 × 2,5 × 1,7"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Stainless_steel, Wood"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "82119300"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "200 pcs",
+        "valueRo": "200 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "200 pcs",
+        "valueRo": "200 buc."
       }
     ],
     "brand": "Schwarzwolf",
@@ -1146,7 +1893,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2405700aj3_2.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2405700aj3_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1154,6 +1901,47 @@
       {
         "name": "Black",
         "hex": "#000000"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "in the closed state 10.5 × 4 × 2 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Stainless_steel"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "82032000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "40 pcs",
+        "valueRo": "40 buc."
       }
     ],
     "brand": "Schwarzwolf",
@@ -1195,7 +1983,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2405900aj3_b.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2405900aj3_c.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -1203,6 +1991,23 @@
       {
         "name": "Black",
         "hex": "#000000"
+      }
+    ],
+    "availableSizes": [
+      "72"
+    ],
+    "specifications": [
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "82032000"
       }
     ],
     "brand": "Schwarzwolf",
@@ -1238,7 +2043,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2406100aj3_g_0.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2406100aj3_h_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1246,6 +2051,47 @@
       {
         "name": "Black",
         "hex": "#000000"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "110 x 22 x 31 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Aluminium, Stainless_steel"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "82119300"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
       }
     ],
     "brand": "Schwarzwolf",
@@ -1291,7 +2137,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2405800aj3_7.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2405800aj3_8.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1299,6 +2145,47 @@
       {
         "name": "Black",
         "hex": "#000000"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "97 × 19 × 27"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Stainless_steel"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "82119300"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "120 pcs",
+        "valueRo": "120 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "120 pcs",
+        "valueRo": "120 buc."
       }
     ],
     "brand": "Schwarzwolf",

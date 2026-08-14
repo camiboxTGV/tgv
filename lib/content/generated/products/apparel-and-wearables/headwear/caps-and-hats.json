@@ -31,7 +31,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/t4000200sa3_3.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/t4000200sa3_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -39,6 +39,47 @@
       {
         "name": "Red",
         "hex": "#cc0000"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "48 × 24,8"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Polyester"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61178080"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "500 pcs",
+        "valueRo": "500 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "500 pcs",
+        "valueRo": "500 buc."
       }
     ],
     "brand": "Schwarzwolf",
@@ -151,7 +192,7 @@
       "https://macma.ro/products/jpg/M/5046644_2.jpg",
       "https://macma.ro/products/jpg/M/5046644_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 11,
     "colorCount": 11,
     "sizeCount": 1,
@@ -199,6 +240,43 @@
       {
         "name": "Yellow",
         "hex": "#ffcc00"
+      }
+    ],
+    "availableSizes": [
+      "adjustable"
+    ],
+    "specifications": [
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Cotton"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "65050030"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "200 pcs",
+        "valueRo": "200 buc."
       }
     ],
     "brand": "M-Collection",
@@ -260,7 +338,7 @@
       "https://macma.ro/products/jpg/M/5147544_2.jpg",
       "https://macma.ro/products/jpg/M/5147544_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 1,
@@ -280,6 +358,43 @@
       {
         "name": "White",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [
+      "adjustable"
+    ],
+    "specifications": [
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Polyester"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "65050030"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "200 pcs",
+        "valueRo": "200 buc."
       }
     ],
     "brand": "M-Collection",
@@ -379,7 +494,7 @@
       "https://macma.ro/products/jpg/M/5246677_2.jpg",
       "https://macma.ro/products/jpg/M/5246677_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 10,
     "colorCount": 10,
     "sizeCount": 1,
@@ -423,6 +538,43 @@
       {
         "name": "Yellow",
         "hex": "#ffcc00"
+      }
+    ],
+    "availableSizes": [
+      "adjustable"
+    ],
+    "specifications": [
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Cotton"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "65050030"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "200 pcs",
+        "valueRo": "200 buc."
       }
     ],
     "brand": "M-Collection",
@@ -470,7 +622,7 @@
       "https://macma.ro/products/jpg/M/5363513_3.jpg",
       "https://macma.ro/products/jpg/M/5363513_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -478,6 +630,47 @@
       {
         "name": "Beige",
         "hex": "#ffe4c4"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "16 × 27 × 12,5 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Organic_cotton, Cotton"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "50030000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "200 pcs",
+        "valueRo": "200 buc."
       }
     ],
     "brand": "M-Collection",
@@ -565,7 +758,7 @@
       "https://macma.ro/products/jpg/M/5379744_5.jpg",
       "https://macma.ro/products/jpg/M/5379744_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -589,6 +782,47 @@
       {
         "name": "Red",
         "hex": "#cc0000"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "28 × 16 × 11 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Cotton, Elasthan"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "65050030"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "200 pcs",
+        "valueRo": "200 buc."
       }
     ],
     "brand": "CrisMa",
@@ -666,7 +900,7 @@
       "https://macma.ro/products/jpg/M/5391844_6.jpg",
       "https://macma.ro/products/jpg/M/5391844_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -686,6 +920,47 @@
       {
         "name": "Red",
         "hex": "#cc0000"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "26,5 × 18 × 10,5 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Cotton"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "65050030"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "25 / 100 pcs",
+        "valueRo": "25 / 100 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "100 pcs",
+        "valueRo": "100 buc."
       }
     ],
     "brand": "CrisMa",
@@ -751,7 +1026,7 @@
       "https://macma.ro/products/jpg/M/5391924_5.jpg",
       "https://macma.ro/products/jpg/M/5391924_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -767,6 +1042,47 @@
       {
         "name": "Red",
         "hex": "#cc0000"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "27 × 19 × 11 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Cotton"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "65050030"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "25 pcs",
+        "valueRo": "25 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "100 pcs",
+        "valueRo": "100 buc."
       }
     ],
     "brand": "CrisMa",
@@ -813,7 +1129,7 @@
       "https://macma.ro/products/jpg/M/5432277_1.jpg",
       "https://macma.ro/products/jpg/M/5432277_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -821,6 +1137,47 @@
       {
         "name": "Dark Grey",
         "hex": "#646464"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "20,5 x 2 x 22 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "RPET, Acrylic"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "65050090"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "10 pcs",
+        "valueRo": "10 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "100 pcs",
+        "valueRo": "100 buc."
       }
     ],
     "brand": "M-Collection",
@@ -855,7 +1212,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/t4000200aj3_7.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/t4000200aj3_8.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -863,6 +1220,41 @@
       {
         "name": "Black",
         "hex": "#000000"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "25 × 24 cm."
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61171000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
       }
     ],
     "brand": "Schwarzwolf",
@@ -900,7 +1292,7 @@
       "https://macma.ro/products/jpg/TEXTIL/BEECHFIELD/b385r-vanilla_0.jpg",
       "https://macma.ro/products/jpg/TEXTIL/BEECHFIELD/b385r-violet_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 1,
@@ -928,6 +1320,43 @@
       {
         "name": "Violet",
         "hex": "#8381ba"
+      }
+    ],
+    "availableSizes": [
+      "ONE SIZE"
+    ],
+    "specifications": [
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "65050090"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "144 pcs",
+        "valueRo": "144 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "144 pcs",
+        "valueRo": "144 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
       }
     ],
     "brand": "Beechfield",
@@ -1050,7 +1479,7 @@
       "https://macma.ro/products/jpg/TEXTIL/BEECHFIELD/b45-yellow_0.jpg",
       "https://macma.ro/products/jpg/TEXTIL/BEECHFIELD/b45-yellow_flatshot_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 33,
     "colorCount": 33,
     "sizeCount": 1,
@@ -1188,6 +1617,43 @@
         "hex": "#fcf5a4"
       }
     ],
+    "availableSizes": [
+      "ONE SIZE"
+    ],
+    "specifications": [
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "65050090"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "144 pcs",
+        "valueRo": "144 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "144 pcs",
+        "valueRo": "144 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
+      }
+    ],
     "brand": "Beechfield",
     "descriptionLong": "100% Soft-Touch Acrylic. Luxurious double layer knit. Cuffed design for optimal decoration. Also available in junior size.",
     "hasVariantDetail": true
@@ -1218,7 +1684,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/fort-orionnavyblue-lottored_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/fort-royalblue-lemonyellow_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 1,
@@ -1238,6 +1704,37 @@
       {
         "name": "Royal Blue-Lemon Yellow",
         "hex": "#1c5e98"
+      }
+    ],
+    "availableSizes": [
+      "Adult"
+    ],
+    "specifications": [
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "65050030"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "200 pcs",
+        "valueRo": "200 buc."
       }
     ],
     "brand": "Valento",
@@ -1334,7 +1831,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/govapro-kellygreen_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/govapro-applegreen_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 32,
     "colorCount": 19,
     "sizeCount": 2,
@@ -1416,6 +1913,44 @@
         "hex": "#feffff"
       }
     ],
+    "availableSizes": [
+      "Adult",
+      "Kid"
+    ],
+    "specifications": [
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "65050030"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "300 pcs",
+        "valueRo": "300 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
+      }
+    ],
     "brand": "Valento",
     "weightGrams": 50,
     "descriptionLong": "100% cotton. 175 grs/m2 twill fabric. 5 panels. Front without seam for printing. Curved visor. Backvelcro closure. 2 embroidered vents. Removable front reinforcement. 300 units per box. 50 units perpackage: 1 size, 1 color.",
@@ -1455,7 +1990,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/toronto-kellygreen_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/toronto-applegreen_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 8,
     "colorCount": 8,
     "sizeCount": 1,
@@ -1493,6 +2028,43 @@
         "hex": "#ffffff"
       }
     ],
+    "availableSizes": [
+      "Adult"
+    ],
+    "specifications": [
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "65050030"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "200 pcs",
+        "valueRo": "200 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
+      }
+    ],
     "brand": "Valento",
     "weightGrams": 105,
     "descriptionLong": "6 panel baseball cap with curved visor, adjustable velcro closure, 6 embroidered vents, full reinforcement on the front. Made of 100% combed cotton. Grammage 270 gr/m2 twill fabric.",
@@ -1520,7 +2092,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/tuxton-lemonyellow-bottlegreen_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/tuxton-orionnavyblue-lemonyellow_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 1,
@@ -1532,6 +2104,37 @@
       {
         "name": "Orion Navy Blue",
         "hex": "#12315a"
+      }
+    ],
+    "availableSizes": [
+      "Adult"
+    ],
+    "specifications": [
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "65050030"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "200 pcs",
+        "valueRo": "200 buc."
       }
     ],
     "brand": "Valento",
@@ -1593,7 +2196,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/prvapol-kellygreen_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/prvapol-applegreen_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 18,
     "colorCount": 18,
     "sizeCount": 2,
@@ -1671,6 +2274,44 @@
         "hex": "#ffffff"
       }
     ],
+    "availableSizes": [
+      "adult",
+      "Adult"
+    ],
+    "specifications": [
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61171000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "10 pcs",
+        "valueRo": "10 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "100 / 200 pcs",
+        "valueRo": "100 / 200 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
+      }
+    ],
     "brand": "Valento",
     "weightGrams": 50,
     "descriptionLong": "Anti-pilling polar winter hat with drawstring that can be used as a scarf. Made of 100% polyester. Grammage 220 gr/m2.",
@@ -1720,7 +2361,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/t4000100aj3_4.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/t4000100aj3_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1728,6 +2369,41 @@
       {
         "name": "Fekete/Szürke",
         "hex": "#000000"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "26x20,5"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61171000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
       }
     ],
     "brand": "Schwarzwolf",

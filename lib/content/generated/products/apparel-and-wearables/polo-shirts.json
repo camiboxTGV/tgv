@@ -170,7 +170,7 @@
       "https://macma.ro/products/jpg/TEXTIL/FRUIT/f22-heatherroyal_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/FRUIT/f22-heatherred_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 101,
     "colorCount": 16,
     "sizeCount": 4,
@@ -238,6 +238,52 @@
       {
         "name": "White",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL · 3XL · 4XL · 5XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD · MO"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61052010"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "12 / 36 pcs",
+        "valueRo": "12 / 36 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "12 / 36 pcs",
+        "valueRo": "12 / 36 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
       }
     ],
     "brand": "Fruit of the Loom",
@@ -368,7 +414,7 @@
       "https://macma.ro/products/jpg/TEXTIL/FRUIT/f38-sunflower_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/FRUIT/f38-deepnavy_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 59,
     "colorCount": 10,
     "sizeCount": 6,
@@ -412,6 +458,48 @@
       {
         "name": "White",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [
+      "12/13",
+      "14/15",
+      "3/4",
+      "5/6",
+      "7/8",
+      "9/11"
+    ],
+    "specifications": [
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "EG · MO · KH"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61052010"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "12 / 36 pcs",
+        "valueRo": "12 / 36 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "36 pcs",
+        "valueRo": "36 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "kids"
       }
     ],
     "brand": "Fruit of the Loom",
@@ -543,7 +631,7 @@
       "https://macma.ro/products/jpg/TEXTIL/FRUIT/f66-lightgraphite_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/FRUIT/f66-deepnavy_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 60,
     "colorCount": 10,
     "sizeCount": 4,
@@ -587,6 +675,52 @@
       {
         "name": "White",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL · 3XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "MO"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61051000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "12 / 36 / 48 pcs",
+        "valueRo": "12 / 36 / 48 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "36 / 48 pcs",
+        "valueRo": "36 / 48 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
       }
     ],
     "brand": "Fruit of the Loom",
@@ -683,7 +817,7 @@
       "https://macma.ro/products/jpg/TEXTIL/FRUIT/f68-royalblue_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/FRUIT/f68-skyblue_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 30,
     "colorCount": 5,
     "sizeCount": 5,
@@ -707,6 +841,53 @@
       {
         "name": "White",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "EG"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61062000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "12 pcs",
+        "valueRo": "12 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "36 pcs",
+        "valueRo": "36 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "female"
       }
     ],
     "brand": "Fruit of the Loom",
@@ -913,7 +1094,7 @@
       "https://macma.ro/products/jpg/TEXTIL/FRUIT/fn01-lime_02.jpg",
       "https://macma.ro/products/jpg/TEXTIL/FRUIT/fn01-lime_03.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 93,
     "colorCount": 16,
     "sizeCount": 5,
@@ -981,6 +1162,53 @@
       {
         "name": "White",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "EG"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61061000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "12 / 36 pcs",
+        "valueRo": "12 / 36 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "36 pcs",
+        "valueRo": "36 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "female"
       }
     ],
     "brand": "Fruit of the Loom",
@@ -1092,7 +1320,7 @@
       "https://macma.ro/products/jpg/TEXTIL/FRUIT/fn66-heathergreen_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/FRUIT/fn66-darkheathergrey_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 39,
     "colorCount": 11,
     "sizeCount": 4,
@@ -1140,6 +1368,52 @@
       {
         "name": "Zink",
         "hex": "#b0b0b0"
+      }
+    ],
+    "availableSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL · 3XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "MO"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61051000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "36 pcs",
+        "valueRo": "36 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
       }
     ],
     "brand": "Fruit of the Loom",
@@ -1340,7 +1614,7 @@
       "https://macma.ro/products/jpg/TEXTIL/FRUIT/fu21-lime_02.jpg",
       "https://macma.ro/products/jpg/TEXTIL/FRUIT/fu21-lime_03.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 96,
     "colorCount": 16,
     "sizeCount": 4,
@@ -1410,6 +1684,52 @@
         "hex": "#ffffff"
       }
     ],
+    "availableSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL · 3XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "MO"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61051000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "12 / 36 pcs",
+        "valueRo": "12 / 36 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "36 pcs",
+        "valueRo": "36 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
+      }
+    ],
     "brand": "Fruit of the Loom",
     "weightGrams": 334,
     "descriptionLong": "Nicely colored, pretty comfortable and quite nicely profitable. Polo 100% ring-spun combed cotton short-sleeved men's polo shirt, 3-button placket, buttons in matching color fashion side vents, neck reinforced with neckband in the same color, rib-knit collar and cuffs.",
@@ -1477,7 +1797,7 @@
       "https://macma.ro/products/jpg/TEXTIL/GILDAN/gi3800-rssportgrey_c2.jpg",
       "https://macma.ro/products/jpg/TEXTIL/GILDAN/gi3800-rssportgrey_d1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 3,
     "colorCount": 1,
     "sizeCount": 3,
@@ -1485,6 +1805,45 @@
       {
         "name": "Sport Grey",
         "hex": "#a4a4a4"
+      }
+    ],
+    "availableSizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "specifications": [
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "HN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61052010"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "36 pcs",
+        "valueRo": "36 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "36 pcs",
+        "valueRo": "36 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
       }
     ],
     "brand": "Gildan",
@@ -1673,7 +2032,7 @@
       "https://macma.ro/products/jpg/TEXTIL/GILDAN/gi64800-white_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/GILDAN/gi64800-white_b1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 96,
     "colorCount": 16,
     "sizeCount": 4,
@@ -1743,6 +2102,52 @@
         "hex": "#ffffff"
       }
     ],
+    "availableSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL · 3XL · 4XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61051000 · 61052010"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "36 pcs",
+        "valueRo": "36 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "36 pcs",
+        "valueRo": "36 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
+      }
+    ],
     "brand": "Gildan",
     "weightGrams": 295,
     "hasVariantDetail": true
@@ -1805,7 +2210,7 @@
       "https://macma.ro/products/jpg/TEXTIL/GILDAN/gi75800-red_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/GILDAN/gi75800-red_b1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 2,
     "colorCount": 1,
     "sizeCount": 1,
@@ -1813,6 +2218,49 @@
       {
         "name": "Red",
         "hex": "#b1302a"
+      }
+    ],
+    "availableSizes": [
+      "S"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "4XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "HN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61052010"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "12 / 36 pcs",
+        "valueRo": "12 / 36 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "12 / 36 pcs",
+        "valueRo": "12 / 36 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
       }
     ],
     "brand": "Gildan",
@@ -1954,7 +2402,7 @@
       "https://macma.ro/products/jpg/TEXTIL/GILDAN/gi85800-white_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/GILDAN/gi85800-white_b1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 58,
     "colorCount": 11,
     "sizeCount": 4,
@@ -2002,6 +2450,52 @@
       {
         "name": "White",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL · 3XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "HN · BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61051000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "36 pcs",
+        "valueRo": "36 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "36 pcs",
+        "valueRo": "36 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
       }
     ],
     "brand": "Gildan",
@@ -2210,7 +2704,7 @@
       "https://macma.ro/products/jpg/TEXTIL/GILDAN/gi8800-white_c2.jpg",
       "https://macma.ro/products/jpg/TEXTIL/GILDAN/gi8800-white_d1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 81,
     "colorCount": 14,
     "sizeCount": 4,
@@ -2270,6 +2764,52 @@
       {
         "name": "White",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL · 3XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "HN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61052010"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "36 pcs",
+        "valueRo": "36 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "36 pcs",
+        "valueRo": "36 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
       }
     ],
     "brand": "Gildan",
@@ -2340,7 +2880,7 @@
       "https://macma.ro/products/jpg/TEXTIL/GILDAN/gil75800-rssportgrey_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/GILDAN/gil75800-rssportgrey_b1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 6,
     "colorCount": 2,
     "sizeCount": 4,
@@ -2352,6 +2892,46 @@
       {
         "name": "Sport Grey",
         "hex": "#a4a4a4"
+      }
+    ],
+    "availableSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "HN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61052010"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "36 pcs",
+        "valueRo": "36 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "36 pcs",
+        "valueRo": "36 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "female"
       }
     ],
     "brand": "Gildan",
@@ -2436,7 +3016,7 @@
       "https://macma.ro/products/jpg/TEXTIL/GILDAN/gil85800-rssportgrey_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/GILDAN/gil85800-rssportgrey_b1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 14,
     "colorCount": 5,
     "sizeCount": 4,
@@ -2460,6 +3040,46 @@
       {
         "name": "Rs Sport Grey",
         "hex": "#97999b"
+      }
+    ],
+    "availableSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "HN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61061000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "36 pcs",
+        "valueRo": "36 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "36 pcs",
+        "valueRo": "36 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "female"
       }
     ],
     "brand": "Gildan",
@@ -2664,7 +3284,7 @@
       "https://macma.ro/products/jpg/TEXTIL/B&C/o01-pixellime_f.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/o01-pixellime_s.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 96,
     "colorCount": 9,
     "sizeCount": 4,
@@ -2704,6 +3324,52 @@
       {
         "name": "White",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL · 3XL · 4XL · 5XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61051000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "5 / 10 pcs",
+        "valueRo": "5 / 10 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "25 / 50 pcs",
+        "valueRo": "25 / 50 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
       }
     ],
     "brand": "B&C",
@@ -2899,7 +3565,7 @@
       "https://macma.ro/products/jpg/TEXTIL/B&C/o02-pixellime_flat.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/o02-pixellime_s.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 81,
     "colorCount": 13,
     "sizeCount": 5,
@@ -2955,6 +3621,53 @@
       {
         "name": "White",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL · 3XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61061000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "5 / 10 pcs",
+        "valueRo": "5 / 10 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "25 / 50 pcs",
+        "valueRo": "25 / 50 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "female"
       }
     ],
     "brand": "B&C",
@@ -3065,7 +3778,7 @@
       "https://macma.ro/products/jpg/TEXTIL/B&C/o03-darkgrey_flat.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/o03-darkgrey_s.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 32,
     "colorCount": 4,
     "sizeCount": 4,
@@ -3085,6 +3798,52 @@
       {
         "name": "White",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL · 3XL · 4XL · 5XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61051000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "5 / 10 pcs",
+        "valueRo": "5 / 10 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "25 / 50 pcs",
+        "valueRo": "25 / 50 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
       }
     ],
     "brand": "B&C",
@@ -3317,7 +4076,7 @@
       "https://macma.ro/products/jpg/TEXTIL/B&C/o06-pixelcoral_flat.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/o06-atoll_flat.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 152,
     "colorCount": 19,
     "sizeCount": 5,
@@ -3397,6 +4156,53 @@
       {
         "name": "Wine",
         "hex": "#602b49"
+      }
+    ],
+    "availableSizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL · 3XL · 4XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61051000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "10 pcs",
+        "valueRo": "10 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
       }
     ],
     "brand": "B&C",
@@ -3616,7 +4422,7 @@
       "https://macma.ro/products/jpg/TEXTIL/B&C/o07-pixelcoral_0.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/o07-atoll_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 133,
     "colorCount": 19,
     "sizeCount": 5,
@@ -3698,6 +4504,53 @@
         "hex": "#602b49"
       }
     ],
+    "availableSizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL · 3XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61051000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "10 pcs",
+        "valueRo": "10 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "female"
+      }
+    ],
     "brand": "B&C",
     "weightGrams": 150,
     "descriptionLong": "The best deal short-sleeved women's polo shirt made of cotton with rib-knit collar, 2-button placket, tone-in-tone buttons, side seams, double seams on sleeve ends and hem, basic colours.",
@@ -3766,7 +4619,7 @@
       "https://macma.ro/products/jpg/TEXTIL/B&C/o23-royalblue.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/o23-heathergrey.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 7,
     "colorCount": 2,
     "sizeCount": 3,
@@ -3778,6 +4631,51 @@
       {
         "name": "Royal Blue",
         "hex": "#1663de"
+      }
+    ],
+    "availableSizes": [
+      "S",
+      "M",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL · 3XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61051000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "10 pcs",
+        "valueRo": "10 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
       }
     ],
     "brand": "B&C",
@@ -3915,7 +4813,7 @@
       "https://macma.ro/products/jpg/TEXTIL/B&C/o38-acidlime_flat.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/o38-acidlime_s.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 48,
     "colorCount": 7,
     "sizeCount": 4,
@@ -3947,6 +4845,52 @@
       {
         "name": "Yellow",
         "hex": "#fcf5a4"
+      }
+    ],
+    "availableSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL · 3XL · 4XL · 5XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61052010"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "5 / 10 pcs",
+        "valueRo": "5 / 10 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "25 / 50 pcs",
+        "valueRo": "25 / 50 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
       }
     ],
     "brand": "B&C",
@@ -4079,7 +5023,7 @@
       "https://macma.ro/products/jpg/TEXTIL/B&C/o39-acidlime_f.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/o39-acidlime_s.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 44,
     "colorCount": 7,
     "sizeCount": 5,
@@ -4111,6 +5055,53 @@
       {
         "name": "Yellow",
         "hex": "#fcf5a4"
+      }
+    ],
+    "availableSizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL · 3XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61062000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "5 / 10 pcs",
+        "valueRo": "5 / 10 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "25 / 50 pcs",
+        "valueRo": "25 / 50 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "female"
       }
     ],
     "brand": "B&C",
@@ -4184,7 +5175,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/ulises-lottored_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/ulises-royalblue_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 31,
     "colorCount": 6,
     "sizeCount": 4,
@@ -4212,6 +5203,52 @@
       {
         "name": "White",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL · 3XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61052010"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "5 pcs",
+        "valueRo": "5 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
       }
     ],
     "brand": "Valento",
@@ -4277,7 +5314,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/valley-black_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/valley-lottored_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 24,
     "colorCount": 5,
     "sizeCount": 5,
@@ -4301,6 +5338,53 @@
       {
         "name": "White",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61061000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "5 pcs",
+        "valueRo": "5 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
       }
     ],
     "brand": "Valento",
@@ -4555,7 +5639,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/patrol-surgicalgreen_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/patrol-oceannavyblue_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 148,
     "colorCount": 25,
     "sizeCount": 4,
@@ -4659,6 +5743,52 @@
       {
         "name": "White",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL · 3XL · 4XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61051000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "5 pcs",
+        "valueRo": "5 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
       }
     ],
     "brand": "Valento",
@@ -4792,7 +5922,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so00577-whitenavy_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so00577-whitenavy_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 48,
     "colorCount": 7,
     "sizeCount": 4,
@@ -4824,6 +5954,52 @@
       {
         "name": "White/Navy",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL · 3XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN · BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61091000 · 61051000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
       }
     ],
     "brand": "Sols",
@@ -4977,7 +6153,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so00578-whitenavy_c.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so00578-whitenavy_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 44,
     "colorCount": 8,
     "sizeCount": 4,
@@ -5013,6 +6189,52 @@
       {
         "name": "White/Navy",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN · BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61091000 · 61061000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "female"
       }
     ],
     "brand": "Sols",
@@ -5119,7 +6341,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01708-white_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01708-white_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 27,
     "colorCount": 6,
     "sizeCount": 4,
@@ -5147,6 +6369,52 @@
       {
         "name": "White",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL · 3XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61051000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
       }
     ],
     "brand": "Sols",
@@ -5230,7 +6498,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01709-white_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01709-white_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 14,
     "colorCount": 3,
     "sizeCount": 4,
@@ -5246,6 +6514,52 @@
       {
         "name": "White",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61061000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "female"
       }
     ],
     "brand": "Sols",
@@ -5360,7 +6674,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so02083-white_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so02083-white_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 33,
     "colorCount": 7,
     "sizeCount": 4,
@@ -5392,6 +6706,52 @@
       {
         "name": "White",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61061000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "female"
       }
     ],
     "brand": "Sols",
@@ -5505,7 +6865,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so02087-white_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so02087-white_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 32,
     "colorCount": 7,
     "sizeCount": 4,
@@ -5537,6 +6897,52 @@
       {
         "name": "White",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61051000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
       }
     ],
     "brand": "Sols",
@@ -5597,7 +7003,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so03566-white_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so03566-white_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 24,
     "colorCount": 4,
     "sizeCount": 4,
@@ -5617,6 +7023,52 @@
       {
         "name": "White",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL · 3XL · 4XL · 5XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61051000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
       }
     ],
     "brand": "Sols",
@@ -5670,7 +7122,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so03575-white_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so03575-white_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 16,
     "colorCount": 4,
     "sizeCount": 5,
@@ -5690,6 +7142,53 @@
       {
         "name": "White",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "3XL · 2XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61061000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "female"
       }
     ],
     "brand": "Sols",
@@ -5731,7 +7230,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so03983-white_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so03983-white_b1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 10,
     "colorCount": 3,
     "sizeCount": 4,
@@ -5747,6 +7246,52 @@
       {
         "name": "White",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL · 3XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61052010"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
       }
     ],
     "brand": "Sols",
@@ -5790,7 +7335,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so04241-white_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so04241-white_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 13,
     "colorCount": 2,
     "sizeCount": 4,
@@ -5802,6 +7347,52 @@
       {
         "name": "White",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL · 3XL · 5XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61061000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
       }
     ],
     "brand": "Sols",
@@ -5843,7 +7434,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so04242-white_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so04242-white_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 10,
     "colorCount": 2,
     "sizeCount": 4,
@@ -5855,6 +7446,52 @@
       {
         "name": "White",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61061000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
       }
     ],
     "brand": "Sols",
@@ -5976,7 +7613,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11310-white_b.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11310-white_c.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 37,
     "colorCount": 8,
     "sizeCount": 4,
@@ -6012,6 +7649,52 @@
       {
         "name": "White",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN · BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61061000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "5 / 50 pcs",
+        "valueRo": "5 / 50 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "female"
       }
     ],
     "brand": "Sols",
@@ -6113,7 +7796,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11328-white_b.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11328-white_c.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 25,
     "colorCount": 5,
     "sizeCount": 4,
@@ -6137,6 +7820,52 @@
       {
         "name": "White",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61051000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
       }
     ],
     "brand": "Sols",
@@ -6332,7 +8061,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11338-white_b.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11338-white_c.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 81,
     "colorCount": 18,
     "sizeCount": 4,
@@ -6408,6 +8137,52 @@
       {
         "name": "White",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN · BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61061000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "5 / 50 pcs",
+        "valueRo": "5 / 50 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "female"
       }
     ],
     "brand": "Sols",
@@ -6620,7 +8395,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11342-white_b.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11342-white_c.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 98,
     "colorCount": 20,
     "sizeCount": 5,
@@ -6706,6 +8481,53 @@
         "hex": "#ffffff"
       }
     ],
+    "availableSizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN · BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61051000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "5 / 50 pcs",
+        "valueRo": "5 / 50 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
+      }
+    ],
     "brand": "Sols",
     "weightGrams": 280,
     "descriptionLong": "MEN S SHORT-SLEEVED POLO SHIRT   100% cotton",
@@ -6785,7 +8607,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11344-white_b.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11344-white_c.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 6,
     "colorCount": 2,
     "sizeCount": 4,
@@ -6797,6 +8619,52 @@
       {
         "name": "White",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [
+      "12A",
+      "4A",
+      "6A",
+      "8A"
+    ],
+    "specifications": [
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Cotton"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61051000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "kids"
       }
     ],
     "brand": "Sols",
@@ -6996,7 +8864,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11346-white_c.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11346-white_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 70,
     "colorCount": 11,
     "sizeCount": 4,
@@ -7044,6 +8912,52 @@
       {
         "name": "White",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL · 3XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61051000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
       }
     ],
     "brand": "Sols",
@@ -7202,7 +9116,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11347-white_c.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11347-white_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 44,
     "colorCount": 9,
     "sizeCount": 4,
@@ -7242,6 +9156,52 @@
       {
         "name": "White",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61061000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "female"
       }
     ],
     "brand": "Sols",
@@ -7332,7 +9292,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11353-royalblue_b.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11353-royalblue_c.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 15,
     "colorCount": 5,
     "sizeCount": 4,
@@ -7356,6 +9316,52 @@
       {
         "name": "Royal Blue",
         "hex": "#00428e"
+      }
+    ],
+    "availableSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61051000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
       }
     ],
     "brand": "Sols",
@@ -7572,7 +9578,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11362-white_b.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11362-white_c.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 106,
     "colorCount": 18,
     "sizeCount": 4,
@@ -7650,6 +9656,52 @@
         "hex": "#ffffff"
       }
     ],
+    "availableSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL · 3XL · 4XL · 5XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61051000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "5 / 50 pcs",
+        "valueRo": "5 / 50 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
+      }
+    ],
     "brand": "Sols",
     "weightGrams": 332,
     "descriptionLong": "MEN S POLO SHIRT   100% cotton",
@@ -7724,7 +9776,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11365-whitenavy_b.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11365-whitenavy_c.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 9,
     "colorCount": 2,
     "sizeCount": 4,
@@ -7736,6 +9788,52 @@
       {
         "name": "White/Navy",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61051000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
       }
     ],
     "brand": "Sols",
@@ -7828,7 +9926,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11376-white_b.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11376-white_c.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 17,
     "colorCount": 5,
     "sizeCount": 4,
@@ -7852,6 +9950,52 @@
       {
         "name": "White",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61061000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "5 pcs",
+        "valueRo": "5 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "female"
       }
     ],
     "brand": "Sols",
@@ -7958,7 +10102,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11377-white_b.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11377-white_c.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 30,
     "colorCount": 5,
     "sizeCount": 4,
@@ -7982,6 +10126,52 @@
       {
         "name": "White",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL · 3XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61051000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "5 pcs",
+        "valueRo": "5 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
       }
     ],
     "brand": "Sols",
@@ -8146,7 +10336,7 @@
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st3000-white.jpg",
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st3000-yellow.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 89,
     "colorCount": 14,
     "sizeCount": 4,
@@ -8206,6 +10396,58 @@
       {
         "name": "Yellow",
         "hex": "#fde733"
+      }
+    ],
+    "availableSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "3XL · 4XL · 5XL · 2XL"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Cotton"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61051000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "24 / 48 pcs",
+        "valueRo": "24 / 48 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "24 / 48 pcs",
+        "valueRo": "24 / 48 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
       }
     ],
     "brand": "Stedman",
@@ -8339,7 +10581,7 @@
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st3100-white.jpg",
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st3100-yellow.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 60,
     "colorCount": 12,
     "sizeCount": 5,
@@ -8391,6 +10633,59 @@
       {
         "name": "Yellow",
         "hex": "#fde733"
+      }
+    ],
+    "availableSizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Cotton"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61061000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "24 / 48 pcs",
+        "valueRo": "24 / 48 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "24 / 48 pcs",
+        "valueRo": "24 / 48 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "female"
       }
     ],
     "brand": "Stedman",
@@ -8496,7 +10791,7 @@
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st3200-scarletred.jpg",
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st3200-white.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 30,
     "colorCount": 6,
     "sizeCount": 5,
@@ -8524,6 +10819,53 @@
       {
         "name": "White",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [
+      "11-12",
+      "12-13",
+      "5-6",
+      "7-8",
+      "9-10"
+    ],
+    "specifications": [
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Cotton"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61051000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "48 pcs",
+        "valueRo": "48 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "48 pcs",
+        "valueRo": "48 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "kids"
       }
     ],
     "brand": "Stedman",
@@ -8617,7 +10959,7 @@
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st3400-navyblue.jpg",
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st3400-white.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 20,
     "colorCount": 4,
     "sizeCount": 4,
@@ -8637,6 +10979,58 @@
       {
         "name": "White",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Cotton"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61051000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "48 pcs",
+        "valueRo": "48 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "48 pcs",
+        "valueRo": "48 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
       }
     ],
     "brand": "Stedman",
@@ -8708,7 +11102,7 @@
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st8450-marinablue.jpg",
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st8450-white.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 15,
     "colorCount": 3,
     "sizeCount": 4,
@@ -8724,6 +11118,58 @@
       {
         "name": "White",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Polyester"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61052010"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "24 pcs",
+        "valueRo": "24 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "24 pcs",
+        "valueRo": "24 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
       }
     ],
     "brand": "Stedman",
@@ -8815,7 +11261,7 @@
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st9050-trueblue.jpg",
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st9050-white.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 25,
     "colorCount": 5,
     "sizeCount": 4,
@@ -8839,6 +11285,58 @@
       {
         "name": "White",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Cotton"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61051000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "24 pcs",
+        "valueRo": "24 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "24 pcs",
+        "valueRo": "24 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
       }
     ],
     "brand": "Stedman",
@@ -8999,7 +11497,7 @@
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st9060-scarletred.jpg",
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st9060-white.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 88,
     "colorCount": 11,
     "sizeCount": 4,
@@ -9047,6 +11545,58 @@
       {
         "name": "White",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "3XL · 4XL · 5XL · 2XL"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Cotton"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61051000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "24 pcs",
+        "valueRo": "24 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "24 pcs",
+        "valueRo": "24 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
       }
     ],
     "brand": "Stedman",
@@ -9160,7 +11710,7 @@
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st9160-scarletred.jpg",
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st9160-white.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 77,
     "colorCount": 11,
     "sizeCount": 5,
@@ -9208,6 +11758,59 @@
       {
         "name": "White",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "3XL · 2XL"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Cotton"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61061000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "24 pcs",
+        "valueRo": "24 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "24 pcs",
+        "valueRo": "24 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "female"
       }
     ],
     "brand": "Stedman",
@@ -9325,7 +11928,7 @@
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st9640-scarletred.jpg",
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st9640-white.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 48,
     "colorCount": 8,
     "sizeCount": 4,
@@ -9361,6 +11964,58 @@
       {
         "name": "White",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "3XL · 2XL"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Cotton"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61051000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "24 pcs",
+        "valueRo": "24 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "24 pcs",
+        "valueRo": "24 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
       }
     ],
     "brand": "Stedman",
@@ -9478,7 +12133,7 @@
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st9740-scarletred.jpg",
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st9740-white.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 48,
     "colorCount": 8,
     "sizeCount": 5,
@@ -9514,6 +12169,59 @@
       {
         "name": "White",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Cotton"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61061000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "24 pcs",
+        "valueRo": "24 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "24 pcs",
+        "valueRo": "24 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "female"
       }
     ],
     "brand": "Stedman",

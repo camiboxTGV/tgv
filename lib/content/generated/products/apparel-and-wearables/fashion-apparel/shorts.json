@@ -41,7 +41,7 @@
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/bevades-black_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 3,
     "colorCount": 1,
     "sizeCount": 1,
@@ -49,6 +49,49 @@
       {
         "name": "Black",
         "hex": "#343331"
+      }
+    ],
+    "availableSizes": [
+      "M"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL · 3XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "62034311"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "20 pcs",
+        "valueRo": "20 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
       }
     ],
     "brand": "Valento",
@@ -101,7 +144,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/bevaque-charcoalgrey_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/bevaque-lottored-black_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 5,
     "colorCount": 2,
     "sizeCount": 2,
@@ -113,6 +156,50 @@
       {
         "name": "Lotto Red-Black",
         "hex": "#861627"
+      }
+    ],
+    "availableSizes": [
+      "S",
+      "L"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL · 3XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "62034319"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "20 pcs",
+        "valueRo": "20 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
       }
     ],
     "brand": "Valento",

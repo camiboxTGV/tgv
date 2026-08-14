@@ -21,7 +21,7 @@
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/cqvahel-surgicalgreen_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 3,
     "colorCount": 1,
     "sizeCount": 2,
@@ -29,6 +29,44 @@
       {
         "name": "Surgical Green",
         "hex": "#3d948c"
+      }
+    ],
+    "availableSizes": [
+      "M",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "62033310"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
       }
     ],
     "brand": "Valento",
@@ -80,7 +118,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01211-whitefuchsia_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01211-whitemelangegrey_a1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 3,
     "colorCount": 1,
     "sizeCount": 1,
@@ -88,6 +126,49 @@
       {
         "name": "White/French Navy",
         "hex": "#ffffff"
+      }
+    ],
+    "availableSizes": [
+      "U"
+    ],
+    "specifications": [
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Cotton"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61112090"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "100 pcs",
+        "valueRo": "100 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "100 pcs",
+        "valueRo": "100 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "kids"
       }
     ],
     "brand": "Sols",
@@ -138,7 +219,7 @@
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st9691-blackopal.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 5,
     "colorCount": 1,
     "sizeCount": 4,
@@ -146,6 +227,58 @@
       {
         "name": "Black Opal",
         "hex": "#040020"
+      }
+    ],
+    "availableSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Cotton"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61071100"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "12 pcs",
+        "valueRo": "12 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "12 pcs",
+        "valueRo": "12 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
       }
     ],
     "brand": "Stedman",

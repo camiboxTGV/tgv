@@ -234,7 +234,7 @@
       "https://macma.ro/products/jpg/TEXTIL/PROACT/pa438-wine_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/PROACT/pa438-wine_b1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 129,
     "colorCount": 23,
     "sizeCount": 5,
@@ -330,6 +330,53 @@
       {
         "name": "Wine",
         "hex": "#602b49"
+      }
+    ],
+    "availableSizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL · 3XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61099020"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "unisex"
       }
     ],
     "brand": "Proact",
@@ -540,7 +587,7 @@
       "https://macma.ro/products/jpg/TEXTIL/PROACT/pa439-white_a2.jpg",
       "https://macma.ro/products/jpg/TEXTIL/PROACT/pa439-wine_a1.jpg"
     ],
-    "fetchedAt": "2026-08-14T15:06:59.728Z",
+    "fetchedAt": "2026-08-14T16:20:29.311Z",
     "variantCount": 115,
     "colorCount": 24,
     "sizeCount": 5,
@@ -640,6 +687,53 @@
       {
         "name": "Wine",
         "hex": "#602b49"
+      }
+    ],
+    "availableSizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2XL"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "61099020"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "gender",
+        "label": "Gender",
+        "labelRo": "Gen",
+        "value": "female"
       }
     ],
     "brand": "Proact",
