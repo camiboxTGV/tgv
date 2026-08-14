@@ -13,6 +13,7 @@ This project is indexed by GitNexus as **tgv** (1153 symbols, 1863 relationships
 - When exploring unfamiliar code, use `gitnexus_query({query: "concept"})` to find execution flows instead of grepping. It returns process-grouped results ranked by relevance.
 - When you need full context on a specific symbol — callers, callees, which execution flows it participates in — use `gitnexus_context({name: "symbolName"})`.
 
+
 ## Never Do
 
 - NEVER edit a function, class, or method without first running `gitnexus_impact` on it.
