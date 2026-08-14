@@ -45,7 +45,7 @@ export default function ProductCard({ product, priority = false }: Readonly<Prop
         href={detailHref}
         className="flex flex-col gap-4 focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--brand-orange)] focus-visible:ring-offset-2 focus-visible:ring-offset-[var(--bg)] rounded-xl"
       >
-        <div className="relative overflow-hidden aspect-[4/3] rounded-xl bg-[var(--surface-soft)]">
+        <div className="relative overflow-hidden aspect-[4/3] rounded-xl border border-[var(--border-soft)] bg-[var(--surface)]">
           {firstImage ? (
             <Image
               src={firstImage}
@@ -53,7 +53,7 @@ export default function ProductCard({ product, priority = false }: Readonly<Prop
               fill
               loading={priority ? "eager" : "lazy"}
               sizes="(min-width: 1024px) 320px, (min-width: 640px) 45vw, 90vw"
-              className="object-cover transition-transform duration-500 group-hover:scale-[1.04]"
+              className="object-contain p-3 transition-transform duration-500 group-hover:scale-[1.04]"
             />
           ) : (
             <div
