@@ -163,6 +163,7 @@ export function normalize(
     supplierVariantIds: raw.supplierVariantIds,
     price: displayPrice,
     priceFrom,
+    stock: raw.stock,
     stockLevel,
     images: raw.images,
     fetchedAt: raw.fetchedAt,

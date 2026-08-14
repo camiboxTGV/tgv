@@ -20,6 +20,7 @@ import {
   macmaPersonalizationDefinitions,
   personalizationMap,
 } from "../macma/mapping.ts"
+import { totalAvailableStock } from "../macma/adapter.ts"
 
 const CATEGORY_A = "bags/shopping-bags/cotton-and-canvas"
 const CATEGORY_B = "drinkware/mugs-and-cups/ceramic-mugs"
@@ -92,6 +93,29 @@ test("Macma Romania codes keep exact supplier methods separate from calculator f
   assert.equal(macmaPersonalizationDefinitions.DW?.labelRo, "Imprimare digitală pe textile albe")
 })
 
+test("Macma stock totals central, regional, and international availability", () => {
+  assert.equal(
+    totalAvailableStock({
+      id: "2110003",
+      name: "Office golf set",
+      local: 64,
+      regional: 0,
+      international: 444,
+    }),
+    508,
+  )
+  assert.equal(
+    totalAvailableStock({
+      id: "REGIONAL",
+      name: "Regional stock",
+      local: 1,
+      regional: 7,
+      international: 2,
+    }),
+    10,
+  )
+})
+
 test("Macma F38 methods and print size survive normalization without becoming UV", () => {
   const raw = product("macma", "F38", "apparel-and-wearables/polo-shirts")
   raw.rawPersonalizationCodes = ["S2", "DC", "DT", "DW"]
@@ -113,6 +137,7 @@ test("Macma F38 methods and print size survive normalization without becoming UV
       ),
   }
   const result = normalize(raw, macma)
+  assert.equal(result.product?.stock, 10)
   assert.deepEqual(result.product?.personalizations, ["pad-screen", "textile-transfer"])
   assert.deepEqual(
     result.product?.supplierPersonalizations?.map((method) => method.code),
@@ -325,6 +350,7 @@ test("inventory sync updates only price and stock and becomes a no-op when uncha
       images: string[]
       price: number
       priceFrom: boolean
+      stock: number
       stockLevel: string
       fetchedAt: string
       supplierVariantIds: string[]
@@ -335,6 +361,7 @@ test("inventory sync updates only price and stock and becomes a no-op when uncha
     assert.deepEqual(updated.supplierVariantIds, ["SKU-A", "SKU-B"])
     assert.equal(updated.price, 6.5)
     assert.equal(updated.priceFrom, true)
+    assert.equal(updated.stock, 5)
     assert.equal(updated.stockLevel, "low")
     assert.equal(updated.fetchedAt, fetchedAt)
 

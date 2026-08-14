@@ -295,10 +295,12 @@ async function updateProduct(
   if (
     product.price !== nextPrice ||
     product.priceFrom !== nextPriceFrom ||
+    product.stock !== totalStock ||
     product.stockLevel !== nextStockLevel
   ) {
     product.price = nextPrice
     product.priceFrom = nextPriceFrom
+    product.stock = totalStock
     product.stockLevel = nextStockLevel
     changed = true
   }

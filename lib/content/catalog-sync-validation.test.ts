@@ -49,6 +49,34 @@ test("inventory validation allows an older catalog until the next full bootstrap
   }
 })
 
+test("catalog validation rejects products without a numeric stock total", async () => {
+  const product = f38Product() as CatalogProduct & { stock?: number }
+  delete product.stock
+  const root = await fixtureRoot([product as CatalogProduct])
+  try {
+    await assert.rejects(
+      validateGeneratedCatalog({ repoRoot: root, mode: "full", now: NOW }),
+      /invalid numeric stock/,
+    )
+  } finally {
+    await rm(root, { recursive: true, force: true })
+  }
+})
+
+test("catalog validation rejects stock labels that disagree with the numeric total", async () => {
+  const product = f38Product()
+  product.stock = 0
+  const root = await fixtureRoot([product])
+  try {
+    await assert.rejects(
+      validateGeneratedCatalog({ repoRoot: root, mode: "full", now: NOW }),
+      /stock level does not match/,
+    )
+  } finally {
+    await rm(root, { recursive: true, force: true })
+  }
+})
+
 function f38Product(): CatalogProduct {
   return {
     slug: "macma-f38",
@@ -67,6 +95,7 @@ function f38Product(): CatalogProduct {
     supplierSku: "F38",
     price: 4.68,
     priceFrom: false,
+    stock: 508,
     stockLevel: "in-stock",
     images: ["https://macma.ro/products/f38.jpg"],
     fetchedAt: RAN_AT,

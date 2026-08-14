@@ -88,6 +88,7 @@ export default function ProductDetail({
 
   const displayPrice = selectedVariant?.price ?? product.price
   const displayStockLevel = selectedVariant?.stockLevel ?? product.stockLevel
+  const displayStockCount = selectedVariant?.stock ?? product.stock
   const priceFrom = !selectedVariant && product.priceFrom
   const asOf = formatAsOfDate(product.fetchedAt)
   const weight = formatWeight(product.weightGrams)
@@ -177,7 +178,7 @@ export default function ProductDetail({
                 <span className="text-sm text-[var(--text-soft)]">{ro ? "fără TVA" : "ex. VAT"}</span>
                 <StockBadge
                   level={displayStockLevel}
-                  count={selectedVariant?.stock}
+                  count={displayStockCount}
                   size="md"
                   className="ml-2"
                 />

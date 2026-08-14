@@ -51,6 +51,7 @@ export interface CatalogProduct {
   supplierVariantIds?: string[]
   price: number
   priceFrom: boolean
+  stock: number
   stockLevel: StockLevel
   images: string[]
   fetchedAt: string

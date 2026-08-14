@@ -16,6 +16,10 @@ import type { MacmaPrice, MacmaSku, MacmaStock } from "./types.ts"
 const SUPPLIER_ID = "macma"
 const DISPLAY_NAME = "Macma"
 
+export function totalAvailableStock(stock: MacmaStock): number {
+  return Math.max(0, (stock.local ?? 0) + (stock.regional ?? 0) + (stock.international ?? 0))
+}
+
 function baseUrl(): string | null {
   const env = process.env.MACMA_API_BASE?.trim()
   if (!env) return null
@@ -97,8 +101,7 @@ async function loadInventory(explicitBase?: string): Promise<SupplierInventorySn
 
   const stockMap = new Map<string, number>()
   for (const s of stockRes.data) {
-    const total = Math.max(0, (s.local ?? 0) + (s.international ?? 0))
-    stockMap.set(s.id, total)
+    stockMap.set(s.id, totalAvailableStock(s))
   }
 
   return {

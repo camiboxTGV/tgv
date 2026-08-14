@@ -78,6 +78,14 @@ export async function validateGeneratedCatalog(
     assertNonEmptyString(product.supplierId, `${product.slug} supplierId`)
     assertNonEmptyString(product.supplierSku, `${product.slug} supplierSku`)
     assert(Array.isArray(product.personalizations), `${product.slug} personalizations is not an array.`)
+    assert(
+      typeof product.stock === "number" && Number.isFinite(product.stock) && product.stock >= 0,
+      `${product.slug} has invalid numeric stock.`,
+    )
+    assert(
+      product.stockLevel === stockLevelFor(product.stock),
+      `${product.slug} stock level does not match its numeric stock.`,
+    )
     assert(!slugs.has(product.slug), `Duplicate generated product slug "${product.slug}".`)
     slugs.add(product.slug)
 
@@ -232,6 +240,12 @@ function assertNonEmptyString(value: unknown, label: string): asserts value is s
 
 function arraysEqual(left: string[], right: string[]): boolean {
   return left.length === right.length && left.every((value, index) => value === right[index])
+}
+
+function stockLevelFor(stock: number): CatalogProduct["stockLevel"] {
+  if (stock <= 0) return "out-of-stock"
+  if (stock < 10) return "low"
+  return "in-stock"
 }
 
 function assert(condition: unknown, message: string): asserts condition {
