@@ -5,7 +5,17 @@
     "category": "office-and-writing/writing-instruments/pencils",
     "summary": "Wooden pencil with eraser on the top. An inexpensive gift, that suits everyone. The product is delivered unsharpened.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
-    "personalizations": [],
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "10393",
     "supplierVariantIds": [
@@ -41,7 +51,7 @@
       "https://macma.ro/products/jpg/M/1039309_0.jpg",
       "https://macma.ro/products/jpg/M/1039309_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -82,7 +92,17 @@
     "category": "office-and-writing/writing-instruments/pencils",
     "summary": "Wooden pencil with various rubber heads and colours.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
-    "personalizations": [],
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "10620",
     "supplierVariantIds": [
@@ -107,7 +127,7 @@
       "https://macma.ro/products/jpg/M/1062008_0.jpg",
       "https://macma.ro/products/jpg/M/1062008_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -140,7 +160,17 @@
     "category": "office-and-writing/writing-instruments/pencils",
     "summary": "Large, rectangular carpenter's pencil in wood and graphite HB mine (delivered unsharpened).",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
-    "personalizations": [],
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "10923",
     "supplierVariantIds": [
@@ -188,7 +218,7 @@
       "https://macma.ro/products/jpg/M/1092309_1.jpg",
       "https://macma.ro/products/jpg/M/1092309_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 9,
     "colorCount": 9,
     "sizeCount": 0,
@@ -241,7 +271,23 @@
     "category": "office-and-writing/writing-instruments/pencils",
     "summary": "Mini carboard pencil box, with 4 different colouring wooden pencils.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
-    "personalizations": [],
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      },
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "11128",
     "supplierVariantIds": [
@@ -255,7 +301,7 @@
       "https://macma.ro/products/jpg/M/1112801_1.jpg",
       "https://macma.ro/products/jpg/M/1112801_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -277,8 +323,28 @@
     "summary": "12 coloured pencils in a round paperboard case with sharpener.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      },
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "11824",
@@ -294,7 +360,7 @@
       "https://macma.ro/products/jpg/M/1182401_2.jpg",
       "https://macma.ro/products/jpg/M/1182401_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -316,7 +382,21 @@
     "summary": "Wooden crayon set in cardboard packaging with 12 different coloured crayons.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "13164",
@@ -332,7 +412,7 @@
       "https://macma.ro/products/jpg/M/1316413_3.jpg",
       "https://macma.ro/products/jpg/M/1316413_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -355,7 +435,21 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "13579",
@@ -374,7 +468,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/1357907_lifestyle_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/1357907_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -396,7 +490,21 @@
     "summary": "The set of 4 crayon highlighters in neon colors is a durable and sustainable alternative to conventional highlighters.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "13740",
@@ -414,7 +522,7 @@
       "https://macma.ro/products/jpg/M/13740mc_4.jpg",
       "https://macma.ro/products/jpg/M/13740mc_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -435,7 +543,23 @@
     "category": "office-and-writing/writing-instruments/pencils",
     "summary": "Practical coloured pencil set in a cylindrical paper storage box. With 12 different colours, there are no limits to your imagination.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
-    "personalizations": [],
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      },
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "14454",
     "supplierVariantIds": [
@@ -453,7 +577,7 @@
       "https://macma.ro/products/jpg/M/14454mc_4.jpg",
       "https://macma.ro/products/jpg/M/14454mc_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -475,7 +599,28 @@
     "summary": "12-piece coloured pencil set in paper packaging. Perfectly organised and always ready to hand.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      },
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "14459",
@@ -494,7 +639,7 @@
       "https://macma.ro/products/jpg/M/14459mc_4.jpg",
       "https://macma.ro/products/jpg/M/14459mc_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -516,7 +661,28 @@
     "summary": "6-piece wax crayon set in paper packaging.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      },
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "14464",
@@ -536,7 +702,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/14464mc_lifestyle_3.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/14464mc_lifestyle_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -557,7 +723,19 @@
     "category": "office-and-writing/writing-instruments/pencils",
     "summary": "Pencil with eraser in metallic colors. The pencil comes pre-sharpened.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
-    "personalizations": [],
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": [
+          "4 x 0,5"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "15321",
     "supplierVariantIds": [
@@ -583,7 +761,7 @@
       "https://macma.ro/products/jpg/M/1532198_1.jpg",
       "https://macma.ro/products/jpg/M/1532198_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -617,8 +795,22 @@
     "summary": "Writing set including ruler, eraser, sharpener, pencil and a roller ball, in an environmentally friendly cotton pouch.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "21558",
@@ -636,7 +828,7 @@
       "https://macma.ro/products/jpg/M/2155813_4.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/2155813_lifestyle_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -658,7 +850,15 @@
     "summary": "Writing and drawing set including 3 pencils with different degrees of hardness, ruler, eraser and sharpener.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "23216",
@@ -675,7 +875,7 @@
       "https://macma.ro/products/jpg/M/2321613_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/2321613_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -698,8 +898,28 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer",
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "53944",
@@ -714,7 +934,7 @@
       "https://macma.ro/products/jpg/M/5394401_2.jpg",
       "https://macma.ro/products/jpg/M/5394401_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -736,8 +956,28 @@
     "summary": "7 long wooden coloured pencils in a round paperboard case.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      },
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "56091",
@@ -753,7 +993,7 @@
       "https://macma.ro/products/jpg/M/5609101_2.jpg",
       "https://macma.ro/products/jpg/M/5609101_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -777,6 +1017,16 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "4,1 × 0,5"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "B0500200IP3",
     "supplierVariantIds": [
@@ -788,7 +1038,7 @@
     "images": [
       "https://macma.ro/products/jpg/PSV/PIERRE/b0500200ip3_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

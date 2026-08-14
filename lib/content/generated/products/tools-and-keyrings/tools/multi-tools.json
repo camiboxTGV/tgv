@@ -8,6 +8,16 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "2 × 0,5"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "2400300AJ3",
     "supplierVariantIds": [
@@ -32,7 +42,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2400303aj3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2400304aj3_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 1,
@@ -72,6 +82,16 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "30 × 0,8"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "2400400AJ3",
     "supplierVariantIds": [
@@ -109,7 +129,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2400404aj3_5.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2400404aj3_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 1,
@@ -143,8 +163,28 @@
     "summary": "High-quality stainless steel multi-tool with wooden grip in a black case.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "81419",
@@ -167,7 +207,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/8141901_lifestyle_4.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8141901_lifestyle_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -189,8 +229,22 @@
     "summary": "Screwdriver set with 24 magnetic precision slotted and cross bits made of stainless steel and holder in a plastic packaging to slide on.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "83127",
@@ -211,7 +265,7 @@
       "https://macma.ro/products/jpg/M/8312706_7.jpg",
       "https://macma.ro/products/jpg/M/8312706_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -234,7 +288,21 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "87823",
@@ -252,7 +320,7 @@
       "https://macma.ro/products/jpg/M/8782307_3_print.jpg",
       "https://macma.ro/products/jpg/M/8782307_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -275,7 +343,27 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      },
+      {
+        "code": "DO",
+        "label": "Macma method DO",
+        "labelRo": "Metodă Macma DO",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "88002",
@@ -292,7 +380,7 @@
       "https://macma.ro/products/jpg/M/8800207_2_print.jpg",
       "https://macma.ro/products/jpg/M/8800207_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -315,8 +403,28 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "90817",
@@ -339,7 +447,7 @@
       "https://macma.ro/products/jpg/M/9081703_9.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/9081703_lifestyle_10.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -362,7 +470,21 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "93230",
@@ -379,7 +501,7 @@
       "https://macma.ro/products/jpg/M/9323013_3.jpg",
       "https://macma.ro/products/jpg/M/9323013_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -401,8 +523,22 @@
     "summary": "Handy garden helper! Cotton belt with click closure, rake and two different sized shovels.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "93245",
@@ -419,7 +555,7 @@
       "https://macma.ro/products/jpg/M/9324513_4.jpg",
       "https://macma.ro/products/jpg/M/9324513_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -442,7 +578,21 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "94352",
@@ -460,7 +610,7 @@
       "https://macma.ro/products/jpg/M/9435207_3.jpg",
       "https://macma.ro/products/jpg/M/9435207_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -482,7 +632,15 @@
     "summary": "41-piece tool set incl. ratchet and a practical storage case.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "94894",
@@ -499,7 +657,7 @@
       "https://macma.ro/products/jpg/M/9489407_4.jpg",
       "https://macma.ro/products/jpg/M/9489407_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -523,6 +681,14 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "94979",
     "supplierVariantIds": [
@@ -544,7 +710,7 @@
       "https://macma.ro/products/jpg/M/9497907_9.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/9497907_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -568,6 +734,16 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "3 x 1,5"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "95419",
     "supplierVariantIds": [
@@ -585,7 +761,7 @@
       "https://macma.ro/products/jpg/M/9541903_5.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/9541903_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -609,6 +785,16 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "4 x 1,5"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "95423",
     "supplierVariantIds": [
@@ -627,7 +813,7 @@
       "https://macma.ro/products/jpg/M/9542377_6.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/9542377_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -649,7 +835,25 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "ø 2"
+        ]
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "ø 2"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "95531",
@@ -668,7 +872,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/9553177_lifestyle_1.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/9553177_lifestyle_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -692,6 +896,16 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "3 × 0,7"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "BAKO",
     "supplierVariantIds": [
@@ -709,7 +923,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f1904400aj3_6.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f1904400aj3_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -733,6 +947,16 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "2,2 × 0,5"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "F2400200AJ",
     "supplierVariantIds": [
@@ -752,7 +976,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2400200aj3_8.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2400200aj3_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -774,8 +998,26 @@
     "summary": "Elegant black 15-in-1 multitool Schwarzwolf with safety lock in black neoprene pouch. Packed in Schwarzwolf gift box. Material: stainless steel tools, aluminium handle  Dimensions (closed): 10 × 4.5 cm",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
+      "textile-transfer",
       "fiber-laser"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "3 × 0,8"
+        ]
+      },
+      {
+        "code": "G1",
+        "label": "Engraving 1",
+        "labelRo": "Gravură 1",
+        "printSizes": [
+          "3 × 0,8"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "F2400500AJ",
@@ -793,7 +1035,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2400500aj3_5.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2400500aj3_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -817,6 +1059,14 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "F2400700SA3",
     "supplierVariantIds": [
@@ -829,7 +1079,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2400700sa3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2400700sa3_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -853,6 +1103,16 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "3 × 0,8"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "F2405700AJ3",
     "supplierVariantIds": [
@@ -866,7 +1126,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2405700aj3_2.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2405700aj3_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -890,6 +1150,16 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "2 × 0,5"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "F2405900AJ3",
     "supplierVariantIds": [
@@ -904,7 +1174,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2405900aj3_b.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2405900aj3_c.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -926,6 +1196,7 @@
     "summary": "Multifunctional Schwarzwolf tool in a black color with 10 functions - pliers (3 variations), knife (sharp and serrated), can opener, bottle opener, flat screwdriver, multi-purpose screwdriver, safety lock. Packed in a...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "F2406100AJ3",
     "supplierVariantIds": [
@@ -945,7 +1216,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2406100aj3_g_0.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2406100aj3_h_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -969,6 +1240,16 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "4 × 1"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "NEMRUT",
     "supplierVariantIds": [
@@ -987,7 +1268,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2405800aj3_7.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2405800aj3_8.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

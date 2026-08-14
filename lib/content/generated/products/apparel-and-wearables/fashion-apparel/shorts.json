@@ -6,8 +6,26 @@
     "summary": "65% polyester, 35% cotton. 210 grs/m2 twill fabric. 2 waist pockets. Back elastic waistband. 2 cargo pockets with velcro in laterals. 1 back right pocket. Zip and button. 20 units per box: 1 size, 1 color. Individual ...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "BEVADES",
@@ -22,7 +40,7 @@
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/bevades-black_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 3,
     "colorCount": 1,
     "sizeCount": 1,
@@ -44,8 +62,26 @@
     "summary": "50% polyamide, 40% polyester, 10% elastane. 160 grs/m2 technical ripstop bielastic quick dry fabric. Side elastic waist. Zipper and button. 6 zip pockets: 2 waist pockets, 2 lateral pockets and 2 back pockets. Back in...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "BEVAQUE",
@@ -63,7 +99,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/bevaque-charcoalgrey_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/bevaque-lottored-black_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 5,
     "colorCount": 2,
     "sizeCount": 2,

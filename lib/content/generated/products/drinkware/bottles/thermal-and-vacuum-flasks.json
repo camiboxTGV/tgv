@@ -8,6 +8,14 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "4900400AJ3",
     "supplierVariantIds": [
@@ -21,7 +29,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4900400aj3_2.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4900400aj3_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -45,6 +53,14 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "5100101AJ3",
     "supplierVariantIds": [
@@ -65,7 +81,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5100101aj3_3.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5100101aj3_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -92,7 +108,33 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      },
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "RS2",
+        "label": "Macma method RS2",
+        "labelRo": "Metodă Macma RS2",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "60089",
@@ -108,7 +150,7 @@
       "https://macma.ro/products/jpg/M/6008906_2.jpg",
       "https://macma.ro/products/jpg/M/6008906_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -132,6 +174,20 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      },
+      {
+        "code": "RS2",
+        "label": "Macma method RS2",
+        "labelRo": "Metodă Macma RS2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "60196",
     "supplierVariantIds": [
@@ -146,7 +202,7 @@
       "https://macma.ro/products/jpg/M/60196mc_2.jpg",
       "https://macma.ro/products/jpg/M/60196mc_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -169,7 +225,33 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      },
+      {
+        "code": "RS2",
+        "label": "Macma method RS2",
+        "labelRo": "Metodă Macma RS2",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "60430",
@@ -186,7 +268,7 @@
       "https://macma.ro/products/jpg/M/6043006_4.jpg",
       "https://macma.ro/products/jpg/M/6043006_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -210,6 +292,14 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "60709",
     "supplierVariantIds": [
@@ -224,7 +314,7 @@
       "https://macma.ro/products/jpg/M/other/6070909_1.jpg",
       "https://macma.ro/products/jpg/M/other/6070909_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -252,6 +342,14 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "60710",
     "supplierVariantIds": [
@@ -267,7 +365,7 @@
       "https://macma.ro/products/jpg/M/6071003_3.jpg",
       "https://macma.ro/products/jpg/M/6071003_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -290,6 +388,20 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
       "fiber-laser"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "RS2",
+        "label": "Macma method RS2",
+        "labelRo": "Metodă Macma RS2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "60841",
@@ -322,7 +434,7 @@
       "https://macma.ro/products/jpg/M/6084104_4.jpg",
       "https://macma.ro/products/jpg/M/6084104_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -353,7 +465,27 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "RS3",
+        "label": "Macma method RS3",
+        "labelRo": "Metodă Macma RS3",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "60926",
@@ -370,7 +502,7 @@
       "https://macma.ro/products/jpg/M/6092613_box.jpg",
       "https://macma.ro/products/jpg/M/6092613_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -393,7 +525,39 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      },
+      {
+        "code": "RS2",
+        "label": "Macma method RS2",
+        "labelRo": "Metodă Macma RS2",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "60983",
@@ -418,7 +582,7 @@
       "https://macma.ro/products/jpg/M/6098307_4.jpg",
       "https://macma.ro/products/jpg/M/6098307_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -445,7 +609,27 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "61199",
@@ -463,7 +647,7 @@
       "https://macma.ro/products/jpg/M/6119907_box.jpg",
       "https://macma.ro/products/jpg/M/6119907_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -486,6 +670,14 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
       "fiber-laser"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "61485",
@@ -514,7 +706,7 @@
       "https://macma.ro/products/jpg/M/6148504_6.jpg",
       "https://macma.ro/products/jpg/M/6148504_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -541,7 +733,33 @@
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      },
+      {
+        "code": "RS2",
+        "label": "Macma method RS2",
+        "labelRo": "Metodă Macma RS2",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "61509",
@@ -559,7 +777,7 @@
       "https://macma.ro/products/jpg/M/6150906_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6150906_lifestyle_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -583,6 +801,20 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "RS2",
+        "label": "Macma method RS2",
+        "labelRo": "Metodă Macma RS2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "61545",
     "supplierVariantIds": [
@@ -604,7 +836,7 @@
       "https://macma.ro/products/jpg/M/6154503_3.jpg",
       "https://macma.ro/products/jpg/M/6154503_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -631,7 +863,27 @@
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      },
+      {
+        "code": "RS2",
+        "label": "Macma method RS2",
+        "labelRo": "Metodă Macma RS2",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "61554",
@@ -654,7 +906,7 @@
       "https://macma.ro/products/jpg/M/6155406_4.jpg",
       "https://macma.ro/products/jpg/M/6155406_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -681,7 +933,27 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "RS2",
+        "label": "Macma method RS2",
+        "labelRo": "Metodă Macma RS2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "61667",
@@ -702,7 +974,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/6166713_lifestyle_6.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6166713_lifestyle_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -725,7 +997,27 @@
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "RS2",
+        "label": "Macma method RS2",
+        "labelRo": "Metodă Macma RS2",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "62142",
@@ -745,7 +1037,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/6214203_lifestyle_6.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6214203_lifestyle_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -767,7 +1059,15 @@
     "summary": "Double-walled, leakproof, drinking mug with cork coating, lockable mouthpiece and a capacity of 400 ml.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "62157",
@@ -786,7 +1086,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/6215713_lifestyle_4.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6215713_lifestyle_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -809,7 +1109,27 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "RS2",
+        "label": "Macma method RS2",
+        "labelRo": "Metodă Macma RS2",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "62334",
@@ -831,7 +1151,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/6233413_lifestyle_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6233413_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -854,7 +1174,33 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      },
+      {
+        "code": "RS2",
+        "label": "Macma method RS2",
+        "labelRo": "Metodă Macma RS2",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "62414",
@@ -873,7 +1219,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/6241407_lifestyle_4.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6241407_lifestyle_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -897,6 +1243,14 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "62464",
     "supplierVariantIds": [
@@ -915,7 +1269,7 @@
       "https://macma.ro/products/jpg/M/6246403_6.jpg",
       "https://macma.ro/products/jpg/M/6246403_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -938,7 +1292,21 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "62522",
@@ -965,7 +1333,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/6252206_lifestyle_5.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6252206_lifestyle_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -992,7 +1360,21 @@
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "62544",
@@ -1011,7 +1393,7 @@
       "https://macma.ro/products/jpg/M/6254495_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6254495_lifestyle_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1035,6 +1417,20 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "RS2",
+        "label": "Macma method RS2",
+        "labelRo": "Metodă Macma RS2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "62573",
     "supplierVariantIds": [
@@ -1055,7 +1451,7 @@
       "https://macma.ro/products/jpg/M/6257398_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6257398_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -1083,6 +1479,20 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "RS2",
+        "label": "Macma method RS2",
+        "labelRo": "Metodă Macma RS2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "62574",
     "supplierVariantIds": [
@@ -1104,7 +1514,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/6257407_lifestyle_3.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6257407_lifestyle_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1126,8 +1536,22 @@
     "summary": "Double walled vacuum stainless steel drinking cup with a transparent lid with sliding drinking bar. Capacity 300 ml.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
+      "pad-screen",
       "fiber-laser"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      },
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "62577",
@@ -1160,7 +1584,7 @@
       "https://macma.ro/products/jpg/M/6257791_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6257791_lifestyle_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -1191,7 +1615,21 @@
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "62658",
@@ -1260,7 +1698,7 @@
       "https://macma.ro/products/jpg/M/6265809_5.jpg",
       "https://macma.ro/products/jpg/M/6265809_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 7,
     "colorCount": 7,
     "sizeCount": 0,
@@ -1307,7 +1745,27 @@
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "RS2",
+        "label": "Macma method RS2",
+        "labelRo": "Metodă Macma RS2",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "62892",
@@ -1338,7 +1796,7 @@
       "https://macma.ro/products/jpg/M/6289229_2.jpg",
       "https://macma.ro/products/jpg/M/6289229_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -1373,7 +1831,21 @@
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "62979",
@@ -1394,7 +1866,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/6297913_lifestyle_6.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6297913_lifestyle_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1417,7 +1889,27 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      },
+      {
+        "code": "RS2",
+        "label": "Macma method RS2",
+        "labelRo": "Metodă Macma RS2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "63113",
@@ -1438,7 +1930,7 @@
       "https://macma.ro/products/jpg/M/6311313_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6311313_lifestyle_8.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1461,7 +1953,27 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "63179",
@@ -1479,7 +1991,7 @@
       "https://macma.ro/products/jpg/M/6317903_4.jpg",
       "https://macma.ro/products/jpg/M/6317903_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1503,6 +2015,14 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "63702",
     "supplierVariantIds": [
@@ -1518,7 +2038,7 @@
       "https://macma.ro/products/jpg/M/6370244_3.jpg",
       "https://macma.ro/products/jpg/M/6370244_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1541,7 +2061,27 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      },
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "65300",
@@ -1562,7 +2102,7 @@
       "https://macma.ro/products/jpg/M/6530007_print.jpg",
       "https://macma.ro/products/jpg/M/6530007_print_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1585,7 +2125,33 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      },
+      {
+        "code": "RS2",
+        "label": "Macma method RS2",
+        "labelRo": "Metodă Macma RS2",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "65401",
@@ -1602,7 +2168,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/6540107_lifestyle_3.jpg",
       "https://macma.ro/products/jpg/M/6540107_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1625,7 +2191,33 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      },
+      {
+        "code": "RS2",
+        "label": "Macma method RS2",
+        "labelRo": "Metodă Macma RS2",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "65403",
@@ -1644,7 +2236,7 @@
       "https://macma.ro/products/jpg/M/6540307_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6540307_lifestyle_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1667,7 +2259,27 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "RS2",
+        "label": "Macma method RS2",
+        "labelRo": "Metodă Macma RS2",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "65420",
@@ -1696,7 +2308,7 @@
       "https://macma.ro/products/jpg/M/6542004_2.jpg",
       "https://macma.ro/products/jpg/M/6542004_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -1726,7 +2338,15 @@
     "summary": "Plastic thermo travel mug with sliding ledge and 400 ml capacity.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "65610",
@@ -1761,7 +2381,7 @@
       "https://macma.ro/products/jpg/M/6561010_1.jpg",
       "https://macma.ro/products/jpg/M/6561010_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -1805,6 +2425,14 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "68799",
     "supplierVariantIds": [
@@ -1821,7 +2449,7 @@
       "https://macma.ro/products/jpg/M/6879903_box.jpg",
       "https://macma.ro/products/jpg/M/6879903_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1845,6 +2473,26 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      },
+      {
+        "code": "RS2",
+        "label": "Macma method RS2",
+        "labelRo": "Metodă Macma RS2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "83580",
     "supplierVariantIds": [
@@ -1860,7 +2508,7 @@
       "https://macma.ro/products/jpg/M/8358007_3.jpg",
       "https://macma.ro/products/jpg/M/8358007_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1882,6 +2530,14 @@
     "summary": "Double-walled vacuum drinking bottle made of stainless steel for sublimation printing in photo quality and a capacity of 500ml.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "SU",
+        "label": "Sublimation",
+        "labelRo": "Sublimare",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "83824",
     "supplierVariantIds": [
@@ -1898,7 +2554,7 @@
       "https://macma.ro/products/jpg/M/8382406_4.jpg",
       "https://macma.ro/products/jpg/M/8382406_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1921,6 +2577,14 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
       "fiber-laser"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "83890",
@@ -1959,7 +2623,7 @@
       "https://macma.ro/products/jpg/M/8389012_4.jpg",
       "https://macma.ro/products/jpg/M/8389012_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -1994,7 +2658,27 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "RS2",
+        "label": "Macma method RS2",
+        "labelRo": "Metodă Macma RS2",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "83893",
@@ -2017,7 +2701,7 @@
       "https://macma.ro/products/jpg/M/8389306_3.jpg",
       "https://macma.ro/products/jpg/M/8389306_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -2044,7 +2728,21 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "83975",
@@ -2062,7 +2760,7 @@
       "https://macma.ro/products/jpg/M/8397507_4.jpg",
       "https://macma.ro/products/jpg/M/8397507_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2086,6 +2784,14 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "84248",
     "supplierVariantIds": [
@@ -2102,7 +2808,7 @@
       "https://macma.ro/products/jpg/M/8424803_5.jpg",
       "https://macma.ro/products/jpg/M/8424803_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2125,6 +2831,14 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
       "fiber-laser"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "84318",
@@ -2152,7 +2866,7 @@
       "https://macma.ro/products/jpg/M/8431803_5.jpg",
       "https://macma.ro/products/jpg/M/8431803_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -2179,6 +2893,16 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
       "co2"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": [
+          "4 × 4"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "84676",
@@ -2208,7 +2932,7 @@
       "https://macma.ro/products/jpg/M/8467677_5.jpg",
       "https://macma.ro/products/jpg/M/8467677_6_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -2234,7 +2958,15 @@
     "summary": "Double-walled XXL plastic drinking cup with a capacity of 1200ml, practical carrying handle and removable straw in the lid.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "84686",
@@ -2278,7 +3010,7 @@
       "https://macma.ro/products/jpg/M/8468605_5.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8468605_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -2314,6 +3046,20 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "RS2",
+        "label": "Macma method RS2",
+        "labelRo": "Metodă Macma RS2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "84749",
     "supplierVariantIds": [
@@ -2331,7 +3077,7 @@
       "https://macma.ro/products/jpg/M/8474903_4.jpg",
       "https://macma.ro/products/jpg/M/8474903_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2355,6 +3101,20 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "RS2",
+        "label": "Macma method RS2",
+        "labelRo": "Metodă Macma RS2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "84814",
     "supplierVariantIds": [
@@ -2371,7 +3131,7 @@
       "https://macma.ro/products/jpg/M/8481413_5.jpg",
       "https://macma.ro/products/jpg/M/8481413_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2395,6 +3155,20 @@
     "personalizations": [
       "uv-print",
       "fiber-laser"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      },
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "84819",
@@ -2423,7 +3197,7 @@
       "https://macma.ro/products/jpg/M/8481929_3.jpg",
       "https://macma.ro/products/jpg/M/8481929_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -2454,7 +3228,21 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "84829",
@@ -2477,7 +3265,7 @@
       "https://macma.ro/products/jpg/M/8482907_1.jpg",
       "https://macma.ro/products/jpg/M/8482907_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -2509,6 +3297,14 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "84961",
     "supplierVariantIds": [
@@ -2526,7 +3322,7 @@
       "https://macma.ro/products/jpg/M/8496195_5.jpg",
       "https://macma.ro/products/jpg/M/8496195_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2548,7 +3344,15 @@
     "summary": "Double-walled drinking cup with a stainless steel interior and a recycled plastic exterior. Filling capacity of 350ml and a leak-proof screw cap with lockable drinking opening.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "84962",
@@ -2638,7 +3442,7 @@
       "https://macma.ro/products/jpg/M/8496203_4.jpg",
       "https://macma.ro/products/jpg/M/8496203_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 11,
     "colorCount": 11,
     "sizeCount": 0,
@@ -2701,7 +3505,21 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "85106",
@@ -2736,7 +3554,7 @@
       "https://macma.ro/products/jpg/M/8510613_5.jpg",
       "https://macma.ro/products/jpg/M/8510613_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -2768,6 +3586,16 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": [
+          "ø 4"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "85225",
     "supplierVariantIds": [
@@ -2782,7 +3610,7 @@
       "https://macma.ro/products/jpg/M/8522507_2.jpg",
       "https://macma.ro/products/jpg/M/8522507_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2806,6 +3634,16 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": [
+          "ø 4"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "85226",
     "supplierVariantIds": [
@@ -2820,7 +3658,7 @@
       "https://macma.ro/products/jpg/M/8522607_2.jpg",
       "https://macma.ro/products/jpg/M/8522607_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2843,6 +3681,20 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
       "fiber-laser"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "RS2",
+        "label": "Macma method RS2",
+        "labelRo": "Metodă Macma RS2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "85236",
@@ -2877,7 +3729,7 @@
       "https://macma.ro/products/jpg/M/8523605_3.jpg",
       "https://macma.ro/products/jpg/M/8523605_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -2912,7 +3764,27 @@
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "RS2",
+        "label": "Macma method RS2",
+        "labelRo": "Metodă Macma RS2",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "85239",
@@ -3003,7 +3875,7 @@
       "https://macma.ro/products/jpg/M/8523908_5.jpg",
       "https://macma.ro/products/jpg/M/8523908_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 10,
     "colorCount": 10,
     "sizeCount": 0,
@@ -3061,6 +3933,14 @@
     "summary": "Double-walled sublimation drinking bottle made of stainless steel with a capacity of 500ml and a carrying handle.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "SU",
+        "label": "Sublimation",
+        "labelRo": "Sublimare",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "85259",
     "supplierVariantIds": [
@@ -3077,7 +3957,7 @@
       "https://macma.ro/products/jpg/M/8525906_4.jpg",
       "https://macma.ro/products/jpg/M/8525906_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3100,6 +3980,16 @@
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
       "co2"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "4 x 4"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "85365",
@@ -3126,7 +4016,7 @@
       "https://macma.ro/products/jpg/M/8536506_5.jpg",
       "https://macma.ro/products/jpg/M/8536506_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -3153,6 +4043,16 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
       "co2"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "4 x 4"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "85368",
@@ -3183,7 +4083,7 @@
       "https://macma.ro/products/jpg/M/8536844_2.jpg",
       "https://macma.ro/products/jpg/M/8536844_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -3218,7 +4118,25 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "4 x 4"
+        ]
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": [
+          "4 x 4"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "85369",
@@ -3263,7 +4181,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/8536944_lifestyle_3.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8536944_lifestyle_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -3303,6 +4221,24 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "4 x 4"
+        ]
+      },
+      {
+        "code": "RS2",
+        "label": "Macma method RS2",
+        "labelRo": "Metodă Macma RS2",
+        "printSizes": [
+          "4 x 4"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "85396",
     "supplierVariantIds": [
@@ -3317,7 +4253,7 @@
       "https://macma.ro/products/jpg/M/8539603_2.jpg",
       "https://macma.ro/products/jpg/M/8539603_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3341,6 +4277,16 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": [
+          "4 x 4"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "85399",
     "supplierVariantIds": [
@@ -3355,7 +4301,7 @@
       "https://macma.ro/products/jpg/M/8539904_2_box.jpg",
       "https://macma.ro/products/jpg/M/8539904_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3379,6 +4325,16 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": [
+          "4 x 4"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "85414",
     "supplierVariantIds": [
@@ -3396,7 +4352,7 @@
       "https://macma.ro/products/jpg/M/8541409_5.jpg",
       "https://macma.ro/products/jpg/M/8541409_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3419,6 +4375,16 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
       "co2"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": [
+          "4 x 4"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "85415",
@@ -3461,7 +4427,7 @@
       "https://macma.ro/products/jpg/M/8541506_5.jpg",
       "https://macma.ro/products/jpg/M/8541506_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -3497,6 +4463,16 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": [
+          "4 x 4"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "85453",
     "supplierVariantIds": [
@@ -3513,7 +4489,7 @@
       "https://macma.ro/products/jpg/M/8545307_5.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8545307_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3537,6 +4513,24 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "4 x 4"
+        ]
+      },
+      {
+        "code": "RS2",
+        "label": "Macma method RS2",
+        "labelRo": "Metodă Macma RS2",
+        "printSizes": [
+          "4 x 4"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "85458",
     "supplierVariantIds": [
@@ -3558,7 +4552,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/8545807_lifestyle_5.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8545807_lifestyle_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3581,7 +4575,25 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "4 x 4"
+        ]
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": [
+          "4 x 4"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "85475",
@@ -3641,7 +4653,7 @@
       "https://macma.ro/products/jpg/M/8547599_5.jpg",
       "https://macma.ro/products/jpg/M/8547599_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -3680,7 +4692,25 @@
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": [
+          "4 x 4"
+        ]
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": [
+          "4 x 4"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "85488",
@@ -3717,7 +4747,7 @@
       "https://macma.ro/products/jpg/M/8548899_2.jpg",
       "https://macma.ro/products/jpg/M/8548899_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -3756,7 +4786,25 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "4 x 4"
+        ]
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": [
+          "4 x 4"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "85598",
@@ -3837,7 +4885,7 @@
       "https://macma.ro/products/jpg/M/8559844_4.jpg",
       "https://macma.ro/products/jpg/M/8559844_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 10,
     "colorCount": 10,
     "sizeCount": 0,
@@ -3897,6 +4945,16 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": [
+          "4 x 4"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "85617",
     "supplierVariantIds": [
@@ -3930,7 +4988,7 @@
       "https://macma.ro/products/jpg/M/8561799_2.jpg",
       "https://macma.ro/products/jpg/M/8561799_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -3965,7 +5023,25 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "4 x 4"
+        ]
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": [
+          "4 x 4"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "85651",
@@ -3996,7 +5072,7 @@
       "https://macma.ro/products/jpg/M/8565199_1.jpg",
       "https://macma.ro/products/jpg/M/8565199_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -4035,7 +5111,25 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": [
+          "3 × 5"
+        ]
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": [
+          "3 × 5"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "ADRASAN",
@@ -4056,7 +5150,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5106000aj3_8.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5106000aj3_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -4080,6 +5174,16 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "3 × 5"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "ARANSOL",
     "supplierVariantIds": [
@@ -4096,7 +5200,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5106100aj3_5.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5106100aj3_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -4120,6 +5224,16 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "3 × 5"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "F4912200AJ",
     "supplierVariantIds": [
@@ -4137,7 +5251,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4912200aj3_6.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4912200aj3_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -4161,6 +5275,16 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "3 × 5"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "F5105900AJ3",
     "supplierVariantIds": [
@@ -4174,7 +5298,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5105900aj3_2.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5105900aj3_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -4196,6 +5320,7 @@
     "summary": "Vanilla Season XXL thermo mug with volume of 1 liter. The mug includes a straw and is made of stainless steel. The mug will maintain the temperature of your cold and hot drink approx. 6 hours. It‘s a great accessory f...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "MADURAI",
     "supplierVariantIds": [
@@ -4219,7 +5344,7 @@
       "https://macma.ro/products/jpg/PSV/VANILLA/f5106200aj3_k.jpg",
       "https://macma.ro/products/jpg/PSV/VANILLA/f5106200aj3_l.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -4241,6 +5366,7 @@
     "summary": "Elegant double walled stainless steel thermo mug in beige with a capacity of 350 ml. The mug is suitable for cold and hot drinks and is very handy for example during your way to work. It will maintain the temperature ...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "NAKAI",
     "supplierVariantIds": [
@@ -4259,7 +5385,7 @@
       "https://macma.ro/products/jpg/PSV/VANILLA/f5106300aj3_f.jpg",
       "https://macma.ro/products/jpg/PSV/VANILLA/f5106300aj3_g.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -4282,6 +5408,24 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": [
+          "3 × 4"
+        ]
+      },
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "3 × 4"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "NIKKO",
     "supplierVariantIds": [
@@ -4300,7 +5444,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4912301aj3_4.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4912302aj3_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,

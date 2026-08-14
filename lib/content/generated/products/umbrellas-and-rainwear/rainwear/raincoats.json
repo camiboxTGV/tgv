@@ -6,7 +6,21 @@
     "summary": "Transparent emergency poncho in a plastic sleeve with paper insert.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "40978",
@@ -25,7 +39,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/4097866_lifestyle_5.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/4097866_lifestyle_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -47,6 +61,14 @@
     "summary": "Compostable Rain Poncho made from PLA with carrier bag.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "41882",
     "supplierVariantIds": [
@@ -65,7 +87,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/4188266_lifestyle_5.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/4188266_lifestyle_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -87,8 +109,22 @@
     "summary": "Transparent rain poncho with RPET pouch and carrying strap.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "43788",
@@ -127,7 +163,7 @@
       "https://macma.ro/products/jpg/M/4378809_4.jpg",
       "https://macma.ro/products/jpg/M/4378809_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -161,7 +197,17 @@
     "summary": "Classic raincoat with pushbuttons and hood in XL, made of PVC.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "10 × 6"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "49101",
@@ -176,7 +222,7 @@
       "https://macma.ro/products/jpg/M/4910166_1.jpg",
       "https://macma.ro/products/jpg/M/4910166_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -198,6 +244,14 @@
     "summary": "Bicolour reversible raincoat, made of PVC, in standard XL size with pushbuttons and hood.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "S2-PL",
+        "label": "Macma method S2-PL",
+        "labelRo": "Metodă Macma S2-PL",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "49205",
     "supplierVariantIds": [
@@ -231,7 +285,7 @@
       "https://macma.ro/products/jpg/M/4920549_3.jpg",
       "https://macma.ro/products/jpg/M/4920549_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 1,
@@ -261,6 +315,14 @@
     "summary": "Disposable rain poncho in plastic cover.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "49218",
     "supplierVariantIds": [
@@ -276,7 +338,7 @@
       "https://macma.ro/products/jpg/M/4921866_3.jpg",
       "https://macma.ro/products/jpg/M/4921866_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -298,8 +360,22 @@
     "summary": "Foldable rain poncho with reflective stripe and a drawstring for the hood, which can be folded into a fanny pack. Perfect for stowing away, this poncho should always be with you.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "52671",
@@ -320,7 +396,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/5267144_lifestyle_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/5267144_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

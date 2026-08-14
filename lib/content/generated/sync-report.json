@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-08-14T12:42:32.578Z",
+  "ranAt": "2026-08-14T14:36:00.295Z",
   "success": true,
   "totalProducts": 2027,
   "totalUnclassified": 23,
@@ -31,7 +31,52 @@
           "count": 1
         }
       ],
-      "unknownPersonalizationCodes": [],
+      "unknownPersonalizationCodes": [
+        {
+          "code": "M",
+          "count": 91
+        },
+        {
+          "code": "VM",
+          "count": 62
+        },
+        {
+          "code": "RS2",
+          "count": 39
+        },
+        {
+          "code": "DO",
+          "count": 9
+        },
+        {
+          "code": "RS1",
+          "count": 8
+        },
+        {
+          "code": "RS3",
+          "count": 6
+        },
+        {
+          "code": "H0",
+          "count": 4
+        },
+        {
+          "code": "G0",
+          "count": 3
+        },
+        {
+          "code": "S2-PL",
+          "count": 2
+        },
+        {
+          "code": "SU-MUG",
+          "count": 2
+        },
+        {
+          "code": "S1-PL",
+          "count": 1
+        }
+      ],
       "images": {
         "downloaded": 0,
         "skipped": 0,

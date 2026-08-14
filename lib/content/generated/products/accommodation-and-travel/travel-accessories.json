@@ -6,7 +6,15 @@
     "summary": "Travel set including USB charger for the car, power bank (2.200 mAh), EU plug, and a USB cable, packed in a case.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "20081",
@@ -28,7 +36,7 @@
       "https://macma.ro/products/jpg/M/2008106_9.jpg",
       "https://macma.ro/products/jpg/M/2008106_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -50,8 +58,22 @@
     "summary": "Travel wallet with integrated 4000 mAh power bank, pen loop, pockets, mobile phone holder, and charging cable. We will print your logo on the outer case.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "20751",
@@ -67,7 +89,7 @@
       "https://macma.ro/products/jpg/M/2075103_3.jpg",
       "https://macma.ro/products/jpg/M/2075103_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -91,6 +113,14 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "29069",
     "supplierVariantIds": [
@@ -108,7 +138,7 @@
       "https://macma.ro/products/jpg/M/2906903_5.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/2906903_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -130,7 +160,15 @@
     "summary": "USB hand held fan with 3 adjustable levels, comfortable handle, and Micro USB charging cable, an ideal companion on-the-go. Battery capacity: 400 mAh, with 1.5 hours of operating time.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "31484",
@@ -152,7 +190,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/3148406_lifestyle_1.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/3148406_lifestyle_8.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -174,7 +212,15 @@
     "summary": "Travel set consisting of a USB and a C-type connection, optionally on the mains plug or the 12-volt plug. Packed in a zipper case.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "32516",
@@ -200,7 +246,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/3251606_lifestyle_8.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/3251606_lifestyle_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -222,7 +268,15 @@
     "summary": "Plastic lanyard with Type C charging cable (In & Out).",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "34984",
@@ -242,7 +296,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/3498403_lifestyle_1.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/3498403_lifestyle_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -264,7 +318,15 @@
     "summary": "Practical 3 in 1 wireless charger with which you can easily charge 3 devices at the same time (mobile phone, headphones and smart watch).",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "35247",
@@ -285,7 +347,7 @@
       "https://macma.ro/products/jpg/M/3524703_7.jpg",
       "https://macma.ro/products/jpg/M/3524703_8.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -307,7 +369,15 @@
     "summary": "Bluetooth in-ear headphones (40mAh) with rechargeable case (500mAh). When charged, they have a playing time of up to 6 hours. Bluetooth version 5.4.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "35249",
@@ -326,7 +396,7 @@
       "https://macma.ro/products/jpg/M/3524903_4.jpg",
       "https://macma.ro/products/jpg/M/3524903_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -348,7 +418,17 @@
     "summary": "Compact handheld fan with five adjustable speed settings. 5W power and a rechargeable battery lasting up to 3–4 hours (on level one), comes with charging cable: Type C connection (USB to USB-C cable). Battery capacity...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "4 x 2"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "35384",
@@ -367,7 +447,7 @@
       "https://macma.ro/products/jpg/M/3538403_6.jpg",
       "https://macma.ro/products/jpg/M/3538403_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -389,7 +469,17 @@
     "summary": "Wall charger plug in with 30W output, equipped with USB-A and USB-C ports as well as fast-charging functionality. Ideal for quickly charging smartphones, tablets, and other devices.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "3 x 2"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "35392",
@@ -405,7 +495,7 @@
       "https://macma.ro/products/jpg/M/3539206_3.jpg",
       "https://macma.ro/products/jpg/M/3539206_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -427,8 +517,22 @@
     "summary": "Wherever you travel to, from now on you will always have the needed adapter with you (US, UK, AUS, EU, Asia).",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "40394",
@@ -449,7 +553,7 @@
       "https://macma.ro/products/jpg/M/4039406_box.jpg",
       "https://macma.ro/products/jpg/M/4039406_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -471,7 +575,15 @@
     "summary": "Rubberized travel adapter in a case with adapters for all countries and 2 USB ports. It allows you to charge and use your devices around the world.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "40838",
@@ -496,7 +608,7 @@
       "https://macma.ro/products/jpg/M/4083803_box.jpg",
       "https://macma.ro/products/jpg/M/4083803_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -518,8 +630,22 @@
     "summary": "Cotton face mask (mouth and nose protection) 2-ply (outside 225g / m², inside 145 g / m²) with elastic rubber bands.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "50464",
@@ -540,7 +666,7 @@
       "https://macma.ro/products/jpg/M/5046403_2.jpg",
       "https://macma.ro/products/jpg/M/5046403_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 1,
@@ -566,7 +692,15 @@
     "summary": "Silicone bag attachable to your smartphone, with emergency +2.00 mini reading glasses, now you can read small prints anywhere.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "50755",
@@ -583,7 +717,7 @@
       "https://macma.ro/products/jpg/M/5075503_4.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/5075503_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -605,8 +739,25 @@
     "summary": "Disposable face mask (mouth-nose protection) 3-layer with elastic band holder and wire bracket for fixation.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "5 × 1,5"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "5 × 1,5"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "52031",
@@ -621,7 +772,7 @@
       "https://macma.ro/products/jpg/M/5203124_1.jpg",
       "https://macma.ro/products/jpg/M/5203124_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -643,7 +794,15 @@
     "summary": "This battery charger is a real innovation. It can charge up to 4 alkaline cells (AA/AAA alkaline) or NiMH batteries within two hours and use them again. Including a power plug.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "57913",
@@ -660,7 +819,7 @@
       "https://macma.ro/products/jpg/M/5791307_3.jpg",
       "https://macma.ro/products/jpg/M/5791307_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -682,8 +841,22 @@
     "summary": "Travel set including an inflatable neck pillow, sleeping mask, and a laundry bag. It offers everything you need to relax on your travels.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "61429",
@@ -703,7 +876,7 @@
       "https://macma.ro/products/jpg/M/6142907_6.jpg",
       "https://macma.ro/products/jpg/M/6142907_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -724,7 +897,17 @@
     "category": "accommodation-and-travel/travel-accessories",
     "summary": "Small travel companion with a big message: with this bag holder you can easily attach another bag to the handle, and thus travel more comfortably.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
-    "personalizations": [],
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "61769",
     "supplierVariantIds": [
@@ -738,7 +921,7 @@
       "https://macma.ro/products/jpg/M/6176906_1.jpg",
       "https://macma.ro/products/jpg/M/6176906_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -760,8 +943,22 @@
     "summary": "Inflatable soft travel pillow made of velvet for long relaxing journeys by car, train or plane.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "63125",
@@ -794,7 +991,7 @@
       "https://macma.ro/products/jpg/M/6312503_2.jpg",
       "https://macma.ro/products/jpg/M/6312503_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -829,7 +1026,21 @@
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "63231",
@@ -847,7 +1058,7 @@
       "https://macma.ro/products/jpg/M/6323101_4.jpg",
       "https://macma.ro/products/jpg/M/6323101_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -869,7 +1080,15 @@
     "summary": "Digital luggage scale with overweight function and maximum capacity of 40kg. You can always check your luggage before travelling.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "63533",
@@ -886,7 +1105,7 @@
       "https://macma.ro/products/jpg/M/6353303_3.jpg",
       "https://macma.ro/products/jpg/M/6353303_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -908,8 +1127,22 @@
     "summary": "CrisMa travel blanket (120 x 200 cm) made of cosy microfibre with an anthracite-coloured side and a light grey side with quilted seams. Particularly warm thanks to the padding on the inside. The blanket is packed in a...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "63847",
@@ -929,7 +1162,7 @@
       "https://macma.ro/products/jpg/M/6384777_6.jpg",
       "https://macma.ro/products/jpg/M/6384777_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -951,8 +1184,22 @@
     "summary": "Large, hard-wearing garment bag made of non-woven fabric with carrying handle and zip. Opening at the top for the clothes hanger.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "64543",
@@ -968,7 +1215,7 @@
       "https://macma.ro/products/jpg/M/6454377_2.jpg",
       "https://macma.ro/products/jpg/M/6454377_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -990,8 +1237,26 @@
     "summary": "Soft fleece blanket that quickly transforms into a pillow. With an integrated carabiner, trolley strap, and a size of 120 x 150 cm, this 2-in-1 blanket is a versatile companion that combines comfort and functionality.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "20 x 15"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "20 x 15"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "65459",
@@ -1009,7 +1274,7 @@
       "https://macma.ro/products/jpg/M/6545944_4.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6545944_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1031,8 +1296,26 @@
     "summary": "Practical PU cosmetic bag with hanging hook.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "12 x 6"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "12 x 6"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "65489",
@@ -1048,7 +1331,7 @@
       "https://macma.ro/products/jpg/M/6548903_3.jpg",
       "https://macma.ro/products/jpg/M/6548903_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1070,6 +1353,14 @@
     "summary": "Heart-shaped PVC cooling or warming pad. Keep the item in the freezer or refrigerator to cool or put it in the microwave for a few seconds to warm.Please note that due to the flexible material, only a 1-colour print i...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "S1-PL",
+        "label": "Macma method S1-PL",
+        "labelRo": "Metodă Macma S1-PL",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "70773",
     "supplierVariantIds": [
@@ -1082,7 +1373,7 @@
       "https://macma.ro/products/jpg/M/other/7077305_1.jpg",
       "https://macma.ro/products/jpg/M/other/7077305_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1104,6 +1395,16 @@
     "summary": "PVC cooling or warming pad. Keep the item in the freezer or refrigerator to cool or put it in the microwave for a few seconds to warm.Please note that due to the flexible material, only a 1-colour print in black or wh...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": [
+          "4 × 3"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "70774",
     "supplierVariantIds": [
@@ -1115,7 +1416,7 @@
     "images": [
       "https://macma.ro/products/jpg/M/other/7077404_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1137,7 +1438,15 @@
     "summary": "Neck pillow made of plush and memory foam, it adapts perfectly to every head shape and guarantees a relaxed journey.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "71342",
@@ -1153,7 +1462,7 @@
       "https://macma.ro/products/jpg/M/7134244_2.jpg",
       "https://macma.ro/products/jpg/M/7134244_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1175,7 +1484,15 @@
     "summary": "Practical plastic travel toothbrush that clips together. Perfect for travelling and fits anywhere thanks to its small size.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "73854",
@@ -1194,7 +1511,7 @@
       "https://macma.ro/products/jpg/M/7385404_1.jpg",
       "https://macma.ro/products/jpg/M/7385404_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -1220,8 +1537,21 @@
     "summary": "6-piece luxurious CrisMa manicure set with stainless steel instruments.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "74012",
@@ -1247,7 +1577,7 @@
       "https://macma.ro/products/jpg/M/7401206_3.jpg",
       "https://macma.ro/products/jpg/M/7401206_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -1275,6 +1605,14 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "74340",
     "supplierVariantIds": [
@@ -1291,7 +1629,7 @@
       "https://macma.ro/products/jpg/M/7434013_3.jpg",
       "https://macma.ro/products/jpg/M/7434013_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1313,8 +1651,22 @@
     "summary": "High-quality leather manicure case with stainless steel cutlery and diamond nail file, 7 pieces.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "74520",
@@ -1334,7 +1686,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/7452003_lifestyle_3.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/7452003_lifestyle_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1356,8 +1708,22 @@
     "summary": "Sleep and eye mask with a skin-friendly cotton inner surface and a recycled polyester outer surface. Breathable and comfortable, the perfect companion for travelling or a restful night's sleep. Fits all head sizes tha...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "74792",
@@ -1373,7 +1739,7 @@
       "https://macma.ro/products/jpg/M/7479203_3.jpg",
       "https://macma.ro/products/jpg/M/7479203_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1395,7 +1761,17 @@
     "summary": "Electric toothbrush (200 mAh) with 4 spare brushes and USB-C connection incl. charging cable. Perfect for taking with you when travelling.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": [
+          "12 x 8"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "74987",
@@ -1416,7 +1792,7 @@
       "https://macma.ro/products/jpg/M/7498777_8.jpg",
       "https://macma.ro/products/jpg/M/7498777_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1438,6 +1814,7 @@
     "summary": "Replacement toothbrush head for model 74987. No branding.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "75274",
     "supplierVariantIds": [
@@ -1455,7 +1832,7 @@
       "https://macma.ro/products/jpg/M/7527406_6.jpg",
       "https://macma.ro/products/jpg/M/7527406_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1478,6 +1855,16 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "3 x 1"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "75373",
     "supplierVariantIds": [
@@ -1495,7 +1882,7 @@
       "https://macma.ro/products/jpg/M/7537307_6_box.jpg",
       "https://macma.ro/products/jpg/M/7537307_7_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1517,8 +1904,26 @@
     "summary": "Travel set consisting of an eye mask and a pillow. Made of microfiber material. Ideal for flights, train rides, or car trips.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "8 x 3"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "8 x 3"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "75439",
@@ -1542,7 +1947,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/7543977_lifestyle_5.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/7543977_lifestyle_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1564,7 +1969,17 @@
     "summary": "Compact metallic blue travel hairdryer with 1100 watts and 3 temperature settings (cold & 2 heat levels).",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": [
+          "4 x 3"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "75486",
@@ -1582,7 +1997,7 @@
       "https://macma.ro/products/jpg/M/7548644_5.jpg",
       "https://macma.ro/products/jpg/M/7548644_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1603,7 +2018,17 @@
     "summary": "Compact 5-piece manicure set in a metal case with stainless steel tools: 1 pc nail file, 1 pc tweezers, 1 pc scissor and 2 pcs clippers.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "4 x 3"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "75500",
@@ -1621,7 +2046,7 @@
       "https://macma.ro/products/jpg/M/7550003_5.jpg",
       "https://macma.ro/products/jpg/M/7550003_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1643,7 +2068,22 @@
     "summary": "Travel sewing kit in a handy size.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "78003",
@@ -1657,7 +2097,7 @@
       "https://macma.ro/products/jpg/M/7800306_1.jpg",
       "https://macma.ro/products/jpg/M/7800306_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1680,8 +2120,34 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": [
+          "3 × 10"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "3 × 10"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "3 × 10"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "82585",
@@ -1698,7 +2164,7 @@
       "https://macma.ro/products/jpg/M/8258513_3.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8258513_lifestyle_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1722,6 +2188,14 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "90734",
     "supplierVariantIds": [
@@ -1739,7 +2213,7 @@
       "https://macma.ro/products/jpg/M/9073403_4.jpg",
       "https://macma.ro/products/jpg/M/9073403_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1762,7 +2236,21 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "91186",
@@ -1777,7 +2265,7 @@
       "https://macma.ro/products/jpg/M/9118603_1.jpg",
       "https://macma.ro/products/jpg/M/9118603_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1799,7 +2287,15 @@
     "summary": "Adjustable polyester luggage strap (to 1,90m) with fastener.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "91344",
@@ -1842,7 +2338,7 @@
       "https://macma.ro/products/jpg/M/9134406_3.jpg",
       "https://macma.ro/products/jpg/M/9134406_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -1881,7 +2377,21 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "91385",
@@ -1897,7 +2407,7 @@
       "https://macma.ro/products/jpg/M/9138503_2.jpg",
       "https://macma.ro/products/jpg/M/9138503_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1919,7 +2429,15 @@
     "summary": "Transparent, flexible PVC cover for travel, vaccination or other documents. Protects against dirt and wear.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "92576",
@@ -1935,7 +2453,7 @@
       "https://macma.ro/products/jpg/M/9257666_3.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/9257666_lifestyle_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1957,7 +2475,15 @@
     "summary": "Luggage tag made of water-repellent PU material, belt loop for fastening and address field window that can be closed with a press stud.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "94938",
@@ -1982,7 +2508,7 @@
       "https://macma.ro/products/jpg/M/9493805_3.jpg",
       "https://macma.ro/products/jpg/M/9493805_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -2010,6 +2536,16 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G1",
+        "label": "Engraving 1",
+        "labelRo": "Gravură 1",
+        "printSizes": [
+          "3 x 1"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "95359",
     "supplierVariantIds": [
@@ -2031,7 +2567,7 @@
       "https://macma.ro/products/jpg/M/9535907_4.jpg",
       "https://macma.ro/products/jpg/M/9535907_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -2057,8 +2593,26 @@
     "summary": "Travel pouch with slip and zip compartments inside made of recycled polyester (RPET).",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "10 x 5"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "10 x 5"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "95472",
@@ -2076,7 +2630,7 @@
       "https://macma.ro/products/jpg/M/9547203_5.jpg",
       "https://macma.ro/products/jpg/M/9547203_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2098,6 +2652,7 @@
     "summary": "Schwarzwolf 65W travel adapter with 4 different plugs (EU – Europe, UK – Great Britain, AU – Australia and New Zealand, US – USA and Canada). The adapter contains 3 USB inputs (USB + 2 × USB Type-C). Input AC 100V – 2...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "B1100600AJ3",
     "supplierVariantIds": [
@@ -2117,7 +2672,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b1100600aj3_g_0.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b1100600aj3_h_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2139,6 +2694,7 @@
     "summary": "Practical multi-purpose Schwarzwolf bag for cosmetics and small items in black for comfortable travel. It can be used as an electronics organizer. The bag contains 3 mesh zippered pockets. It includes a buckle that ca...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "F0700100AJ3",
     "supplierVariantIds": [
@@ -2155,7 +2711,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f0700100aj3_d_0.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f0700100aj3_e_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2177,6 +2733,7 @@
     "summary": "Quality and practical Schwarzwolf backpack is suitable for travelling as well as every day use. It has a main zipper compartment with a laptop pocket, a front zipper pocket with a pocket and organizer for small items ...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "F3524900AJ3",
     "supplierVariantIds": [
@@ -2193,7 +2750,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f3524900aj3_d_0.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f3524900aj3_e_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2215,6 +2772,7 @@
     "summary": "Schwarzwolf lightweight camping sleeping bag. It has a drawstring hood and can be completely unzipped. Thanks to this,  you can connect two pieces together to create an original spacious sleeping bag or use it as a co...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "F480180",
     "supplierVariantIds": [
@@ -2232,7 +2790,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4801800aj3_e.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4801800aj3_f.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2254,6 +2812,7 @@
     "summary": "Schwarzwolf travel inflatable cushion in a black color. Packed in a drawstring pouch.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "F480190",
     "supplierVariantIds": [
@@ -2270,7 +2829,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4801900aj3_d.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4801900aj3_e.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2292,6 +2851,7 @@
     "summary": "Schwarzwolf 2in1 fleece travel blanket that can be used as a blanket or folded into a cover made of the same material and turned it into a comfortable pillow. The blanket is made in dark gray and can be used during yo...",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "F560060",
     "supplierVariantIds": [
@@ -2310,7 +2870,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5600600aj3_f.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5600600aj3_g.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2332,6 +2892,7 @@
     "summary": "Small Schwarzwolf travel case for accessories, ID papers, money or credit cards, which you will appreciate during your activities. The case has a RFID protection and contains one main zipper pocket and a side zipper p...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "F7606000AJ3",
     "supplierVariantIds": [
@@ -2347,7 +2908,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f7606000aj3_4.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f7606000aj3_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

@@ -6,7 +6,15 @@
     "summary": "Spacious paper bag (recycled - 120g/m²) with bottom fold, 2 strong handles and coloured front and rear. This nice bag is also perfectly reusable.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "61817",
@@ -29,7 +37,7 @@
       "https://macma.ro/products/jpg/M/6181702_1.jpg",
       "https://macma.ro/products/jpg/M/6181702_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -59,7 +67,15 @@
     "summary": "Small reuseable paper bag (recycled - 120g/m²) with bottom fold, 2 strong handles and coloured front and rear.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "61818",
@@ -83,7 +99,7 @@
       "https://macma.ro/products/jpg/M/6181809_2.jpg",
       "https://macma.ro/products/jpg/M/6181809_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -113,7 +129,15 @@
     "summary": "The perfect gift bag for wine bottles. Thanks to the different prints, you´ll always find the right one for anyone. We will add a full colour label onto the bag for your logo.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "83531",
@@ -129,7 +153,7 @@
       "https://macma.ro/products/jpg/M/83531ma_2.jpg",
       "https://macma.ro/products/jpg/M/83531ma_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

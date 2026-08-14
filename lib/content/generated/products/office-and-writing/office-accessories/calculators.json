@@ -6,7 +6,15 @@
     "summary": "Acrylic transparent pen holder featuring time, day, date and thermometer.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "21030",
@@ -24,7 +32,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/2103066_lifestyle_4.jpg",
       "https://macma.ro/products/jpg/M/2103066_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -47,7 +55,21 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "22564",
@@ -65,7 +87,7 @@
       "https://macma.ro/products/jpg/M/2256407_4.jpg",
       "https://macma.ro/products/jpg/M/2256407_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -88,7 +110,21 @@
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "23154",
@@ -108,7 +144,7 @@
       "https://macma.ro/products/jpg/M/2315413_6.jpg",
       "https://macma.ro/products/jpg/M/2315413_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -132,6 +168,14 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "27503",
     "supplierVariantIds": [
@@ -148,7 +192,7 @@
       "https://macma.ro/products/jpg/M/2750366_5.jpg",
       "https://macma.ro/products/jpg/M/2750366_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -170,8 +214,22 @@
     "summary": "CrisMa design desk calculator with 12 digits and solar power made of silver plastic. Unique, thanks to the digital printing possibilities -create your calculator just as you like.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "33540",
@@ -207,7 +265,7 @@
       "https://macma.ro/products/jpg/M/3354006_9.jpg",
       "https://macma.ro/products/jpg/M/3354006_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -229,8 +287,22 @@
     "summary": "CrisMa design desk calculator with 12 digits and solar power made of silver plastic. Unique, thanks to the digital printing possibilities -create your calculator just as you like.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "33551",
@@ -264,7 +336,7 @@
       "https://macma.ro/products/jpg/M/3355106_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/3355106_lifestyle_11.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -287,7 +359,21 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "33916",
@@ -303,7 +389,7 @@
       "https://macma.ro/products/jpg/M/3391607_2.jpg",
       "https://macma.ro/products/jpg/M/3391607_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -327,6 +413,14 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "40744",
     "supplierVariantIds": [
@@ -341,7 +435,7 @@
       "https://macma.ro/products/jpg/M/4074407_box.jpg",
       "https://macma.ro/products/jpg/M/4074407_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -363,7 +457,15 @@
     "summary": "Wall clock with hygro and thermometer, made of plastic.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "41213",
@@ -379,7 +481,7 @@
       "https://macma.ro/products/jpg/M/4121307_box.jpg",
       "https://macma.ro/products/jpg/M/4121307_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -401,7 +503,15 @@
     "summary": "Modern wall clock with thermo and hygrometer.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "41223",
@@ -416,7 +526,7 @@
       "https://macma.ro/products/jpg/M/4122303_1.jpg",
       "https://macma.ro/products/jpg/M/4122303_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -438,8 +548,22 @@
     "summary": "Exclusive, pioneering CrisMa design wall clock, featuring hygrometer and thermometer.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "41238",
@@ -478,7 +602,7 @@
       "https://macma.ro/products/jpg/M/4123809_box.jpg",
       "https://macma.ro/products/jpg/M/4123809_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -516,8 +640,22 @@
     "summary": "Exclusive, pioneering CrisMa design wall clock with removable plate for the easiest printing of your logo!",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "41239",
@@ -533,7 +671,7 @@
       "https://macma.ro/products/jpg/M/4123906_box.jpg",
       "https://macma.ro/products/jpg/M/4123906_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -555,7 +693,15 @@
     "summary": "Exclusive, pioneering CrisMa design analogue wall clock, displays date, day and temperature.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "41240",
@@ -575,7 +721,7 @@
       "https://macma.ro/products/jpg/M/4124006_box.jpg",
       "https://macma.ro/products/jpg/M/4124006_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -598,7 +744,21 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "42462",
@@ -619,7 +779,7 @@
       "https://macma.ro/products/jpg/M/4246213_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/4246213_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -642,7 +802,21 @@
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "42591",
@@ -660,7 +834,7 @@
       "https://macma.ro/products/jpg/M/4259113_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/4259113_lifestyle_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -682,8 +856,22 @@
     "summary": "Large radio wall clock. Radio controlled time - just activate it once by putting in the battery, press reset, and the time will be set automatically.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "43275",
@@ -704,7 +892,7 @@
       "https://macma.ro/products/jpg/M/4327506_box.jpg",
       "https://macma.ro/products/jpg/M/4327506_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -727,6 +915,20 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      },
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "43449",
@@ -758,7 +960,7 @@
       "https://macma.ro/products/jpg/M/4344907_box.jpg",
       "https://macma.ro/products/jpg/M/4344907_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -780,8 +982,28 @@
     "summary": "Classic wall clock with hygro and thermometer. Thanks to a bayonet the display can be easily taken out,and the clock can be easily printed.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "43450",
@@ -807,7 +1029,7 @@
       "https://macma.ro/products/jpg/M/4345003_box.jpg",
       "https://macma.ro/products/jpg/M/4345003_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -833,8 +1055,22 @@
     "summary": "Fancy wall clock with hygrometer and thermometer, features a clever click system for fast and trouble-free printing.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "47871",
@@ -857,7 +1093,7 @@
       "https://macma.ro/products/jpg/M/4787103_box.jpg",
       "https://macma.ro/products/jpg/M/4787103_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -883,8 +1119,22 @@
     "summary": "Modern wall clock with a clever click system for fast and trouble-free printing.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "47872",
@@ -908,7 +1158,7 @@
       "https://macma.ro/products/jpg/M/4787203_box.jpg",
       "https://macma.ro/products/jpg/M/4787203_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -934,6 +1184,14 @@
     "summary": "CENTURIO - Italian sportive design paired with Swiss precision. This Swiss chronograph with large display (42mm width) has all features for sporty people: second hand, stop watch, date, speedometer, sapphire crystal, ...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "F215",
     "supplierVariantIds": [
@@ -956,7 +1214,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/f21503_lifestyle_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/f21503_lifestyle_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -979,6 +1237,16 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
       "fiber-laser"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": [
+          "ask"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "F216",
@@ -1004,7 +1272,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/f21607_lifestyle_3.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/f21607_lifestyle_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

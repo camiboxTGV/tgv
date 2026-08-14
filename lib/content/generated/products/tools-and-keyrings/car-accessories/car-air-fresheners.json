@@ -6,8 +6,28 @@
     "summary": "Black polyester and fleece ice scraper glove to protect your hands against cold weather conditions.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "90268",
@@ -22,7 +42,7 @@
       "https://macma.ro/products/jpg/M/9026877_1.jpg",
       "https://macma.ro/products/jpg/M/9026877_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -44,7 +64,15 @@
     "summary": "Ergonomic plastic scraper with removable scraper and brush for better cleaning of the windshield.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "90891",
@@ -59,7 +87,7 @@
       "https://macma.ro/products/jpg/M/9089106_1.jpg",
       "https://macma.ro/products/jpg/M/9089106_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -81,8 +109,28 @@
     "summary": "Safety vest with reflective stripes, Class 2 - ISO 20471 certified, a must have in every vehicle.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S1",
+        "label": "Direct screen printing",
+        "labelRo": "Serigrafie directă",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "90995",
@@ -98,7 +146,7 @@
       "https://macma.ro/products/jpg/M/9099508_1.jpg",
       "https://macma.ro/products/jpg/M/9099508_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -120,6 +168,14 @@
     "summary": "Aluminium insulating blanket with pouch. Perfect for picnics and camping because of its impermeability to water. Your logo will be printed on the outside of the pouch.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "92656",
     "supplierVariantIds": [
@@ -140,7 +196,7 @@
       "https://macma.ro/products/jpg/M/9265607_9.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/9265607_lifestyle_10.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -162,8 +218,28 @@
     "summary": "Children's safety jacket with reflecting stripes class 2, EN 17353:2020 certified. This safety jacket is a must have in every car.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S1",
+        "label": "Direct screen printing",
+        "labelRo": "Serigrafie directă",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "92888",
@@ -186,7 +262,7 @@
       "https://macma.ro/products/jpg/M/9288808_4.jpg",
       "https://macma.ro/products/jpg/M/9288808_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 1,
@@ -212,7 +288,17 @@
     "summary": "Sturdy magnetic phone holder made of PE. The package contains: 2 magnetic rings, 1 adhesive base, 1 XL-shaped wrench, 1 dry and 1 wet wipe.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": [
+          "4 x 4"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "95487",
@@ -233,7 +319,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/9548777_lifestyle_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/9548777_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -256,7 +342,25 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "3,5 x 0,8"
+        ]
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "3,5 x 0,8"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "95493",
@@ -276,7 +380,7 @@
       "https://macma.ro/products/jpg/M/9549307_6.jpg",
       "https://macma.ro/products/jpg/M/9549307_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -298,8 +402,22 @@
     "summary": "Parking disc with ice scraper and squeegee.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "99011",
@@ -313,7 +431,7 @@
       "https://macma.ro/products/jpg/M/9901104_2.jpg",
       "https://macma.ro/products/jpg/M/9901104_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -334,7 +452,17 @@
     "category": "tools-and-keyrings/car-accessories/car-air-fresheners",
     "summary": "Ice scraper transparently frosted.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
-    "personalizations": [],
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "99012",
     "supplierVariantIds": [
@@ -354,7 +482,7 @@
       "https://macma.ro/products/jpg/M/9901266_1.jpg",
       "https://macma.ro/products/jpg/M/9901210_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,

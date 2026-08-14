@@ -6,8 +6,28 @@
     "summary": "Rubberized A5 notebook with a metal stripe. The notebook has 192 lined pages and a magnetic closure.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "20087",
@@ -26,7 +46,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/2008703_lifestyle_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/2008703_lifestyle_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -48,8 +68,28 @@
     "summary": "Trendy A6 notebook with 160 lined pages for all your spontaneous ideas, with rubber band, pen loop, and pocket loop.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "20315",
@@ -81,7 +121,7 @@
       "https://macma.ro/products/jpg/M/2031510_4.jpg",
       "https://macma.ro/products/jpg/M/2031510_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -115,8 +155,21 @@
     "summary": "Ring binder with 70 pages \"to do\" list and ball pen.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "20497",
@@ -151,7 +204,7 @@
       "https://macma.ro/products/jpg/M/2049703_6.jpg",
       "https://macma.ro/products/jpg/M/2049703_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -185,8 +238,21 @@
     "summary": "Small notebook with a cardboard cover, 160 squared pages and rubber band. The notebook comes with a pen.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "20581",
@@ -203,7 +269,7 @@
       "https://macma.ro/products/jpg/M/2058101_4.jpg",
       "https://macma.ro/products/jpg/M/2058101_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -225,8 +291,21 @@
     "summary": "Notebook with a cardboard cover, 160 squared pages and rubber band. The notebook comes with a pen.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "20582",
@@ -246,7 +325,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/2058201_lifestyle_6.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/2058201_lifestyle_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -268,7 +347,15 @@
     "summary": "Notepad with spiral binding, 50 checkered pages, various sticky notes and a smiley face on the cover sheet.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "20583",
@@ -286,7 +373,7 @@
       "https://macma.ro/products/jpg/M/2058301_3.jpg",
       "https://macma.ro/products/jpg/M/2058301_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -310,6 +397,14 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "20633",
     "supplierVariantIds": [
@@ -325,7 +420,7 @@
       "https://macma.ro/products/jpg/M/2063303_3.jpg",
       "https://macma.ro/products/jpg/M/2063303_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -347,9 +442,35 @@
     "summary": "A5 notebook with cork cover, 160 lined pages, bookmark, and rubber band for closing.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
+      "textile-transfer",
       "co2",
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "20826",
@@ -369,7 +490,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/2082613_lifestyle_5.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/2082613_lifestyle_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -392,8 +513,34 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "20827",
@@ -410,7 +557,7 @@
       "https://macma.ro/products/jpg/M/2082713_4.jpg",
       "https://macma.ro/products/jpg/M/2082713_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -432,8 +579,21 @@
     "summary": "Double foldable writing case made of cardboard with closing rubber band. The case includes an 80-pages note pad, 20 coloured sticky markers in 5 different colours, notes, two rulers, pen, sharpener, eraser, and two pe...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "21194",
@@ -456,7 +616,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/2119401_lifestyle_7.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/2119401_lifestyle_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -478,7 +638,15 @@
     "summary": "Sticky notes and markers in a white hard cover book. The perfect compact note set. Contains 100 note sheets and 25 of each coloured markers.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "21283",
@@ -498,7 +666,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/2128306_lifestyle_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/2128306_lifestyle_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -520,7 +688,15 @@
     "summary": "Notebook in a cork cover with 5 different coloured sticky markers (25 pieces each), yellow sticky notes (25 pieces) and a pad with 200 pages.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "21354",
@@ -539,7 +715,7 @@
       "https://macma.ro/products/jpg/M/2135413_5.jpg",
       "https://macma.ro/products/jpg/M/2135413_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -562,8 +738,28 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "21357",
@@ -579,7 +775,7 @@
       "https://macma.ro/products/jpg/M/2135707_3.jpg",
       "https://macma.ro/products/jpg/M/2135707_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -601,8 +797,21 @@
     "summary": "A5 notebook with 192 squared pages, ribbon, and structured cover with pocket for e.g. a ballpen.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "21363",
@@ -635,7 +844,7 @@
       "https://macma.ro/products/jpg/M/2136306_7.jpg",
       "https://macma.ro/products/jpg/M/2136306_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -665,8 +874,21 @@
     "summary": "A6 notebook with 160 squared pages, ribbon, and structured cover with pocket for e.g. a ballpen.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "21364",
@@ -700,7 +922,7 @@
       "https://macma.ro/products/jpg/M/2136407_box.jpg",
       "https://macma.ro/products/jpg/M/2136407_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -730,8 +952,21 @@
     "summary": "A5 paper book with 160 recycled pages - dot printed - which you can use perfectly for sketches or writing.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "21799",
@@ -774,7 +1009,7 @@
       "https://macma.ro/products/jpg/M/2179901_4.jpg",
       "https://macma.ro/products/jpg/M/2179901_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -813,8 +1048,34 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "21811",
@@ -839,7 +1100,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/2181103_lifestyle_6.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/2181103_lifestyle_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -865,8 +1126,21 @@
     "summary": "A5 Notebook with PU-Cover, 192 ruled Papers, Bookmark and an elastic band to close, including Pen Holder.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "22385",
@@ -905,7 +1179,7 @@
       "https://macma.ro/products/jpg/M/2238505_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/2238505_lifestyle_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -935,8 +1209,21 @@
     "summary": "A5 Notebook with ring binder mechanism, ruler, 120 dotted pages, sticky notes and elastic strap.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "22387",
@@ -955,7 +1242,7 @@
       "https://macma.ro/products/jpg/M/2238701_6.jpg",
       "https://macma.ro/products/jpg/M/2238701_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -977,8 +1264,21 @@
     "summary": "A5 notebook with a cover made of recycled leather with elastic band to close, reading mark and 160 lined pages.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "22746",
@@ -1003,7 +1303,7 @@
       "https://macma.ro/products/jpg/M/2274603_5.jpg",
       "https://macma.ro/products/jpg/M/2274603_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -1029,7 +1329,15 @@
     "summary": "Practical sticky notes set - the ideal product for any desktop, with 200 yellow and blue sticky notes and 200 adhesive labels in 6 different colours, and additional compartment for e.g. business cards.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "22843",
@@ -1046,7 +1354,7 @@
       "https://macma.ro/products/jpg/M/2284303_3.jpg",
       "https://macma.ro/products/jpg/M/2284303_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1068,7 +1376,22 @@
     "summary": "Cardboard notebook with spiral binding, 160 recycled lined pages, pen loop and elastic strap closure.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "23217",
@@ -1087,7 +1410,7 @@
       "https://macma.ro/products/jpg/M/2321713_6.jpg",
       "https://macma.ro/products/jpg/M/2321713_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1110,7 +1433,21 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "23218",
@@ -1127,7 +1464,7 @@
       "https://macma.ro/products/jpg/M/2321813_4.jpg",
       "https://macma.ro/products/jpg/M/2321813_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1149,8 +1486,21 @@
     "summary": "Simple A5 notebook with 100 chequered pages, 70g/m², and colourful cover.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "23258",
@@ -1176,7 +1526,7 @@
       "https://macma.ro/products/jpg/M/2325808_3.jpg",
       "https://macma.ro/products/jpg/M/2325808_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -1206,7 +1556,22 @@
     "summary": "Recycled A5 notebook made of kraft paper with 120 lined pages, 70g/m².",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "23386",
@@ -1223,7 +1588,7 @@
       "https://macma.ro/products/jpg/M/2338613_4.jpg",
       "https://macma.ro/products/jpg/M/2338613_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1245,8 +1610,28 @@
     "summary": "Notebook with rubber band for closing, 120 lined pages and extra compartment.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "23445",
@@ -1268,7 +1653,7 @@
       "https://macma.ro/products/jpg/M/2344501_8.jpg",
       "https://macma.ro/products/jpg/M/2344501_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1290,8 +1675,22 @@
     "summary": "A5 notebook made of PU with pen loop, suede look on the outside and 192 lined pages.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "23476",
@@ -1311,7 +1710,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/2347644_lifestyle_1.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/2347644_lifestyle_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1334,8 +1733,28 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "23744",
@@ -1359,7 +1778,7 @@
       "https://macma.ro/products/jpg/M/2374407_5.jpg",
       "https://macma.ro/products/jpg/M/2374407_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -1385,8 +1804,35 @@
     "summary": "Our recycled PU notebook with 192 lined recycled pages, elastic band to close and pen loop.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
+      "textile-transfer",
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "5 × 3"
+        ]
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "5 × 3"
+        ]
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": [
+          "5 × 3"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "23748",
@@ -1441,7 +1887,7 @@
       "https://macma.ro/products/jpg/M/2374899_5.jpg",
       "https://macma.ro/products/jpg/M/2374899_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -1484,7 +1930,21 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "23774",
@@ -1518,7 +1978,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/2377404_lifestyle_1.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/2377404_lifestyle_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -1548,7 +2008,15 @@
     "summary": "Sticky marker set consisting of 50 large natural coloured sticky notes, 25 coloured sticky notes and 25 small natural coloured sticky notes.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "23775",
@@ -1565,7 +2033,7 @@
       "https://macma.ro/products/jpg/M/2377513_3.jpg",
       "https://macma.ro/products/jpg/M/2377513_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1587,8 +2055,21 @@
     "summary": "A5 notebook made of recycled paper with 120 pages, elastic band for closing and pen loop incl. ball pen with blue writing refill.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "23776",
@@ -1627,7 +2108,7 @@
       "https://macma.ro/products/jpg/M/2377609_5.jpg",
       "https://macma.ro/products/jpg/M/2377609_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -1661,7 +2142,15 @@
     "summary": "Notebook with 70 pages and blue writing ball pen. For marking, another 25 large and small sticky notes are included, as well as 25 coloured sticky markers each.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "23779",
@@ -1679,7 +2168,7 @@
       "https://macma.ro/products/jpg/M/2377913_4.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/2377913_lifestyle_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1702,8 +2191,28 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "23867",
@@ -1744,7 +2253,7 @@
       "https://macma.ro/products/jpg/M/2386710_4.jpg",
       "https://macma.ro/products/jpg/M/2386710_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -1778,8 +2287,22 @@
     "summary": "Notepad with 200 note sheets made from recycled milk carton paper.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "23870",
@@ -1797,7 +2320,7 @@
       "https://macma.ro/products/jpg/M/2387013_5.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/2387013_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1819,8 +2342,28 @@
     "summary": "A5 notebook with imitation leather cover, magnetic closure and 160 lined pages made from environmentally friendly and wood-free sugar cane paper.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "24227",
@@ -1849,7 +2392,7 @@
       "https://macma.ro/products/jpg/M/2422707_4.jpg",
       "https://macma.ro/products/jpg/M/2422707_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -1879,7 +2422,15 @@
     "summary": "A5 notebook with wood-effect cover, 160 lined pages, elasticated closure and ribbon marker.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "24358",
@@ -1895,7 +2446,7 @@
       "https://macma.ro/products/jpg/M/2435813_3.jpg",
       "https://macma.ro/products/jpg/M/2435813_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1918,7 +2469,42 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "12 × 10"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "12 × 10"
+        ]
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": [
+          "12 × 10"
+        ]
+      },
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": [
+          "12 × 10"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "24386",
@@ -1946,7 +2532,7 @@
       "https://macma.ro/products/jpg/M/2438603_8.jpg",
       "https://macma.ro/products/jpg/M/2438603_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1968,7 +2554,15 @@
     "summary": "Sticky note set with different sticky markers and notes (25 sheets each), ruler edge in spiral notepad (80 lined pages).",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "24471",
@@ -1985,7 +2579,7 @@
       "https://macma.ro/products/jpg/M/2447113_4.jpg",
       "https://macma.ro/products/jpg/M/2447113_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2008,8 +2602,28 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "24472",
@@ -2029,7 +2643,7 @@
       "https://macma.ro/products/jpg/M/2447207_7.jpg",
       "https://macma.ro/products/jpg/M/2447207_8.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2051,8 +2665,28 @@
     "summary": "B7 notebook made from recycled paper with 120 lined pages, grammage 70g/m².",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "24478",
@@ -2070,7 +2704,7 @@
       "https://macma.ro/products/jpg/M/2447813_5.jpg",
       "https://macma.ro/products/jpg/M/2447813_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2093,7 +2727,21 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "24481",
@@ -2109,7 +2757,7 @@
       "https://macma.ro/products/jpg/M/2448113_3.jpg",
       "https://macma.ro/products/jpg/M/2448113_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2131,7 +2779,22 @@
     "summary": "CrisMa Set consisting of a notebook with 192 lined pages and a matching colour ball pen with large capacity refill.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "24763",
@@ -2184,7 +2847,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/2476395_lifestyle_1.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/2476395_lifestyle_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -2214,7 +2877,22 @@
     "summary": "Notebook with a cover made from recycled milk carton, a magnetic closure made from cork and 160 lined pages made from sugar cane, ribbon marker and biros loop.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "24765",
@@ -2236,7 +2914,7 @@
       "https://macma.ro/products/jpg/M/2476513_9.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/2476513_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2259,7 +2937,21 @@
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "24777",
@@ -2279,7 +2971,7 @@
       "https://macma.ro/products/jpg/M/2477703_7.jpg",
       "https://macma.ro/products/jpg/M/2477703_8.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2301,7 +2993,17 @@
     "summary": "A4 conference folder made of non-woven material including note pad and CrisMa ball pen in matching colour.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "5 × 3"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "24905",
@@ -2314,7 +3016,7 @@
     "images": [
       "https://macma.ro/products/jpg/M/other/2490505_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2336,7 +3038,15 @@
     "summary": "A5 notebook with a soft cover made of PU with a ribbed structure and 96 lined pages made of sugar cane.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "24980",
@@ -2390,7 +3100,7 @@
       "https://macma.ro/products/jpg/M/2498013_4.jpg",
       "https://macma.ro/products/jpg/M/2498013_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 7,
     "colorCount": 7,
     "sizeCount": 0,
@@ -2436,7 +3146,15 @@
     "summary": "A5 ring binder with PU cover with 200 lined pages made of sugar cane.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "25253",
@@ -2475,7 +3193,7 @@
       "https://macma.ro/products/jpg/M/2525344_8.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/2525344_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -2505,8 +3223,35 @@
     "summary": "A5 notebook with a cover made of recycled PU and 160 lined pages made of recycled paper.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
+      "textile-transfer",
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "25261",
@@ -2623,7 +3368,7 @@
       "https://macma.ro/products/jpg/M/2526144_4.jpg",
       "https://macma.ro/products/jpg/M/2526144_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 12,
     "colorCount": 12,
     "sizeCount": 0,
@@ -2689,7 +3434,17 @@
     "summary": "A5 notebook with ballpoint pen. The notebook is made of recycled paper (160 lined pages), bamboo, and PU. The matching pen is made of aluminum and bamboo. Perfect for notes, ideas, sketches, and more.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "5 x 3"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "25290",
@@ -2706,7 +3461,7 @@
       "https://macma.ro/products/jpg/M/2529006_4.jpg",
       "https://macma.ro/products/jpg/M/2529006_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2728,7 +3483,26 @@
     "summary": "High-quality A5 notebook with 264 lined pages of recycled paper and a durable PU cover, ribbon bookmark. Ideal for notes, sketches, and meetings at the office or on the go.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "10 x 5"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "10 x 5"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "25394",
@@ -2754,7 +3528,7 @@
       "https://macma.ro/products/jpg/M/2539444_3.jpg",
       "https://macma.ro/products/jpg/M/2539444_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -2784,7 +3558,17 @@
     "summary": "A5 notebook with soft PU cover, 160 lined pages (80 sheets) made of recycled paper, ribbon bookmark, and elastic closure.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "5 x 3"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "25395",
@@ -2801,7 +3585,7 @@
       "https://macma.ro/products/jpg/M/2539503_4.jpg",
       "https://macma.ro/products/jpg/M/2539503_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2823,8 +3607,26 @@
     "summary": "A5 writing folder made of recycled PET with a zipper and a removable notebook containing 144 lined pages (72 sheets) made of sugarcane paper. The folder features a large storage compartment and smaller pockets inside.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "8 x 10"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "8 x 10"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "25432",
@@ -2842,7 +3644,7 @@
       "https://macma.ro/products/jpg/M/2543203_5.jpg",
       "https://macma.ro/products/jpg/M/2543203_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2864,7 +3666,26 @@
     "summary": "Gray A5 notebook made of recycled PU with 160 lined pages (80 sheets) from recycled paper and colored page edges.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "5 x 3"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "5 x 3"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "25477",
@@ -2902,7 +3723,7 @@
       "https://macma.ro/products/jpg/M/2547744_3.jpg",
       "https://macma.ro/products/jpg/M/2547744_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -2940,7 +3761,17 @@
     "summary": "A5 notebook with 200 lined pages (100 sheets) from recycled paper and PU soft cover.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "5 x 3"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "25592",
@@ -2973,7 +3804,7 @@
       "https://macma.ro/products/jpg/M/2559299_5.jpg",
       "https://macma.ro/products/jpg/M/2559299_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -3007,7 +3838,26 @@
     "summary": "A5 notebook with magnetic closure, recycled PU cover, and 192 lined pages (96 sheets, 80 g/m²).",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": [
+          "5 x 3"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "5 x 3"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "25614",
@@ -3036,7 +3886,7 @@
       "https://macma.ro/products/jpg/M/2561444_4.jpg",
       "https://macma.ro/products/jpg/M/2561444_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -3066,8 +3916,28 @@
     "summary": "Trendy A5 notebook with rubber band, pen loop, and pocket loop. Features folding compartment at the back for all those important papers.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "27636",
@@ -3086,7 +3956,7 @@
       "https://macma.ro/products/jpg/M/2763603_5.jpg",
       "https://macma.ro/products/jpg/M/2763603_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3108,8 +3978,35 @@
     "summary": "This pocketbook with PU hard cover, matching coloured elastic strap, and bookmark provides enough space for your notes on 160 pages.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
+      "textile-transfer",
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "28367",
@@ -3137,7 +4034,7 @@
       "https://macma.ro/products/jpg/M/2836705_1.jpg",
       "https://macma.ro/products/jpg/M/2836705_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -3171,8 +4068,28 @@
     "summary": "This large A4 notebook has a lot of space for important notes on its 160 lined pages (80 sheets). The tuck on the back and the elastic strap keep even small notes in place.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "28636",
@@ -3189,7 +4106,7 @@
       "https://macma.ro/products/jpg/M/2863603_3.jpg",
       "https://macma.ro/products/jpg/M/2863603_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3210,7 +4127,17 @@
     "category": "office-and-writing/notebooks-and-planners/notebooks",
     "summary": "Practical sticky marker set in a natural look with coloured sticky markers (25 pieces per colour) and yellow sticky notes (25 pieces).",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
-    "personalizations": [],
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "28711",
     "supplierVariantIds": [
@@ -3229,7 +4156,7 @@
       "https://macma.ro/products/jpg/M/2871101_5.jpg",
       "https://macma.ro/products/jpg/M/2871101_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3251,8 +4178,28 @@
     "summary": "A5 notebook with 160 lined pages and hard cover made of PU for notes. With black bookmark and rubber strap.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "28759",
@@ -3286,7 +4233,7 @@
       "https://macma.ro/products/jpg/M/2875905_4.jpg",
       "https://macma.ro/products/jpg/M/2875905_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -3320,7 +4267,15 @@
     "summary": "This small ring-binder provides coloured memo strips (25 pcs each colour), as well as yellow, pink, and green sticky notes (25 pcs each colour), thus you have the adequate marking for each note.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "28865",
@@ -3342,7 +4297,7 @@
       "https://macma.ro/products/jpg/M/2886501_8.jpg",
       "https://macma.ro/products/jpg/M/2886501_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3365,7 +4320,21 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "28909",
@@ -3387,7 +4356,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/2890901_lifestyle_7.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/2890901_lifestyle_8.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3409,7 +4378,17 @@
     "summary": "Notebook with 160 lined pages (80 sheets) of recycled paper and an integrated 16 GB USB (Type-C). Features a practical pen loop and an elegant anthracite-colored cover, ideal for the office and on the go.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": [
+          "5 x 3"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "35393",
@@ -3432,7 +4411,7 @@
       "https://macma.ro/products/jpg/M/3539377_9.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/3539377_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3454,7 +4433,17 @@
     "summary": "The REPORTER notebook and the CELEBRATION automatic ballpoint pen as previously described for more details. Something to write on and something to write with. A perfect combination that will produce a large smile on e...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "4 × 0,6"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "B3501200IP3",
@@ -3471,7 +4460,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b3501200ip3_4.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b3501200ip3_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3493,7 +4482,17 @@
     "summary": "The REPORTER notebook and the CELEBRATION automatic ballpoint pen as previously described for more details. Something to write on and something to write with. A perfect combination that will produce a large smile on e...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "4 × 0,6"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "B3501201IP3",
@@ -3510,7 +4509,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b3501201ip3_4.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b3501201ip3_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3532,7 +4531,17 @@
     "summary": "The REPORTER notebook and the CELEBRATION automatic ballpoint pen as previously described for more details. Something to write on and something to write with. A perfect combination that will produce a large smile on e...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "4 × 0,6"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "B3501202IP3",
@@ -3548,7 +4557,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b3501202ip3_3.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b3501202ip3_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3570,7 +4579,17 @@
     "summary": "The REPORTER notebook and the CELEBRATION automatic ballpoint pen as previously described for more details. Something to write on and something to write with. A perfect combination that will produce a large smile on e...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "4 × 0,6"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "B3501203IP3",
@@ -3586,7 +4605,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b3501203ip3_3.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b3501203ip3_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3608,7 +4627,17 @@
     "summary": "The REPORTER notebook and the CELEBRATION automatic ballpoint pen as previously described for more details. Something to write on and something to write with. A perfect combination that will produce a large smile on e...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "4 × 0,6"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "B3501204IP3",
@@ -3624,7 +4653,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b3501204ip3_3.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b3501204ip3_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3646,7 +4675,17 @@
     "summary": "Two-colour Pierre Cardin notepad A5, the surface is leather imitation. The notepad is equipped with gloss bookmark with metal plate, 160 dotted lines pages,80g. Dimensions:notepad 14.7×20.8×1.3cm,packaging 20.8×14.9×1...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "5 × 4"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "B4000500IP3",
@@ -3663,7 +4702,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b4000500ip3_4.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b4000500ip3_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3685,7 +4724,17 @@
     "summary": "Two-colour Pierre Cardin notepad A5, the surface is leather imitation. The notepad is equipped with gloss bookmark with metal plate, 160 dotted lines pages,80g. Dimensions:notepad 14.7×20.8×1.3cm,packaging 20.8×14.9×1...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "5 × 4"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "B4000501IP3",
@@ -3701,7 +4750,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b4000501ip3_3.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b4000501ip3_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3723,7 +4772,17 @@
     "summary": "Two-colour Pierre Cardin notepad A5, the surface is leather imitation. The notepad is equipped with gloss bookmark with metal plate, 160 dotted lines pages,80g. Dimensions:notepad 14.7×20.8×1.3cm,packaging 20.8×14.9×1...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "5 × 4"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "B4000502IP3",
@@ -3740,7 +4799,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b4000502ip3_4.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b4000502ip3_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3762,7 +4821,17 @@
     "summary": "This luxurious twin-color A5 notebook is produced in man-made leather looking material. It features 160 lined pages made of quality 80 gr paper and an elegant bookmark with a metal branded charm.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "5 × 4"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "B4000503IP3",
@@ -3778,7 +4847,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b4000503ip3_3.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b4000503ip3_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3800,7 +4869,17 @@
     "summary": "This luxurious twin-color A5 notebook is produced in man-made leather looking material. It features 160 lined pages made of quality 80 gr paper and an elegant bookmark with a metal branded charm.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "5 × 4"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "B4000504IP3",
@@ -3815,7 +4894,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b4000504ip3_2.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b4000504ip3_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3837,7 +4916,17 @@
     "summary": "This luxurious twin-color A5 notebook is produced in man-made leather looking material. It features 160 lined pages made of quality 80 gr paper and an elegant bookmark with a metal branded charm.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "5 × 4"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "B4000505IP3",
@@ -3852,7 +4941,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b4000505ip3_2.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b4000505ip3_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3874,7 +4963,17 @@
     "summary": "Luxury A5 notebook by Pierre Cardin in a black hard cover that is decorated with black stitching. The notebook has a magnetic closure decorated with an elegant silver plated metal clasp. Contains 192 lined pages of 70...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "4 × 0,7 clasp, 5 × 3 notebook"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "B4016600IP3",
@@ -3888,7 +4987,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b4016600ip3_1.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b4016600ip3_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3910,6 +5009,7 @@
     "summary": "Luxury Pierre Cardin set of notebook and DENISE ballpoint pen. The notebook is designed in black colour and contains 160 lined pages of 80 gr paper and a textile bookmark with a metal pendant with the Pierre Cardin lo...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "B4016700IP3",
     "supplierVariantIds": [
@@ -3928,7 +5028,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b4016700ip3_f.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b4016700ip3_g.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

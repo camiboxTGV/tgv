@@ -6,8 +6,28 @@
     "summary": "Oeko-Tex® STANDARD 100 certified gymbag made of cotton (140g/m²), ideal for sports equipment or for travelling.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S1",
+        "label": "Direct screen printing",
+        "labelRo": "Serigrafie directă",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "60024",
@@ -36,7 +56,7 @@
       "https://macma.ro/products/jpg/M/6002406_0.jpg",
       "https://macma.ro/products/jpg/M/6002406_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -78,7 +98,15 @@
     "summary": "Children's set - The set consists of a non-woven bag with a motif and a set of crayons (5 different colours) with which the bag can be painted at the same time.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "60586",
@@ -91,7 +119,7 @@
     "images": [
       "https://macma.ro/products/jpg/M/6058606_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -113,8 +141,22 @@
     "summary": "210D polyester cooler and gym bag, with insulating lining and drawstrings.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "60649",
@@ -178,7 +220,7 @@
       "https://macma.ro/products/jpg/M/6064911_1_print.jpg",
       "https://macma.ro/products/jpg/M/6064911_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 10,
     "colorCount": 10,
     "sizeCount": 0,
@@ -236,8 +278,22 @@
     "summary": "Natural cotton duffel bag with drawstrings, which also works as a shoulder strap. 220 g/m²",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "60661",
@@ -250,7 +306,7 @@
     "images": [
       "https://macma.ro/products/jpg/M/6066106_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -272,8 +328,28 @@
     "summary": "Gymbag from cotton (140g/m) in different colours, ideal for sports or on-the-go. Your logo will be printed on one side.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S1",
+        "label": "Direct screen printing",
+        "labelRo": "Serigrafie directă",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "61298",
@@ -295,7 +371,7 @@
       "https://macma.ro/products/jpg/M/6129805_0.jpg",
       "https://macma.ro/products/jpg/M/6129805_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -325,8 +401,22 @@
     "summary": "Cotton and jute gymbag with drawstring.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "61398",
@@ -342,7 +432,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/6139806_lifestyle_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6139806_lifestyle_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -364,8 +454,22 @@
     "summary": "Drawstring bag made from 210D polyester with cork bottom.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "62159",
@@ -380,7 +484,7 @@
       "https://macma.ro/products/jpg/M/6215903_1.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6215903_lifestyle_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -402,8 +506,28 @@
     "summary": "Oeko-Tex® STANDARD 100 certified gym cotton bag made from recycled cotton. Grammage 140g/m².",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S1",
+        "label": "Direct screen printing",
+        "labelRo": "Serigrafie directă",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "62543",
@@ -435,7 +559,7 @@
       "https://macma.ro/products/jpg/M/6254305_1.jpg",
       "https://macma.ro/products/jpg/M/6254305_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -469,8 +593,28 @@
     "summary": "Gym bag made of natural-coloured cotton, ideal for sports utensils or for clothes on journeys. 140 g/m²",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S1",
+        "label": "Direct screen printing",
+        "labelRo": "Serigrafie directă",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "63466",
@@ -485,7 +629,7 @@
       "https://macma.ro/products/jpg/M/6346606_1.jpg",
       "https://macma.ro/products/jpg/M/6346606_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -507,8 +651,22 @@
     "summary": "The water-repellent RPET Gymbag was made from recyclable plastics hegestellt. Integrated is a closable front compartment and two carrying straps with drawstring.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "63718",
@@ -544,7 +702,7 @@
       "https://macma.ro/products/jpg/M/6371810.jpg",
       "https://macma.ro/products/jpg/M/6371810_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -582,8 +740,22 @@
     "summary": "Fairtrade gymbag made of cotton (180g/m²) with Fairtrade label.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "63990",
@@ -598,7 +770,7 @@
       "https://macma.ro/products/jpg/M/6399013_1.jpg",
       "https://macma.ro/products/jpg/M/6399013_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -620,7 +792,15 @@
     "summary": "Gym bag made from 190T polyester. Particularly suitable for cyclists, joggers etc. thanks to the highly reflective material.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "64252",
@@ -635,7 +815,7 @@
       "https://macma.ro/products/jpg/M/6425207_0.jpg",
       "https://macma.ro/products/jpg/M/6425207_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -657,8 +837,28 @@
     "summary": "Gymbag made of 210D recycled polyester with 2 side cords as carrying straps. There are countless possible uses, e.g. as a gym bag or laundry bag.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      },
+      {
+        "code": "SU",
+        "label": "Sublimation",
+        "labelRo": "Sublimare",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "64700",
@@ -706,7 +906,7 @@
       "https://macma.ro/products/jpg/M/6470011_0.jpg",
       "https://macma.ro/products/jpg/M/6470011_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 11,
     "colorCount": 11,
     "sizeCount": 0,
@@ -768,8 +968,22 @@
     "summary": "Oeko-Tex® STANDARD 100 certified gymbag made of natural coloured cotton (140g/m²) with closable front compartment.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "64950",
@@ -783,7 +997,7 @@
       "https://macma.ro/products/jpg/M/6495006_0.jpg",
       "https://macma.ro/products/jpg/M/6495006_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -805,8 +1019,28 @@
     "summary": "This gym bag made of polyester is suitable for various occasions or carrying your training or dirty clothes. The drawstring can be used as carrying strap at the same time.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "SU",
+        "label": "Sublimation",
+        "labelRo": "Sublimare",
+        "printSizes": []
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "68515",
@@ -860,7 +1094,7 @@
       "https://macma.ro/products/jpg/M/6851504_2.jpg",
       "https://macma.ro/products/jpg/M/6851504_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 10,
     "colorCount": 10,
     "sizeCount": 0,
@@ -918,8 +1152,26 @@
     "summary": "Reflective Schwarzwolf drawstring bag is suitable for every day use or for a trip. Thanks to a material which meets the requirement of standard EN ISO 20471 for protective clothing you will feel safe. Volume: 2 l.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "10 × 8"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "10 × 8"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "AJF351013",
@@ -935,7 +1187,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f3510100aj3_3.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f3510100aj3_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -957,8 +1209,26 @@
     "summary": "Practical Schwarzwolf drawstring bag is suitable for casual wearing or for a trip. It is made of quality ripstop polyester (420D).Backpack can be easily folded to your handbag for eventual usage. Weight:105g. Volume:8...",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "15 × 15"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "15 × 15"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "F3500200AJ",
@@ -973,7 +1243,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f3500200aj3_2.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f3500200aj3_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

@@ -8,6 +8,16 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "2 × 0,3"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "5200100AJ3",
     "supplierVariantIds": [
@@ -21,7 +31,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5200100aj3_2.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5200100aj3_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -44,7 +54,21 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "82657",
@@ -63,7 +87,7 @@
       "https://macma.ro/products/jpg/M/8265713_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8265713_lifestyle_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -85,9 +109,29 @@
     "summary": "The complete bicycle repair kit, includes 17 pieces in a black bag.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
+      "textile-transfer",
       "fiber-laser",
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "88001",
@@ -107,7 +151,7 @@
       "https://macma.ro/products/jpg/M/8800103_8.jpg",
       "https://macma.ro/products/jpg/M/8800103_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -129,7 +173,15 @@
     "summary": "Bicycle repair kit consisting of 2 valves, 1 sandpaper, 2 tire levers, 2 valve caps, 2 tire levers, 5 patches and a wrench.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "92693",
@@ -148,7 +200,7 @@
       "https://macma.ro/products/jpg/M/9269366_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/9269366_lifestyle_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -170,8 +222,22 @@
     "summary": "Waterproof polyester saddle cover with elasticated strap, suitable for all standard bicycle saddles.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "93881",
@@ -196,7 +262,7 @@
       "https://macma.ro/products/jpg/M/9388107_0.jpg",
       "https://macma.ro/products/jpg/M/9388107_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -230,6 +296,7 @@
     "summary": "Multifunctional Schwarzwolf tool for bikers. It includes 22 tools: torx screwdriver (3 sizes), bottle opener, flat screwdriver, Philips screwdriver, 2 tire levers, chain breaker, hexagon wrench (2 sizes), spoke tool (...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "F520210",
     "supplierVariantIds": [
@@ -250,7 +317,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5202100aj3_h.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5202100aj3_i.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -274,6 +341,16 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "1,2 × 0,5"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "INARI",
     "supplierVariantIds": [
@@ -294,7 +371,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5202000aj3_8.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5202000aj3_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

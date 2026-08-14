@@ -6,7 +6,22 @@
     "summary": "Bamboo ballpen with touch function, silver applications and blue-writing refill.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "fiber-laser"
+      "fiber-laser",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG1",
+        "label": "CO₂ engraving 1",
+        "labelRo": "Gravură CO₂ 1",
+        "printSizes": []
+      },
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "13239",
@@ -23,7 +38,7 @@
       "https://macma.ro/products/jpg/M/1323913_3.jpg",
       "https://macma.ro/products/jpg/M/1323913_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

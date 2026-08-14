@@ -6,8 +6,34 @@
     "summary": "100% polyester. Quick-drying lightweight fabric, raglan sleeves with with topstitch detailing. 140g/m²",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "SU",
+        "label": "Sublimation",
+        "labelRo": "Sublimare",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "PA438",
@@ -207,7 +233,7 @@
       "https://macma.ro/products/jpg/TEXTIL/PROACT/pa438-wine_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/PROACT/pa438-wine_b1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 129,
     "colorCount": 23,
     "sizeCount": 5,
@@ -317,8 +343,34 @@
     "summary": "100% polyester. Quick-drying lightweight fabric, raglan sleeves with with topstitch detailing. 140g/m²",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "SU",
+        "label": "Sublimation",
+        "labelRo": "Sublimare",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "PA439",
@@ -486,7 +538,7 @@
       "https://macma.ro/products/jpg/TEXTIL/PROACT/pa439-white_a2.jpg",
       "https://macma.ro/products/jpg/TEXTIL/PROACT/pa439-wine_a1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 115,
     "colorCount": 24,
     "sizeCount": 5,

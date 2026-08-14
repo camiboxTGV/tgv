@@ -6,7 +6,17 @@
     "summary": "Cute hippo money box made of PVC material for kids and adults.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "3 x 2"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "55465",
@@ -41,7 +51,7 @@
       "https://macma.ro/products/jpg/M/5546509_3.jpg",
       "https://macma.ro/products/jpg/M/5546509_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -75,7 +85,15 @@
     "summary": "Transparent piggy bank.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "56235",
@@ -106,7 +124,7 @@
       "https://macma.ro/products/jpg/M/5623504_2.jpg",
       "https://macma.ro/products/jpg/M/5623504_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -140,6 +158,14 @@
     "summary": "This rotating globe-shaped savings box makes you dream of your next holiday.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "58386",
     "supplierVariantIds": [
@@ -157,7 +183,7 @@
       "https://macma.ro/products/jpg/M/58386mc_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/58386mc_lifestyle_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

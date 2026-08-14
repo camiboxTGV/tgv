@@ -6,7 +6,17 @@
     "summary": "Fashion glasses with transparent frames and reflective lenses in different colors, without UV protection. The logo is placed on the stem of the glasses.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "3,5 × 1"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "53428",
@@ -20,7 +30,7 @@
       "https://macma.ro/products/jpg/M/other/53428mc_1.jpg",
       "https://macma.ro/products/jpg/M/other/53428mc_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -43,7 +53,21 @@
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "53643",
@@ -61,7 +85,7 @@
       "https://macma.ro/products/jpg/M/5364313_4.jpg",
       "https://macma.ro/products/jpg/M/5364313_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -83,7 +107,15 @@
     "summary": "Sunglasses in \"Two Tone\" design made of high-quality plastic with UV 400 protection, filter category 3 and foldable temples.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "53674",
@@ -116,7 +148,7 @@
       "https://macma.ro/products/jpg/M/5367407_4.jpg",
       "https://macma.ro/products/jpg/M/5367407_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -146,7 +178,25 @@
     "summary": "Polarized Schwarzwolf sunglasses. The sunglasses frame and arms are black with red details on both arms with metalic hinges decorated with Schwarzwolf logo. Polarized glasses reduce unpleasant glare and eye fatigue. T...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "SU",
+        "label": "Sublimation",
+        "labelRo": "Sublimare",
+        "printSizes": [
+          "arms3×0,7 case5×1,5 cloth10×10"
+        ]
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "arms3×0,7 case5×1,5 cloth10×10"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "F1504600AJ3",
@@ -165,7 +215,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f1504600aj3_6.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f1504600aj3_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -187,7 +237,25 @@
     "summary": "Polarized Schwarzwolf sports sunglasses with coloured lens. The suglasses are made in black colour with Schwarzwof logo on the glasses legs. The lenses have UV400 protection. Comes with a black microfibre pouch and a ...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "arms3×0,7 case5×1,5 cloth10×10"
+        ]
+      },
+      {
+        "code": "SU",
+        "label": "Sublimation",
+        "labelRo": "Sublimare",
+        "printSizes": [
+          "arms3×0,7 case5×1,5 cloth10×10"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "F1504700AJ3",
@@ -207,7 +275,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f1504700aj3_7.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f1504700aj3_8.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -229,6 +297,7 @@
     "summary": "Polarized Schwarzwolf sports sunglasses with colored lenses. The sunglasses frame is made in white with grey \ndetails and have UV 400 protection. These sports glasses with polarized lenses eliminate annoying glare and...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "F1504900AJ3",
     "supplierVariantIds": [
@@ -246,7 +315,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f1504900aj3_f_0.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f1504900aj3_g_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -268,6 +337,7 @@
     "summary": "Polarized Schwarzwolf sports sunglasses with colored lenses. The sunglasses frame is made in black and have UV 400 protection. These sports glasses with polarized lenses eliminate annoying glare and improve visibility...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "F1505000AJ3",
     "supplierVariantIds": [
@@ -286,7 +356,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f1505000aj3_f_0.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f1505000aj3_g_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -308,8 +378,34 @@
     "summary": "Schwarzwolf hard case for sunglasses. The case is made of black canvas and velvet material. The case has a zipper with Schwarzwolf logo on the zipper slider. The case includes a black microfibre pouch and a white micr...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "case 5 × 1,5, cloth 10 × 10"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "case 5 × 1,5, cloth 10 × 10"
+        ]
+      },
+      {
+        "code": "SU",
+        "label": "Sublimation",
+        "labelRo": "Sublimare",
+        "printSizes": [
+          "case 5 × 1,5, cloth 10 × 10"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "F1701700AJ3",
@@ -325,7 +421,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f1701700aj3_3.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f1701700aj3_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

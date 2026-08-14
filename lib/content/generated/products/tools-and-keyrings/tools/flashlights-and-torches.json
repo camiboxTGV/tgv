@@ -6,7 +6,17 @@
     "summary": "Head lamp Schwarzwolf in black colour with COB diode. It has three modes of lightening: weak light, strong and flashing. Included headband rubber with Schwarzwolf logo. Packed in Schwarzwolf gift box.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "2 × 1"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "2300600AJ3",
@@ -21,7 +31,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2300600aj3_2.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2300600aj3_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -45,6 +55,16 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "2 × 0,5"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "2300700AJ3",
     "supplierVariantIds": [
@@ -60,7 +80,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2300700aj3_4.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2300700aj3_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -84,6 +104,14 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "80387",
     "supplierVariantIds": [
@@ -103,7 +131,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/8038703_lifestyle_2.jpg",
       "https://macma.ro/products/jpg/M/8038703_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -127,6 +155,14 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "81185",
     "supplierVariantIds": [
@@ -143,7 +179,7 @@
       "https://macma.ro/products/jpg/M/8118503_4.jpg",
       "https://macma.ro/products/jpg/M/8118503_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -167,6 +203,20 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      },
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "83062",
     "supplierVariantIds": [
@@ -185,7 +235,7 @@
       "https://macma.ro/products/jpg/M/8306203_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8306203_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -209,6 +259,14 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "88422",
     "supplierVariantIds": [
@@ -225,7 +283,7 @@
       "https://macma.ro/products/jpg/M/8842203_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8842203_lifestyle_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -248,6 +306,14 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
       "fiber-laser"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "88757",
@@ -276,7 +342,7 @@
       "https://macma.ro/products/jpg/M/8875703_box.jpg",
       "https://macma.ro/products/jpg/M/8875703_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -306,7 +372,15 @@
     "summary": "COB construction or work lamp made of plastic with 10 watts of power, 3 lighting functions (floor, SOS and flashing) and a fold-out handle for putting down or carrying. We deliver without battery.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "91173",
@@ -325,7 +399,7 @@
       "https://macma.ro/products/jpg/M/9117308_5.jpg",
       "https://macma.ro/products/jpg/M/9117308_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -348,7 +422,21 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "93791",
@@ -369,7 +457,7 @@
       "https://macma.ro/products/jpg/M/9379103_8.jpg",
       "https://macma.ro/products/jpg/M/9379103_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -391,7 +479,15 @@
     "summary": "Rechargeable torch (3W, 150 lumens) with 600mAh battery and additional side light (3W, 130 lumens). The torch has three light modes and is supplied with a charging cable.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "93851",
@@ -411,7 +507,7 @@
       "https://macma.ro/products/jpg/M/9385103_6.jpg",
       "https://macma.ro/products/jpg/M/9385103_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -435,6 +531,16 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": [
+          "2 × 1"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "94855",
     "supplierVariantIds": [
@@ -454,7 +560,7 @@
       "https://macma.ro/products/jpg/M/9485503_8.jpg",
       "https://macma.ro/products/jpg/M/9485503_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -477,7 +583,21 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "95182",
@@ -495,7 +615,7 @@
       "https://macma.ro/products/jpg/M/9518213_4.jpg",
       "https://macma.ro/products/jpg/M/9518213_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -519,6 +639,16 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": [
+          "2 × 0,5"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "AJF230103",
     "supplierVariantIds": [
@@ -536,7 +666,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2301000aj3_6.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2301000aj3_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -560,6 +690,16 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "3 × 0,7"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "F2308500AJ3",
     "supplierVariantIds": [
@@ -575,7 +715,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2308500aj3_4.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2308500aj3_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -599,6 +739,16 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "3 × 0,7"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "F2308700AJ3",
     "supplierVariantIds": [
@@ -616,7 +766,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2308700aj3_6.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2308700aj3_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -638,7 +788,17 @@
     "summary": "Schwarzwolf rechargeable head lamp with 5 LED diodes (main diode, 2 side diodes, 2 red side diodes). The head lamp has 3 modes of lighting: strong, weak, red. Thanks to its recharging it saves the environment. When th...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "2 × 0,6"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "F2308800AJ3",
@@ -657,7 +817,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2308800aj3_6.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2308800aj3_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

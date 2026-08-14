@@ -6,7 +6,17 @@
     "summary": "Quality and lightweight backpack suitable mainly for tourism.It has padded shoulder straps and back system, waist belt for a comfortable carrying, compression straps on the sides of the bag,mesh pockets for bottles on...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "7 × 4"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "3500800AJ3",
@@ -22,7 +32,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f3500800aj3_3.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f3500800aj3_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -44,7 +54,15 @@
     "summary": "Reflective Schwarzwolf bicycle backpack. The backpack has a padded back system and padded shoulder straps. The backpack also includes a main zipper compartment, a zipper pocket on the side, a small mesh pocket on the ...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "3510000AJ3",
@@ -61,7 +79,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f3510000aj3_4.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f3510000aj3_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -83,8 +101,22 @@
     "summary": "600D polyester backpack with suede-look contrasting bottom and closing strip, with hanging loop, shoulder straps, a front compartment and a filling capacity of 29 liters.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "50769",
@@ -101,7 +133,7 @@
       "https://macma.ro/products/jpg/M/5076944_3.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/5076944_lifestyle_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -123,8 +155,22 @@
     "summary": "The perfect backpack - HQ 1680D material that makes it good looking and long lasting.  It has a filling capacity of 15 liters.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "60389",
@@ -143,7 +189,7 @@
       "https://macma.ro/products/jpg/M/6038977_6.jpg",
       "https://macma.ro/products/jpg/M/6038977_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -165,8 +211,22 @@
     "summary": "600D polyester backpack with hanger loop, two side pockets, output for headphones, two padded shoulder straps and a filling capacity of 13 liters.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "60652",
@@ -199,7 +259,7 @@
       "https://macma.ro/products/jpg/M/6065206_2.jpg",
       "https://macma.ro/products/jpg/M/6065206_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -233,8 +293,22 @@
     "summary": "600D polyester backpack, with black zippers, front compartment and a filling capacity of 20 liters. The main compartment is ideal for carrying laptops or notebooks.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "60730",
@@ -255,7 +329,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/6073007_lifestyle_4.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6073007_lifestyle_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -277,8 +351,22 @@
     "summary": "600x300D polyester backpack, with two side pockets, front compartment, zippers and a filling capacity of 27 liters.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "60757",
@@ -294,7 +382,7 @@
       "https://macma.ro/products/jpg/M/6075707_2.jpg",
       "https://macma.ro/products/jpg/M/6075707_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -316,8 +404,22 @@
     "summary": "Shoulder bag made of polyester with long carrying strap. The main, front, and inside compartments are securely closed with zippers. You will find extra storage and a sewn-on lanyard to safely keep your keys.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "60916",
@@ -335,7 +437,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/6091607_lifestyle_4.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6091607_lifestyle_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -357,7 +459,15 @@
     "summary": "High-quality, water-resistant backpack made of 65% nylon and 35% polyurethane. With USB port and reinforced breathable shoulder straps. The backpack offers plenty of storage space with it´s filling capacity of 23 lite...",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "61299",
@@ -392,7 +502,7 @@
       "https://macma.ro/products/jpg/M/6129944_6.jpg",
       "https://macma.ro/products/jpg/M/6129944_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -418,8 +528,22 @@
     "summary": "High-quality, water-resistant backpack made of 600 DPU, with reinforced, breathable shoulder straps, side and inside pockets, a safety compartment and a filling capacity of 15 liters. Suitable for laptops up to 15,8 i...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "61334",
@@ -441,7 +565,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/6133403_lifestyle_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6133403_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -463,8 +587,22 @@
     "summary": "Trendy backpack with snowpolyester padded shoulder straps, coloured applications and a filling capacity of 29 liters. The backpack can be closed by simple rolling or folding.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "61338",
@@ -506,7 +644,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/6133805_lifestyle_8.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6133805_lifestyle_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -536,7 +674,15 @@
     "summary": "Neon-coloured, waterproof closable bag with shoulder / waist strap, reflective stripes on the front and a filling capacity of 15 liters.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S1",
+        "label": "Direct screen printing",
+        "labelRo": "Serigrafie directă",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "61516",
@@ -564,7 +710,7 @@
       "https://macma.ro/products/jpg/M/6151603_4.jpg",
       "https://macma.ro/products/jpg/M/6151603_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -590,8 +736,22 @@
     "summary": "RPET backpack made of 300D two-tone polyester and 210D RPET with a lockable main compartment, two lockable side compartments and a filling capacity of 20 liters. Padded shoulder straps and cork bottom. Easy to close b...",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "62571",
@@ -612,7 +772,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/6257103_lifestyle_7.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6257103_lifestyle_8.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -634,7 +794,15 @@
     "summary": "Waterresistant backpack made of 600D PVC with a filling capacity of 30 liters and reflective surfaces, padded shoulder straps, drinks compartment and several compartments in the interior. The perfect companion in any ...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "62650",
@@ -656,7 +824,7 @@
       "https://macma.ro/products/jpg/M/6265007_8.jpg",
       "https://macma.ro/products/jpg/M/6265007_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -678,8 +846,22 @@
     "summary": "Picnic backpack consisting of four plates, glasses, cutlery, a salt shaker, a pepper shaker, a picnic blanket and a bottle holder.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "62976",
@@ -700,7 +882,7 @@
       "https://macma.ro/products/jpg/M/6297677_7.jpg",
       "https://macma.ro/products/jpg/M/6297677_8.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -722,8 +904,22 @@
     "summary": "Backpack made of 600D polyester with integrated removable LED light (Wide White, Normal White, Flashing Red), padded straps, laptop compartment, a hanging loop and a filling capacity of 17 liters.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "63247",
@@ -744,7 +940,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/6324707_lifestyle_4.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6324707_lifestyle_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -766,8 +962,22 @@
     "summary": "600D polyester backpack with USB port, laptop compartment, padded and breathable shoulder straps, front pocket, anti-theft pocket and a filling capacity of 22 liters.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "63589",
@@ -811,7 +1021,7 @@
       "https://macma.ro/products/jpg/M/6358909_4.jpg",
       "https://macma.ro/products/jpg/M/6358909_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -845,8 +1055,22 @@
     "summary": "Backpack made of RPET with lapotop compartment, side pocket, front compartment with zipper, shoulder straps, rollable or foldable closure with velcro and plug and a filling capacity of 18 liters.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "63646",
@@ -865,7 +1089,7 @@
       "https://macma.ro/products/jpg/M/6364619_5.jpg",
       "https://macma.ro/products/jpg/M/6364619_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -887,8 +1111,22 @@
     "summary": "High-quality, waterreppelant nylon backpack with padded shoulder straps, handles, USB port, two lockable front pockets. a laptop compartment for 15.6 inch laptops and a filling capacity of 13 liters.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "63665",
@@ -937,7 +1175,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/6366504_lifestyle_7.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6366504_lifestyle_8.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -967,8 +1205,22 @@
     "summary": "Laptop backpack made of polyester with padded compartment for laptops up to 15.6\", many other compartments, a practical roll-top closure for extra storage space and a filling capacity of 25 liters.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "63705",
@@ -996,7 +1248,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/6370503_lifestyle_8.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6370503_lifestyle_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1018,8 +1270,22 @@
     "summary": "Large cooling backpack made of 600D polyester with a capacity of 25 litres and an additional insulated compartment in the lid and another zipped front compartment.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "63974",
@@ -1038,7 +1304,7 @@
       "https://macma.ro/products/jpg/M/6397407_5.jpg",
       "https://macma.ro/products/jpg/M/6397407_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1060,8 +1326,22 @@
     "summary": "Large sturdy polyester backpack with large front compartment, padded shoulder straps, a carrying strap and a filling capacity of 17 liters.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "64170",
@@ -1088,7 +1368,7 @@
       "https://macma.ro/products/jpg/M/6417010_0.jpg",
       "https://macma.ro/products/jpg/M/6417010_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -1126,8 +1406,22 @@
     "summary": "City bag with large main compartment, small zipper front compartment, mobile phone compartment on the broad carrying strap and a filling capacity of 4 liters.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "64191",
@@ -1146,7 +1440,7 @@
       "https://macma.ro/products/jpg/M/6419104_1.jpg",
       "https://macma.ro/products/jpg/M/6419104_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -1176,8 +1470,22 @@
     "summary": "Large rucksack made of RPET felt with flap and front pocket.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "64312",
@@ -1196,7 +1504,7 @@
       "https://macma.ro/products/jpg/M/6431277_4.jpg",
       "https://macma.ro/products/jpg/M/6431277_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1218,8 +1526,22 @@
     "summary": "Large hiking rucksack made of polyester with padded shoulder straps and ergonomically shaped back section, laptop compartment, large front compartment and small zip compartment in the flap. The additional fastening st...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "64342",
@@ -1239,7 +1561,7 @@
       "https://macma.ro/products/jpg/M/6434203_5.jpg",
       "https://macma.ro/products/jpg/M/6434203_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1261,8 +1583,22 @@
     "summary": "CrisMa travel backpack made of 900D polyester with 19 litres capacity. The shoulder straps can be stowed away in a zip compartment and the bag can be used as a bag thanks to the side handle.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "64345",
@@ -1288,7 +1624,7 @@
       "https://macma.ro/products/jpg/M/6434503_8.jpg",
       "https://macma.ro/products/jpg/M/6434503_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1310,8 +1646,22 @@
     "summary": "CrisMa rucksack made of highly reflective material and therefore particularly suitable for joggers, cyclists etc. The rucksack is comfortable to carry thanks to the padding on the back and straps.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "64349",
@@ -1329,7 +1679,7 @@
       "https://macma.ro/products/jpg/M/6434907_3.jpg",
       "https://macma.ro/products/jpg/M/6434907_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1351,8 +1701,22 @@
     "summary": "Backpack made from recycled cotton. With padded shoulder straps and back section and a laptop compartment inside. An additional zip compartment is incorporated into the back section and offers extra protection against...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "64392",
@@ -1371,7 +1735,7 @@
       "https://macma.ro/products/jpg/M/6439244_4.jpg",
       "https://macma.ro/products/jpg/M/6439244_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1393,8 +1757,22 @@
     "summary": "Large courier rucksack with reflective outer material, padded back section and additional side zip pocket.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "64398",
@@ -1413,7 +1791,7 @@
       "https://macma.ro/products/jpg/M/6439807_4.jpg",
       "https://macma.ro/products/jpg/M/6439807_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1435,8 +1813,22 @@
     "summary": "CrisMa travel backpack made from RPET with laptop compartment and large front compartment. The all-round zip allows it to be packed like a suitcase. The padded shoulder straps can be stowed in a zip compartment and th...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "64399",
@@ -1460,7 +1852,7 @@
       "https://macma.ro/products/jpg/M/6439903_8.jpg",
       "https://macma.ro/products/jpg/M/6439903_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1482,8 +1874,22 @@
     "summary": "CrisMa travel backpack with three zip compartments. The interior is cleverly organised with a laptop compartment, various smaller compartments and an integrated wet compartment for storing cosmetics. The capacity is b...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "64403",
@@ -1510,7 +1916,7 @@
       "https://macma.ro/products/jpg/M/6440303_8.jpg",
       "https://macma.ro/products/jpg/M/6440303_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1532,8 +1938,22 @@
     "summary": "CrisMa cooling backpack with a large compartment and a separate compartment at the bottom. The fixing straps on the sides provide support.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "64424",
@@ -1556,7 +1976,7 @@
       "https://macma.ro/products/jpg/M/6442444_8.jpg",
       "https://macma.ro/products/jpg/M/6442444_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1578,8 +1998,22 @@
     "summary": "Backpack made of 600D recycled polyester with hanging loop, two side mesh pockets and two padded shoulder straps.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "64690",
@@ -1610,7 +2044,7 @@
       "https://macma.ro/products/jpg/M/6469003_2.jpg",
       "https://macma.ro/products/jpg/M/6469003_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -1644,8 +2078,22 @@
     "summary": "Backpack made of PU with two slanted, shiny black zips on the front, carrying loop, two comfortable shoulder straps and an anti-theft compartment.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "65228",
@@ -1664,7 +2112,7 @@
       "https://macma.ro/products/jpg/M/6522803_5.jpg",
       "https://macma.ro/products/jpg/M/6522803_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1686,8 +2134,22 @@
     "summary": "Large backpack made of PU with plenty of storage space and a tablet compartment inside. Shiny black zips, two side nets as drink holders, an anti-theft compartment and padded shoulder straps.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "65229",
@@ -1709,7 +2171,7 @@
       "https://macma.ro/products/jpg/M/6522903_8.jpg",
       "https://macma.ro/products/jpg/M/6522903_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1731,7 +2193,15 @@
     "summary": "Shoulder bag in a modern crossbody format made from water-repellent PU material with practical zips. The perfect everyday companion.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S1",
+        "label": "Direct screen printing",
+        "labelRo": "Serigrafie directă",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "65234",
@@ -1753,7 +2223,7 @@
       "https://macma.ro/products/jpg/M/6523403_8.jpg",
       "https://macma.ro/products/jpg/M/6523403_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1775,8 +2245,26 @@
     "summary": "High-quality laptop backpack made of polyester with a spacious main compartment and laptop section, water-repellent zippers, trolley strap, padded shoulder straps, two side pockets, and color-coordinated accents. The ...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "15 x 10"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "15 x 10"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "65308",
@@ -1803,7 +2291,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/6530803_lifestyle_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6530803_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1825,8 +2313,26 @@
     "summary": "Backpack made of high-quality soft-touch PU. This backpack features two large main compartments, two side pockets, water-repellent front zippers, padded shoulder straps, as well as a laptop compartment and front pocket.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "12 x 10"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "12 x 10"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "65319",
@@ -1849,7 +2355,7 @@
       "https://macma.ro/products/jpg/M/6531919_8.jpg",
       "https://macma.ro/products/jpg/M/6531919_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1871,8 +2377,26 @@
     "summary": "High-quality laptop backpack made of soft-touch PU and faux leather. The backpack offers a spacious main compartment and laptop section, two side pockets, a front pocket with a hidden zipper, and a trolley strap. The ...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "12 x 10"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "12 x 10"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "65320",
@@ -1895,7 +2419,7 @@
       "https://macma.ro/products/jpg/M/6532003_8.jpg",
       "https://macma.ro/products/jpg/M/6532003_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1917,8 +2441,26 @@
     "summary": "Backpack made of RPET with side pockets, padded shoulder straps, front pocket, laptop compartment, trolley and anti-theft function, as well as lockable snap buttons.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "15 x 15"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "15 x 15"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "65364",
@@ -1936,7 +2478,7 @@
       "https://macma.ro/products/jpg/M/6536407_5_lifestyle.jpg",
       "https://macma.ro/products/jpg/M/6536407_6_lifestyle.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1958,8 +2500,26 @@
     "summary": "Polyester shoulder bag with zipper for smartphones, keys, etc.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "8 x 8"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "8 x 8"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "65496",
@@ -1982,7 +2542,7 @@
       "https://macma.ro/products/jpg/M/6549644_1.jpg",
       "https://macma.ro/products/jpg/M/6549644_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -2012,8 +2572,26 @@
     "summary": "Sturdy hiking backpack with ergonomic hip belt and 25-liter capacity made of PA, PES & EVA materials, it also has raincover pocket on the bottom and back cushion.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "10 x 6"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "10 x 6"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "65645",
@@ -2059,7 +2637,7 @@
       "https://macma.ro/products/jpg/M/6564577_5.jpg",
       "https://macma.ro/products/jpg/M/6564577_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -2085,8 +2663,22 @@
     "summary": "Practical picnic backpack made of sturdy polyester with integrated cooling bag, stainless steel thermal flask, 2 mugs, 2 spoons, 1 knife, salt and pepper shaker and napkin.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "66605",
@@ -2109,7 +2701,7 @@
       "https://macma.ro/products/jpg/M/6660503_8.jpg",
       "https://macma.ro/products/jpg/M/6660503_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2131,8 +2723,22 @@
     "summary": "Sturdy polyester picnic backpack for 4 with plastic dishes, trays, waiter's knife, salt and pepper shaker and snack knife. The leader and both side pockets are insulated.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "66607",
@@ -2148,7 +2754,7 @@
       "https://macma.ro/products/jpg/M/6660704_2.jpg",
       "https://macma.ro/products/jpg/M/6660704_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2170,8 +2776,22 @@
     "summary": "Backpack with a filling capacity of 17 liters, made of polyester with two net compartments and padded shoulder straps.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "68933",
@@ -2199,7 +2819,7 @@
       "https://macma.ro/products/jpg/M/6893305_4.jpg",
       "https://macma.ro/products/jpg/M/6893305_4_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -2229,8 +2849,26 @@
     "summary": "Ferraghini courier backpack made of 600D polyester with a laptop compartment, padded shoulder straps, a large front pocket, and 18-liter capacity.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "8 x 8"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "8 x 8"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "F265",
@@ -2253,7 +2891,7 @@
       "https://macma.ro/products/jpg/M/f26577_8_lifestyle.jpg",
       "https://macma.ro/products/jpg/M/f26577_9_lifestyle.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2274,8 +2912,26 @@
     "summary": "Practical rolltop Schwarzwolf backpack in a grey colour is suitable for tourism as well as every day use. The backpack has two small front zipper pockets, two sides pockets and a back zipper entry to the main compartm...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "9 × 9"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "9 × 9"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "F3523000AJ3",
@@ -2294,7 +2950,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f3523000aj3_6.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f3523000aj3_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2316,8 +2972,26 @@
     "summary": "Black rolltop Schwarzwolf backpack is suitable for tourism as well as every day use. The backpack is decorated by black strips with a grey hemming. It has a main internal compartment with a one separated pocket and a ...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "8 × 8"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "8 × 8"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "F3524000AJ3",
@@ -2335,7 +3009,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f3524000aj3_5.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f3524000aj3_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2357,6 +3031,7 @@
     "summary": "Practical rolltop Schwarzwolf backpack is suitable for tourism as well as every day use. The backpack has two small front zipper pockets, two side pockets and a back zipper entry to the main compartment which includes...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "F352420",
     "supplierVariantIds": [
@@ -2374,7 +3049,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f3524201aj3_e.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f3524201aj3_f.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2396,6 +3071,7 @@
     "summary": "Schwarzwolf travel backpack in a black color. The backpack is interesting because it resembles a travel suitcase in composition and is suitable as carry-on luggage on a plane. It has an internal compartment that inclu...",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "F352430",
     "supplierVariantIds": [
@@ -2414,7 +3090,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f3524300aj3_f.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f3524300aj3_g.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2436,6 +3112,7 @@
     "summary": "Practical Schwarzwolf backpack which is suitable for hiking as well as city use. The backpack has a main compartment with a zipper and an inner pocket, 2 side mesh pockets, a small zipper pocket in the upper back and ...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "F3524800AJ3",
     "supplierVariantIds": [
@@ -2452,7 +3129,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f3524800aj3_d_0.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f3524800aj3_e_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2474,6 +3151,7 @@
     "summary": "Schwarzwolf travel backpack in a grey color. The backpack is interesting because it resembles a travel suitcase in composition and is suitable as carry-on luggage on board a plane. It has an internal compartment that ...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "F3525000AJ3",
     "supplierVariantIds": [
@@ -2491,7 +3169,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f3525000aj3_e_0.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f3525000aj3_f_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2513,8 +3191,26 @@
     "summary": "Light and compact Schwarzwolf backpack in a grey color. It includes one main zipper pocket with a padded laptop compartment. In the front is one smaller emergency pocket with a zip and one larger zipper compartment wi...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "8 × 4"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "8 × 4"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "PELION",
@@ -2533,7 +3229,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f3524100aj3_7.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f3524100aj3_8.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

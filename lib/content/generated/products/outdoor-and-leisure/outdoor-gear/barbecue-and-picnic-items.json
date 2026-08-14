@@ -6,7 +6,17 @@
     "summary": "Camping light/lantern with three modes\nof lighting. Strong light, weak light and\nflashing mode. Manual included.\nLuminosity: 60 lumens\nMaximum imprint size: 50 × 8 mm\nDimensions: 9 × 9 × 5 cm\n3 × AA Batteries included",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "5 × 0,8"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "2300700SA3",
@@ -20,7 +30,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2300700sa3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2300700sa3_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -44,6 +54,16 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "2,5 × 1"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "2300800AJ3",
     "supplierVariantIds": [
@@ -60,7 +80,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2300800aj3_5.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2300800aj3_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -82,7 +102,17 @@
     "summary": "Schwarzwolf rechargeable head lamp with a XPE diode. It has a sensor and 5 modes of lighting: weak light, stronger, flashing, red and red flashing. Includes a rubber headband with the Schwarzwolf logo and receptical f...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "1,5 × 1"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "2300900AJ3",
@@ -102,7 +132,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2300900aj3_7.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2300900aj3_8.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -124,7 +154,15 @@
     "summary": "Soft and lightweight sleeping bag.\nfrom 190T polyester with fi lling from 210T microfi bre 250g/m2\nComfort zone 11°C, extreme zone -7°C.\nlenght 220cm, width at the widest part 80cm,\nwidth at the narrower part 55cm\n1.3...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "4800100AJ3",
@@ -140,7 +178,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4800100aj3_3.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4800100aj3_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -164,6 +202,16 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "2,5 × 0,7"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "4800300AJ3",
     "supplierVariantIds": [
@@ -181,7 +229,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4800300aj3_6.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4800300aj3_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -203,7 +251,17 @@
     "summary": "Outdoor set Schwarzwolf\nIncludes: folding stainless steel knife with belt clip, multifunction bandana scarf, 10 x 25 binoculars and heavy duty neoprene pouch\n\nDimensions: 8 x 13 x 5 cm\nPackaging: Schwarzwolf Outdoor g...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "3 × 0,5"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "4800300SA3",
@@ -220,7 +278,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4800300sa3_4.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4800300sa3_lifestyle.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -242,7 +300,15 @@
     "summary": "Set of 2 Schwarzwolf telescopic walking sticks. The sticks are made of Duralumin which makes them light and stable. They have 3 sections, optional snow caps and a Speed-Lock system which allows for easy setup.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "4800400AJ3",
@@ -261,7 +327,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4800400aj3_6.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4800400aj3_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -284,7 +350,27 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "50719",
@@ -301,7 +387,7 @@
       "https://macma.ro/products/jpg/M/5071913_4.jpg",
       "https://macma.ro/products/jpg/M/5071913_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -323,8 +409,22 @@
     "summary": "101M / 1000M field of view binoculars, with drawstring and cleaning cloth, packed in a case that can be attached to your belt.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "50962",
@@ -346,7 +446,7 @@
       "https://macma.ro/products/jpg/M/5096203_8.jpg",
       "https://macma.ro/products/jpg/M/5096203_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -368,7 +468,17 @@
     "summary": "Quick dry, light weight, superabsorbent microfi bre towel Schwarzwolf, in nylon pouch. Recommended branding: embroidery Maximum imprint size: 50 × 50 mm Dimensions: 40 × 80 cm Packaging: each in polybag",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "5 × 5"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "5300200AJ3",
@@ -384,7 +494,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5300200aj3_3.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5300200aj3_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -406,7 +516,17 @@
     "summary": "Outdoor towel. Lightweight and highly absorbent,ideal for sports and travel. Quick dry, antibacterial. Weight: 300g/m2; Material: 80% polyester, 20% polyamide; Recommended branding: embroidery; Dimensions: towel: 60 x...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "10 × 10"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "5300200SA3",
@@ -420,7 +540,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5300200sa3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5300200sa3_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -442,7 +562,17 @@
     "summary": "Branded outdoor cooling towel Schwarzwolf is ideal for your sports activities. It is quick-drying and it provides pleasant cooling in high temperatures or as a first aid in case of injury or sunburn.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "15 × 10"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "5300400AJ3",
@@ -473,7 +603,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5300403aj3_a.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5300403aj3_b.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -507,8 +637,26 @@
     "summary": "chwarzwolf outdoor towel in a grey color with orange hemming. It is ideal for your sports activities or travelling, made of microfibre. The towel is quick-drying, lightweight and space-saving.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "20 × 10"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "20 × 10"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "5300500AJ3",
@@ -523,7 +671,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5300500aj3_2.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5300500aj3_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -545,6 +693,14 @@
     "summary": "Handy picnic basket for 2 people with 6 pieces of cutlery, waiter's knife, salt and pepper shakers and 2 porcelain plates. Branding is possible buying the separately available metal tag, item number 90868.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "60856",
     "supplierVariantIds": [
@@ -563,7 +719,7 @@
       "https://macma.ro/products/jpg/M/6085601_6.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6085601_lifestyle_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -585,6 +741,14 @@
     "summary": "Wicker picnic basket for 4 people. The basket includes 4 glasses, 4 porcelain plates, 4 cloth napkins, 12-piece cutlery, salt and pepper shaker, 3 compartments for bottles, waiter's knife, and integrated cooling compa...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "61276",
     "supplierVariantIds": [
@@ -601,7 +765,7 @@
       "https://macma.ro/products/jpg/M/6127601_4.jpg",
       "https://macma.ro/products/jpg/M/6127601_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -623,6 +787,14 @@
     "summary": "Top of the range willow picnic basket for 2 with plastic glasses, porcelain dishes, 6-piece cutlery set and a waiter's knife. An integrated cooling bag keeps your food and drinks fresh. Branding is possible buying the...",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "62337",
     "supplierVariantIds": [
@@ -638,7 +810,7 @@
       "https://macma.ro/products/jpg/M/6233701_3.jpg",
       "https://macma.ro/products/jpg/M/6233701_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -661,6 +833,14 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
       "co2"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "62635",
@@ -690,7 +870,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/6263513_lifestyle_8.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6263513_lifestyle_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -712,7 +892,15 @@
     "summary": "High-quality picnic blanket with insulated moisture protection on the underside. On the other side is a polyacrylic layer. With a size of 200 x 150cm there is enough space for everyone.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "62641",
@@ -730,7 +918,7 @@
       "https://macma.ro/products/jpg/M/62641mc_5.jpg",
       "https://macma.ro/products/jpg/M/62641mc_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -752,7 +940,15 @@
     "summary": "Mark Twain picnic blanket (120x150cm) with PU cover. Nothing can stand in the way of your next picnic.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "62687",
@@ -772,7 +968,7 @@
       "https://macma.ro/products/jpg/M/6268713_7.jpg",
       "https://macma.ro/products/jpg/M/6268713_8.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -796,6 +992,14 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "72670",
     "supplierVariantIds": [
@@ -814,7 +1018,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/7267013_lifestyle_3.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/7267013_lifestyle_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -838,6 +1042,14 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "80648",
     "supplierVariantIds": [
@@ -853,7 +1065,7 @@
       "https://macma.ro/products/jpg/M/8064807_3.jpg",
       "https://macma.ro/products/jpg/M/8064807_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -876,7 +1088,21 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "83479",
@@ -897,7 +1123,7 @@
       "https://macma.ro/products/jpg/M/8347913_7.jpg",
       "https://macma.ro/products/jpg/M/8347913_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -919,7 +1145,15 @@
     "summary": "COB head light with adjustable rubber band and 3 watts power. The lamp has a still, flashing, and dimmable light function. The package does not include the battery.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "91183",
@@ -938,7 +1172,7 @@
       "https://macma.ro/products/jpg/M/9118303_6.jpg",
       "https://macma.ro/products/jpg/M/9118303_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -960,8 +1194,22 @@
     "summary": "Fashionable loop scarf (120 g/m²) in the shape of a circle and without ends. Easy to use as it can be quickly pulled over the head. No need to constantly rewrap and fasten.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "94939",
@@ -984,7 +1232,7 @@
       "https://macma.ro/products/jpg/M/9493907_2.jpg",
       "https://macma.ro/products/jpg/M/9493907_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -1016,6 +1264,14 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "AJF420033",
     "supplierVariantIds": [
@@ -1030,7 +1286,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4200300aj3_3.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4200300aj3_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1054,6 +1310,16 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "2,5 × 0,7"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "F2308600AJ3",
     "supplierVariantIds": [
@@ -1070,7 +1336,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2308600aj3_5.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2308600aj3_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -1092,8 +1358,26 @@
     "summary": "The Schwarzwolf KASAI bag can be a pleasant addition to the SAJAMA mat. It allows it to inflate quickly and effortlessly. This bag will also be an irreplaceable companion when camping. You can use it as a waterproof b...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "10 × 10"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "10 × 10"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "F4510300AJ",
@@ -1108,7 +1392,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4510300aj3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4510300aj3_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1130,8 +1414,34 @@
     "summary": "Schwarzwolf binoculars with 10x25 optics, field of view at 1000 m: 101, viewing angle 5.8 °, average exit pupils 11 mm, shortest focusing distance 3 m. The binoculars are packed in a neoprene case with a neck strap an...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": [
+          "4 × 2"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "4 × 2"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "4 × 2"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "F4801600AJ3",
@@ -1148,7 +1458,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4801600aj3_4.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4801600aj3_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1170,6 +1480,7 @@
     "summary": "Schwarzwolf outdoor shelter for 2 people. The shelter is a great beach and camping accessory that will protect you from the sun and wind. It has a 300 mm water column and a UV filter UV40+. It is packed in a drawstrin...",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "KERKINI",
     "supplierVariantIds": [
@@ -1190,7 +1501,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4801700aj3_5.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4801700aj3_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1212,6 +1523,7 @@
     "summary": "Multifunctional Schwarzwolf sports bandana. You can use it in several different ways – scarf, headscarf, sweatband, headband, hair band and more. It is made of elastic, very breathable and light polyester that quickly...",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "T480030",
     "supplierVariantIds": [
@@ -1246,7 +1558,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/t4800304sa3_b.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/t4800304sa3_c.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -1284,8 +1596,26 @@
     "summary": "Practical Vanilla Season folding picnic blanket. It is made of highly durable Oxford yarn with hollow polyester filling. The underside of the blanket is made of waterproof 210D Oxford fabric. The blanket has a blue an...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "15 × 10"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "15 × 10"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "YALATA",
@@ -1300,7 +1630,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5603900aj3_2.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5603900aj3_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

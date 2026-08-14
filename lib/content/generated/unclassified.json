@@ -6,7 +6,15 @@
     "summary": "Stylish sunglasses made of plastic, with two-coloured frame, and mirrored lenses with UV 400, category 3 protection.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "50671",
@@ -77,7 +85,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/5067108_lifestyle_7.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/5067108_lifestyle_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 8,
     "colorCount": 8,
     "sizeCount": 0,
@@ -127,7 +135,15 @@
     "summary": "Black classic-looking sunglasses with high-quality plastic frame and wood-looking temples. With UV 400 protection, filter category 3.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "50933",
@@ -149,7 +165,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/5093313_lifestyle_3.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/5093313_lifestyle_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -171,8 +187,22 @@
     "summary": "Air mattress in frosted fresh colours, bring a summery look and feel to your logo.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "51041",
@@ -206,7 +236,7 @@
       "https://macma.ro/products/jpg/M/5104105_0.jpg",
       "https://macma.ro/products/jpg/M/5104105_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -248,7 +278,15 @@
     "summary": "Sunglasses with UV400 categorie 3 protected, coloured glasses.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "52465",
@@ -285,7 +323,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/5246508_lifestyle_1.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/5246508_lifestyle_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -315,7 +353,15 @@
     "summary": "Black, classic sunglasses with UV 400 protection, filter category 3, high-quality plastic frame and temples with cork.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "52625",
@@ -334,7 +380,7 @@
       "https://macma.ro/products/jpg/M/5262513_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/5262513_lifestyle_13.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -356,7 +402,15 @@
     "summary": "Sunglasses with transparent RPET frame and coloured lenses. Filter category 3 and UV 400.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "53894",
@@ -377,7 +431,7 @@
       "https://macma.ro/products/jpg/M/5389424_2.jpg",
       "https://macma.ro/products/jpg/M/5389424_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -403,7 +457,15 @@
     "summary": "Sunglasses with colour gradient tinting and black frame made of RPET. UV400 protection and filter category 3.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "53921",
@@ -420,7 +482,7 @@
       "https://macma.ro/products/jpg/M/5392103_3.jpg",
       "https://macma.ro/products/jpg/M/5392103_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -442,8 +504,22 @@
     "summary": "Adjustable polyester parasol with transparent bag, your protection from the sun is guaranteed.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "55070",
@@ -474,7 +550,7 @@
       "https://macma.ro/products/jpg/M/5507010_2.jpg",
       "https://macma.ro/products/jpg/M/5507010_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -508,8 +584,22 @@
     "summary": "Foldable armchair with a steel frame and sturdy polyester cover. The arm rest provides additional space for your drink.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "55104",
@@ -524,7 +614,7 @@
       "https://macma.ro/products/jpg/M/5510444_1.jpg",
       "https://macma.ro/products/jpg/M/5510444_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -546,8 +636,22 @@
     "summary": "Inflatable swimming toy in the shape of a golden swan with 2 handles.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "55254",
@@ -566,7 +670,7 @@
       "https://macma.ro/products/jpg/M/5525498_4.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/5525498_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -588,8 +692,22 @@
     "summary": "Inflatable mattress in the shape of a watermelon.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "55255",
@@ -605,7 +723,7 @@
       "https://macma.ro/products/jpg/M/55255mc_1.jpg",
       "https://macma.ro/products/jpg/M/55255mc_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -627,8 +745,22 @@
     "summary": "Inflatable air mattress in the shape of a pineapple.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "55256",
@@ -643,7 +775,7 @@
       "https://macma.ro/products/jpg/M/5525608_1.jpg",
       "https://macma.ro/products/jpg/M/5525608_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -665,8 +797,22 @@
     "summary": "Inflatable swimming ring in the shape of a donut.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "55257",
@@ -683,7 +829,7 @@
       "https://macma.ro/products/jpg/M/55257mc_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/55257mc_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -705,8 +851,22 @@
     "summary": "Inflatable air mattress in the shape of an ice cream cone, 105x18x215 cm.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "55258",
@@ -722,7 +882,7 @@
       "https://macma.ro/products/jpg/M/55258mc_1.jpg",
       "https://macma.ro/products/jpg/M/55258mc_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -744,7 +904,17 @@
     "summary": "Sports sunglasses with gradient mirrored lenses, UV 400, ideal for leisure, outdoor activities, and cycling. The sunglasses come in a matching fabric pouch.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "3 x 0,6"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "55390",
@@ -764,7 +934,7 @@
       "https://macma.ro/products/jpg/M/5539003_6_box.jpg",
       "https://macma.ro/products/jpg/M/5539003_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -786,7 +956,17 @@
     "summary": "Modern UV 400 sunglasses made from recycled plastic (RPET) with transparent temples.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "3,5 x 1"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "55461",
@@ -822,7 +1002,7 @@
       "https://macma.ro/products/jpg/M/5546166_2.jpg",
       "https://macma.ro/products/jpg/M/5546166_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -860,7 +1040,15 @@
     "summary": "This beach mat (180 x 60 cm) in trendy colours is made of water and stain-resistant synthetic meshwork. The mat can be easily carried thanks to the integrated zipper and adjustable carrying strap.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "58613",
@@ -891,7 +1079,7 @@
       "https://macma.ro/products/jpg/M/5861310_1.jpg",
       "https://macma.ro/products/jpg/M/5861310_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -929,7 +1117,15 @@
     "summary": "“Nerd look” sunglasses, high-quality plastic frame, filter category 3, UV 400 certified.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "58758",
@@ -994,7 +1190,7 @@
       "https://macma.ro/products/jpg/M/5875812_2_print.jpg",
       "https://macma.ro/products/jpg/M/5875812_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 9,
     "colorCount": 9,
     "sizeCount": 0,
@@ -1048,7 +1244,15 @@
     "summary": "Folding fan with wooden handle, ideal for warm summer days.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "71522",
@@ -1076,7 +1280,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/7152206_lifestyle_3.jpg",
       "https://macma.ro/products/jpg/M/7152206_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -1106,8 +1310,22 @@
     "summary": "Beach towel with fringes, a must-have for every visit to the beach or swimming pool. Material: 80% polyester / 20% cotton.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "73757",
@@ -1122,7 +1340,7 @@
       "https://macma.ro/products/jpg/M/7375724_1.jpg",
       "https://macma.ro/products/jpg/M/7375724_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1144,7 +1362,17 @@
     "summary": "Fan made of plastic and polyester for cooling on the go.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "4 x 0,8"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "75655",
@@ -1191,7 +1419,7 @@
       "https://macma.ro/products/jpg/M/7565524_2.jpg",
       "https://macma.ro/products/jpg/M/7565524_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 9,
     "colorCount": 9,
     "sizeCount": 0,
@@ -1245,6 +1473,7 @@
     "summary": "Polarized Schwarzwolf sunglasses with black lenses. The glasses are made in black and have UV 400 protection.  Polarized glasses reduce unpleasant glare and eye fatigue. Comes in a black microfibre pouch and a practic...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "F150480",
     "supplierVariantIds": [
@@ -1265,7 +1494,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f1504800aj3_h.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f1504800aj3_i.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1287,7 +1516,15 @@
     "summary": "Ferraghini sunglasses with frame made of recyceled plastic. UV400 protection, filter category 3. The sunglasses are packed in a high-quality case.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "F240",
@@ -1307,7 +1544,7 @@
       "https://macma.ro/products/jpg/M/f24003_7.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/f24003_lifestyle_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

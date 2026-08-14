@@ -6,8 +6,26 @@
     "summary": "Our premium Men’s Authentic Jog Pants completes your leisure look with its contemporary fit and modern design.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "268M",
@@ -55,7 +73,7 @@
       "https://macma.ro/products/jpg/TEXTIL/RUSSEL/268m-olive_model-2.jpg",
       "https://macma.ro/products/jpg/TEXTIL/RUSSEL/268m-olive_model-3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 13,
     "colorCount": 3,
     "sizeCount": 4,
@@ -85,8 +103,26 @@
     "summary": "Unisex jog pants. Elasticated waist with draw cord•Side pockets•Elasticated cuffs•Produced using Belcoro® yarn for a cleaner, more stable print area.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "F52",
@@ -127,7 +163,7 @@
       "https://macma.ro/products/jpg/TEXTIL/FRUIT/f52-deepnavy_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/FRUIT/f52-darkheathergrey_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 26,
     "colorCount": 4,
     "sizeCount": 5,
@@ -161,8 +197,26 @@
     "summary": "Elasticated waist with continuous draw cord, in-line with European childrenswear legislation•Side pockets•Elasticated cuffs•Produced using Belcoro® yarn for a cleaner, more stable print area.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "FN14",
@@ -191,7 +245,7 @@
       "https://macma.ro/products/jpg/TEXTIL/FRUIT/fn14-heathergrey_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/FRUIT/fn14-deepnavy_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 15,
     "colorCount": 3,
     "sizeCount": 5,
@@ -221,6 +275,7 @@
     "summary": "Meet the ultimate sweatpants for every kid. They’re super comfortable, durable and versatile, to wear anywhere, anytime. The modern gender-neutral design for boys & girls  from kid to teen, available in an inclusive s...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "O89",
     "supplierVariantIds": [
@@ -245,7 +300,7 @@
       "https://macma.ro/products/jpg/TEXTIL/B&C/o89-sportgrey_0.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/o89-sportgrey_x.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 9,
     "colorCount": 3,
     "sizeCount": 3,
@@ -274,6 +329,7 @@
     "summary": "TROUSERS BRODY CEMENT GREY - 38",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "PAVABRO",
     "supplierVariantIds": [
@@ -291,7 +347,7 @@
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/pavabro-cementgrey_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 7,
     "colorCount": 1,
     "sizeCount": 7,
@@ -313,7 +369,17 @@
     "summary": "65% polyester, 35% cotton. 210 grs/m² twill fabric. Waist with elastic in back. 2 waist pockets. 2 lateral cargo pockets with velcro. 1 right back pocket. Button and zipper closure. 20 units per box: 1 size, 1 color. ...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "PAVACAS",
@@ -516,7 +582,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/caster-amazongreen_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/caster-applegreen_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 168,
     "colorCount": 24,
     "sizeCount": 4,
@@ -630,8 +696,26 @@
     "summary": "100% cotton. 250 grs/m2 twill fabric. 2 waist pockets. 2 lateral pockets. 1 back right pocket. 2 lateral cargo pockets. Button and zipper closure. Match with CHISPA jacket pag. 195. 20 units per box: 1 size, 1 color. ...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "PAVACHI",
@@ -647,7 +731,7 @@
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/pavachi-cementgrey_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 4,
     "colorCount": 1,
     "sizeCount": 3,
@@ -669,6 +753,7 @@
     "summary": "Trousers, 65% polyester, 35% cotton. 220 grs/m² twill fabric. 2 waist pockets. 1 back pocket. 2 lateral gusset flap pockets. Knee pad pockets. Button and zipper closure. 20 units per box: 1 size, 1 color. Individual bag.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "PAVADAR",
     "supplierVariantIds": [
@@ -734,7 +819,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/darko-cementgrey-charcoalgrey-partyorange_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/darko-militarygreen-black-partyorange_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 48,
     "colorCount": 8,
     "sizeCount": 4,
@@ -784,8 +869,26 @@
     "summary": "65% polyester, 35% cotton. 210 grs/m2 twill fabric. 2 waist pockets. 2 lateral pockets. 1 back pocket. Button and zipper closure. Sewn reflective tapes. 20 units per box: 1 size, 1 color. Individual bag.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "PAVADRI",
@@ -800,7 +903,7 @@
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/pavadri-orionnavyblue_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 3,
     "colorCount": 1,
     "sizeCount": 2,
@@ -822,6 +925,7 @@
     "summary": "Trousers 100% cotton. 270 grs/m2 twill fabric. 1 cargo pocket on left leg. 1 cargo pocket + cutter knife pocket on right leg. 2 back flap pockets. 2 waist pockets. Elastic waist. 20 units per box: 1 size, 1 color. Ind...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "PAVAFOR",
     "supplierVariantIds": [
@@ -847,7 +951,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/force-cementgrey_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/force-orionnavyblue_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 13,
     "colorCount": 3,
     "sizeCount": 3,
@@ -877,7 +981,17 @@
     "summary": "Trousers 65% polyester, 35% cotton. 240 grs/m² twill fabric. 1 cargo pocket on left leg. 1 cargo pocket + cutter knife pocket on right leg. 2 back flap pockets. 2 waist pockets. Elastic waist. Reinforced seams. 20 uni...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "PAVAROB",
@@ -944,7 +1058,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/roble-orionnavyblue_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/roble-black_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 49,
     "colorCount": 7,
     "sizeCount": 4,
@@ -990,6 +1104,7 @@
     "summary": "MULTI POCKET TROUSER RONDA ORION NAVY BLUE - S",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "PAVARON",
     "supplierVariantIds": [
@@ -1003,7 +1118,7 @@
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/pavaron-orionnavyblue_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 3,
     "colorCount": 1,
     "sizeCount": 2,
@@ -1025,6 +1140,7 @@
     "summary": "65% polyester, 35% cotton, 240 grs/m² twill fabric. Elastic waist in back . 2 waist pockets, 2 back flap pockets, 2 cargo lateral pockets. Button and zipper closure. Reinforced seams. Match with set Thunder (polo shir...",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "PAVATHU",
     "supplierVariantIds": [
@@ -1168,7 +1284,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/pavathu-blackapplegreen_pavathunv.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/pavathu-blackroyalblue_pavathuny.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 114,
     "colorCount": 15,
     "sizeCount": 4,
@@ -1246,8 +1362,26 @@
     "summary": "Gender-neutral style. Side pockets with zippers.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "ST5650",
@@ -1279,7 +1413,7 @@
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st5650-blackopal.jpg",
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st5650-greyheather.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 18,
     "colorCount": 3,
     "sizeCount": 5,
@@ -1309,8 +1443,26 @@
     "summary": "99% cotton/1% elastane. Washable at 60°C, slim fit, denim canvas. Tear-away brand label, reinforced pockets on front and back- left and right sides. 370 g/m². Denim canvas. Washable at 60°C. Slim fit. Button fastening...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "WK705",
@@ -1337,7 +1489,7 @@
       "https://macma.ro/products/jpg/TEXTIL/DESTOWORK/wk705-bluerinse_b2.jpg",
       "https://macma.ro/products/jpg/TEXTIL/DESTOWORK/wk705-bluerinse_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 10,
     "colorCount": 1,
     "sizeCount": 10,

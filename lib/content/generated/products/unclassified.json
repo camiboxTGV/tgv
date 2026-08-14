@@ -6,7 +6,17 @@
     "summary": "Ice-frosted 2 meter steel measuring tape with retracting function",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "4 × 2"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "88805",
@@ -25,7 +35,7 @@
       "https://macma.ro/products/jpg/M/other/8880504_2.jpg",
       "https://macma.ro/products/jpg/M/other/8880504_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -51,8 +61,22 @@
     "summary": "The working gloves made of real leather and cotton protect from dirt, injuries, and cold, and are thus a must for all professional branches.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "98794",
@@ -67,7 +91,7 @@
       "https://macma.ro/products/jpg/M/9879413_1.jpg",
       "https://macma.ro/products/jpg/M/9879413_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -89,8 +113,26 @@
     "summary": "65% polyester, 35% cotton. 200 grs/m2 twill fabric. Pocket with compartments. Waist ties. 50 units per box: 1 color. Individual bag.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "DEVACAB",
@@ -105,7 +147,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/cabernet-white_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/cabernet-black_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 1,
@@ -131,8 +173,26 @@
     "summary": "65% polyester, 35% cotton. 200 grs/m2 twill fabric. Pocket with compartments. Waist ties. 50 units per box: 1 color. Individual bag.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "DEVACOF",
@@ -147,7 +207,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/coffee-white_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/coffee-black_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 1,
@@ -173,6 +233,7 @@
     "summary": "Cooking hat made of 65% polyester and 35% cotton. Ventilation mesh on top, velcro closure. Grammage 200 g/m2 twill fabric.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "GRVABOW",
     "supplierVariantIds": [
@@ -184,7 +245,7 @@
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/bower-black_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -206,6 +267,7 @@
     "summary": "Cooking hat made of 65% polyester and 35% cotton. Wider back part with elastic design. Grammage 200 gr/m2 twill fabric.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "GRVASPI",
     "supplierVariantIds": [
@@ -217,7 +279,7 @@
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/spinner-black_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,

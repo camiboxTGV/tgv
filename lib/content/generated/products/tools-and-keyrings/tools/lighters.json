@@ -6,7 +6,22 @@
     "summary": "Electronic plastic lighter with flame regulation.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "90046",
@@ -36,7 +51,7 @@
       "https://macma.ro/products/jpg/M/9004603_0.jpg",
       "https://macma.ro/products/jpg/M/9004603_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -78,7 +93,15 @@
     "summary": "Electronic arc lighter (5V) made of plastic incl. charging cable. So our lighter does not need gas.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "90976",
@@ -113,7 +136,7 @@
       "https://macma.ro/products/jpg/M/9097604_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/9097604_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -147,7 +170,15 @@
     "summary": "USB lighter (5V) made of plastic, which is easily charged via the integrated USB plug and works without gas.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "90977",
@@ -164,7 +195,7 @@
       "https://macma.ro/products/jpg/M/9097706_3.jpg",
       "https://macma.ro/products/jpg/M/9097706_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -186,7 +217,22 @@
     "summary": "Classic electronic lighter, refillable.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "91106",
@@ -215,7 +261,7 @@
       "https://macma.ro/products/jpg/M/9110604_1_print.jpg",
       "https://macma.ro/products/jpg/M/9110607_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -257,7 +303,22 @@
     "summary": "Classic disposable lighter.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "91107",
@@ -292,7 +353,7 @@
       "https://macma.ro/products/jpg/M/9110704_1.jpg",
       "https://macma.ro/products/jpg/M/9110704_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -334,7 +395,22 @@
     "summary": "Refillable electronic lighter with black head and adjustable jet flame.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "91392",
@@ -355,7 +431,7 @@
       "https://macma.ro/products/jpg/M/9139203_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/9139203_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -381,7 +457,15 @@
     "summary": "Electronic lighter with black head, refillable. The flame size is infinitely variable.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "93167",
@@ -400,7 +484,7 @@
       "https://macma.ro/products/jpg/M/9316706_1.jpg",
       "https://macma.ro/products/jpg/M/9316706_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -427,6 +511,14 @@
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "93777",
@@ -491,7 +583,7 @@
       "https://macma.ro/products/jpg/M/9377724_1.jpg",
       "https://macma.ro/products/jpg/M/9377724_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 13,
     "colorCount": 13,
     "sizeCount": 0,
@@ -560,7 +652,19 @@
     "category": "tools-and-keyrings/tools/lighters",
     "summary": "Electronic lighter with infinitely variable flame regulation. The lighter is refillable.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
-    "personalizations": [],
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": [
+          "5 x 1,4"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "95266",
     "supplierVariantIds": [
@@ -600,7 +704,7 @@
       "https://macma.ro/products/jpg/M/9526609_1.jpg",
       "https://macma.ro/products/jpg/M/9526609_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -642,7 +746,22 @@
     "summary": "Electronic plastic lighter with flame regulation and refillable function.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "97552",
@@ -677,7 +796,7 @@
       "https://macma.ro/products/jpg/M/9755208_1.jpg",
       "https://macma.ro/products/jpg/M/9755208_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -721,6 +840,14 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "98741",
     "supplierVariantIds": [
@@ -736,7 +863,7 @@
       "https://macma.ro/products/jpg/M/9874198_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/9874198_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -758,7 +885,17 @@
     "summary": "This practical and ecological rechargeable windproof Schwarzwolf lighter will be handy during your trip in nature. The lighter works on the basis of electric discharge instead of a flame.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": [
+          "0,9 × 3"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "AJH680023",
@@ -776,7 +913,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/h6800200aj3_5.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/h6800200aj3_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -798,7 +935,17 @@
     "summary": "Electrical rechargeable windproof Schwarzwolf lighter with a COB flashlight. The lighter works on the basis of electric discharge instead of a fame. The flashlight has a three different modes of lighting. It is charde...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": [
+          "10 × 8"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "CALBUCO",
@@ -819,7 +966,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/h6800300aj3_8.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/h6800300aj3_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -842,6 +989,16 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "3,5 × 1,5"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "H6800100IP3",
     "supplierVariantIds": [
@@ -858,7 +1015,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/h6800100ip3_5.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/h6800100ip3_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -882,6 +1039,16 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": [
+          "3 × 1,2"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "SMART",
     "supplierVariantIds": [
@@ -898,7 +1065,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/h6802000ip3_5.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/h6802000ip3_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T12:42:32.150Z",
+    "fetchedAt": "2026-08-14T14:35:59.998Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
