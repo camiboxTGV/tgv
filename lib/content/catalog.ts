@@ -8,7 +8,13 @@ import {
   type CategoryNode,
 } from "./categories"
 
-export type Personalization = "co2" | "fiber-laser" | "uv-print" | "uv-transfer"
+export type Personalization =
+  | "co2"
+  | "fiber-laser"
+  | "uv-print"
+  | "pad-screen"
+  | "textile-transfer"
+  | "uv-transfer"
 
 export const PERSONALIZATION_LABELS: Record<
   Personalization,
@@ -16,11 +22,21 @@ export const PERSONALIZATION_LABELS: Record<
 > = {
   "co2": { label: "CO2 engraving", short: "CO2" },
   "fiber-laser": { label: "Fiber laser engraving", short: "Fiber" },
-  "uv-print": { label: "Print UV", short: "UV print" },
-  "uv-transfer": { label: "Transfer UV", short: "UV transfer" },
+  "uv-print": { label: "Direct UV printing", short: "Direct UV" },
+  "pad-screen": { label: "Pad / screen printing", short: "Pad / screen" },
+  "textile-transfer": { label: "Textile transfer", short: "Textile transfer" },
+  "uv-transfer": { label: "Supplier transfer — manual quote", short: "Transfer · quote" },
 }
 
 export type StockLevel = "in-stock" | "low" | "out-of-stock"
+
+/** Exact method metadata supplied by the product's source catalog. */
+export interface SupplierPersonalizationMethod {
+  code: string
+  label: string
+  labelRo?: string
+  printSizes?: string[]
+}
 
 export interface CatalogProduct {
   slug: string
@@ -29,6 +45,7 @@ export interface CatalogProduct {
   summary: string
   accent: string
   personalizations: Personalization[]
+  supplierPersonalizations?: SupplierPersonalizationMethod[]
   supplierId: string
   supplierSku: string
   supplierVariantIds?: string[]

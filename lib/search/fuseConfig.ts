@@ -2,11 +2,13 @@ import type { IFuseOptions } from "fuse.js"
 
 export const FUSE_OPTIONS: IFuseOptions<unknown> = {
   keys: [
-    { name: "name", weight: 0.5 },
-    { name: "brand", weight: 0.2 },
-    { name: "summary", weight: 0.15 },
-    { name: "category", weight: 0.1 },
-    { name: "personalizations", weight: 0.05 },
+    { name: "name", weight: 0.4 },
+    { name: "supplierSku", weight: 0.25 },
+    { name: "brand", weight: 0.15 },
+    { name: "summary", weight: 0.1 },
+    { name: "category", weight: 0.05 },
+    { name: "personalizations", weight: 0.025 },
+    { name: "supplierPersonalizations", weight: 0.025 },
   ],
   threshold: 0.35,
   ignoreLocation: true,

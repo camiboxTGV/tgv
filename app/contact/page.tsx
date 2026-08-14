@@ -4,6 +4,7 @@ import ContactHero from "@/components/contact/ContactHero"
 import ContactForm from "@/components/contact/ContactForm"
 import ContactDetails from "@/components/contact/ContactDetails"
 import TeamPortraits from "@/components/contact/TeamPortraits"
+import PricingCalculatorCallout from "@/components/contact/PricingCalculatorCallout"
 
 export const metadata: Metadata = {
   title: "Contact — TGV-Media",
@@ -21,7 +22,10 @@ export default async function ContactPage({ searchParams }: ContactPageProps) {
 
   const briefBlock = (
     <div className="grid grid-cols-1 lg:grid-cols-[5fr_7fr] gap-8 lg:gap-12">
-      <ContactHero />
+      <div className="flex flex-col gap-6">
+        <ContactHero />
+        <PricingCalculatorCallout />
+      </div>
       <Suspense fallback={null}>
         <ContactForm />
       </Suspense>

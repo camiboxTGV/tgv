@@ -19,6 +19,8 @@ const PERSONALIZATIONS: Personalization[] = [
   "co2",
   "fiber-laser",
   "uv-print",
+  "pad-screen",
+  "textile-transfer",
   "uv-transfer",
 ]
 

@@ -1,4 +1,5 @@
 import type { Personalization } from "../../lib/content/catalog.ts"
+import type { RawSupplierPersonalizationMethod } from "../_shared/adapter.ts"
 
 /**
  * Macma `chapter` string → TGV leaf slug path.
@@ -127,42 +128,68 @@ export const categoryMap: Record<string, string | null> = {
   "Games|Beach sccessories": "outdoor-and-leisure/travel-and-beach/beach-items",
 }
 
-/**
- * Macma `print.technology[]` code → TGV personalization(s).
- *
- * Rules:
- *  - Laser engraving codes (G*, CG*) default to "co2".
- *    The adapter re-routes to "fiber-laser" when material is metal.
- *  - Transfer/print codes map to "uv-print" / "uv-transfer".
- *  - Techniques TGV doesn't offer (embroidery DW/DC, sublimation SU) map to [].
- *  - Unknown codes are logged to sync-report.
- */
-export const personalizationMap: Record<string, Personalization[]> = {
-  // Laser / engraving
-  "G1": ["co2"],
-  "G2": ["co2"],
-  "G3": ["co2"],
-  "CG0": ["co2"],
-  "CG1": ["co2"],
-  "CG2": ["co2"],
-  "CG3": ["co2"],
+interface MacmaPersonalizationDefinition {
+  label: string
+  labelRo: string
+  calculatorMethods: Personalization[]
+}
 
-  // UV
-  "UV": ["uv-print"],
-  "UV-PL": ["uv-print"],
+/** Macma Romania API codes. Labels mirror the supplier's product pages. */
+export const macmaPersonalizationDefinitions: Record<
+  string,
+  MacmaPersonalizationDefinition
+> = {
+  G1: { label: "Engraving 1", labelRo: "Gravură 1", calculatorMethods: ["co2"] },
+  G2: { label: "Engraving 2", labelRo: "Gravură 2", calculatorMethods: ["co2"] },
+  G3: { label: "Engraving 3", labelRo: "Gravură 3", calculatorMethods: ["co2"] },
+  CG0: { label: "CO₂ engraving 0", labelRo: "Gravură CO₂ 0", calculatorMethods: ["co2"] },
+  CG1: { label: "CO₂ engraving 1", labelRo: "Gravură CO₂ 1", calculatorMethods: ["co2"] },
+  CG2: { label: "CO₂ engraving 2", labelRo: "Gravură CO₂ 2", calculatorMethods: ["co2"] },
+  CG3: { label: "CO₂ engraving 3", labelRo: "Gravură CO₂ 3", calculatorMethods: ["co2"] },
+  UV: { label: "UV LED printing", labelRo: "Print UV LED", calculatorMethods: ["uv-print"] },
+  "UV-PL": { label: "UV LED printing", labelRo: "Print UV LED", calculatorMethods: ["uv-print"] },
+  DT: { label: "Digital transfer", labelRo: "Transfer digital", calculatorMethods: ["textile-transfer"] },
+  T1: { label: "Pad printing 1", labelRo: "Tampografie 1", calculatorMethods: ["pad-screen"] },
+  T2: { label: "Pad printing 2", labelRo: "Tampografie 2", calculatorMethods: ["pad-screen"] },
+  T3: { label: "Pad printing 3", labelRo: "Tampografie 3", calculatorMethods: ["pad-screen"] },
+  T4: { label: "Pad printing 4", labelRo: "Tampografie 4", calculatorMethods: ["pad-screen"] },
+  S1: { label: "Direct screen printing", labelRo: "Serigrafie directă", calculatorMethods: ["pad-screen"] },
+  S2: { label: "Transfer screen printing", labelRo: "Serigrafie prin transfer", calculatorMethods: ["pad-screen"] },
+  DC: { label: "Digital printing on coloured textiles", labelRo: "Imprimare digitală pe textile colorate", calculatorMethods: [] },
+  DW: { label: "Digital printing on white textiles", labelRo: "Imprimare digitală pe textile albe", calculatorMethods: [] },
+  SU: { label: "Sublimation", labelRo: "Sublimare", calculatorMethods: [] },
+}
 
-  // Transfers (digital + thermal)
-  "DT": ["uv-transfer"],
-  "T2": ["uv-transfer"],
-  "T3": ["uv-transfer"],
-  "T4": ["uv-transfer"],
+export const personalizationMap: Record<string, Personalization[]> =
+  Object.fromEntries(
+    Object.entries(macmaPersonalizationDefinitions).map(([code, definition]) => [
+      code,
+      definition.calculatorMethods,
+    ]),
+  )
 
-  // Screen / digital print on textiles — closest TGV match is uv-print
-  "S1": ["uv-print"],
-  "S2": ["uv-print"],
-
-  // Techniques TGV doesn't currently offer — intentionally empty, not unknown
-  "DW": [],
-  "DC": [],
-  "SU": [],
+export function describeMacmaPersonalizations(
+  codes: readonly string[],
+  printSizesByCode: ReadonlyMap<string, ReadonlySet<string>>,
+): RawSupplierPersonalizationMethod[] {
+  return codes.map((code) => {
+    const definition = macmaPersonalizationDefinitions[code]
+    const printSizes = [...(printSizesByCode.get(code) ?? [])]
+    if (!definition) {
+      return {
+        code,
+        label: `Macma method ${code}`,
+        labelRo: `Metodă Macma ${code}`,
+        printSizes,
+        recognized: false,
+      }
+    }
+    return {
+      code,
+      label: definition.label,
+      labelRo: definition.labelRo,
+      printSizes,
+      recognized: true,
+    }
+  })
 }

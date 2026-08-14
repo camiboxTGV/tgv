@@ -217,8 +217,42 @@
     "summary": "Short-sleeved polo shirt for children. Guaranteed to perform at 60°C wash. Two-button fused placket with self-coloured buttons.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29 cm"
+        ]
+      },
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29 cm"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29 cm"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29 cm"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "F38",

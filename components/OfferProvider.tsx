@@ -20,6 +20,8 @@ export interface AddToOfferInput {
   slug: string
   name: string
   category: string
+  supplierId?: string
+  supplierSku?: string
   variantKey?: string
   colorName?: string
   sizeLabel?: string
@@ -112,6 +114,8 @@ export default function OfferProvider({
           slug: input.slug,
           name: input.name,
           category: input.category,
+          supplierId: input.supplierId,
+          supplierSku: input.supplierSku,
           quantity: 1,
           variantKey: input.variantKey,
           colorName: input.colorName,

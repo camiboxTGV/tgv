@@ -73,7 +73,7 @@ export default function ProductGallery({
   return (
     <div className="flex flex-col gap-3">
       <div
-        className="relative overflow-hidden aspect-[4/3] rounded-2xl border border-[var(--border)] bg-[var(--surface-soft)]"
+        className="relative overflow-hidden aspect-[4/3] rounded-2xl border border-[var(--border)] bg-[var(--surface)]"
         onTouchStart={(e) => {
           touchStartX.current = e.touches[0]?.clientX ?? null
         }}
@@ -165,7 +165,7 @@ export default function ProductGallery({
                 aria-selected={active}
                 aria-label={`Show image ${i + 1}`}
                 onClick={() => setIndex(i)}
-                className={`relative flex-shrink-0 w-20 h-20 rounded-xl overflow-hidden snap-start transition-all ${
+                className={`relative flex-shrink-0 w-20 h-20 rounded-xl overflow-hidden snap-start border border-[var(--border-soft)] bg-[var(--surface)] transition-all ${
                   active
                     ? "ring-2 ring-[var(--brand-orange)] ring-offset-2 ring-offset-[var(--bg)]"
                     : "opacity-70 hover:opacity-100"
@@ -176,7 +176,7 @@ export default function ProductGallery({
                   alt=""
                   fill
                   sizes="80px"
-                  className="object-cover"
+                  className="object-contain p-1"
                 />
               </button>
             )

@@ -8,7 +8,7 @@ export default function StandalonePriceCalculator() {
 
   return (
     <DecorationEstimator
-      methods={["co2", "fiber-laser", "uv-print", "uv-transfer"]}
+      methods={["uv-print", "co2", "fiber-laser", "pad-screen", "textile-transfer"]}
       quantity={quantity}
       onQuantityChange={setQuantity}
     />

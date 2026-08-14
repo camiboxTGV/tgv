@@ -9,6 +9,7 @@ import {
   PERSONALIZATION_LABELS,
   type CatalogProduct,
   type ProductVariant,
+  type SupplierPersonalizationMethod,
 } from "@/lib/content/catalog"
 import type { CategoryNode } from "@/lib/content/categories"
 import { useLanguage } from "@/components/LanguageProvider"
@@ -90,6 +91,9 @@ export default function ProductDetail({
   const priceFrom = !selectedVariant && product.priceFrom
   const asOf = formatAsOfDate(product.fetchedAt)
   const weight = formatWeight(product.weightGrams)
+  const supplierPersonalizations = product.supplierPersonalizations ?? []
+  const showGenericPersonalizations =
+    supplierPersonalizations.length === 0 && product.supplierId !== "macma"
 
   const handleVariantChange = useCallback((v: ProductVariant) => {
     setSelectedVariant(v)
@@ -185,12 +189,26 @@ export default function ProductDetail({
               ) : null}
             </div>
 
-            {(weight || product.capacity || product.personalizations.length > 0) && (
-              <div className="flex flex-wrap gap-2 border-y border-[var(--border-soft)] py-4">
+            <div className="flex flex-wrap gap-2 border-y border-[var(--border-soft)] py-4">
+              <MetaChip
+                label={ro ? "Cod produs" : "Product code"}
+                value={product.supplierSku}
+                mono
+              />
                 {weight ? <MetaChip label={ro ? "Greutate" : "Weight"} value={weight} /> : null}
                 {product.capacity ? (
                   <MetaChip label={ro ? "Capacitate" : "Capacity"} value={product.capacity} />
                 ) : null}
+            </div>
+
+            {supplierPersonalizations.length > 0 ? (
+              <SupplierPersonalizations
+                methods={supplierPersonalizations}
+                supplierName={product.supplierId === "macma" ? "Macma" : product.supplierId}
+                ro={ro}
+              />
+            ) : showGenericPersonalizations && product.personalizations.length > 0 ? (
+              <div className="flex flex-wrap gap-2">
                 {product.personalizations.map((p) => (
                   <span
                     key={p}
@@ -201,12 +219,19 @@ export default function ProductDetail({
                       className="w-1.5 h-1.5 rounded-full bg-[var(--brand-orange)]"
                     />
                     {ro
-                      ? ({ co2: "Laser CO2", "fiber-laser": "Laser cu fibră", "uv-print": "Print UV", "uv-transfer": "Transfer UV" } as const)[p]
+                      ? ({
+                          co2: "Laser CO2",
+                          "fiber-laser": "Laser cu fibră",
+                          "uv-print": "Print UV direct",
+                          "pad-screen": "Tampografie / serigrafie",
+                          "textile-transfer": "Transfer textil",
+                          "uv-transfer": "Transfer furnizor · ofertă manuală",
+                        } as const)[p]
                       : PERSONALIZATION_LABELS[p].label}
                   </span>
                 ))}
               </div>
-            )}
+            ) : null}
 
             {variants.length > 0 ? (
               <VariantPicker
@@ -238,13 +263,64 @@ export default function ProductDetail({
   )
 }
 
-function MetaChip({ label, value }: Readonly<{ label: string; value: string }>) {
+function SupplierPersonalizations({
+  methods,
+  supplierName,
+  ro,
+}: Readonly<{
+  methods: SupplierPersonalizationMethod[]
+  supplierName: string
+  ro: boolean
+}>) {
+  return (
+    <section className="rounded-2xl border border-[var(--border-soft)] bg-[var(--surface-soft)] p-4">
+      <div className="flex flex-col gap-1">
+        <h2 className="text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange)]">
+          {ro ? "Metode de personalizare" : "Personalisation methods"}
+        </h2>
+        <p className="text-xs leading-relaxed text-[var(--text-muted)]">
+          {ro
+            ? `Opțiuni furnizate de ${supplierName}; fezabilitatea se confirmă în oferta finală.`
+            : `Options supplied by ${supplierName}; feasibility is confirmed in the final quote.`}
+        </p>
+      </div>
+      <div className="mt-3 grid grid-cols-1 gap-2 sm:grid-cols-2">
+        {methods.map((method) => (
+          <div
+            key={method.code}
+            className="flex items-start gap-3 rounded-xl border border-[var(--border-soft)] bg-[var(--surface)] p-3"
+          >
+            <span className="shrink-0 rounded-md bg-[var(--brand-black)] px-2 py-1 font-mono text-[11px] font-semibold text-white">
+              {method.code}
+            </span>
+            <div className="min-w-0">
+              <p className="text-sm font-medium text-[var(--brand-black)]">
+                {ro ? (method.labelRo ?? method.label) : method.label}
+              </p>
+              {method.printSizes && method.printSizes.length > 0 ? (
+                <p className="mt-1 text-xs text-[var(--text-muted)]">
+                  {ro ? "Dimensiune imprimare" : "Print size"}: {method.printSizes.join(" · ")}
+                </p>
+              ) : null}
+            </div>
+          </div>
+        ))}
+      </div>
+    </section>
+  )
+}
+
+function MetaChip({
+  label,
+  value,
+  mono = false,
+}: Readonly<{ label: string; value: string; mono?: boolean }>) {
   return (
     <span className="inline-flex items-center gap-2 px-3 py-1 text-xs text-[var(--text-soft)] bg-[var(--surface-soft)] border border-[var(--border-soft)] rounded-full">
       <span className="text-[var(--text-muted)] uppercase tracking-wider text-[10px] font-semibold">
         {label}
       </span>
-      <span className="font-medium text-[var(--brand-black)]">{value}</span>
+      <span className={mono ? "font-mono font-semibold text-[var(--brand-black)]" : "font-medium text-[var(--brand-black)]"}>{value}</span>
     </span>
   )
 }

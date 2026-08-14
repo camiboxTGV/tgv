@@ -1,4 +1,12 @@
-import type { Personalization } from "../../lib/content/catalog.ts"
+import type {
+  Personalization,
+  SupplierPersonalizationMethod,
+} from "../../lib/content/catalog.ts"
+
+export interface RawSupplierPersonalizationMethod
+  extends SupplierPersonalizationMethod {
+  recognized: boolean
+}
 
 export interface RawVariant {
   supplierVariantId: string
@@ -30,6 +38,7 @@ export interface RawProduct {
   moq?: number
   weightGrams?: number
   rawPersonalizationCodes?: string[]
+  supplierPersonalizations?: RawSupplierPersonalizationMethod[]
   material?: string[]
   colors?: string[]
   sizes?: string[]

@@ -568,6 +568,11 @@ function SelectedProductsPanel({ items }: { items: OfferItem[] }) {
               className="inline-flex items-center gap-2 px-3 py-1.5 text-xs font-medium text-[var(--brand-black)] bg-[var(--surface)] border border-[var(--border)] rounded-full"
             >
               {item.name}
+              {item.supplierSku && (
+                <span className="font-mono text-[var(--text-soft)]">
+                  · {item.supplierSku}
+                </span>
+              )}
               {variantLabel && (
                 <span className="text-[var(--text-soft)]">· {variantLabel}</span>
               )}

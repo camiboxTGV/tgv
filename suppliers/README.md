@@ -7,7 +7,9 @@ To add a supplier:
 
 1. Add its adapter under `suppliers/<id>/adapter.ts` using the `SupplierAdapter` contract.
    Production adapters must implement both `fetchAll()` and `fetchInventory()`, and full-sync raw
-   products must include stable `supplierVariantIds` that match their variants.
+   products must include stable `supplierVariantIds` that match their variants. Preserve the
+   supplier's exact decoration codes, localized labels, and print sizes in
+   `supplierPersonalizations`; keep `personalizations` only for compatible TGV calculator families.
 2. Add one entry to `suppliers/suppliers.ts`. Declare the exact HTTPS image hosts and path
    prefixes used by the feed; the same list configures Next.js and validates sync input.
 3. Add the supplier's API credentials to `.env.local` and the catalog workflow secrets.
@@ -19,6 +21,8 @@ To add a supplier:
 Publishing is fail-closed: any adapter/import/data/image failure prevents catalog data from being
 written. Full syncs also reject global or per-supplier drops over 50% unless the operator explicitly
 uses `--force`, and stale generated product/variant files are pruned after a successful run.
+Unknown supplier personalization codes remain visible with a safe fallback label and are counted in
+`sync-report.json`, so a new supplier code cannot silently disappear from the website.
 
 ## Sync cadence
 

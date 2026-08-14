@@ -35,6 +35,7 @@ export default function ProductCard({ product, priority = false }: Readonly<Prop
   const firstImage = product.images[0]
   const asOf = formatAsOfDate(product.fetchedAt)
   const detailHref = `/catalog/${product.category}/${product.slug}`
+  const supplierPersonalizations = product.supplierPersonalizations ?? []
 
   return (
     <article
@@ -45,7 +46,7 @@ export default function ProductCard({ product, priority = false }: Readonly<Prop
         href={detailHref}
         className="flex flex-col gap-4 focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--brand-orange)] focus-visible:ring-offset-2 focus-visible:ring-offset-[var(--bg)] rounded-xl"
       >
-        <div className="relative overflow-hidden aspect-[4/3] rounded-xl bg-[var(--surface-soft)]">
+        <div className="relative overflow-hidden aspect-[4/3] rounded-xl border border-[var(--border-soft)] bg-[var(--surface)]">
           {firstImage ? (
             <Image
               src={firstImage}
@@ -53,7 +54,7 @@ export default function ProductCard({ product, priority = false }: Readonly<Prop
               fill
               loading={priority ? "eager" : "lazy"}
               sizes="(min-width: 1024px) 320px, (min-width: 640px) 45vw, 90vw"
-              className="object-cover transition-transform duration-500 group-hover:scale-[1.04]"
+              className="object-contain p-3 transition-transform duration-500 group-hover:scale-[1.04]"
             />
           ) : (
             <div
@@ -71,6 +72,9 @@ export default function ProductCard({ product, priority = false }: Readonly<Prop
           <h3 className="text-base font-[family-name:var(--font-outfit)] font-semibold text-[var(--brand-black)]">
             {product.name}
           </h3>
+          <p className="font-mono text-[11px] font-semibold uppercase tracking-wide text-[var(--text-muted)]">
+            Code {product.supplierSku}
+          </p>
           <p className="text-sm leading-relaxed text-[var(--text-muted)] line-clamp-3">
             {product.summary}
           </p>
@@ -92,7 +96,25 @@ export default function ProductCard({ product, priority = false }: Readonly<Prop
         />
 
 
-        {product.personalizations.length > 0 ? (
+        {supplierPersonalizations.length > 0 ? (
+          <div className="flex flex-wrap gap-1.5">
+            {supplierPersonalizations.slice(0, 2).map((method) => (
+              <span
+                key={method.code}
+                title={`${method.code} · ${method.label}`}
+                className="max-w-full truncate px-2 py-0.5 text-xs text-[var(--text-soft)] bg-[var(--surface-soft)] border border-[var(--border-soft)] rounded-full"
+              >
+                <span className="font-mono font-semibold text-[var(--brand-black)]">{method.code}</span>
+                {" · "}{method.label}
+              </span>
+            ))}
+            {supplierPersonalizations.length > 2 ? (
+              <span className="px-2 py-0.5 text-xs text-[var(--text-muted)]">
+                +{supplierPersonalizations.length - 2}
+              </span>
+            ) : null}
+          </div>
+        ) : product.supplierId !== "macma" && product.personalizations.length > 0 ? (
           <div className="flex flex-wrap gap-1.5">
             {product.personalizations.map((p) => (
               <span

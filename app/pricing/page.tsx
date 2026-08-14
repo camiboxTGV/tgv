@@ -6,7 +6,7 @@ import LocalizedText from "@/components/LocalizedText"
 export const metadata: Metadata = {
   title: "Personalisation Price Calculator — TGV-Media",
   description:
-    "Calculate an indicative decoration price for direct UV print, CO2 engraving, or fiber laser engraving.",
+    "Calculate an indicative decoration price for direct UV printing, laser engraving, pad or screen printing, and textile transfer.",
 }
 
 export default function PricingPage() {

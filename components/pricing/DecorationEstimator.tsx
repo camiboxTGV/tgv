@@ -14,6 +14,9 @@ import {
   type DecorationOptions,
   type HandlingRate,
   type LaserSize,
+  type PadInkSystem,
+  type PrintColors,
+  type TextileFormat,
   type UvFormat,
 } from "@/lib/pricing/calculator"
 import { useLanguage } from "@/components/LanguageProvider"
@@ -26,13 +29,6 @@ interface Props {
   productName?: string
 }
 
-const ALL_METHODS: Personalization[] = [
-  "co2",
-  "fiber-laser",
-  "uv-print",
-  "uv-transfer",
-]
-
 export default function DecorationEstimator({
   methods,
   quantity,
@@ -42,7 +38,7 @@ export default function DecorationEstimator({
 }: Readonly<Props>) {
   const { locale } = useLanguage()
   const ro = locale === "ro"
-  const available = methods.length > 0 ? methods : ALL_METHODS
+  const available = methods
   const [options, setOptions] = useState<DecorationOptions>(() => ({
     ...DEFAULT_DECORATION_OPTIONS,
     method: available[0] ?? "uv-print",
@@ -73,6 +69,21 @@ export default function DecorationEstimator({
     value: DecorationOptions[K],
   ) => setOptions((current) => ({ ...current, [key]: value }))
 
+  if (available.length === 0) {
+    return (
+      <div className="rounded-2xl border border-[var(--border)] bg-[var(--surface-soft)] p-4 sm:p-5">
+        <p className="text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange)]">
+          {ro ? "Ofertă manuală" : "Manual quote"}
+        </p>
+        <p className="mt-2 text-sm leading-relaxed text-[var(--text-soft)]">
+          {ro
+            ? "Metodele furnizorului nu au încă un tarif automat compatibil. Păstrăm codurile exacte și confirmăm tehnologia, poziționarea și prețul în oferta finală."
+            : "The supplier methods do not yet have a compatible automated tariff. We keep the exact codes and confirm the technique, placement, and price in the final quote."}
+        </p>
+      </div>
+    )
+  }
+
   return (
     <div className="rounded-2xl border border-[var(--border)] bg-[var(--surface-soft)] p-4 sm:p-5">
       <div className="flex flex-col gap-1">
@@ -90,7 +101,7 @@ export default function DecorationEstimator({
             <input
               type="number"
               min={1}
-              max={10000}
+              max={1000000}
               value={quantity}
               onChange={(event) => onQuantityChange(Number(event.target.value))}
               className="h-11 w-full rounded-xl border border-[var(--border)] bg-[var(--surface)] px-3 text-sm text-[var(--brand-black)] outline-none focus:border-[var(--brand-orange)]"
@@ -111,7 +122,9 @@ export default function DecorationEstimator({
                       co2: "Gravură laser CO2",
                       "fiber-laser": "Gravură laser cu fibră",
                       "uv-print": "Print UV direct",
-                      "uv-transfer": "Transfer UV",
+                      "pad-screen": "Tampografie / serigrafie",
+                      "textile-transfer": "Transfer textil",
+                      "uv-transfer": "Transfer furnizor · ofertă manuală",
                     } as const)[method]
                   : PERSONALIZATION_LABELS[method].label}
               </option>
@@ -160,6 +173,38 @@ export default function DecorationEstimator({
           </Field>
         ) : null}
 
+        {options.method === "pad-screen" ? (
+          <>
+            <Field label={ro ? "Sistem de cerneală" : "Ink system"}>
+              <select
+                value={options.padInkSystem}
+                onChange={(event) => update("padInkSystem", event.target.value as PadInkSystem)}
+                className="h-11 w-full rounded-xl border border-[var(--border)] bg-[var(--surface)] px-3 text-sm text-[var(--brand-black)] outline-none focus:border-[var(--brand-orange)]"
+              >
+                <option value="mono">{ro ? "Monocomponentă · PVC, ABS, polistiren" : "Mono-component · PVC, ABS, polystyrene"}</option>
+                <option value="two-component">{ro ? "Bicomponentă · PE, melamină, piele, metal lăcuit" : "Two-component · PE, melamine, leather, coated metal"}</option>
+              </select>
+            </Field>
+            <ColorField options={options} update={update} ro={ro} />
+          </>
+        ) : null}
+
+        {options.method === "textile-transfer" ? (
+          <>
+            <Field label={ro ? "Format maxim" : "Maximum format"}>
+              <select
+                value={options.textileFormat}
+                onChange={(event) => update("textileFormat", event.target.value as TextileFormat)}
+                className="h-11 w-full rounded-xl border border-[var(--border)] bg-[var(--surface)] px-3 text-sm text-[var(--brand-black)] outline-none focus:border-[var(--brand-orange)]"
+              >
+                <option value="10x10">10 × 10 cm</option>
+                <option value="20x30">20 × 30 cm</option>
+              </select>
+            </Field>
+            <ColorField options={options} update={update} ro={ro} />
+          </>
+        ) : null}
+
         <Field label={ro ? "Manipulare la despachetare / reambalare" : "Unpack / repack handling"}>
           <select
             value={options.handlingRate}
@@ -167,15 +212,33 @@ export default function DecorationEstimator({
             className="h-11 w-full rounded-xl border border-[var(--border)] bg-[var(--surface)] px-3 text-sm text-[var(--brand-black)] outline-none focus:border-[var(--brand-orange)]"
           >
             <option value={0}>{ro ? "Fără" : "None"}</option>
-            <option value={0.05}>{ro ? "Obiect mic" : "Small object"} · €0.05/{ro ? "buc." : "unit"}</option>
-            <option value={0.1}>{ro ? "Obiect mediu" : "Medium object"} · €0.10/{ro ? "buc." : "unit"}</option>
-            <option value={0.2}>{ro ? "Obiect dificil" : "Difficult object"} · €0.20/{ro ? "buc." : "unit"}</option>
+            {options.method !== "textile-transfer" ? (
+              <option value={0.05}>{ro ? "Obiect mic" : "Small object"} · €0.05/{ro ? "buc." : "unit"}</option>
+            ) : null}
+            <option value={0.1}>{options.method === "textile-transfer" ? (ro ? "Tricou, geantă sau rucsac" : "Shirt, bag, or backpack") : (ro ? "Obiect mediu" : "Medium object")} · €0.10/{ro ? "buc." : "unit"}</option>
+            <option value={0.2}>{options.method === "textile-transfer" ? (ro ? "Umbrelă" : "Umbrella") : (ro ? "Obiect dificil" : "Difficult object")} · €0.20/{ro ? "buc." : "unit"}</option>
           </select>
+        </Field>
+
+        <Field label={ro ? "Procesare grafică (opțional)" : "Artwork processing (optional)"}>
+          <div className="relative">
+            <input
+              type="number"
+              min={0}
+              step={0.25}
+              value={options.artworkHours}
+              onChange={(event) => update("artworkHours", Number(event.target.value))}
+              className="h-11 w-full rounded-xl border border-[var(--border)] bg-[var(--surface)] px-3 pr-20 text-sm text-[var(--brand-black)] outline-none focus:border-[var(--brand-orange)]"
+            />
+            <span className="pointer-events-none absolute inset-y-0 right-3 flex items-center text-xs text-[var(--text-muted)]">€25/{ro ? "oră" : "hour"}</span>
+          </div>
         </Field>
       </div>
 
       <div className="mt-4 grid grid-cols-1 gap-2 sm:grid-cols-2">
-        <Check label={ro ? "Nume individuale (+50%)" : "Individual names (+50%)"} checked={options.named} onChange={(value) => update("named", value)} />
+        {options.method === "uv-print" || options.method === "co2" || options.method === "fiber-laser" ? (
+          <Check label={ro ? "Nume individuale (+50%)" : "Individual names (+50%)"} checked={options.named} onChange={(value) => update("named", value)} />
+        ) : null}
         {options.method === "uv-print" ? (
           <>
             <Check label={ro ? "Formă dificilă (+50%)" : "Difficult shape (+50%)"} checked={options.difficultShape} onChange={(value) => update("difficultShape", value)} />
@@ -188,7 +251,9 @@ export default function DecorationEstimator({
         {options.method === "co2" ? (
           <Check label={ro ? "Gravură peste 12 cm² (2×)" : "Engraving over 12 cm² (2×)"} checked={options.largeEngraving} onChange={(value) => update("largeEngraving", value)} />
         ) : null}
-        <Check label={ro ? "Mostră de producție (+€7)" : "Production sample (+€7)"} checked={options.sample} onChange={(value) => update("sample", value)} />
+        {options.method === "uv-print" || options.method === "co2" || options.method === "fiber-laser" ? (
+          <Check label={ro ? "Mostră de producție (+€7)" : "Production sample (+€7)"} checked={options.sample} onChange={(value) => update("sample", value)} />
+        ) : null}
       </div>
 
       <div className="mt-5 rounded-xl bg-[var(--surface)] p-4">
@@ -198,6 +263,10 @@ export default function DecorationEstimator({
             <ResultRow label={ro ? "Producție personalizare" : "Decoration production"} value={formatEuro(estimate.productionSubtotal ?? 0)} />
             {estimate.handlingSubtotal > 0 ? <ResultRow label={ro ? "Manipulare" : "Handling"} value={formatEuro(estimate.handlingSubtotal)} /> : null}
             {estimate.sampleSubtotal > 0 ? <ResultRow label={ro ? "Mostră" : "Sample"} value={formatEuro(estimate.sampleSubtotal)} /> : null}
+            {estimate.artworkSubtotal > 0 ? <ResultRow label={ro ? "Procesare grafică" : "Artwork processing"} value={formatEuro(estimate.artworkSubtotal)} /> : null}
+            {estimate.billableQuantity !== null && estimate.billableQuantity > quantity ? (
+              <ResultRow label={ro ? "Cantitate minimă facturată" : "Minimum billed quantity"} value={`${estimate.billableQuantity} ${ro ? "buc." : "units"}`} />
+            ) : null}
             <ResultRow
               label={estimatedTotal === null ? (ro ? "Estimare personalizare" : "Decoration estimate") : (ro ? "Total orientativ" : "Indicative total")}
               value={formatEuro(estimatedTotal ?? estimate.decorationTotal ?? 0)}
@@ -209,7 +278,7 @@ export default function DecorationEstimator({
           <div>
             <p className="text-sm font-semibold text-[var(--brand-black)]">{ro ? "Este necesară o ofertă manuală" : "Manual quote required"}</p>
             <p className="mt-1 text-sm leading-relaxed text-[var(--text-soft)]">
-              {ro ? "Transferul UV este disponibil, însă tariful furnizat nu definește un preț suficient de sigur. Îl vom confirma în oferta finală." : estimate.message}
+              {manualMessage(estimate.reason, estimate.message, ro)}
             </p>
             {productSubtotal !== null ? (
               <p className="mt-3 text-sm text-[var(--text-soft)]">
@@ -229,7 +298,54 @@ export default function DecorationEstimator({
 }
 
 function uvFormatRo(format: UvFormat): string {
-  return ({ small: "Marcaj mic", card: "Format card", medium: "Marcaj mediu", a6: "Până la A6", a5: "Până la A5", a4: "Până la A4" } as const)[format]
+  return ({
+    small: "Obiect mic · pix, breloc, USB",
+    card: "Card bancar sau USB tip card",
+    "medium-a6": "Obiect mediu · până la A6",
+    "large-a5": "Obiect mare · până la A5",
+    "large-a4": "Obiect mare · până la A4",
+    "large-a3": "Obiect mare · până la A3",
+  } as const)[format]
+}
+
+function ColorField({
+  options,
+  update,
+  ro,
+}: Readonly<{
+  options: DecorationOptions
+  update: <K extends keyof DecorationOptions>(key: K, value: DecorationOptions[K]) => void
+  ro: boolean
+}>) {
+  return (
+    <Field label={ro ? "Număr de culori" : "Number of colours"}>
+      <select
+        value={options.printColors}
+        onChange={(event) => update("printColors", Number(event.target.value) as PrintColors)}
+        className="h-11 w-full rounded-xl border border-[var(--border)] bg-[var(--surface)] px-3 text-sm text-[var(--brand-black)] outline-none focus:border-[var(--brand-orange)]"
+      >
+        {([1, 2, 3, 4, 5, 6] as const).map((colors) => (
+          <option key={colors} value={colors}>{colors} {ro ? (colors === 1 ? "culoare" : "culori") : (colors === 1 ? "colour" : "colours")}</option>
+        ))}
+      </select>
+    </Field>
+  )
+}
+
+function manualMessage(
+  reason: import("@/lib/pricing/calculator").EstimateReason | undefined,
+  fallback: string | undefined,
+  ro: boolean,
+): string {
+  if (!ro) return fallback ?? "This configuration needs a manual production review."
+  return ({
+    "legacy-transfer": "Eticheta de transfer din datele vechi ale furnizorului nu identifică un tarif validat. Confirmăm metoda exactă în oferta finală.",
+    "co2-high-quantity": "Comenzile cu gravură CO2 de peste 500 de bucăți se calculează după analiza producției.",
+    "unsupported-combination": "Această combinație de material și dimensiune necesită analiza manuală a producției.",
+    "pad-low-quantity": "Comenzile de tampografie sau serigrafie sub 50 de bucăți necesită analiză manuală.",
+    "pad-high-quantity": "Comenzile de tampografie sau serigrafie peste 10.000 de bucăți necesită analiză manuală.",
+    "textile-high-quantity": "Comenzile de transfer textil peste 10.500 de bucăți necesită analiză manuală.",
+  } as const)[reason ?? "unsupported-combination"]
 }
 
 function laserSizeRo(size: LaserSize): string {

@@ -221,7 +221,10 @@ export default function SearchBox({ className, onNavigate }: SearchBoxProps) {
                   {highlight(r.name, r.matches)}
                 </span>
                 <span className="text-xs text-[var(--text-muted)] truncate">
-                  {r.categoryLabel}
+                  <span className="font-mono font-semibold text-[var(--text-soft)]">
+                    {r.supplierSku}
+                  </span>
+                  {" · "}{r.categoryLabel}
                 </span>
               </div>
               <span className="shrink-0 text-sm font-semibold text-[var(--brand-orange)]">

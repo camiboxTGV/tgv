@@ -68,7 +68,7 @@ const FIXTURES: Fixture[] = [
   {
     sku: "FX-005",
     name: "Cotton tote bag 240gsm",
-    description: "240gsm cotton tote with reinforced handles. UV transfer for high-volume runs.",
+    description: "240gsm cotton tote with reinforced handles. Textile transfer for high-volume runs.",
     supplierCategory: "Shopping/Tote",
     slugPath: "bags/shopping-bags/cotton-and-canvas",
     price: 2.95,
@@ -93,20 +93,34 @@ const FIXTURES: Fixture[] = [
 
 function mapTech(code: string): Personalization[] {
   switch (code) {
-    case "UV":
-    case "UV-PL":
-      return ["uv-print"]
     case "G1":
     case "G2":
     case "G3":
+    case "L0":
+    case "L1":
+    case "L2":
+    case "L3":
       return ["co2"]
     case "DT":
+    case "TT1":
+    case "TT2":
+    case "TT3":
+      return ["textile-transfer"]
+    case "T1":
     case "T2":
     case "T3":
     case "T4":
-      return ["uv-transfer"]
+      return ["pad-screen"]
     case "S1":
     case "S2":
+    case "ST1":
+    case "ST2":
+      return ["pad-screen"]
+    case "UV":
+    case "UV-PL":
+    case "DC0":
+    case "DC1":
+    case "DC2":
       return ["uv-print"]
     default:
       return []
