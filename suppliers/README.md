@@ -42,6 +42,17 @@ same time on Sunday. Its concurrency group prevents overlapping writers. A commi
 when deployable catalog JSON changes, and Firebase App Hosting then deploys that commit from its
 configured live branch.
 
+Before publishing, the workflow validates the API secret, generated totals, unique supplier SKUs,
+Macma's exact personalization payload, and the F38 S2/DC/DT/DW regression canary. It then runs the
+test suite and a production build. Automated commits are restricted to
+`lib/content/generated/**`; if the build changes any other tracked source, or the target branch
+advances while the sync is running, the job fails instead of publishing data produced from stale
+code. Each run writes a GitHub step summary and retains its sync log and reports for 14 days.
+
+After deploying supplier-adapter or personalization-mapping changes, manually run `full` once from
+`main` with the deletion-guard bypass disabled. Daily inventory mode deliberately does not rewrite
+product metadata, photos, or personalization methods.
+
 Scheduled GitHub workflows run only from the repository default branch. Keep the workflow on
 `main`, configure App Hosting's live branch as `main` with automatic rollouts enabled, and ensure
 App Hosting rollout path filters do not ignore `lib/content/generated/**`.

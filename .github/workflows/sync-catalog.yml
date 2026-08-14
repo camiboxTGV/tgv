@@ -31,12 +31,12 @@ jobs:
     timeout-minutes: 30
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
         with:
           node-version: "24"
           cache: "npm"
@@ -60,6 +60,26 @@ jobs:
           fi
           echo "mode=$mode" >> "$GITHUB_OUTPUT"
 
+      - name: Validate configuration
+        shell: bash
+        env:
+          MACMA_API_BASE: ${{ secrets.MACMA_API_BASE }}
+          MODE: ${{ steps.mode.outputs.mode }}
+        run: |
+          set -euo pipefail
+          if [[ -z "$MACMA_API_BASE" ]]; then
+            echo "::error::Repository secret MACMA_API_BASE is missing."
+            exit 1
+          fi
+          if [[ "$MACMA_API_BASE" != https://* ]]; then
+            echo "::error::MACMA_API_BASE must use HTTPS."
+            exit 1
+          fi
+          if [[ "$MODE" != "inventory" && "$MODE" != "full" ]]; then
+            echo "::error::Invalid sync mode: $MODE"
+            exit 1
+          fi
+
       - name: Run ${{ steps.mode.outputs.mode }} sync
         shell: bash
         env:
@@ -74,21 +94,57 @@ jobs:
               args+=(--force)
             fi
           fi
-          npm run sync:catalog -- "${args[@]}"
+          npm run sync:catalog -- "${args[@]}" 2>&1 | tee "$RUNNER_TEMP/catalog-sync.log"
+
+      - name: Verify generated catalog
+        shell: bash
+        env:
+          MODE: ${{ steps.mode.outputs.mode }}
+        run: npm run verify:catalog-sync -- --mode="$MODE"
 
       - name: Verify catalog app
         run: |
           npm test
           npm run build
 
+      - name: Verify workflow change scope
+        shell: bash
+        run: |
+          set -euo pipefail
+          # Next rewrites this tracked helper differently in dev and build mode.
+          # It is not catalog data and must never enter an automated sync commit.
+          git restore --worktree -- next-env.d.ts
+
+          unexpected="$({
+            git diff --name-only
+            git ls-files --others --exclude-standard
+          } | sort -u | grep -v '^lib/content/generated/' || true)"
+
+          if [[ -n "$unexpected" ]]; then
+            echo "::error::The catalog workflow changed files outside lib/content/generated/:"
+            printf '%s\n' "$unexpected"
+            exit 1
+          fi
+
       - name: Detect changes
         id: diff
         run: |
-          git add -A
+          git add -A -- lib/content/generated
           if git diff --cached --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
           else
             echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Verify branch has not changed
+        if: steps.diff.outputs.changed == 'true'
+        shell: bash
+        run: |
+          set -euo pipefail
+          git fetch origin "$GITHUB_REF_NAME"
+          if [[ "$(git rev-parse HEAD)" != "$(git rev-parse FETCH_HEAD)" ]]; then
+            echo "::error::The branch changed while catalog data was being generated. Rerun the workflow so data is produced and tested against the latest code."
+            exit 1
           fi
 
       - name: Commit and push
@@ -99,5 +155,39 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit -m "chore(catalog): ${MODE} sync #${{ github.run_number }}"
-          git pull --rebase origin "$GITHUB_REF_NAME"
           git push origin "HEAD:$GITHUB_REF_NAME"
+
+      - name: Write workflow summary
+        if: always()
+        shell: bash
+        env:
+          MODE: ${{ steps.mode.outputs.mode }}
+          CHANGED: ${{ steps.diff.outputs.changed }}
+        run: |
+          {
+            echo "## Catalog data sync"
+            echo "- Mode: \`$MODE\`"
+            echo "- Branch: \`$GITHUB_REF_NAME\`"
+            echo "- Generated data changed: \`${CHANGED:-unknown}\`"
+            if [[ -f "$RUNNER_TEMP/catalog-sync.log" ]]; then
+              echo
+              echo "<details><summary>Sync output</summary>"
+              echo
+              echo '```text'
+              sed -n '1,160p' "$RUNNER_TEMP/catalog-sync.log"
+              echo '```'
+              echo "</details>"
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload sync diagnostics
+        if: always()
+        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
+        with:
+          name: catalog-sync-${{ github.run_number }}-${{ steps.mode.outputs.mode }}
+          path: |
+            ${{ runner.temp }}/catalog-sync.log
+            lib/content/generated/sync-report.json
+            lib/content/generated/last-sync.json
+          if-no-files-found: warn
+          retention-days: 14
