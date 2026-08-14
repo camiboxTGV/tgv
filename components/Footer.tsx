@@ -1,9 +1,47 @@
+"use client"
+
 import Link from "next/link"
 import SocialLinks from "@/components/SocialLinks"
 import { services } from "@/lib/content/services"
+import { useLanguage } from "@/components/LanguageProvider"
+import { localizeService } from "@/lib/i18n/content"
 
 export default function Footer() {
   const year = new Date().getFullYear()
+  const { locale } = useLanguage()
+  const copy = locale === "ro"
+    ? {
+        description: "Producție și personalizare promoțională, de la concept la livrare.",
+        network: "Rețeaua noastră",
+        services: "Servicii",
+        site: "Site",
+        catalog: "Catalog",
+        offer: "Oferta mea",
+        calculator: "Calculator de preț",
+        priceList: "Listă prețuri personalizare (PDF)",
+        portfolio: "Portofoliu",
+        about: "Despre noi",
+        contact: "Contact",
+        touch: "Contactează-ne",
+        rights: "Toate drepturile rezervate.",
+        sitemap: "Harta site-ului",
+      }
+    : {
+        description: "Full-service customization and promotional production.",
+        network: "Our network",
+        services: "Services",
+        site: "Site",
+        catalog: "Catalog",
+        offer: "My offer",
+        calculator: "Price calculator",
+        priceList: "Personalisation price list (PDF)",
+        portfolio: "Portfolio",
+        about: "About",
+        contact: "Contact",
+        touch: "Get in touch",
+        rights: "All rights reserved.",
+        sitemap: "Sitemap",
+      }
 
   return (
     <footer className="bg-[var(--surface-elevated)] border-t border-[var(--border)]">
@@ -16,11 +54,11 @@ export default function Footer() {
             TGV<span className="text-[var(--brand-orange)]">-</span>Media
           </Link>
           <p className="mt-4 text-sm leading-relaxed text-[var(--text-muted)]">
-            Full-service customization and promotional production.
+            {copy.description}
           </p>
           <div className="mt-6">
             <p className="text-xs font-semibold uppercase tracking-widest text-[var(--text-muted)]">
-              Our network
+              {copy.network}
             </p>
             <div className="mt-3 flex flex-wrap gap-x-4 gap-y-2 text-sm">
               <a
@@ -45,7 +83,7 @@ export default function Footer() {
 
         <div>
           <h3 className="text-sm font-semibold uppercase tracking-widest text-[var(--text-muted)]">
-            Services
+            {copy.services}
           </h3>
           <ul className="flex flex-col gap-2 mt-4">
             {services.map((service) => (
@@ -54,7 +92,7 @@ export default function Footer() {
                   href={`/services/${service.slug}`}
                   className="text-sm text-[var(--text-soft)] hover:text-[var(--brand-black)] transition-colors"
                 >
-                  {service.title}
+                  {localizeService(service, locale).title}
                 </Link>
               </li>
             ))}
@@ -63,7 +101,7 @@ export default function Footer() {
 
         <div>
           <h3 className="text-sm font-semibold uppercase tracking-widest text-[var(--text-muted)]">
-            Site
+            {copy.site}
           </h3>
           <ul className="flex flex-col gap-2 mt-4">
             <li>
@@ -71,7 +109,7 @@ export default function Footer() {
                 href="/catalog"
                 className="text-sm text-[var(--text-soft)] hover:text-[var(--brand-black)] transition-colors"
               >
-                Catalog
+                {copy.catalog}
               </Link>
             </li>
             <li>
@@ -79,7 +117,7 @@ export default function Footer() {
                 href="/offer"
                 className="text-sm text-[var(--text-soft)] hover:text-[var(--brand-black)] transition-colors"
               >
-                My offer
+                {copy.offer}
               </Link>
             </li>
             <li>
@@ -87,7 +125,7 @@ export default function Footer() {
                 href="/pricing"
                 className="text-sm text-[var(--text-soft)] hover:text-[var(--brand-black)] transition-colors"
               >
-                Price calculator
+                {copy.calculator}
               </Link>
             </li>
             <li>
@@ -96,7 +134,7 @@ export default function Footer() {
                 className="text-sm text-[var(--text-soft)] hover:text-[var(--brand-black)] transition-colors"
                 download
               >
-                Personalisation price list (PDF)
+                {copy.priceList}
               </a>
             </li>
             <li>
@@ -104,7 +142,7 @@ export default function Footer() {
                 href="/portfolio"
                 className="text-sm text-[var(--text-soft)] hover:text-[var(--brand-black)] transition-colors"
               >
-                Portfolio
+                {copy.portfolio}
               </Link>
             </li>
             <li>
@@ -112,7 +150,7 @@ export default function Footer() {
                 href="/about"
                 className="text-sm text-[var(--text-soft)] hover:text-[var(--brand-black)] transition-colors"
               >
-                About
+                {copy.about}
               </Link>
             </li>
             <li>
@@ -120,7 +158,7 @@ export default function Footer() {
                 href="/contact"
                 className="text-sm text-[var(--text-soft)] hover:text-[var(--brand-black)] transition-colors"
               >
-                Contact
+                {copy.contact}
               </Link>
             </li>
           </ul>
@@ -128,7 +166,7 @@ export default function Footer() {
 
         <div>
           <h3 className="text-sm font-semibold uppercase tracking-widest text-[var(--text-muted)]">
-            Get in touch
+            {copy.touch}
           </h3>
           <ul className="flex flex-col gap-2 mt-4 text-sm text-[var(--text-muted)]">
             <li>Strada Dimitrie Racoviță 3, București</li>
@@ -157,13 +195,13 @@ export default function Footer() {
 
       <div className="border-t border-[var(--border)]">
         <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3 mx-auto px-6 lg:px-12 py-5 max-w-6xl text-xs text-[var(--text-muted)]">
-          <p>© {year} TGV-Media. All rights reserved.</p>
+          <p>© {year} TGV-Media. {copy.rights}</p>
           <div className="flex items-center gap-5">
             <Link
               href="/sitemap"
               className="hover:text-[var(--brand-black)] transition-colors"
             >
-              Sitemap
+              {copy.sitemap}
             </Link>
           </div>
         </div>

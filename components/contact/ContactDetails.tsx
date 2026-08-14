@@ -1,4 +1,7 @@
+"use client"
+
 import SocialLinks from "@/components/SocialLinks"
+import { useLanguage } from "@/components/LanguageProvider"
 
 interface ContactChannel {
   label: string
@@ -36,17 +39,25 @@ const MAP_EMBED_URL =
   "https://maps.google.com/maps?q=Strada%20Dimitrie%20Racovi%C8%9B%C4%83%203%2C%20Bucure%C8%99ti&t=&z=16&ie=UTF8&iwloc=&output=embed"
 
 export default function ContactDetails() {
+  const { locale } = useLanguage()
+  const ro = locale === "ro"
+  const channels = CHANNELS.map((channel) => {
+    if (!ro) return channel
+    if (channel.icon === "phone") return { ...channel, label: "Sună-ne", hint: "Lun–Vin · 09:00–18:00 EET" }
+    if (channel.icon === "email") return { ...channel, hint: "Răspundem în cel mult o zi lucrătoare" }
+    return { ...channel, label: "Atelier" }
+  })
   return (
     <section className="flex flex-col gap-8">
       <div className="flex items-center gap-4">
         <span className="block w-16 h-1 bg-[var(--brand-orange)]" />
         <p className="text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange)]">
-          Reach us directly
+          {ro ? "Contact direct" : "Reach us directly"}
         </p>
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-3 gap-4 lg:gap-6">
-        {CHANNELS.map((c) => (
+        {channels.map((c) => (
           <ChannelCard key={c.label} channel={c} />
         ))}
       </div>
@@ -54,10 +65,10 @@ export default function ContactDetails() {
       <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-5 p-5 sm:p-6 bg-[var(--surface-soft)] border border-[var(--border-soft)] rounded-3xl">
         <div>
           <p className="font-[family-name:var(--font-outfit)] font-semibold text-[var(--brand-black)]">
-            Follow the studio
+            {ro ? "Urmărește atelierul" : "Follow the studio"}
           </p>
           <p className="mt-1 text-sm text-[var(--text-soft)]">
-            See new projects, production details and work in progress.
+            {ro ? "Vezi proiecte noi, detalii de producție și lucrări în desfășurare." : "See new projects, production details and work in progress."}
           </p>
         </div>
         <SocialLinks showLabels />
@@ -66,7 +77,7 @@ export default function ContactDetails() {
       <div className="relative w-full h-72 sm:h-80 lg:h-96 bg-[var(--surface-soft)] border border-[var(--border-soft)] rounded-3xl overflow-hidden">
         <iframe
           src={MAP_EMBED_URL}
-          title="TGV-Media studio location on Google Maps"
+          title={ro ? "Locația atelierului TGV-Media pe Google Maps" : "TGV-Media studio location on Google Maps"}
           loading="lazy"
           referrerPolicy="no-referrer-when-downgrade"
           className="block w-full h-full border-0"

@@ -10,6 +10,11 @@ import {
   type CategoryNode,
 } from "./categories"
 import type { CatalogProduct, ProductVariant } from "./catalog"
+import {
+  catalogImageProxyPath,
+  catalogImageVersion,
+  isRemoteCatalogImage,
+} from "./catalog-images"
 
 const PRODUCTS_DIR = "lib/content/generated/products"
 const VARIANTS_DIR = "lib/content/generated/variants"
@@ -22,6 +27,10 @@ interface GeneratedIndex {
 
 let cachedIndex: GeneratedIndex | null = null
 const cachedCategories = new Map<string, CatalogProduct[]>()
+const cachedImageSources = new Map<
+  string,
+  { supplierId: string; sourceUrls: string[] }
+>()
 let cachedAllProducts: CatalogProduct[] | null = null
 let cachedBySlug: Map<string, CatalogProduct> | null = null
 
@@ -45,7 +54,20 @@ function loadLeafProducts(slugPath: string): CatalogProduct[] {
   if (cached) return cached
   try {
     const txt = readFileSync(join(repoRoot(), PRODUCTS_DIR, `${slugPath}.json`), "utf8")
-    const list = JSON.parse(txt) as CatalogProduct[]
+    const rawList = JSON.parse(txt) as CatalogProduct[]
+    const list = rawList.map((product) => {
+      const sourceUrls = [...product.images]
+      cachedImageSources.set(product.slug, {
+        supplierId: product.supplierId,
+        sourceUrls,
+      })
+      return {
+        ...product,
+        images: sourceUrls.map((sourceUrl, index) =>
+          catalogImageProxyPath(product.slug, index, sourceUrl),
+        ),
+      }
+    })
     cachedCategories.set(slugPath, list)
     return list
   } catch {
@@ -89,6 +111,27 @@ export function getProductsByCategory(slug: string): CatalogProduct[] {
 
 export function getProductBySlug(slug: string): CatalogProduct | undefined {
   return bySlugIndex().get(slug)
+}
+
+export interface CatalogImageSource {
+  supplierId: string
+  sourceUrl: string
+  version: string
+}
+
+export function getCatalogImageSource(
+  productSlug: string,
+  index: number,
+): CatalogImageSource | undefined {
+  bySlugIndex()
+  const cached = cachedImageSources.get(productSlug)
+  const sourceUrl = cached?.sourceUrls[index]
+  if (!cached || !sourceUrl || !isRemoteCatalogImage(sourceUrl)) return undefined
+  return {
+    supplierId: cached.supplierId,
+    sourceUrl,
+    version: catalogImageVersion(sourceUrl),
+  }
 }
 
 export function countProductsUnder(node: CategoryNode, trail: string[] = []): number {

@@ -3,6 +3,7 @@
 import Link from "next/link"
 import { useEffect, useState } from "react"
 import { onOfferAdded } from "@/components/OfferProvider"
+import { useLanguage } from "@/components/LanguageProvider"
 
 interface Toast {
   id: number
@@ -13,6 +14,7 @@ interface Toast {
 const DURATION_MS = 3000
 
 export default function OfferToast() {
+  const { locale } = useLanguage()
   const [toasts, setToasts] = useState<Toast[]>([])
 
   useEffect(() => {
@@ -55,14 +57,14 @@ export default function OfferToast() {
             </svg>
           </span>
           <span className="truncate">
-            <span className="text-white/70">Added</span>{" "}
+            <span className="text-white/70">{locale === "ro" ? "Adăugat" : "Added"}</span>{" "}
             <span className="font-medium">{t.name}</span>
           </span>
           <Link
             href="/offer"
             className="ml-2 text-xs font-semibold text-[var(--brand-orange-bright)] hover:text-white transition-colors whitespace-nowrap"
           >
-            View ({t.totalCount}) →
+            {locale === "ro" ? "Vezi" : "View"} ({t.totalCount}) →
           </Link>
         </div>
       ))}

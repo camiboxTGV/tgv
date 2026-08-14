@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "test": "node --experimental-strip-types --test --test-concurrency=1 suppliers/_shared/*.test.ts",
+    "test": "node --experimental-strip-types --test --test-concurrency=1 suppliers/_shared/*.test.ts lib/content/*.test.ts",
     "sync:catalog": "node --env-file-if-exists=.env.local --experimental-strip-types scripts/sync-catalog.ts"
   },
   "dependencies": {
@@ -14,7 +14,8 @@
     "next": "16.2.4",
     "nodemailer": "^8.0.5",
     "react": "19.2.4",
-    "react-dom": "19.2.4"
+    "react-dom": "19.2.4",
+    "sharp": "0.34.5"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",

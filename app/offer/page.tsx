@@ -6,11 +6,14 @@ import { useOffer } from "@/components/OfferProvider"
 import DecorationEstimator from "@/components/pricing/DecorationEstimator"
 import { getCategoryBySlugPath, getTopCategories } from "@/lib/content/catalog"
 import { lineKey, serializeForUrl } from "@/lib/offer/storage"
+import { useLanguage } from "@/components/LanguageProvider"
 
 export default function OfferPage() {
   const { items, count, totalQuantity, hydrated, remove, setLineQuantity, clear } =
     useOffer()
   const router = useRouter()
+  const { locale } = useLanguage()
+  const ro = locale === "ro"
 
   const goToBrief = () => {
     const encoded = serializeForUrl(items)
@@ -21,25 +24,26 @@ export default function OfferPage() {
     <>
       <section className="mx-auto px-6 lg:px-8 pt-20 pb-8 lg:pt-28 lg:pb-12 max-w-4xl">
         <p className="text-sm font-semibold uppercase tracking-widest text-[var(--text-muted)]">
-          Your offer
+          {ro ? "Oferta ta" : "Your offer"}
         </p>
         <h1 className="mt-4 text-4xl sm:text-5xl lg:text-6xl font-[family-name:var(--font-outfit)] font-bold leading-tight tracking-tight text-[var(--brand-black)]">
-          Build the brief.
+          {ro ? "Construiește brieful." : "Build the brief."}
         </h1>
         <p className="mt-6 max-w-2xl text-lg text-[var(--text-soft)] leading-relaxed">
-          Adjust quantities, estimate eligible production methods, then send
-          the brief. We&apos;ll validate the artwork and return the final quote.
+          {ro
+            ? "Ajustează cantitățile, estimează metodele de producție disponibile, apoi trimite brieful. Verificăm grafica și revenim cu oferta finală."
+            : "Adjust quantities, estimate eligible production methods, then send the brief. We'll validate the artwork and return the final quote."}
         </p>
       </section>
 
       {!hydrated ? (
         <section className="mx-auto px-6 lg:px-8 pb-24 max-w-4xl">
           <div className="p-6 bg-[var(--surface)] border border-[var(--border)] rounded-2xl text-sm text-[var(--text-muted)]">
-            Loading your offer…
+            {ro ? "Se încarcă oferta…" : "Loading your offer…"}
           </div>
         </section>
       ) : count === 0 ? (
-        <EmptyState />
+        <EmptyState locale={locale} />
       ) : (
         <section className="mx-auto px-6 lg:px-8 pb-24 max-w-4xl">
           <ul className="flex flex-col gap-3">
@@ -75,11 +79,12 @@ export default function OfferPage() {
                       <QtyControl
                         value={item.quantity}
                         onChange={(n) => setLineQuantity(key, n)}
+                        locale={locale}
                       />
                       <button
                         type="button"
                         onClick={() => remove(key)}
-                        aria-label={`Remove ${item.name}`}
+                        aria-label={`${ro ? "Elimină" : "Remove"} ${item.name}`}
                         className="inline-flex items-center justify-center w-9 h-9 text-[var(--text-muted)] hover:text-[var(--brand-orange)] bg-[var(--surface-soft)] hover:bg-[var(--surface)] border border-[var(--border-soft)] rounded-full transition-colors"
                       >
                         <svg
@@ -102,8 +107,8 @@ export default function OfferPage() {
 
                   <details className="group mt-4 border-t border-[var(--border-soft)] pt-4">
                     <summary className="cursor-pointer list-none text-sm font-semibold text-[var(--brand-orange)]">
-                      <span className="group-open:hidden">Calculate this line +</span>
-                      <span className="hidden group-open:inline">Hide calculator −</span>
+                      <span className="group-open:hidden">{ro ? "Calculează această poziție" : "Calculate this line"} +</span>
+                      <span className="hidden group-open:inline">{ro ? "Ascunde calculatorul" : "Hide calculator"} −</span>
                     </summary>
                     <div className="mt-4">
                       <DecorationEstimator
@@ -124,11 +129,11 @@ export default function OfferPage() {
               <span className="font-semibold text-[var(--brand-black)]">
                 {count}
               </span>{" "}
-              {count === 1 ? "product" : "products"} ·{" "}
+              {ro ? (count === 1 ? "produs" : "produse") : (count === 1 ? "product" : "products")} ·{" "}
               <span className="font-semibold text-[var(--brand-black)]">
                 {totalQuantity}
               </span>{" "}
-              total units
+              {ro ? "bucăți în total" : "total units"}
             </div>
             <div className="flex flex-col sm:flex-row gap-3">
               <button
@@ -136,14 +141,14 @@ export default function OfferPage() {
                 onClick={clear}
                 className="inline-flex items-center justify-center px-5 py-2.5 text-sm font-medium text-[var(--text-soft)] hover:text-[var(--brand-black)] bg-transparent transition-colors"
               >
-                Clear all
+                {ro ? "Șterge tot" : "Clear all"}
               </button>
               <button
                 type="button"
                 onClick={goToBrief}
                 className="inline-flex items-center justify-center gap-2 px-6 py-3 text-sm font-semibold text-white bg-[var(--brand-orange)] rounded-full hover:scale-[1.02] transition-transform"
               >
-                <span>Continue to brief</span>
+                <span>{ro ? "Continuă către brief" : "Continue to brief"}</span>
                 <span aria-hidden="true">→</span>
               </button>
             </div>
@@ -156,14 +161,14 @@ export default function OfferPage() {
                 className="inline-flex items-center gap-2 text-sm font-medium text-[var(--brand-orange)] hover:gap-3 transition-all"
               >
                 <span aria-hidden="true">←</span>
-                <span>Continue browsing the catalog</span>
+                <span>{ro ? "Continuă în catalog" : "Continue browsing the catalog"}</span>
               </Link>
               <a
                 href="/downloads/tgv-media-personalization-pricing.pdf"
                 download
                 className="inline-flex items-center gap-2 text-sm font-medium text-[var(--brand-orange)] hover:gap-3 transition-all"
               >
-                <span>Download full price list (PDF)</span>
+                <span>{ro ? "Descarcă lista completă de prețuri (PDF)" : "Download full price list (PDF)"}</span>
                 <span aria-hidden="true">↓</span>
               </a>
             </div>
@@ -174,7 +179,8 @@ export default function OfferPage() {
   )
 }
 
-function EmptyState() {
+function EmptyState({ locale }: Readonly<{ locale: "ro" | "en" }>) {
+  const ro = locale === "ro"
   return (
     <section className="mx-auto px-6 lg:px-8 pb-24 max-w-4xl">
       <div className="flex flex-col items-start gap-6 p-8 lg:p-12 bg-[var(--surface)] border border-[var(--border)] rounded-3xl">
@@ -189,11 +195,12 @@ function EmptyState() {
         />
         <div className="flex flex-col gap-2">
           <h2 className="text-2xl sm:text-3xl font-[family-name:var(--font-outfit)] font-semibold text-[var(--brand-black)]">
-            Your offer is empty.
+            {ro ? "Oferta ta este goală." : "Your offer is empty."}
           </h2>
           <p className="text-base text-[var(--text-soft)] leading-relaxed">
-            Browse the catalog and add products you'd like to personalize. We'll
-            come back with a quote based on your selection.
+            {ro
+              ? "Răsfoiește catalogul și adaugă produsele pe care vrei să le personalizezi. Revenim cu o ofertă bazată pe selecția ta."
+              : "Browse the catalog and add products you'd like to personalize. We'll come back with a quote based on your selection."}
           </p>
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 w-full">
@@ -216,7 +223,7 @@ function EmptyState() {
           href="/catalog"
           className="inline-flex items-center justify-center gap-2 px-6 py-3 text-sm font-semibold text-white bg-[var(--brand-orange)] rounded-full hover:scale-[1.02] transition-transform"
         >
-          <span>Browse catalog</span>
+          <span>{ro ? "Vezi catalogul" : "Browse catalog"}</span>
           <span aria-hidden="true">→</span>
         </Link>
       </div>
@@ -227,16 +234,19 @@ function EmptyState() {
 function QtyControl({
   value,
   onChange,
+  locale,
 }: {
   value: number
   onChange: (n: number) => void
+  locale: "ro" | "en"
 }) {
+  const ro = locale === "ro"
   return (
     <div className="inline-flex items-center bg-[var(--surface-soft)] border border-[var(--border-soft)] rounded-full">
       <button
         type="button"
         onClick={() => onChange(value - 1)}
-        aria-label="Decrease quantity"
+        aria-label={ro ? "Scade cantitatea" : "Decrease quantity"}
         className="inline-flex items-center justify-center w-9 h-9 text-[var(--text-soft)] hover:text-[var(--brand-orange)] transition-colors"
       >
         <svg
@@ -259,13 +269,13 @@ function QtyControl({
         max={10000}
         value={value}
         onChange={(e) => onChange(Number(e.target.value))}
-        aria-label="Quantity"
+        aria-label={ro ? "Cantitate" : "Quantity"}
         className="w-16 text-center text-sm font-semibold text-[var(--brand-black)] bg-transparent border-none outline-none focus:ring-2 focus:ring-[var(--brand-orange)] rounded-full"
       />
       <button
         type="button"
         onClick={() => onChange(value + 1)}
-        aria-label="Increase quantity"
+        aria-label={ro ? "Crește cantitatea" : "Increase quantity"}
         className="inline-flex items-center justify-center w-9 h-9 text-[var(--text-soft)] hover:text-[var(--brand-orange)] transition-colors"
       >
         <svg

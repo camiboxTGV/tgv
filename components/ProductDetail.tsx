@@ -11,6 +11,7 @@ import {
   type ProductVariant,
 } from "@/lib/content/catalog"
 import type { CategoryNode } from "@/lib/content/categories"
+import { useLanguage } from "@/components/LanguageProvider"
 
 interface Props {
   product: CatalogProduct
@@ -71,6 +72,8 @@ export default function ProductDetail({
   variants,
   leafCategory,
 }: Readonly<Props>) {
+  const { locale } = useLanguage()
+  const ro = locale === "ro"
   const defaultVariant = useMemo(() => pickDefaultVariant(variants), [variants])
   const [selectedVariant, setSelectedVariant] = useState<ProductVariant | null>(
     defaultVariant,
@@ -162,12 +165,12 @@ export default function ProductDetail({
             <div className="flex flex-col gap-2">
               <div className="flex items-baseline gap-2 flex-wrap">
                 {priceFrom ? (
-                  <span className="text-sm text-[var(--text-soft)]">from</span>
+                  <span className="text-sm text-[var(--text-soft)]">{ro ? "de la" : "from"}</span>
                 ) : null}
                 <span className="text-3xl font-[family-name:var(--font-outfit)] font-bold text-[var(--brand-black)]">
                   {formatPrice(displayPrice)}
                 </span>
-                <span className="text-sm text-[var(--text-soft)]">ex. VAT</span>
+                <span className="text-sm text-[var(--text-soft)]">{ro ? "fără TVA" : "ex. VAT"}</span>
                 <StockBadge
                   level={displayStockLevel}
                   count={selectedVariant?.stock}
@@ -177,16 +180,16 @@ export default function ProductDetail({
               </div>
               {asOf ? (
                 <p className="text-xs text-[var(--text-muted)]">
-                  Price as of {asOf}. Indicative — final quote on request.
+                  {ro ? `Preț actualizat la ${asOf}. Orientativ — oferta finală se confirmă la cerere.` : `Price as of ${asOf}. Indicative — final quote on request.`}
                 </p>
               ) : null}
             </div>
 
             {(weight || product.capacity || product.personalizations.length > 0) && (
               <div className="flex flex-wrap gap-2 border-y border-[var(--border-soft)] py-4">
-                {weight ? <MetaChip label="Weight" value={weight} /> : null}
+                {weight ? <MetaChip label={ro ? "Greutate" : "Weight"} value={weight} /> : null}
                 {product.capacity ? (
-                  <MetaChip label="Capacity" value={product.capacity} />
+                  <MetaChip label={ro ? "Capacitate" : "Capacity"} value={product.capacity} />
                 ) : null}
                 {product.personalizations.map((p) => (
                   <span
@@ -197,7 +200,9 @@ export default function ProductDetail({
                       aria-hidden="true"
                       className="w-1.5 h-1.5 rounded-full bg-[var(--brand-orange)]"
                     />
-                    {PERSONALIZATION_LABELS[p].label}
+                    {ro
+                      ? ({ co2: "Laser CO2", "fiber-laser": "Laser cu fibră", "uv-print": "Print UV", "uv-transfer": "Transfer UV" } as const)[p]
+                      : PERSONALIZATION_LABELS[p].label}
                   </span>
                 ))}
               </div>
@@ -220,7 +225,7 @@ export default function ProductDetail({
             </div>
 
             {product.descriptionLong ? (
-              <Description text={product.descriptionLong} />
+              <Description text={product.descriptionLong} locale={locale} />
             ) : product.summary ? (
               <p className="text-sm leading-relaxed text-[var(--text-soft)]">
                 {product.summary}
@@ -244,7 +249,7 @@ function MetaChip({ label, value }: Readonly<{ label: string; value: string }>) 
   )
 }
 
-function Description({ text }: Readonly<{ text: string }>) {
+function Description({ text, locale }: Readonly<{ text: string; locale: "ro" | "en" }>) {
   const long = text.length > 400
   if (!long) {
     return (
@@ -260,7 +265,7 @@ function Description({ text }: Readonly<{ text: string }>) {
           {text.slice(0, 380)}…
         </p>
         <span className="inline-flex items-center gap-1 mt-2 text-xs font-medium text-[var(--brand-orange)] group-open:hidden">
-          Show full description
+          {locale === "ro" ? "Arată descrierea completă" : "Show full description"}
           <span aria-hidden="true">↓</span>
         </span>
       </summary>
@@ -268,7 +273,7 @@ function Description({ text }: Readonly<{ text: string }>) {
         {text}
       </p>
       <span className="inline-flex items-center gap-1 mt-2 text-xs font-medium text-[var(--brand-orange)] cursor-pointer">
-        Show less <span aria-hidden="true">↑</span>
+        {locale === "ro" ? "Arată mai puțin" : "Show less"} <span aria-hidden="true">↑</span>
       </span>
     </details>
   )

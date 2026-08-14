@@ -10,6 +10,12 @@ import {
   type PortfolioCategory,
   type PortfolioItem,
 } from "@/lib/content/portfolio"
+import { useLanguage } from "@/components/LanguageProvider"
+import {
+  PORTFOLIO_DESCRIPTIONS_RO,
+  PORTFOLIO_LABELS_RO,
+  localizePortfolioItem,
+} from "@/lib/i18n/content"
 
 interface Props {
   items: PortfolioItem[]
@@ -18,6 +24,7 @@ interface Props {
 type Filter = "all" | PortfolioCategory
 
 export default function PortfolioGallery({ items }: Props) {
+  const { locale } = useLanguage()
   const [filter, setFilter] = useState<Filter>("all")
 
   const presentCategories = useMemo(() => {
@@ -37,7 +44,7 @@ export default function PortfolioGallery({ items }: Props) {
       <section className="mx-auto px-6 lg:px-8 pt-2 pb-6 max-w-6xl">
         <div className="flex items-center gap-2 overflow-x-auto -mx-6 px-6 lg:mx-0 lg:px-0">
           <FilterChip
-            label="All work"
+            label={locale === "ro" ? "Toate proiectele" : "All work"}
             count={items.length}
             active={filter === "all"}
             onClick={() => setFilter("all")}
@@ -45,7 +52,7 @@ export default function PortfolioGallery({ items }: Props) {
           {presentCategories.map((c) => (
             <FilterChip
               key={c}
-              label={PORTFOLIO_CATEGORY_LABELS[c]}
+              label={locale === "ro" ? PORTFOLIO_LABELS_RO[c] : PORTFOLIO_CATEGORY_LABELS[c]}
               count={items.filter((i) => i.category === c).length}
               active={filter === c}
               onClick={() => setFilter(c)}
@@ -58,29 +65,29 @@ export default function PortfolioGallery({ items }: Props) {
         {filter !== "all" ? (
           <div className="mb-8 max-w-3xl rounded-2xl border border-[var(--border)] bg-[var(--surface)] p-5 sm:p-6">
             <p className="text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange)]">
-              {PORTFOLIO_CATEGORY_LABELS[filter]}
+              {locale === "ro" ? PORTFOLIO_LABELS_RO[filter] : PORTFOLIO_CATEGORY_LABELS[filter]}
             </p>
             <p className="mt-2 text-sm leading-relaxed text-[var(--text-soft)] sm:text-base">
-              {PORTFOLIO_CATEGORY_DESCRIPTIONS[filter]}
+              {locale === "ro" ? PORTFOLIO_DESCRIPTIONS_RO[filter] : PORTFOLIO_CATEGORY_DESCRIPTIONS[filter]}
             </p>
           </div>
         ) : null}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {visible.map((item, index) => (
-            <PortfolioCard key={item.slug} item={item} priority={index < 3} />
+            <PortfolioCard key={item.slug} item={item} priority={index < 3} locale={locale} />
           ))}
         </div>
         {visible.length === 0 && (
           <div className="flex flex-col items-start gap-3 p-8 bg-[var(--surface)] border border-[var(--border)] rounded-2xl">
             <p className="text-sm text-[var(--text-muted)]">
-              No projects in this category yet.
+              {locale === "ro" ? "Nu există încă proiecte în această categorie." : "No projects in this category yet."}
             </p>
             <button
               type="button"
               onClick={() => setFilter("all")}
               className="inline-flex items-center gap-2 text-sm font-medium text-[var(--brand-orange)] hover:gap-3 transition-all"
             >
-              <span>Show all work</span>
+              <span>{locale === "ro" ? "Arată toate proiectele" : "Show all work"}</span>
               <span aria-hidden="true">→</span>
             </button>
           </div>
@@ -91,17 +98,18 @@ export default function PortfolioGallery({ items }: Props) {
         <div className="flex flex-col items-start mx-auto px-6 lg:px-8 py-16 lg:py-20 max-w-6xl">
           <span className="block w-16 h-1 bg-[var(--brand-orange)]" />
           <h2 className="mt-6 max-w-3xl text-3xl sm:text-4xl font-[family-name:var(--font-outfit)] font-semibold text-white">
-            See something close to your project?
+            {locale === "ro" ? "Ai văzut ceva apropiat de proiectul tău?" : "See something close to your project?"}
           </h2>
           <p className="mt-4 max-w-2xl text-base lg:text-lg text-white/70 leading-relaxed">
-            Send us the brief and reference. We'll come back with a quote, a
-            sample plan and a production timeline within one business day.
+            {locale === "ro"
+              ? "Trimite-ne brieful și referința. Revenim în cel mult o zi lucrătoare cu o ofertă, un plan de mostre și un calendar de producție."
+              : "Send us the brief and reference. We'll come back with a quote, a sample plan and a production timeline within one business day."}
           </p>
           <Link
             href="/contact"
             className="inline-flex items-center justify-center mt-8 px-6 py-3 text-sm font-semibold text-white bg-[var(--primary)] hover:bg-[var(--primary-hover)] rounded-full transition-colors"
           >
-            Start a project
+            {locale === "ro" ? "Începe un proiect" : "Start a project"}
           </Link>
         </div>
       </section>
@@ -146,13 +154,15 @@ function FilterChip({
 function PortfolioCard({
   item,
   priority,
-}: Readonly<{ item: PortfolioItem; priority: boolean }>) {
+  locale,
+}: Readonly<{ item: PortfolioItem; priority: boolean; locale: "ro" | "en" }>) {
+  const localized = localizePortfolioItem(item, locale)
   return (
     <article className="group flex flex-col gap-3">
       <div className="relative overflow-hidden aspect-[4/5] rounded-2xl border border-[var(--border)] bg-[var(--surface-elevated)]">
         <Image
           src={item.image}
-          alt={item.imageAlt}
+          alt={localized.imageAlt}
           fill
           priority={priority}
           sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
@@ -160,14 +170,14 @@ function PortfolioCard({
         />
         <div className="absolute inset-0 bg-gradient-to-t from-black/40 via-transparent to-transparent" />
         <span className="absolute bottom-3 left-3 px-2.5 py-1 text-xs font-medium uppercase tracking-wider text-white bg-[var(--brand-black)] rounded-full">
-          {PORTFOLIO_CATEGORY_LABELS[item.category]}
+          {locale === "ro" ? PORTFOLIO_LABELS_RO[item.category] : PORTFOLIO_CATEGORY_LABELS[item.category]}
         </span>
       </div>
       <h3 className="text-lg font-[family-name:var(--font-outfit)] font-semibold text-[var(--brand-black)]">
-        {item.title}
+        {localized.title}
       </h3>
       <p className="text-sm leading-relaxed text-[var(--text-muted)]">
-        {item.summary}
+        {localized.summary}
       </p>
     </article>
   )

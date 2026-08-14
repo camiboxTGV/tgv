@@ -3,11 +3,13 @@
 import Link from "next/link"
 import { usePathname } from "next/navigation"
 import { useOffer } from "@/components/OfferProvider"
+import { useLanguage } from "@/components/LanguageProvider"
 
 const HIDDEN_ROUTES = ["/contact", "/offer", "/pricing"]
 
 export default function OfferDock() {
   const { count, hydrated } = useOffer()
+  const { locale } = useLanguage()
   const pathname = usePathname()
 
   if (!hydrated) return null
@@ -19,7 +21,7 @@ export default function OfferDock() {
         href="/catalog"
         className="hidden sm:inline-flex fixed right-6 bottom-6 z-40 items-center gap-2 px-4 py-2.5 text-sm font-medium text-[var(--text-soft)] bg-[var(--surface)]/90 backdrop-blur border border-[var(--border)] rounded-full shadow-lg hover:text-[var(--brand-black)] hover:border-[var(--border-strong)] transition-colors"
       >
-        <span>Browse catalog</span>
+        <span>{locale === "ro" ? "Vezi catalogul" : "Browse catalog"}</span>
         <span aria-hidden="true">→</span>
       </Link>
     )
@@ -33,7 +35,7 @@ export default function OfferDock() {
       <span className="inline-flex items-center justify-center w-6 h-6 text-xs text-[var(--brand-orange)] bg-white rounded-full">
         {count}
       </span>
-      <span>Build my offer</span>
+      <span>{locale === "ro" ? "Construiește oferta" : "Build my offer"}</span>
       <span aria-hidden="true">→</span>
     </Link>
   )

@@ -7,6 +7,7 @@ import {
   getTopCategories,
 } from "@/lib/content/catalog"
 import { countProductsUnder } from "@/lib/content/catalog.server"
+import LocalizedText from "@/components/LocalizedText"
 
 export const metadata: Metadata = {
   title: "Catalog — TGV-Media",
@@ -28,16 +29,17 @@ export default function CatalogPage() {
     <>
       <section className="mx-auto px-6 lg:px-8 pt-20 pb-12 lg:pt-28 lg:pb-16 max-w-6xl">
         <p className="text-sm font-semibold uppercase tracking-widest text-[var(--text-muted)]">
-          Catalog
+          <LocalizedText en="Catalog" ro="Catalog" />
         </p>
         <h1 className="mt-4 max-w-3xl text-4xl sm:text-5xl lg:text-6xl font-[family-name:var(--font-outfit)] font-bold leading-tight tracking-tight text-[var(--brand-black)]">
-          Browse personalizable{" "}
-          <span className="text-[var(--brand-orange)]">products</span>.
+          <LocalizedText en="Browse personalizable " ro="Descoperă produse " />
+          <span className="text-[var(--brand-orange)]"><LocalizedText en="products" ro="personalizabile" /></span>.
         </h1>
         <p className="mt-6 max-w-2xl text-lg text-[var(--text-soft)] leading-relaxed">
-          Prices shown are indicative and exclude VAT. Add products to your
-          offer and we'll come back with a final quote, sample plan and
-          timeline.
+          <LocalizedText
+            en="Prices shown are indicative and exclude VAT. Add products to your offer and we'll come back with a final quote, sample plan and timeline."
+            ro="Prețurile afișate sunt orientative și nu includ TVA. Adaugă produsele în ofertă, iar noi revenim cu prețul final, planul de mostre și calendarul."
+          />
         </p>
       </section>
 
@@ -58,27 +60,27 @@ export default function CatalogPage() {
       <section className="bg-[var(--surface)] border-y border-[var(--border-soft)]">
         <div className="mx-auto px-6 lg:px-8 py-16 lg:py-20 max-w-6xl">
           <p className="text-sm font-semibold uppercase tracking-widest text-[var(--text-muted)]">
-            How it works
+            <LocalizedText en="How it works" ro="Cum funcționează" />
           </p>
           <h2 className="mt-3 text-2xl sm:text-3xl lg:text-4xl font-[family-name:var(--font-outfit)] font-semibold text-[var(--brand-black)]">
-            From browsing to brief in three steps.
+            <LocalizedText en="From browsing to brief in three steps." ro="De la catalog la brief în trei pași." />
           </h2>
           <ol className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-10">
             {[
               {
                 n: "01",
-                t: "Browse",
-                b: "Filter by category and decoration technique. Add anything that fits your campaign.",
+                t: <LocalizedText en="Browse" ro="Explorează" />,
+                b: <LocalizedText en="Filter by category and decoration technique. Add anything that fits your campaign." ro="Filtrează după categorie și tehnica de personalizare. Adaugă produsele potrivite campaniei." />,
               },
               {
                 n: "02",
-                t: "Build your offer",
-                b: "Set quantities, remove what doesn't fit, share notes about the project.",
+                t: <LocalizedText en="Build your offer" ro="Construiește oferta" />,
+                b: <LocalizedText en="Set quantities, remove what doesn't fit, share notes about the project." ro="Setează cantitățile, elimină ce nu se potrivește și adaugă detalii despre proiect." />,
               },
               {
                 n: "03",
-                t: "Send the brief",
-                b: "We come back with a quote, sample plan and a production timeline within 1 business day.",
+                t: <LocalizedText en="Send the brief" ro="Trimite brieful" />,
+                b: <LocalizedText en="We come back with a quote, sample plan and a production timeline within 1 business day." ro="Revenim în cel mult o zi lucrătoare cu oferta, planul de mostre și calendarul de producție." />,
               },
             ].map((step) => (
               <li
@@ -102,10 +104,10 @@ export default function CatalogPage() {
 
       <section className="mx-auto px-6 lg:px-8 py-16 lg:py-24 max-w-6xl">
         <p className="text-sm font-semibold uppercase tracking-widest text-[var(--text-muted)]">
-          Decoration techniques
+          <LocalizedText en="Decoration techniques" ro="Tehnici de personalizare" />
         </p>
         <h2 className="mt-3 text-2xl sm:text-3xl font-[family-name:var(--font-outfit)] font-semibold text-[var(--brand-black)]">
-          Each product shows the techniques that suit it.
+          <LocalizedText en="Each product shows the techniques that suit it." ro="Fiecare produs afișează tehnicile care i se potrivesc." />
         </h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 mt-8">
           {PERSONALIZATIONS.map((p) => (
@@ -127,7 +129,7 @@ export default function CatalogPage() {
             href="/services/custom-production-integrated-branding"
             className="inline-flex items-center gap-2 text-sm font-medium text-[var(--brand-orange)] hover:gap-3 transition-all"
           >
-            <span>Learn more about custom production and integrated branding</span>
+            <span><LocalizedText en="Learn more about custom production and integrated branding" ro="Află mai multe despre producția custom și brandingul integrat" /></span>
             <span aria-hidden="true">→</span>
           </Link>
         </div>
