@@ -1,9 +1,12 @@
 "use client"
 
 import { useMemo, useState } from "react"
+import Image from "next/image"
 import Link from "next/link"
 import {
+  PORTFOLIO_CATEGORY_DESCRIPTIONS,
   PORTFOLIO_CATEGORY_LABELS,
+  PORTFOLIO_CATEGORY_ORDER,
   type PortfolioCategory,
   type PortfolioItem,
 } from "@/lib/content/portfolio"
@@ -20,7 +23,7 @@ export default function PortfolioGallery({ items }: Props) {
   const presentCategories = useMemo(() => {
     const set = new Set<PortfolioCategory>()
     for (const i of items) set.add(i.category)
-    return Array.from(set)
+    return PORTFOLIO_CATEGORY_ORDER.filter((category) => set.has(category))
   }, [items])
 
   const visible = useMemo(
@@ -52,9 +55,19 @@ export default function PortfolioGallery({ items }: Props) {
       </section>
 
       <section className="mx-auto px-6 lg:px-8 pb-16 lg:pb-24 max-w-6xl">
+        {filter !== "all" ? (
+          <div className="mb-8 max-w-3xl rounded-2xl border border-[var(--border)] bg-[var(--surface)] p-5 sm:p-6">
+            <p className="text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange)]">
+              {PORTFOLIO_CATEGORY_LABELS[filter]}
+            </p>
+            <p className="mt-2 text-sm leading-relaxed text-[var(--text-soft)] sm:text-base">
+              {PORTFOLIO_CATEGORY_DESCRIPTIONS[filter]}
+            </p>
+          </div>
+        ) : null}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {visible.map((item) => (
-            <PortfolioCard key={item.slug} item={item} />
+          {visible.map((item, index) => (
+            <PortfolioCard key={item.slug} item={item} priority={index < 3} />
           ))}
         </div>
         {visible.length === 0 && (
@@ -121,7 +134,7 @@ function FilterChip({
       <span>{label}</span>
       <span
         className={`text-xs ${
-          active ? "text-white/80" : "text-[var(--text-muted)]"
+          active ? "text-white" : "text-[var(--text-muted)]"
         }`}
       >
         {count}
@@ -130,17 +143,23 @@ function FilterChip({
   )
 }
 
-function PortfolioCard({ item }: { item: PortfolioItem }) {
+function PortfolioCard({
+  item,
+  priority,
+}: Readonly<{ item: PortfolioItem; priority: boolean }>) {
   return (
     <article className="group flex flex-col gap-3">
-      <div className="relative overflow-hidden aspect-video rounded-2xl border border-[var(--border)]">
-        {/* Inline style: data-driven gradient placeholder from PortfolioItem.accent */}
-        <div
-          aria-hidden="true"
-          className="absolute inset-0 transition-transform duration-500 group-hover:scale-[1.04]"
-          style={{ background: item.accent }}
+      <div className="relative overflow-hidden aspect-[4/5] rounded-2xl border border-[var(--border)] bg-[var(--surface-elevated)]">
+        <Image
+          src={item.image}
+          alt={item.imageAlt}
+          fill
+          priority={priority}
+          sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
+          className="object-cover transition-transform duration-500 group-hover:scale-[1.04]"
         />
-        <span className="absolute bottom-3 left-3 px-2.5 py-1 text-xs font-medium uppercase tracking-wider text-white bg-black/35 backdrop-blur-sm rounded-full">
+        <div className="absolute inset-0 bg-gradient-to-t from-black/40 via-transparent to-transparent" />
+        <span className="absolute bottom-3 left-3 px-2.5 py-1 text-xs font-medium uppercase tracking-wider text-white bg-[var(--brand-black)] rounded-full">
           {PORTFOLIO_CATEGORY_LABELS[item.category]}
         </span>
       </div>

@@ -74,6 +74,7 @@ export default function AddToOfferButton({
           colorName: variant?.color?.name,
           sizeLabel: variant?.size,
           priceSnapshot: variant?.price ?? product.price,
+          personalizations: product.personalizations,
         })
       }
       className={`inline-flex items-center justify-center px-4 w-full font-semibold text-white bg-[var(--brand-black)] hover:bg-[var(--brand-orange)] rounded-full transition-colors ${sizeClass}`}

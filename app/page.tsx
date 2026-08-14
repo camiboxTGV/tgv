@@ -1,13 +1,20 @@
 import Link from "next/link"
+import Image from "next/image"
 import ServiceCard from "@/components/ServiceCard"
+import HomeProjectCarousel from "@/components/HomeProjectCarousel"
 import { services } from "@/lib/content/services"
 import { techniques } from "@/lib/content/techniques"
-import { featuredPortfolio } from "@/lib/content/portfolio"
+import {
+  PORTFOLIO_CATEGORY_LABELS,
+  featuredPortfolio,
+  portfolio,
+} from "@/lib/content/portfolio"
 
 export default function HomePage() {
   return (
     <>
       <Hero />
+      <HomeProjectCarousel items={portfolio} />
       <TrustBand />
       <ServicesPreview />
       <TechniquesStrip />
@@ -87,7 +94,7 @@ function TrustBand() {
     {
       title: "Nine in-house techniques",
       body:
-        "Screen, DTF, embroidery, UV, pad, laser, sublimation, large-format and offset — under one roof.",
+        "CO2 and fiber laser, direct UV print, debossing and foil, 3D print, CNC cutting, production print, bookbinding, and mixed manual know-how.",
       icon: (
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -111,9 +118,9 @@ function TrustBand() {
       ),
     },
     {
-      title: "Coordinated multi-format",
+      title: "Coordinated multi-format production",
       body:
-        "Apparel, print, signage and promo produced together so brand output stays consistent across every touchpoint.",
+        "Print, signage, engraving, and premium promo items produced under one roof, ensuring flawless brand consistency across every form of presentation.",
       icon: (
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -195,8 +202,8 @@ function ServicesPreview() {
           Four services, one production house.
         </h2>
         <p className="text-base lg:text-lg text-[var(--text-soft)] leading-relaxed">
-          Personalization, finishing, custom production and digital print —
-          coordinated across formats and quantities.
+          Consultancy, design, custom fabrication, and premium print —
+          coordinated under one roof to bring any custom project to life.
         </p>
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-10">
@@ -226,10 +233,11 @@ function TechniquesStrip() {
             How we decorate
           </p>
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-[family-name:var(--font-outfit)] font-semibold text-[var(--brand-black)]">
-            Nine decoration techniques.
+            Nine production techniques.
           </h2>
           <p className="text-base lg:text-lg text-[var(--text-soft)] leading-relaxed">
-            The right method for every substrate, surface and quantity.
+            The right mix of digital technology, precision tools, and manual
+            finishing for every substrate and production challenge.
           </p>
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mt-10">
@@ -269,10 +277,10 @@ function FeaturedWork() {
           Recent work
         </p>
         <h2 className="text-3xl sm:text-4xl lg:text-5xl font-[family-name:var(--font-outfit)] font-semibold text-[var(--brand-black)]">
-          Selected projects across signage, apparel and packaging.
+          Selected projects across custom fabrication, premium print, and branding.
         </h2>
         <p className="text-base lg:text-lg text-[var(--text-soft)] leading-relaxed">
-          A small slice of work coming out of the production floor.
+          A small slice of custom work coming out of our production floor.
         </p>
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-10">
@@ -281,14 +289,17 @@ function FeaturedWork() {
             key={item.slug}
             className="group flex flex-col gap-3"
           >
-            <div className="relative overflow-hidden aspect-video rounded-2xl border border-[var(--border)]">
-              {/* Inline style: portfolio accent is a runtime gradient string from the content module — Tailwind arbitrary values can't accept dynamic values. */}
-              <div
-                className="absolute inset-0 transition-transform duration-500 group-hover:scale-[1.03]"
-                style={{ background: item.accent }}
+            <div className="relative overflow-hidden aspect-video rounded-2xl border border-[var(--border)] bg-[var(--surface-elevated)]">
+              <Image
+                src={item.image}
+                alt={item.imageAlt}
+                fill
+                sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                className="object-cover transition-transform duration-500 group-hover:scale-[1.03]"
               />
-              <span className="absolute bottom-3 left-3 px-2.5 py-1 text-xs font-medium uppercase tracking-wider text-white bg-black/35 backdrop-blur-sm rounded-full">
-                {item.category}
+              <div className="absolute inset-0 bg-gradient-to-t from-black/35 via-transparent to-transparent" />
+              <span className="absolute bottom-3 left-3 px-2.5 py-1 text-xs font-medium uppercase tracking-wider text-white bg-[var(--brand-black)] rounded-full">
+                {PORTFOLIO_CATEGORY_LABELS[item.category]}
               </span>
             </div>
             <h3 className="text-lg font-[family-name:var(--font-outfit)] font-semibold text-[var(--brand-black)]">

@@ -38,7 +38,7 @@ export default function SitemapPage() {
       intro: "Everything we produce, organized by capability.",
       links: [
         { href: "/services", label: "Services overview", description: "All four services on one page." },
-        { href: "/techniques", label: "Decoration techniques", description: "Nine in-house techniques and where each one fits." },
+        { href: "/techniques", label: "Production techniques", description: "Nine in-house techniques and where each one fits." },
         ...services.map((s) => ({
           href: `/services/${s.slug}`,
           label: s.title,
@@ -63,6 +63,7 @@ export default function SitemapPage() {
       intro: "Move from browsing to a personalized offer.",
       links: [
         { href: "/offer", label: "My offer", description: "Review selected products and continue to the brief." },
+        { href: "/pricing", label: "Price calculator", description: "Estimate eligible personalisation methods before requesting the final quote." },
       ],
     },
     {

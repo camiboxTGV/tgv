@@ -4,7 +4,7 @@ import Link from "next/link"
 import { usePathname } from "next/navigation"
 import { useOffer } from "@/components/OfferProvider"
 
-const HIDDEN_ROUTES = ["/contact", "/offer"]
+const HIDDEN_ROUTES = ["/contact", "/offer", "/pricing"]
 
 export default function OfferDock() {
   const { count, hydrated } = useOffer()

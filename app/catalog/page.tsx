@@ -124,10 +124,10 @@ export default function CatalogPage() {
         </div>
         <div className="mt-10">
           <Link
-            href="/services/personalizare-obiecte-promotionale"
+            href="/services/custom-production-integrated-branding"
             className="inline-flex items-center gap-2 text-sm font-medium text-[var(--brand-orange)] hover:gap-3 transition-all"
           >
-            <span>Learn more about promotional object personalization</span>
+            <span>Learn more about custom production and integrated branding</span>
             <span aria-hidden="true">→</span>
           </Link>
         </div>

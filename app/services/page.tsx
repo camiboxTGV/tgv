@@ -6,7 +6,7 @@ import { services } from "@/lib/content/services"
 export const metadata: Metadata = {
   title: "Services — TGV-Media",
   description:
-    "Promotional object personalization, embossing & foil finishing, custom production and digital print — four services under one roof.",
+    "Technical consultancy, graphic design and prepress, custom production, and fine printing and bookbinding under one roof.",
 }
 
 export default function ServicesPage() {
@@ -21,9 +21,9 @@ export default function ServicesPage() {
           production house.
         </h1>
         <p className="mt-6 max-w-2xl text-lg text-[var(--text-soft)] leading-relaxed">
-          From laser-engraved promotional objects to short-run digital print, we
-          handle decoration, finishing and custom fabrication in one workflow —
-          so you brief once and ship coordinated output.
+          Consultancy, design, custom fabrication, and premium print are
+          coordinated under one roof to take ambitious ideas from first sketch
+          to finished physical product.
         </p>
       </section>
 

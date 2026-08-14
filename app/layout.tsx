@@ -17,7 +17,7 @@ const outfit = Outfit({
 export const metadata: Metadata = {
   title: "TGV-Media — Custom production. Nine techniques. One workflow.",
   description:
-    "Full-service customization and promotional production. Nine in-house decoration techniques across apparel, print, signage, and promo products — from single-piece samples to 10,000+ unit runs.",
+    "Technical consultancy, custom fabrication, premium print, and integrated branding powered by nine in-house production techniques.",
 }
 
 export default function RootLayout({
