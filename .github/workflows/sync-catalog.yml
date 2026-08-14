@@ -76,6 +76,11 @@ jobs:
           fi
           npm run sync:catalog -- "${args[@]}"
 
+      - name: Verify catalog app
+        run: |
+          npm test
+          npm run build
+
       - name: Detect changes
         id: diff
         run: |
