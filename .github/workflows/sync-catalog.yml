@@ -9,10 +9,6 @@ on:
         description: "Bypass the 50% deletion guard"
         type: boolean
         default: false
-      skip_images:
-        description: "Skip image downloads (fast path)"
-        type: boolean
-        default: true
 
 permissions:
   contents: write
@@ -40,8 +36,8 @@ jobs:
           MACMA_API_BASE: ${{ secrets.MACMA_API_BASE }}
         run: |
           npm run sync:catalog -- \
-            ${{ inputs.force && '--force' || '' }} \
-            ${{ inputs.skip_images && '--skip-images' || '' }}
+            --skip-images \
+            ${{ inputs.force && '--force' || '' }}
 
       - name: Detect changes
         id: diff

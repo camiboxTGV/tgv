@@ -123,30 +123,24 @@ export default function Footer() {
             Get in touch
           </h3>
           <ul className="flex flex-col gap-2 mt-4 text-sm text-[var(--text-muted)]">
-            <li>Address: TBD</li>
-            <li>Email: TBD</li>
-            <li>Phone: TBD</li>
-          </ul>
-          <div className="flex items-center gap-3 mt-5">
-            {socials.map((social) => (
+            <li>Strada Dimitrie Racoviță 3, București</li>
+            <li>
               <a
-                key={social.label}
-                href={social.href}
-                aria-label={social.label}
-                className="inline-flex items-center justify-center w-9 h-9 text-[var(--text-soft)] hover:text-[var(--brand-orange)] bg-[var(--surface)] border border-[var(--border)] rounded-full transition-colors"
+                href="mailto:office@tgv-media.ro"
+                className="hover:text-[var(--brand-black)] transition-colors"
               >
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  width="16"
-                  height="16"
-                  viewBox="0 0 24 24"
-                  fill="currentColor"
-                >
-                  <path d={social.path} />
-                </svg>
+                office@tgv-media.ro
               </a>
-            ))}
-          </div>
+            </li>
+            <li>
+              <a
+                href="tel:+40723267197"
+                className="hover:text-[var(--brand-black)] transition-colors"
+              >
+                +40 723 267 197
+              </a>
+            </li>
+          </ul>
         </div>
       </div>
 
@@ -159,18 +153,6 @@ export default function Footer() {
               className="hover:text-[var(--brand-black)] transition-colors"
             >
               Sitemap
-            </Link>
-            <Link
-              href="/privacy"
-              className="hover:text-[var(--brand-black)] transition-colors"
-            >
-              Privacy
-            </Link>
-            <Link
-              href="/terms"
-              className="hover:text-[var(--brand-black)] transition-colors"
-            >
-              Terms
             </Link>
           </div>
         </div>

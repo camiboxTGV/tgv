@@ -43,12 +43,13 @@ export default function CatalogPage() {
 
       <section className="mx-auto px-6 lg:px-8 pb-12 max-w-6xl">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {topCategories.map((category) => (
+          {topCategories.map((category, index) => (
             <CategoryCard
               key={category.slug}
               category={category}
               href={`/catalog/${category.slug}`}
               productCount={countProductsUnder(category)}
+              priority={index < 3}
             />
           ))}
         </div>

@@ -14,12 +14,12 @@
     "priceFrom": false,
     "stockLevel": "in-stock",
     "images": [
-      "/catalog/macma/88805/00.webp",
-      "/catalog/macma/88805/01.webp",
-      "/catalog/macma/88805/02.webp",
-      "/catalog/macma/88805/03.webp",
-      "/catalog/macma/88805/04.webp",
-      "/catalog/macma/88805/05.webp"
+      "https://macma.ro/products/jpg/M/other/8880506_1.jpg",
+      "https://macma.ro/products/jpg/M/other/8880506_2.jpg",
+      "https://macma.ro/products/jpg/M/other/8880506_3.jpg",
+      "https://macma.ro/products/jpg/M/other/8880504_1.jpg",
+      "https://macma.ro/products/jpg/M/other/8880504_2.jpg",
+      "https://macma.ro/products/jpg/M/other/8880504_3.jpg"
     ],
     "fetchedAt": "2026-08-14T04:51:55.703Z",
     "variantCount": 2,
@@ -56,9 +56,9 @@
     "priceFrom": false,
     "stockLevel": "in-stock",
     "images": [
-      "/catalog/macma/98794/00.webp",
-      "/catalog/macma/98794/01.webp",
-      "/catalog/macma/98794/02.webp"
+      "https://macma.ro/products/jpg/M/9879413_0.jpg",
+      "https://macma.ro/products/jpg/M/9879413_1.jpg",
+      "https://macma.ro/products/jpg/M/9879413_2.jpg"
     ],
     "fetchedAt": "2026-08-14T04:51:55.703Z",
     "variantCount": 1,
@@ -91,8 +91,8 @@
     "priceFrom": false,
     "stockLevel": "in-stock",
     "images": [
-      "/catalog/macma/DEVACAB/00.webp",
-      "/catalog/macma/DEVACAB/01.webp"
+      "https://macma.ro/products/jpg/TEXTIL/VALENTO/cabernet-white_1.jpg",
+      "https://macma.ro/products/jpg/TEXTIL/VALENTO/cabernet-black_1.jpg"
     ],
     "fetchedAt": "2026-08-14T04:51:55.703Z",
     "variantCount": 2,
@@ -129,8 +129,8 @@
     "priceFrom": false,
     "stockLevel": "in-stock",
     "images": [
-      "/catalog/macma/DEVACOF/00.webp",
-      "/catalog/macma/DEVACOF/01.webp"
+      "https://macma.ro/products/jpg/TEXTIL/VALENTO/coffee-white_1.jpg",
+      "https://macma.ro/products/jpg/TEXTIL/VALENTO/coffee-black_1.jpg"
     ],
     "fetchedAt": "2026-08-14T04:51:55.703Z",
     "variantCount": 2,
@@ -164,7 +164,7 @@
     "priceFrom": false,
     "stockLevel": "in-stock",
     "images": [
-      "/catalog/macma/GRVABOW/00.webp"
+      "https://macma.ro/products/jpg/TEXTIL/VALENTO/bower-black_1.jpg"
     ],
     "fetchedAt": "2026-08-14T04:51:55.703Z",
     "variantCount": 1,
@@ -194,7 +194,7 @@
     "priceFrom": false,
     "stockLevel": "in-stock",
     "images": [
-      "/catalog/macma/GRVASPI/00.webp"
+      "https://macma.ro/products/jpg/TEXTIL/VALENTO/spinner-black_1.jpg"
     ],
     "fetchedAt": "2026-08-14T04:51:55.703Z",
     "variantCount": 1,

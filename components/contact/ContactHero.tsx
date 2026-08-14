@@ -31,9 +31,9 @@ export default function ContactHero() {
         <p className="mt-6 text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange)]">
           Brief
         </p>
-        <h2 className="mt-3 text-3xl sm:text-4xl lg:text-5xl font-[family-name:var(--font-outfit)] font-semibold leading-tight">
+        <h1 className="mt-3 text-3xl sm:text-4xl lg:text-5xl font-[family-name:var(--font-outfit)] font-semibold leading-tight">
           Let's build the next campaign together.
-        </h2>
+        </h1>
         <p className="mt-5 max-w-md text-sm lg:text-base text-white/70 leading-relaxed">
           Tell us about your project. Send us your artwork, the event context
           and any reference images — we'll come back with a plan.

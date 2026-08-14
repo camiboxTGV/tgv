@@ -6,9 +6,15 @@ interface Props {
   category: CategoryNode
   productCount: number
   href?: string
+  priority?: boolean
 }
 
-export default function CategoryCard({ category, productCount, href }: Readonly<Props>) {
+export default function CategoryCard({
+  category,
+  productCount,
+  href,
+  priority = false,
+}: Readonly<Props>) {
   const target = href ?? `/catalog/${category.slug}`
   return (
     <Link
@@ -21,6 +27,7 @@ export default function CategoryCard({ category, productCount, href }: Readonly<
             src={category.image}
             alt={category.name}
             fill
+            loading={priority ? "eager" : "lazy"}
             sizes="(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw"
             className="object-cover transition-transform duration-500 group-hover:scale-[1.04]"
           />
