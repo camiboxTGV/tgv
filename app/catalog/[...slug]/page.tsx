@@ -252,7 +252,7 @@ function CategoryView({ segments }: Readonly<{ segments: string[] }>) {
             </p>
           </div>
           <Link
-            href="/services/productie-custom"
+            href="/services/custom-production-integrated-branding"
             className="inline-flex items-center gap-2 px-5 py-2.5 text-sm font-semibold text-[var(--brand-black)] bg-transparent border border-[var(--border-strong)] hover:bg-[var(--surface-soft)] rounded-full transition-colors"
           >
             <span>Custom production</span>

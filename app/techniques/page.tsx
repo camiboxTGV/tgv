@@ -3,9 +3,9 @@ import Link from "next/link"
 import { techniques } from "@/lib/content/techniques"
 
 export const metadata: Metadata = {
-  title: "Decoration Techniques — TGV-Media",
+  title: "Production Techniques — TGV-Media",
   description:
-    "Nine in-house decoration techniques for textiles, promotional objects, rigid surfaces, signage and print.",
+    "Nine in-house production techniques spanning laser work, direct UV print, 3D printing, digital cutting, premium print, and hand finishing.",
 }
 
 export default function TechniquesPage() {
@@ -13,15 +13,15 @@ export default function TechniquesPage() {
     <>
       <section className="mx-auto px-6 lg:px-8 pt-20 pb-12 lg:pt-28 lg:pb-16 max-w-6xl">
         <p className="text-sm font-semibold uppercase tracking-widest text-[var(--text-muted)]">
-          How we decorate
+          How we produce
         </p>
         <h1 className="mt-4 max-w-4xl text-4xl sm:text-5xl lg:text-6xl font-[family-name:var(--font-outfit)] font-bold leading-tight tracking-tight text-[var(--brand-black)]">
           Nine techniques. <span className="text-[var(--brand-orange)]">One</span>{" "}
           production workflow.
         </h1>
         <p className="mt-6 max-w-2xl text-lg text-[var(--text-soft)] leading-relaxed">
-          We match the method to the substrate, artwork, finish and quantity,
-          then proof and produce it under one roof.
+          We match digital technology, precision tools, and manual know-how to
+          the substrate, structure, artwork, finish, and quantity.
         </p>
       </section>
 
@@ -31,7 +31,7 @@ export default function TechniquesPage() {
             <article
               key={technique.slug}
               id={technique.slug}
-              className="flex flex-col gap-4 p-6 bg-[var(--surface)] border border-[var(--border)] rounded-2xl"
+              className="flex flex-col gap-5 p-6 bg-[var(--surface)] border border-[var(--border)] rounded-2xl"
             >
               <span className="text-xs font-semibold tracking-widest text-[var(--brand-orange)]">
                 {String(index + 1).padStart(2, "0")}
@@ -40,8 +40,18 @@ export default function TechniquesPage() {
                 <h2 className="text-xl font-[family-name:var(--font-outfit)] font-semibold text-[var(--brand-black)]">
                   {technique.title}
                 </h2>
-                <p className="mt-2 text-sm leading-relaxed text-[var(--text-muted)]">
+                <p className="mt-2 text-sm font-medium leading-relaxed text-[var(--brand-orange)]">
                   {technique.bestFor}
+                </p>
+              </div>
+              <div className="space-y-3 border-t border-[var(--border-soft)] pt-4">
+                <p className="text-sm leading-relaxed text-[var(--text-soft)]">
+                  <span className="font-semibold text-[var(--brand-black)]">What it is: </span>
+                  {technique.whatItIs}
+                </p>
+                <p className="text-sm leading-relaxed text-[var(--text-soft)]">
+                  <span className="font-semibold text-[var(--brand-black)]">Applications: </span>
+                  {technique.applications}
                 </p>
               </div>
             </article>

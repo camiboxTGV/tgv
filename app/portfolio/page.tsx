@@ -5,7 +5,7 @@ import { portfolio } from "@/lib/content/portfolio"
 export const metadata: Metadata = {
   title: "Portfolio — TGV-Media",
   description:
-    "Selected work across signage, apparel, packaging, awards and bespoke fabrication. Browse projects and start a brief of your own.",
+    "Selected custom work across branded environments, luxury packaging, premium print, corporate gifts, and prototyping.",
 }
 
 export default function PortfolioPage() {
@@ -20,8 +20,8 @@ export default function PortfolioPage() {
           <span className="text-[var(--brand-orange)]">production floor</span>.
         </h1>
         <p className="mt-6 max-w-2xl text-lg text-[var(--text-soft)] leading-relaxed">
-          Selected projects across signage, apparel, packaging, awards and
-          bespoke fabrication. Filter by what's relevant to your brief.
+          Selected projects across custom fabrication, premium print, and
+          branding. Filter by the production discipline closest to your brief.
         </p>
       </section>
 

@@ -1,3 +1,5 @@
+import type { Personalization } from "@/lib/content/catalog"
+
 export const OFFER_STORAGE_KEY = "tgv:offer:v2"
 export const OFFER_STORAGE_KEY_V1 = "tgv:offer:v1"
 
@@ -10,6 +12,7 @@ export interface OfferItem {
   colorName?: string
   sizeLabel?: string
   priceSnapshot?: number
+  personalizations?: Personalization[]
 }
 
 export function lineKey(item: Pick<OfferItem, "slug" | "variantKey">): string {
@@ -34,6 +37,17 @@ function isValidItem(value: unknown): value is OfferItem {
   if (v.variantKey !== undefined && typeof v.variantKey !== "string") return false
   if (v.colorName !== undefined && typeof v.colorName !== "string") return false
   if (v.sizeLabel !== undefined && typeof v.sizeLabel !== "string") return false
+  if (
+    v.personalizations !== undefined &&
+    (!Array.isArray(v.personalizations) ||
+      !v.personalizations.every((method) =>
+        ["co2", "fiber-laser", "uv-print", "uv-transfer"].includes(
+          String(method),
+        ),
+      ))
+  ) {
+    return false
+  }
   if (
     v.priceSnapshot !== undefined &&
     (typeof v.priceSnapshot !== "number" || !Number.isFinite(v.priceSnapshot))

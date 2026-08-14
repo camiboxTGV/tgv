@@ -3,6 +3,7 @@
 import Link from "next/link"
 import { useRouter } from "next/navigation"
 import { useOffer } from "@/components/OfferProvider"
+import DecorationEstimator from "@/components/pricing/DecorationEstimator"
 import { getCategoryBySlugPath, getTopCategories } from "@/lib/content/catalog"
 import { lineKey, serializeForUrl } from "@/lib/offer/storage"
 
@@ -26,8 +27,8 @@ export default function OfferPage() {
           Build the brief.
         </h1>
         <p className="mt-6 max-w-2xl text-lg text-[var(--text-soft)] leading-relaxed">
-          Adjust quantities, remove what no longer fits, then send the brief.
-          We'll come back with a quote and a sample plan.
+          Adjust quantities, estimate eligible production methods, then send
+          the brief. We&apos;ll validate the artwork and return the final quote.
         </p>
       </section>
 
@@ -51,51 +52,68 @@ export default function OfferPage() {
               return (
                 <li
                   key={key}
-                  className="flex flex-col sm:flex-row sm:items-center gap-4 p-5 bg-[var(--surface)] border border-[var(--border)] rounded-2xl"
+                  className="p-5 bg-[var(--surface)] border border-[var(--border)] rounded-2xl"
                 >
-                  <div className="flex-1 min-w-0">
-                    <h3 className="text-base font-[family-name:var(--font-outfit)] font-semibold text-[var(--brand-black)] truncate">
-                      {item.name}
-                    </h3>
-                    <p className="mt-0.5 text-xs text-[var(--text-muted)]">
-                      {category?.name ?? item.category}
-                      {variantLabel ? (
-                        <>
-                          {" · "}
-                          <span className="text-[var(--text-soft)] font-medium">
-                            {variantLabel}
-                          </span>
-                        </>
-                      ) : null}
-                    </p>
-                  </div>
-                  <div className="flex items-center gap-3">
-                    <QtyControl
-                      value={item.quantity}
-                      onChange={(n) => setLineQuantity(key, n)}
-                    />
-                    <button
-                      type="button"
-                      onClick={() => remove(key)}
-                      aria-label={`Remove ${item.name}`}
-                      className="inline-flex items-center justify-center w-9 h-9 text-[var(--text-muted)] hover:text-[var(--brand-orange)] bg-[var(--surface-soft)] hover:bg-[var(--surface)] border border-[var(--border-soft)] rounded-full transition-colors"
-                    >
-                      <svg
-                        xmlns="http://www.w3.org/2000/svg"
-                        width="14"
-                        height="14"
-                        viewBox="0 0 24 24"
-                        fill="none"
-                        stroke="currentColor"
-                        strokeWidth="2"
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
+                  <div className="flex flex-col sm:flex-row sm:items-center gap-4">
+                    <div className="flex-1 min-w-0">
+                      <h3 className="text-base font-[family-name:var(--font-outfit)] font-semibold text-[var(--brand-black)] truncate">
+                        {item.name}
+                      </h3>
+                      <p className="mt-0.5 text-xs text-[var(--text-muted)]">
+                        {category?.name ?? item.category}
+                        {variantLabel ? (
+                          <>
+                            {" · "}
+                            <span className="text-[var(--text-soft)] font-medium">
+                              {variantLabel}
+                            </span>
+                          </>
+                        ) : null}
+                      </p>
+                    </div>
+                    <div className="flex items-center gap-3">
+                      <QtyControl
+                        value={item.quantity}
+                        onChange={(n) => setLineQuantity(key, n)}
+                      />
+                      <button
+                        type="button"
+                        onClick={() => remove(key)}
+                        aria-label={`Remove ${item.name}`}
+                        className="inline-flex items-center justify-center w-9 h-9 text-[var(--text-muted)] hover:text-[var(--brand-orange)] bg-[var(--surface-soft)] hover:bg-[var(--surface)] border border-[var(--border-soft)] rounded-full transition-colors"
                       >
-                        <line x1="6" y1="6" x2="18" y2="18" />
-                        <line x1="18" y1="6" x2="6" y2="18" />
-                      </svg>
-                    </button>
+                        <svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          width="14"
+                          height="14"
+                          viewBox="0 0 24 24"
+                          fill="none"
+                          stroke="currentColor"
+                          strokeWidth="2"
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
+                        >
+                          <line x1="6" y1="6" x2="18" y2="18" />
+                          <line x1="18" y1="6" x2="6" y2="18" />
+                        </svg>
+                      </button>
+                    </div>
                   </div>
+
+                  <details className="group mt-4 border-t border-[var(--border-soft)] pt-4">
+                    <summary className="cursor-pointer list-none text-sm font-semibold text-[var(--brand-orange)]">
+                      <span className="group-open:hidden">Calculate this line +</span>
+                      <span className="hidden group-open:inline">Hide calculator −</span>
+                    </summary>
+                    <div className="mt-4">
+                      <DecorationEstimator
+                        methods={item.personalizations ?? []}
+                        quantity={item.quantity}
+                        productUnitPrice={item.priceSnapshot}
+                        productName={item.name}
+                      />
+                    </div>
+                  </details>
                 </li>
               )
             })}
@@ -132,13 +150,23 @@ export default function OfferPage() {
           </div>
 
           <div className="mt-6">
-            <Link
-              href="/catalog"
-              className="inline-flex items-center gap-2 text-sm font-medium text-[var(--brand-orange)] hover:gap-3 transition-all"
-            >
-              <span aria-hidden="true">←</span>
-              <span>Continue browsing the catalog</span>
-            </Link>
+            <div className="flex flex-wrap gap-x-6 gap-y-3">
+              <Link
+                href="/catalog"
+                className="inline-flex items-center gap-2 text-sm font-medium text-[var(--brand-orange)] hover:gap-3 transition-all"
+              >
+                <span aria-hidden="true">←</span>
+                <span>Continue browsing the catalog</span>
+              </Link>
+              <a
+                href="/downloads/tgv-media-personalization-pricing.pdf"
+                download
+                className="inline-flex items-center gap-2 text-sm font-medium text-[var(--brand-orange)] hover:gap-3 transition-all"
+              >
+                <span>Download full price list (PDF)</span>
+                <span aria-hidden="true">↓</span>
+              </a>
+            </div>
           </div>
         </section>
       )}

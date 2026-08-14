@@ -4,6 +4,7 @@ import { useEffect, useState } from "react"
 import Link from "next/link"
 import { usePathname } from "next/navigation"
 import { useOffer } from "@/components/OfferProvider"
+import LanguageSwitch from "@/components/LanguageSwitch"
 import SearchBox from "@/components/SearchBox"
 
 interface NavLink {
@@ -78,6 +79,8 @@ export default function NavBar() {
           </nav>
 
           <SearchBox className="w-56 lg:w-72" />
+
+          <LanguageSwitch />
 
           <div className="flex items-center gap-3">
             {hydrated && count > 0 && (
@@ -160,6 +163,10 @@ export default function NavBar() {
               className="w-full"
               onNavigate={() => setOpen(false)}
             />
+          </div>
+
+          <div className="mt-5">
+            <LanguageSwitch mobile />
           </div>
 
           <nav className="flex flex-col gap-6 mt-8">

@@ -14,6 +14,7 @@ import {
   readOffer,
   writeOffer,
 } from "@/lib/offer/storage"
+import type { Personalization } from "@/lib/content/catalog"
 
 export interface AddToOfferInput {
   slug: string
@@ -23,6 +24,7 @@ export interface AddToOfferInput {
   colorName?: string
   sizeLabel?: string
   priceSnapshot?: number
+  personalizations?: Personalization[]
 }
 
 interface OfferContextValue {
@@ -115,6 +117,7 @@ export default function OfferProvider({
           colorName: input.colorName,
           sizeLabel: input.sizeLabel,
           priceSnapshot: input.priceSnapshot,
+          personalizations: input.personalizations,
         },
       ]
       nextCount = next.length

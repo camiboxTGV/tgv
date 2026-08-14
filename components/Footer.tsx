@@ -18,6 +18,29 @@ export default function Footer() {
           <p className="mt-4 text-sm leading-relaxed text-[var(--text-muted)]">
             Full-service customization and promotional production.
           </p>
+          <div className="mt-6">
+            <p className="text-xs font-semibold uppercase tracking-widest text-[var(--text-muted)]">
+              Our network
+            </p>
+            <div className="mt-3 flex flex-wrap gap-x-4 gap-y-2 text-sm">
+              <a
+                href="https://qreactive.ro"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-[var(--text-soft)] transition-colors hover:text-[var(--brand-orange)]"
+              >
+                qreactive.ro ↗
+              </a>
+              <a
+                href="https://inkme.ro"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-[var(--text-soft)] transition-colors hover:text-[var(--brand-orange)]"
+              >
+                inkme.ro ↗
+              </a>
+            </div>
+          </div>
         </div>
 
         <div>
@@ -58,6 +81,23 @@ export default function Footer() {
               >
                 My offer
               </Link>
+            </li>
+            <li>
+              <Link
+                href="/pricing"
+                className="text-sm text-[var(--text-soft)] hover:text-[var(--brand-black)] transition-colors"
+              >
+                Price calculator
+              </Link>
+            </li>
+            <li>
+              <a
+                href="/downloads/tgv-media-personalization-pricing.pdf"
+                className="text-sm text-[var(--text-soft)] hover:text-[var(--brand-black)] transition-colors"
+                download
+              >
+                Personalisation price list (PDF)
+              </a>
             </li>
             <li>
               <Link
