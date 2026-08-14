@@ -131,7 +131,7 @@
   {
     "contentKey": "1e0bdccbc8ea8449",
     "supplierVariantId": "BO460810",
-    "stock": 36,
+    "stock": 64,
     "stockLevel": "in-stock",
     "price": 8,
     "color": {
@@ -163,8 +163,8 @@
   {
     "contentKey": "1e0bdccbc8ea8449",
     "supplierVariantId": "BO460812",
-    "stock": 0,
-    "stockLevel": "out-of-stock",
+    "stock": 8,
+    "stockLevel": "low",
     "price": 8,
     "color": {
       "name": "Burgundy",
@@ -179,7 +179,7 @@
   {
     "contentKey": "2d2b1d0eeaf523f9",
     "supplierVariantId": "BO460313",
-    "stock": 21,
+    "stock": 26,
     "stockLevel": "in-stock",
     "price": 8,
     "color": {
@@ -409,8 +409,8 @@
   {
     "contentKey": "6a56712dd0700c82",
     "supplierVariantId": "BO460506",
-    "stock": 1,
-    "stockLevel": "low",
+    "stock": 10,
+    "stockLevel": "in-stock",
     "price": 8,
     "color": {
       "name": "Red",
@@ -491,8 +491,8 @@
   {
     "contentKey": "8576340cd6d9a25a",
     "supplierVariantId": "BO460112",
-    "stock": 0,
-    "stockLevel": "out-of-stock",
+    "stock": 5,
+    "stockLevel": "low",
     "price": 8,
     "color": {
       "name": "White",
@@ -507,8 +507,8 @@
   {
     "contentKey": "85dac243b42f3c37",
     "supplierVariantId": "BO460306",
-    "stock": 0,
-    "stockLevel": "out-of-stock",
+    "stock": 9,
+    "stockLevel": "low",
     "price": 8,
     "color": {
       "name": "Black",
@@ -608,8 +608,8 @@
   {
     "contentKey": "9bdff0817810ce23",
     "supplierVariantId": "BO460808",
-    "stock": 0,
-    "stockLevel": "out-of-stock",
+    "stock": 21,
+    "stockLevel": "in-stock",
     "price": 8,
     "color": {
       "name": "Burgundy",
@@ -676,8 +676,8 @@
   {
     "contentKey": "aadd51144e974dad",
     "supplierVariantId": "BO461513",
-    "stock": 0,
-    "stockLevel": "out-of-stock",
+    "stock": 15,
+    "stockLevel": "in-stock",
     "price": 8,
     "color": {
       "name": "Heather Grey",
@@ -757,8 +757,8 @@
   {
     "contentKey": "ba43417658a82c90",
     "supplierVariantId": "BO462306",
-    "stock": 0,
-    "stockLevel": "out-of-stock",
+    "stock": 26,
+    "stockLevel": "in-stock",
     "price": 8,
     "color": {
       "name": "Anthracite",
@@ -773,8 +773,8 @@
   {
     "contentKey": "c5096c25cef4c009",
     "supplierVariantId": "BO460807",
-    "stock": 8,
-    "stockLevel": "low",
+    "stock": 41,
+    "stockLevel": "in-stock",
     "price": 8,
     "color": {
       "name": "Burgundy",
@@ -1067,7 +1067,7 @@
   {
     "contentKey": "f26ce3e94cbb78e3",
     "supplierVariantId": "BO460809",
-    "stock": 23,
+    "stock": 44,
     "stockLevel": "in-stock",
     "price": 8,
     "color": {

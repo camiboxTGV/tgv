@@ -18,8 +18,8 @@
   {
     "contentKey": "100ecb6ecb7dd389",
     "supplierVariantId": "BS310410",
-    "stock": 0,
-    "stockLevel": "out-of-stock",
+    "stock": 1,
+    "stockLevel": "low",
     "price": 24.7,
     "color": {
       "name": "Navy",
@@ -51,7 +51,7 @@
   {
     "contentKey": "5b17768bdb47d750",
     "supplierVariantId": "BS310109",
-    "stock": 315,
+    "stock": 319,
     "stockLevel": "in-stock",
     "price": 24.7,
     "color": {
@@ -102,7 +102,7 @@
   {
     "contentKey": "8f5d72fd279e1ab4",
     "supplierVariantId": "BS310309",
-    "stock": 7,
+    "stock": 8,
     "stockLevel": "low",
     "price": 24.7,
     "color": {
@@ -187,7 +187,7 @@
   {
     "contentKey": "b6a53008776892ea",
     "supplierVariantId": "BS310108",
-    "stock": 102,
+    "stock": 105,
     "stockLevel": "in-stock",
     "price": 24.7,
     "color": {
@@ -204,8 +204,8 @@
   {
     "contentKey": "c980332b9be7c41f",
     "supplierVariantId": "BS310113",
-    "stock": 8,
-    "stockLevel": "low",
+    "stock": 15,
+    "stockLevel": "in-stock",
     "price": 24.7,
     "color": {
       "name": "White",

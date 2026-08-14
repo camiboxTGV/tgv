@@ -25,12 +25,13 @@
     ],
     "price": 4.42,
     "priceFrom": false,
+    "stock": 0,
     "stockLevel": "out-of-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2300700sa3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2300700sa3_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -71,7 +72,8 @@
     ],
     "price": 15.37,
     "priceFrom": false,
-    "stockLevel": "out-of-stock",
+    "stock": 1344,
+    "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2300800aj3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2300800aj3_2.jpg",
@@ -80,7 +82,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2300800aj3_5.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2300800aj3_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -121,7 +123,8 @@
     ],
     "price": 10.69,
     "priceFrom": false,
-    "stockLevel": "out-of-stock",
+    "stock": 10993,
+    "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2300900aj3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2300900aj3_2.jpg",
@@ -132,7 +135,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2300900aj3_7.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2300900aj3_8.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -171,14 +174,15 @@
     ],
     "price": 33.36,
     "priceFrom": false,
-    "stockLevel": "out-of-stock",
+    "stock": 8,
+    "stockLevel": "low",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4800100aj3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4800100aj3_2.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4800100aj3_3.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4800100aj3_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -219,7 +223,8 @@
     ],
     "price": 5.56,
     "priceFrom": false,
-    "stockLevel": "out-of-stock",
+    "stock": 27,
+    "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4800300aj3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4800300aj3_2.jpg",
@@ -229,7 +234,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4800300aj3_6.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4800300aj3_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -270,7 +275,8 @@
     ],
     "price": 38.61,
     "priceFrom": false,
-    "stockLevel": "out-of-stock",
+    "stock": 419,
+    "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4800300sa3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4800300sa3_2.jpg",
@@ -278,7 +284,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4800300sa3_4.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4800300sa3_lifestyle.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -317,7 +323,8 @@
     ],
     "price": 44.17,
     "priceFrom": false,
-    "stockLevel": "out-of-stock",
+    "stock": 917,
+    "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4800400aj3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4800400aj3_2.jpg",
@@ -327,7 +334,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4800400aj3_6.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4800400aj3_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -379,6 +386,7 @@
     ],
     "price": 2.94,
     "priceFrom": false,
+    "stock": 2108,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/5071913_0.jpg",
@@ -387,7 +395,7 @@
       "https://macma.ro/products/jpg/M/5071913_4.jpg",
       "https://macma.ro/products/jpg/M/5071913_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -433,6 +441,7 @@
     ],
     "price": 10.47,
     "priceFrom": false,
+    "stock": 1925,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/5096203_0.jpg",
@@ -446,7 +455,7 @@
       "https://macma.ro/products/jpg/M/5096203_8.jpg",
       "https://macma.ro/products/jpg/M/5096203_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -487,14 +496,15 @@
     ],
     "price": 4.51,
     "priceFrom": false,
-    "stockLevel": "out-of-stock",
+    "stock": 3780,
+    "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5300200aj3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5300200aj3_2.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5300200aj3_3.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5300200aj3_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -535,12 +545,13 @@
     ],
     "price": 6.08,
     "priceFrom": false,
-    "stockLevel": "out-of-stock",
+    "stock": 4896,
+    "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5300200sa3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5300200sa3_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -584,7 +595,8 @@
     ],
     "price": 4.98,
     "priceFrom": false,
-    "stockLevel": "out-of-stock",
+    "stock": 5221,
+    "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5300400aj3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5300400aj3_2.jpg",
@@ -603,7 +615,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5300403aj3_a.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5300403aj3_b.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -665,13 +677,14 @@
     ],
     "price": 7.21,
     "priceFrom": false,
-    "stockLevel": "out-of-stock",
+    "stock": 6035,
+    "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5300500aj3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5300500aj3_2.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5300500aj3_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -708,6 +721,7 @@
     ],
     "price": 30.36,
     "priceFrom": false,
+    "stock": 998,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/6085601_group.jpg",
@@ -719,7 +733,7 @@
       "https://macma.ro/products/jpg/M/6085601_6.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6085601_lifestyle_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -756,6 +770,7 @@
     ],
     "price": 78.92,
     "priceFrom": false,
+    "stock": 1757,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/6127601_group.jpg",
@@ -765,7 +780,7 @@
       "https://macma.ro/products/jpg/M/6127601_4.jpg",
       "https://macma.ro/products/jpg/M/6127601_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -802,6 +817,7 @@
     ],
     "price": 68.91,
     "priceFrom": false,
+    "stock": 1380,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/6233701_group.jpg",
@@ -810,7 +826,7 @@
       "https://macma.ro/products/jpg/M/6233701_3.jpg",
       "https://macma.ro/products/jpg/M/6233701_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -849,6 +865,7 @@
     ],
     "price": 57.13,
     "priceFrom": false,
+    "stock": 2463,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/6263513_0.jpg",
@@ -870,7 +887,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/6263513_lifestyle_8.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6263513_lifestyle_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -909,6 +926,7 @@
     ],
     "price": 25.1,
     "priceFrom": false,
+    "stock": 1072,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/62641mc_1.jpg",
@@ -918,7 +936,7 @@
       "https://macma.ro/products/jpg/M/62641mc_5.jpg",
       "https://macma.ro/products/jpg/M/62641mc_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -957,6 +975,7 @@
     ],
     "price": 12.64,
     "priceFrom": false,
+    "stock": 268,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/6268713_1.jpg",
@@ -968,7 +987,7 @@
       "https://macma.ro/products/jpg/M/6268713_7.jpg",
       "https://macma.ro/products/jpg/M/6268713_8.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1007,6 +1026,7 @@
     ],
     "price": 6.82,
     "priceFrom": false,
+    "stock": 11158,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/7267013_1.jpg",
@@ -1018,7 +1038,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/7267013_lifestyle_3.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/7267013_lifestyle_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1057,6 +1077,7 @@
     ],
     "price": 11.23,
     "priceFrom": false,
+    "stock": 6402,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/8064807_group.jpg",
@@ -1065,7 +1086,7 @@
       "https://macma.ro/products/jpg/M/8064807_3.jpg",
       "https://macma.ro/products/jpg/M/8064807_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1111,6 +1132,7 @@
     ],
     "price": 2.88,
     "priceFrom": false,
+    "stock": 6803,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/8347913_0.jpg",
@@ -1123,7 +1145,7 @@
       "https://macma.ro/products/jpg/M/8347913_7.jpg",
       "https://macma.ro/products/jpg/M/8347913_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1162,6 +1184,7 @@
     ],
     "price": 1.55,
     "priceFrom": false,
+    "stock": 2650,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/9118303_1.jpg",
@@ -1172,7 +1195,7 @@
       "https://macma.ro/products/jpg/M/9118303_6.jpg",
       "https://macma.ro/products/jpg/M/9118303_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -1220,6 +1243,7 @@
     ],
     "price": 0.57,
     "priceFrom": false,
+    "stock": 6712,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/9493903_1.jpg",
@@ -1232,7 +1256,7 @@
       "https://macma.ro/products/jpg/M/9493907_2.jpg",
       "https://macma.ro/products/jpg/M/9493907_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -1279,14 +1303,15 @@
     ],
     "price": 5.34,
     "priceFrom": false,
-    "stockLevel": "out-of-stock",
+    "stock": 3669,
+    "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4200300aj3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4200300aj3_2.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4200300aj3_3.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4200300aj3_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1327,7 +1352,8 @@
     ],
     "price": 8.91,
     "priceFrom": false,
-    "stockLevel": "out-of-stock",
+    "stock": 2681,
+    "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2308600aj3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2308600aj3_2.jpg",
@@ -1336,7 +1362,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2308600aj3_5.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2308600aj3_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -1386,13 +1412,14 @@
     ],
     "price": 7.56,
     "priceFrom": false,
-    "stockLevel": "low",
+    "stock": 84,
+    "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4510300aj3_3.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4510300aj3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4510300aj3_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1450,7 +1477,8 @@
     ],
     "price": 26.96,
     "priceFrom": false,
-    "stockLevel": "out-of-stock",
+    "stock": 285,
+    "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4801600aj3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4801600aj3_2.jpg",
@@ -1458,7 +1486,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4801600aj3_4.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4801600aj3_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1488,7 +1516,8 @@
     ],
     "price": 30.43,
     "priceFrom": false,
-    "stockLevel": "out-of-stock",
+    "stock": 882,
+    "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4801700aj3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4801700aj3_12.jpg",
@@ -1501,7 +1530,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4801700aj3_5.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4801700aj3_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1535,7 +1564,8 @@
     ],
     "price": 2.09,
     "priceFrom": false,
-    "stockLevel": "out-of-stock",
+    "stock": 9425,
+    "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/t4800300sa3.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/t4800300sa3_a.jpg",
@@ -1558,7 +1588,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/t4800304sa3_b.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/t4800304sa3_c.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -1624,13 +1654,14 @@
     ],
     "price": 21.34,
     "priceFrom": false,
-    "stockLevel": "out-of-stock",
+    "stock": 1505,
+    "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5603900aj3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5603900aj3_2.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5603900aj3_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

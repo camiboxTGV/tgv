@@ -17,7 +17,7 @@
   {
     "contentKey": "09293622c1ed4336",
     "supplierVariantId": "BS690106",
-    "stock": 33,
+    "stock": 42,
     "stockLevel": "in-stock",
     "price": 20.24,
     "color": {
@@ -46,7 +46,7 @@
   {
     "contentKey": "09cc88ac629f9826",
     "supplierVariantId": "BS692311",
-    "stock": 203,
+    "stock": 208,
     "stockLevel": "in-stock",
     "price": 20.24,
     "color": {
@@ -60,7 +60,7 @@
   {
     "contentKey": "16d19f4316a68359",
     "supplierVariantId": "BS690506",
-    "stock": 40,
+    "stock": 49,
     "stockLevel": "in-stock",
     "price": 20.24,
     "color": {
@@ -75,8 +75,8 @@
   {
     "contentKey": "1d856b27fb2c2abb",
     "supplierVariantId": "BS690510",
-    "stock": 0,
-    "stockLevel": "out-of-stock",
+    "stock": 5,
+    "stockLevel": "low",
     "price": 20.24,
     "color": {
       "name": "Red",
@@ -89,8 +89,8 @@
   {
     "contentKey": "28d7f3016979061b",
     "supplierVariantId": "BS690407",
-    "stock": 0,
-    "stockLevel": "out-of-stock",
+    "stock": 28,
+    "stockLevel": "in-stock",
     "price": 20.24,
     "color": {
       "name": "Navy",
@@ -104,8 +104,8 @@
   {
     "contentKey": "35f048fdffec2fd1",
     "supplierVariantId": "BS690507",
-    "stock": 2,
-    "stockLevel": "low",
+    "stock": 26,
+    "stockLevel": "in-stock",
     "price": 20.24,
     "color": {
       "name": "Red",
@@ -119,7 +119,7 @@
   {
     "contentKey": "4919b9b2026dd8a2",
     "supplierVariantId": "BS692306",
-    "stock": 963,
+    "stock": 995,
     "stockLevel": "in-stock",
     "price": 20.24,
     "color": {
@@ -134,7 +134,7 @@
   {
     "contentKey": "4afa48288e5b357e",
     "supplierVariantId": "BS690406",
-    "stock": 20,
+    "stock": 31,
     "stockLevel": "in-stock",
     "price": 20.24,
     "color": {
@@ -149,7 +149,7 @@
   {
     "contentKey": "4da3f1fbdd2fff1b",
     "supplierVariantId": "BS690109",
-    "stock": 573,
+    "stock": 582,
     "stockLevel": "in-stock",
     "price": 20.24,
     "color": {
@@ -179,8 +179,8 @@
   {
     "contentKey": "65c60038304c9b33",
     "supplierVariantId": "BS690108",
-    "stock": 0,
-    "stockLevel": "out-of-stock",
+    "stock": 2,
+    "stockLevel": "low",
     "price": 20.24,
     "color": {
       "name": "White",
@@ -194,7 +194,7 @@
   {
     "contentKey": "9285eb7f4da76612",
     "supplierVariantId": "BS692307",
-    "stock": 331,
+    "stock": 345,
     "stockLevel": "in-stock",
     "price": 20.24,
     "color": {
@@ -209,7 +209,7 @@
   {
     "contentKey": "a05c9dc7ffee8896",
     "supplierVariantId": "BS690110",
-    "stock": 505,
+    "stock": 513,
     "stockLevel": "in-stock",
     "price": 20.24,
     "color": {
@@ -223,7 +223,7 @@
   {
     "contentKey": "a05c9dc7ffee8896",
     "supplierVariantId": "BS690111",
-    "stock": 10,
+    "stock": 24,
     "stockLevel": "in-stock",
     "price": 20.24,
     "color": {
@@ -252,7 +252,7 @@
   {
     "contentKey": "b75de6b56decce69",
     "supplierVariantId": "BS692309",
-    "stock": 308,
+    "stock": 324,
     "stockLevel": "in-stock",
     "price": 20.24,
     "color": {
@@ -267,7 +267,7 @@
   {
     "contentKey": "bbdc79aacdc9d1e3",
     "supplierVariantId": "BS690107",
-    "stock": 295,
+    "stock": 321,
     "stockLevel": "in-stock",
     "price": 20.24,
     "color": {
@@ -282,7 +282,7 @@
   {
     "contentKey": "bc183326086bc777",
     "supplierVariantId": "BS696406",
-    "stock": 146,
+    "stock": 152,
     "stockLevel": "in-stock",
     "price": 20.24,
     "color": {
@@ -297,7 +297,7 @@
   {
     "contentKey": "be0d3e072e7a3f29",
     "supplierVariantId": "BS696408",
-    "stock": 16,
+    "stock": 17,
     "stockLevel": "in-stock",
     "price": 20.24,
     "color": {
@@ -312,7 +312,7 @@
   {
     "contentKey": "c14bfb08b4f54f54",
     "supplierVariantId": "BS696409",
-    "stock": 11,
+    "stock": 12,
     "stockLevel": "in-stock",
     "price": 20.24,
     "color": {
@@ -327,8 +327,8 @@
   {
     "contentKey": "e9d3f51c1819a461",
     "supplierVariantId": "BS696407",
-    "stock": 0,
-    "stockLevel": "out-of-stock",
+    "stock": 3,
+    "stockLevel": "low",
     "price": 20.24,
     "color": {
       "name": "Atoll",
@@ -342,7 +342,7 @@
   {
     "contentKey": "f0f5f22e248bad73",
     "supplierVariantId": "BS696410",
-    "stock": 10,
+    "stock": 18,
     "stockLevel": "in-stock",
     "price": 20.24,
     "color": {
@@ -356,8 +356,8 @@
   {
     "contentKey": "f0f5f22e248bad73",
     "supplierVariantId": "BS696411",
-    "stock": 0,
-    "stockLevel": "out-of-stock",
+    "stock": 13,
+    "stockLevel": "in-stock",
     "price": 20.24,
     "color": {
       "name": "Atoll",

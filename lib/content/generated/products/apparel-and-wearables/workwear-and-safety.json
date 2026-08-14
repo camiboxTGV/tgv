@@ -30,6 +30,7 @@
     ],
     "price": 2.69,
     "priceFrom": false,
+    "stock": 0,
     "stockLevel": "out-of-stock",
     "images": [
       "https://macma.ro/products/jpg/M/5339708_0.jpg",
@@ -39,7 +40,7 @@
       "https://macma.ro/products/jpg/M/5339708_4.jpg",
       "https://macma.ro/products/jpg/M/5339708_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -85,6 +86,7 @@
     ],
     "price": 2.69,
     "priceFrom": false,
+    "stock": 0,
     "stockLevel": "out-of-stock",
     "images": [
       "https://macma.ro/products/jpg/M/5339808_0.jpg",
@@ -93,7 +95,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/5339808_lifestyle_3.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/5339808_lifestyle_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -132,6 +134,7 @@
     ],
     "price": 0.87,
     "priceFrom": false,
+    "stock": 20833,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/5609305_1.jpg",
@@ -140,7 +143,7 @@
       "https://macma.ro/products/jpg/M/5609305_3.jpg",
       "https://macma.ro/products/jpg/M/5609305_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -179,6 +182,7 @@
     ],
     "price": 0.66,
     "priceFrom": false,
+    "stock": 0,
     "stockLevel": "out-of-stock",
     "images": [
       "https://macma.ro/products/jpg/M/9143108_0.jpg",
@@ -187,7 +191,7 @@
       "https://macma.ro/products/jpg/M/9143108_3.jpg",
       "https://macma.ro/products/jpg/M/9143108_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -226,6 +230,7 @@
     ],
     "price": 2.63,
     "priceFrom": false,
+    "stock": 12351,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/9341208_1.jpg",
@@ -233,7 +238,7 @@
       "https://macma.ro/products/jpg/M/9341208_4.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/9341208_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -279,6 +284,7 @@
     ],
     "price": 1.44,
     "priceFrom": false,
+    "stock": 732,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/9494408_1.jpg",
@@ -286,7 +292,7 @@
       "https://macma.ro/products/jpg/M/9494408_3.jpg",
       "https://macma.ro/products/jpg/M/9494408_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -317,11 +323,12 @@
     ],
     "price": 12.57,
     "priceFrom": false,
+    "stock": 703,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/chvacoo-cementgrey_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 2,
     "colorCount": 1,
     "sizeCount": 2,
@@ -442,6 +449,7 @@
     ],
     "price": 18.66,
     "priceFrom": true,
+    "stock": 43549,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/chvahig-neonyellow-bottlegreen_1.jpg",
@@ -457,7 +465,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/chvahig-neonorange_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/chvahig-neonorange-orionnavyblue_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 72,
     "colorCount": 12,
     "sizeCount": 4,
@@ -555,11 +563,12 @@
     ],
     "price": 12.18,
     "priceFrom": true,
+    "stock": 5018,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/chvapri-orionnavyblue_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 5,
     "colorCount": 1,
     "sizeCount": 4,
@@ -701,6 +710,7 @@
     ],
     "price": 17.45,
     "priceFrom": true,
+    "stock": 84880,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/chvathu-cementgreylemonyellow_chvathuga.jpg",
@@ -723,7 +733,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/chvathu-blackapplegreen_chvathunv.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/chvathu-blackroyalblue_chvathuny.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 113,
     "colorCount": 15,
     "sizeCount": 4,
@@ -813,11 +823,12 @@
     ],
     "price": 21.91,
     "priceFrom": true,
+    "stock": 1616,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/chvatru-orionnavyblue_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 5,
     "colorCount": 1,
     "sizeCount": 3,
@@ -869,11 +880,12 @@
     ],
     "price": 13.81,
     "priceFrom": false,
+    "stock": 3003,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/chvawor-orionnavyblue_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 3,
     "colorCount": 1,
     "sizeCount": 2,
@@ -958,6 +970,7 @@
     ],
     "price": 27.59,
     "priceFrom": true,
+    "stock": 21509,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/czvamir-white_1.jpg",
@@ -967,7 +980,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/czvamir-lottored_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/czvamir-bottlegreen_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 36,
     "colorCount": 6,
     "sizeCount": 4,
@@ -1108,6 +1121,7 @@
     ],
     "price": 32.46,
     "priceFrom": true,
+    "stock": 38227,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/pkvatra-neonyellow-bottlegreen_1.jpg",
@@ -1123,7 +1137,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/pkvatra-neonorange_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/pkvatra-neonorange-orionnavyblue_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 72,
     "colorCount": 12,
     "sizeCount": 4,
@@ -1220,6 +1234,7 @@
     ],
     "price": 8.52,
     "priceFrom": true,
+    "stock": 21208,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/thunderpolo-cementgrey-lemonyellow_1.jpg",
@@ -1227,7 +1242,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/thunderpolo-cementgrey-lottored_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/thunderpolo-cementgrey-royalblue_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 24,
     "colorCount": 4,
     "sizeCount": 4,
@@ -1282,12 +1297,13 @@
     ],
     "price": 12.57,
     "priceFrom": true,
+    "stock": 3002,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/pregon-white_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/pregon-black_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 3,
     "colorCount": 2,
     "sizeCount": 3,
@@ -1335,6 +1351,7 @@
     ],
     "price": 0.18,
     "priceFrom": false,
+    "stock": 8320,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/ibiza-royalblue_1.jpg",
@@ -1342,7 +1359,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/ibiza-neonyellow_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/ibiza-neonpink_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 1,
@@ -1392,12 +1409,13 @@
     ],
     "price": 12.99,
     "priceFrom": true,
+    "stock": 7856,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/thundersweatshrit-cementgrey-lemonyellow_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/thundersweatshrit-cementgrey-partyorange_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T14:38:18.637Z",
+    "fetchedAt": "2026-08-14T15:06:59.728Z",
     "variantCount": 9,
     "colorCount": 2,
     "sizeCount": 4,
