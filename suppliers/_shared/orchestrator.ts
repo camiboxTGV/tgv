@@ -288,6 +288,7 @@ function assertRawProducts(
   if (!definition) throw new Error(`Supplier "${adapter.id}" has no definition.`)
 
   const seenSkus = new Set<string>()
+  const seenVariantIds = new Set<string>()
   for (let index = 0; index < raws.length; index++) {
     const raw = raws[index]
     const label = `${adapter.id} product #${index + 1}`
@@ -299,6 +300,37 @@ function assertRawProducts(
       throw new Error(`Supplier "${adapter.id}" returned duplicate SKU "${raw.supplierSku}".`)
     }
     seenSkus.add(raw.supplierSku)
+    if (adapter.fetchInventory) {
+      if (!raw.supplierVariantIds?.length) {
+        throw new Error(
+          `${label} (${raw.supplierSku}) has no inventory binding ids.`,
+        )
+      }
+      const rawVariantIds = new Set(
+        (raw.variants ?? []).map((variant) => variant.supplierVariantId),
+      )
+      if (raw.variants?.length && rawVariantIds.size !== raw.supplierVariantIds.length) {
+        throw new Error(
+          `${label} (${raw.supplierSku}) inventory bindings do not cover every variant.`,
+        )
+      }
+      for (const variantId of raw.supplierVariantIds) {
+        if (!variantId.trim()) {
+          throw new Error(`${label} (${raw.supplierSku}) has an empty inventory binding id.`)
+        }
+        if (seenVariantIds.has(variantId)) {
+          throw new Error(
+            `Supplier "${adapter.id}" assigned inventory id "${variantId}" to multiple products.`,
+          )
+        }
+        if (raw.variants?.length && !rawVariantIds.has(variantId)) {
+          throw new Error(
+            `${label} (${raw.supplierSku}) inventory id "${variantId}" has no matching variant.`,
+          )
+        }
+        seenVariantIds.add(variantId)
+      }
+    }
     if (!raw.name?.trim()) throw new Error(`${label} has no product name.`)
     if (!Array.isArray(raw.images)) throw new Error(`${label} has an invalid images field.`)
     if (!definition.allowProductsWithoutImages && raw.images.length === 0) {

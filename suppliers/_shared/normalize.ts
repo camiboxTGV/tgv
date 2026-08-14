@@ -100,6 +100,7 @@ function buildVariants(raw: RawProduct): ProductVariant[] {
     const imageRefs = imageRefsAgainstParent(rv.images, raw.images)
     const variant: ProductVariant = {
       contentKey: contentKeyFor(raw.supplierId, raw.supplierSku, rv.colorName, rv.size),
+      supplierVariantId: rv.supplierVariantId,
       stock: rv.stock,
       stockLevel,
       price,
@@ -151,6 +152,7 @@ export function normalize(
     personalizations,
     supplierId: raw.supplierId,
     supplierSku: raw.supplierSku,
+    supplierVariantIds: raw.supplierVariantIds,
     price: displayPrice,
     priceFrom,
     stockLevel,

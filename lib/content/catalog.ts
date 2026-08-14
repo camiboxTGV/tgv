@@ -31,6 +31,7 @@ export interface CatalogProduct {
   personalizations: Personalization[]
   supplierId: string
   supplierSku: string
+  supplierVariantIds?: string[]
   price: number
   priceFrom: boolean
   stockLevel: StockLevel
@@ -50,6 +51,7 @@ export interface CatalogProduct {
 
 export interface ProductVariant {
   contentKey: string
+  supplierVariantId?: string
   color?: { name: string; hex?: string }
   size?: string
   stock: number
