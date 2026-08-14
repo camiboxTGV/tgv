@@ -11,10 +11,12 @@ export const runtime = "nodejs"
 interface Indexed {
   slug: string
   name: string
+  supplierSku: string
   category: string
   summary: string
   brand: string
   personalizations: CatalogProduct["personalizations"]
+  supplierPersonalizations: string[]
   price: number
   priceFrom: boolean
   stockLevel: CatalogProduct["stockLevel"]
@@ -29,10 +31,14 @@ function getFuse(): Fuse<Indexed> {
   const indexed: Indexed[] = allProducts().map((p) => ({
     slug: p.slug,
     name: p.name,
+    supplierSku: p.supplierSku,
     category: p.category,
     summary: p.summary,
     brand: p.brand ?? "",
     personalizations: p.personalizations,
+    supplierPersonalizations: (p.supplierPersonalizations ?? []).flatMap(
+      (method) => [method.code, method.label, method.labelRo ?? ""],
+    ),
     price: p.price,
     priceFrom: p.priceFrom,
     stockLevel: p.stockLevel,
@@ -70,6 +76,7 @@ export async function GET(req: NextRequest): Promise<Response> {
       return {
         slug: hit.item.slug,
         name: hit.item.name,
+        supplierSku: hit.item.supplierSku,
         category: hit.item.category,
         categoryLabel: categoryLabel(hit.item.category),
         price: hit.item.price,

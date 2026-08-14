@@ -3,6 +3,7 @@ import type { StockLevel } from "@/lib/content/catalog"
 export interface SearchResult {
   slug: string
   name: string
+  supplierSku: string
   category: string
   categoryLabel: string
   price: number

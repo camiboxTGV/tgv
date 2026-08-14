@@ -171,24 +171,25 @@ def build_pdf():
         "Indicative unit rates by production quantity and maximum printed area. Full-colour CMYK plus white is included.",
     )
     uv = [
-        ["Quantity", "Small", "Card", "Medium", "Up to A6", "Up to A5", "Up to A4"],
-        ["1–20", "min €30", "min €30", "min €30", "min €30", "€2.00", "€4.00"],
-        ["21–50", "min €30", "min €30", "€0.80", "€1.20", "€1.87", "€3.75"],
-        ["51–100", "min €30", "€0.55", "€0.75", "€1.10", "€1.80", "€3.60"],
-        ["101–200", "€0.28", "€0.37", "€0.65", "€0.95", "€1.70", "€3.40"],
-        ["201–500", "€0.23", "€0.29", "€0.60", "€0.85", "€1.60", "€3.20"],
-        ["501–1,000", "€0.18", "€0.26", "€0.55", "€0.80", "€1.55", "€3.10"],
-        ["1,001–2,000", "€0.16", "€0.25", "€0.50", "€0.75", "€1.50", "€3.00"],
+        ["Quantity", "Small object", "Card", "Medium <= A6", "Large <= A5", "Large <= A4", "Large <= A3"],
+        ["1-20", "€30/job", "€30/job", "€30/job", "€30/job", "€2.00", "€4.00"],
+        ["21-50", "€30/job", "€30/job", "€0.80", "€1.20", "€1.87", "€3.75"],
+        ["51-100", "€30/job", "€0.55", "€0.75", "€1.10", "€1.80", "€3.60"],
+        ["101-200", "€0.28", "€0.37", "€0.65", "€0.95", "€1.70", "€3.40"],
+        ["201-500", "€0.23", "€0.29", "€0.60", "€0.85", "€1.60", "€3.20"],
+        ["501-1,000", "€0.18", "€0.26", "€0.55", "€0.80", "€1.55", "€3.10"],
+        ["1,001-2,000", "€0.16", "€0.25", "€0.50", "€0.75", "€1.50", "€3.00"],
         ["2,001+", "€0.15", "€0.22", "€0.40", "€0.70", "€1.30", "€2.80"],
     ]
     story.append(table(uv, [31 * mm] + [34.5 * mm] * 6, 8))
     notes(
         story,
         [
-            "Minimum UV order: €30. Protective varnish doubles the production price.",
+            "The €30/job cells are flat production charges. All other cells are per-unit rates with a minimum UV order of €30.",
+            "Protective varnish doubles the production price.",
             "Individual names: +50%. Difficult or irregular shape: +50%.",
             "Unpack/repack: small €0.05, medium €0.10, difficult €0.20 per unit. Production sample: €7.",
-            "UV transfer is quoted separately because no validated UV-transfer tariff was supplied.",
+            "Supplier transfer labels are not treated as direct UV; the validated textile-transfer tariff is listed on page 6.",
         ],
     )
     story.append(PageBreak())
@@ -199,20 +200,20 @@ def build_pdf():
         "For paper, leather, textiles, acrylic, wood, cork, glass, coated metal, and selected silicone products.",
     )
     co2 = [
-        ["Material / object size", "Under 10", "10–49", "50–199", "200–500", "Over 500"],
+        ["Material / object size", "Under 10", "10-49", "50-199", "200-500", "Over 500"],
         ["Standard · small", "€1.06", "€0.41", "€0.35", "€0.31", "Review"],
         ["Standard · medium", "€1.59", "€0.62", "€0.53", "€0.47", "Review"],
         ["Standard · large", "€2.12", "€0.82", "€0.70", "€0.62", "Review"],
         ["Silicone · small", "€1.64", "€0.62", "€0.53", "€0.47", "Review"],
         ["Silicone · medium", "€2.46", "€0.93", "€0.79", "€0.70", "Review"],
-        ["Silicone · large", "—", "—", "—", "—", "Review"],
+        ["Silicone · large", "-", "-", "-", "-", "Review"],
     ]
     story.append(table(co2, [48 * mm] + [40 * mm] * 5, 8.2))
     notes(
         story,
         [
             "Minimum CO2 laser order: €10. Quantities over 500 units are reviewed for the most efficient production setup.",
-            "Luxury objects valued above €40: 2×. Engraved area above 12 cm²: 2×. Individual names: +50%.",
+            "Luxury objects valued above €40: 2x. Engraved area above 12 cm2: 2x. Individual names: +50%.",
             "Unpack/repack: small €0.05, medium €0.10, difficult €0.20 per unit. Production sample: €7.",
             "Untested surfaces require an additional sample object supplied by the client.",
         ],
@@ -225,7 +226,7 @@ def build_pdf():
         "Permanent, high-contrast marking for metals and compatible engineering plastics.",
     )
     fiber = [
-        ["Object size", "1–20", "21–100", "101–200", "201–300", "301–500", "501–1,000", "1,001+"],
+        ["Object size", "1-20", "21-100", "101-200", "201-300", "301-500", "501-1,000", "1,001+"],
         ["Small", "€1.00", "€0.60", "€0.45", "€0.30", "€0.23", "€0.17", "€0.15"],
         ["Medium", "€1.50", "€1.00", "€0.75", "€0.45", "€0.38", "€0.30", "€0.28"],
         ["Large", "€1.70", "€1.20", "€0.80", "€0.75", "€0.60", "€0.53", "€0.49"],
@@ -235,7 +236,7 @@ def build_pdf():
         story,
         [
             "Minimum fiber laser order: €10.",
-            "Luxury objects valued above €40: 2×. Individual names: +50%.",
+            "Luxury objects valued above €40: 2x. Individual names: +50%.",
             "Unpack/repack: small €0.05, medium €0.10, difficult €0.20 per unit. Production sample: €7.",
         ],
     )
@@ -292,25 +293,25 @@ def build_pdf():
         "Textile transfer",
         "Indicative unit rates by print area, quantity, and number of colours.",
     )
-    story.append(Paragraph("Maximum 20 × 30 cm", H2))
+    story.append(Paragraph("Maximum 20 x 30 cm", H2))
     textile_large = [
         ["Quantity", "1 colour", "2 colours", "3 colours", "4 colours", "5 colours", "6 colours"],
         ["Up to 120", "€0.840", "€1.092", "€1.323", "€1.596", "€1.848", "€2.079"],
-        ["121–600", "€0.756", "€0.987", "€1.218", "€1.428", "€1.659", "€1.890"],
-        ["601–2,600", "€0.672", "€0.882", "€1.071", "€1.281", "€1.470", "€1.701"],
-        ["2,601–5,100", "€0.609", "€0.777", "€0.945", "€1.155", "€1.323", "€1.512"],
-        ["5,101–10,500", "€0.525", "€0.672", "€0.861", "€1.008", "€1.155", "€1.323"],
+        ["121-600", "€0.756", "€0.987", "€1.218", "€1.428", "€1.659", "€1.890"],
+        ["601-2,600", "€0.672", "€0.882", "€1.071", "€1.281", "€1.470", "€1.701"],
+        ["2,601-5,100", "€0.609", "€0.777", "€0.945", "€1.155", "€1.323", "€1.512"],
+        ["5,101-10,500", "€0.525", "€0.672", "€0.861", "€1.008", "€1.155", "€1.323"],
     ]
     story.append(table(textile_large, [34 * mm] + [34 * mm] * 6, 7.4))
     story.append(Spacer(1, 3 * mm))
-    story.append(Paragraph("Maximum 10 × 10 cm", H2))
+    story.append(Paragraph("Maximum 10 x 10 cm", H2))
     textile_small = [
         ["Quantity", "1 colour", "2 colours", "3 colours", "4 colours", "5 colours", "6 colours"],
         ["Up to 120", "€0.525", "€0.840", "€1.008", "€1.155", "€1.344", "€1.540"],
-        ["121–600", "€0.483", "€0.756", "€0.903", "€1.050", "€1.218", "€1.400"],
-        ["601–2,600", "€0.441", "€0.672", "€0.798", "€0.924", "€1.078", "€1.232"],
-        ["2,601–5,100", "€0.399", "€0.609", "€0.714", "€0.840", "€0.966", "€1.106"],
-        ["5,101–10,500", "€0.347", "€0.546", "€0.672", "€0.777", "€0.882", "€1.022"],
+        ["121-600", "€0.483", "€0.756", "€0.903", "€1.050", "€1.218", "€1.400"],
+        ["601-2,600", "€0.441", "€0.672", "€0.798", "€0.924", "€1.078", "€1.232"],
+        ["2,601-5,100", "€0.399", "€0.609", "€0.714", "€0.840", "€0.966", "€1.106"],
+        ["5,101-10,500", "€0.347", "€0.546", "€0.672", "€0.777", "€0.882", "€1.022"],
     ]
     story.append(table(textile_small, [34 * mm] + [34 * mm] * 6, 7.4))
     notes(

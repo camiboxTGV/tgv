@@ -20,6 +20,11 @@ export default function AddToOfferButton({
   const outOfStock =
     variant?.stockLevel === "out-of-stock" || product.stockLevel === "out-of-stock"
   const sizeClass = size === "md" ? "py-3 text-base" : "py-2.5 text-sm"
+  const hasFreshSupplierMethods = (product.supplierPersonalizations?.length ?? 0) > 0
+  const calculatorMethods =
+    product.supplierId === "macma" && !hasFreshSupplierMethods
+      ? []
+      : product.personalizations
 
   if (outOfStock) {
     return (
@@ -70,11 +75,13 @@ export default function AddToOfferButton({
           slug: product.slug,
           name: product.name,
           category: product.category,
+          supplierId: product.supplierId,
+          supplierSku: product.supplierSku,
           variantKey: variant?.contentKey,
           colorName: variant?.color?.name,
           sizeLabel: variant?.size,
           priceSnapshot: variant?.price ?? product.price,
-          personalizations: product.personalizations,
+          personalizations: calculatorMethods,
         })
       }
       className={`inline-flex items-center justify-center px-4 w-full font-semibold text-white bg-[var(--brand-black)] hover:bg-[var(--brand-orange)] rounded-full transition-colors ${sizeClass}`}

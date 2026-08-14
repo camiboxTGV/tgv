@@ -65,6 +65,14 @@ export default function OfferPage() {
                       </h3>
                       <p className="mt-0.5 text-xs text-[var(--text-muted)]">
                         {category?.name ?? item.category}
+                        {item.supplierSku ? (
+                          <>
+                            {" · "}
+                            <span className="font-mono font-semibold text-[var(--text-soft)]">
+                              {ro ? "Cod" : "Code"} {item.supplierSku}
+                            </span>
+                          </>
+                        ) : null}
                         {variantLabel ? (
                           <>
                             {" · "}

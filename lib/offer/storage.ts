@@ -8,6 +8,8 @@ export interface OfferItem {
   name: string
   category: string
   quantity: number
+  supplierId?: string
+  supplierSku?: string
   variantKey?: string
   colorName?: string
   sizeLabel?: string
@@ -35,13 +37,15 @@ function isValidItem(value: unknown): value is OfferItem {
     return false
   }
   if (v.variantKey !== undefined && typeof v.variantKey !== "string") return false
+  if (v.supplierId !== undefined && typeof v.supplierId !== "string") return false
+  if (v.supplierSku !== undefined && typeof v.supplierSku !== "string") return false
   if (v.colorName !== undefined && typeof v.colorName !== "string") return false
   if (v.sizeLabel !== undefined && typeof v.sizeLabel !== "string") return false
   if (
     v.personalizations !== undefined &&
     (!Array.isArray(v.personalizations) ||
       !v.personalizations.every((method) =>
-        ["co2", "fiber-laser", "uv-print", "uv-transfer"].includes(
+        ["co2", "fiber-laser", "uv-print", "pad-screen", "textile-transfer", "uv-transfer"].includes(
           String(method),
         ),
       ))

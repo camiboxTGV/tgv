@@ -206,6 +206,7 @@ async function runOneAdapter(
   }
 
   const unmappedCounts = new Map<string, number>()
+  const unknownPersonalizationCounts = new Map<string, number>()
 
   for (const raw of raws) {
     if (!Number.isFinite(raw.supplierPriceEur) || raw.supplierPriceEur <= 0) {
@@ -215,6 +216,13 @@ async function runOneAdapter(
     try {
       const result = normalize(raw, adapter)
       if (!result.product) continue
+
+      for (const code of result.unknownPersonalizationCodes) {
+        unknownPersonalizationCounts.set(
+          code,
+          (unknownPersonalizationCounts.get(code) ?? 0) + 1,
+        )
+      }
 
       if (!skipImages && raw.images.length > 0) {
         const dl = await downloadProductImages({
@@ -253,6 +261,11 @@ async function runOneAdapter(
   summary.newUnmappedCategories = [...unmappedCounts.entries()]
     .map(([category, count]) => ({ category, count }))
     .sort((a, b) => b.count - a.count)
+  summary.unknownPersonalizationCodes = [
+    ...unknownPersonalizationCounts.entries(),
+  ]
+    .map(([code, count]) => ({ code, count }))
+    .sort((a, b) => b.count - a.count || a.code.localeCompare(b.code))
 
   if (summary.images.failed > 0) {
     summary.ok = false

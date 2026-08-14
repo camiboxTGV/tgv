@@ -14,6 +14,12 @@ import {
   isSupplierImageUrlAllowed,
   supplierImageRemotePatterns,
 } from "../suppliers.ts"
+import { normalize } from "./normalize.ts"
+import {
+  describeMacmaPersonalizations,
+  macmaPersonalizationDefinitions,
+  personalizationMap,
+} from "../macma/mapping.ts"
 
 const CATEGORY_A = "bags/shopping-bags/cotton-and-canvas"
 const CATEGORY_B = "drinkware/mugs-and-cups/ceramic-mugs"
@@ -68,6 +74,88 @@ test("supplier definitions generate the same strict image allowlist used by Next
   assert.equal(isSupplierImageUrlAllowed("macma", "http://macma.ro/products/a.jpg"), false)
   assert.equal(isSupplierImageUrlAllowed("macma", "https://other.test/products/a.jpg"), false)
   assert.equal(isSupplierImageUrlAllowed("macma", "https://macma.ro/private/a.jpg"), false)
+})
+
+test("Macma Romania codes keep exact supplier methods separate from calculator families", () => {
+  assert.deepEqual(personalizationMap.UV, ["uv-print"])
+  assert.deepEqual(personalizationMap["UV-PL"], ["uv-print"])
+  assert.deepEqual(personalizationMap.S1, ["pad-screen"])
+  assert.deepEqual(personalizationMap.S2, ["pad-screen"])
+  assert.deepEqual(personalizationMap.T1, ["pad-screen"])
+  assert.deepEqual(personalizationMap.T2, ["pad-screen"])
+  assert.deepEqual(personalizationMap.T3, ["pad-screen"])
+  assert.deepEqual(personalizationMap.T4, ["pad-screen"])
+  assert.deepEqual(personalizationMap.DT, ["textile-transfer"])
+  assert.deepEqual(personalizationMap.DC, [])
+  assert.deepEqual(personalizationMap.DW, [])
+  assert.equal(macmaPersonalizationDefinitions.DC?.labelRo, "Imprimare digitală pe textile colorate")
+  assert.equal(macmaPersonalizationDefinitions.DW?.labelRo, "Imprimare digitală pe textile albe")
+})
+
+test("Macma F38 methods and print size survive normalization without becoming UV", () => {
+  const raw = product("macma", "F38", "apparel-and-wearables/polo-shirts")
+  raw.rawPersonalizationCodes = ["S2", "DC", "DT", "DW"]
+  const sizes = new Map(
+    raw.rawPersonalizationCodes.map((code) => [code, new Set(["21 × 29"])]),
+  )
+  raw.supplierPersonalizations = describeMacmaPersonalizations(
+    raw.rawPersonalizationCodes,
+    sizes,
+  )
+  const macma: SupplierAdapter = {
+    id: "macma",
+    displayName: "Macma",
+    fetchAll: async () => [raw],
+    mapCategory: (item) => item.supplierCategory,
+    mapPersonalizations: (item) =>
+      (item.rawPersonalizationCodes ?? []).flatMap(
+        (code) => personalizationMap[code] ?? [],
+      ),
+  }
+  const result = normalize(raw, macma)
+  assert.deepEqual(result.product?.personalizations, ["pad-screen", "textile-transfer"])
+  assert.deepEqual(
+    result.product?.supplierPersonalizations?.map((method) => method.code),
+    ["S2", "DC", "DT", "DW"],
+  )
+  assert.equal(result.product?.supplierPersonalizations?.[1]?.label, "Digital printing on coloured textiles")
+  assert.deepEqual(result.product?.supplierPersonalizations?.[1]?.printSizes, ["21 × 29"])
+  assert.equal(result.product?.personalizations.includes("uv-print"), false)
+  assert.deepEqual(result.unknownPersonalizationCodes, [])
+})
+
+test("unknown supplier method codes remain visible and enter the sync report", async () => {
+  await withTempRepo(async (repoRoot) => {
+    const raw = product("macma", "UNKNOWN-METHOD")
+    raw.rawPersonalizationCodes = ["X9"]
+    raw.supplierPersonalizations = describeMacmaPersonalizations(
+      raw.rawPersonalizationCodes,
+      new Map(),
+    )
+    const report = await runSync({
+      repoRoot,
+      adapters: [adapter("macma", [raw])],
+      skipImages: true,
+      force: true,
+    })
+    assert.deepEqual(report.suppliers.macma?.unknownPersonalizationCodes, [
+      { code: "X9", count: 1 },
+    ])
+    const generated = JSON.parse(
+      await readFile(
+        join(repoRoot, `lib/content/generated/products/${CATEGORY_A}.json`),
+        "utf8",
+      ),
+    ) as Array<{ supplierPersonalizations?: Array<{ code: string; label: string }> }>
+    assert.deepEqual(generated[0]?.supplierPersonalizations, [
+      {
+        code: "X9",
+        label: "Macma method X9",
+        labelRo: "Metodă Macma X9",
+        printSizes: [],
+      },
+    ])
+  })
 })
 
 test("a failed supplier cannot overwrite catalog data from healthy suppliers", async () => {

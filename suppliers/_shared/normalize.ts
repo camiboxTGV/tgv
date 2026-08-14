@@ -118,6 +118,7 @@ export interface NormalizeResult {
   product: CatalogProduct | null
   variants: ProductVariant[]
   unclassifiedCategory: string | null
+  unknownPersonalizationCodes: string[]
   supplierPrice: number
   slugPath: string | null
 }
@@ -142,6 +143,12 @@ export function normalize(
 
   const variants = buildVariants(raw)
   const colorSwatches = buildColorSwatches(raw)
+  const supplierPersonalizations = (raw.supplierPersonalizations ?? []).map(
+    ({ recognized: _recognized, ...method }) => method,
+  )
+  const unknownPersonalizationCodes = (raw.supplierPersonalizations ?? [])
+    .filter((method) => !method.recognized)
+    .map((method) => method.code)
 
   const product: CatalogProduct = {
     slug,
@@ -150,6 +157,7 @@ export function normalize(
     summary: buildSummary(raw),
     accent: deterministicAccent(raw.supplierSku),
     personalizations,
+    supplierPersonalizations,
     supplierId: raw.supplierId,
     supplierSku: raw.supplierSku,
     supplierVariantIds: raw.supplierVariantIds,
@@ -174,6 +182,7 @@ export function normalize(
     product,
     variants,
     unclassifiedCategory: slugPath ? null : raw.supplierCategory,
+    unknownPersonalizationCodes,
     supplierPrice: raw.supplierPriceEur,
     slugPath,
   }

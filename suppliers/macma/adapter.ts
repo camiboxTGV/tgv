@@ -6,7 +6,11 @@ import type {
   SupplierInventorySnapshot,
 } from "../_shared/adapter.ts"
 import { fetchJsonEndpoint } from "./fetch.ts"
-import { categoryMap, personalizationMap } from "./mapping.ts"
+import {
+  categoryMap,
+  describeMacmaPersonalizations,
+  personalizationMap,
+} from "./mapping.ts"
 import type { MacmaPrice, MacmaSku, MacmaStock } from "./types.ts"
 
 const SUPPLIER_ID = "macma"
@@ -116,6 +120,7 @@ interface VariantAccumulator {
   sizes: Set<string>
   materials: Set<string>
   techs: Set<string>
+  printSizesByCode: Map<string, Set<string>>
   variantIds: string[]
   rawVariants: RawVariant[]
   supplierCategory: string
@@ -143,6 +148,19 @@ function rawVariantFrom(sku: MacmaSku, price: number, stock: number): RawVariant
   }
 }
 
+function addPersonalizationData(acc: VariantAccumulator, sku: MacmaSku): void {
+  const size = sku.print?.size?.trim()
+  for (const rawCode of sku.print?.technology ?? []) {
+    const code = rawCode.trim()
+    if (!code) continue
+    acc.techs.add(code)
+    if (!size) continue
+    const sizes = acc.printSizesByCode.get(code) ?? new Set<string>()
+    sizes.add(size)
+    acc.printSizesByCode.set(code, sizes)
+  }
+}
+
 function addVariant(acc: VariantAccumulator, sku: MacmaSku, price: number, stock: number): void {
   acc.variantIds.push(sku.id)
   if (price < acc.minPrice) {
@@ -158,7 +176,7 @@ function addVariant(acc: VariantAccumulator, sku: MacmaSku, price: number, stock
   if (sku.color?.name) acc.colors.add(sku.color.name)
   if (sku.size && isSizeLabel(sku.size)) acc.sizes.add(sku.size)
   for (const m of normalizeMaterial(sku.material)) acc.materials.add(m)
-  for (const t of sku.print?.technology ?? []) acc.techs.add(t)
+  addPersonalizationData(acc, sku)
   acc.rawVariants.push(rawVariantFrom(sku, price, stock))
   if (!acc.brand && sku.brand?.trim()) acc.brand = sku.brand.trim()
   if (!acc.capacity && sku.capacity?.trim()) acc.capacity = sku.capacity.trim()
@@ -241,7 +259,8 @@ export const adapter: SupplierAdapter = {
             sku.size && isSizeLabel(sku.size) ? [sku.size] : [],
           ),
           materials: new Set<string>(normalizeMaterial(sku.material)),
-          techs: new Set<string>(sku.print?.technology ?? []),
+          techs: new Set<string>(),
+          printSizesByCode: new Map<string, Set<string>>(),
           variantIds: [sku.id],
           rawVariants: [],
           supplierCategory: (sku.chapter ?? "").trim(),
@@ -255,6 +274,7 @@ export const adapter: SupplierAdapter = {
           priceSum: price,
           priced: 1,
         }
+        addPersonalizationData(acc, sku)
         acc.rawVariants.push(rawVariantFrom(sku, price, variantStock))
         groups.set(code, acc)
       }
@@ -282,6 +302,10 @@ export const adapter: SupplierAdapter = {
         images: unionImages,
         material: [...acc.materials],
         rawPersonalizationCodes: [...acc.techs],
+        supplierPersonalizations: describeMacmaPersonalizations(
+          [...acc.techs],
+          acc.printSizesByCode,
+        ),
         colors: [...acc.colors].sort((a, b) => a.localeCompare(b)),
         sizes: [...acc.sizes].sort(sizeOrder),
         variantCount: acc.variantIds.length,

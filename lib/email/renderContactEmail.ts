@@ -188,6 +188,7 @@ function renderProductsTable(items: OfferItem[]): string {
       return `<tr>
         <td style="padding:10px 12px;border-bottom:1px solid ${BORDER};font-size:13px;color:${TEXT_PRIMARY};vertical-align:top;">
           <div style="font-weight:600;">${escapeHtml(item.name)}</div>
+          ${item.supplierSku ? `<div style="font-family:monospace;font-size:12px;color:${TEXT_SOFT};">Code ${escapeHtml(item.supplierSku)}</div>` : ""}
           <div style="font-size:12px;color:${TEXT_MUTED};">${escapeHtml(item.category)}</div>
         </td>
         <td style="padding:10px 12px;border-bottom:1px solid ${BORDER};font-size:13px;color:${TEXT_SOFT};vertical-align:top;">${variant ? escapeHtml(variant) : "&mdash;"}</td>
@@ -256,6 +257,7 @@ function renderText(
       }
       const parts = [
         `- ${item.name}`,
+        item.supplierSku ? `[Code ${item.supplierSku}]` : null,
         variant ? `(${variant})` : null,
         `× ${item.quantity}`,
         typeof unit === "number" ? `@ ${formatPrice(unit)}` : null,
