@@ -110,7 +110,7 @@ function TrustBand({ locale }: Readonly<{ locale: Locale }>) {
       body:
         locale === "ro"
           ? "Laser CO2 și cu fibră, print UV direct, timbru sec și folio, printare 3D, debitare CNC, tipar de producție, legătorie și tehnici manuale mixte."
-          : "CO2 and fiber laser, direct UV print, debossing and foil, 3D print, CNC cutting, production print, bookbinding, and mixed manual know-how.",
+          : "CO2 Laser Engraving & Cutting, Fiber Laser Engraving, UV Printing (Direct-to-Object), Debossing & Hot Foil Stamping, 3D Printing, Tangential Knife Cutting (Digital Flatbed Die-Cutting), Production Digital Printing, Bookbinding & Print Finishing, Mixed Manual Techniques & Know-How (20 Years of Experience)",
       icon: (
         <svg
           xmlns="http://www.w3.org/2000/svg"
