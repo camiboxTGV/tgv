@@ -86,6 +86,32 @@ export async function validateGeneratedCatalog(
       product.stockLevel === stockLevelFor(product.stock),
       `${product.slug} stock level does not match its numeric stock.`,
     )
+    if (product.availableSizes !== undefined) {
+      assert(
+        Array.isArray(product.availableSizes),
+        `${product.slug} availableSizes is not an array.`,
+      )
+      for (const size of product.availableSizes) {
+        assertNonEmptyString(size, `${product.slug} available size`)
+      }
+    }
+    if (product.specifications !== undefined) {
+      assert(
+        Array.isArray(product.specifications),
+        `${product.slug} specifications is not an array.`,
+      )
+      const specificationKeys = new Set<string>()
+      for (const specification of product.specifications) {
+        assertNonEmptyString(specification.key, `${product.slug} specification key`)
+        assertNonEmptyString(specification.label, `${product.slug} specification label`)
+        assertNonEmptyString(specification.value, `${product.slug} specification value`)
+        assert(
+          !specificationKeys.has(specification.key),
+          `${product.slug} has duplicate specification key "${specification.key}".`,
+        )
+        specificationKeys.add(specification.key)
+      }
+    }
     assert(!slugs.has(product.slug), `Duplicate generated product slug "${product.slug}".`)
     slugs.add(product.slug)
 

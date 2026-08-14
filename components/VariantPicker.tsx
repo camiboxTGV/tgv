@@ -2,6 +2,7 @@
 
 import { useCallback, useEffect, useMemo, useState } from "react"
 import type { ProductVariant } from "@/lib/content/catalog"
+import { useLanguage } from "@/components/LanguageProvider"
 
 interface Props {
   variants: ProductVariant[]
@@ -43,6 +44,8 @@ export default function VariantPicker({
   defaultVariantKey,
   onChange,
 }: Readonly<Props>) {
+  const { locale } = useLanguage()
+  const ro = locale === "ro"
   const { colors, sizes, hasColor, hasSize } = useMemo(() => {
     const colorNames: string[] = []
     const sizeList: string[] = []
@@ -138,7 +141,9 @@ export default function VariantPicker({
           if (fallback?.size) {
             setSelectedSize(fallback.size)
             setAutoShiftNotice(
-              `Size ${selectedSize} is unavailable in ${color} — showing ${fallback.size}.`,
+              ro
+                ? `Mărimea ${selectedSize} nu este disponibilă în culoarea ${color} — afișăm ${fallback.size}.`
+                : `Size ${selectedSize} is unavailable in ${color} — showing ${fallback.size}.`,
             )
           } else {
             setSelectedSize(undefined)
@@ -146,7 +151,7 @@ export default function VariantPicker({
         }
       }
     },
-    [hasSize, selectedSize, variants],
+    [hasSize, ro, selectedSize, variants],
   )
 
   const onPickSize = useCallback(
@@ -165,7 +170,7 @@ export default function VariantPicker({
         <div className="flex flex-col gap-2">
           <div className="flex items-baseline justify-between">
             <span className="text-xs font-semibold uppercase tracking-wider text-[var(--text-muted)]">
-              Colour
+              {ro ? "Culoare" : "Colour"}
             </span>
             <span className="text-sm text-[var(--text-soft)]">{selectedColor ?? "—"}</span>
           </div>
@@ -211,7 +216,7 @@ export default function VariantPicker({
         <div className="flex flex-col gap-2">
           <div className="flex items-baseline justify-between">
             <span className="text-xs font-semibold uppercase tracking-wider text-[var(--text-muted)]">
-              Size
+              {ro ? "Mărime" : "Size"}
             </span>
             <span className="text-sm text-[var(--text-soft)]">{selectedSize ?? "—"}</span>
           </div>

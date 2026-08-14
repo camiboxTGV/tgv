@@ -1,4 +1,7 @@
-import type { Personalization } from "../../lib/content/catalog.ts"
+import type {
+  Personalization,
+  ProductSpecification,
+} from "../../lib/content/catalog.ts"
 import type {
   RawProduct,
   RawVariant,
@@ -200,6 +203,133 @@ function isSizeLabel(raw: string): boolean {
   return true
 }
 
+function distinctStrings(values: Array<string | undefined>): string[] {
+  return [
+    ...new Set(
+      values
+        .map((value) => value?.trim())
+        .filter((value): value is string => Boolean(value)),
+    ),
+  ]
+}
+
+function physicalDimensions(sku: MacmaSku): string | undefined {
+  for (const candidate of [sku.size, sku.sizes]) {
+    const value = candidate?.trim()
+    if (value && !isSizeLabel(value)) return value
+  }
+  return undefined
+}
+
+function formatMaterial(value: string): string {
+  const sentenceCase = value
+    .trim()
+    .toLocaleLowerCase()
+    .replace(/^\p{L}/u, (letter) => letter.toLocaleUpperCase())
+  return sentenceCase
+    .replace(
+      /\b(abs|eva|mdf|pet|rpet|pe|pc|pp|ps|pu|pvc|tpe|tpu)\b/giu,
+      (code) => code.toLocaleUpperCase(),
+    )
+    .replace(/\b(\d+)d\b/giu, "$1D")
+}
+
+function cartonSpecification(
+  key: string,
+  label: string,
+  labelRo: string,
+  quantities: number[],
+): ProductSpecification | null {
+  const values = [
+    ...new Set(
+      quantities.filter((value) => Number.isFinite(value) && value > 0),
+    ),
+  ].sort((a, b) => a - b)
+  if (values.length === 0) return null
+  const quantity = values.join(" / ")
+  return {
+    key,
+    label,
+    labelRo,
+    value: `${quantity} pcs`,
+    valueRo: `${quantity} buc.`,
+  }
+}
+
+export function macmaProductSpecifications(
+  skus: MacmaSku[],
+  materials: string[],
+): ProductSpecification[] {
+  const specifications: ProductSpecification[] = []
+  const dimensions = distinctStrings(skus.map(physicalDimensions))
+  if (dimensions.length > 0) {
+    specifications.push({
+      key: "dimensions",
+      label: "Dimensions",
+      labelRo: "Dimensiuni",
+      value: dimensions.join(" · "),
+    })
+  }
+
+  const materialValues = distinctStrings(materials).map(formatMaterial)
+  if (materialValues.length > 0) {
+    specifications.push({
+      key: "materials",
+      label: "Materials",
+      labelRo: "Materiale",
+      value: materialValues.join(", "),
+    })
+  }
+
+  const origins = distinctStrings(skus.map((sku) => sku.origin))
+  if (origins.length > 0) {
+    specifications.push({
+      key: "country-of-origin",
+      label: "Country of origin",
+      labelRo: "Țara de origine",
+      value: origins.join(" · "),
+    })
+  }
+
+  const tariffs = distinctStrings(skus.map((sku) => sku.tariff))
+  if (tariffs.length > 0) {
+    specifications.push({
+      key: "customs-tariff",
+      label: "Customs tariff code",
+      labelRo: "Cod tarifar vamal",
+      value: tariffs.join(" · "),
+    })
+  }
+
+  const innerCarton = cartonSpecification(
+    "inner-carton",
+    "Inner carton",
+    "Cutie interioară",
+    skus.map((sku) => sku.innercarton ?? 0),
+  )
+  if (innerCarton) specifications.push(innerCarton)
+
+  const exportCarton = cartonSpecification(
+    "export-carton",
+    "Export carton",
+    "Cutie export",
+    skus.map((sku) => sku.exportcarton ?? 0),
+  )
+  if (exportCarton) specifications.push(exportCarton)
+
+  const genders = distinctStrings(skus.map((sku) => sku.gender))
+  if (genders.length > 0) {
+    specifications.push({
+      key: "gender",
+      label: "Gender",
+      labelRo: "Gen",
+      value: genders.map((gender) => gender.toLocaleLowerCase()).join(" · "),
+    })
+  }
+
+  return specifications
+}
+
 function unionVariantImages(variants: RawVariant[]): string[] {
   const out: string[] = []
   const seen = new Set<string>()
@@ -311,6 +441,7 @@ export const adapter: SupplierAdapter = {
         ),
         colors: [...acc.colors].sort((a, b) => a.localeCompare(b)),
         sizes: [...acc.sizes].sort(sizeOrder),
+        specifications: macmaProductSpecifications(skusOfCode, [...acc.materials]),
         variantCount: acc.variantIds.length,
         variants: acc.rawVariants,
         brand: acc.brand,

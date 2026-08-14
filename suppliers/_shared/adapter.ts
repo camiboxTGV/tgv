@@ -1,5 +1,6 @@
 import type {
   Personalization,
+  ProductSpecification,
   SupplierPersonalizationMethod,
 } from "../../lib/content/catalog.ts"
 
@@ -42,6 +43,7 @@ export interface RawProduct {
   material?: string[]
   colors?: string[]
   sizes?: string[]
+  specifications?: ProductSpecification[]
   variantCount?: number
   variants?: RawVariant[]
   brand?: string

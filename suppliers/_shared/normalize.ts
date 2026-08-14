@@ -172,6 +172,8 @@ export function normalize(
     colorCount,
     sizeCount,
     colorSwatches,
+    availableSizes: raw.sizes,
+    specifications: raw.specifications,
     brand: raw.brand,
     weightGrams: raw.weightGrams,
     capacity: raw.capacity,

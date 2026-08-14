@@ -20,7 +20,10 @@ import {
   macmaPersonalizationDefinitions,
   personalizationMap,
 } from "../macma/mapping.ts"
-import { totalAvailableStock } from "../macma/adapter.ts"
+import {
+  macmaProductSpecifications,
+  totalAvailableStock,
+} from "../macma/adapter.ts"
 
 const CATEGORY_A = "bags/shopping-bags/cotton-and-canvas"
 const CATEGORY_B = "drinkware/mugs-and-cups/ceramic-mugs"
@@ -116,9 +119,72 @@ test("Macma stock totals central, regional, and international availability", () 
   )
 })
 
+test("Macma characteristics preserve physical dimensions and logistics data", () => {
+  const specifications = macmaProductSpecifications(
+    [
+      {
+        id: "2110003",
+        catalogcode: "21100",
+        name: "Office golf set",
+        size: "31 × 4,8 × 14,2 cm",
+        origin: "CN",
+        tariff: "95063990",
+        innercarton: 20,
+        exportcarton: 20,
+      },
+    ],
+    ["PLASTIC", "WOOD"],
+  )
+
+  assert.deepEqual(specifications, [
+    {
+      key: "dimensions",
+      label: "Dimensions",
+      labelRo: "Dimensiuni",
+      value: "31 × 4,8 × 14,2 cm",
+    },
+    {
+      key: "materials",
+      label: "Materials",
+      labelRo: "Materiale",
+      value: "Plastic, Wood",
+    },
+    {
+      key: "country-of-origin",
+      label: "Country of origin",
+      labelRo: "Țara de origine",
+      value: "CN",
+    },
+    {
+      key: "customs-tariff",
+      label: "Customs tariff code",
+      labelRo: "Cod tarifar vamal",
+      value: "95063990",
+    },
+    {
+      key: "inner-carton",
+      label: "Inner carton",
+      labelRo: "Cutie interioară",
+      value: "20 pcs",
+      valueRo: "20 buc.",
+    },
+    {
+      key: "export-carton",
+      label: "Export carton",
+      labelRo: "Cutie export",
+      value: "20 pcs",
+      valueRo: "20 buc.",
+    },
+  ])
+})
+
 test("Macma F38 methods and print size survive normalization without becoming UV", () => {
   const raw = product("macma", "F38", "apparel-and-wearables/polo-shirts")
   raw.rawPersonalizationCodes = ["S2", "DC", "DT", "DW"]
+  raw.sizes = ["3/4", "5/6"]
+  raw.specifications = [
+    { key: "materials", label: "Materials", labelRo: "Materiale", value: "Cotton" },
+  ]
   const sizes = new Map(
     raw.rawPersonalizationCodes.map((code) => [code, new Set(["21 × 29"])]),
   )
@@ -138,6 +204,8 @@ test("Macma F38 methods and print size survive normalization without becoming UV
   }
   const result = normalize(raw, macma)
   assert.equal(result.product?.stock, 10)
+  assert.deepEqual(result.product?.availableSizes, ["3/4", "5/6"])
+  assert.deepEqual(result.product?.specifications, raw.specifications)
   assert.deepEqual(result.product?.personalizations, ["pad-screen", "textile-transfer"])
   assert.deepEqual(
     result.product?.supplierPersonalizations?.map((method) => method.code),

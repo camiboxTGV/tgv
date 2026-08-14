@@ -89,6 +89,9 @@ export default function ProductDetail({
   const displayPrice = selectedVariant?.price ?? product.price
   const displayStockLevel = selectedVariant?.stockLevel ?? product.stockLevel
   const displayStockCount = selectedVariant?.stock ?? product.stock
+  const displayVariantCode =
+    selectedVariant?.supplierVariantId ??
+    (product.variantCount === 1 ? product.supplierVariantIds?.[0] : undefined)
   const priceFrom = !selectedVariant && product.priceFrom
   const asOf = formatAsOfDate(product.fetchedAt)
   const weight = formatWeight(product.weightGrams)
@@ -115,6 +118,15 @@ export default function ProductDetail({
       description: (product.descriptionLong ?? product.summary).slice(0, 500),
       ...(product.brand ? { brand: { "@type": "Brand", name: product.brand } } : {}),
       sku: product.supplierSku,
+      ...(product.specifications && product.specifications.length > 0
+        ? {
+            additionalProperty: product.specifications.map((specification) => ({
+              "@type": "PropertyValue",
+              name: specification.label,
+              value: specification.value,
+            })),
+          }
+        : {}),
       offers: {
         "@type": "Offer",
         priceCurrency: "EUR",
@@ -196,11 +208,34 @@ export default function ProductDetail({
                 value={product.supplierSku}
                 mono
               />
-                {weight ? <MetaChip label={ro ? "Greutate" : "Weight"} value={weight} /> : null}
-                {product.capacity ? (
-                  <MetaChip label={ro ? "Capacitate" : "Capacity"} value={product.capacity} />
-                ) : null}
+              {displayVariantCode && displayVariantCode !== product.supplierSku ? (
+                <MetaChip
+                  label={ro ? "Cod variantă" : "Variant code"}
+                  value={displayVariantCode}
+                  mono
+                />
+              ) : null}
             </div>
+
+            {variants.length > 0 ? (
+              <section className="rounded-2xl border border-[var(--border-soft)] bg-[var(--surface)] p-4 sm:p-5">
+                <div className="mb-4 flex flex-col gap-1">
+                  <h2 className="text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange)]">
+                    {ro ? "Opțiuni disponibile" : "Available options"}
+                  </h2>
+                  <p className="text-xs leading-relaxed text-[var(--text-muted)]">
+                    {ro
+                      ? "Alege culoarea și mărimea; prețul, stocul și imaginile se actualizează pentru varianta selectată."
+                      : "Choose a colour and size; price, stock, and images update for the selected variant."}
+                  </p>
+                </div>
+                <VariantPicker
+                  variants={variants}
+                  defaultVariantKey={defaultVariant?.contentKey ?? null}
+                  onChange={handleVariantChange}
+                />
+              </section>
+            ) : null}
 
             {supplierPersonalizations.length > 0 ? (
               <SupplierPersonalizations
@@ -234,14 +269,6 @@ export default function ProductDetail({
               </div>
             ) : null}
 
-            {variants.length > 0 ? (
-              <VariantPicker
-                variants={variants}
-                defaultVariantKey={defaultVariant?.contentKey ?? null}
-                onChange={handleVariantChange}
-              />
-            ) : null}
-
             <div className="pt-2">
               <AddToOfferButton
                 product={product}
@@ -250,17 +277,109 @@ export default function ProductDetail({
               />
             </div>
 
-            {product.descriptionLong ? (
-              <Description text={product.descriptionLong} locale={locale} />
-            ) : product.summary ? (
-              <p className="text-sm leading-relaxed text-[var(--text-soft)]">
-                {product.summary}
-              </p>
-            ) : null}
+            <ProductInformation
+              product={product}
+              variants={variants}
+              description={product.descriptionLong ?? product.summary}
+              ro={ro}
+              locale={locale}
+              weight={weight}
+            />
           </div>
         </div>
       </section>
     </>
+  )
+}
+
+function ProductInformation({
+  product,
+  variants,
+  description,
+  ro,
+  locale,
+  weight,
+}: Readonly<{
+  product: CatalogProduct
+  variants: ProductVariant[]
+  description: string
+  ro: boolean
+  locale: "ro" | "en"
+  weight: string | null
+}>) {
+  const supplierSpecifications = product.specifications ?? []
+  const prominentKeys = new Set(["dimensions", "materials"])
+  const details = [
+    ...supplierSpecifications
+      .filter((specification) => prominentKeys.has(specification.key))
+      .map((specification) => ({
+        key: specification.key,
+        label: ro ? (specification.labelRo ?? specification.label) : specification.label,
+        value: ro ? (specification.valueRo ?? specification.value) : specification.value,
+      })),
+    ...(weight
+      ? [{ key: "weight", label: ro ? "Greutate brută" : "Gross weight", value: weight }]
+      : []),
+    ...(product.capacity
+      ? [{ key: "capacity", label: ro ? "Capacitate" : "Capacity", value: product.capacity }]
+      : []),
+    ...(variants.length === 0 && product.colorSwatches?.length
+      ? [
+          {
+            key: "colours",
+            label: ro ? "Culoare" : "Colour",
+            value: product.colorSwatches.map((colour) => colour.name).join(" · "),
+          },
+        ]
+      : []),
+    ...(variants.length === 0 && product.availableSizes?.length
+      ? [
+          {
+            key: "sizes",
+            label: ro ? "Mărime" : "Size",
+            value: product.availableSizes.join(" · "),
+          },
+        ]
+      : []),
+    ...supplierSpecifications
+      .filter((specification) => !prominentKeys.has(specification.key))
+      .map((specification) => ({
+        key: specification.key,
+        label: ro ? (specification.labelRo ?? specification.label) : specification.label,
+        value: ro ? (specification.valueRo ?? specification.value) : specification.value,
+      })),
+  ]
+
+  if (!description && details.length === 0) return null
+
+  return (
+    <section className="rounded-2xl border border-[var(--border-soft)] bg-[var(--surface)] p-4 sm:p-5">
+      <h2 className="text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange)]">
+        {ro ? "Detalii produs" : "Product details"}
+      </h2>
+      {description ? (
+        <div className="mt-3">
+          <Description text={description} locale={locale} />
+        </div>
+      ) : null}
+      {details.length > 0 ? (
+        <dl className="mt-5 grid grid-cols-1 gap-x-6 border-t border-[var(--border-soft)] sm:grid-cols-2">
+          {details.map((detail) => (
+            <div
+              key={detail.key}
+              className="flex min-w-0 flex-col gap-1 border-b border-[var(--border-soft)] py-3"
+            >
+              <dt className="text-[10px] font-semibold uppercase tracking-wider text-[var(--text-muted)]">
+                {detail.label}
+              </dt>
+              <dd className="break-words text-sm font-medium text-[var(--brand-black)]">
+                {detail.value}
+              </dd>
+            </div>
+          ))}
+        </dl>
+      ) : null}
+    </section>
   )
 }
 

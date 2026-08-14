@@ -77,6 +77,23 @@ test("catalog validation rejects stock labels that disagree with the numeric tot
   }
 })
 
+test("catalog validation rejects duplicate product specification keys", async () => {
+  const product = f38Product()
+  product.specifications = [
+    { key: "materials", label: "Materials", value: "Cotton" },
+    { key: "materials", label: "Materials", value: "Polyester" },
+  ]
+  const root = await fixtureRoot([product])
+  try {
+    await assert.rejects(
+      validateGeneratedCatalog({ repoRoot: root, mode: "full", now: NOW }),
+      /duplicate specification key/,
+    )
+  } finally {
+    await rm(root, { recursive: true, force: true })
+  }
+})
+
 function f38Product(): CatalogProduct {
   return {
     slug: "macma-f38",

@@ -38,6 +38,15 @@ export interface SupplierPersonalizationMethod {
   printSizes?: string[]
 }
 
+/** Supplier-provided product characteristic with bilingual presentation labels. */
+export interface ProductSpecification {
+  key: string
+  label: string
+  labelRo?: string
+  value: string
+  valueRo?: string
+}
+
 export interface CatalogProduct {
   slug: string
   name: string
@@ -60,6 +69,8 @@ export interface CatalogProduct {
   colorCount: number
   sizeCount: number
   colorSwatches?: { name: string; hex?: string }[]
+  availableSizes?: string[]
+  specifications?: ProductSpecification[]
   brand?: string
   weightGrams?: number
   capacity?: string
