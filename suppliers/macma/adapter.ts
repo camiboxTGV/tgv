@@ -1,5 +1,10 @@
 import type { Personalization } from "../../lib/content/catalog.ts"
-import type { RawProduct, RawVariant, SupplierAdapter } from "../_shared/adapter.ts"
+import type {
+  RawProduct,
+  RawVariant,
+  SupplierAdapter,
+  SupplierInventorySnapshot,
+} from "../_shared/adapter.ts"
 import { fetchJsonEndpoint } from "./fetch.ts"
 import { categoryMap, personalizationMap } from "./mapping.ts"
 import type { MacmaPrice, MacmaSku, MacmaStock } from "./types.ts"
@@ -55,8 +60,28 @@ async function loadAll(): Promise<{
     )
   }
 
-  const [skuRes, priceRes, stockRes] = await Promise.all([
+  const [skuRes, inventory] = await Promise.all([
     fetchJsonEndpoint<MacmaSku[]>(`${base}/sku.json`, "sku"),
+    loadInventory(base),
+  ])
+
+  return {
+    skus: skuRes.data,
+    prices: new Map(inventory.prices),
+    stock: new Map(inventory.stock),
+    fetchedAt: skuRes.meta.fetchedAt,
+  }
+}
+
+async function loadInventory(explicitBase?: string): Promise<SupplierInventorySnapshot> {
+  const base = explicitBase ?? baseUrl()
+  if (!base) {
+    throw new Error(
+      "MACMA_API_BASE is not set. Export MACMA_API_BASE='https://macma.ro/api/v2/<token>/en' before running sync.",
+    )
+  }
+
+  const [priceRes, stockRes] = await Promise.all([
     fetchJsonEndpoint<MacmaPrice[]>(`${base}/pricelist.json`, "pricelist"),
     fetchJsonEndpoint<MacmaStock[]>(`${base}/stock.json`, "stock"),
   ])
@@ -68,15 +93,14 @@ async function loadAll(): Promise<{
 
   const stockMap = new Map<string, number>()
   for (const s of stockRes.data) {
-    const total = (s.local ?? 0) + (s.international ?? 0)
+    const total = Math.max(0, (s.local ?? 0) + (s.international ?? 0))
     stockMap.set(s.id, total)
   }
 
   return {
-    skus: skuRes.data,
     prices: priceMap,
     stock: stockMap,
-    fetchedAt: skuRes.meta.fetchedAt,
+    fetchedAt: new Date().toISOString(),
   }
 }
 
@@ -246,6 +270,7 @@ export const adapter: SupplierAdapter = {
       out.push({
         supplierId: SUPPLIER_ID,
         supplierSku: acc.catalogcode,
+        supplierVariantIds: [...acc.variantIds],
         name: rep.name,
         description: joinSummary(rep),
         descriptionLong: acc.descriptionLong,
@@ -274,6 +299,10 @@ export const adapter: SupplierAdapter = {
     }
 
     return out
+  },
+
+  fetchInventory(): Promise<SupplierInventorySnapshot> {
+    return loadInventory()
   },
 
   mapCategory(raw) {

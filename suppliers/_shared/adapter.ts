@@ -13,6 +13,7 @@ export interface RawVariant {
 export interface RawProduct {
   supplierId: string
   supplierSku: string
+  supplierVariantIds?: string[]
   name: string
   description?: string
   descriptionLong?: string
@@ -42,8 +43,15 @@ export interface SupplierAdapter {
   id: string
   displayName: string
   fetchAll(): Promise<RawProduct[]>
+  fetchInventory?(): Promise<SupplierInventorySnapshot>
   mapCategory(raw: RawProduct): string | null
   mapPersonalizations(raw: RawProduct): Personalization[]
+}
+
+export interface SupplierInventorySnapshot {
+  fetchedAt: string
+  prices: ReadonlyMap<string, number>
+  stock: ReadonlyMap<string, number>
 }
 
 export type StockLevel = "in-stock" | "low" | "out-of-stock"
