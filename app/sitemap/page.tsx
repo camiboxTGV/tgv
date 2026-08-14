@@ -6,7 +6,7 @@ import { services } from "@/lib/content/services"
 export const metadata: Metadata = {
   title: "Sitemap — TGV-Media",
   description:
-    "Every page on the TGV-Media site, organized by section. Find services, catalog categories, your offer and legal information at a glance.",
+    "Every page on the TGV-Media site, organized by section. Find services, techniques, catalog categories and your offer at a glance.",
 }
 
 interface SitemapLink {
@@ -38,6 +38,7 @@ export default function SitemapPage() {
       intro: "Everything we produce, organized by capability.",
       links: [
         { href: "/services", label: "Services overview", description: "All four services on one page." },
+        { href: "/techniques", label: "Decoration techniques", description: "Nine in-house techniques and where each one fits." },
         ...services.map((s) => ({
           href: `/services/${s.slug}`,
           label: s.title,
@@ -65,12 +66,10 @@ export default function SitemapPage() {
       ],
     },
     {
-      title: "Legal",
-      intro: "Policies, terms and the page you're reading right now.",
+      title: "Site information",
+      intro: "Navigation and site structure.",
       links: [
         { href: "/sitemap", label: "Sitemap", description: "This page." },
-        { href: "/privacy", label: "Privacy policy" },
-        { href: "/terms", label: "Terms of service" },
       ],
     },
   ]

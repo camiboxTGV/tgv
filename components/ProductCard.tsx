@@ -9,6 +9,7 @@ import {
 
 interface Props {
   product: CatalogProduct
+  priority?: boolean
 }
 
 function formatPrice(value: number): string {
@@ -30,7 +31,7 @@ function formatAsOfDate(iso: string): string {
   }).format(date)
 }
 
-export default function ProductCard({ product }: Readonly<Props>) {
+export default function ProductCard({ product, priority = false }: Readonly<Props>) {
   const firstImage = product.images[0]
   const asOf = formatAsOfDate(product.fetchedAt)
   const detailHref = `/catalog/${product.category}/${product.slug}`
@@ -50,6 +51,7 @@ export default function ProductCard({ product }: Readonly<Props>) {
               src={firstImage}
               alt={product.name}
               fill
+              loading={priority ? "eager" : "lazy"}
               sizes="(min-width: 1024px) 320px, (min-width: 640px) 45vw, 90vw"
               className="object-cover transition-transform duration-500 group-hover:scale-[1.04]"
             />

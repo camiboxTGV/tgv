@@ -378,8 +378,12 @@ function LeafProducts({ slug }: Readonly<{ slug: string[] }>) {
   return (
     <section className="mx-auto px-6 lg:px-8 py-12 lg:py-16 max-w-6xl">
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-        {products.map((product) => (
-          <ProductCard key={product.slug} product={product} />
+        {products.map((product, index) => (
+          <ProductCard
+            key={product.slug}
+            product={product}
+            priority={index < 3}
+          />
         ))}
       </div>
     </section>
@@ -396,16 +400,16 @@ function SubcategoryGrid({
   return (
     <section className="mx-auto px-6 lg:px-8 py-12 lg:py-16 max-w-6xl">
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-        {subcategories.map((child) => (
+        {subcategories.map((child, index) => (
           <CategoryCard
             key={child.slug}
             category={child}
             href={`/catalog/${[...parentPath, child.slug].join("/")}`}
             productCount={countProductsUnder(child, parentPath)}
+            priority={index < 3}
           />
         ))}
       </div>
     </section>
   )
 }
-
