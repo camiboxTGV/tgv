@@ -6,6 +6,8 @@ export const runtime = "nodejs"
 
 const MAX_SOURCE_BYTES = 25 * 1024 * 1024
 const FETCH_TIMEOUT_MS = 20_000
+const FETCH_ATTEMPTS = 3
+const FETCH_RETRY_BASE_DELAY_MS = 250
 
 interface RouteContext {
   params: Promise<{
@@ -36,11 +38,7 @@ export async function GET(request: Request, context: RouteContext): Promise<Resp
   const controller = new AbortController()
   const timeout = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS)
   try {
-    const upstream = await fetch(source.sourceUrl, {
-      redirect: "error",
-      signal: controller.signal,
-      headers: { "User-Agent": "TGV-Media-Catalog-Image/1.0" },
-    })
+    const upstream = await fetchSupplierImage(source.sourceUrl, controller.signal)
     if (!upstream.ok) return imageError(502, `supplier returned HTTP ${upstream.status}`)
 
     const contentType = upstream.headers.get("content-type")?.toLowerCase() ?? ""
@@ -77,6 +75,53 @@ export async function GET(request: Request, context: RouteContext): Promise<Resp
   } finally {
     clearTimeout(timeout)
   }
+}
+
+async function fetchSupplierImage(sourceUrl: string, signal: AbortSignal): Promise<Response> {
+  let lastError: unknown
+
+  for (let attempt = 1; attempt <= FETCH_ATTEMPTS; attempt += 1) {
+    try {
+      const response = await fetch(sourceUrl, {
+        redirect: "error",
+        signal,
+        headers: { "User-Agent": "TGV-Media-Catalog-Image/1.0" },
+      })
+      if (response.ok || !isRetryableStatus(response.status) || attempt === FETCH_ATTEMPTS) {
+        return response
+      }
+    } catch (error) {
+      lastError = error
+      if (signal.aborted || attempt === FETCH_ATTEMPTS) throw error
+    }
+
+    await waitForRetry(FETCH_RETRY_BASE_DELAY_MS * 2 ** (attempt - 1), signal)
+  }
+
+  throw lastError instanceof Error ? lastError : new Error("supplier image fetch failed")
+}
+
+function isRetryableStatus(status: number): boolean {
+  return status === 408 || status === 425 || status === 429 || status >= 500
+}
+
+function waitForRetry(delayMs: number, signal: AbortSignal): Promise<void> {
+  return new Promise((resolve, reject) => {
+    if (signal.aborted) {
+      reject(signal.reason)
+      return
+    }
+
+    const onAbort = () => {
+      clearTimeout(timer)
+      reject(signal.reason)
+    }
+    const timer = setTimeout(() => {
+      signal.removeEventListener("abort", onAbort)
+      resolve()
+    }, delayMs)
+    signal.addEventListener("abort", onAbort, { once: true })
+  })
 }
 
 function imageHeaders(etag: string): Headers {
