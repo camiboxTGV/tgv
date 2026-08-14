@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "test": "node --experimental-strip-types --test --test-concurrency=1 suppliers/_shared/*.test.ts lib/content/*.test.ts lib/pricing/*.test.ts",
-    "sync:catalog": "node --env-file-if-exists=.env.local --experimental-strip-types scripts/sync-catalog.ts"
+    "sync:catalog": "node --env-file-if-exists=.env.local --experimental-strip-types scripts/sync-catalog.ts",
+    "verify:catalog-sync": "node --experimental-strip-types scripts/verify-generated-catalog.ts"
   },
   "dependencies": {
     "fuse.js": "^7.3.0",
