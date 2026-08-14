@@ -129,6 +129,7 @@ function imageHeaders(etag: string): Headers {
     "Cache-Control": "public, max-age=31536000, s-maxage=31536000, immutable",
     "Content-Type": "image/webp",
     ETag: etag,
+    "X-Catalog-Image-Retry-Limit": String(FETCH_ATTEMPTS),
     "X-Content-Type-Options": "nosniff",
   })
 }
