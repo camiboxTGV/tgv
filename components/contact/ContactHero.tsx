@@ -27,8 +27,8 @@ export default function ContactHero() {
     <div className="relative flex flex-col gap-10 p-8 lg:p-10 bg-[var(--brand-black)] text-white rounded-3xl overflow-hidden">
       <DotPattern />
       <div className="relative">
-        <span className="block w-16 h-1 bg-[var(--brand-orange)]" />
-        <p className="mt-6 text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange)]">
+        <span className="block w-16 h-1 bg-[var(--brand-orange-bright)]" />
+        <p className="mt-6 text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange-bright)]">
           Brief
         </p>
         <h1 className="mt-3 text-3xl sm:text-4xl lg:text-5xl font-[family-name:var(--font-outfit)] font-semibold leading-tight">
@@ -43,7 +43,7 @@ export default function ContactHero() {
       <ol className="relative flex flex-col gap-6">
         {STEPS.map((step) => (
           <li key={step.n} className="flex items-start gap-5">
-            <span className="text-3xl lg:text-4xl font-[family-name:var(--font-outfit)] font-bold text-[var(--brand-orange)]">
+            <span className="text-3xl lg:text-4xl font-[family-name:var(--font-outfit)] font-bold text-[var(--brand-orange-bright)]">
               {step.n}
             </span>
             <div className="flex flex-col gap-1">

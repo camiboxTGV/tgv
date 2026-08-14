@@ -1,9 +1,15 @@
+import {
+  PORTFOLIO_CATEGORY_LABELS,
+  type PortfolioCategory,
+} from "./portfolio.ts"
+
 export interface CategoryNode {
   slug: string
   name: string
   description?: string
   accent?: string
   image?: string
+  contentType?: "product" | "project"
   children?: CategoryNode[]
 }
 
@@ -16,6 +22,16 @@ const GRADIENTS = [
   "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
   "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
 ]
+
+const bespokeSubcategories: CategoryNode[] = (
+  Object.entries(PORTFOLIO_CATEGORY_LABELS) as [PortfolioCategory, string][]
+).map(([slug, name], index) => ({
+  slug,
+  name,
+  description: `Selected ${name.toLowerCase()} projects, designed and produced to brief.`,
+  accent: GRADIENTS[index % GRADIENTS.length],
+  contentType: "project",
+}))
 
 function leaf(name: string): CategoryNode {
   return { slug: toSlug(name), name }
@@ -37,6 +53,16 @@ function toSlug(name: string): string {
 }
 
 export const categoryTree: CategoryNode[] = [
+  {
+    slug: "bespoke-and-custom-fabrication",
+    name: "Bespoke & Custom Fabrication",
+    description:
+      "One-off builds and tailored production, organised by the same disciplines used in our portfolio.",
+    accent: GRADIENTS[3],
+    contentType: "project",
+    children: bespokeSubcategories,
+  },
+
   group("Accommodation & Travel", [
     leaf("Travel Accessories"),
     leaf("Travel Bags & Luggage"),
@@ -318,6 +344,11 @@ export function splitPath(path: string): string[] {
 
 export function isLeaf(node: CategoryNode): boolean {
   return !node.children || node.children.length === 0
+}
+
+export function categoryItemLabel(node: CategoryNode, count: number): string {
+  const item = node.contentType === "project" ? "project" : "product"
+  return count === 1 ? item : `${item}s`
 }
 
 export function descendantLeafPaths(node: CategoryNode, trail: string[] = []): string[][] {

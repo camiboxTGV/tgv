@@ -1,6 +1,9 @@
 import Image from "next/image"
 import Link from "next/link"
-import type { CategoryNode } from "@/lib/content/categories"
+import {
+  categoryItemLabel,
+  type CategoryNode,
+} from "@/lib/content/categories"
 
 interface Props {
   category: CategoryNode
@@ -40,7 +43,7 @@ export default function CategoryCard({
           />
         )}
         <span className="absolute top-3 left-3 px-2.5 py-1 text-xs font-medium text-white bg-black/35 backdrop-blur-sm rounded-full">
-          {productCount} {productCount === 1 ? "product" : "products"}
+          {productCount} {categoryItemLabel(category, productCount)}
         </span>
       </div>
       <div className="flex flex-col gap-1.5">
