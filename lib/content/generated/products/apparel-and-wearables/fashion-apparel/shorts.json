@@ -11,13 +11,18 @@
     ],
     "supplierId": "macma",
     "supplierSku": "BEVADES",
+    "supplierVariantIds": [
+      "BEVADESNG21",
+      "BEVADESNG24",
+      "BEVADESNG25"
+    ],
     "price": 9.33,
     "priceFrom": true,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/bevades-black_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T12:37:55.075Z",
     "variantCount": 3,
     "colorCount": 1,
     "sizeCount": 1,
@@ -44,6 +49,13 @@
     ],
     "supplierId": "macma",
     "supplierSku": "BEVAQUE",
+    "supplierVariantIds": [
+      "BEVAQUEGN20",
+      "BEVAQUEGN22",
+      "BEVAQUEGN24",
+      "BEVAQUEGN25",
+      "BEVAQUERN22"
+    ],
     "price": 17.03,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -51,7 +63,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/bevaque-charcoalgrey_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/bevaque-lottored-black_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T12:37:55.075Z",
     "variantCount": 5,
     "colorCount": 2,
     "sizeCount": 2,

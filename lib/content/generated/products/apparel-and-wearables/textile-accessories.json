@@ -8,13 +8,18 @@
     "personalizations": [],
     "supplierId": "macma",
     "supplierSku": "CQVAHEL",
+    "supplierVariantIds": [
+      "CQVAHELVQ21",
+      "CQVAHELVQ23",
+      "CQVAHELVQ24"
+    ],
     "price": 8.52,
     "priceFrom": false,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/cqvahel-surgicalgreen_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T12:37:55.075Z",
     "variantCount": 3,
     "colorCount": 1,
     "sizeCount": 2,
@@ -41,6 +46,11 @@
     ],
     "supplierId": "macma",
     "supplierSku": "SO01211",
+    "supplierVariantIds": [
+      "SO01211WH/FNV-U",
+      "SO01211WH/FU-U",
+      "SO01211WH/MEG-U"
+    ],
     "price": 2.42,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -49,7 +59,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01211-whitefuchsia_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01211-whitemelangegrey_a1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T12:37:55.075Z",
     "variantCount": 3,
     "colorCount": 1,
     "sizeCount": 1,
@@ -75,13 +85,20 @@
     ],
     "supplierId": "macma",
     "supplierSku": "ST9691",
+    "supplierVariantIds": [
+      "ST9691-BLO-L",
+      "ST9691-BLO-M",
+      "ST9691-BLO-S",
+      "ST9691-BLO-XL",
+      "ST9691-BLO-XXL"
+    ],
     "price": 15.54,
     "priceFrom": false,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st9691-blackopal.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T12:37:55.075Z",
     "variantCount": 5,
     "colorCount": 1,
     "sizeCount": 4,

@@ -10,6 +10,11 @@
     ],
     "supplierId": "macma",
     "supplierSku": "61817",
+    "supplierVariantIds": [
+      "6181709",
+      "6181701",
+      "6181702"
+    ],
     "price": 0.47,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -24,7 +29,7 @@
       "https://macma.ro/products/jpg/M/6181702_1.jpg",
       "https://macma.ro/products/jpg/M/6181702_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T12:37:55.075Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -58,6 +63,11 @@
     ],
     "supplierId": "macma",
     "supplierSku": "61818",
+    "supplierVariantIds": [
+      "6181802",
+      "6181801",
+      "6181809"
+    ],
     "price": 0.24,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -73,7 +83,7 @@
       "https://macma.ro/products/jpg/M/6181809_2.jpg",
       "https://macma.ro/products/jpg/M/6181809_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T12:37:55.075Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -107,6 +117,9 @@
     ],
     "supplierId": "macma",
     "supplierSku": "83531",
+    "supplierVariantIds": [
+      "83531MA"
+    ],
     "price": 0.53,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -116,7 +129,7 @@
       "https://macma.ro/products/jpg/M/83531ma_2.jpg",
       "https://macma.ro/products/jpg/M/83531ma_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T12:37:55.075Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

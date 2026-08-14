@@ -1,8 +1,9 @@
 [
   {
     "contentKey": "04dd8835ca419944",
-    "stock": 0,
-    "stockLevel": "out-of-stock",
+    "supplierVariantId": "9348112",
+    "stock": 4,
+    "stockLevel": "low",
     "price": 0.27,
     "color": {
       "name": "Violet",
@@ -14,6 +15,7 @@
   },
   {
     "contentKey": "3a9410fde36d7f25",
+    "supplierVariantId": "9348110",
     "stock": 326,
     "stockLevel": "in-stock",
     "price": 0.27,
@@ -29,6 +31,7 @@
   },
   {
     "contentKey": "506872662499047e",
+    "supplierVariantId": "9348108",
     "stock": 904,
     "stockLevel": "in-stock",
     "price": 0.27,
@@ -42,6 +45,7 @@
   },
   {
     "contentKey": "72112b0b4bd28861",
+    "supplierVariantId": "9348124",
     "stock": 4597,
     "stockLevel": "in-stock",
     "price": 0.27,
