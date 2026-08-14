@@ -39,7 +39,7 @@ export default function OfferToast() {
           key={t.id}
           className="flex items-center gap-3 px-4 py-3 max-w-sm text-sm text-white bg-[var(--brand-black)] border border-white/10 rounded-full shadow-xl pointer-events-auto"
         >
-          <span className="inline-flex items-center justify-center w-5 h-5 text-[var(--brand-black)] bg-[var(--brand-orange)] rounded-full">
+          <span className="inline-flex items-center justify-center w-5 h-5 text-white bg-[var(--brand-orange)] rounded-full">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               width="12"
@@ -60,7 +60,7 @@ export default function OfferToast() {
           </span>
           <Link
             href="/offer"
-            className="ml-2 text-xs font-semibold text-[var(--brand-orange)] hover:text-white transition-colors whitespace-nowrap"
+            className="ml-2 text-xs font-semibold text-[var(--brand-orange-bright)] hover:text-white transition-colors whitespace-nowrap"
           >
             View ({t.totalCount}) →
           </Link>

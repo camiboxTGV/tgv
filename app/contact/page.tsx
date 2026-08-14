@@ -3,6 +3,7 @@ import { Suspense } from "react"
 import ContactHero from "@/components/contact/ContactHero"
 import ContactForm from "@/components/contact/ContactForm"
 import ContactDetails from "@/components/contact/ContactDetails"
+import TeamPortraits from "@/components/contact/TeamPortraits"
 
 export const metadata: Metadata = {
   title: "Contact — TGV-Media",
@@ -31,6 +32,7 @@ export default async function ContactPage({ searchParams }: ContactPageProps) {
     <section className="flex flex-col gap-16 lg:gap-20 mx-auto px-6 lg:px-8 pt-16 pb-24 lg:pt-20 lg:pb-32 max-w-7xl">
       {fromOffer ? briefBlock : <ContactDetails />}
       {fromOffer ? <ContactDetails /> : briefBlock}
+      <TeamPortraits />
     </section>
   )
 }

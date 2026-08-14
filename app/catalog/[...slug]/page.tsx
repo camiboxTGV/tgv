@@ -19,6 +19,7 @@ import {
 } from "@/lib/content/catalog.server"
 import {
   breadcrumbsFor,
+  categoryItemLabel,
   findNode,
   isLeaf,
   joinPath,
@@ -200,7 +201,10 @@ function CategoryView({ segments }: Readonly<{ segments: string[] }>) {
           </p>
         ) : null}
         <p className="relative mt-3 text-sm text-[var(--text-muted)]">
-          {totalCount} {totalCount === 1 ? "product" : "products"} available for personalization.
+          {totalCount} {categoryItemLabel(node, totalCount)}{" "}
+          {node.contentType === "project"
+            ? "featured in this category."
+            : "available for personalization."}
         </p>
       </section>
 
@@ -367,6 +371,40 @@ function CrumbItem({
 function LeafProducts({ slug }: Readonly<{ slug: string[] }>) {
   const products = getProductsByCategoryPath(slug)
   if (products.length === 0) {
+    const node = findNode(slug)
+    if (node?.contentType === "project") {
+      return (
+        <section className="mx-auto px-6 lg:px-8 py-12 lg:py-16 max-w-6xl">
+          <div className="flex flex-col items-start max-w-2xl p-7 sm:p-9 bg-[var(--surface)] border border-[var(--border)] rounded-3xl">
+            <p className="text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange)]">
+              Bespoke portfolio
+            </p>
+            <h2 className="mt-3 text-2xl sm:text-3xl font-[family-name:var(--font-outfit)] font-semibold text-[var(--brand-black)]">
+              New projects will appear here as they leave the studio.
+            </h2>
+            <p className="mt-3 text-sm sm:text-base leading-relaxed text-[var(--text-soft)]">
+              Until then, explore our wider portfolio or brief us on the piece
+              you need — our team can take it from concept to production.
+            </p>
+            <div className="flex flex-wrap gap-3 mt-6">
+              <Link
+                href="/portfolio"
+                className="inline-flex items-center gap-2 px-5 py-2.5 text-sm font-semibold text-white bg-[var(--brand-orange)] hover:bg-[var(--brand-orange-hover)] rounded-full transition-colors"
+              >
+                View portfolio
+                <span aria-hidden="true">→</span>
+              </Link>
+              <Link
+                href="/contact"
+                className="inline-flex items-center px-5 py-2.5 text-sm font-semibold text-[var(--brand-black)] border border-[var(--border-strong)] hover:bg-[var(--surface-soft)] rounded-full transition-colors"
+              >
+                Start a custom project
+              </Link>
+            </div>
+          </div>
+        </section>
+      )
+    }
     return (
       <section className="mx-auto px-6 lg:px-8 py-12 lg:py-16 max-w-6xl">
         <p className="text-sm text-[var(--text-muted)]">
