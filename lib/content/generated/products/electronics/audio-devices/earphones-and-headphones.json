@@ -6,10 +6,21 @@
     "summary": "Bluetooth headphones with volume control. Signal range up to 10m, 4.2 bluetooth, 5V. The headphones are supplied in a case.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "30471",
+    "supplierVariantIds": [
+      "3047106"
+    ],
     "price": 4.86,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -23,7 +34,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/3047106_lifestyle_4.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/3047106_lifestyle_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -45,10 +56,21 @@
     "summary": "Bluetooth headset with volume control and USB charging cable in a plastic case with hanging loop.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "30822",
+    "supplierVariantIds": [
+      "3082203"
+    ],
     "price": 2.29,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -60,7 +82,7 @@
       "https://macma.ro/products/jpg/M/3082203_4.jpg",
       "https://macma.ro/products/jpg/M/3082203_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -84,8 +106,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "30921",
+    "supplierVariantIds": [
+      "3092103",
+      "3092104",
+      "3092105"
+    ],
     "price": 13.39,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -107,7 +142,7 @@
       "https://macma.ro/products/jpg/M/3092105_3.jpg",
       "https://macma.ro/products/jpg/M/3092105_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -137,11 +172,28 @@
     "summary": "Ergonomic In Ear Bluetooth headphones with USB charging cable and charging cradle, which also serves as packaging. Runtime 2-3 hours, standby time 120h, charging time about 1 hour, max distance about 8.3m, 35 mAh batt...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "31462",
+    "supplierVariantIds": [
+      "3146206"
+    ],
     "price": 8.79,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -157,7 +209,7 @@
       "https://macma.ro/products/jpg/M/3146206_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/3146206_lifestyle_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -179,10 +231,21 @@
     "summary": "Headset with sorround sound, microphone and volume control. With the existing noise cancelling you won't hear any background noise.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "32316",
+    "supplierVariantIds": [
+      "3231603"
+    ],
     "price": 11.09,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -193,7 +256,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/3231603_lifestyle_3.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/3231603_lifestyle_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -216,10 +279,27 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "32579",
+    "supplierVariantIds": [
+      "3257913"
+    ],
     "price": 7.28,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -237,7 +317,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/3257913_lifestyle_3.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/3257913_lifestyle_8.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -260,10 +340,27 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "33209",
+    "supplierVariantIds": [
+      "3320903"
+    ],
     "price": 12.81,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -278,7 +375,7 @@
       "https://macma.ro/products/jpg/M/3320903_7.jpg",
       "https://macma.ro/products/jpg/M/3320903_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -300,10 +397,21 @@
     "summary": "Bluetooth over-ear headphones (200mAh, 3.7V) with noise cancellation function, very comfortable to wear and rechargeable battery. Adjustable size, play time of up to 8 hours when fully charged. Bluetooth version 5.4.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "35252",
+    "supplierVariantIds": [
+      "3525203"
+    ],
     "price": 15.55,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -316,7 +424,7 @@
       "https://macma.ro/products/jpg/M/3525203_4.jpg",
       "https://macma.ro/products/jpg/M/3525203_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

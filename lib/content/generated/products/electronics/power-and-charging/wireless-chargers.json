@@ -6,11 +6,28 @@
     "summary": "Charge your device easily without the need of cables, by simply placing your smartphone over the induction charger. This item is particularly suitable for the current Samsung and Apple smartphones starting from iPhone 8.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "20736",
+    "supplierVariantIds": [
+      "2073606"
+    ],
     "price": 2.43,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -21,7 +38,7 @@
       "https://macma.ro/products/jpg/M/2073606_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/2073606_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -44,10 +61,27 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "21851",
+    "supplierVariantIds": [
+      "2185113"
+    ],
     "price": 9.31,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -60,7 +94,7 @@
       "https://macma.ro/products/jpg/M/2185113_5.jpg",
       "https://macma.ro/products/jpg/M/2185113_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -82,10 +116,21 @@
     "summary": "Wireless Charger made from limestone cement and cork for perfect Hold. Suitable with for al QI-compatible Mobile Phones.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "22425",
+    "supplierVariantIds": [
+      "2242507"
+    ],
     "price": 5.53,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -99,7 +144,7 @@
       "https://macma.ro/products/jpg/M/2242507_7.jpg",
       "https://macma.ro/products/jpg/M/2242507_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -122,10 +167,33 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      },
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "23242",
+    "supplierVariantIds": [
+      "2324213"
+    ],
     "price": 17.32,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -141,7 +209,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/2324213_lifestyle_3.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/2324213_lifestyle_8.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -164,10 +232,31 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": [
+          "5 × 3"
+        ]
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "5 × 3"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "31455",
+    "supplierVariantIds": [
+      "3145513"
+    ],
     "price": 4.06,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -180,7 +269,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/3145513_lifestyle_5.jpg",
       "https://macma.ro/products/jpg/M/3145513_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -203,10 +292,27 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "31499",
+    "supplierVariantIds": [
+      "3149913"
+    ],
     "price": 6.29,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -218,7 +324,7 @@
       "https://macma.ro/products/jpg/M/3149913_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/3149913_lifestyle_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -240,10 +346,21 @@
     "summary": "Bamboo desk clock with smartphone holder, wireless charger, and storage compartment. USB charging cable included.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "31515",
+    "supplierVariantIds": [
+      "3151513"
+    ],
     "price": 16.35,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -259,7 +376,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/3151513_lifestyle_5.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/3151513_lifestyle_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -282,10 +399,27 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "33194",
+    "supplierVariantIds": [
+      "3319413"
+    ],
     "price": 11.49,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -297,7 +431,7 @@
       "https://macma.ro/products/jpg/M/3319413_5.jpg",
       "https://macma.ro/products/jpg/M/3319413_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -320,10 +454,27 @@
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "33597",
+    "supplierVariantIds": [
+      "3359713"
+    ],
     "price": 25.27,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -338,7 +489,7 @@
       "https://macma.ro/products/jpg/M/3359713_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/3359713_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -360,11 +511,28 @@
     "summary": "Plastic wireless charger with 2 USB ports, charging cable included. Charges all QI enabled smartphones.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "33598",
+    "supplierVariantIds": [
+      "3359806"
+    ],
     "price": 2.83,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -375,7 +543,7 @@
       "https://macma.ro/products/jpg/M/3359806_4.jpg",
       "https://macma.ro/products/jpg/M/3359806_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -399,8 +567,19 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "33947",
+    "supplierVariantIds": [
+      "3394703"
+    ],
     "price": 8.16,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -415,7 +594,7 @@
       "https://macma.ro/products/jpg/M/3394703_8.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/3394703_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -439,8 +618,19 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "34241",
+    "supplierVariantIds": [
+      "3424103"
+    ],
     "price": 6.38,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -453,7 +643,7 @@
       "https://macma.ro/products/jpg/M/3424103_4.jpg",
       "https://macma.ro/products/jpg/M/3424103_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -475,8 +665,12 @@
     "summary": "Elegant Pierre Cardin phone stand with 15W wireless charging function. It is suitable for all types of smartphones and iPhones. The phone can be inserted into the stand in either a vertical or horizontal position. The...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "B1100100IP3",
+    "supplierVariantIds": [
+      "B1100100IP3"
+    ],
     "price": 20.53,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -487,7 +681,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b1100100ip3_c.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b1100100ip3_d.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -509,8 +703,12 @@
     "summary": "An elegant Pierre Cardin phone stand with 15W wireless charging function. The stand is made of wood imitation, which gives it a luxurious look. It includes a plastic frame with 3 shades of light. Input with USB Type-C...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "B1100300IP3",
+    "supplierVariantIds": [
+      "B1100300IP3"
+    ],
     "price": 19.01,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -523,7 +721,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b1100300ip3_e_0.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b1100300ip3_f_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

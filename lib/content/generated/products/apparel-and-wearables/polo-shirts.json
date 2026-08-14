@@ -6,11 +6,148 @@
     "summary": "Men's short-sleeved polo shirt made of 65% Polyester + 35% Cotton, piqué, three button fused placket with new self-coloured buttons, taped neckline, reineforced shoulder seams with single needle stitchin.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "F22",
+    "supplierVariantIds": [
+      "F220106",
+      "F220107",
+      "F220108",
+      "F220109",
+      "F220110",
+      "F220111",
+      "F220112",
+      "F220117",
+      "F220306",
+      "F220307",
+      "F220308",
+      "F220309",
+      "F220310",
+      "F220311",
+      "F220312",
+      "F220317",
+      "F220406",
+      "F220407",
+      "F220408",
+      "F220409",
+      "F220410",
+      "F220411",
+      "F220412",
+      "F220417",
+      "F220506",
+      "F220507",
+      "F220508",
+      "F220509",
+      "F220510",
+      "F220511",
+      "F220606",
+      "F220607",
+      "F220608",
+      "F220609",
+      "F220610",
+      "F220611",
+      "F220706",
+      "F220707",
+      "F220708",
+      "F220709",
+      "F220710",
+      "F220711",
+      "F220806",
+      "F220807",
+      "F220808",
+      "F220809",
+      "F220810",
+      "F220811",
+      "F221006",
+      "F221007",
+      "F221008",
+      "F221009",
+      "F221010",
+      "F221011",
+      "F221206",
+      "F221207",
+      "F221208",
+      "F221209",
+      "F221210",
+      "F221211",
+      "F221406",
+      "F221407",
+      "F221408",
+      "F221409",
+      "F221410",
+      "F221411",
+      "F221506",
+      "F221507",
+      "F221508",
+      "F221509",
+      "F221510",
+      "F221511",
+      "F221512",
+      "F221517",
+      "F222006",
+      "F222007",
+      "F222008",
+      "F222009",
+      "F222010",
+      "F222011",
+      "F223006",
+      "F223007",
+      "F223008",
+      "F223009",
+      "F223010",
+      "F223011",
+      "F223906",
+      "F223907",
+      "F223908",
+      "F223909",
+      "F223910",
+      "F223911",
+      "F224906",
+      "F224907",
+      "F224910",
+      "F224911",
+      "F225506",
+      "F225507",
+      "F225508",
+      "F225509",
+      "F225510"
+    ],
     "price": 5.6,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -32,7 +169,7 @@
       "https://macma.ro/products/jpg/TEXTIL/FRUIT/f22-heatherroyal_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/FRUIT/f22-heatherred_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 101,
     "colorCount": 16,
     "sizeCount": 4,
@@ -123,7 +260,7 @@
         "label": "Transfer screen printing",
         "labelRo": "Serigrafie prin transfer",
         "printSizes": [
-          "21 × 29 cm"
+          "21 × 29"
         ]
       },
       {
@@ -131,7 +268,7 @@
         "label": "Digital printing on coloured textiles",
         "labelRo": "Imprimare digitală pe textile colorate",
         "printSizes": [
-          "21 × 29 cm"
+          "21 × 29"
         ]
       },
       {
@@ -139,7 +276,7 @@
         "label": "Digital transfer",
         "labelRo": "Transfer digital",
         "printSizes": [
-          "21 × 29 cm"
+          "21 × 29"
         ]
       },
       {
@@ -147,12 +284,73 @@
         "label": "Digital printing on white textiles",
         "labelRo": "Imprimare digitală pe textile albe",
         "printSizes": [
-          "21 × 29 cm"
+          "21 × 29"
         ]
       }
     ],
     "supplierId": "macma",
     "supplierSku": "F38",
+    "supplierVariantIds": [
+      "F380101",
+      "F380102",
+      "F380103",
+      "F380104",
+      "F380115",
+      "F380116",
+      "F380301",
+      "F380302",
+      "F380303",
+      "F380304",
+      "F380315",
+      "F380316",
+      "F380501",
+      "F380502",
+      "F380503",
+      "F380504",
+      "F380515",
+      "F380516",
+      "F380601",
+      "F380602",
+      "F380603",
+      "F380604",
+      "F380615",
+      "F380616",
+      "F380701",
+      "F380702",
+      "F380703",
+      "F380704",
+      "F380715",
+      "F380716",
+      "F380801",
+      "F380802",
+      "F380803",
+      "F380804",
+      "F380815",
+      "F380816",
+      "F381201",
+      "F381202",
+      "F381203",
+      "F381204",
+      "F381215",
+      "F381216",
+      "F381501",
+      "F381502",
+      "F381503",
+      "F381504",
+      "F381515",
+      "F382001",
+      "F382002",
+      "F382003",
+      "F382004",
+      "F382015",
+      "F382016",
+      "F383901",
+      "F383902",
+      "F383903",
+      "F383904",
+      "F383915",
+      "F383916"
+    ],
     "price": 4.68,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -168,7 +366,7 @@
       "https://macma.ro/products/jpg/TEXTIL/FRUIT/f38-sunflower_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/FRUIT/f38-deepnavy_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 59,
     "colorCount": 10,
     "sizeCount": 6,
@@ -226,11 +424,107 @@
     "summary": "100% ringspun cotton short-sleeved polo shirt. Two button placket with self-coloured pearlized buttons. Double needle stitching a sleeve and bottom hem. Perfect for fashion, retail, leisure, tourism.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "F66",
+    "supplierVariantIds": [
+      "F660106",
+      "F660107",
+      "F660108",
+      "F660109",
+      "F660110",
+      "F660111",
+      "F660306",
+      "F660307",
+      "F660308",
+      "F660309",
+      "F660310",
+      "F660311",
+      "F660506",
+      "F660507",
+      "F660508",
+      "F660509",
+      "F660510",
+      "F660511",
+      "F660706",
+      "F660707",
+      "F660708",
+      "F660709",
+      "F660710",
+      "F660711",
+      "F660806",
+      "F660807",
+      "F660808",
+      "F660809",
+      "F660810",
+      "F660811",
+      "F661206",
+      "F661207",
+      "F661208",
+      "F661209",
+      "F661210",
+      "F661211",
+      "F661506",
+      "F661507",
+      "F661508",
+      "F661509",
+      "F661510",
+      "F661511",
+      "F662106",
+      "F662107",
+      "F662108",
+      "F662109",
+      "F662110",
+      "F662111",
+      "F662306",
+      "F662307",
+      "F662308",
+      "F662309",
+      "F662310",
+      "F662311",
+      "F663906",
+      "F663907",
+      "F663908",
+      "F663909",
+      "F663910",
+      "F663911"
+    ],
     "price": 4.42,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -246,7 +540,7 @@
       "https://macma.ro/products/jpg/TEXTIL/FRUIT/f66-lightgraphite_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/FRUIT/f66-deepnavy_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 60,
     "colorCount": 10,
     "sizeCount": 4,
@@ -304,11 +598,77 @@
     "summary": "Women's short-sleeved polo shirt in functional style and easy to care. Minimal ironing and ideal for workwear. Longer body length, fused placket with two self-coloured buttons.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "F68",
+    "supplierVariantIds": [
+      "F680106",
+      "F680107",
+      "F680108",
+      "F680109",
+      "F680110",
+      "F680113",
+      "F680306",
+      "F680307",
+      "F680308",
+      "F680309",
+      "F680310",
+      "F680313",
+      "F680506",
+      "F680507",
+      "F680508",
+      "F680509",
+      "F680510",
+      "F680513",
+      "F680706",
+      "F680707",
+      "F680708",
+      "F680709",
+      "F680710",
+      "F680713",
+      "F681206",
+      "F681207",
+      "F681208",
+      "F681209",
+      "F681210",
+      "F681213"
+    ],
     "price": 5.82,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -319,7 +679,7 @@
       "https://macma.ro/products/jpg/TEXTIL/FRUIT/f68-royalblue_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/FRUIT/f68-skyblue_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 30,
     "colorCount": 5,
     "sizeCount": 5,
@@ -357,11 +717,140 @@
     "summary": "New women's short-sleeved polo shirt shaped side seams with side vents for feminine fit, two-button placket in the same colour like poloshirt.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "FN01",
+    "supplierVariantIds": [
+      "FN010106",
+      "FN010107",
+      "FN010108",
+      "FN010109",
+      "FN010110",
+      "FN010113",
+      "FN010306",
+      "FN010307",
+      "FN010308",
+      "FN010309",
+      "FN010310",
+      "FN010313",
+      "FN010406",
+      "FN010407",
+      "FN010408",
+      "FN010409",
+      "FN010410",
+      "FN010413",
+      "FN010506",
+      "FN010507",
+      "FN010508",
+      "FN010509",
+      "FN010510",
+      "FN010513",
+      "FN010706",
+      "FN010707",
+      "FN010708",
+      "FN010709",
+      "FN010710",
+      "FN010713",
+      "FN010806",
+      "FN010807",
+      "FN010808",
+      "FN010809",
+      "FN010810",
+      "FN010813",
+      "FN011006",
+      "FN011007",
+      "FN011008",
+      "FN011009",
+      "FN011010",
+      "FN011013",
+      "FN011206",
+      "FN011207",
+      "FN011208",
+      "FN011209",
+      "FN011210",
+      "FN011213",
+      "FN011406",
+      "FN011407",
+      "FN011408",
+      "FN011409",
+      "FN011410",
+      "FN011413",
+      "FN011506",
+      "FN011507",
+      "FN011508",
+      "FN011509",
+      "FN011510",
+      "FN011513",
+      "FN012106",
+      "FN012107",
+      "FN012108",
+      "FN012109",
+      "FN012110",
+      "FN012113",
+      "FN012306",
+      "FN012307",
+      "FN012308",
+      "FN012309",
+      "FN012310",
+      "FN012313",
+      "FN012506",
+      "FN012507",
+      "FN012508",
+      "FN012509",
+      "FN012510",
+      "FN012513",
+      "FN013009",
+      "FN013010",
+      "FN013013",
+      "FN013906",
+      "FN013907",
+      "FN013908",
+      "FN013909",
+      "FN013910",
+      "FN013913",
+      "FN014206",
+      "FN014207",
+      "FN014208",
+      "FN014209",
+      "FN014210",
+      "FN014213"
+    ],
     "price": 6.03,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -419,7 +908,7 @@
       "https://macma.ro/products/jpg/TEXTIL/FRUIT/fn01-lime_02.jpg",
       "https://macma.ro/products/jpg/TEXTIL/FRUIT/fn01-lime_03.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 93,
     "colorCount": 16,
     "sizeCount": 5,
@@ -501,11 +990,86 @@
     "summary": "100% combed ringspun cotton. Soft hand feel. Slim Fashion fit. Three button placket with self-coloured pearlized buttons. Side vents. Self fabric tear away back neck label. Perfect for fashion, retail, leisure, tourism.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "FN66",
+    "supplierVariantIds": [
+      "FN660106",
+      "FN660110",
+      "FN661706",
+      "FN661707",
+      "FN661710",
+      "FN661711",
+      "FN662206",
+      "FN662207",
+      "FN662208",
+      "FN662209",
+      "FN662210",
+      "FN662211",
+      "FN663406",
+      "FN663407",
+      "FN663408",
+      "FN663409",
+      "FN663410",
+      "FN663910",
+      "FN664006",
+      "FN664007",
+      "FN664911",
+      "FN665306",
+      "FN665307",
+      "FN665308",
+      "FN665309",
+      "FN665310",
+      "FN665311",
+      "FN665506",
+      "FN665507",
+      "FN665508",
+      "FN665509",
+      "FN665510",
+      "FN665606",
+      "FN665607",
+      "FN665608",
+      "FN665609",
+      "FN665610",
+      "FN665611",
+      "FN666706"
+    ],
     "price": 4.81,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -522,7 +1086,7 @@
       "https://macma.ro/products/jpg/TEXTIL/FRUIT/fn66-heathergreen_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/FRUIT/fn66-darkheathergrey_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 39,
     "colorCount": 11,
     "sizeCount": 4,
@@ -584,11 +1148,143 @@
     "summary": "Nicely colored, pretty comfortable and quite nicely profitable. Polo 100% ring-spun combed cotton short-sleeved men's polo shirt, 3-button placket, buttons in matching color fashion side vents, neck reinforced with ne...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "FU21",
+    "supplierVariantIds": [
+      "FU210106",
+      "FU210107",
+      "FU210108",
+      "FU210109",
+      "FU210110",
+      "FU210111",
+      "FU210306",
+      "FU210307",
+      "FU210308",
+      "FU210309",
+      "FU210310",
+      "FU210311",
+      "FU210406",
+      "FU210407",
+      "FU210408",
+      "FU210409",
+      "FU210410",
+      "FU210411",
+      "FU210506",
+      "FU210507",
+      "FU210508",
+      "FU210509",
+      "FU210510",
+      "FU210511",
+      "FU210706",
+      "FU210707",
+      "FU210708",
+      "FU210709",
+      "FU210710",
+      "FU210711",
+      "FU210806",
+      "FU210807",
+      "FU210808",
+      "FU210809",
+      "FU210810",
+      "FU210811",
+      "FU211006",
+      "FU211007",
+      "FU211008",
+      "FU211009",
+      "FU211010",
+      "FU211011",
+      "FU211206",
+      "FU211207",
+      "FU211208",
+      "FU211209",
+      "FU211210",
+      "FU211211",
+      "FU211406",
+      "FU211407",
+      "FU211408",
+      "FU211409",
+      "FU211410",
+      "FU211411",
+      "FU211506",
+      "FU211507",
+      "FU211508",
+      "FU211509",
+      "FU211510",
+      "FU211511",
+      "FU212006",
+      "FU212007",
+      "FU212008",
+      "FU212009",
+      "FU212010",
+      "FU212011",
+      "FU212106",
+      "FU212107",
+      "FU212108",
+      "FU212109",
+      "FU212110",
+      "FU212111",
+      "FU212306",
+      "FU212307",
+      "FU212308",
+      "FU212309",
+      "FU212310",
+      "FU212311",
+      "FU213006",
+      "FU213007",
+      "FU213008",
+      "FU213009",
+      "FU213010",
+      "FU213011",
+      "FU213906",
+      "FU213907",
+      "FU213908",
+      "FU213909",
+      "FU213910",
+      "FU213911",
+      "FU214206",
+      "FU214207",
+      "FU214208",
+      "FU214209",
+      "FU214210",
+      "FU214211"
+    ],
     "price": 6.03,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -637,7 +1333,7 @@
       "https://macma.ro/products/jpg/TEXTIL/FRUIT/fu21-lime_02.jpg",
       "https://macma.ro/products/jpg/TEXTIL/FRUIT/fu21-lime_03.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 96,
     "colorCount": 16,
     "sizeCount": 4,
@@ -719,11 +1415,50 @@
     "summary": "S",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "GI3800",
+    "supplierVariantIds": [
+      "GI3800SP-L",
+      "GI3800SP-M",
+      "GI3800SP-S"
+    ],
     "price": 1.5,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -734,7 +1469,7 @@
       "https://macma.ro/products/jpg/TEXTIL/GILDAN/gi3800-rssportgrey_c2.jpg",
       "https://macma.ro/products/jpg/TEXTIL/GILDAN/gi3800-rssportgrey_d1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 3,
     "colorCount": 1,
     "sizeCount": 3,
@@ -755,11 +1490,143 @@
     "summary": "4XL",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "GI64800",
+    "supplierVariantIds": [
+      "GI64800BL-2XL",
+      "GI64800BL-3XL",
+      "GI64800BL-4XL",
+      "GI64800BL-L",
+      "GI64800BL-M",
+      "GI64800BL-S",
+      "GI64800BL-XL",
+      "GI64800BSL-L",
+      "GI64800BSL-M",
+      "GI64800BSL-S",
+      "GI64800CH-2XL",
+      "GI64800CH-3XL",
+      "GI64800CH-4XL",
+      "GI64800CH-L",
+      "GI64800CH-M",
+      "GI64800CH-S",
+      "GI64800CH-XL",
+      "GI64800DA-2XL",
+      "GI64800DA-3XL",
+      "GI64800DA-4XL",
+      "GI64800DA-L",
+      "GI64800DA-M",
+      "GI64800DA-S",
+      "GI64800DA-XL",
+      "GI64800FO-3XL",
+      "GI64800FO-4XL",
+      "GI64800FO-L",
+      "GI64800FO-M",
+      "GI64800FO-S",
+      "GI64800FO-XL",
+      "GI64800HE-4XL",
+      "GI64800LB-2XL",
+      "GI64800LB-3XL",
+      "GI64800LB-L",
+      "GI64800LB-M",
+      "GI64800LB-S",
+      "GI64800LB-XL",
+      "GI64800NV-2XL",
+      "GI64800NV-3XL",
+      "GI64800NV-4XL",
+      "GI64800NV-L",
+      "GI64800NV-M",
+      "GI64800NV-S",
+      "GI64800NV-XL",
+      "GI64800OR-2XL",
+      "GI64800OR-L",
+      "GI64800OR-M",
+      "GI64800OR-S",
+      "GI64800PU-2XL",
+      "GI64800PU-3XL",
+      "GI64800PU-4XL",
+      "GI64800PU-L",
+      "GI64800PU-M",
+      "GI64800PU-S",
+      "GI64800RE-2XL",
+      "GI64800RE-3XL",
+      "GI64800RE-4XL",
+      "GI64800RE-L",
+      "GI64800RE-M",
+      "GI64800RE-S",
+      "GI64800RE-XL",
+      "GI64800RO-2XL",
+      "GI64800RO-3XL",
+      "GI64800RO-4XL",
+      "GI64800RO-L",
+      "GI64800RO-M",
+      "GI64800RO-S",
+      "GI64800RO-XL",
+      "GI64800SA-2XL",
+      "GI64800SA-3XL",
+      "GI64800SA-4XL",
+      "GI64800SA-L",
+      "GI64800SA-M",
+      "GI64800SA-S",
+      "GI64800SA-XL",
+      "GI64800SH-2XL",
+      "GI64800SH-3XL",
+      "GI64800SH-4XL",
+      "GI64800SH-L",
+      "GI64800SH-M",
+      "GI64800SH-S",
+      "GI64800SH-XL",
+      "GI64800SP-2XL",
+      "GI64800SP-3XL",
+      "GI64800SP-4XL",
+      "GI64800SP-L",
+      "GI64800SP-M",
+      "GI64800SP-S",
+      "GI64800SP-XL",
+      "GI64800WH-2XL",
+      "GI64800WH-3XL",
+      "GI64800WH-4XL",
+      "GI64800WH-L",
+      "GI64800WH-M",
+      "GI64800WH-S",
+      "GI64800WH-XL"
+    ],
     "price": 0.84,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -797,7 +1664,7 @@
       "https://macma.ro/products/jpg/TEXTIL/GILDAN/gi64800-white_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/GILDAN/gi64800-white_b1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 96,
     "colorCount": 16,
     "sizeCount": 4,
@@ -878,11 +1745,49 @@
     "summary": "S",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "GI75800",
+    "supplierVariantIds": [
+      "GI75800RE-4XL",
+      "GI75800RE-S"
+    ],
     "price": 0.84,
     "priceFrom": true,
     "stockLevel": "out-of-stock",
@@ -890,7 +1795,7 @@
       "https://macma.ro/products/jpg/TEXTIL/GILDAN/gi75800-red_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/GILDAN/gi75800-red_b1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 2,
     "colorCount": 1,
     "sizeCount": 1,
@@ -911,11 +1816,105 @@
     "summary": "100% Combed Ring Spun Cotton. Eurofit, Sideseamed with side vents. Heat transfer label. Rolled forward topstitched shoulder. Clean finished placket with reinforced bottom boksz.3 colour-matched buttons, Twin needle bo...",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "GI85800",
+    "supplierVariantIds": [
+      "GI85800BL-2XL",
+      "GI85800BL-3XL",
+      "GI85800BL-L",
+      "GI85800BL-M",
+      "GI85800BL-S",
+      "GI85800BL-XL",
+      "GI85800CH-2XL",
+      "GI85800CH-3XL",
+      "GI85800CH-L",
+      "GI85800CH-M",
+      "GI85800CH-S",
+      "GI85800CH-XL",
+      "GI85800FO-2XL",
+      "GI85800FO-3XL",
+      "GI85800FO-L",
+      "GI85800FO-M",
+      "GI85800FO-S",
+      "GI85800FO-XL",
+      "GI85800GPH-M",
+      "GI85800HE-2XL",
+      "GI85800HE-M",
+      "GI85800HE-S",
+      "GI85800NV-2XL",
+      "GI85800NV-3XL",
+      "GI85800NV-L",
+      "GI85800NV-M",
+      "GI85800NV-S",
+      "GI85800NV-XL",
+      "GI85800RE-2XL",
+      "GI85800RE-3XL",
+      "GI85800RE-L",
+      "GI85800RE-M",
+      "GI85800RE-S",
+      "GI85800RE-XL",
+      "GI85800RO-2XL",
+      "GI85800RO-3XL",
+      "GI85800RO-L",
+      "GI85800RO-M",
+      "GI85800RO-S",
+      "GI85800RO-XL",
+      "GI85800SH-2XL",
+      "GI85800SH-3XL",
+      "GI85800SH-L",
+      "GI85800SH-M",
+      "GI85800SH-S",
+      "GI85800SH-XL",
+      "GI85800SP-2XL",
+      "GI85800SP-3XL",
+      "GI85800SP-L",
+      "GI85800SP-M",
+      "GI85800SP-S",
+      "GI85800SP-XL",
+      "GI85800WH-2XL",
+      "GI85800WH-3XL",
+      "GI85800WH-L",
+      "GI85800WH-M",
+      "GI85800WH-S",
+      "GI85800WH-XL"
+    ],
     "price": 0.84,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -944,7 +1943,7 @@
       "https://macma.ro/products/jpg/TEXTIL/GILDAN/gi85800-white_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/GILDAN/gi85800-white_b1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 58,
     "colorCount": 11,
     "sizeCount": 4,
@@ -1006,11 +2005,128 @@
     "summary": "2XL",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "GI8800",
+    "supplierVariantIds": [
+      "GI8800BL-2XL",
+      "GI8800BL-3XL",
+      "GI8800BL-L",
+      "GI8800BL-M",
+      "GI8800BL-S",
+      "GI8800BL-XL",
+      "GI8800CB-2XL",
+      "GI8800CB-3XL",
+      "GI8800CB-L",
+      "GI8800CB-M",
+      "GI8800CB-S",
+      "GI8800CB-XL",
+      "GI8800DH-2XL",
+      "GI8800DH-3XL",
+      "GI8800DH-L",
+      "GI8800DH-M",
+      "GI8800DH-XL",
+      "GI8800GO-2XL",
+      "GI8800GO-3XL",
+      "GI8800GO-L",
+      "GI8800GO-M",
+      "GI8800GO-S",
+      "GI8800GO-XL",
+      "GI8800GPH-2XL",
+      "GI8800GPH-3XL",
+      "GI8800GPH-L",
+      "GI8800GPH-M",
+      "GI8800GPH-XL",
+      "GI8800LB-2XL",
+      "GI8800LB-3XL",
+      "GI8800LB-L",
+      "GI8800LB-M",
+      "GI8800LB-S",
+      "GI8800LB-XL",
+      "GI8800NV-2XL",
+      "GI8800NV-3XL",
+      "GI8800NV-L",
+      "GI8800NV-M",
+      "GI8800NV-S",
+      "GI8800NV-XL",
+      "GI8800OR-2XL",
+      "GI8800OR-3XL",
+      "GI8800OR-L",
+      "GI8800OR-M",
+      "GI8800OR-S",
+      "GI8800OR-XL",
+      "GI8800PU-2XL",
+      "GI8800PU-3XL",
+      "GI8800PU-L",
+      "GI8800PU-M",
+      "GI8800PU-S",
+      "GI8800PU-XL",
+      "GI8800RE-2XL",
+      "GI8800RE-3XL",
+      "GI8800RE-L",
+      "GI8800RE-M",
+      "GI8800RE-S",
+      "GI8800RE-XL",
+      "GI8800RO-2XL",
+      "GI8800RO-3XL",
+      "GI8800RO-L",
+      "GI8800RO-M",
+      "GI8800RO-S",
+      "GI8800RO-XL",
+      "GI8800SA-2XL",
+      "GI8800SA-3XL",
+      "GI8800SA-L",
+      "GI8800SA-M",
+      "GI8800SA-S",
+      "GI8800SA-XL",
+      "GI8800SP-2XL",
+      "GI8800SP-3XL",
+      "GI8800SP-L",
+      "GI8800SP-M",
+      "GI8800SP-S",
+      "GI8800SP-XL",
+      "GI8800WH-2XL",
+      "GI8800WH-3XL",
+      "GI8800WH-L",
+      "GI8800WH-M",
+      "GI8800WH-XL"
+    ],
     "price": 2.49,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -1082,7 +2198,7 @@
       "https://macma.ro/products/jpg/TEXTIL/GILDAN/gi8800-white_c2.jpg",
       "https://macma.ro/products/jpg/TEXTIL/GILDAN/gi8800-white_d1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 81,
     "colorCount": 14,
     "sizeCount": 4,
@@ -1155,11 +2271,53 @@
     "summary": "L",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "GIL75800",
+    "supplierVariantIds": [
+      "GIL75800LB-L",
+      "GIL75800LB-M",
+      "GIL75800LB-XL",
+      "GIL75800SP-L",
+      "GIL75800SP-M",
+      "GIL75800SP-S"
+    ],
     "price": 0.66,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -1169,7 +2327,7 @@
       "https://macma.ro/products/jpg/TEXTIL/GILDAN/gil75800-rssportgrey_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/GILDAN/gil75800-rssportgrey_b1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 6,
     "colorCount": 2,
     "sizeCount": 4,
@@ -1194,11 +2352,61 @@
     "summary": "100% Combed Ring Spun Cotton. Semi-fitted contoured silhouette with side seam and side vents. Rolled forward topstitched shoulder. Clean finished reversed placket with reinforced bottom box. 3 colour-matched buttons. ...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "GIL85800",
+    "supplierVariantIds": [
+      "GIL85800KI-L",
+      "GIL85800KI-M",
+      "GIL85800KI-S",
+      "GIL85800LB-L",
+      "GIL85800LB-M",
+      "GIL85800LB-S",
+      "GIL85800LB-XL",
+      "GIL85800MA-L",
+      "GIL85800MA-S",
+      "GIL85800MA-XL",
+      "GIL85800PU-M",
+      "GIL85800PU-XL",
+      "GIL85800SP-S",
+      "GIL85800SP-XL"
+    ],
     "price": 0.66,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -1214,7 +2422,7 @@
       "https://macma.ro/products/jpg/TEXTIL/GILDAN/gil85800-rssportgrey_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/GILDAN/gil85800-rssportgrey_b1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 14,
     "colorCount": 5,
     "sizeCount": 4,
@@ -1252,11 +2460,143 @@
     "summary": "100% Optimium™ pre-shrunk ringspun cotton short-sleeved men's polo shirt. Wash degree: 40°C. Modern classic style, engineered to guarantee fit excellence with comfort and movement. Contemporary 2-button reinforced pla...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "O01",
+    "supplierVariantIds": [
+      "BO010106",
+      "BO010107",
+      "BO010108",
+      "BO010109",
+      "BO010110",
+      "BO010111",
+      "BO010112",
+      "BO010117",
+      "BO010306",
+      "BO010307",
+      "BO010308",
+      "BO010309",
+      "BO010310",
+      "BO010311",
+      "BO010312",
+      "BO010317",
+      "BO010406",
+      "BO010407",
+      "BO010408",
+      "BO010409",
+      "BO010410",
+      "BO010411",
+      "BO010412",
+      "BO010417",
+      "BO010506",
+      "BO010507",
+      "BO010508",
+      "BO010509",
+      "BO010510",
+      "BO010511",
+      "BO010706",
+      "BO010707",
+      "BO010708",
+      "BO010709",
+      "BO010710",
+      "BO010711",
+      "BO010712",
+      "BO010717",
+      "BO011306",
+      "BO011307",
+      "BO011308",
+      "BO011309",
+      "BO011310",
+      "BO011311",
+      "BO011406",
+      "BO011407",
+      "BO011408",
+      "BO011409",
+      "BO011410",
+      "BO011411",
+      "BO011506",
+      "BO011507",
+      "BO011508",
+      "BO011509",
+      "BO011510",
+      "BO011511",
+      "BO011512",
+      "BO011517",
+      "BO012306",
+      "BO012307",
+      "BO012308",
+      "BO012309",
+      "BO012310",
+      "BO012311",
+      "BO012312",
+      "BO012317",
+      "BO013206",
+      "BO013207",
+      "BO013208",
+      "BO013209",
+      "BO013210",
+      "BO013211",
+      "BO014106",
+      "BO014107",
+      "BO014108",
+      "BO014109",
+      "BO014110",
+      "BO014111",
+      "BO015106",
+      "BO015107",
+      "BO015108",
+      "BO015109",
+      "BO015110",
+      "BO015111",
+      "BO018006",
+      "BO018007",
+      "BO018008",
+      "BO018009",
+      "BO018010",
+      "BO018011",
+      "BO018306",
+      "BO018307",
+      "BO018308",
+      "BO018309",
+      "BO018310",
+      "BO018311"
+    ],
     "price": 6.63,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -1309,7 +2649,7 @@
       "https://macma.ro/products/jpg/TEXTIL/B&C/o01-pixellime_f.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/o01-pixellime_s.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 96,
     "colorCount": 9,
     "sizeCount": 4,
@@ -1363,11 +2703,128 @@
     "summary": "100% Optimium™ pre-shrunk ringspun cotton short-sleeved women's polo shirt. Wash degree: 40°C. Modern classic style, engineered to guarantee fit excellence with comfort and movement. Contemporary 2-button reinforced p...",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "O02",
+    "supplierVariantIds": [
+      "BO020106",
+      "BO020107",
+      "BO020108",
+      "BO020109",
+      "BO020110",
+      "BO020111",
+      "BO020113",
+      "BO020306",
+      "BO020307",
+      "BO020308",
+      "BO020309",
+      "BO020310",
+      "BO020311",
+      "BO020313",
+      "BO020406",
+      "BO020407",
+      "BO020408",
+      "BO020409",
+      "BO020410",
+      "BO020411",
+      "BO020413",
+      "BO020506",
+      "BO020507",
+      "BO020508",
+      "BO020509",
+      "BO020510",
+      "BO020513",
+      "BO021306",
+      "BO021307",
+      "BO021308",
+      "BO021309",
+      "BO021310",
+      "BO021313",
+      "BO021406",
+      "BO021407",
+      "BO021408",
+      "BO021409",
+      "BO021410",
+      "BO021413",
+      "BO021806",
+      "BO021807",
+      "BO021808",
+      "BO021809",
+      "BO021810",
+      "BO021813",
+      "BO022006",
+      "BO022007",
+      "BO022008",
+      "BO022009",
+      "BO022010",
+      "BO022013",
+      "BO022506",
+      "BO022507",
+      "BO022508",
+      "BO022509",
+      "BO022510",
+      "BO022513",
+      "BO023206",
+      "BO023207",
+      "BO023208",
+      "BO023209",
+      "BO023210",
+      "BO023213",
+      "BO023806",
+      "BO023807",
+      "BO023808",
+      "BO023809",
+      "BO023810",
+      "BO023813",
+      "BO025106",
+      "BO025107",
+      "BO025108",
+      "BO025109",
+      "BO025110",
+      "BO025113",
+      "BO028306",
+      "BO028307",
+      "BO028308",
+      "BO028309",
+      "BO028310",
+      "BO028313"
+    ],
     "price": 6.63,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -1426,7 +2883,7 @@
       "https://macma.ro/products/jpg/TEXTIL/B&C/o02-pixellime_flat.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/o02-pixellime_s.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 81,
     "colorCount": 13,
     "sizeCount": 5,
@@ -1496,11 +2953,79 @@
     "summary": "100% Optimium™ pre-shrunk ringspun cotton short-sleeved men's polo shirt. Wash degree: 40°C. Modern classic style, engineered to guarantee fit excellence with comfort and movement. Contemporary 2-button reinforced pla...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "O03",
+    "supplierVariantIds": [
+      "BO030106",
+      "BO030107",
+      "BO030108",
+      "BO030109",
+      "BO030110",
+      "BO030111",
+      "BO030112",
+      "BO030117",
+      "BO030306",
+      "BO030307",
+      "BO030308",
+      "BO030309",
+      "BO030310",
+      "BO030311",
+      "BO030312",
+      "BO030317",
+      "BO030406",
+      "BO030407",
+      "BO030408",
+      "BO030409",
+      "BO030410",
+      "BO030411",
+      "BO030412",
+      "BO030417",
+      "BO032306",
+      "BO032307",
+      "BO032308",
+      "BO032309",
+      "BO032310",
+      "BO032311",
+      "BO032312",
+      "BO032317"
+    ],
     "price": 8.98,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -1523,7 +3048,7 @@
       "https://macma.ro/products/jpg/TEXTIL/B&C/o03-darkgrey_flat.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/o03-darkgrey_s.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 32,
     "colorCount": 4,
     "sizeCount": 4,
@@ -1557,11 +3082,199 @@
     "summary": "The best deal men's short-sleeved polo shirt made of cotton with rib-knit collar, 2-button placket, tone-in-tone buttons, side seams, double seams on sleeve ends and hem, basic colours.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "O06",
+    "supplierVariantIds": [
+      "BO060106",
+      "BO060107",
+      "BO060108",
+      "BO060109",
+      "BO060110",
+      "BO060111",
+      "BO060112",
+      "BO060113",
+      "BO060306",
+      "BO060307",
+      "BO060308",
+      "BO060309",
+      "BO060310",
+      "BO060311",
+      "BO060312",
+      "BO060313",
+      "BO060406",
+      "BO060407",
+      "BO060408",
+      "BO060409",
+      "BO060410",
+      "BO060411",
+      "BO060412",
+      "BO060413",
+      "BO060506",
+      "BO060507",
+      "BO060508",
+      "BO060509",
+      "BO060510",
+      "BO060511",
+      "BO060512",
+      "BO060513",
+      "BO060606",
+      "BO060607",
+      "BO060608",
+      "BO060609",
+      "BO060610",
+      "BO060611",
+      "BO060612",
+      "BO060613",
+      "BO060706",
+      "BO060707",
+      "BO060708",
+      "BO060709",
+      "BO060710",
+      "BO060711",
+      "BO060712",
+      "BO060713",
+      "BO060806",
+      "BO060807",
+      "BO060808",
+      "BO060809",
+      "BO060810",
+      "BO060811",
+      "BO060812",
+      "BO060813",
+      "BO061006",
+      "BO061007",
+      "BO061008",
+      "BO061009",
+      "BO061010",
+      "BO061011",
+      "BO061012",
+      "BO061013",
+      "BO061206",
+      "BO061207",
+      "BO061208",
+      "BO061209",
+      "BO061210",
+      "BO061211",
+      "BO061212",
+      "BO061213",
+      "BO061306",
+      "BO061307",
+      "BO061308",
+      "BO061309",
+      "BO061310",
+      "BO061311",
+      "BO061312",
+      "BO061313",
+      "BO061506",
+      "BO061507",
+      "BO061508",
+      "BO061509",
+      "BO061510",
+      "BO061511",
+      "BO061512",
+      "BO061513",
+      "BO062006",
+      "BO062007",
+      "BO062008",
+      "BO062009",
+      "BO062010",
+      "BO062011",
+      "BO062012",
+      "BO062013",
+      "BO062306",
+      "BO062307",
+      "BO062308",
+      "BO062309",
+      "BO062310",
+      "BO062311",
+      "BO062312",
+      "BO062313",
+      "BO062806",
+      "BO062807",
+      "BO062808",
+      "BO062809",
+      "BO062810",
+      "BO062811",
+      "BO062812",
+      "BO062813",
+      "BO063006",
+      "BO063007",
+      "BO063008",
+      "BO063009",
+      "BO063010",
+      "BO063011",
+      "BO063012",
+      "BO063013",
+      "BO063106",
+      "BO063107",
+      "BO063108",
+      "BO063109",
+      "BO063110",
+      "BO063111",
+      "BO063112",
+      "BO063113",
+      "BO065206",
+      "BO065207",
+      "BO065208",
+      "BO065209",
+      "BO065210",
+      "BO065211",
+      "BO065212",
+      "BO065213",
+      "BO065306",
+      "BO065307",
+      "BO065308",
+      "BO065309",
+      "BO065310",
+      "BO065311",
+      "BO065312",
+      "BO065313",
+      "BO066406",
+      "BO066407",
+      "BO066408",
+      "BO066409",
+      "BO066410",
+      "BO066411",
+      "BO066412",
+      "BO066413"
+    ],
     "price": 4.38,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -1586,7 +3299,7 @@
       "https://macma.ro/products/jpg/TEXTIL/B&C/o06-pixelcoral_flat.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/o06-atoll_flat.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 152,
     "colorCount": 19,
     "sizeCount": 5,
@@ -1680,11 +3393,180 @@
     "summary": "The best deal short-sleeved women's polo shirt made of cotton with rib-knit collar, 2-button placket, tone-in-tone buttons, side seams, double seams on sleeve ends and hem, basic colours.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "O07",
+    "supplierVariantIds": [
+      "BO070106",
+      "BO070107",
+      "BO070108",
+      "BO070109",
+      "BO070110",
+      "BO070111",
+      "BO070113",
+      "BO070306",
+      "BO070307",
+      "BO070308",
+      "BO070309",
+      "BO070310",
+      "BO070311",
+      "BO070313",
+      "BO070406",
+      "BO070407",
+      "BO070408",
+      "BO070409",
+      "BO070410",
+      "BO070411",
+      "BO070413",
+      "BO070506",
+      "BO070507",
+      "BO070508",
+      "BO070509",
+      "BO070510",
+      "BO070511",
+      "BO070513",
+      "BO070606",
+      "BO070607",
+      "BO070608",
+      "BO070609",
+      "BO070610",
+      "BO070611",
+      "BO070613",
+      "BO070706",
+      "BO070707",
+      "BO070708",
+      "BO070709",
+      "BO070710",
+      "BO070711",
+      "BO070713",
+      "BO070806",
+      "BO070807",
+      "BO070808",
+      "BO070809",
+      "BO070810",
+      "BO070811",
+      "BO070813",
+      "BO071006",
+      "BO071007",
+      "BO071008",
+      "BO071009",
+      "BO071010",
+      "BO071011",
+      "BO071013",
+      "BO071206",
+      "BO071207",
+      "BO071208",
+      "BO071209",
+      "BO071210",
+      "BO071211",
+      "BO071213",
+      "BO071306",
+      "BO071307",
+      "BO071308",
+      "BO071309",
+      "BO071310",
+      "BO071311",
+      "BO071313",
+      "BO071506",
+      "BO071507",
+      "BO071508",
+      "BO071509",
+      "BO071510",
+      "BO071511",
+      "BO071513",
+      "BO072006",
+      "BO072007",
+      "BO072008",
+      "BO072009",
+      "BO072010",
+      "BO072011",
+      "BO072013",
+      "BO072306",
+      "BO072307",
+      "BO072308",
+      "BO072309",
+      "BO072310",
+      "BO072311",
+      "BO072313",
+      "BO072806",
+      "BO072807",
+      "BO072808",
+      "BO072809",
+      "BO072810",
+      "BO072811",
+      "BO072813",
+      "BO073006",
+      "BO073007",
+      "BO073008",
+      "BO073009",
+      "BO073010",
+      "BO073011",
+      "BO073013",
+      "BO073106",
+      "BO073107",
+      "BO073108",
+      "BO073109",
+      "BO073110",
+      "BO073111",
+      "BO073113",
+      "BO075206",
+      "BO075207",
+      "BO075208",
+      "BO075209",
+      "BO075210",
+      "BO075211",
+      "BO075213",
+      "BO075306",
+      "BO075307",
+      "BO075308",
+      "BO075309",
+      "BO075310",
+      "BO075311",
+      "BO075313",
+      "BO076406",
+      "BO076407",
+      "BO076408",
+      "BO076409",
+      "BO076410",
+      "BO076411",
+      "BO076413"
+    ],
     "price": 4.38,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -1715,7 +3597,7 @@
       "https://macma.ro/products/jpg/TEXTIL/B&C/o07-pixelcoral_0.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/o07-atoll_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 133,
     "colorCount": 19,
     "sizeCount": 5,
@@ -1809,11 +3691,54 @@
     "summary": "Men poloshirt made of 100% combed Cotton, piqué, 5-ply 1x1 rib knitted collar and cuffs, side seams, shoulder - to - shoulder taping, 3-button placket reinforced with fusible interlining.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "O23",
+    "supplierVariantIds": [
+      "BO230706",
+      "BO230707",
+      "BO230710",
+      "BO231506",
+      "BO231509",
+      "BO231510",
+      "BO231511"
+    ],
     "price": 4.81,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1821,7 +3746,7 @@
       "https://macma.ro/products/jpg/TEXTIL/B&C/o23-royalblue.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/o23-heathergrey.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 7,
     "colorCount": 2,
     "sizeCount": 3,
@@ -1847,11 +3772,95 @@
     "summary": "65% Optimium™ RCS certified Recycled Polyester / 35% Optimium™ pre-shrunk ring-spun Better Cotton short-sleeved men's polo shirt. Wash degree: 60°C.Modern classic style engineered to guarantee fit excellence with comf...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "O38",
+    "supplierVariantIds": [
+      "BO380106",
+      "BO380107",
+      "BO380108",
+      "BO380109",
+      "BO380110",
+      "BO380111",
+      "BO380112",
+      "BO380117",
+      "BO380306",
+      "BO380307",
+      "BO380308",
+      "BO380309",
+      "BO380310",
+      "BO380311",
+      "BO380312",
+      "BO380317",
+      "BO380406",
+      "BO380407",
+      "BO380408",
+      "BO380409",
+      "BO380410",
+      "BO380411",
+      "BO380412",
+      "BO380417",
+      "BO380506",
+      "BO380507",
+      "BO380508",
+      "BO380509",
+      "BO380510",
+      "BO380511",
+      "BO381606",
+      "BO381607",
+      "BO381608",
+      "BO381609",
+      "BO381610",
+      "BO381611",
+      "BO382006",
+      "BO382007",
+      "BO382008",
+      "BO382009",
+      "BO382010",
+      "BO382011",
+      "BO388306",
+      "BO388307",
+      "BO388308",
+      "BO388309",
+      "BO388310",
+      "BO388311"
+    ],
     "price": 6.77,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -1885,7 +3894,7 @@
       "https://macma.ro/products/jpg/TEXTIL/B&C/o38-acidlime_flat.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/o38-acidlime_s.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 48,
     "colorCount": 7,
     "sizeCount": 4,
@@ -1931,11 +3940,91 @@
     "summary": "65% Optimium™ RCS certified Recycled Polyester / 35% Optimium™ pre-shrunk ring-spun Better Cotton short-sleeved women's polo shirt. Wash degree: 60°C.Modern classic style engineered to guarantee fit excellence with co...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "O39",
+    "supplierVariantIds": [
+      "BO390106",
+      "BO390107",
+      "BO390108",
+      "BO390109",
+      "BO390110",
+      "BO390111",
+      "BO390113",
+      "BO390306",
+      "BO390307",
+      "BO390308",
+      "BO390309",
+      "BO390310",
+      "BO390311",
+      "BO390313",
+      "BO390406",
+      "BO390407",
+      "BO390408",
+      "BO390409",
+      "BO390410",
+      "BO390413",
+      "BO390506",
+      "BO390507",
+      "BO390508",
+      "BO390509",
+      "BO390510",
+      "BO390513",
+      "BO391606",
+      "BO391607",
+      "BO391608",
+      "BO391609",
+      "BO391610",
+      "BO391613",
+      "BO392006",
+      "BO392007",
+      "BO392008",
+      "BO392009",
+      "BO392010",
+      "BO392013",
+      "BO398306",
+      "BO398307",
+      "BO398308",
+      "BO398309",
+      "BO398310",
+      "BO398313"
+    ],
     "price": 6.77,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -1968,7 +4057,7 @@
       "https://macma.ro/products/jpg/TEXTIL/B&C/o39-acidlime_f.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/o39-acidlime_s.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 44,
     "colorCount": 7,
     "sizeCount": 5,
@@ -2014,10 +4103,53 @@
     "summary": "50% polyester, 50% cotton. 180 grs/m² piqué fabric. Collar and cuffs flat knit. Safety stitching on shoulders and sleeves. 2 self-coloured buttons. Loose pocket included. 50 units per box. 5 units per package: 1 size,...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S1",
+        "label": "Direct screen printing",
+        "labelRo": "Serigrafie directă",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "POVAMIX",
+    "supplierVariantIds": [
+      "POVAMIXBL20",
+      "POVAMIXBL21",
+      "POVAMIXBL22",
+      "POVAMIXBL23",
+      "POVAMIXBL24",
+      "POVAMIXGP20",
+      "POVAMIXGP21",
+      "POVAMIXGP22",
+      "POVAMIXGP23",
+      "POVAMIXGP24",
+      "POVAMIXMR20",
+      "POVAMIXMR21",
+      "POVAMIXMR22",
+      "POVAMIXMR23",
+      "POVAMIXMR24",
+      "POVAMIXMR25",
+      "POVAMIXNG20",
+      "POVAMIXNG21",
+      "POVAMIXNG22",
+      "POVAMIXNG23",
+      "POVAMIXNG24",
+      "POVAMIXRJ20",
+      "POVAMIXRJ21",
+      "POVAMIXRJ22",
+      "POVAMIXRJ23",
+      "POVAMIXRJ24",
+      "POVAMIXRY20",
+      "POVAMIXRY21",
+      "POVAMIXRY22",
+      "POVAMIXRY23",
+      "POVAMIXRY24"
+    ],
     "price": 5.27,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -2029,7 +4161,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/ulises-lottored_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/ulises-royalblue_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 31,
     "colorCount": 6,
     "sizeCount": 4,
@@ -2071,10 +4203,46 @@
     "summary": "100% ring spun cotton. 220 g/m² piqué fabric. Flat knit collar. Bottom side slits. Double stitching on shoulders. 2 self-coloured buttons. Loose pocket included. 50 units per box. 5 units per package: 1 size, 1 color.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "POVATOM",
+    "supplierVariantIds": [
+      "POVATOMBL20",
+      "POVATOMBL21",
+      "POVATOMBL22",
+      "POVATOMBL23",
+      "POVATOMBL24",
+      "POVATOMCL20",
+      "POVATOMCL21",
+      "POVATOMCL22",
+      "POVATOMCL23",
+      "POVATOMMR20",
+      "POVATOMMR21",
+      "POVATOMMR22",
+      "POVATOMMR23",
+      "POVATOMNG19",
+      "POVATOMNG20",
+      "POVATOMNG21",
+      "POVATOMNG22",
+      "POVATOMNG23",
+      "POVATOMNG24",
+      "POVATOMRJ20",
+      "POVATOMRJ21",
+      "POVATOMRJ22",
+      "POVATOMRJ23",
+      "POVATOMRJ24"
+    ],
     "price": 6.18,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -2085,7 +4253,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/valley-black_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/valley-lottored_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 24,
     "colorCount": 5,
     "sizeCount": 5,
@@ -2123,11 +4291,213 @@
     "summary": "100% ring spun cotton. White melange: 98% cotton, 2% natural viscose. Grey melange: 85% cotton, 15% natural viscose. 220 grs/m² piqué fabric. Collar and cuffs flat knit. Double stitching on shoulders and sleeves. Loos...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S1",
+        "label": "Direct screen printing",
+        "labelRo": "Serigrafie directă",
+        "printSizes": [
+          "21 × 29",
+          "22 × 29",
+          "23 × 29"
+        ]
+      },
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29",
+          "22 × 29",
+          "23 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29",
+          "22 × 29",
+          "23 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29",
+          "22 × 29",
+          "23 × 29"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29",
+          "22 × 29",
+          "23 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "POVATOP",
+    "supplierVariantIds": [
+      "POVATOPAB20",
+      "POVATOPAB21",
+      "POVATOPAB22",
+      "POVATOPAB23",
+      "POVATOPAB24",
+      "POVATOPAF20",
+      "POVATOPAF21",
+      "POVATOPAF22",
+      "POVATOPAF23",
+      "POVATOPAF24",
+      "POVATOPAM20",
+      "POVATOPAM21",
+      "POVATOPAM22",
+      "POVATOPAM23",
+      "POVATOPAM24",
+      "POVATOPBG20",
+      "POVATOPBG21",
+      "POVATOPBG22",
+      "POVATOPBG23",
+      "POVATOPBG24",
+      "POVATOPBG25",
+      "POVATOPBL20",
+      "POVATOPBL21",
+      "POVATOPBL22",
+      "POVATOPBL23",
+      "POVATOPBL24",
+      "POVATOPBL25",
+      "POVATOPBL26",
+      "POVATOPCL20",
+      "POVATOPCL21",
+      "POVATOPCL22",
+      "POVATOPCL23",
+      "POVATOPCL24",
+      "POVATOPCL25",
+      "POVATOPCL26",
+      "POVATOPGC20",
+      "POVATOPGC21",
+      "POVATOPGC22",
+      "POVATOPGC23",
+      "POVATOPGC24",
+      "POVATOPGC25",
+      "POVATOPGC26",
+      "POVATOPGM20",
+      "POVATOPGM21",
+      "POVATOPGM22",
+      "POVATOPGM23",
+      "POVATOPGM24",
+      "POVATOPGM25",
+      "POVATOPGP20",
+      "POVATOPGP21",
+      "POVATOPGP22",
+      "POVATOPGP23",
+      "POVATOPGP24",
+      "POVATOPGP25",
+      "POVATOPGR20",
+      "POVATOPGR21",
+      "POVATOPGR22",
+      "POVATOPGR23",
+      "POVATOPGR24",
+      "POVATOPGS20",
+      "POVATOPGS21",
+      "POVATOPGS22",
+      "POVATOPGS23",
+      "POVATOPGS24",
+      "POVATOPGT20",
+      "POVATOPGT21",
+      "POVATOPGT22",
+      "POVATOPGT23",
+      "POVATOPGT24",
+      "POVATOPGT25",
+      "POVATOPGT26",
+      "POVATOPMG20",
+      "POVATOPMG21",
+      "POVATOPMG22",
+      "POVATOPMG23",
+      "POVATOPMG24",
+      "POVATOPMR20",
+      "POVATOPMR21",
+      "POVATOPMR22",
+      "POVATOPMR23",
+      "POVATOPMR24",
+      "POVATOPMR25",
+      "POVATOPMR26",
+      "POVATOPNG20",
+      "POVATOPNG21",
+      "POVATOPNG22",
+      "POVATOPNG23",
+      "POVATOPNG24",
+      "POVATOPNG25",
+      "POVATOPNG26",
+      "POVATOPNJ20",
+      "POVATOPNJ21",
+      "POVATOPNJ22",
+      "POVATOPNJ23",
+      "POVATOPNJ24",
+      "POVATOPNJ25",
+      "POVATOPPD20",
+      "POVATOPPD21",
+      "POVATOPPD22",
+      "POVATOPPD23",
+      "POVATOPPD24",
+      "POVATOPPP20",
+      "POVATOPPP21",
+      "POVATOPPP22",
+      "POVATOPPP23",
+      "POVATOPPP24",
+      "POVATOPPT20",
+      "POVATOPPT21",
+      "POVATOPPT22",
+      "POVATOPPT23",
+      "POVATOPPT24",
+      "POVATOPRJ20",
+      "POVATOPRJ21",
+      "POVATOPRJ22",
+      "POVATOPRJ23",
+      "POVATOPRJ24",
+      "POVATOPRJ25",
+      "POVATOPRJ26",
+      "POVATOPRY20",
+      "POVATOPRY21",
+      "POVATOPRY22",
+      "POVATOPRY23",
+      "POVATOPRY24",
+      "POVATOPRY25",
+      "POVATOPRY26",
+      "POVATOPVB20",
+      "POVATOPVB21",
+      "POVATOPVB22",
+      "POVATOPVB23",
+      "POVATOPVB24",
+      "POVATOPVB25",
+      "POVATOPVK20",
+      "POVATOPVK21",
+      "POVATOPVK22",
+      "POVATOPVK23",
+      "POVATOPVK24",
+      "POVATOPVK25",
+      "POVATOPVK26",
+      "POVATOPVQ20",
+      "POVATOPVQ21",
+      "POVATOPVQ22",
+      "POVATOPVQ23",
+      "POVATOPVQ24",
+      "POVATOPZF20",
+      "POVATOPZF21",
+      "POVATOPZF22",
+      "POVATOPZF23",
+      "POVATOPZF24"
+    ],
     "price": 5.84,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -2160,7 +4530,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/patrol-surgicalgreen_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/patrol-oceannavyblue_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 148,
     "colorCount": 25,
     "sizeCount": 4,
@@ -2278,11 +4648,95 @@
     "summary": "SOL'S Pasadena Men Polo shirt. 100% Ringspun cotton - Rib 1x1 collar and cuffs - Reinforcing tape on neckline • STYLE - Short sleeves - Contrasting stripes on collar and cuffs - Tone on tone 3 button placket - Fitted ...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "SO00577",
+    "supplierVariantIds": [
+      "SO00577BL/WH-2XL",
+      "SO00577BL/WH-3XL",
+      "SO00577BL/WH-L",
+      "SO00577BL/WH-M",
+      "SO00577BL/WH-S",
+      "SO00577BL/WH-XL",
+      "SO00577FN/NEO-2XL",
+      "SO00577FN/NEO-3XL",
+      "SO00577FN/NEO-L",
+      "SO00577FN/NEO-M",
+      "SO00577FN/NEO-S",
+      "SO00577FN/NEO-XL",
+      "SO00577FN/WH-2XL",
+      "SO00577FN/WH-3XL",
+      "SO00577FN/WH-L",
+      "SO00577FN/WH-M",
+      "SO00577FN/WH-S",
+      "SO00577FN/WH-XL",
+      "SO00577FO/WH-2XL",
+      "SO00577FO/WH-3XL",
+      "SO00577FO/WH-L",
+      "SO00577FO/WH-M",
+      "SO00577FO/WH-S",
+      "SO00577FO/WH-XL",
+      "SO00577GR/NV-2XL",
+      "SO00577GR/NV-3XL",
+      "SO00577GR/NV-L",
+      "SO00577GR/NV-M",
+      "SO00577GR/NV-S",
+      "SO00577GR/NV-XL",
+      "SO00577RE/WH-2XL",
+      "SO00577RE/WH-3XL",
+      "SO00577RE/WH-L",
+      "SO00577RE/WH-M",
+      "SO00577RE/WH-S",
+      "SO00577RE/WH-XL",
+      "SO00577RO/WH-2XL",
+      "SO00577RO/WH-3XL",
+      "SO00577RO/WH-L",
+      "SO00577RO/WH-M",
+      "SO00577RO/WH-S",
+      "SO00577RO/WH-XL",
+      "SO00577WH/NV-2XL",
+      "SO00577WH/NV-3XL",
+      "SO00577WH/NV-L",
+      "SO00577WH/NV-M",
+      "SO00577WH/NV-S",
+      "SO00577WH/NV-XL"
+    ],
     "price": 8.23,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -2312,7 +4766,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so00577-whitenavy_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so00577-whitenavy_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 48,
     "colorCount": 7,
     "sizeCount": 4,
@@ -2358,11 +4812,91 @@
     "summary": "SOL's Pasadena Women Polo shirt. 100% Ringspun cotton - Rib 1x1 collar and cuffs - Reinforcing tape on neck • STYLE - Short sleeves - Contrasting stripes on collar and cuffs - Tone on tone 3 button placket - Fitted cut",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "SO00578",
+    "supplierVariantIds": [
+      "SO00578BL/WH-2XL",
+      "SO00578BL/WH-L",
+      "SO00578BL/WH-M",
+      "SO00578BL/WH-S",
+      "SO00578BL/WH-XL",
+      "SO00578FN/NEO-2XL",
+      "SO00578FN/NEO-L",
+      "SO00578FN/NEO-M",
+      "SO00578FN/NEO-S",
+      "SO00578FN/NEO-XL",
+      "SO00578FN/WH-L",
+      "SO00578FN/WH-M",
+      "SO00578FN/WH-S",
+      "SO00578FN/WH-XL",
+      "SO00578FO/WH-2XL",
+      "SO00578FO/WH-L",
+      "SO00578FO/WH-M",
+      "SO00578FO/WH-S",
+      "SO00578FO/WH-XL",
+      "SO00578GM/OR-2XL",
+      "SO00578GM/OR-L",
+      "SO00578GM/OR-M",
+      "SO00578GM/OR-S",
+      "SO00578GM/OR-XL",
+      "SO00578GR/NV-2XL",
+      "SO00578GR/NV-L",
+      "SO00578GR/NV-M",
+      "SO00578GR/NV-S",
+      "SO00578GR/NV-XL",
+      "SO00578RE/WH-2XL",
+      "SO00578RE/WH-L",
+      "SO00578RE/WH-M",
+      "SO00578RE/WH-S",
+      "SO00578RE/WH-XL",
+      "SO00578RO/WH-2XL",
+      "SO00578RO/WH-L",
+      "SO00578RO/WH-M",
+      "SO00578RO/WH-S",
+      "SO00578RO/WH-XL",
+      "SO00578WH/NV-2XL",
+      "SO00578WH/NV-L",
+      "SO00578WH/NV-M",
+      "SO00578WH/NV-S",
+      "SO00578WH/NV-XL"
+    ],
     "price": 7.03,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -2416,7 +4950,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so00578-whitenavy_c.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so00578-whitenavy_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 44,
     "colorCount": 8,
     "sizeCount": 4,
@@ -2466,11 +5000,74 @@
     "summary": "L",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "SO01708",
+    "supplierVariantIds": [
+      "SO01708BL-2XL",
+      "SO01708BL-3XL",
+      "SO01708BL-L",
+      "SO01708BL-M",
+      "SO01708BL-S",
+      "SO01708BL-XL",
+      "SO01708CHME-L",
+      "SO01708CHME-M",
+      "SO01708CHME-S",
+      "SO01708CHME-XL",
+      "SO01708FN-3XL",
+      "SO01708FN-L",
+      "SO01708FN-M",
+      "SO01708FN-S",
+      "SO01708FN-XL",
+      "SO01708GM-S",
+      "SO01708UM-2XL",
+      "SO01708UM-3XL",
+      "SO01708UM-L",
+      "SO01708UM-M",
+      "SO01708UM-S",
+      "SO01708UM-XL",
+      "SO01708WH-2XL",
+      "SO01708WH-L",
+      "SO01708WH-M",
+      "SO01708WH-S",
+      "SO01708WH-XL"
+    ],
     "price": 9.89,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -2494,7 +5091,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01708-white_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01708-white_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 27,
     "colorCount": 6,
     "sizeCount": 4,
@@ -2535,11 +5132,61 @@
     "summary": "2XL",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "SO01709",
+    "supplierVariantIds": [
+      "SO01709BL-2XL",
+      "SO01709BL-L",
+      "SO01709BL-M",
+      "SO01709BL-S",
+      "SO01709BL-XL",
+      "SO01709FN-2XL",
+      "SO01709FN-M",
+      "SO01709FN-S",
+      "SO01709FN-XL",
+      "SO01709WH-2XL",
+      "SO01709WH-L",
+      "SO01709WH-M",
+      "SO01709WH-S",
+      "SO01709WH-XL"
+    ],
     "price": 9.89,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -2554,7 +5201,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01709-white_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01709-white_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 14,
     "colorCount": 3,
     "sizeCount": 4,
@@ -2583,11 +5230,80 @@
     "summary": "2XL",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "SO02083",
+    "supplierVariantIds": [
+      "SO02083AG-2XL",
+      "SO02083AG-L",
+      "SO02083AG-M",
+      "SO02083AG-S",
+      "SO02083AG-XL",
+      "SO02083BL-2XL",
+      "SO02083BL-L",
+      "SO02083BL-M",
+      "SO02083BL-S",
+      "SO02083BL-XL",
+      "SO02083FN-2XL",
+      "SO02083FN-L",
+      "SO02083FN-M",
+      "SO02083FN-S",
+      "SO02083FN-XL",
+      "SO02083GM-2XL",
+      "SO02083GM-M",
+      "SO02083GM-XL",
+      "SO02083RE-2XL",
+      "SO02083RE-L",
+      "SO02083RE-M",
+      "SO02083RE-S",
+      "SO02083RE-XL",
+      "SO02083RO-2XL",
+      "SO02083RO-L",
+      "SO02083RO-M",
+      "SO02083RO-S",
+      "SO02083RO-XL",
+      "SO02083WH-2XL",
+      "SO02083WH-L",
+      "SO02083WH-M",
+      "SO02083WH-S",
+      "SO02083WH-XL"
+    ],
     "price": 5.59,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -2614,7 +5330,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so02083-white_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so02083-white_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 33,
     "colorCount": 7,
     "sizeCount": 4,
@@ -2659,11 +5375,79 @@
     "summary": "2XL",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "SO02087",
+    "supplierVariantIds": [
+      "SO02087AG-2XL",
+      "SO02087AG-L",
+      "SO02087BL-2XL",
+      "SO02087BL-L",
+      "SO02087BL-M",
+      "SO02087BL-S",
+      "SO02087BL-XL",
+      "SO02087FN-2XL",
+      "SO02087FN-L",
+      "SO02087FN-M",
+      "SO02087FN-S",
+      "SO02087FN-XL",
+      "SO02087GM-2XL",
+      "SO02087GM-L",
+      "SO02087GM-M",
+      "SO02087GM-S",
+      "SO02087GM-XL",
+      "SO02087RE-2XL",
+      "SO02087RE-L",
+      "SO02087RE-M",
+      "SO02087RE-S",
+      "SO02087RE-XL",
+      "SO02087RO-2XL",
+      "SO02087RO-L",
+      "SO02087RO-M",
+      "SO02087RO-S",
+      "SO02087RO-XL",
+      "SO02087WH-2XL",
+      "SO02087WH-L",
+      "SO02087WH-M",
+      "SO02087WH-S",
+      "SO02087WH-XL"
+    ],
     "price": 7.85,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -2690,7 +5474,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so02087-white_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so02087-white_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 32,
     "colorCount": 7,
     "sizeCount": 4,
@@ -2735,8 +5519,35 @@
     "summary": "Qality;PIQUE 170;100%organically grown cotton;Ribbed collar;Taped neck;Reinforced button placket;OEKO TEX 100;ORGANIC 100;Style;Short sleeves;3 tone-on-tone button placket;Straight bottom;Cut and sewn;Spare button sew...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "SO03566",
+    "supplierVariantIds": [
+      "SO03566BL-2XL",
+      "SO03566BL-3XL",
+      "SO03566BL-4XL",
+      "SO03566BL-5XL",
+      "SO03566BL-L",
+      "SO03566BL-M",
+      "SO03566BL-S",
+      "SO03566BL-XL",
+      "SO03566FN-2XL",
+      "SO03566FN-3XL",
+      "SO03566FN-4XL",
+      "SO03566FN-5XL",
+      "SO03566FN-L",
+      "SO03566FN-M",
+      "SO03566FN-S",
+      "SO03566FN-XL",
+      "SO03566GM-L",
+      "SO03566WH-2XL",
+      "SO03566WH-3XL",
+      "SO03566WH-4XL",
+      "SO03566WH-L",
+      "SO03566WH-M",
+      "SO03566WH-S",
+      "SO03566WH-XL"
+    ],
     "price": 5.59,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -2754,7 +5565,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so03566-white_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so03566-white_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 24,
     "colorCount": 4,
     "sizeCount": 4,
@@ -2788,8 +5599,27 @@
     "summary": "Qality;PIQUE 170;100%organically grown cotton;Ribbed collar;Taped neck;Reinforced button placket;OEKO TEX 100;ORGANIC 100;Style;Short sleeves;3 tone-on-tone button placket;Straight bottom;Cut and sewn;Spare button sew...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "SO03575",
+    "supplierVariantIds": [
+      "SO03575BL-L",
+      "SO03575BL-M",
+      "SO03575BL-S",
+      "SO03575BL-XL",
+      "SO03575BL-XS",
+      "SO03575FN-3XL",
+      "SO03575FN-M",
+      "SO03575RO-2XL",
+      "SO03575RO-L",
+      "SO03575RO-XS",
+      "SO03575WH-2XL",
+      "SO03575WH-L",
+      "SO03575WH-M",
+      "SO03575WH-S",
+      "SO03575WH-XL",
+      "SO03575WH-XS"
+    ],
     "price": 2.49,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -2807,7 +5637,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so03575-white_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so03575-white_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 16,
     "colorCount": 4,
     "sizeCount": 5,
@@ -2841,8 +5671,21 @@
     "summary": "S",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "SO03983",
+    "supplierVariantIds": [
+      "SO03983DG-2XL",
+      "SO03983DG-S",
+      "SO03983FN-2XL",
+      "SO03983FN-3XL",
+      "SO03983FN-L",
+      "SO03983FN-M",
+      "SO03983FN-S",
+      "SO03983FN-XL",
+      "SO03983WH-2XL",
+      "SO03983WH-3XL"
+    ],
     "price": 1.98,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -2854,7 +5697,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so03983-white_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so03983-white_b1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 10,
     "colorCount": 3,
     "sizeCount": 4,
@@ -2883,8 +5726,24 @@
     "summary": "Quality: \tPIQU&Eacute 210 ,\t100% organic cotton ,\tStyle: \tRibbed collar with neck tape ,\tReinforced placket with 2 tone-on-tone buttons ,\tShort sleeves with ribbed cuffs ,\tReinforced side slits ,\tCut and sewn ,\tSpare ...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "SO04241",
+    "supplierVariantIds": [
+      "SO04241BL-2XL",
+      "SO04241BL-3XL",
+      "SO04241BL-5XL",
+      "SO04241BL-L",
+      "SO04241BL-M",
+      "SO04241BL-S",
+      "SO04241BL-XL",
+      "SO04241WH-2XL",
+      "SO04241WH-3XL",
+      "SO04241WH-L",
+      "SO04241WH-M",
+      "SO04241WH-S",
+      "SO04241WH-XL"
+    ],
     "price": 9.93,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -2896,7 +5755,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so04241-white_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so04241-white_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 13,
     "colorCount": 2,
     "sizeCount": 4,
@@ -2922,8 +5781,21 @@
     "summary": "Quality: \tPIQU&Eacute 210 ,\t100% organic cotton ,\tStyle: \tRibbed collar with neck tape ,\tReinforced placket with 2 tone-on-tone buttons ,\tShort sleeves with ribbed cuffs ,\tReinforced side slits ,\tCut and sewn ,\tSpare ...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "SO04242",
+    "supplierVariantIds": [
+      "SO04242BL-2XL",
+      "SO04242BL-L",
+      "SO04242BL-M",
+      "SO04242BL-S",
+      "SO04242BL-XL",
+      "SO04242WH-2XL",
+      "SO04242WH-L",
+      "SO04242WH-M",
+      "SO04242WH-S",
+      "SO04242WH-XL"
+    ],
     "price": 8.76,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -2935,7 +5807,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so04242-white_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so04242-white_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 10,
     "colorCount": 2,
     "sizeCount": 4,
@@ -2961,11 +5833,84 @@
     "summary": "WOMEN S POLO SHIRT   100% cotton",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "SO11310",
+    "supplierVariantIds": [
+      "SO11310BL-2XL",
+      "SO11310BL-L",
+      "SO11310BL-M",
+      "SO11310BL-S",
+      "SO11310BL-XL",
+      "SO11310GM-2XL",
+      "SO11310GM-L",
+      "SO11310GM-M",
+      "SO11310GM-S",
+      "SO11310GM-XL",
+      "SO11310NV-2XL",
+      "SO11310NV-L",
+      "SO11310NV-M",
+      "SO11310NV-S",
+      "SO11310NV-XL",
+      "SO11310RE-L",
+      "SO11310RE-M",
+      "SO11310RE-S",
+      "SO11310RE-XL",
+      "SO11310RO-2XL",
+      "SO11310RO-L",
+      "SO11310RO-M",
+      "SO11310RO-S",
+      "SO11310RO-XL",
+      "SO11310SA-2XL",
+      "SO11310SA-L",
+      "SO11310SA-M",
+      "SO11310SA-S",
+      "SO11310SA-XL",
+      "SO11310SB-2XL",
+      "SO11310SB-L",
+      "SO11310SB-S",
+      "SO11310WH-2XL",
+      "SO11310WH-L",
+      "SO11310WH-M",
+      "SO11310WH-S",
+      "SO11310WH-XL"
+    ],
     "price": 5.59,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -2994,7 +5939,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11310-white_b.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11310-white_c.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 37,
     "colorCount": 8,
     "sizeCount": 4,
@@ -3044,11 +5989,72 @@
     "summary": "2XL",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "SO11328",
+    "supplierVariantIds": [
+      "SO11328BL-2XL",
+      "SO11328BL-L",
+      "SO11328BL-M",
+      "SO11328BL-S",
+      "SO11328BL-XL",
+      "SO11328GM-2XL",
+      "SO11328GM-L",
+      "SO11328GM-M",
+      "SO11328GM-S",
+      "SO11328GM-XL",
+      "SO11328NV-2XL",
+      "SO11328NV-L",
+      "SO11328NV-M",
+      "SO11328NV-S",
+      "SO11328NV-XL",
+      "SO11328RE-2XL",
+      "SO11328RE-L",
+      "SO11328RE-M",
+      "SO11328RE-S",
+      "SO11328RE-XL",
+      "SO11328WH-2XL",
+      "SO11328WH-L",
+      "SO11328WH-M",
+      "SO11328WH-S",
+      "SO11328WH-XL"
+    ],
     "price": 6.58,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -3069,7 +6075,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11328-white_b.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11328-white_c.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 25,
     "colorCount": 5,
     "sizeCount": 4,
@@ -3106,11 +6112,128 @@
     "summary": "WOMEN S SHORT SLEEVED POLO SHIRT   100% cotton",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "SO11338",
+    "supplierVariantIds": [
+      "SO11338AB-2XL",
+      "SO11338AB-L",
+      "SO11338AB-M",
+      "SO11338AB-S",
+      "SO11338AB-XL",
+      "SO11338AG-2XL",
+      "SO11338AG-L",
+      "SO11338AG-M",
+      "SO11338AG-S",
+      "SO11338AG-XL",
+      "SO11338AQ-L",
+      "SO11338AQ-M",
+      "SO11338AQ-S",
+      "SO11338AQ-XL",
+      "SO11338BL-2XL",
+      "SO11338BL-L",
+      "SO11338BL-M",
+      "SO11338BL-S",
+      "SO11338BL-XL",
+      "SO11338BU-2XL",
+      "SO11338BU-L",
+      "SO11338BU-M",
+      "SO11338BU-S",
+      "SO11338BU-XL",
+      "SO11338CO-L",
+      "SO11338CO-S",
+      "SO11338FU-2XL",
+      "SO11338FU-L",
+      "SO11338FU-M",
+      "SO11338FU-S",
+      "SO11338FU-XL",
+      "SO11338GM-2XL",
+      "SO11338GM-L",
+      "SO11338GM-M",
+      "SO11338GM-S",
+      "SO11338GM-XL",
+      "SO11338GO-2XL",
+      "SO11338GO-L",
+      "SO11338GO-M",
+      "SO11338GO-S",
+      "SO11338GO-XL",
+      "SO11338KL-S",
+      "SO11338NV-2XL",
+      "SO11338NV-L",
+      "SO11338NV-M",
+      "SO11338NV-S",
+      "SO11338NV-XL",
+      "SO11338OR-2XL",
+      "SO11338OR-L",
+      "SO11338OR-M",
+      "SO11338OR-S",
+      "SO11338OR-XL",
+      "SO11338PI-L",
+      "SO11338PI-M",
+      "SO11338PI-S",
+      "SO11338PI-XL",
+      "SO11338RE-2XL",
+      "SO11338RE-L",
+      "SO11338RE-M",
+      "SO11338RE-S",
+      "SO11338RE-XL",
+      "SO11338RO-2XL",
+      "SO11338RO-L",
+      "SO11338RO-M",
+      "SO11338RO-S",
+      "SO11338RO-XL",
+      "SO11338SA-2XL",
+      "SO11338SA-L",
+      "SO11338SA-M",
+      "SO11338SA-S",
+      "SO11338SA-XL",
+      "SO11338SB-2XL",
+      "SO11338SB-L",
+      "SO11338SB-M",
+      "SO11338SB-S",
+      "SO11338SB-XL",
+      "SO11338WH-2XL",
+      "SO11338WH-L",
+      "SO11338WH-M",
+      "SO11338WH-S",
+      "SO11338WH-XL"
+    ],
     "price": 4.9,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -3170,7 +6293,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11338-white_b.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11338-white_c.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 81,
     "colorCount": 18,
     "sizeCount": 4,
@@ -3260,11 +6383,145 @@
     "summary": "MEN S SHORT-SLEEVED POLO SHIRT   100% cotton",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "SO11342",
+    "supplierVariantIds": [
+      "SO11342AB-2XL",
+      "SO11342AB-L",
+      "SO11342AB-M",
+      "SO11342AB-S",
+      "SO11342AB-XL",
+      "SO11342AG-2XL",
+      "SO11342AG-L",
+      "SO11342AG-M",
+      "SO11342AG-S",
+      "SO11342AG-XL",
+      "SO11342AQ-2XL",
+      "SO11342AQ-L",
+      "SO11342AQ-M",
+      "SO11342AQ-S",
+      "SO11342AQ-XL",
+      "SO11342AR-2XL",
+      "SO11342AR-L",
+      "SO11342AR-M",
+      "SO11342AR-S",
+      "SO11342AR-XL",
+      "SO11342BL-2XL",
+      "SO11342BL-L",
+      "SO11342BL-M",
+      "SO11342BL-S",
+      "SO11342BL-XL",
+      "SO11342BL-XS",
+      "SO11342BU-2XL",
+      "SO11342BU-L",
+      "SO11342BU-M",
+      "SO11342BU-S",
+      "SO11342BU-XL",
+      "SO11342CO-2XL",
+      "SO11342CO-L",
+      "SO11342CO-M",
+      "SO11342CO-S",
+      "SO11342DP-2XL",
+      "SO11342DP-L",
+      "SO11342DP-M",
+      "SO11342DP-S",
+      "SO11342DP-XL",
+      "SO11342DUBLU-2XL",
+      "SO11342DUBLU-L",
+      "SO11342DUBLU-M",
+      "SO11342DUBLU-S",
+      "SO11342DUBLU-XL",
+      "SO11342GG-2XL",
+      "SO11342GG-L",
+      "SO11342GG-M",
+      "SO11342GG-S",
+      "SO11342GG-XL",
+      "SO11342GM-2XL",
+      "SO11342GM-L",
+      "SO11342GM-M",
+      "SO11342GM-S",
+      "SO11342GM-XL",
+      "SO11342GO-2XL",
+      "SO11342GO-L",
+      "SO11342GO-M",
+      "SO11342GO-S",
+      "SO11342GO-XL",
+      "SO11342KL-L",
+      "SO11342KL-M",
+      "SO11342KL-S",
+      "SO11342KL-XL",
+      "SO11342NV-2XL",
+      "SO11342NV-L",
+      "SO11342NV-M",
+      "SO11342NV-S",
+      "SO11342NV-XL",
+      "SO11342OR-2XL",
+      "SO11342OR-M",
+      "SO11342OR-S",
+      "SO11342OR-XL",
+      "SO11342RE-2XL",
+      "SO11342RE-L",
+      "SO11342RE-M",
+      "SO11342RE-S",
+      "SO11342RE-XL",
+      "SO11342RO-2XL",
+      "SO11342RO-L",
+      "SO11342RO-M",
+      "SO11342RO-S",
+      "SO11342RO-XL",
+      "SO11342SA-2XL",
+      "SO11342SA-L",
+      "SO11342SA-M",
+      "SO11342SA-S",
+      "SO11342SA-XL",
+      "SO11342SB-2XL",
+      "SO11342SB-L",
+      "SO11342SB-M",
+      "SO11342SB-S",
+      "SO11342SB-XL",
+      "SO11342WH-2XL",
+      "SO11342WH-L",
+      "SO11342WH-M",
+      "SO11342WH-S",
+      "SO11342WH-XL"
+    ],
     "price": 4.9,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -3323,7 +6580,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11342-white_b.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11342-white_c.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 98,
     "colorCount": 20,
     "sizeCount": 5,
@@ -3421,11 +6678,61 @@
     "summary": "12A — cotton",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S1",
+        "label": "Direct screen printing",
+        "labelRo": "Serigrafie directă",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "SO11344",
+    "supplierVariantIds": [
+      "SO11344RO-12A",
+      "SO11344RO-4A",
+      "SO11344RO-6A",
+      "SO11344WH-12A",
+      "SO11344WH-4A",
+      "SO11344WH-8A"
+    ],
     "price": 4.6,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -3437,7 +6744,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11344-white_b.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11344-white_c.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 6,
     "colorCount": 2,
     "sizeCount": 4,
@@ -3462,11 +6769,117 @@
     "summary": "2XL",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "SO11346",
+    "supplierVariantIds": [
+      "SO11346AQ-2XL",
+      "SO11346AQ-3XL",
+      "SO11346AQ-L",
+      "SO11346AQ-M",
+      "SO11346AQ-S",
+      "SO11346AQ-XL",
+      "SO11346BL-2XL",
+      "SO11346BL-3XL",
+      "SO11346BL-L",
+      "SO11346BL-M",
+      "SO11346BL-S",
+      "SO11346BL-XL",
+      "SO11346DG-2XL",
+      "SO11346DG-3XL",
+      "SO11346DG-L",
+      "SO11346DG-M",
+      "SO11346DG-S",
+      "SO11346DG-XL",
+      "SO11346FN-2XL",
+      "SO11346FN-3XL",
+      "SO11346FN-L",
+      "SO11346FN-M",
+      "SO11346FN-S",
+      "SO11346FN-XL",
+      "SO11346GM-2XL",
+      "SO11346GM-3XL",
+      "SO11346GM-L",
+      "SO11346GM-M",
+      "SO11346GM-S",
+      "SO11346GM-XL",
+      "SO11346KL-2XL",
+      "SO11346KL-3XL",
+      "SO11346KL-L",
+      "SO11346KL-M",
+      "SO11346KL-S",
+      "SO11346KL-XL",
+      "SO11346OR-2XL",
+      "SO11346OR-3XL",
+      "SO11346OR-L",
+      "SO11346OR-M",
+      "SO11346OR-S",
+      "SO11346OR-XL",
+      "SO11346RE-2XL",
+      "SO11346RE-3XL",
+      "SO11346RE-L",
+      "SO11346RE-M",
+      "SO11346RE-XL",
+      "SO11346RO-2XL",
+      "SO11346RO-3XL",
+      "SO11346RO-L",
+      "SO11346RO-M",
+      "SO11346RO-S",
+      "SO11346RO-XL",
+      "SO11346SB-2XL",
+      "SO11346SB-3XL",
+      "SO11346SB-L",
+      "SO11346SB-M",
+      "SO11346SB-S",
+      "SO11346SB-XL",
+      "SO11346SLB-2XL",
+      "SO11346SLB-L",
+      "SO11346SLB-M",
+      "SO11346SLB-S",
+      "SO11346SLB-XL",
+      "SO11346WH-2XL",
+      "SO11346WH-3XL",
+      "SO11346WH-L",
+      "SO11346WH-M",
+      "SO11346WH-S",
+      "SO11346WH-XL"
+    ],
     "price": 5.59,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -3541,7 +6954,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11346-white_c.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11346-white_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 70,
     "colorCount": 11,
     "sizeCount": 4,
@@ -3602,11 +7015,91 @@
     "summary": "2XL",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "SO11347",
+    "supplierVariantIds": [
+      "SO11347BL-2XL",
+      "SO11347BL-L",
+      "SO11347BL-M",
+      "SO11347BL-S",
+      "SO11347BL-XL",
+      "SO11347DG-2XL",
+      "SO11347DG-L",
+      "SO11347DG-M",
+      "SO11347DG-S",
+      "SO11347DG-XL",
+      "SO11347FN-2XL",
+      "SO11347FN-L",
+      "SO11347FN-M",
+      "SO11347FN-S",
+      "SO11347FN-XL",
+      "SO11347GM-2XL",
+      "SO11347GM-L",
+      "SO11347GM-M",
+      "SO11347GM-S",
+      "SO11347GM-XL",
+      "SO11347KL-L",
+      "SO11347KL-M",
+      "SO11347KL-S",
+      "SO11347KL-XL",
+      "SO11347RE-2XL",
+      "SO11347RE-L",
+      "SO11347RE-M",
+      "SO11347RE-S",
+      "SO11347RE-XL",
+      "SO11347RO-2XL",
+      "SO11347RO-L",
+      "SO11347RO-M",
+      "SO11347RO-S",
+      "SO11347RO-XL",
+      "SO11347SB-2XL",
+      "SO11347SB-L",
+      "SO11347SB-M",
+      "SO11347SB-S",
+      "SO11347SB-XL",
+      "SO11347WH-2XL",
+      "SO11347WH-L",
+      "SO11347WH-M",
+      "SO11347WH-S",
+      "SO11347WH-XL"
+    ],
     "price": 6.01,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -3666,7 +7159,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11347-white_c.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11347-white_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 44,
     "colorCount": 9,
     "sizeCount": 4,
@@ -3719,11 +7212,62 @@
     "summary": "S",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "SO11353",
+    "supplierVariantIds": [
+      "SO11353BL-2XL",
+      "SO11353BL-L",
+      "SO11353BL-M",
+      "SO11353BL-S",
+      "SO11353BL-XL",
+      "SO11353GG-S",
+      "SO11353NV-2XL",
+      "SO11353NV-L",
+      "SO11353NV-M",
+      "SO11353NV-S",
+      "SO11353NV-XL",
+      "SO11353RE-2XL",
+      "SO11353RE-M",
+      "SO11353RE-S",
+      "SO11353RO-S"
+    ],
     "price": 5.59,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -3744,7 +7288,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11353-royalblue_b.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11353-royalblue_c.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 15,
     "colorCount": 5,
     "sizeCount": 4,
@@ -3781,11 +7325,153 @@
     "summary": "MEN S POLO SHIRT   100% cotton",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "SO11362",
+    "supplierVariantIds": [
+      "SO11362AB-2XL",
+      "SO11362AB-L",
+      "SO11362AB-M",
+      "SO11362AB-S",
+      "SO11362AB-XL",
+      "SO11362AG-2XL",
+      "SO11362AG-L",
+      "SO11362AG-M",
+      "SO11362AG-S",
+      "SO11362AG-XL",
+      "SO11362BL-2XL",
+      "SO11362BL-3XL",
+      "SO11362BL-4XL",
+      "SO11362BL-5XL",
+      "SO11362BL-L",
+      "SO11362BL-M",
+      "SO11362BL-S",
+      "SO11362BL-XL",
+      "SO11362BU-L",
+      "SO11362BU-M",
+      "SO11362BU-S",
+      "SO11362BU-XL",
+      "SO11362DP-2XL",
+      "SO11362DP-L",
+      "SO11362DP-M",
+      "SO11362DP-S",
+      "SO11362DP-XL",
+      "SO11362GG-2XL",
+      "SO11362GG-L",
+      "SO11362GG-S",
+      "SO11362GG-XL",
+      "SO11362GM-2XL",
+      "SO11362GM-3XL",
+      "SO11362GM-4XL",
+      "SO11362GM-5XL",
+      "SO11362GM-L",
+      "SO11362GM-M",
+      "SO11362GM-S",
+      "SO11362GM-XL",
+      "SO11362GO-2XL",
+      "SO11362GO-L",
+      "SO11362GO-M",
+      "SO11362GO-S",
+      "SO11362GO-XL",
+      "SO11362KH-2XL",
+      "SO11362KH-L",
+      "SO11362KH-M",
+      "SO11362KH-S",
+      "SO11362KH-XL",
+      "SO11362KL-2XL",
+      "SO11362KL-L",
+      "SO11362KL-M",
+      "SO11362KL-S",
+      "SO11362KL-XL",
+      "SO11362MG-2XL",
+      "SO11362MG-L",
+      "SO11362MG-M",
+      "SO11362MG-S",
+      "SO11362MG-XL",
+      "SO11362NV-2XL",
+      "SO11362NV-3XL",
+      "SO11362NV-4XL",
+      "SO11362NV-5XL",
+      "SO11362NV-L",
+      "SO11362NV-M",
+      "SO11362NV-S",
+      "SO11362NV-XL",
+      "SO11362OR-2XL",
+      "SO11362OR-L",
+      "SO11362OR-M",
+      "SO11362OR-S",
+      "SO11362OR-XL",
+      "SO11362RE-2XL",
+      "SO11362RE-3XL",
+      "SO11362RE-4XL",
+      "SO11362RE-5XL",
+      "SO11362RE-L",
+      "SO11362RE-M",
+      "SO11362RE-S",
+      "SO11362RE-XL",
+      "SO11362RO-2XL",
+      "SO11362RO-3XL",
+      "SO11362RO-4XL",
+      "SO11362RO-5XL",
+      "SO11362RO-L",
+      "SO11362RO-M",
+      "SO11362RO-S",
+      "SO11362RO-XL",
+      "SO11362SA-2XL",
+      "SO11362SA-L",
+      "SO11362SA-M",
+      "SO11362SA-S",
+      "SO11362SA-XL",
+      "SO11362SB-2XL",
+      "SO11362SB-L",
+      "SO11362SB-M",
+      "SO11362SB-S",
+      "SO11362SB-XL",
+      "SO11362WH-2XL",
+      "SO11362WH-3XL",
+      "SO11362WH-4XL",
+      "SO11362WH-5XL",
+      "SO11362WH-L",
+      "SO11362WH-M",
+      "SO11362WH-S",
+      "SO11362WH-XL"
+    ],
     "price": 7.03,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -3841,7 +7527,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11362-white_b.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11362-white_c.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 106,
     "colorCount": 18,
     "sizeCount": 4,
@@ -3931,11 +7617,56 @@
     "summary": "2XL",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "SO11365",
+    "supplierVariantIds": [
+      "SO11365NV-2XL",
+      "SO11365NV-L",
+      "SO11365NV-M",
+      "SO11365NV-XL",
+      "SO11365WH-2XL",
+      "SO11365WH-L",
+      "SO11365WH-M",
+      "SO11365WH-S",
+      "SO11365WH-XL"
+    ],
     "price": 16.78,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -3947,7 +7678,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11365-whitenavy_b.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11365-whitenavy_c.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 9,
     "colorCount": 2,
     "sizeCount": 4,
@@ -3972,11 +7703,64 @@
     "summary": "WOMEN S POLO SHIRT   100% cotton",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "SO11376",
+    "supplierVariantIds": [
+      "SO11376DBL-2XL",
+      "SO11376DBL-L",
+      "SO11376DBL-M",
+      "SO11376DBL-S",
+      "SO11376DBL-XL",
+      "SO11376DG-M",
+      "SO11376FN-2XL",
+      "SO11376FN-L",
+      "SO11376FN-M",
+      "SO11376FN-XL",
+      "SO11376RE-M",
+      "SO11376RE-S",
+      "SO11376WH-2XL",
+      "SO11376WH-L",
+      "SO11376WH-M",
+      "SO11376WH-S",
+      "SO11376WH-XL"
+    ],
     "price": 3.59,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -3997,7 +7781,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11376-white_b.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11376-white_c.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 17,
     "colorCount": 5,
     "sizeCount": 4,
@@ -4035,11 +7819,77 @@
     "summary": "MEN S POLO SHIRT   100% cotton",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "SO11377",
+    "supplierVariantIds": [
+      "SO11377DBL-2XL",
+      "SO11377DBL-3XL",
+      "SO11377DBL-L",
+      "SO11377DBL-M",
+      "SO11377DBL-S",
+      "SO11377DBL-XL",
+      "SO11377DG-2XL",
+      "SO11377DG-3XL",
+      "SO11377DG-L",
+      "SO11377DG-M",
+      "SO11377DG-S",
+      "SO11377DG-XL",
+      "SO11377FN-2XL",
+      "SO11377FN-3XL",
+      "SO11377FN-L",
+      "SO11377FN-M",
+      "SO11377FN-S",
+      "SO11377FN-XL",
+      "SO11377RE-2XL",
+      "SO11377RE-3XL",
+      "SO11377RE-L",
+      "SO11377RE-M",
+      "SO11377RE-S",
+      "SO11377RE-XL",
+      "SO11377WH-2XL",
+      "SO11377WH-3XL",
+      "SO11377WH-L",
+      "SO11377WH-M",
+      "SO11377WH-S",
+      "SO11377WH-XL"
+    ],
     "price": 6.19,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -4060,7 +7910,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11377-white_b.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so11377-white_c.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 30,
     "colorCount": 5,
     "sizeCount": 4,
@@ -4098,11 +7948,136 @@
     "summary": "Soft single jersey polo shirt for men, with a pleasing piqué look, rib collar and 2 horn look buttons.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "ST3000",
+    "supplierVariantIds": [
+      "ST3000-BLM-3XL",
+      "ST3000-BLM-4XL",
+      "ST3000-BLM-5XL",
+      "ST3000-BLM-M",
+      "ST3000-BLM-S",
+      "ST3000-BLM-XL",
+      "ST3000-BLM-XXL",
+      "ST3000-BLO-3XL",
+      "ST3000-BLO-4XL",
+      "ST3000-BLO-5XL",
+      "ST3000-BLO-L",
+      "ST3000-BLO-M",
+      "ST3000-BLO-S",
+      "ST3000-BLO-XL",
+      "ST3000-BLO-XXL",
+      "ST3000-BOG-L",
+      "ST3000-BOG-M",
+      "ST3000-BOG-S",
+      "ST3000-BOG-XL",
+      "ST3000-BOG-XXL",
+      "ST3000-BRR-3XL",
+      "ST3000-BRR-4XL",
+      "ST3000-BRR-5XL",
+      "ST3000-BRR-L",
+      "ST3000-BRR-M",
+      "ST3000-BRR-S",
+      "ST3000-BRR-XL",
+      "ST3000-BRR-XXL",
+      "ST3000-DBY-L",
+      "ST3000-DBY-M",
+      "ST3000-DBY-S",
+      "ST3000-DBY-XL",
+      "ST3000-DBY-XXL",
+      "ST3000-GYH-3XL",
+      "ST3000-GYH-4XL",
+      "ST3000-GYH-5XL",
+      "ST3000-GYH-L",
+      "ST3000-GYH-M",
+      "ST3000-GYH-S",
+      "ST3000-GYH-XL",
+      "ST3000-GYH-XXL",
+      "ST3000-KIW-L",
+      "ST3000-KIW-M",
+      "ST3000-KIW-S",
+      "ST3000-KIW-XL",
+      "ST3000-KIW-XXL",
+      "ST3000-LBL-L",
+      "ST3000-LBL-M",
+      "ST3000-LBL-S",
+      "ST3000-LBL-XL",
+      "ST3000-LBL-XXL",
+      "ST3000-NAV-3XL",
+      "ST3000-NAV-4XL",
+      "ST3000-NAV-5XL",
+      "ST3000-NAV-L",
+      "ST3000-NAV-M",
+      "ST3000-NAV-S",
+      "ST3000-NAV-XL",
+      "ST3000-NAV-XXL",
+      "ST3000-OCB-L",
+      "ST3000-OCB-M",
+      "ST3000-OCB-S",
+      "ST3000-OCB-XL",
+      "ST3000-OCB-XXL",
+      "ST3000-ORA-L",
+      "ST3000-ORA-M",
+      "ST3000-ORA-S",
+      "ST3000-ORA-XL",
+      "ST3000-ORA-XXL",
+      "ST3000-SRE-3XL",
+      "ST3000-SRE-4XL",
+      "ST3000-SRE-5XL",
+      "ST3000-SRE-L",
+      "ST3000-SRE-M",
+      "ST3000-SRE-S",
+      "ST3000-SRE-XL",
+      "ST3000-SRE-XXL",
+      "ST3000-WHI-3XL",
+      "ST3000-WHI-4XL",
+      "ST3000-WHI-5XL",
+      "ST3000-WHI-L",
+      "ST3000-WHI-M",
+      "ST3000-WHI-S",
+      "ST3000-WHI-XL",
+      "ST3000-WHI-XXL",
+      "ST3000-YEL-L",
+      "ST3000-YEL-S",
+      "ST3000-YEL-XL",
+      "ST3000-YEL-XXL"
+    ],
     "price": 6.88,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -4122,7 +8097,7 @@
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st3000-white.jpg",
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st3000-yellow.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 89,
     "colorCount": 14,
     "sizeCount": 4,
@@ -4196,11 +8171,107 @@
     "summary": "Soft single jersey polo shirt for women, with a pleasing piqué look, rib collar and 2 tone-on-tone buttons.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "ST3100",
+    "supplierVariantIds": [
+      "ST3100-BLM-L",
+      "ST3100-BLM-M",
+      "ST3100-BLM-S",
+      "ST3100-BLM-XS",
+      "ST3100-BLM-XXL",
+      "ST3100-BLO-L",
+      "ST3100-BLO-M",
+      "ST3100-BLO-S",
+      "ST3100-BLO-XL",
+      "ST3100-BLO-XS",
+      "ST3100-BLO-XXL",
+      "ST3100-BRR-L",
+      "ST3100-BRR-M",
+      "ST3100-BRR-S",
+      "ST3100-BRR-XL",
+      "ST3100-BRR-XS",
+      "ST3100-BRR-XXL",
+      "ST3100-GYH-L",
+      "ST3100-GYH-M",
+      "ST3100-GYH-S",
+      "ST3100-GYH-XL",
+      "ST3100-GYH-XS",
+      "ST3100-GYH-XXL",
+      "ST3100-KIW-L",
+      "ST3100-KIW-M",
+      "ST3100-KIW-S",
+      "ST3100-KIW-XL",
+      "ST3100-LBL-L",
+      "ST3100-LBL-M",
+      "ST3100-LBL-S",
+      "ST3100-LBL-XL",
+      "ST3100-NAV-L",
+      "ST3100-NAV-M",
+      "ST3100-NAV-S",
+      "ST3100-NAV-XL",
+      "ST3100-NAV-XS",
+      "ST3100-NAV-XXL",
+      "ST3100-OCB-L",
+      "ST3100-OCB-M",
+      "ST3100-OCB-S",
+      "ST3100-OCB-XL",
+      "ST3100-SPK-L",
+      "ST3100-SPK-M",
+      "ST3100-SPK-XL",
+      "ST3100-SRE-L",
+      "ST3100-SRE-M",
+      "ST3100-SRE-S",
+      "ST3100-SRE-XL",
+      "ST3100-SRE-XS",
+      "ST3100-SRE-XXL",
+      "ST3100-WHI-L",
+      "ST3100-WHI-M",
+      "ST3100-WHI-S",
+      "ST3100-WHI-XL",
+      "ST3100-WHI-XS",
+      "ST3100-WHI-XXL",
+      "ST3100-YEL-L",
+      "ST3100-YEL-M",
+      "ST3100-YEL-S",
+      "ST3100-YEL-XL"
+    ],
     "price": 6.88,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -4218,7 +8289,7 @@
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st3100-white.jpg",
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st3100-yellow.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 60,
     "colorCount": 12,
     "sizeCount": 5,
@@ -4284,11 +8355,85 @@
     "summary": "Soft single jersey polo shirt for children, with a pleasing piqué look, rib collar and 2 tone-on-tone buttons.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "S1",
+        "label": "Direct screen printing",
+        "labelRo": "Serigrafie directă",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "ST3200",
+    "supplierVariantIds": [
+      "ST3200-BLO-L",
+      "ST3200-BLO-M",
+      "ST3200-BLO-S",
+      "ST3200-BLO-XL",
+      "ST3200-BLO-XS",
+      "ST3200-BRR-L",
+      "ST3200-BRR-M",
+      "ST3200-BRR-S",
+      "ST3200-BRR-XL",
+      "ST3200-BRR-XS",
+      "ST3200-GYH-L",
+      "ST3200-GYH-M",
+      "ST3200-GYH-S",
+      "ST3200-GYH-XL",
+      "ST3200-GYH-XS",
+      "ST3200-NAV-L",
+      "ST3200-NAV-M",
+      "ST3200-NAV-S",
+      "ST3200-NAV-XL",
+      "ST3200-NAV-XS",
+      "ST3200-SRE-L",
+      "ST3200-SRE-M",
+      "ST3200-SRE-S",
+      "ST3200-SRE-XL",
+      "ST3200-SRE-XS",
+      "ST3200-WHI-L",
+      "ST3200-WHI-M",
+      "ST3200-WHI-S",
+      "ST3200-WHI-XL",
+      "ST3200-WHI-XS"
+    ],
     "price": 5.63,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -4300,7 +8445,7 @@
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st3200-scarletred.jpg",
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st3200-white.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 30,
     "colorCount": 6,
     "sizeCount": 5,
@@ -4342,11 +8487,75 @@
     "summary": "Soft single jersey long sleeve polo shirt for men, with a pleasing piqué look, rib collar, cuffs on sleeves and 3 tone-on-tone buttons.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "S1",
+        "label": "Direct screen printing",
+        "labelRo": "Serigrafie directă",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "ST3400",
+    "supplierVariantIds": [
+      "ST3400-BLO-L",
+      "ST3400-BLO-M",
+      "ST3400-BLO-S",
+      "ST3400-BLO-XL",
+      "ST3400-BLO-XXL",
+      "ST3400-GYH-L",
+      "ST3400-GYH-M",
+      "ST3400-GYH-S",
+      "ST3400-GYH-XL",
+      "ST3400-GYH-XXL",
+      "ST3400-NAV-L",
+      "ST3400-NAV-M",
+      "ST3400-NAV-S",
+      "ST3400-NAV-XL",
+      "ST3400-NAV-XXL",
+      "ST3400-WHI-L",
+      "ST3400-WHI-M",
+      "ST3400-WHI-S",
+      "ST3400-WHI-XL",
+      "ST3400-WHI-XXL"
+    ],
     "price": 9.48,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -4356,7 +8565,7 @@
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st3400-navyblue.jpg",
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st3400-white.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 20,
     "colorCount": 4,
     "sizeCount": 4,
@@ -4390,11 +8599,54 @@
     "summary": "Modern and stretchy sports polo shirt for men made of quick-drying, breathable mesh-material. Contrast neck tape, decorative flatlock seams, rib collar and excellent freedom of movement.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "SU",
+        "label": "Sublimation",
+        "labelRo": "Sublimare",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "ST8450",
+    "supplierVariantIds": [
+      "ST8450-BLO-L",
+      "ST8450-BLO-M",
+      "ST8450-BLO-S",
+      "ST8450-BLO-XL",
+      "ST8450-BLO-XXL",
+      "ST8450-MAB-L",
+      "ST8450-MAB-M",
+      "ST8450-MAB-S",
+      "ST8450-MAB-XL",
+      "ST8450-MAB-XXL",
+      "ST8450-WHI-L",
+      "ST8450-WHI-M",
+      "ST8450-WHI-S",
+      "ST8450-WHI-XL",
+      "ST8450-WHI-XXL"
+    ],
     "price": 8.24,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -4403,7 +8655,7 @@
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st8450-marinablue.jpg",
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st8450-white.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 15,
     "colorCount": 3,
     "sizeCount": 4,
@@ -4433,11 +8685,72 @@
     "summary": "This classic cut men’s poloshirt made of high-quality cotton piqué fabric offers supreme comfort and modern features.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "ST9050",
+    "supplierVariantIds": [
+      "ST9050-BLO-L",
+      "ST9050-BLO-M",
+      "ST9050-BLO-S",
+      "ST9050-BLO-XL",
+      "ST9050-BLO-XXL",
+      "ST9050-CSR-L",
+      "ST9050-CSR-M",
+      "ST9050-CSR-S",
+      "ST9050-CSR-XL",
+      "ST9050-CSR-XXL",
+      "ST9050-MAB-L",
+      "ST9050-MAB-M",
+      "ST9050-MAB-S",
+      "ST9050-MAB-XL",
+      "ST9050-MAB-XXL",
+      "ST9050-TUB-L",
+      "ST9050-TUB-M",
+      "ST9050-TUB-S",
+      "ST9050-TUB-XL",
+      "ST9050-TUB-XXL",
+      "ST9050-WHI-L",
+      "ST9050-WHI-M",
+      "ST9050-WHI-S",
+      "ST9050-WHI-XL",
+      "ST9050-WHI-XXL"
+    ],
     "price": 8.52,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -4448,7 +8761,7 @@
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st9050-trueblue.jpg",
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st9050-white.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 25,
     "colorCount": 5,
     "sizeCount": 4,
@@ -4486,11 +8799,135 @@
     "summary": "This classic cut men’s poloshirt made of high-quality cotton piqué with perfect fit comes in many modern colours.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "ST9060",
+    "supplierVariantIds": [
+      "ST9060-BLM-3XL",
+      "ST9060-BLM-4XL",
+      "ST9060-BLM-5XL",
+      "ST9060-BLM-L",
+      "ST9060-BLM-M",
+      "ST9060-BLM-S",
+      "ST9060-BLM-XL",
+      "ST9060-BLM-XXL",
+      "ST9060-BLO-3XL",
+      "ST9060-BLO-4XL",
+      "ST9060-BLO-5XL",
+      "ST9060-BLO-L",
+      "ST9060-BLO-M",
+      "ST9060-BLO-S",
+      "ST9060-BLO-XL",
+      "ST9060-BLO-XXL",
+      "ST9060-BOD-3XL",
+      "ST9060-BOD-4XL",
+      "ST9060-BOD-5XL",
+      "ST9060-BOD-L",
+      "ST9060-BOD-M",
+      "ST9060-BOD-S",
+      "ST9060-BOD-XL",
+      "ST9060-BOD-XXL",
+      "ST9060-BOG-3XL",
+      "ST9060-BOG-4XL",
+      "ST9060-BOG-5XL",
+      "ST9060-BOG-L",
+      "ST9060-BOG-M",
+      "ST9060-BOG-S",
+      "ST9060-BOG-XL",
+      "ST9060-BOG-XXL",
+      "ST9060-BRR-3XL",
+      "ST9060-BRR-4XL",
+      "ST9060-BRR-5XL",
+      "ST9060-BRR-L",
+      "ST9060-BRR-M",
+      "ST9060-BRR-S",
+      "ST9060-BRR-XL",
+      "ST9060-BRR-XXL",
+      "ST9060-GYH-3XL",
+      "ST9060-GYH-4XL",
+      "ST9060-GYH-5XL",
+      "ST9060-GYH-L",
+      "ST9060-GYH-M",
+      "ST9060-GYH-S",
+      "ST9060-GYH-XL",
+      "ST9060-GYH-XXL",
+      "ST9060-MAB-3XL",
+      "ST9060-MAB-4XL",
+      "ST9060-MAB-5XL",
+      "ST9060-MAB-L",
+      "ST9060-MAB-M",
+      "ST9060-MAB-S",
+      "ST9060-MAB-XL",
+      "ST9060-MAB-XXL",
+      "ST9060-NAV-3XL",
+      "ST9060-NAV-4XL",
+      "ST9060-NAV-5XL",
+      "ST9060-NAV-L",
+      "ST9060-NAV-M",
+      "ST9060-NAV-S",
+      "ST9060-NAV-XL",
+      "ST9060-NAV-XXL",
+      "ST9060-SLG-3XL",
+      "ST9060-SLG-4XL",
+      "ST9060-SLG-5XL",
+      "ST9060-SLG-L",
+      "ST9060-SLG-M",
+      "ST9060-SLG-S",
+      "ST9060-SLG-XL",
+      "ST9060-SLG-XXL",
+      "ST9060-SRE-3XL",
+      "ST9060-SRE-4XL",
+      "ST9060-SRE-5XL",
+      "ST9060-SRE-L",
+      "ST9060-SRE-M",
+      "ST9060-SRE-S",
+      "ST9060-SRE-XL",
+      "ST9060-SRE-XXL",
+      "ST9060-WHI-3XL",
+      "ST9060-WHI-4XL",
+      "ST9060-WHI-5XL",
+      "ST9060-WHI-L",
+      "ST9060-WHI-M",
+      "ST9060-WHI-S",
+      "ST9060-WHI-XL",
+      "ST9060-WHI-XXL"
+    ],
     "price": 6.88,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -4507,7 +8944,7 @@
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st9060-scarletred.jpg",
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st9060-white.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 88,
     "colorCount": 11,
     "sizeCount": 4,
@@ -4569,8 +9006,88 @@
     "summary": "This women’s polo shirt with a feminine cut made of high-quality, soft and durable single piqué offers supreme comfort and comes in Stedman's core colours.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "ST9160",
+    "supplierVariantIds": [
+      "ST9160-BLM-3XL",
+      "ST9160-BLM-L",
+      "ST9160-BLM-M",
+      "ST9160-BLM-S",
+      "ST9160-BLM-XL",
+      "ST9160-BLM-XS",
+      "ST9160-BLM-XXL",
+      "ST9160-BLO-3XL",
+      "ST9160-BLO-L",
+      "ST9160-BLO-M",
+      "ST9160-BLO-S",
+      "ST9160-BLO-XL",
+      "ST9160-BLO-XS",
+      "ST9160-BLO-XXL",
+      "ST9160-BOD-3XL",
+      "ST9160-BOD-L",
+      "ST9160-BOD-M",
+      "ST9160-BOD-S",
+      "ST9160-BOD-XL",
+      "ST9160-BOD-XS",
+      "ST9160-BOD-XXL",
+      "ST9160-BOG-3XL",
+      "ST9160-BOG-L",
+      "ST9160-BOG-M",
+      "ST9160-BOG-S",
+      "ST9160-BOG-XL",
+      "ST9160-BOG-XS",
+      "ST9160-BOG-XXL",
+      "ST9160-BRR-3XL",
+      "ST9160-BRR-L",
+      "ST9160-BRR-M",
+      "ST9160-BRR-S",
+      "ST9160-BRR-XL",
+      "ST9160-BRR-XS",
+      "ST9160-BRR-XXL",
+      "ST9160-GYH-3XL",
+      "ST9160-GYH-L",
+      "ST9160-GYH-M",
+      "ST9160-GYH-S",
+      "ST9160-GYH-XL",
+      "ST9160-GYH-XS",
+      "ST9160-GYH-XXL",
+      "ST9160-MAB-3XL",
+      "ST9160-MAB-L",
+      "ST9160-MAB-M",
+      "ST9160-MAB-S",
+      "ST9160-MAB-XL",
+      "ST9160-MAB-XS",
+      "ST9160-MAB-XXL",
+      "ST9160-NAV-3XL",
+      "ST9160-NAV-L",
+      "ST9160-NAV-M",
+      "ST9160-NAV-S",
+      "ST9160-NAV-XL",
+      "ST9160-NAV-XS",
+      "ST9160-NAV-XXL",
+      "ST9160-SLG-3XL",
+      "ST9160-SLG-L",
+      "ST9160-SLG-M",
+      "ST9160-SLG-S",
+      "ST9160-SLG-XL",
+      "ST9160-SLG-XS",
+      "ST9160-SLG-XXL",
+      "ST9160-SRE-3XL",
+      "ST9160-SRE-L",
+      "ST9160-SRE-M",
+      "ST9160-SRE-S",
+      "ST9160-SRE-XL",
+      "ST9160-SRE-XS",
+      "ST9160-SRE-XXL",
+      "ST9160-WHI-3XL",
+      "ST9160-WHI-L",
+      "ST9160-WHI-M",
+      "ST9160-WHI-S",
+      "ST9160-WHI-XL",
+      "ST9160-WHI-XS",
+      "ST9160-WHI-XXL"
+    ],
     "price": 6.88,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -4587,7 +9104,7 @@
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st9160-scarletred.jpg",
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st9160-white.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 77,
     "colorCount": 11,
     "sizeCount": 5,
@@ -4649,11 +9166,95 @@
     "summary": "This men's polo shirt is made of a super stretchy combed cotton and elastane blend. Its high-quality cotton piqué creates a robust yet soft waffle-like structure.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "ST9640",
+    "supplierVariantIds": [
+      "ST9640-BLM-3XL",
+      "ST9640-BLM-L",
+      "ST9640-BLM-M",
+      "ST9640-BLM-S",
+      "ST9640-BLM-XL",
+      "ST9640-BLM-XXL",
+      "ST9640-BLO-3XL",
+      "ST9640-BLO-L",
+      "ST9640-BLO-M",
+      "ST9640-BLO-S",
+      "ST9640-BLO-XL",
+      "ST9640-BLO-XXL",
+      "ST9640-BOD-3XL",
+      "ST9640-BOD-L",
+      "ST9640-BOD-M",
+      "ST9640-BOD-S",
+      "ST9640-BOD-XL",
+      "ST9640-BOD-XXL",
+      "ST9640-MAB-3XL",
+      "ST9640-MAB-L",
+      "ST9640-MAB-M",
+      "ST9640-MAB-S",
+      "ST9640-MAB-XL",
+      "ST9640-MAB-XXL",
+      "ST9640-NAV-3XL",
+      "ST9640-NAV-L",
+      "ST9640-NAV-M",
+      "ST9640-NAV-S",
+      "ST9640-NAV-XL",
+      "ST9640-NAV-XXL",
+      "ST9640-SLG-3XL",
+      "ST9640-SLG-L",
+      "ST9640-SLG-M",
+      "ST9640-SLG-S",
+      "ST9640-SLG-XL",
+      "ST9640-SLG-XXL",
+      "ST9640-SRE-3XL",
+      "ST9640-SRE-L",
+      "ST9640-SRE-M",
+      "ST9640-SRE-S",
+      "ST9640-SRE-XL",
+      "ST9640-SRE-XXL",
+      "ST9640-WHI-3XL",
+      "ST9640-WHI-L",
+      "ST9640-WHI-M",
+      "ST9640-WHI-S",
+      "ST9640-WHI-XL",
+      "ST9640-WHI-XXL"
+    ],
     "price": 10.75,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -4667,7 +9268,7 @@
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st9640-scarletred.jpg",
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st9640-white.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 48,
     "colorCount": 8,
     "sizeCount": 4,
@@ -4717,11 +9318,95 @@
     "summary": "This women's polo shirt is made of a super stretchy combed cotton and elastane blend. Its high-quality cotton piqué creates a robust yet soft waffle-like structure.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DC",
+        "label": "Digital printing on coloured textiles",
+        "labelRo": "Imprimare digitală pe textile colorate",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DW",
+        "label": "Digital printing on white textiles",
+        "labelRo": "Imprimare digitală pe textile albe",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "ST9740",
+    "supplierVariantIds": [
+      "ST9740-BLM-L",
+      "ST9740-BLM-M",
+      "ST9740-BLM-S",
+      "ST9740-BLM-XL",
+      "ST9740-BLM-XS",
+      "ST9740-BLM-XXL",
+      "ST9740-BLO-L",
+      "ST9740-BLO-M",
+      "ST9740-BLO-S",
+      "ST9740-BLO-XL",
+      "ST9740-BLO-XS",
+      "ST9740-BLO-XXL",
+      "ST9740-BOD-L",
+      "ST9740-BOD-M",
+      "ST9740-BOD-S",
+      "ST9740-BOD-XL",
+      "ST9740-BOD-XS",
+      "ST9740-BOD-XXL",
+      "ST9740-MAB-L",
+      "ST9740-MAB-M",
+      "ST9740-MAB-S",
+      "ST9740-MAB-XL",
+      "ST9740-MAB-XS",
+      "ST9740-MAB-XXL",
+      "ST9740-NAV-L",
+      "ST9740-NAV-M",
+      "ST9740-NAV-S",
+      "ST9740-NAV-XL",
+      "ST9740-NAV-XS",
+      "ST9740-NAV-XXL",
+      "ST9740-SLG-L",
+      "ST9740-SLG-M",
+      "ST9740-SLG-S",
+      "ST9740-SLG-XL",
+      "ST9740-SLG-XS",
+      "ST9740-SLG-XXL",
+      "ST9740-SRE-L",
+      "ST9740-SRE-M",
+      "ST9740-SRE-S",
+      "ST9740-SRE-XL",
+      "ST9740-SRE-XS",
+      "ST9740-SRE-XXL",
+      "ST9740-WHI-L",
+      "ST9740-WHI-M",
+      "ST9740-WHI-S",
+      "ST9740-WHI-XL",
+      "ST9740-WHI-XS",
+      "ST9740-WHI-XXL"
+    ],
     "price": 10.75,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -4735,7 +9420,7 @@
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st9740-scarletred.jpg",
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st9740-white.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 48,
     "colorCount": 8,
     "sizeCount": 5,

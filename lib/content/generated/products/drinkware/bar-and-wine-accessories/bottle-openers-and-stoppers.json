@@ -8,8 +8,19 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "80832",
+    "supplierVariantIds": [
+      "8083208"
+    ],
     "price": 2.74,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -26,7 +37,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/8083208_lifestyle_5.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8083208_lifestyle_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -47,9 +58,23 @@
     "category": "drinkware/bar-and-wine-accessories/bottle-openers-and-stoppers",
     "summary": "Plastic bottle opener in the shape of a beer crate. We will print your logo directly on the opener.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
-    "personalizations": [],
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "80837",
+    "supplierVariantIds": [
+      "8083704",
+      "8083706"
+    ],
     "price": 1.14,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -68,7 +93,7 @@
       "https://macma.ro/products/jpg/M/8083706_5.jpg",
       "https://macma.ro/products/jpg/M/8083706_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -96,8 +121,19 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G1",
+        "label": "Engraving 1",
+        "labelRo": "Gravură 1",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "82865",
+    "supplierVariantIds": [
+      "8286503"
+    ],
     "price": 0.93,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -108,7 +144,7 @@
       "https://macma.ro/products/jpg/M/8286503_4.jpg",
       "https://macma.ro/products/jpg/M/8286503_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -130,10 +166,30 @@
     "summary": "Classic bottle opener with stopper in different colours.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "83020",
+    "supplierVariantIds": [
+      "8302006",
+      "8302005",
+      "8302004"
+    ],
     "price": 0.26,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -152,7 +208,7 @@
       "https://macma.ro/products/jpg/M/8302004_2.jpg",
       "https://macma.ro/products/jpg/M/8302004_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -183,10 +239,27 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "83089",
+    "supplierVariantIds": [
+      "8308913"
+    ],
     "price": 1.34,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -196,7 +269,7 @@
       "https://macma.ro/products/jpg/M/8308913_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8308913_lifestyle_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -218,11 +291,28 @@
     "summary": "Waiter's knife made of metal and bamboo with bottle opener, foil cutter and a corkscrew with 2 lifting levels.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
+      "pad-screen",
       "fiber-laser"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "83091",
+    "supplierVariantIds": [
+      "8309113"
+    ],
     "price": 1.47,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -233,7 +323,7 @@
       "https://macma.ro/products/jpg/M/8309113_4.jpg",
       "https://macma.ro/products/jpg/M/8309113_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -257,8 +347,20 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "83578",
+    "supplierVariantIds": [
+      "8357803",
+      "8357807"
+    ],
     "price": 0.81,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -270,7 +372,7 @@
       "https://macma.ro/products/jpg/M/8357807_1.jpg",
       "https://macma.ro/products/jpg/M/8357807_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -297,10 +399,27 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "83839",
+    "supplierVariantIds": [
+      "8383913"
+    ],
     "price": 1.74,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -312,7 +431,7 @@
       "https://macma.ro/products/jpg/M/8383913_5.jpg",
       "https://macma.ro/products/jpg/M/8383913_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -336,8 +455,25 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "DO",
+        "label": "Macma method DO",
+        "labelRo": "Metodă Macma DO",
+        "printSizes": []
+      },
+      {
+        "code": "G1",
+        "label": "Engraving 1",
+        "labelRo": "Gravură 1",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "90367",
+    "supplierVariantIds": [
+      "9036707"
+    ],
     "price": 1.5,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -350,7 +486,7 @@
       "https://macma.ro/products/jpg/M/9036707_5_print.jpg",
       "https://macma.ro/products/jpg/M/9036707_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -374,8 +510,25 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G1",
+        "label": "Engraving 1",
+        "labelRo": "Gravură 1",
+        "printSizes": [
+          "40 mm x 10 mm"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "91583",
+    "supplierVariantIds": [
+      "9158307",
+      "9158305",
+      "9158304",
+      "9158309",
+      "9158303"
+    ],
     "price": 0.48,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -402,7 +555,7 @@
       "https://macma.ro/products/jpg/M/9158303_4.jpg",
       "https://macma.ro/products/jpg/M/9158303_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -442,8 +595,19 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G1",
+        "label": "Engraving 1",
+        "labelRo": "Gravură 1",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "92260",
+    "supplierVariantIds": [
+      "9226007"
+    ],
     "price": 0.75,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -458,7 +622,7 @@
       "https://macma.ro/products/jpg/M/9226007_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/9226007_lifestyle_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -481,10 +645,33 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "94727",
+    "supplierVariantIds": [
+      "9472713"
+    ],
     "price": 0.81,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -495,7 +682,7 @@
       "https://macma.ro/products/jpg/M/9472713_2.jpg",
       "https://macma.ro/products/jpg/M/9472713_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -519,8 +706,21 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "3,5 x 2"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "95417",
+    "supplierVariantIds": [
+      "9541707"
+    ],
     "price": 4.67,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -531,7 +731,7 @@
       "https://macma.ro/products/jpg/M/9541707_3.jpg",
       "https://macma.ro/products/jpg/M/9541707_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -555,8 +755,25 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G1",
+        "label": "Engraving 1",
+        "labelRo": "Gravură 1",
+        "printSizes": [
+          "2 x 1"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "95445",
+    "supplierVariantIds": [
+      "9544503",
+      "9544504",
+      "9544505",
+      "9544507",
+      "9544509"
+    ],
     "price": 0.27,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -582,7 +799,7 @@
       "https://macma.ro/products/jpg/M/9544509_2.jpg",
       "https://macma.ro/products/jpg/M/9544509_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -621,10 +838,31 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "ø 2"
+        ]
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "ø 2"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "95446",
+    "supplierVariantIds": [
+      "9544603"
+    ],
     "price": 1.74,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -636,7 +874,7 @@
       "https://macma.ro/products/jpg/M/9544603_5.jpg",
       "https://macma.ro/products/jpg/M/9544603_6_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -658,8 +896,13 @@
     "summary": "Schwarzwolf multitool contains 11 kinds of tools – knife, beer opener, can opener,  pliers, splitters, saw, screwdriver, Phillips screwdriver, file, stripping tool. The tool set has a carabiner and comes in a neoprene...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "F240570",
+    "supplierVariantIds": [
+      "F2405701AJ3",
+      "F2405702AJ3"
+    ],
     "price": 14.96,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -675,7 +918,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2405702aj3_c.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2405702aj3_d.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -701,8 +944,12 @@
     "summary": "Multifunctional Schwarzwolf tool with 6 functions. It includes knife, saw, pliers, carabiner, bottle opener and Phillips  screwdriver. Packed in a gift box.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "F240600",
+    "supplierVariantIds": [
+      "F2406000AJ3"
+    ],
     "price": 8.72,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -715,7 +962,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2406000aj3_e.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2406000aj3_f.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

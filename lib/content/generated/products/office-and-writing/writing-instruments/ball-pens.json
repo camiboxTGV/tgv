@@ -6,10 +6,33 @@
     "summary": "Paper pen made from recycled paper with blue-writing refill.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print"
+      "uv-print",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      },
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "10397",
+    "supplierVariantIds": [
+      "1039703",
+      "1039709",
+      "1039705",
+      "1039710",
+      "1039706",
+      "1039704"
+    ],
     "price": 0.09,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -44,7 +67,7 @@
       "https://macma.ro/products/jpg/M/1039704_3.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/1039704_lifestyle_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -87,10 +110,31 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G1",
+        "label": "Engraving 1",
+        "labelRo": "Gravură 1",
+        "printSizes": []
+      },
+      {
+        "code": "T4",
+        "label": "Pad printing 4",
+        "labelRo": "Tampografie 4",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "10418",
+    "supplierVariantIds": [
+      "1041806",
+      "1041805",
+      "1041803",
+      "1041804",
+      "1041809"
+    ],
     "price": 0.35,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -118,7 +162,7 @@
       "https://macma.ro/products/jpg/M/1041809_3.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/1041809_lifestyle_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -157,10 +201,31 @@
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G1",
+        "label": "Engraving 1",
+        "labelRo": "Gravură 1",
+        "printSizes": []
+      },
+      {
+        "code": "T4",
+        "label": "Pad printing 4",
+        "labelRo": "Tampografie 4",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "10419",
+    "supplierVariantIds": [
+      "1041909",
+      "1041905",
+      "1041903",
+      "1041904",
+      "1041906"
+    ],
     "price": 0.51,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -187,7 +252,7 @@
       "https://macma.ro/products/jpg/M/1041906_3.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/1041906_lifestyle_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -225,11 +290,33 @@
     "summary": "Make your customer a KING with this royal ball pen including a Swarovski crystal.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
+      "pad-screen",
       "fiber-laser"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "G1",
+        "label": "Engraving 1",
+        "labelRo": "Gravură 1",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "10488",
+    "supplierVariantIds": [
+      "1048803",
+      "1048806",
+      "1048805",
+      "1048811",
+      "1048810",
+      "1048804"
+    ],
     "price": 1.18,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -277,7 +364,7 @@
       "https://macma.ro/products/jpg/M/1048804_3.jpg",
       "https://macma.ro/products/jpg/M/1048804_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -321,8 +408,19 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "10576",
+    "supplierVariantIds": [
+      "1057603"
+    ],
     "price": 5.62,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -338,7 +436,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/1057603_lifestyle_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/1057603_lifestyle_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -362,8 +460,19 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "10611",
+    "supplierVariantIds": [
+      "1061103"
+    ],
     "price": 3.89,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -377,7 +486,7 @@
       "https://macma.ro/products/jpg/M/1061103_6.jpg",
       "https://macma.ro/products/jpg/M/1061103_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -400,10 +509,27 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "10612",
+    "supplierVariantIds": [
+      "1061203"
+    ],
     "price": 8.4,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -420,7 +546,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/1061203_lifestyle_3.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/1061203_lifestyle_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -444,8 +570,23 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G1",
+        "label": "Engraving 1",
+        "labelRo": "Gravură 1",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "10715",
+    "supplierVariantIds": [
+      "1071503",
+      "1071505",
+      "1071504",
+      "1071510",
+      "1071509"
+    ],
     "price": 0.47,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -472,7 +613,7 @@
       "https://macma.ro/products/jpg/M/1071509_2.jpg",
       "https://macma.ro/products/jpg/M/1071509_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -511,10 +652,33 @@
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G1",
+        "label": "Engraving 1",
+        "labelRo": "Gravură 1",
+        "printSizes": []
+      },
+      {
+        "code": "T4",
+        "label": "Pad printing 4",
+        "labelRo": "Tampografie 4",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "10716",
+    "supplierVariantIds": [
+      "1071609",
+      "1071644",
+      "1071603",
+      "1071606",
+      "1071605",
+      "1071610",
+      "1071604"
+    ],
     "price": 0.66,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -550,7 +714,7 @@
       "https://macma.ro/products/jpg/M/1071604_3.jpg",
       "https://macma.ro/products/jpg/M/1071604_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 7,
     "colorCount": 7,
     "sizeCount": 0,
@@ -595,9 +759,26 @@
     "category": "office-and-writing/writing-instruments/ball-pens",
     "summary": "Cardboard ball pen with blue-writing refill.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
-    "personalizations": [],
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "10866",
+    "supplierVariantIds": [
+      "1086601",
+      "1086604",
+      "1086605",
+      "1086603",
+      "1086609"
+    ],
     "price": 0.11,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -623,7 +804,7 @@
       "https://macma.ro/products/jpg/M/1086609_1.jpg",
       "https://macma.ro/products/jpg/M/1086609_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -663,8 +844,19 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G1",
+        "label": "Engraving 1",
+        "labelRo": "Gravură 1",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "10871",
+    "supplierVariantIds": [
+      "1087103"
+    ],
     "price": 0.81,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -676,7 +868,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/1087103_lifestyle_4.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/1087103_lifestyle_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -700,8 +892,19 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "10898",
+    "supplierVariantIds": [
+      "1089801"
+    ],
     "price": 12.08,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -726,7 +929,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/1089801_lifestyle_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/1089801_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -748,11 +951,28 @@
     "summary": "Black cardboard packaging for a writing instrument.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "10929",
+    "supplierVariantIds": [
+      "1092903"
+    ],
     "price": 0.33,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -764,7 +984,7 @@
       "https://macma.ro/products/jpg/M/1092903_4.jpg",
       "https://macma.ro/products/jpg/M/1092903_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -786,10 +1006,32 @@
     "summary": "Plastic ballpoint pen with blue-writing refill, coloured clip, and silver applications. Your logo will be printed to the right of the clip.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": [
+          "4 × 0,6"
+        ]
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": [
+          "4 × 0,6"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "10930",
+    "supplierVariantIds": [
+      "1093009"
+    ],
     "price": 0.15,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -800,7 +1042,7 @@
       "https://macma.ro/products/jpg/M/1093009_3.jpg",
       "https://macma.ro/products/jpg/M/1093009_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -821,9 +1063,35 @@
     "category": "office-and-writing/writing-instruments/ball-pens",
     "summary": "Plastic ballpoint pen with blue-writing refill, coloured shaft and metal clip.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
-    "personalizations": [],
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "10945",
+    "supplierVariantIds": [
+      "1094506",
+      "1094524",
+      "1094505",
+      "1094504",
+      "1094503",
+      "1094544",
+      "1094508",
+      "1094509",
+      "1094514",
+      "1094502",
+      "1094511",
+      "1094529",
+      "1094512",
+      "1094510"
+    ],
     "price": 0.3,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -887,7 +1155,7 @@
       "https://macma.ro/products/jpg/M/1094510_2.jpg",
       "https://macma.ro/products/jpg/M/1094510_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 14,
     "colorCount": 14,
     "sizeCount": 0,
@@ -963,8 +1231,25 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "10964",
+    "supplierVariantIds": [
+      "1096404",
+      "1096403",
+      "1096406",
+      "1096405",
+      "1096409",
+      "1096410",
+      "1096408"
+    ],
     "price": 0.6,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -999,7 +1284,7 @@
       "https://macma.ro/products/jpg/M/1096408_2.jpg",
       "https://macma.ro/products/jpg/M/1096408_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 7,
     "colorCount": 7,
     "sizeCount": 0,
@@ -1047,8 +1332,33 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G0",
+        "label": "Macma method G0",
+        "labelRo": "Metodă Macma G0",
+        "printSizes": []
+      },
+      {
+        "code": "G1",
+        "label": "Engraving 1",
+        "labelRo": "Gravură 1",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "10971",
+    "supplierVariantIds": [
+      "1097103",
+      "1097104",
+      "1097106",
+      "1097114",
+      "1097105",
+      "1097177",
+      "1097109",
+      "1097110",
+      "1097111"
+    ],
     "price": 0.57,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1091,7 +1401,7 @@
       "https://macma.ro/products/jpg/M/1097111_2.jpg",
       "https://macma.ro/products/jpg/M/1097111_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 9,
     "colorCount": 9,
     "sizeCount": 0,
@@ -1145,10 +1455,30 @@
     "summary": "White plastic ballpen with coloured clip and blue-writing refill. Your logo will be printed to the right of the clip, on the shaft or clip.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "11268",
+    "supplierVariantIds": [
+      "1126808",
+      "1126805",
+      "1126809"
+    ],
     "price": 0.1,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1166,7 +1496,7 @@
       "https://macma.ro/products/jpg/M/1126809_2.jpg",
       "https://macma.ro/products/jpg/M/1126809_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -1196,10 +1526,28 @@
     "summary": "Handy, black writing ballpen made of wood with black plastic cap.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "co2"
+      "co2",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG1",
+        "label": "CO₂ engraving 1",
+        "labelRo": "Gravură CO₂ 1",
+        "printSizes": []
+      },
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "11291",
+    "supplierVariantIds": [
+      "1129101"
+    ],
     "price": 0.22,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1210,7 +1558,7 @@
       "https://macma.ro/products/jpg/M/1129101_3.jpg",
       "https://macma.ro/products/jpg/M/1129101_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1232,10 +1580,28 @@
     "summary": "High-quality cork ballpen with blue-writing refill.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "co2"
+      "co2",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG1",
+        "label": "CO₂ engraving 1",
+        "labelRo": "Gravură CO₂ 1",
+        "printSizes": []
+      },
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "11366",
+    "supplierVariantIds": [
+      "1136601"
+    ],
     "price": 0.26,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1247,7 +1613,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/1136601_lifestyle_4.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/1136601_lifestyle_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1268,9 +1634,22 @@
     "category": "office-and-writing/writing-instruments/ball-pens",
     "summary": "Classic plastic ballpen with wheat straw coating, silver applications, and blue-writing refill. Your logo will be printed to the right of the clip.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
-    "personalizations": [],
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "11435",
+    "supplierVariantIds": [
+      "1143513"
+    ],
     "price": 0.21,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1282,7 +1661,7 @@
       "https://macma.ro/products/jpg/M/1143513_4.jpg",
       "https://macma.ro/products/jpg/M/1143513_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1305,10 +1684,33 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "11474",
+    "supplierVariantIds": [
+      "1147401"
+    ],
     "price": 4.78,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1334,7 +1736,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/1147401_lifestyle_16.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/1147401_lifestyle_17.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1357,10 +1759,27 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG1",
+        "label": "CO₂ engraving 1",
+        "labelRo": "Gravură CO₂ 1",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "11495",
+    "supplierVariantIds": [
+      "1149513"
+    ],
     "price": 0.61,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1373,7 +1792,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/1149513_lifestyle_4.jpg",
       "https://macma.ro/products/jpg/M/1149513_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1396,10 +1815,27 @@
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "11496",
+    "supplierVariantIds": [
+      "1149613"
+    ],
     "price": 2.94,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1412,7 +1848,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/1149613_lifestyle_1.jpg",
       "https://macma.ro/products/jpg/M/1149613_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1433,9 +1869,22 @@
     "category": "office-and-writing/writing-instruments/ball-pens",
     "summary": "Environmentally friendly ballpen in the shape of a corn cob, made of recycled plastic mixed with corn, with blue-writing refill.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
-    "personalizations": [],
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "11532",
+    "supplierVariantIds": [
+      "1153208"
+    ],
     "price": 0.14,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1445,7 +1894,7 @@
       "https://macma.ro/products/jpg/M/1153208_2.jpg",
       "https://macma.ro/products/jpg/M/1153208_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1467,10 +1916,34 @@
     "summary": "The classic in multicolour version, plastic ball pen with metal clip and blue-writing large refill.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "11679",
+    "supplierVariantIds": [
+      "1167909",
+      "1167908",
+      "1167905",
+      "1167903",
+      "1167904",
+      "1167910",
+      "1167906"
+    ],
     "price": 0.12,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1508,7 +1981,7 @@
       "https://macma.ro/products/jpg/M/1167906_3.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/1167906_lifestyle_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 7,
     "colorCount": 7,
     "sizeCount": 0,
@@ -1554,10 +2027,37 @@
     "summary": "Ball pen with satin finish, rubber grip zone, and blue-writing large refill.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "11681",
+    "supplierVariantIds": [
+      "1168105",
+      "1168103",
+      "1168109",
+      "1168110",
+      "1168104",
+      "1168114",
+      "1168102",
+      "1168111",
+      "1168108",
+      "1168112"
+    ],
     "price": 0.12,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1604,7 +2104,7 @@
       "https://macma.ro/products/jpg/M/1168112_2.jpg",
       "https://macma.ro/products/jpg/M/1168112_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 10,
     "colorCount": 10,
     "sizeCount": 0,
@@ -1662,10 +2162,41 @@
     "summary": "Transparent ball pen with silver metal clip, rubber grip zone and blue-writing large refill.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "11682",
+    "supplierVariantIds": [
+      "1168205",
+      "1168206",
+      "1168204",
+      "1168203",
+      "1168209",
+      "1168229",
+      "1168210",
+      "1168212",
+      "1168202",
+      "1168211",
+      "1168224",
+      "1168208",
+      "1168214",
+      "1168244"
+    ],
     "price": 0.12,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1729,7 +2260,7 @@
       "https://macma.ro/products/jpg/M/1168244_2.jpg",
       "https://macma.ro/products/jpg/M/1168244_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 14,
     "colorCount": 14,
     "sizeCount": 0,
@@ -1803,10 +2334,36 @@
     "summary": "Plastic ball pen with white barrel, metal clip, blue-writing refill, and coloured rubber grip.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "11683",
+    "supplierVariantIds": [
+      "1168304",
+      "1168305",
+      "1168312",
+      "1168344",
+      "1168311",
+      "1168309",
+      "1168303",
+      "1168310",
+      "1168308"
+    ],
     "price": 0.12,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1853,7 +2410,7 @@
       "https://macma.ro/products/jpg/M/1168308_2.jpg",
       "https://macma.ro/products/jpg/M/1168308_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 9,
     "colorCount": 9,
     "sizeCount": 0,
@@ -1909,8 +2466,23 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G1",
+        "label": "Engraving 1",
+        "labelRo": "Gravură 1",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "11747",
+    "supplierVariantIds": [
+      "1174709",
+      "1174704",
+      "1174710",
+      "1174705",
+      "1174703"
+    ],
     "price": 0.47,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1936,7 +2508,7 @@
       "https://macma.ro/products/jpg/M/1174703_2.jpg",
       "https://macma.ro/products/jpg/M/1174703_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -1973,9 +2545,22 @@
     "category": "office-and-writing/writing-instruments/ball-pens",
     "summary": "Translucent Twistpen with silver trims and blue-writing refill. The sprayer is refillable - perfect for perfume or disinfection fluids.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
-    "personalizations": [],
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "11776",
+    "supplierVariantIds": [
+      "1177606"
+    ],
     "price": 0.18,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1988,7 +2573,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/1177606_lifestyle_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/1177606_lifestyle_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2011,10 +2596,27 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "11808",
+    "supplierVariantIds": [
+      "1180807"
+    ],
     "price": 6.9,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2030,7 +2632,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/1180807_lifestyle_5.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/1180807_lifestyle_8.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2053,10 +2655,27 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "12190",
+    "supplierVariantIds": [
+      "1219001"
+    ],
     "price": 1.34,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2067,7 +2686,7 @@
       "https://macma.ro/products/jpg/M/1219001_3.jpg",
       "https://macma.ro/products/jpg/M/1219001_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2089,10 +2708,34 @@
     "summary": "Ballpen with push mechanism and bamboo coating, blue-writing big refill, anthracite applications and Touch-function.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "co2"
+      "co2",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG1",
+        "label": "CO₂ engraving 1",
+        "labelRo": "Gravură CO₂ 1",
+        "printSizes": []
+      },
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "12194",
+    "supplierVariantIds": [
+      "1219403",
+      "1219404",
+      "1219405",
+      "1219410",
+      "1219408",
+      "1219412",
+      "1219409"
+    ],
     "price": 0.3,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2126,7 +2769,7 @@
       "https://macma.ro/products/jpg/M/1219409_2.jpg",
       "https://macma.ro/products/jpg/M/1219409_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 7,
     "colorCount": 7,
     "sizeCount": 0,
@@ -2173,10 +2816,27 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG1",
+        "label": "CO₂ engraving 1",
+        "labelRo": "Gravură CO₂ 1",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "12527",
+    "supplierVariantIds": [
+      "1252701"
+    ],
     "price": 0.45,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2187,7 +2847,7 @@
       "https://macma.ro/products/jpg/M/1252701_3.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/1252701_lifestyle_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2211,8 +2871,25 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      },
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "12532",
+    "supplierVariantIds": [
+      "1253213"
+    ],
     "price": 10.91,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2234,7 +2911,7 @@
       "https://macma.ro/products/jpg/M/1253213_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/1253213_lifestyle_14.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2256,10 +2933,28 @@
     "summary": "Inkless pen made of bamboo with an alloyed lead that oxidizes on the paper.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "co2"
+      "co2",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG1",
+        "label": "CO₂ engraving 1",
+        "labelRo": "Gravură CO₂ 1",
+        "printSizes": []
+      },
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "12538",
+    "supplierVariantIds": [
+      "1253813"
+    ],
     "price": 0.22,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2269,7 +2964,7 @@
       "https://macma.ro/products/jpg/M/1253813_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/1253813_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2292,10 +2987,40 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG1",
+        "label": "CO₂ engraving 1",
+        "labelRo": "Gravură CO₂ 1",
+        "printSizes": []
+      },
+      {
+        "code": "G1",
+        "label": "Engraving 1",
+        "labelRo": "Gravură 1",
+        "printSizes": []
+      },
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "12550",
+    "supplierVariantIds": [
+      "1255013",
+      "1255001"
+    ],
     "price": 1.34,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2309,7 +3034,7 @@
       "https://macma.ro/products/jpg/M/1255001_2.jpg",
       "https://macma.ro/products/jpg/M/1255001_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -2335,10 +3060,29 @@
     "summary": "Classic ballpoint pen made of RPET, transparent with silver applications, rubber sleeve and large-capacity blue refill.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "12552",
+    "supplierVariantIds": [
+      "1255266",
+      "1255224"
+    ],
     "price": 0.21,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2355,7 +3099,7 @@
       "https://macma.ro/products/jpg/M/1255224_4.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/1255224_lifestyle_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -2380,9 +3124,22 @@
     "category": "office-and-writing/writing-instruments/ball-pens",
     "summary": "Transparent ballpoint pen made of RPET with a large blue refill, curved clip, slightly offset grip zone and RPET logo.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
-    "personalizations": [],
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "12557",
+    "supplierVariantIds": [
+      "1255724"
+    ],
     "price": 0.2,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2394,7 +3151,7 @@
       "https://macma.ro/products/jpg/M/1255724_4.jpg",
       "https://macma.ro/products/jpg/M/1255724_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2417,10 +3174,27 @@
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "12558",
+    "supplierVariantIds": [
+      "1255805"
+    ],
     "price": 2.23,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2437,7 +3211,7 @@
       "https://macma.ro/products/jpg/M/1255805_9.jpg",
       "https://macma.ro/products/jpg/M/1255805_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2459,10 +3233,32 @@
     "summary": "Blue-writing ballpoint pen made from recycled paper, the coloured applications are made from corn.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "12565",
+    "supplierVariantIds": [
+      "1256513",
+      "1256504",
+      "1256505",
+      "1256503",
+      "1256509"
+    ],
     "price": 0.15,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2489,7 +3285,7 @@
       "https://macma.ro/products/jpg/M/1256509_2.jpg",
       "https://macma.ro/products/jpg/M/1256509_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -2528,10 +3324,27 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "12575",
+    "supplierVariantIds": [
+      "1257513"
+    ],
     "price": 1.02,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2547,7 +3360,7 @@
       "https://macma.ro/products/jpg/M/1257513_9.jpg",
       "https://macma.ro/products/jpg/M/1257513_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2571,8 +3384,19 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "12581",
+    "supplierVariantIds": [
+      "1258101"
+    ],
     "price": 9.04,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2590,7 +3414,7 @@
       "https://macma.ro/products/jpg/M/1258101_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/1258101_lifestyle_10.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2614,8 +3438,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G1",
+        "label": "Engraving 1",
+        "labelRo": "Gravură 1",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "12614",
+    "supplierVariantIds": [
+      "1261477",
+      "1261495",
+      "1261498"
+    ],
     "price": 0.67,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2634,7 +3471,7 @@
       "https://macma.ro/products/jpg/M/1261498_2.jpg",
       "https://macma.ro/products/jpg/M/1261498_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -2665,10 +3502,27 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G1",
+        "label": "Engraving 1",
+        "labelRo": "Gravură 1",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "12617",
+    "supplierVariantIds": [
+      "1261707"
+    ],
     "price": 3.04,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2682,7 +3536,7 @@
       "https://macma.ro/products/jpg/M/1261707_6.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/1261707_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2704,10 +3558,33 @@
     "summary": "Trendy push-button ball pen with blue-writing refill.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "12618",
+    "supplierVariantIds": [
+      "1261804",
+      "1261803",
+      "1261810",
+      "1261809",
+      "1261808",
+      "1261805"
+    ],
     "price": 0.08,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2738,7 +3615,7 @@
       "https://macma.ro/products/jpg/M/1261805_2.jpg",
       "https://macma.ro/products/jpg/M/1261805_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -2781,10 +3658,27 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G1",
+        "label": "Engraving 1",
+        "labelRo": "Gravură 1",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "12643",
+    "supplierVariantIds": [
+      "1264303"
+    ],
     "price": 0.74,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2799,7 +3693,7 @@
       "https://macma.ro/products/jpg/M/1264303_7.jpg",
       "https://macma.ro/products/jpg/M/1264303_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2822,10 +3716,27 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G1",
+        "label": "Engraving 1",
+        "labelRo": "Gravură 1",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "12644",
+    "supplierVariantIds": [
+      "1264403"
+    ],
     "price": 1.42,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2843,7 +3754,7 @@
       "https://macma.ro/products/jpg/M/1264403_9.jpg",
       "https://macma.ro/products/jpg/M/1264403_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2866,10 +3777,27 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "13034",
+    "supplierVariantIds": [
+      "1303403"
+    ],
     "price": 17.49,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2886,7 +3814,7 @@
       "https://macma.ro/products/jpg/M/1303403_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/1303403_lifestyle_8.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2909,10 +3837,27 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "13158",
+    "supplierVariantIds": [
+      "1315813"
+    ],
     "price": 2.67,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2922,7 +3867,7 @@
       "https://macma.ro/products/jpg/M/1315813_2.jpg",
       "https://macma.ro/products/jpg/M/1315813_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2944,10 +3889,33 @@
     "summary": "Retractable bamboo ballpen with coloured wheatstraw applications and a blue-writing refill.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "co2"
+      "co2",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG1",
+        "label": "CO₂ engraving 1",
+        "labelRo": "Gravură CO₂ 1",
+        "printSizes": []
+      },
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "13211",
+    "supplierVariantIds": [
+      "1321104",
+      "1321105",
+      "1321103",
+      "1321110",
+      "1321106",
+      "1321109"
+    ],
     "price": 0.2,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2979,7 +3947,7 @@
       "https://macma.ro/products/jpg/M/1321109_2.jpg",
       "https://macma.ro/products/jpg/M/1321109_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -3024,8 +3992,32 @@
       "fiber-laser",
       "uv-print"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G1",
+        "label": "Engraving 1",
+        "labelRo": "Gravură 1",
+        "printSizes": []
+      },
+      {
+        "code": "UV-PL",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "13238",
+    "supplierVariantIds": [
+      "1323809",
+      "1323899",
+      "1323804",
+      "1323803",
+      "1323805",
+      "1323844",
+      "1323810",
+      "1323877"
+    ],
     "price": 0.36,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -3066,7 +4058,7 @@
       "https://macma.ro/products/jpg/M/1323877_2.jpg",
       "https://macma.ro/products/jpg/M/1323877_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 8,
     "colorCount": 8,
     "sizeCount": 0,
@@ -3116,10 +4108,39 @@
     "summary": "The ultimate metal ball pen for your company, with large blue-writing refill and anodized surface.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G0",
+        "label": "Macma method G0",
+        "labelRo": "Metodă Macma G0",
+        "printSizes": []
+      },
+      {
+        "code": "T4",
+        "label": "Pad printing 4",
+        "labelRo": "Tampografie 4",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "13339",
+    "supplierVariantIds": [
+      "1333904",
+      "1333903",
+      "1333906",
+      "1333977",
+      "1333905",
+      "1333911",
+      "1333909",
+      "1333914",
+      "1333910",
+      "1333902",
+      "1333929",
+      "1333908",
+      "1333912"
+    ],
     "price": 0.21,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -3165,7 +4186,7 @@
       "https://macma.ro/products/jpg/M/1333912_1.jpg",
       "https://macma.ro/products/jpg/M/1333912_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 13,
     "colorCount": 13,
     "sizeCount": 0,
@@ -3236,10 +4257,27 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "13383",
+    "supplierVariantIds": [
+      "1338303"
+    ],
     "price": 7.75,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -3255,7 +4293,7 @@
       "https://macma.ro/products/jpg/M/1338303_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/1338303_lifestyle_8.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3276,9 +4314,24 @@
     "category": "office-and-writing/writing-instruments/ball-pens",
     "summary": "Twist mechanism ball pen made of plastic with blue-writing refill. Thanks to its slim shape, this ball pen is perfectly suitable for notebook loops.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
-    "personalizations": [],
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "13405",
+    "supplierVariantIds": [
+      "1340503",
+      "1340506",
+      "1340504"
+    ],
     "price": 0.21,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -3296,7 +4349,7 @@
       "https://macma.ro/products/jpg/M/1340504_2.jpg",
       "https://macma.ro/products/jpg/M/1340504_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -3325,9 +4378,27 @@
     "category": "office-and-writing/writing-instruments/ball-pens",
     "summary": "Flexible smile hands ball pen with blue-writing refill and touch function (smartphone and tablet).",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
-    "personalizations": [],
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "13415",
+    "supplierVariantIds": [
+      "1341504",
+      "1341514",
+      "1341505",
+      "1341512",
+      "1341509",
+      "1341510"
+    ],
     "price": 0.81,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -3371,7 +4442,7 @@
       "https://macma.ro/products/jpg/M/1341510_2.jpg",
       "https://macma.ro/products/jpg/M/1341510_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -3415,8 +4486,19 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "13494",
+    "supplierVariantIds": [
+      "1349403"
+    ],
     "price": 2.72,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -3426,7 +4508,7 @@
       "https://macma.ro/products/jpg/M/1349403_2.jpg",
       "https://macma.ro/products/jpg/M/1349403_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3448,10 +4530,33 @@
     "summary": "Plastic ball pen with a jumbo blue-writing refill and colourful applications.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "13537",
+    "supplierVariantIds": [
+      "1353709",
+      "1353704",
+      "1353710",
+      "1353705",
+      "1353703",
+      "1353708"
+    ],
     "price": 0.25,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -3496,7 +4601,7 @@
       "https://macma.ro/products/jpg/M/1353708_4.jpg",
       "https://macma.ro/products/jpg/M/1353708_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -3538,10 +4643,35 @@
     "summary": "Colourful plastic ball pen with a jumbo blue-writing refill and silver applications.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "13538",
+    "supplierVariantIds": [
+      "1353804",
+      "1353806",
+      "1353808",
+      "1353810",
+      "1353803",
+      "1353824",
+      "1353805",
+      "1353829"
+    ],
     "price": 0.22,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -3595,7 +4725,7 @@
       "https://macma.ro/products/jpg/M/1353829_4.jpg",
       "https://macma.ro/products/jpg/M/1353829_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 8,
     "colorCount": 8,
     "sizeCount": 0,
@@ -3648,8 +4778,34 @@
       "fiber-laser",
       "uv-print"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G1",
+        "label": "Engraving 1",
+        "labelRo": "Gravură 1",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "13581",
+    "supplierVariantIds": [
+      "1358105",
+      "1358103",
+      "1358110",
+      "1358107",
+      "1358144",
+      "1358104",
+      "1358102",
+      "1358129",
+      "1358112",
+      "1358108"
+    ],
     "price": 0.41,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -3697,7 +4853,7 @@
       "https://macma.ro/products/jpg/M/1358108_2.jpg",
       "https://macma.ro/products/jpg/M/1358108_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 10,
     "colorCount": 10,
     "sizeCount": 0,
@@ -3757,8 +4913,19 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "13636",
+    "supplierVariantIds": [
+      "1363603"
+    ],
     "price": 1.14,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -3771,7 +4938,7 @@
       "https://macma.ro/products/jpg/M/1363603_6.jpg",
       "https://macma.ro/products/jpg/M/1363603_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3793,10 +4960,42 @@
     "summary": "Fully lacquered metal ball pen with 3 decorative rings and blue-writing refill with large capacity.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G0",
+        "label": "Macma method G0",
+        "labelRo": "Metodă Macma G0",
+        "printSizes": []
+      },
+      {
+        "code": "T4",
+        "label": "Pad printing 4",
+        "labelRo": "Tampografie 4",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "13639",
+    "supplierVariantIds": [
+      "1363905",
+      "1363903",
+      "1363904",
+      "1363944",
+      "1363924",
+      "1363910",
+      "1363912",
+      "1363929",
+      "1363909",
+      "1363911",
+      "1363908",
+      "1363914",
+      "1363906",
+      "1363907",
+      "1363902",
+      "1363977"
+    ],
     "price": 0.27,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -3866,7 +5065,7 @@
       "https://macma.ro/products/jpg/M/1363977_2.jpg",
       "https://macma.ro/products/jpg/M/1363977_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 16,
     "colorCount": 16,
     "sizeCount": 0,
@@ -3947,9 +5146,26 @@
     "category": "office-and-writing/writing-instruments/ball-pens",
     "summary": "Endless paper pen with erasable writing. Infinitely usable.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
-    "personalizations": [],
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "13648",
+    "supplierVariantIds": [
+      "1364803",
+      "1364805",
+      "1364813",
+      "1364804",
+      "1364809"
+    ],
     "price": 0.27,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -3975,7 +5191,7 @@
       "https://macma.ro/products/jpg/M/1364809_2.jpg",
       "https://macma.ro/products/jpg/M/1364809_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -4015,8 +5231,32 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G1",
+        "label": "Engraving 1",
+        "labelRo": "Gravură 1",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "13680",
+    "supplierVariantIds": [
+      "1368008",
+      "1368003",
+      "1368004",
+      "1368009",
+      "1368006",
+      "1368024",
+      "1368005",
+      "1368011",
+      "1368044",
+      "1368029",
+      "1368010",
+      "1368077",
+      "1368012",
+      "1368099"
+    ],
     "price": 0.42,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -4082,7 +5322,7 @@
       "https://macma.ro/products/jpg/M/1368099_2.jpg",
       "https://macma.ro/products/jpg/M/1368099_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 14,
     "colorCount": 14,
     "sizeCount": 0,
@@ -4159,8 +5399,38 @@
       "fiber-laser",
       "uv-print"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G1",
+        "label": "Engraving 1",
+        "labelRo": "Gravură 1",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "13689",
+    "supplierVariantIds": [
+      "1368906",
+      "1368905",
+      "1368944",
+      "1368904",
+      "1368903",
+      "1368909",
+      "1368910",
+      "1368999",
+      "1368977",
+      "1368929",
+      "1368911",
+      "1368908",
+      "1368924",
+      "1368912"
+    ],
     "price": 0.33,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -4224,7 +5494,7 @@
       "https://macma.ro/products/jpg/M/1368912_2.jpg",
       "https://macma.ro/products/jpg/M/1368912_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 14,
     "colorCount": 14,
     "sizeCount": 0,
@@ -4299,10 +5569,37 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G1",
+        "label": "Engraving 1",
+        "labelRo": "Gravură 1",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "13690",
+    "supplierVariantIds": [
+      "1369005",
+      "1369003",
+      "1369004",
+      "1369007",
+      "1369010",
+      "1369002",
+      "1369009",
+      "1369024",
+      "1369006",
+      "1369029",
+      "1369011"
+    ],
     "price": 0.54,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -4355,7 +5652,7 @@
       "https://macma.ro/products/jpg/M/1369011_2.jpg",
       "https://macma.ro/products/jpg/M/1369011_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 11,
     "colorCount": 11,
     "sizeCount": 0,
@@ -4417,10 +5714,36 @@
     "summary": "Plastic ball pen with blue writing refill and extraordinary clip.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "13758",
+    "supplierVariantIds": [
+      "1375806",
+      "1375804",
+      "1375803",
+      "1375805",
+      "1375810",
+      "1375808",
+      "1375809",
+      "1375877",
+      "1375811"
+    ],
     "price": 0.19,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -4463,7 +5786,7 @@
       "https://macma.ro/products/jpg/M/1375811_3.jpg",
       "https://macma.ro/products/jpg/M/1375811_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 9,
     "colorCount": 9,
     "sizeCount": 0,
@@ -4518,10 +5841,27 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG1",
+        "label": "CO₂ engraving 1",
+        "labelRo": "Gravură CO₂ 1",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "13765",
+    "supplierVariantIds": [
+      "1376513"
+    ],
     "price": 0.71,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -4534,7 +5874,7 @@
       "https://macma.ro/products/jpg/M/1376513_5.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/1376513_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -4556,11 +5896,32 @@
     "summary": "Ball pen made of aluminium in great metallic colours and blue writing large capacity refill.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
+      "pad-screen",
       "fiber-laser"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "G1",
+        "label": "Engraving 1",
+        "labelRo": "Gravură 1",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "13782",
+    "supplierVariantIds": [
+      "1378207",
+      "1378204",
+      "1378205",
+      "1378298",
+      "1378209"
+    ],
     "price": 0.47,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -4586,7 +5947,7 @@
       "https://macma.ro/products/jpg/M/1378209_2.jpg",
       "https://macma.ro/products/jpg/M/1378209_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -4623,9 +5984,22 @@
     "category": "office-and-writing/writing-instruments/ball-pens",
     "summary": "Ball pen made of recyceld paper with three decorative rings and blue writing large capacity refill.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
-    "personalizations": [],
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "13793",
+    "supplierVariantIds": [
+      "1379307"
+    ],
     "price": 0.25,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -4638,7 +6012,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/1379307_lifestyle_1.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/1379307_lifestyle_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -4662,8 +6036,30 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G1",
+        "label": "Engraving 1",
+        "labelRo": "Gravură 1",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "13845",
+    "supplierVariantIds": [
+      "1384504",
+      "1384505",
+      "1384503",
+      "1384510",
+      "1384506",
+      "1384577",
+      "1384524",
+      "1384509",
+      "1384511",
+      "1384514",
+      "1384508",
+      "1384529"
+    ],
     "price": 0.57,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -4732,7 +6128,7 @@
       "https://macma.ro/products/jpg/M/1384529_3.jpg",
       "https://macma.ro/products/jpg/M/1384529_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 12,
     "colorCount": 12,
     "sizeCount": 0,
@@ -4800,8 +6196,19 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "13855",
+    "supplierVariantIds": [
+      "1385503"
+    ],
     "price": 5.76,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -4815,7 +6222,7 @@
       "https://macma.ro/products/jpg/M/1385503_6.jpg",
       "https://macma.ro/products/jpg/M/1385503_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -4839,8 +6246,19 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "13856",
+    "supplierVariantIds": [
+      "1385603"
+    ],
     "price": 7.4,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -4863,7 +6281,7 @@
       "https://macma.ro/products/jpg/M/1385603_9.jpg",
       "https://macma.ro/products/jpg/M/1385603_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -4887,8 +6305,25 @@
     "personalizations": [
       "uv-print"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": [
+          "4 x 0,5"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "13873",
+    "supplierVariantIds": [
+      "1387303",
+      "1387305",
+      "1387302",
+      "1387344",
+      "1387312"
+    ],
     "price": 0.47,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -4914,7 +6349,7 @@
       "https://macma.ro/products/jpg/M/1387312_2.jpg",
       "https://macma.ro/products/jpg/M/1387312_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -4953,10 +6388,27 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG1",
+        "label": "CO₂ engraving 1",
+        "labelRo": "Gravură CO₂ 1",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "13874",
+    "supplierVariantIds": [
+      "1387413"
+    ],
     "price": 0.8,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -4965,7 +6417,7 @@
       "https://macma.ro/products/jpg/M/1387413_1.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/1387413_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -4986,9 +6438,25 @@
     "category": "office-and-writing/writing-instruments/ball-pens",
     "summary": "Plastic rollerball pen with lockable cap, plastic clip and large blue ink cartridge.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
-    "personalizations": [],
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "13875",
+    "supplierVariantIds": [
+      "1387503",
+      "1387505",
+      "1387504",
+      "1387506"
+    ],
     "price": 0.39,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -5016,7 +6484,7 @@
       "https://macma.ro/products/jpg/M/1387506_3.jpg",
       "https://macma.ro/products/jpg/M/1387506_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -5051,10 +6519,30 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G1",
+        "label": "Engraving 1",
+        "labelRo": "Gravură 1",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "13876",
+    "supplierVariantIds": [
+      "1387605",
+      "1387606",
+      "1387603",
+      "1387604"
+    ],
     "price": 1.01,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -5078,7 +6566,7 @@
       "https://macma.ro/products/jpg/M/1387604_2.jpg",
       "https://macma.ro/products/jpg/M/1387604_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -5113,10 +6601,29 @@
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G1",
+        "label": "Engraving 1",
+        "labelRo": "Gravură 1",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "13887",
+    "supplierVariantIds": [
+      "1388703",
+      "1388707",
+      "1388706"
+    ],
     "price": 0.72,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -5140,7 +6647,7 @@
       "https://macma.ro/products/jpg/M/1388706_4.jpg",
       "https://macma.ro/products/jpg/M/1388706_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -5172,8 +6679,19 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "13903",
+    "supplierVariantIds": [
+      "1390344"
+    ],
     "price": 6.79,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -5197,7 +6715,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/1390344_lifestyle_1.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/1390344_lifestyle_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -5218,9 +6736,27 @@
     "category": "office-and-writing/writing-instruments/ball-pens",
     "summary": "Blue-writing pen with paper barrel and metal clip.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
-    "personalizations": [],
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "13935",
+    "supplierVariantIds": [
+      "1393503",
+      "1393513",
+      "1393505",
+      "1393506",
+      "1393504",
+      "1393509"
+    ],
     "price": 0.21,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -5253,7 +6789,7 @@
       "https://macma.ro/products/jpg/M/1393509_2.jpg",
       "https://macma.ro/products/jpg/M/1393509_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -5295,12 +6831,40 @@
     "summary": "Recycled aluminium pen with rubberised surface and blue gel (Semi-Gel) refill.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
+      "pad-screen",
       "fiber-laser",
       "uv-print"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      },
+      {
+        "code": "G1",
+        "label": "Engraving 1",
+        "labelRo": "Gravură 1",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "13991",
+    "supplierVariantIds": [
+      "1399105",
+      "1399104",
+      "1399103",
+      "1399106",
+      "1399109",
+      "1399177"
+    ],
     "price": 0.34,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -5337,7 +6901,7 @@
       "https://macma.ro/products/jpg/M/1399177_3.jpg",
       "https://macma.ro/products/jpg/M/1399177_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -5380,10 +6944,27 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "14015",
+    "supplierVariantIds": [
+      "1401501"
+    ],
     "price": 8.16,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -5398,7 +6979,7 @@
       "https://macma.ro/products/jpg/M/1401501_7.jpg",
       "https://macma.ro/products/jpg/M/1401501_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -5421,11 +7002,34 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer",
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "14016",
+    "supplierVariantIds": [
+      "1401601"
+    ],
     "price": 8.57,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -5442,7 +7046,7 @@
       "https://macma.ro/products/jpg/M/1401601_8.jpg",
       "https://macma.ro/products/jpg/M/1401601_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -5463,9 +7067,24 @@
     "category": "office-and-writing/writing-instruments/ball-pens",
     "summary": "Erasable plastic gel pen with matching eraser on the outside of the cap. The pen colour matches the writing colour.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
-    "personalizations": [],
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "14338",
+    "supplierVariantIds": [
+      "1433803",
+      "1433804",
+      "1433805"
+    ],
     "price": 0.45,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -5489,7 +7108,7 @@
       "https://macma.ro/products/jpg/M/1433805_3.jpg",
       "https://macma.ro/products/jpg/M/1433805_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -5521,8 +7140,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "3 × 0,6"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "14383",
+    "supplierVariantIds": [
+      "1438307"
+    ],
     "price": 6.06,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -5543,7 +7175,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/1438307_lifestyle_1.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/1438307_lifestyle_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -5567,8 +7199,22 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "14426",
+    "supplierVariantIds": [
+      "1442677",
+      "1442604",
+      "1442606",
+      "1442605"
+    ],
     "price": 1.71,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -5630,7 +7276,7 @@
       "https://macma.ro/products/jpg/M/1442605_8.jpg",
       "https://macma.ro/products/jpg/M/1442605_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -5667,8 +7313,39 @@
       "fiber-laser",
       "uv-print"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G1",
+        "label": "Engraving 1",
+        "labelRo": "Gravură 1",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "14440",
+    "supplierVariantIds": [
+      "1444006",
+      "1444014",
+      "1444044",
+      "1444008",
+      "1444011",
+      "1444005",
+      "1444004",
+      "1444009",
+      "1444003",
+      "1444002",
+      "1444012",
+      "1444077",
+      "1444024",
+      "1444029",
+      "1444010"
+    ],
     "price": 0.45,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -5741,7 +7418,7 @@
       "https://macma.ro/products/jpg/M/1444010_2.jpg",
       "https://macma.ro/products/jpg/M/1444010_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 15,
     "colorCount": 15,
     "sizeCount": 0,
@@ -5819,10 +7496,29 @@
     "summary": "Plastic ball pen with blue-writing refill and eye-catching hand clips in various designs, with the perfect space for expressive messages that will stay in mind. Print on the shaft 4.5 x 1.2 cm (allover print on reques...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "14445",
+    "supplierVariantIds": [
+      "1444505",
+      "1444509"
+    ],
     "price": 0.14,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -5840,7 +7536,7 @@
       "https://macma.ro/products/jpg/M/1444509_2.jpg",
       "https://macma.ro/products/jpg/M/1444509_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -5867,10 +7563,27 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "14453",
+    "supplierVariantIds": [
+      "1445313"
+    ],
     "price": 4.65,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -5886,7 +7599,7 @@
       "https://macma.ro/products/jpg/M/1445313_8.jpg",
       "https://macma.ro/products/jpg/M/1445313_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -5909,10 +7622,31 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G1",
+        "label": "Engraving 1",
+        "labelRo": "Gravură 1",
+        "printSizes": []
+      },
+      {
+        "code": "T4",
+        "label": "Pad printing 4",
+        "labelRo": "Tampografie 4",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "14469",
+    "supplierVariantIds": [
+      "1446905",
+      "1446906",
+      "1446904",
+      "1446903",
+      "1446909"
+    ],
     "price": 0.51,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -5939,7 +7673,7 @@
       "https://macma.ro/products/jpg/M/1446909_2.jpg",
       "https://macma.ro/products/jpg/M/1446909_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -5979,8 +7713,24 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "4 × 0,6"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "14706",
+    "supplierVariantIds": [
+      "1470604",
+      "1470677",
+      "1470699",
+      "1470605"
+    ],
     "price": 2.46,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -6050,7 +7800,7 @@
       "https://macma.ro/products/jpg/M/1470605_8.jpg",
       "https://macma.ro/products/jpg/M/1470605_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -6083,9 +7833,29 @@
     "category": "office-and-writing/writing-instruments/ball-pens",
     "summary": "Retractable biros made of recycled plastic with coloured applications and large capacity refill that writes in blue.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
-    "personalizations": [],
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "14989",
+    "supplierVariantIds": [
+      "1498906",
+      "1498905",
+      "1498904",
+      "1498908",
+      "1498929",
+      "1498909",
+      "1498911",
+      "1498910"
+    ],
     "price": 0.14,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -6131,7 +7901,7 @@
       "https://macma.ro/products/jpg/M/1498910_2.jpg",
       "https://macma.ro/products/jpg/M/1498910_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 8,
     "colorCount": 8,
     "sizeCount": 0,
@@ -6183,8 +7953,19 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "14991",
+    "supplierVariantIds": [
+      "1499103"
+    ],
     "price": 4.56,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -6199,7 +7980,7 @@
       "https://macma.ro/products/jpg/M/1499103_8.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/1499103_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -6223,8 +8004,19 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "15127",
+    "supplierVariantIds": [
+      "1512707"
+    ],
     "price": 2.67,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -6237,7 +8029,7 @@
       "https://macma.ro/products/jpg/M/1512707_6.jpg",
       "https://macma.ro/products/jpg/M/1512707_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -6261,8 +8053,19 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "15165",
+    "supplierVariantIds": [
+      "1516503"
+    ],
     "price": 2.97,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -6275,7 +8078,7 @@
       "https://macma.ro/products/jpg/M/1516503_5.jpg",
       "https://macma.ro/products/jpg/M/1516503_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -6299,8 +8102,31 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G1",
+        "label": "Engraving 1",
+        "labelRo": "Gravură 1",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "15178",
+    "supplierVariantIds": [
+      "1517804",
+      "1517803",
+      "1517806",
+      "1517805",
+      "1517844",
+      "1517824",
+      "1517808",
+      "1517814",
+      "1517809",
+      "1517812",
+      "1517811",
+      "1517810",
+      "1517829"
+    ],
     "price": 0.38,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -6362,7 +8188,7 @@
       "https://macma.ro/products/jpg/M/1517829_2.jpg",
       "https://macma.ro/products/jpg/M/1517829_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 13,
     "colorCount": 13,
     "sizeCount": 0,
@@ -6433,10 +8259,35 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG1",
+        "label": "CO₂ engraving 1",
+        "labelRo": "Gravură CO₂ 1",
+        "printSizes": []
+      },
+      {
+        "code": "G1",
+        "label": "Engraving 1",
+        "labelRo": "Gravură 1",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "15245",
+    "supplierVariantIds": [
+      "1524504",
+      "1524507",
+      "1524503"
+    ],
     "price": 0.74,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -6459,7 +8310,7 @@
       "https://macma.ro/products/jpg/M/1524503_3.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/1524503_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -6491,8 +8342,26 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G1",
+        "label": "Engraving 1",
+        "labelRo": "Gravură 1",
+        "printSizes": [
+          "4 x 0,6"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "15270",
+    "supplierVariantIds": [
+      "1527003",
+      "1527077",
+      "1527005",
+      "1527044",
+      "1527009",
+      "1527095"
+    ],
     "price": 0.4,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -6522,7 +8391,7 @@
       "https://macma.ro/products/jpg/M/1527095_2.jpg",
       "https://macma.ro/products/jpg/M/1527095_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -6566,8 +8435,21 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": [
+          "3,5 x 0,6"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "15332",
+    "supplierVariantIds": [
+      "1533203"
+    ],
     "price": 6.82,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -6583,7 +8465,7 @@
       "https://macma.ro/products/jpg/M/1533203_8.jpg",
       "https://macma.ro/products/jpg/M/1533203_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -6605,10 +8487,33 @@
     "summary": "Writing instrument made of ABS with a gel refill providing a writing length of up to 250 m, blue ink refill.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": [
+          "4 x 0,6"
+        ]
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": [
+          "4 x 0,6"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "15366",
+    "supplierVariantIds": [
+      "1536603",
+      "1536606"
+    ],
     "price": 0.21,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -6624,7 +8529,7 @@
       "https://macma.ro/products/jpg/M/1536606_3.jpg",
       "https://macma.ro/products/jpg/M/1536606_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -6652,8 +8557,21 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": [
+          "3,5 x 0,6"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "15380",
+    "supplierVariantIds": [
+      "1538044"
+    ],
     "price": 9.86,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -6674,7 +8592,7 @@
       "https://macma.ro/products/jpg/M/1538044_8.jpg",
       "https://macma.ro/products/jpg/M/1538044_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -6698,8 +8616,21 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": [
+          "3,5 x 0,6"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "15381",
+    "supplierVariantIds": [
+      "1538113"
+    ],
     "price": 20.39,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -6718,7 +8649,7 @@
       "https://macma.ro/products/jpg/M/1538113_8.jpg",
       "https://macma.ro/products/jpg/M/1538113_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -6742,8 +8673,22 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": [
+          "3 x 0,6"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "15389",
+    "supplierVariantIds": [
+      "1538903",
+      "1538944"
+    ],
     "price": 5.53,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -6766,7 +8711,7 @@
       "https://macma.ro/products/jpg/M/1538944_7.jpg",
       "https://macma.ro/products/jpg/M/1538944_8.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -6794,8 +8739,24 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": [
+          "3,5 x 0,6"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "15398",
+    "supplierVariantIds": [
+      "1539808",
+      "1539810",
+      "1539824",
+      "1539829"
+    ],
     "price": 6.32,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -6856,7 +8817,7 @@
       "https://macma.ro/products/jpg/M/1539829_8.jpg",
       "https://macma.ro/products/jpg/M/1539829_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -6892,8 +8853,21 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": [
+          "4 x 0,6"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "15410",
+    "supplierVariantIds": [
+      "1541077"
+    ],
     "price": 5.76,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -6915,7 +8889,7 @@
       "https://macma.ro/products/jpg/M/1541077_9.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/1541077_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -6939,8 +8913,25 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G1",
+        "label": "Engraving 1",
+        "labelRo": "Gravură 1",
+        "printSizes": [
+          "4 x 0,6"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "15413",
+    "supplierVariantIds": [
+      "1541305",
+      "1541309",
+      "1541344",
+      "1541395",
+      "1541398"
+    ],
     "price": 0.61,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -6987,7 +8978,7 @@
       "https://macma.ro/products/jpg/M/1541398_6.jpg",
       "https://macma.ro/products/jpg/M/1541398_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -7026,10 +9017,31 @@
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G1",
+        "label": "Engraving 1",
+        "labelRo": "Gravură 1",
+        "printSizes": [
+          "3,5 x 0,6"
+        ]
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "3,5 x 0,6"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "15429",
+    "supplierVariantIds": [
+      "1542907"
+    ],
     "price": 0.78,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -7041,7 +9053,7 @@
       "https://macma.ro/products/jpg/M/1542907_5.jpg",
       "https://macma.ro/products/jpg/M/1542907_6_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -7063,10 +9075,38 @@
     "summary": "White ballpoint pen made from recycled plastic (RABS) with blue ink refill.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": [
+          "4 x 0,6"
+        ]
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": [
+          "4 x 0,6"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "15471",
+    "supplierVariantIds": [
+      "1547103",
+      "1547104",
+      "1547105",
+      "1547107",
+      "1547108",
+      "1547109",
+      "1547110"
+    ],
     "price": 0.24,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -7100,7 +9140,7 @@
       "https://macma.ro/products/jpg/M/1547110_2.jpg",
       "https://macma.ro/products/jpg/M/1547110_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 7,
     "colorCount": 7,
     "sizeCount": 0,
@@ -7148,8 +9188,31 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G1",
+        "label": "Engraving 1",
+        "labelRo": "Gravură 1",
+        "printSizes": [
+          "4 x 0,6"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "15473",
+    "supplierVariantIds": [
+      "1547303",
+      "1547304",
+      "1547305",
+      "1547306",
+      "1547308",
+      "1547309",
+      "1547310",
+      "1547311",
+      "1547324",
+      "1547329",
+      "1547344"
+    ],
     "price": 0.46,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -7202,7 +9265,7 @@
       "https://macma.ro/products/jpg/M/1547344_2.jpg",
       "https://macma.ro/products/jpg/M/1547344_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 11,
     "colorCount": 11,
     "sizeCount": 0,
@@ -7266,8 +9329,26 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G1",
+        "label": "Engraving 1",
+        "labelRo": "Gravură 1",
+        "printSizes": [
+          "4 x 0,6"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "15474",
+    "supplierVariantIds": [
+      "1547403",
+      "1547404",
+      "1547405",
+      "1547406",
+      "1547407",
+      "1547409"
+    ],
     "price": 0.57,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -7303,7 +9384,7 @@
       "https://macma.ro/products/jpg/M/1547409_2.jpg",
       "https://macma.ro/products/jpg/M/1547409_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -7344,9 +9425,26 @@
     "category": "office-and-writing/writing-instruments/ball-pens",
     "summary": "2-in-1 cutter with felt tip pen made of plastic. The pen writes in the color of the cap.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
-    "personalizations": [],
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": [
+          "4 x 0,6"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "15483",
+    "supplierVariantIds": [
+      "1548303",
+      "1548304",
+      "1548305"
+    ],
     "price": 0.71,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -7369,7 +9467,7 @@
       "https://macma.ro/products/jpg/M/1548305_4.jpg",
       "https://macma.ro/products/jpg/M/1548305_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -7401,8 +9499,23 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "3,5 x 0,6"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "15491",
+    "supplierVariantIds": [
+      "1549103",
+      "1549113",
+      "1549144"
+    ],
     "price": 2.43,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -7425,7 +9538,7 @@
       "https://macma.ro/products/jpg/M/1549144_5.jpg",
       "https://macma.ro/products/jpg/M/1549144_6_lifestyle.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -7457,8 +9570,21 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": [
+          "4 x 0,6"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "15492",
+    "supplierVariantIds": [
+      "1549203"
+    ],
     "price": 4.07,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -7472,7 +9598,7 @@
       "https://macma.ro/products/jpg/M/1549203_6.jpg",
       "https://macma.ro/products/jpg/M/1549203_7_lifestyle.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -7494,10 +9620,32 @@
     "summary": "Bamboo ballpoint pen with blue ink and chrome accents.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "co2"
+      "co2",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG1",
+        "label": "CO₂ engraving 1",
+        "labelRo": "Gravură CO₂ 1",
+        "printSizes": [
+          "4 x 0,6"
+        ]
+      },
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": [
+          "4 x 0,6"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "15495",
+    "supplierVariantIds": [
+      "1549513"
+    ],
     "price": 0.3,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -7507,7 +9655,7 @@
       "https://macma.ro/products/jpg/M/1549513_2.jpg",
       "https://macma.ro/products/jpg/M/1549513_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -7531,8 +9679,21 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": [
+          "4 x 0,6"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "15597",
+    "supplierVariantIds": [
+      "1559701"
+    ],
     "price": 8.66,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -7551,7 +9712,7 @@
       "https://macma.ro/products/jpg/M/1559701_8.jpg",
       "https://macma.ro/products/jpg/M/1559701_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -7575,8 +9736,31 @@
     "personalizations": [
       "uv-print"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": [
+          "4 x 1"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "15615",
+    "supplierVariantIds": [
+      "1561503",
+      "1561504",
+      "1561505",
+      "1561506",
+      "1561507",
+      "1561508",
+      "1561509",
+      "1561510",
+      "1561511",
+      "1561512",
+      "1561524"
+    ],
     "price": 0.24,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -7628,7 +9812,7 @@
       "https://macma.ro/products/jpg/M/1561524_2.jpg",
       "https://macma.ro/products/jpg/M/1561524_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 11,
     "colorCount": 11,
     "sizeCount": 0,
@@ -7691,10 +9875,27 @@
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "17481",
+    "supplierVariantIds": [
+      "1748103"
+    ],
     "price": 3.95,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -7708,7 +9909,7 @@
       "https://macma.ro/products/jpg/M/1748103_5.jpg",
       "https://macma.ro/products/jpg/M/1748103_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -7731,10 +9932,31 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G1",
+        "label": "Engraving 1",
+        "labelRo": "Gravură 1",
+        "printSizes": []
+      },
+      {
+        "code": "T4",
+        "label": "Pad printing 4",
+        "labelRo": "Tampografie 4",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "17605",
+    "supplierVariantIds": [
+      "1760503",
+      "1760504",
+      "1760506",
+      "1760505",
+      "1760507"
+    ],
     "price": 0.6,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -7760,7 +9982,7 @@
       "https://macma.ro/products/jpg/M/1760507_2.jpg",
       "https://macma.ro/products/jpg/M/1760507_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -7797,9 +10019,32 @@
     "category": "office-and-writing/writing-instruments/ball-pens",
     "summary": "Plastic ball pen with sparkling dots grip zone and large blue refill.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
-    "personalizations": [],
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "17717",
+    "supplierVariantIds": [
+      "1771704",
+      "1771707",
+      "1771709",
+      "1771705",
+      "1771706",
+      "1771703",
+      "1771710",
+      "1771714",
+      "1771711",
+      "1771712",
+      "1771729"
+    ],
     "price": 0.33,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -7851,7 +10096,7 @@
       "https://macma.ro/products/jpg/M/1771729_2.jpg",
       "https://macma.ro/products/jpg/M/1771729_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 11,
     "colorCount": 11,
     "sizeCount": 0,
@@ -7914,10 +10159,27 @@
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "17841",
+    "supplierVariantIds": [
+      "1784107"
+    ],
     "price": 8.45,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -7935,7 +10197,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/1784107_lifestyle_6.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/1784107_lifestyle_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -7957,10 +10219,33 @@
     "summary": "Ball pen with push mechanism, rubber grip zone, blue-writing refill, metal pusher and tip.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "17899",
+    "supplierVariantIds": [
+      "1789905",
+      "1789904",
+      "1789903",
+      "1789909",
+      "1789910",
+      "1789908"
+    ],
     "price": 0.19,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -7984,7 +10269,7 @@
       "https://macma.ro/products/jpg/M/1789908_1.jpg",
       "https://macma.ro/products/jpg/M/1789908_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -8026,10 +10311,31 @@
     "summary": "Plastic ball pen with push mechanism, blue-writing refill, and soft rubber grip zone.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "17959",
+    "supplierVariantIds": [
+      "1795903",
+      "1795904",
+      "1795905",
+      "1795909"
+    ],
     "price": 0.15,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -8047,7 +10353,7 @@
       "https://macma.ro/products/jpg/M/1795909_1.jpg",
       "https://macma.ro/products/jpg/M/1795909_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -8083,8 +10389,19 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "18510",
+    "supplierVariantIds": [
+      "1851003"
+    ],
     "price": 2.57,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -8096,7 +10413,7 @@
       "https://macma.ro/products/jpg/M/1851003_4.jpg",
       "https://macma.ro/products/jpg/M/1851003_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -8118,10 +10435,33 @@
     "summary": "Trendy push-button ball pen with blue-writing refill. The white of the barrel highlights the colour of the clip.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "18656",
+    "supplierVariantIds": [
+      "1865606",
+      "1865604",
+      "1865605",
+      "1865610",
+      "1865609",
+      "1865608"
+    ],
     "price": 0.06,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -8151,7 +10491,7 @@
       "https://macma.ro/products/jpg/M/1865608_2.jpg",
       "https://macma.ro/products/jpg/M/1865608_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -8192,9 +10532,27 @@
     "category": "office-and-writing/writing-instruments/ball-pens",
     "summary": "Rotary ball pen made of plastic in elegant slim shape, with blue-writing refill and practical touch pad for effortless handling of smartphones and tablet PCs.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
-    "personalizations": [],
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "18786",
+    "supplierVariantIds": [
+      "1878629",
+      "1878611",
+      "1878606",
+      "1878624",
+      "1878610",
+      "1878612"
+    ],
     "price": 0.21,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -8221,7 +10579,7 @@
       "https://macma.ro/products/jpg/M/1878612_4.jpg",
       "https://macma.ro/products/jpg/M/1878612_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -8263,10 +10621,21 @@
     "summary": "Mobile phone holder with anti-slip base, magnetic function, and blue-writing metal ballpen.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "21292",
+    "supplierVariantIds": [
+      "2129206"
+    ],
     "price": 1.34,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -8282,7 +10651,7 @@
       "https://macma.ro/products/jpg/M/2129206_9.jpg",
       "https://macma.ro/products/jpg/M/2129206_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -8306,8 +10675,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "4 × 0,5"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "B0100100IP3",
+    "supplierVariantIds": [
+      "B0100100IP3"
+    ],
     "price": 14.63,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -8319,7 +10701,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0100100ip3_5.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0100100ip3_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -8343,8 +10725,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "4 × 0,5"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "B0100102IP3",
+    "supplierVariantIds": [
+      "B0100102IP3"
+    ],
     "price": 16.26,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -8354,7 +10749,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0100102ip3_3.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0100102ip3_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -8378,8 +10773,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "2 × 0,4"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "B0100300IP3",
+    "supplierVariantIds": [
+      "B0100300IP3"
+    ],
     "price": 17.25,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -8390,7 +10798,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0100300ip3_4.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0100300ip3_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -8414,8 +10822,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "2,5 × 0,4"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "B0100500IP3",
+    "supplierVariantIds": [
+      "B0100500IP3"
+    ],
     "price": 14.97,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -8426,7 +10847,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0100500ip3_4.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0100500ip3_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -8450,8 +10871,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "2,5 × 0,4"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "B0100501IP3",
+    "supplierVariantIds": [
+      "B0100501IP3"
+    ],
     "price": 16.46,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -8460,7 +10894,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0100501ip3_2.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0100501ip3_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -8484,8 +10918,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "4 × 0,5"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "B0100700IP3",
+    "supplierVariantIds": [
+      "B0100700IP3"
+    ],
     "price": 16.62,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -8495,7 +10942,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0100700ip3_3.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0100700ip3_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -8519,8 +10966,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "4 × 0,5"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "B0100800IP3",
+    "supplierVariantIds": [
+      "B0100800IP3"
+    ],
     "price": 15.87,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -8530,7 +10990,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0100800ip3_3.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0100800ip3_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -8554,8 +11014,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "4 × 0,5"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "B0100900IP3",
+    "supplierVariantIds": [
+      "B0100900IP3"
+    ],
     "price": 16.18,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -8565,7 +11038,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0100900ip3_4.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0100900ip3_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -8589,8 +11062,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "4 × 0,4"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "B0101100IP3",
+    "supplierVariantIds": [
+      "B0101100IP3"
+    ],
     "price": 3,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -8600,7 +11086,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0101100ip3_3.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0101100ip3_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -8624,8 +11110,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "3 × 0,6"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "B0101400IP3",
+    "supplierVariantIds": [
+      "B0101400IP3"
+    ],
     "price": 16.6,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -8634,7 +11133,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0101400ip3_2.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0101400ip3_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -8658,8 +11157,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "3 × 0,6"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "B0101401IP3",
+    "supplierVariantIds": [
+      "B0101401IP3"
+    ],
     "price": 16.6,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -8668,7 +11180,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0101401ip3_2.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0101401ip3_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -8692,8 +11204,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "3 × 0,6"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "B0101402IP3",
+    "supplierVariantIds": [
+      "B0101402IP3"
+    ],
     "price": 16.6,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -8704,7 +11229,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0101402ip3_c.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0101402ip3_d.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -8728,8 +11253,29 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "4 × 0,6"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "B010170",
+    "supplierVariantIds": [
+      "B0101705IP3",
+      "B0101701IP3",
+      "B0101702IP3",
+      "B0101700IP3",
+      "B0101704IP3",
+      "B0101703IP3",
+      "B0101706IP3",
+      "B0101707IP3",
+      "B0101708IP3"
+    ],
     "price": 3.65,
     "priceFrom": false,
     "stockLevel": "low",
@@ -8787,7 +11333,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0101708ip3_5.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0101708ip3_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 9,
     "colorCount": 9,
     "sizeCount": 0,
@@ -8843,8 +11389,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "3 × 0,7"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "B0102000IP3",
+    "supplierVariantIds": [
+      "B0102000IP3"
+    ],
     "price": 3.65,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -8854,7 +11413,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0102000ip3_3.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0102000ip3_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -8878,8 +11437,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "3 × 0,7"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "B0102001IP3",
+    "supplierVariantIds": [
+      "B0102001IP3"
+    ],
     "price": 3.65,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -8888,7 +11460,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0102001ip3_2.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0102001ip3_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -8912,8 +11484,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "3 × 0,2"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "B0102200IP3",
+    "supplierVariantIds": [
+      "B0102200IP3"
+    ],
     "price": 10.76,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -8924,7 +11509,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0102200ip3_4.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0102200ip3_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -8948,8 +11533,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "3 × 0,5"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "B0102300IP3",
+    "supplierVariantIds": [
+      "B0102300IP3"
+    ],
     "price": 4.52,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -8959,7 +11557,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0102300ip3_3.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0102300ip3_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -8983,8 +11581,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "3 × 0,5"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "B0102400IP3",
+    "supplierVariantIds": [
+      "B0102400IP3"
+    ],
     "price": 4.52,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -8994,7 +11605,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0102400ip3_3.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0102400ip3_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -9018,8 +11629,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "3 × 0,5"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "B0102500IP3",
+    "supplierVariantIds": [
+      "B0102500IP3"
+    ],
     "price": 4.8,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -9029,7 +11653,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0102500ip3_3.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0102500ip3_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -9053,8 +11677,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "4 × 0,5"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "B0113500IP3",
+    "supplierVariantIds": [
+      "B0113500IP3"
+    ],
     "price": 14.13,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -9063,7 +11700,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0113500ip3_2.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0113500ip3_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -9087,8 +11724,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "4 × 0,5"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "B0113501IP3",
+    "supplierVariantIds": [
+      "B0113501IP3"
+    ],
     "price": 16.26,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -9097,7 +11747,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0113501ip3_2.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0113501ip3_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -9121,8 +11771,31 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G1",
+        "label": "Engraving 1",
+        "labelRo": "Gravură 1",
+        "printSizes": [
+          "3,8 × 0,7"
+        ]
+      },
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "3,8 × 0,7"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "B013990",
+    "supplierVariantIds": [
+      "B0139900IP3",
+      "B0139901IP3",
+      "B0139902IP3"
+    ],
     "price": 5.7,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -9137,7 +11810,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0139902ip3_2.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0139902ip3_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -9167,8 +11840,13 @@
     "summary": "An elegant and smooth Pierre Cardin metal ballpoint pen with a rotating\nmechanism. The body of the pen is decorated with checkerboard\nengraving. It contains a quality blue refill with a 1 mm tip and one\nblack spare re...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "B0140000IP3",
+    "supplierVariantIds": [
+      "B0140000IP3",
+      "B0140001IP3"
+    ],
     "price": 13.67,
     "priceFrom": true,
     "stockLevel": "out-of-stock",
@@ -9184,7 +11862,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0140001ip3_c.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0140001ip3_d.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -9210,8 +11888,12 @@
     "summary": "An elegant Pierre Cardin metal ballpoint pen. The pen body is designed in black with an imaginative structured design. Tthe ballpoint pen has a rotating mechanism and contains a quality refill in blue with a 1 mm tip....",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "B0140300IP3",
+    "supplierVariantIds": [
+      "B0140300IP3"
+    ],
     "price": 17.22,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -9221,7 +11903,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0140300ip3_c.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0140300ip3_d.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -9243,8 +11925,15 @@
     "summary": "An elegant Pierre Cardin metal ballpoint pen. The pen has a rotating\nmechanism and the lower part of the pen is decorated in a structural\ndesign. It is offered in four colours with black accessories. It contains\na qua...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "B0140400IP3",
+    "supplierVariantIds": [
+      "B0140400IP3",
+      "B0140401IP3",
+      "B0140402IP3",
+      "B0140403IP3"
+    ],
     "price": 4.12,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -9266,7 +11955,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0140403ip3_b.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0140403ip3_c.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -9300,8 +11989,15 @@
     "summary": "An elegant Pierre Cardin erasable metal ballpoint pen. It is offered in four modern colors. The pen contains a black refill that can be erased using a special stylus located at the top of the pen. Packed in a gift box...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "B014050",
+    "supplierVariantIds": [
+      "B0140500IP3",
+      "B0140501IP3",
+      "B0140502IP3",
+      "B0140503IP3"
+    ],
     "price": 3.37,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -9319,7 +12015,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0140503ip3_a_0.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0140503ip3_b_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -9353,8 +12049,12 @@
     "summary": "Pierre Cardin luxury metal ballpoint pen. The pen body features a structured gunmetal design and its upper part is in dark grey.  The ballpoint pen has a rotating mechanism and contains a quality refill in blue with a...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "B0140600IP3",
+    "supplierVariantIds": [
+      "B0140600IP3"
+    ],
     "price": 16.57,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -9364,7 +12064,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0140600ip3_b_0.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0140600ip3_c_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -9386,8 +12086,12 @@
     "summary": "Pierre Cardin luxury ballpoint pen in an elegant design. The pen body is designed in glossy black with structured upper part in gunmetal. The ballpoint pen has  a rotating mechanism and contains a quality refill in bl...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "B0140700IP3",
+    "supplierVariantIds": [
+      "B0140700IP3"
+    ],
     "price": 17.04,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -9397,7 +12101,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0140700ip3_b_0.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0140700ip3_c_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -9421,8 +12125,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "4 × 0,5"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "B0200100IP3",
+    "supplierVariantIds": [
+      "B0200100IP3"
+    ],
     "price": 17.44,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -9433,7 +12150,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0200100ip3_4.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0200100ip3_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -9457,8 +12174,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "4 × 0,5"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "B0200200IP3",
+    "supplierVariantIds": [
+      "B0200200IP3"
+    ],
     "price": 17.02,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -9468,7 +12198,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0200200ip3_3.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0200200ip3_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -9490,8 +12220,12 @@
     "summary": "Pierre Cardin luxury fountain pen in an elegant design. The pen body is designed in glossy black with structured upper part in gunmetal. The tip of fountain pen is protected by a cap. The fountain pen contains a stand...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "B0200400IP3",
+    "supplierVariantIds": [
+      "B0200400IP3"
+    ],
     "price": 18.59,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -9502,7 +12236,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0200400ip3_c_0.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0200400ip3_d_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -9526,8 +12260,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "2,5 × 0,4"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "B0300200IP3",
+    "supplierVariantIds": [
+      "B0300200IP3"
+    ],
     "price": 16.97,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -9538,7 +12285,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0300200ip3_4.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0300200ip3_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -9562,8 +12309,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "2,5 × 0,4"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "B0300201IP3",
+    "supplierVariantIds": [
+      "B0300201IP3"
+    ],
     "price": 20.67,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -9573,7 +12333,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0300201ip3_3.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0300201ip3_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -9597,8 +12357,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "4 × 0,5"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "B0300400IP3",
+    "supplierVariantIds": [
+      "B0300400IP3"
+    ],
     "price": 17.92,
     "priceFrom": false,
     "stockLevel": "low",
@@ -9609,7 +12382,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0300400ip3_4.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0300400ip3_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -9633,8 +12406,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "4 × 0,5"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "B0300500IP3",
+    "supplierVariantIds": [
+      "B0300500IP3"
+    ],
     "price": 18,
     "priceFrom": false,
     "stockLevel": "low",
@@ -9645,7 +12431,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0300500ip3_4.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0300500ip3_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -9669,8 +12455,29 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "4 × 0,6"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "B030060",
+    "supplierVariantIds": [
+      "B0300601IP3",
+      "B0300600IP3",
+      "B0300602IP3",
+      "B0300603IP3",
+      "B0300604IP3",
+      "B0300607IP3",
+      "B0300605IP3",
+      "B0300608IP3",
+      "B0300606IP3"
+    ],
     "price": 4.02,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -9706,7 +12513,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0300606ip3_2.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0300606ip3_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 9,
     "colorCount": 9,
     "sizeCount": 0,
@@ -9762,8 +12569,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "4 × 0,6"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "B0300800IP3",
+    "supplierVariantIds": [
+      "B0300800IP3"
+    ],
     "price": 4.02,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -9772,7 +12592,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0300800ip3_2.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0300800ip3_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -9796,8 +12616,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "4 × 0,6"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "B0300801IP3",
+    "supplierVariantIds": [
+      "B0300801IP3"
+    ],
     "price": 4.02,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -9807,7 +12640,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0300801ip3_3.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0300801ip3_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -9831,8 +12664,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "3,5 × 0,6"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "B0300901IP3",
+    "supplierVariantIds": [
+      "B0300901IP3"
+    ],
     "price": 17.14,
     "priceFrom": false,
     "stockLevel": "low",
@@ -9844,7 +12690,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0300901ip3_5.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0300901ip3_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -9868,8 +12714,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "4 × 0,5"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "B0303200IP3",
+    "supplierVariantIds": [
+      "B0303200IP3"
+    ],
     "price": 15.78,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -9878,7 +12737,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0303200ip3_2.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0303200ip3_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -9902,8 +12761,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "4 × 0,5"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "B0303201IP3",
+    "supplierVariantIds": [
+      "B0303201IP3"
+    ],
     "price": 18.37,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -9911,7 +12783,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0303201ip3_1.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0303201ip3_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -9935,8 +12807,23 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "3,4 × 0,6"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "B030340",
+    "supplierVariantIds": [
+      "B0303400IP3",
+      "B0303401IP3",
+      "B0303402IP3"
+    ],
     "price": 8.12,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -9951,7 +12838,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0303402ip3_2.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0303402ip3_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -9981,8 +12868,12 @@
     "summary": "An elegant Pierre Cardin metal roller. It´s body is designed\nin black with an imaginative structured design. The tip of the roller is protected by a cap in the colour of the pen.  Roller contains a German Schmidt cart...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "B0303700IP3",
+    "supplierVariantIds": [
+      "B0303700IP3"
+    ],
     "price": 20.22,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -9992,7 +12883,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0303700ip3_c.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0303700ip3_d.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -10014,8 +12905,12 @@
     "summary": "Pierre Cardin luxury metal roller. Its body feature a structured gunmetal design and its upper parts is in dark grey. The tip of the roller is protected by a cap. Roller contains a German Schmidt cartridge in blue wit...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "B0303800IP3",
+    "supplierVariantIds": [
+      "B0303800IP3"
+    ],
     "price": 20.05,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -10026,7 +12921,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0303800ip3_c_0.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0303800ip3_d_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -10048,8 +12943,12 @@
     "summary": "Pierre Cardin luxury roller in an elegant design. The roller body is designed in glossy black with structured upper part in gunmetal. The tip of the roller is protected by a cap. It contains a German Schmidt cartridge...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "B0303900IP3",
+    "supplierVariantIds": [
+      "B0303900IP3"
+    ],
     "price": 20.45,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -10060,7 +12959,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0303900ip3_c_0.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0303900ip3_d_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -10084,8 +12983,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "4 × 0,5"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "B0400500IP3",
+    "supplierVariantIds": [
+      "B0400500IP3"
+    ],
     "price": 28.67,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -10096,7 +13008,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0400500ip3_4.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0400500ip3_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -10120,8 +13032,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "5 × 0,5"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "B0400700IP3",
+    "supplierVariantIds": [
+      "B0400700IP3"
+    ],
     "price": 6.35,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -10130,7 +13055,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0400700ip3_2.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0400700ip3_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -10153,8 +13078,29 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "4 × 0,6"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "B040100",
+    "supplierVariantIds": [
+      "B0401001IP3",
+      "B0401000IP3",
+      "B0401002IP3",
+      "B0401003IP3",
+      "B0401004IP3",
+      "B0401005IP3",
+      "B0401006IP3",
+      "B0401007IP3",
+      "B0401008IP3"
+    ],
     "price": 6.88,
     "priceFrom": false,
     "stockLevel": "low",
@@ -10214,7 +13160,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0401008ip3_5.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0401008ip3_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 9,
     "colorCount": 9,
     "sizeCount": 0,
@@ -10270,8 +13216,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "3 × 0,7"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "B0401200IP3",
+    "supplierVariantIds": [
+      "B0401200IP3"
+    ],
     "price": 6.88,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -10281,7 +13240,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0401200ip3_3.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0401200ip3_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -10305,8 +13264,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "3 × 0,7"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "B0401201IP3",
+    "supplierVariantIds": [
+      "B0401201IP3"
+    ],
     "price": 6.88,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -10317,7 +13289,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0401201ip3_4.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0401201ip3_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -10341,8 +13313,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G1",
+        "label": "Engraving 1",
+        "labelRo": "Gravură 1",
+        "printSizes": [
+          "3,5 × 0,5"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "B0408900IP3",
+    "supplierVariantIds": [
+      "B0408900IP3"
+    ],
     "price": 26.09,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -10350,7 +13335,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0408900ip3_1.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0408900ip3_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -10374,8 +13359,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "3,5 × 0,5"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "B0408901IP3",
+    "supplierVariantIds": [
+      "B0408901IP3"
+    ],
     "price": 28.5,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -10383,7 +13381,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0408901ip3_1.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0408901ip3_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -10404,8 +13402,12 @@
     "summary": "An elegant Pierre Cardin set of metal writing accessories. The pen bodies are designed in black with an imaginative structured design. The tip of the roller is protected by a cap in the colour of the pen, the ballpoin...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "B0409400IP3",
+    "supplierVariantIds": [
+      "B0409400IP3"
+    ],
     "price": 32.46,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -10417,7 +13419,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0409400ip3_d.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0409400ip3_e.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -10439,8 +13441,12 @@
     "summary": "Pierre Cardin luxury metal roller and ballpoint pen. The pen bodies feature a structured gunmetal design and their upper parts are in dark grey. The tip of the roller is protected by a cap, the ballpoint pen has a rot...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "B0409500IP3",
+    "supplierVariantIds": [
+      "B0409500IP3"
+    ],
     "price": 31.45,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -10453,7 +13459,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0409500ip3_e_0.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0409500ip3_f_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -10475,8 +13481,12 @@
     "summary": "A luxurious Pierre Cardin set of writing instruments in an elegant design. The pen bodies are designed in glossy black with structured upper parts in gunmetal. The ballpoint pen has a rotating mechanism, the tip of th...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "B0409600IP3",
+    "supplierVariantIds": [
+      "B0409600IP3"
+    ],
     "price": 30.78,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -10489,7 +13499,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0409600ip3_e_0.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0409600ip3_f_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -10511,8 +13521,12 @@
     "summary": "A luxurious Pierre Cardin sets of writing instruments in an elegant design. The pen bodies are designed in glossy black with structured upper parts in gunmetal. The tip of the roller and ballpoint pen are protected by...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "B0409700IP3",
+    "supplierVariantIds": [
+      "B0409700IP3"
+    ],
     "price": 34.37,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -10526,7 +13540,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b0409700ip3_f_0.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b0409700ip3_g_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -10550,8 +13564,19 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "F210",
+    "supplierVariantIds": [
+      "F21003"
+    ],
     "price": 8.95,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -10565,7 +13590,7 @@
       "https://macma.ro/products/jpg/M/f21003_7.jpg",
       "https://macma.ro/products/jpg/M/f21003_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -10589,8 +13614,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": [
+          "2,5 × 0,6"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "F242",
+    "supplierVariantIds": [
+      "F24207"
+    ],
     "price": 12.23,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -10613,7 +13651,7 @@
       "https://macma.ro/products/jpg/M/f24207_8.jpg",
       "https://macma.ro/products/jpg/M/f24207_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -10637,8 +13675,21 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": [
+          "4 x 0,6"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "F252",
+    "supplierVariantIds": [
+      "F25203"
+    ],
     "price": 9.16,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -10654,7 +13705,7 @@
       "https://macma.ro/products/jpg/M/f25203_8.jpg",
       "https://macma.ro/products/jpg/M/f25203_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -10678,8 +13729,21 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": [
+          "4 x 0,6"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "F253",
+    "supplierVariantIds": [
+      "F25377"
+    ],
     "price": 8.4,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -10699,7 +13763,7 @@
       "https://macma.ro/products/jpg/M/f25377_8.jpg",
       "https://macma.ro/products/jpg/M/f25377_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -10723,8 +13787,21 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "F263",
+    "supplierVariantIds": [
+      "F26377",
+      "F26304",
+      "F26303"
+    ],
     "price": 4.65,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -10763,7 +13840,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/f26303_lifestyle_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/f26303_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,

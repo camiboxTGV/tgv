@@ -6,11 +6,69 @@
     "summary": "Full zip women's softshell jacket with inner storm flap and zip neck protector at collar, side pockets and chest pocket with inner lining, reversed zips and cord pulls, 5.000mm water column, water-resistant, absolutel...",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "140F",
+    "supplierVariantIds": [
+      "JZ140F.03.0",
+      "JZ140F.03.1",
+      "JZ140F.03.2",
+      "JZ140F.03.3",
+      "JZ140F.03.4",
+      "JZ140F.03.5",
+      "JZ140F.03.6",
+      "JZ140F.03.7",
+      "JZ140F.04.0",
+      "JZ140F.04.1",
+      "JZ140F.04.2",
+      "JZ140F.04.3",
+      "JZ140F.04.4",
+      "JZ140F.04.5",
+      "JZ140F.04.6",
+      "JZ140F.04.7",
+      "JZ140F.05.0",
+      "JZ140F.05.1",
+      "JZ140F.05.2",
+      "JZ140F.05.3",
+      "JZ140F.05.4",
+      "JZ140F.05.5",
+      "JZ140F.05.6",
+      "JZ140F.05.7",
+      "JZ140F.21.0",
+      "JZ140F.21.1",
+      "JZ140F.21.2",
+      "JZ140F.21.3",
+      "JZ140F.21.4",
+      "JZ140F.21.5",
+      "JZ140F.23.0",
+      "JZ140F.23.1",
+      "JZ140F.23.2",
+      "JZ140F.23.3",
+      "JZ140F.23.4",
+      "JZ140F.23.5",
+      "JZ140F.23.6",
+      "JZ140F.23.7"
+    ],
     "price": 41.03,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -23,7 +81,7 @@
       "https://macma.ro/products/jpg/TEXTIL/RUSSEL/140f-azureblue_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/RUSSEL/140f-titanium_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 38,
     "colorCount": 5,
     "sizeCount": 5,
@@ -61,11 +119,68 @@
     "summary": "Full zip men's softshell jacket with inner storm flap and zip neck protector at collar, side pockets and chest pocket with inner lining, reversed zips and cord pulls, 5.000mm water column, water-resistant, absolutely ...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "140M",
+    "supplierVariantIds": [
+      "JZ140M.03.0",
+      "JZ140M.03.1",
+      "JZ140M.03.2",
+      "JZ140M.03.3",
+      "JZ140M.03.4",
+      "JZ140M.03.5",
+      "JZ140M.03.6",
+      "JZ140M.03.7",
+      "JZ140M.04.1",
+      "JZ140M.04.2",
+      "JZ140M.04.3",
+      "JZ140M.04.4",
+      "JZ140M.04.5",
+      "JZ140M.04.6",
+      "JZ140M.04.7",
+      "JZ140M.05.0",
+      "JZ140M.05.1",
+      "JZ140M.05.2",
+      "JZ140M.05.3",
+      "JZ140M.05.4",
+      "JZ140M.05.5",
+      "JZ140M.05.6",
+      "JZ140M.05.7",
+      "JZ140M.21.0",
+      "JZ140M.21.1",
+      "JZ140M.21.2",
+      "JZ140M.21.3",
+      "JZ140M.21.4",
+      "JZ140M.21.5",
+      "JZ140M.23.0",
+      "JZ140M.23.1",
+      "JZ140M.23.2",
+      "JZ140M.23.3",
+      "JZ140M.23.4",
+      "JZ140M.23.5",
+      "JZ140M.23.6",
+      "JZ140M.23.7"
+    ],
     "price": 41.03,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -78,7 +193,7 @@
       "https://macma.ro/products/jpg/TEXTIL/RUSSEL/140m-azureblue_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/RUSSEL/140m-titanium_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 37,
     "colorCount": 5,
     "sizeCount": 5,
@@ -116,11 +231,47 @@
     "summary": "100% Polyester women's hooded jacket. Wash at or below 30°C. Fluorine and PFC free, Eco-efficient padding. 2 side pockets and 1 zipped inside pocket, removable hood. 66 g/m²",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "440F",
+    "supplierVariantIds": [
+      "JZ440F.03.0",
+      "JZ440F.03.1",
+      "JZ440F.03.2",
+      "JZ440F.03.4",
+      "JZ440F.04.0",
+      "JZ440F.04.2",
+      "JZ440F.04.5",
+      "JZ440F.23.0",
+      "JZ440F.23.1",
+      "JZ440F.23.2",
+      "JZ440F.23.3",
+      "JZ440F.23.4",
+      "JZ440F.41.0",
+      "JZ440F.41.1",
+      "JZ440F.41.2",
+      "JZ440F.41.3"
+    ],
     "price": 50.25,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -130,7 +281,7 @@
       "https://macma.ro/products/jpg/TEXTIL/RUSSEL/440f-irongrey_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/RUSSEL/440f-darkolive_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 16,
     "colorCount": 4,
     "sizeCount": 5,
@@ -164,11 +315,59 @@
     "summary": "100% Polyester men's hooded jacket. Wash at or below 30°C. Fluorine and PFC free, Eco-efficient padding. 2 side pockets and 1 zipped inside pocket, removable hood. 66 g/m²",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "440M",
+    "supplierVariantIds": [
+      "JZ440M.03.1",
+      "JZ440M.03.2",
+      "JZ440M.03.3",
+      "JZ440M.03.4",
+      "JZ440M.03.5",
+      "JZ440M.03.6",
+      "JZ440M.03.7",
+      "JZ440M.04.1",
+      "JZ440M.04.2",
+      "JZ440M.04.3",
+      "JZ440M.04.4",
+      "JZ440M.04.5",
+      "JZ440M.04.6",
+      "JZ440M.04.7",
+      "JZ440M.23.1",
+      "JZ440M.23.2",
+      "JZ440M.23.3",
+      "JZ440M.23.4",
+      "JZ440M.23.5",
+      "JZ440M.23.6",
+      "JZ440M.23.7",
+      "JZ440M.41.1",
+      "JZ440M.41.2",
+      "JZ440M.41.3",
+      "JZ440M.41.4",
+      "JZ440M.41.5",
+      "JZ440M.41.6",
+      "JZ440M.41.7"
+    ],
     "price": 50.25,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -178,7 +377,7 @@
       "https://macma.ro/products/jpg/TEXTIL/RUSSEL/440m-irongrey_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/RUSSEL/440m-darkolive_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 28,
     "colorCount": 4,
     "sizeCount": 4,
@@ -212,11 +411,56 @@
     "summary": "Make the Nano Bodywarmer part of your new team. This women's design is a real mixed gem and takes your corporate clothing to the next level. Regardless of the time and weather – this model is a real all-round talent a...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "441F",
+    "supplierVariantIds": [
+      "JZ441F.03.0",
+      "JZ441F.03.1",
+      "JZ441F.03.2",
+      "JZ441F.03.3",
+      "JZ441F.03.4",
+      "JZ441F.03.6",
+      "JZ441F.04.0",
+      "JZ441F.04.1",
+      "JZ441F.04.2",
+      "JZ441F.04.3",
+      "JZ441F.04.4",
+      "JZ441F.04.5",
+      "JZ441F.04.6",
+      "JZ441F.23.1",
+      "JZ441F.23.2",
+      "JZ441F.23.3",
+      "JZ441F.23.4",
+      "JZ441F.23.6",
+      "JZ441F.41.0",
+      "JZ441F.41.1",
+      "JZ441F.41.2",
+      "JZ441F.41.3",
+      "JZ441F.41.4",
+      "JZ441F.41.5",
+      "JZ441F.41.6"
+    ],
     "price": 34.4,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -254,7 +498,7 @@
       "https://macma.ro/products/jpg/TEXTIL/RUSSEL/441f-darkolive_model-2.jpg",
       "https://macma.ro/products/jpg/TEXTIL/RUSSEL/441f-darkolive_model-3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 25,
     "colorCount": 4,
     "sizeCount": 5,
@@ -288,11 +532,57 @@
     "summary": "Make the Nano Bodywarmer part of your new team. This men's design is a real mixed gem and takes your corporate clothing to the next level. Regardless of the time and weather – this model is a real all-round talent and...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "441M",
+    "supplierVariantIds": [
+      "JZ441M.03.1",
+      "JZ441M.03.2",
+      "JZ441M.03.3",
+      "JZ441M.03.4",
+      "JZ441M.03.5",
+      "JZ441M.03.6",
+      "JZ441M.03.7",
+      "JZ441M.04.1",
+      "JZ441M.04.4",
+      "JZ441M.04.5",
+      "JZ441M.04.6",
+      "JZ441M.04.7",
+      "JZ441M.23.1",
+      "JZ441M.23.2",
+      "JZ441M.23.3",
+      "JZ441M.23.4",
+      "JZ441M.23.5",
+      "JZ441M.23.6",
+      "JZ441M.23.7",
+      "JZ441M.41.1",
+      "JZ441M.41.2",
+      "JZ441M.41.3",
+      "JZ441M.41.4",
+      "JZ441M.41.5",
+      "JZ441M.41.6",
+      "JZ441M.41.7"
+    ],
     "price": 34.4,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -336,7 +626,7 @@
       "https://macma.ro/products/jpg/TEXTIL/RUSSEL/441m-darkolive_model-2.jpg",
       "https://macma.ro/products/jpg/TEXTIL/RUSSEL/441m-darkolive_model-3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 26,
     "colorCount": 4,
     "sizeCount": 4,
@@ -370,10 +660,73 @@
     "summary": "Practical men's jacket for spring walks in the countryside. 100% waterproof nylon, full zip, collar with integrated hood and pull cord, roll-up and stow jacket with the K-Way - Principle in double zip hip belt, cord p...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S1",
+        "label": "Direct screen printing",
+        "labelRo": "Serigrafie directă",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "BS02",
+    "supplierVariantIds": [
+      "BS020106",
+      "BS020107",
+      "BS020108",
+      "BS020109",
+      "BS020110",
+      "BS020111",
+      "BS020306",
+      "BS020308",
+      "BS020309",
+      "BS020310",
+      "BS020311",
+      "BS020406",
+      "BS020407",
+      "BS020408",
+      "BS020409",
+      "BS020411",
+      "BS020506",
+      "BS020507",
+      "BS020508",
+      "BS020509",
+      "BS020510",
+      "BS020511",
+      "BS020606",
+      "BS020607",
+      "BS020608",
+      "BS020609",
+      "BS020610",
+      "BS020611",
+      "BS020706",
+      "BS020707",
+      "BS020708",
+      "BS020709",
+      "BS020710",
+      "BS020906",
+      "BS020907",
+      "BS020908",
+      "BS020909",
+      "BS020910",
+      "BS021006",
+      "BS021007",
+      "BS021008",
+      "BS021009",
+      "BS021010",
+      "BS022006",
+      "BS022007",
+      "BS022010",
+      "BS026406",
+      "BS026407",
+      "BS026408",
+      "BS026409",
+      "BS026410"
+    ],
     "price": 8.75,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -409,7 +762,7 @@
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs02-atoll_front.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs02-atoll_side.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 51,
     "colorCount": 10,
     "sizeCount": 4,
@@ -467,11 +820,59 @@
     "summary": "Good price for quality, soft and warm men's bodywarmer made of 100% waterproof Taffeta nylon. Full zip, side pockets with zippers, inside wallet pocket and a cell phone pocket, longer back part.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "BS25",
+    "supplierVariantIds": [
+      "BS250106",
+      "BS250107",
+      "BS250108",
+      "BS250109",
+      "BS250110",
+      "BS250306",
+      "BS250307",
+      "BS250308",
+      "BS250309",
+      "BS250310",
+      "BS250311",
+      "BS250406",
+      "BS250407",
+      "BS250408",
+      "BS250409",
+      "BS250410",
+      "BS250411",
+      "BS250506",
+      "BS250507",
+      "BS250508",
+      "BS250509",
+      "BS250510",
+      "BS250511",
+      "BS252306",
+      "BS252307",
+      "BS252308",
+      "BS252309",
+      "BS252310"
+    ],
     "price": 24.7,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -487,7 +888,7 @@
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs25-darkgrey_1back.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs25-darkgrey_front.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 28,
     "colorCount": 5,
     "sizeCount": 4,
@@ -525,11 +926,42 @@
     "summary": "Front covered full-zip opening with Velcro® closing and zip puller. Adjustable hood concealed inside the collar with easy-to-pull tag. 2 outer pockets and 1 inner pocket wallet. Open hem with elasticated cord, 2 stopp...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "BS27",
+    "supplierVariantIds": [
+      "BS270306",
+      "BS270307",
+      "BS270308",
+      "BS270309",
+      "BS270310",
+      "BS270311",
+      "BS270406",
+      "BS270407",
+      "BS270409",
+      "BS270410",
+      "BS270411"
+    ],
     "price": 28.35,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -541,7 +973,7 @@
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs27-navy_front.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs27-navy_side.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 11,
     "colorCount": 2,
     "sizeCount": 4,
@@ -567,11 +999,48 @@
     "summary": "Good price for quality brand bodywarmer, soft and warm women's bodywarmer made of 100% water-repellent Taffeta nylon. Full zip, removable and adjustable hood, open side pockets, longer back piece, tight fit.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "BS31",
+    "supplierVariantIds": [
+      "BS310106",
+      "BS310107",
+      "BS310108",
+      "BS310109",
+      "BS310110",
+      "BS310113",
+      "BS310309",
+      "BS310310",
+      "BS310313",
+      "BS310409",
+      "BS310410",
+      "BS310413",
+      "BS310507",
+      "BS310508",
+      "BS310509",
+      "BS310510",
+      "BS310513"
+    ],
     "price": 24.7,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -589,7 +1058,7 @@
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs31-red_1back_2.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs31-red_front.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 17,
     "colorCount": 4,
     "sizeCount": 5,
@@ -623,11 +1092,49 @@
     "summary": "Men's hooded softshell jacket 94% Polyester + 6% Elastane; mid-layer – breathable membrane; inner layer – micro fleece, breathable, waterproof, windproof, detachable hood with adjustable drawstrings and trendy stoppers",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "BS60",
+    "supplierVariantIds": [
+      "BS600306",
+      "BS600307",
+      "BS600308",
+      "BS600309",
+      "BS600310",
+      "BS600406",
+      "BS600407",
+      "BS600408",
+      "BS600410",
+      "BS600411",
+      "BS600506",
+      "BS600507",
+      "BS600508",
+      "BS600509",
+      "BS600510",
+      "BS600511",
+      "BS602106",
+      "BS602108"
+    ],
     "price": 45.34,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -641,7 +1148,7 @@
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs60-azure_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs60-azure_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 18,
     "colorCount": 4,
     "sizeCount": 4,
@@ -675,11 +1182,61 @@
     "summary": "Women's hooded softshell jacket -94% Polyester + 6% Elastane; mid-layer – breathable membrane; inner layer – micro fleece, breathable, waterproof, windproof, feminine cut, detachable hood with adjustable drawstrings a...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "BS61",
+    "supplierVariantIds": [
+      "BS610106",
+      "BS610107",
+      "BS610108",
+      "BS610109",
+      "BS610110",
+      "BS610113",
+      "BS610306",
+      "BS610307",
+      "BS610310",
+      "BS610313",
+      "BS610406",
+      "BS610407",
+      "BS610408",
+      "BS610409",
+      "BS610413",
+      "BS610506",
+      "BS610507",
+      "BS610508",
+      "BS610509",
+      "BS610510",
+      "BS610513",
+      "BS612106",
+      "BS612107",
+      "BS612108",
+      "BS612109",
+      "BS612110",
+      "BS612113",
+      "BS612306",
+      "BS612310",
+      "BS612313"
+    ],
     "price": 45.34,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -693,7 +1250,7 @@
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs61-azure_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs61-darkgrey_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 30,
     "colorCount": 6,
     "sizeCount": 5,
@@ -735,8 +1292,43 @@
     "summary": "Experience the advanced performance of our new fully certified 3Lr® (3-layer recycled) fabric with the B&C Reset 3Lr Hooded Softshell. This functional hooded gender-neutral jacket is designed for exceptional insulatio...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "BS66",
+    "supplierVariantIds": [
+      "BS660306",
+      "BS660307",
+      "BS660308",
+      "BS660309",
+      "BS660310",
+      "BS660311",
+      "BS660312",
+      "BS660313",
+      "BS660317",
+      "BS660406",
+      "BS660407",
+      "BS660408",
+      "BS660409",
+      "BS660410",
+      "BS660411",
+      "BS660412",
+      "BS660413",
+      "BS660417",
+      "BS660506",
+      "BS660507",
+      "BS660508",
+      "BS660509",
+      "BS660510",
+      "BS660511",
+      "BS660513",
+      "BS660706",
+      "BS660707",
+      "BS660708",
+      "BS660709",
+      "BS660710",
+      "BS660711",
+      "BS660713"
+    ],
     "price": 34.46,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -750,7 +1342,7 @@
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs66-royalblue_0.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs66-royalblue_x.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 32,
     "colorCount": 4,
     "sizeCount": 5,
@@ -783,10 +1375,43 @@
     "summary": "The best deal midseason men's windbreaker with tricot thermo lining. Full zip opening with zip pull. 2 front pockets with overlap,·1 inner wallet pocket,·Elasticated cuffs,·Ergonomic side panels,·Adjustable bottom hem...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "BS67",
+    "supplierVariantIds": [
+      "BS670106",
+      "BS670107",
+      "BS670108",
+      "BS670109",
+      "BS670110",
+      "BS670111",
+      "BS670306",
+      "BS670307",
+      "BS670308",
+      "BS670309",
+      "BS670310",
+      "BS670311",
+      "BS670406",
+      "BS670407",
+      "BS670411",
+      "BS670506",
+      "BS670507",
+      "BS670508",
+      "BS670509",
+      "BS670510",
+      "BS670511"
+    ],
     "price": 18.99,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -804,7 +1429,7 @@
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs67-red_front.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs67-red_side.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 21,
     "colorCount": 4,
     "sizeCount": 4,
@@ -838,11 +1463,56 @@
     "summary": "DUO Concept • Water repellent, breathable 2-layer softshell men's jacket with standing collar to protect against cold, wind and rain • 2 zipped hand pockets with zipper \"garage\" • Full front tone-on-tone SBS zipper",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "BS69",
+    "supplierVariantIds": [
+      "BS690106",
+      "BS690107",
+      "BS690108",
+      "BS690109",
+      "BS690110",
+      "BS690111",
+      "BS690306",
+      "BS690406",
+      "BS690407",
+      "BS690408",
+      "BS690506",
+      "BS690507",
+      "BS690510",
+      "BS692306",
+      "BS692307",
+      "BS692308",
+      "BS692309",
+      "BS692310",
+      "BS692311",
+      "BS696406",
+      "BS696407",
+      "BS696408",
+      "BS696409",
+      "BS696410",
+      "BS696411"
+    ],
     "price": 20.24,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -854,7 +1524,7 @@
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs69-darkgrey_front.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs69-atoll_front.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 25,
     "colorCount": 6,
     "sizeCount": 4,
@@ -896,11 +1566,63 @@
     "summary": "DUO Concept: a dedicated women's style for the perfect fit • Water repellent, breathable 2-layer softshell with standing collar to protect against cold, wind and rain • Forward seams on shoulder for better comfort and...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "BS70",
+    "supplierVariantIds": [
+      "BS700106",
+      "BS700107",
+      "BS700109",
+      "BS700110",
+      "BS700113",
+      "BS700306",
+      "BS700307",
+      "BS700308",
+      "BS700309",
+      "BS700310",
+      "BS700313",
+      "BS700406",
+      "BS700407",
+      "BS700408",
+      "BS700409",
+      "BS700410",
+      "BS700413",
+      "BS700509",
+      "BS700510",
+      "BS700513",
+      "BS702306",
+      "BS702307",
+      "BS702308",
+      "BS702309",
+      "BS702310",
+      "BS702313",
+      "BS706406",
+      "BS706407",
+      "BS706408",
+      "BS706409",
+      "BS706410",
+      "BS706413"
+    ],
     "price": 20.24,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -912,7 +1634,7 @@
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs70-darkgrey_front.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs70-atoll_front.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 32,
     "colorCount": 6,
     "sizeCount": 5,
@@ -954,11 +1676,60 @@
     "summary": "DUO Concept. Feather touch padding keeps you warm and comfortable. Padded hood: obvious, detachable and adjustable.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "BS78",
+    "supplierVariantIds": [
+      "BS780107",
+      "BS780108",
+      "BS780109",
+      "BS780110",
+      "BS780111",
+      "BS780306",
+      "BS780307",
+      "BS780308",
+      "BS780309",
+      "BS780310",
+      "BS780311",
+      "BS780406",
+      "BS780410",
+      "BS780411",
+      "BS780506",
+      "BS780508",
+      "BS780509",
+      "BS780510",
+      "BS780511",
+      "BS780706",
+      "BS780707",
+      "BS780708",
+      "BS780709",
+      "BS780710",
+      "BS780711",
+      "BS782306",
+      "BS782309",
+      "BS782310",
+      "BS782311"
+    ],
     "price": 47.42,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -994,7 +1765,7 @@
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs78-darkgrey_front_2.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs78-darkgrey_side.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 29,
     "colorCount": 6,
     "sizeCount": 4,
@@ -1036,11 +1807,63 @@
     "summary": "DUO Concept: a dedicated women's style for the perfect fit. Feather touch padding keeps you warm and comfortable. Contemporary bomber style. Heavy polyester rib (cotton feel) with elastane for better shape retention a...",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "BS79",
+    "supplierVariantIds": [
+      "BS790106",
+      "BS790107",
+      "BS790108",
+      "BS790109",
+      "BS790110",
+      "BS790113",
+      "BS790306",
+      "BS790307",
+      "BS790308",
+      "BS790309",
+      "BS790310",
+      "BS790313",
+      "BS790410",
+      "BS790413",
+      "BS790506",
+      "BS790507",
+      "BS790508",
+      "BS790509",
+      "BS790510",
+      "BS790513",
+      "BS790706",
+      "BS790707",
+      "BS790708",
+      "BS790709",
+      "BS790710",
+      "BS790713",
+      "BS792306",
+      "BS792307",
+      "BS792308",
+      "BS792309",
+      "BS792310",
+      "BS792313"
+    ],
     "price": 47.42,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1076,7 +1899,7 @@
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs79-darkgrey_front_2.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs79-darkgrey_side.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 32,
     "colorCount": 6,
     "sizeCount": 5,
@@ -1118,8 +1941,15 @@
     "summary": "65% polyester 35% cotton 200 grs/m2 twill fabric outside. 100% polyester 75 grs/m2 breathable mesh inside. 4 front pockets with flap and velcro. 2 pen accesories. Inside zip for easy emborideing/printing. 40 units per...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "CHVAHAR",
+    "supplierVariantIds": [
+      "CHVAHARGR20",
+      "CHVAHARGR21",
+      "CHVAHARMR24",
+      "CHVAHARRJ23"
+    ],
     "price": 10.96,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1128,7 +1958,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/chvahar-orionnavyblue_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/chvahar-lottored_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 4,
     "colorCount": 3,
     "sizeCount": 3,
@@ -1158,18 +1988,39 @@
     "summary": "Outside fabric 100% polyester. Padded 100% polyester 170 grs/m2. Inside 300 grs/m2anti-pilling polar eece fabric. 2 front zip pockets. Left chest zip pocket. 1 inside pocket. 10units per box: 1 size, 1 color. Individu...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "CHVAMON",
+    "supplierVariantIds": [
+      "CHVAMONKN23"
+    ],
     "price": 17.03,
     "priceFrom": false,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/chvamon-kamelbrown-black_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -1191,10 +2042,133 @@
     "summary": "Outside 65% polyester, 35% cotton, 200 g/m² twill fabric. Padded 100% polyester 220 g/m². 8 outside pockets. 1 inside pocket. 2 pen compartments. Right chest pocket for phone. High collar with total zip. Back lateral ...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "CHVAREP",
+    "supplierVariantIds": [
+      "CHVAREPAM20",
+      "CHVAREPAM21",
+      "CHVAREPAM22",
+      "CHVAREPAM23",
+      "CHVAREPAM24",
+      "CHVAREPAM25",
+      "CHVAREPAZ20",
+      "CHVAREPAZ21",
+      "CHVAREPAZ22",
+      "CHVAREPAZ23",
+      "CHVAREPAZ24",
+      "CHVAREPAZ25",
+      "CHVAREPBG20",
+      "CHVAREPBG21",
+      "CHVAREPBG22",
+      "CHVAREPBG23",
+      "CHVAREPBG24",
+      "CHVAREPBG25",
+      "CHVAREPBL20",
+      "CHVAREPBL21",
+      "CHVAREPBL22",
+      "CHVAREPBL23",
+      "CHVAREPBL24",
+      "CHVAREPBL25",
+      "CHVAREPCM19",
+      "CHVAREPCM20",
+      "CHVAREPCM21",
+      "CHVAREPCM22",
+      "CHVAREPCM23",
+      "CHVAREPCM24",
+      "CHVAREPCM25",
+      "CHVAREPGC20",
+      "CHVAREPGC21",
+      "CHVAREPGC22",
+      "CHVAREPGC23",
+      "CHVAREPGC24",
+      "CHVAREPGC25",
+      "CHVAREPGR20",
+      "CHVAREPGR21",
+      "CHVAREPGR22",
+      "CHVAREPGR23",
+      "CHVAREPGR24",
+      "CHVAREPGR25",
+      "CHVAREPGT20",
+      "CHVAREPGT21",
+      "CHVAREPGT22",
+      "CHVAREPGT23",
+      "CHVAREPGT24",
+      "CHVAREPGT25",
+      "CHVAREPKK20",
+      "CHVAREPKK21",
+      "CHVAREPKK22",
+      "CHVAREPKK23",
+      "CHVAREPKK24",
+      "CHVAREPKK25",
+      "CHVAREPMN20",
+      "CHVAREPMN21",
+      "CHVAREPMN22",
+      "CHVAREPMN23",
+      "CHVAREPMN24",
+      "CHVAREPMN25",
+      "CHVAREPMR19",
+      "CHVAREPMR20",
+      "CHVAREPMR21",
+      "CHVAREPMR22",
+      "CHVAREPMR23",
+      "CHVAREPMR24",
+      "CHVAREPMR25",
+      "CHVAREPMR26",
+      "CHVAREPNG20",
+      "CHVAREPNG21",
+      "CHVAREPNG22",
+      "CHVAREPNG23",
+      "CHVAREPNG24",
+      "CHVAREPNG25",
+      "CHVAREPNJ20",
+      "CHVAREPNJ21",
+      "CHVAREPNJ22",
+      "CHVAREPNJ23",
+      "CHVAREPNJ24",
+      "CHVAREPNJ25",
+      "CHVAREPRJ20",
+      "CHVAREPRJ21",
+      "CHVAREPRJ22",
+      "CHVAREPRJ23",
+      "CHVAREPRJ24",
+      "CHVAREPRJ25",
+      "CHVAREPRY20",
+      "CHVAREPRY21",
+      "CHVAREPRY22",
+      "CHVAREPRY23",
+      "CHVAREPRY24",
+      "CHVAREPRY25",
+      "CHVAREPVA20",
+      "CHVAREPVA21",
+      "CHVAREPVA22",
+      "CHVAREPVA23",
+      "CHVAREPVA24",
+      "CHVAREPVA25",
+      "CHVAREPVB20",
+      "CHVAREPVB21",
+      "CHVAREPVB22",
+      "CHVAREPVB23",
+      "CHVAREPVB24",
+      "CHVAREPVB25",
+      "CHVAREPVM20",
+      "CHVAREPVM21",
+      "CHVAREPVM22",
+      "CHVAREPVM23",
+      "CHVAREPVM24",
+      "CHVAREPVM25"
+    ],
     "price": 15.02,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -1218,7 +2192,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/reporter-bottlegreen_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/reporter-applegreen_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 111,
     "colorCount": 18,
     "sizeCount": 5,
@@ -1308,18 +2282,39 @@
     "summary": "65% polyester, 35% cotton. 200 grs/m2 twill fabric. Inside back mesh fabric. 9 front pockets. 2 back pockets. 40 units per box: 1 size, 1 color. Individual bag.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "CHVASAF",
+    "supplierVariantIds": [
+      "CHVASAFNG24"
+    ],
     "price": 10.96,
     "priceFrom": false,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/chvasaf-black_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1341,10 +2336,98 @@
     "summary": "90% polyamide, 10% elastane. 350 grs/m² 3 layer softshell fabric. 2 zip pockets. Total front zip. 20 units per box: 1 size, 1 color. Individual bag.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "CHVATUN",
+    "supplierVariantIds": [
+      "CHVATUNAF20",
+      "CHVATUNAF21",
+      "CHVATUNAF22",
+      "CHVATUNAF23",
+      "CHVATUNAF24",
+      "CHVATUNBG20",
+      "CHVATUNBG21",
+      "CHVATUNBG22",
+      "CHVATUNBG23",
+      "CHVATUNBG24",
+      "CHVATUNBL20",
+      "CHVATUNBL21",
+      "CHVATUNBL22",
+      "CHVATUNBL23",
+      "CHVATUNBL24",
+      "CHVATUNCY20",
+      "CHVATUNCY21",
+      "CHVATUNCY22",
+      "CHVATUNCY23",
+      "CHVATUNCY24",
+      "CHVATUNGR20",
+      "CHVATUNGR21",
+      "CHVATUNGR22",
+      "CHVATUNGR23",
+      "CHVATUNGR24",
+      "CHVATUNGR25",
+      "CHVATUNKK20",
+      "CHVATUNKK21",
+      "CHVATUNKK22",
+      "CHVATUNKK23",
+      "CHVATUNKK24",
+      "CHVATUNKK25",
+      "CHVATUNMG20",
+      "CHVATUNMG21",
+      "CHVATUNMG22",
+      "CHVATUNMG23",
+      "CHVATUNMG24",
+      "CHVATUNMR20",
+      "CHVATUNMR21",
+      "CHVATUNMR22",
+      "CHVATUNMR23",
+      "CHVATUNMR24",
+      "CHVATUNMR25",
+      "CHVATUNNG20",
+      "CHVATUNNG21",
+      "CHVATUNNG22",
+      "CHVATUNNG23",
+      "CHVATUNNG24",
+      "CHVATUNNG25",
+      "CHVATUNNJ20",
+      "CHVATUNNJ21",
+      "CHVATUNNJ22",
+      "CHVATUNNJ23",
+      "CHVATUNNJ24",
+      "CHVATUNNJ25",
+      "CHVATUNRJ20",
+      "CHVATUNRJ21",
+      "CHVATUNRJ22",
+      "CHVATUNRJ23",
+      "CHVATUNRJ24",
+      "CHVATUNRY20",
+      "CHVATUNRY21",
+      "CHVATUNRY22",
+      "CHVATUNRY23",
+      "CHVATUNRY24",
+      "CHVATUNVB20",
+      "CHVATUNVB21",
+      "CHVATUNVB22",
+      "CHVATUNVB23",
+      "CHVATUNVB24",
+      "CHVATUNVB25",
+      "CHVATUNVP20",
+      "CHVATUNVP21",
+      "CHVATUNVP22",
+      "CHVATUNVP23",
+      "CHVATUNVP24"
+    ],
     "price": 12.99,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -1366,7 +2449,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/tundra-bottlegreen_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/tundra-applegreen_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 76,
     "colorCount": 14,
     "sizeCount": 4,
@@ -1440,18 +2523,39 @@
     "summary": "90% polyamide, 10% elastane. 350 grs/m2 3 layer softshell fabric. 2 zip pockets. Total front zip. 20 units per box: 1 size, 1 color. Individual bag.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "CHVATUNKID",
+    "supplierVariantIds": [
+      "CHVATUNAF03"
+    ],
     "price": 12.18,
     "priceFrom": false,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/tundra-neonyellow_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -1473,15 +2577,19 @@
     "summary": "Outside fabric 100% nylon. Padded 100% polyester 220 grs/m2. 100% polyester lining. 2front zip pockets. Left chest zip pocket. Inside left chest pocket. Front tape with velcro. Armhole inside cover. 20 units per box: ...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "CHVAWAR",
+    "supplierVariantIds": [
+      "CHVAWARMR19"
+    ],
     "price": 15.43,
     "priceFrom": false,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/chvawar-orionnavyblue_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -1503,18 +2611,40 @@
     "summary": "100% cotton. 250 grs/m2 twill fabric. Zip left chest pocket. 2 lower zip pockets. Hidden zipper closure. Waist with elastic in laterals. Elastic ribbed cuffs. 20 units per box: 1 size, 1 color. Individual bag.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "CQVACHI",
+    "supplierVariantIds": [
+      "CQVACHIGR20",
+      "CQVACHIGR21"
+    ],
     "price": 15.43,
     "priceFrom": false,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/cqvachi-cementgrey_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 2,
     "colorCount": 1,
     "sizeCount": 2,
@@ -1536,18 +2666,39 @@
     "summary": "65% polyester, 35% cotton. 210 grs/m2 twill fabric. Left chest zip pocket. Total front zip. Waist withelastic in laterals. Elastic ribbed cuffs. 20 units per box: 1 size, 1 color. Individual bag.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "CQVAGAL",
+    "supplierVariantIds": [
+      "CQVAGALMR20"
+    ],
     "price": 12.57,
     "priceFrom": false,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/cqvagal-orionnavyblue_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -1569,10 +2720,105 @@
     "summary": "90% polyamide, 10% elastane unisex jacket. 350 grs/m² 3 layer softshell fabric. 2 zip pockets. Inside pocket. High collar. Total front zip. 20 units per box: 1 size, 1 color. Individual bag.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "CQVAHOR",
+    "supplierVariantIds": [
+      "CQVAHORAF20",
+      "CQVAHORAF21",
+      "CQVAHORAF22",
+      "CQVAHORAF23",
+      "CQVAHORAF24",
+      "CQVAHORAT20",
+      "CQVAHORAT21",
+      "CQVAHORAT22",
+      "CQVAHORAT23",
+      "CQVAHORAT24",
+      "CQVAHORBG20",
+      "CQVAHORBG21",
+      "CQVAHORBG22",
+      "CQVAHORBG23",
+      "CQVAHORBG24",
+      "CQVAHORBL20",
+      "CQVAHORBL21",
+      "CQVAHORBL22",
+      "CQVAHORBL23",
+      "CQVAHORBL24",
+      "CQVAHORBL25",
+      "CQVAHORGR20",
+      "CQVAHORGR21",
+      "CQVAHORGR22",
+      "CQVAHORGR23",
+      "CQVAHORGR24",
+      "CQVAHORGR25",
+      "CQVAHORKK20",
+      "CQVAHORKK21",
+      "CQVAHORKK22",
+      "CQVAHORKK23",
+      "CQVAHORKK24",
+      "CQVAHORKK25",
+      "CQVAHORMG20",
+      "CQVAHORMG21",
+      "CQVAHORMG22",
+      "CQVAHORMG23",
+      "CQVAHORMG24",
+      "CQVAHORMR20",
+      "CQVAHORMR21",
+      "CQVAHORMR22",
+      "CQVAHORMR23",
+      "CQVAHORMR24",
+      "CQVAHORMR25",
+      "CQVAHORNG20",
+      "CQVAHORNG21",
+      "CQVAHORNG22",
+      "CQVAHORNG23",
+      "CQVAHORNG24",
+      "CQVAHORNG25",
+      "CQVAHORNJ20",
+      "CQVAHORNJ21",
+      "CQVAHORNJ22",
+      "CQVAHORNJ23",
+      "CQVAHORNJ24",
+      "CQVAHORNJ25",
+      "CQVAHORRJ20",
+      "CQVAHORRJ21",
+      "CQVAHORRJ22",
+      "CQVAHORRJ23",
+      "CQVAHORRJ24",
+      "CQVAHORRJ25",
+      "CQVAHORRY20",
+      "CQVAHORRY21",
+      "CQVAHORRY22",
+      "CQVAHORRY23",
+      "CQVAHORRY24",
+      "CQVAHORTP20",
+      "CQVAHORTP21",
+      "CQVAHORTP22",
+      "CQVAHORTP23",
+      "CQVAHORTP24",
+      "CQVAHORVB20",
+      "CQVAHORVB21",
+      "CQVAHORVB22",
+      "CQVAHORVB23",
+      "CQVAHORVB24",
+      "CQVAHORVB25",
+      "CQVAHORVP20",
+      "CQVAHORVP21",
+      "CQVAHORVP22",
+      "CQVAHORVP23",
+      "CQVAHORVP24"
+    ],
     "price": 17.03,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -1594,7 +2840,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/horizon-bottlegreen_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/horizon-applegreen_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 83,
     "colorCount": 15,
     "sizeCount": 4,
@@ -1672,10 +2918,64 @@
     "summary": "Outside fabric 100% Polyester unisex jacket. Padded 100% Polyester 200 grs/m². Loft. Full front zipper with chin protection. 2 zip front pockets. Light weight and warm. I pocket on the inside left side. Inside zipper ...",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "CQVAISL",
+    "supplierVariantIds": [
+      "CQVAISLBL20",
+      "CQVAISLBL21",
+      "CQVAISLBL22",
+      "CQVAISLBL23",
+      "CQVAISLBL24",
+      "CQVAISLGC20",
+      "CQVAISLGC21",
+      "CQVAISLGC22",
+      "CQVAISLGC23",
+      "CQVAISLGC24",
+      "CQVAISLMR20",
+      "CQVAISLMR21",
+      "CQVAISLMR22",
+      "CQVAISLMR23",
+      "CQVAISLMR24",
+      "CQVAISLMR25",
+      "CQVAISLNG20",
+      "CQVAISLNG21",
+      "CQVAISLNG22",
+      "CQVAISLNG23",
+      "CQVAISLNG24",
+      "CQVAISLNG25",
+      "CQVAISLNJ20",
+      "CQVAISLNJ21",
+      "CQVAISLNJ22",
+      "CQVAISLNJ23",
+      "CQVAISLNJ24",
+      "CQVAISLRJ20",
+      "CQVAISLRJ21",
+      "CQVAISLRJ22",
+      "CQVAISLRJ23",
+      "CQVAISLRJ24",
+      "CQVAISLRY20",
+      "CQVAISLRY21",
+      "CQVAISLRY22",
+      "CQVAISLRY23",
+      "CQVAISLRY24",
+      "CQVAISLVM20",
+      "CQVAISLVM21",
+      "CQVAISLVM22",
+      "CQVAISLVM23",
+      "CQVAISLVM24"
+    ],
     "price": 18.66,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -1691,7 +2991,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/islandia-royalblue_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/islandia-applegreen_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 42,
     "colorCount": 8,
     "sizeCount": 4,
@@ -1741,15 +3041,19 @@
     "summary": "JACKET SANAK BLACK - L",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "CQVASAN",
+    "supplierVariantIds": [
+      "CQVASANNG22"
+    ],
     "price": 31.66,
     "priceFrom": false,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/cqvasan-black_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -1771,11 +3075,48 @@
     "summary": "3XL",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "GILSS800",
+    "supplierVariantIds": [
+      "GILSS800BL-2XL",
+      "GILSS800BL-3XL",
+      "GILSS800BL-4XL",
+      "GILSS800BL-L",
+      "GILSS800BL-XL",
+      "GILSS800CH-2XL",
+      "GILSS800CH-L",
+      "GILSS800CH-XL",
+      "GILSS800FO-2XL",
+      "GILSS800FO-XL",
+      "GILSS800NV-L",
+      "GILSS800NV-XL",
+      "GILSS800OR-2XL",
+      "GILSS800OR-XL",
+      "GILSS800SFG-2XL",
+      "GILSS800SFG-L",
+      "GILSS800SFG-XL"
+    ],
     "price": 2.73,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -1787,7 +3128,7 @@
       "https://macma.ro/products/jpg/TEXTIL/GILDAN/gilss800-orange_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/GILDAN/gilss800-safetygreen_a1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 17,
     "colorCount": 6,
     "sizeCount": 2,
@@ -1828,11 +3169,35 @@
     "summary": "S",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "GISS800",
+    "supplierVariantIds": [
+      "GISS800BL-S",
+      "GISS800NV-4XL",
+      "GISS800NV-S",
+      "GISS800OR-4XL"
+    ],
     "price": 2.73,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1842,7 +3207,7 @@
       "https://macma.ro/products/jpg/TEXTIL/GILDAN/giss800-navy_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/GILDAN/giss800-orange_a1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 4,
     "colorCount": 3,
     "sizeCount": 1,
@@ -1871,8 +3236,60 @@
     "summary": "100% polyamide men's hodded jacket. Warm and ultra-lightweight, folds up into storage bag, 2 front zipped pockets. 340 g/m²",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "KA6110",
+    "supplierVariantIds": [
+      "KA6110BL-2XL",
+      "KA6110BL-3XL",
+      "KA6110BL-4XL",
+      "KA6110BL-L",
+      "KA6110BL-M",
+      "KA6110BL-S",
+      "KA6110BL-XL",
+      "KA6110LRO-2XL",
+      "KA6110LRO-3XL",
+      "KA6110LRO-4XL",
+      "KA6110LRO-L",
+      "KA6110LRO-M",
+      "KA6110LRO-S",
+      "KA6110LRO-XL",
+      "KA6110MDG-2XL",
+      "KA6110MDG-3XL",
+      "KA6110MDG-4XL",
+      "KA6110MDG-L",
+      "KA6110MDG-M",
+      "KA6110MDG-S",
+      "KA6110MDG-XL",
+      "KA6110MSI-2XL",
+      "KA6110MSI-3XL",
+      "KA6110MSI-4XL",
+      "KA6110MSI-L",
+      "KA6110MSI-M",
+      "KA6110MSI-S",
+      "KA6110MSI-XL",
+      "KA6110NV-2XL",
+      "KA6110NV-3XL",
+      "KA6110NV-4XL",
+      "KA6110NV-L",
+      "KA6110NV-M",
+      "KA6110NV-S",
+      "KA6110NV-XL",
+      "KA6110RE-2XL",
+      "KA6110RE-3XL",
+      "KA6110RE-4XL",
+      "KA6110RE-L",
+      "KA6110RE-M",
+      "KA6110RE-S",
+      "KA6110RE-XL",
+      "KA6110WH-2XL",
+      "KA6110WH-3XL",
+      "KA6110WH-4XL",
+      "KA6110WH-L",
+      "KA6110WH-M",
+      "KA6110WH-S",
+      "KA6110WH-XL"
+    ],
     "price": 29.82,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1893,7 +3310,7 @@
       "https://macma.ro/products/jpg/TEXTIL/KARIBAN/ka6110-white_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/KARIBAN/ka6110-white_b1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 49,
     "colorCount": 7,
     "sizeCount": 4,
@@ -1939,8 +3356,53 @@
     "summary": "100% polyamide women's hooded jacket. Warm and ultra-lightweight, folds up into storage bag, 2 front zipped pockets. 340 g/m131",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "KA6111",
+    "supplierVariantIds": [
+      "KA6111BL-2XL",
+      "KA6111BL-L",
+      "KA6111BL-M",
+      "KA6111BL-S",
+      "KA6111BL-XL",
+      "KA6111BL-XS",
+      "KA6111LRO-2XL",
+      "KA6111LRO-L",
+      "KA6111LRO-M",
+      "KA6111LRO-S",
+      "KA6111LRO-XL",
+      "KA6111LRO-XS",
+      "KA6111MDG-2XL",
+      "KA6111MDG-L",
+      "KA6111MDG-M",
+      "KA6111MDG-S",
+      "KA6111MDG-XL",
+      "KA6111MDG-XS",
+      "KA6111MSI-2XL",
+      "KA6111MSI-L",
+      "KA6111MSI-M",
+      "KA6111MSI-S",
+      "KA6111MSI-XL",
+      "KA6111MSI-XS",
+      "KA6111NV-2XL",
+      "KA6111NV-L",
+      "KA6111NV-M",
+      "KA6111NV-S",
+      "KA6111NV-XL",
+      "KA6111NV-XS",
+      "KA6111RE-2XL",
+      "KA6111RE-L",
+      "KA6111RE-M",
+      "KA6111RE-S",
+      "KA6111RE-XL",
+      "KA6111RE-XS",
+      "KA6111WH-2XL",
+      "KA6111WH-L",
+      "KA6111WH-M",
+      "KA6111WH-S",
+      "KA6111WH-XL",
+      "KA6111WH-XS"
+    ],
     "price": 29.82,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1960,7 +3422,7 @@
       "https://macma.ro/products/jpg/TEXTIL/KARIBAN/ka6111-white_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/KARIBAN/ka6111-white_b1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 42,
     "colorCount": 7,
     "sizeCount": 5,
@@ -2006,11 +3468,34 @@
     "summary": "65% polyester, 35% cotton. 190 grs/m2 twill fabric. 1 back pocket. Elastic waist. Button and zipper closure. 30 units per box: 1 size, 1 color. Individual bag.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "PAVAPIX",
+    "supplierVariantIds": [
+      "PAVAPIXBL25",
+      "PAVAPIXCL20",
+      "PAVAPIXCL22"
+    ],
     "price": 8.13,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -2018,7 +3503,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/pavapix-white_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/pavapix-dolphinblue_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 3,
     "colorCount": 2,
     "sizeCount": 2,
@@ -2044,10 +3529,31 @@
     "summary": "Outside fabric rip stop system with PVC coating. Waterproof treatment. Padded 100% polyester 220 grs/m2. Inside taffeta and polar fleece lining. 2 flap chest pockets with zip. 2 bottom front pockets with zip. Sleeve c...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "PKVABOR",
+    "supplierVariantIds": [
+      "PKVABORBG22",
+      "PKVABORBL21",
+      "PKVABORBL22",
+      "PKVABORCL25",
+      "PKVABORGT20",
+      "PKVABORMR20",
+      "PKVABORMR24",
+      "PKVABORNG23",
+      "PKVABORRY23"
+    ],
     "price": 30.03,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -2060,7 +3566,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/boreal-black_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/boreal-royalblue_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 9,
     "colorCount": 7,
     "sizeCount": 4,
@@ -2106,8 +3612,38 @@
     "summary": "Outside fabric 100% Polyester unisex winter jacket. Padded 100% Polyester 250 grs/m². Double layered fabric, waterproof on the outside, inside padded. Hood hidden in neck band. 2 zip front pockets. 1 pocket in the ins...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "PKVAMAN",
+    "supplierVariantIds": [
+      "PKVAMANGR20",
+      "PKVAMANGR21",
+      "PKVAMANGR22",
+      "PKVAMANGR23",
+      "PKVAMANGR24",
+      "PKVAMANMR20",
+      "PKVAMANMR21",
+      "PKVAMANMR22",
+      "PKVAMANMR23",
+      "PKVAMANMR24",
+      "PKVAMANMR25",
+      "PKVAMANNG20",
+      "PKVAMANNG21",
+      "PKVAMANNG22",
+      "PKVAMANNG23",
+      "PKVAMANNG24",
+      "PKVAMANNG25",
+      "PKVAMANRJ20",
+      "PKVAMANRJ21",
+      "PKVAMANRJ22",
+      "PKVAMANRJ23",
+      "PKVAMANRJ24",
+      "PKVAMANRY20",
+      "PKVAMANRY21",
+      "PKVAMANRY22",
+      "PKVAMANRY23",
+      "PKVAMANRY24"
+    ],
     "price": 22.72,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -2120,7 +3656,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/manitoba-lottored_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/manitoba-royalblue_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 27,
     "colorCount": 5,
     "sizeCount": 4,
@@ -2158,11 +3694,55 @@
     "summary": "Midweight jacket with high collar unisex design, waterproof and windproof, long fit with fashion cut back.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "R206X",
+    "supplierVariantIds": [
+      "R206X0306",
+      "R206X0307",
+      "R206X0308",
+      "R206X0309",
+      "R206X0310",
+      "R206X0311",
+      "R206X0406",
+      "R206X0407",
+      "R206X0408",
+      "R206X0409",
+      "R206X0410",
+      "R206X0411",
+      "R206X0506",
+      "R206X0507",
+      "R206X0508",
+      "R206X0509",
+      "R206X0510",
+      "R206X0511",
+      "R206X1506",
+      "R206X1507",
+      "R206X1508",
+      "R206X1509",
+      "R206X1510",
+      "R206X1511"
+    ],
     "price": 19.21,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2172,7 +3752,7 @@
       "https://macma.ro/products/jpg/TEXTIL/RESULT/r206x-red_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/RESULT/r206x-grey_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 24,
     "colorCount": 4,
     "sizeCount": 4,
@@ -2206,11 +3786,59 @@
     "summary": "Lightweight unisex bodywarmer, ideal layer garment, quick drying, deep cut arm holes for added comfort, water repelent and windproof.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "R208X",
+    "supplierVariantIds": [
+      "R208X0306",
+      "R208X0307",
+      "R208X0308",
+      "R208X0309",
+      "R208X0310",
+      "R208X0311",
+      "R208X0313",
+      "R208X0406",
+      "R208X0407",
+      "R208X0408",
+      "R208X0409",
+      "R208X0410",
+      "R208X0411",
+      "R208X0413",
+      "R208X0506",
+      "R208X0507",
+      "R208X0508",
+      "R208X0509",
+      "R208X0510",
+      "R208X0511",
+      "R208X0513",
+      "R208X0606",
+      "R208X0607",
+      "R208X0608",
+      "R208X0609",
+      "R208X0610",
+      "R208X0611",
+      "R208X0613"
+    ],
     "price": 14.73,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2220,7 +3848,7 @@
       "https://macma.ro/products/jpg/TEXTIL/RESULT/r208x-red_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/RESULT/r208x-bottlegreen_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 28,
     "colorCount": 4,
     "sizeCount": 5,
@@ -2254,8 +3882,31 @@
     "summary": "2XL",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "RETRA130",
+    "supplierVariantIds": [
+      "RETRA130BL-2XL",
+      "RETRA130BL-3XL",
+      "RETRA130BL-L",
+      "RETRA130BL-S",
+      "RETRA130BL-XL",
+      "RETRA130BL/SG-4XL",
+      "RETRA130NV-2XL",
+      "RETRA130NV-3XL",
+      "RETRA130NV-4XL",
+      "RETRA130NV-L",
+      "RETRA130NV-M",
+      "RETRA130NV-S",
+      "RETRA130NV-XL",
+      "RETRA130RO-2XL",
+      "RETRA130RO-3XL",
+      "RETRA130RO-L",
+      "RETRA130RO-M",
+      "RETRA130RO-S",
+      "RETRA130RO-XL",
+      "RETRA130RO/NV-4XL"
+    ],
     "price": 61.37,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2279,7 +3930,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra130-royalbluenavy_c1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra130-royalbluenavy_c2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 20,
     "colorCount": 3,
     "sizeCount": 4,
@@ -2308,8 +3959,27 @@
     "summary": "2XL",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "RETRA132",
+    "supplierVariantIds": [
+      "RETRA132BL-2XL",
+      "RETRA132BL-3XL",
+      "RETRA132BL-L",
+      "RETRA132BL-S",
+      "RETRA132BL-XL",
+      "RETRA132BL/SG-XS",
+      "RETRA132NV-2XL",
+      "RETRA132NV-3XL",
+      "RETRA132NV-L",
+      "RETRA132NV-M",
+      "RETRA132NV-S",
+      "RETRA132NV-XL",
+      "RETRA132RO-2XL",
+      "RETRA132RO-3XL",
+      "RETRA132RO-S",
+      "RETRA132RO-XL"
+    ],
     "price": 14.33,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -2327,7 +3997,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra132-royalbluenavy_c1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra132-royalbluenavy_c2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 16,
     "colorCount": 3,
     "sizeCount": 5,
@@ -2356,8 +4026,25 @@
     "summary": "2XL",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "RETRA147",
+    "supplierVariantIds": [
+      "RETRA147BL/BL-2XL",
+      "RETRA147BL/BL-3XL",
+      "RETRA147BL/BL-4XL",
+      "RETRA147BL/BL-L",
+      "RETRA147BL/BL-M",
+      "RETRA147BL/BL-S",
+      "RETRA147BL/BL-XL",
+      "RETRA147NV/NV-2XL",
+      "RETRA147NV/NV-3XL",
+      "RETRA147NV/NV-4XL",
+      "RETRA147NV/NV-L",
+      "RETRA147NV/NV-M",
+      "RETRA147NV/NV-S",
+      "RETRA147NV/NV-XL"
+    ],
     "price": 75.15,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2369,7 +4056,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra147-navynavy_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra147-navynavy_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 14,
     "colorCount": 2,
     "sizeCount": 4,
@@ -2394,8 +4081,23 @@
     "summary": "2XL",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "RETRA148",
+    "supplierVariantIds": [
+      "RETRA148BL/BL-2XL",
+      "RETRA148BL/BL-3XL",
+      "RETRA148BL/BL-L",
+      "RETRA148BL/BL-M",
+      "RETRA148BL/BL-S",
+      "RETRA148BL/BL-XL",
+      "RETRA148NV/NV-2XL",
+      "RETRA148NV/NV-3XL",
+      "RETRA148NV/NV-L",
+      "RETRA148NV/NV-M",
+      "RETRA148NV/NV-S",
+      "RETRA148NV/NV-XL"
+    ],
     "price": 75.15,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2411,7 +4113,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra148-navynavy_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra148-navynavy_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 12,
     "colorCount": 2,
     "sizeCount": 4,
@@ -2436,8 +4138,29 @@
     "summary": "2XL",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "RETRA150",
+    "supplierVariantIds": [
+      "RETRA150BL-2XL",
+      "RETRA150BL-3XL",
+      "RETRA150BL-L",
+      "RETRA150BL-M",
+      "RETRA150BL-S",
+      "RETRA150BL-XL",
+      "RETRA150CRE-2XL",
+      "RETRA150CRE-3XL",
+      "RETRA150CRE-L",
+      "RETRA150CRE-M",
+      "RETRA150CRE-S",
+      "RETRA150CRE-XL",
+      "RETRA150NV-2XL",
+      "RETRA150NV-3XL",
+      "RETRA150NV-L",
+      "RETRA150NV-M",
+      "RETRA150NV-S",
+      "RETRA150NV-XL"
+    ],
     "price": 45.97,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2461,7 +4184,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra150-navynavy_c2.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra150-navynavy_c3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 18,
     "colorCount": 3,
     "sizeCount": 4,
@@ -2490,8 +4213,22 @@
     "summary": "Fabric Information: \tWaterproof Hydrafort 5000 peached polyester fabric ,\tWindproof fabric ,\tThermo-Guard insulation ,\tTaped seams ,\t160 GSM body insulation wadding weight ,\tSpecial Features: \tConcealed hood with adju...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "RETRA204",
+    "supplierVariantIds": [
+      "RETRA204BL-2XL",
+      "RETRA204BL-3XL",
+      "RETRA204BL-L",
+      "RETRA204BL-S",
+      "RETRA204BL-XL",
+      "RETRA204NV-2XL",
+      "RETRA204NV-3XL",
+      "RETRA204NV-L",
+      "RETRA204NV-M",
+      "RETRA204NV-S",
+      "RETRA204NV-XL"
+    ],
     "price": 20.06,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2499,7 +4236,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra204-black_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra204-navy_b1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 11,
     "colorCount": 2,
     "sizeCount": 4,
@@ -2525,8 +4262,22 @@
     "summary": "2XL",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "RETRA208",
+    "supplierVariantIds": [
+      "RETRA208GR/BL-2XL",
+      "RETRA208GR/BL-3XL",
+      "RETRA208GR/BL-L",
+      "RETRA208GR/BL-M",
+      "RETRA208GR/BL-S",
+      "RETRA208GR/BL-XL",
+      "RETRA208NV/GR-2XL",
+      "RETRA208NV/GR-3XL",
+      "RETRA208NV/GR-M",
+      "RETRA208NV/GR-S",
+      "RETRA208NV/GR-XL"
+    ],
     "price": 75.15,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2538,7 +4289,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra208-navygrey_back.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra208-navygrey_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 11,
     "colorCount": 2,
     "sizeCount": 4,
@@ -2563,15 +4314,24 @@
     "summary": "2XL",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "RETRA210",
+    "supplierVariantIds": [
+      "RETRA210NV/MAG-2XL",
+      "RETRA210NV/MAG-3XL",
+      "RETRA210NV/MAG-L",
+      "RETRA210NV/MAG-M",
+      "RETRA210NV/MAG-S",
+      "RETRA210NV/MAG-XL"
+    ],
     "price": 93.96,
     "priceFrom": false,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra210-navymagma_a1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 6,
     "colorCount": 1,
     "sizeCount": 4,
@@ -2592,8 +4352,27 @@
     "summary": "Fabric Information: \tOuter: 100% polyester (High Shine Fabric) ,\tThermoguard insulation (100% recycled) ,\tLining: 100% Polyester (Taffeta, quilted) ,\tWaterproof (Hydrafort) ,\tSpecial Features: \tRibbed collar, hem and ...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "RETRA255",
+    "supplierVariantIds": [
+      "RETRA255BL-2XL",
+      "RETRA255BL-L",
+      "RETRA255BL-M",
+      "RETRA255BL-S",
+      "RETRA255BL-XL",
+      "RETRA255DKH-2XL",
+      "RETRA255DKH-L",
+      "RETRA255DKH-M",
+      "RETRA255DKH-S",
+      "RETRA255DKH-XL",
+      "RETRA255NV-2XL",
+      "RETRA255NV-3XL",
+      "RETRA255NV-L",
+      "RETRA255NV-M",
+      "RETRA255NV-S",
+      "RETRA255NV-XL"
+    ],
     "price": 41.25,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2602,7 +4381,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra255-darkkhaki_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra255-navy_b1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 16,
     "colorCount": 3,
     "sizeCount": 4,
@@ -2632,8 +4411,25 @@
     "summary": "2XL",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "RETRA301",
+    "supplierVariantIds": [
+      "RETRA301BL-2XL",
+      "RETRA301BL-3XL",
+      "RETRA301BL-4XL",
+      "RETRA301BL-L",
+      "RETRA301BL-M",
+      "RETRA301BL-S",
+      "RETRA301BL-XL",
+      "RETRA301NV-2XL",
+      "RETRA301NV-3XL",
+      "RETRA301NV-4XL",
+      "RETRA301NV-L",
+      "RETRA301NV-M",
+      "RETRA301NV-S",
+      "RETRA301NV-XL"
+    ],
     "price": 50.08,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2643,7 +4439,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra301-navy_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra301-navy_b1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 14,
     "colorCount": 2,
     "sizeCount": 4,
@@ -2668,8 +4464,22 @@
     "summary": "2XL",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "RETRA306",
+    "supplierVariantIds": [
+      "RETRA306BL-2XL",
+      "RETRA306BL-L",
+      "RETRA306BL-M",
+      "RETRA306BL-S",
+      "RETRA306BL-XL",
+      "RETRA306BL-XS",
+      "RETRA306NV-2XL",
+      "RETRA306NV-M",
+      "RETRA306NV-S",
+      "RETRA306NV-XL",
+      "RETRA306NV-XS"
+    ],
     "price": 50.08,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2681,7 +4491,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra306-navy_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra306-navy_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 11,
     "colorCount": 2,
     "sizeCount": 5,
@@ -2706,8 +4516,23 @@
     "summary": "2XL",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "RETRA610",
+    "supplierVariantIds": [
+      "RETRA610BL/BL-2XL",
+      "RETRA610BL/BL-3XL",
+      "RETRA610BL/BL-L",
+      "RETRA610BL/BL-M",
+      "RETRA610BL/BL-S",
+      "RETRA610BL/BL-XL",
+      "RETRA610NV/NV-2XL",
+      "RETRA610NV/NV-3XL",
+      "RETRA610NV/NV-L",
+      "RETRA610NV/NV-M",
+      "RETRA610NV/NV-S",
+      "RETRA610NV/NV-XL"
+    ],
     "price": 27.52,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2720,7 +4545,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra610-navynavy_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra610-navynavy_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 12,
     "colorCount": 2,
     "sizeCount": 4,
@@ -2745,8 +4570,23 @@
     "summary": "10",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "RETRA613",
+    "supplierVariantIds": [
+      "RETRA613BL/BL-10",
+      "RETRA613BL/BL-12",
+      "RETRA613BL/BL-14",
+      "RETRA613BL/BL-16",
+      "RETRA613BL/BL-18",
+      "RETRA613BL/BL-20",
+      "RETRA613NV/NV-10",
+      "RETRA613NV/NV-12",
+      "RETRA613NV/NV-14",
+      "RETRA613NV/NV-16",
+      "RETRA613NV/NV-18",
+      "RETRA613NV/NV-20"
+    ],
     "price": 12.9,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2759,7 +4599,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra613-navynavy_a2.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra613-navynavy_b1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 12,
     "colorCount": 2,
     "sizeCount": 6,
@@ -2784,8 +4624,23 @@
     "summary": "2XL",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "RETRA625",
+    "supplierVariantIds": [
+      "RETRA625OR/NV-2XL",
+      "RETRA625OR/NV-3XL",
+      "RETRA625OR/NV-L",
+      "RETRA625OR/NV-M",
+      "RETRA625OR/NV-S",
+      "RETRA625OR/NV-XL",
+      "RETRA625YE/NV-2XL",
+      "RETRA625YE/NV-3XL",
+      "RETRA625YE/NV-L",
+      "RETRA625YE/NV-M",
+      "RETRA625YE/NV-S",
+      "RETRA625YE/NV-XL"
+    ],
     "price": 45.07,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2795,7 +4650,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra625-yellownavy_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra625-yellownavy_b1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 12,
     "colorCount": 2,
     "sizeCount": 4,
@@ -2820,8 +4675,91 @@
     "summary": "S",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "RETRA628",
+    "supplierVariantIds": [
+      "RETRA628BL/BL-2XL",
+      "RETRA628BL/BL-3XL",
+      "RETRA628BL/BL-L",
+      "RETRA628BL/BL-M",
+      "RETRA628BL/BL-S",
+      "RETRA628BL/BL-XL",
+      "RETRA628BL/CRE-2XL",
+      "RETRA628BL/CRE-3XL",
+      "RETRA628BL/CRE-L",
+      "RETRA628BL/CRE-M",
+      "RETRA628BL/CRE-S",
+      "RETRA628BL/CRE-XL",
+      "RETRA628CRE/BL-2XL",
+      "RETRA628CRE/BL-3XL",
+      "RETRA628CRE/BL-L",
+      "RETRA628CRE/BL-M",
+      "RETRA628CRE/BL-S",
+      "RETRA628CRE/BL-XL",
+      "RETRA628DSP/BL-2XL",
+      "RETRA628DSP/BL-3XL",
+      "RETRA628DSP/BL-L",
+      "RETRA628DSP/BL-M",
+      "RETRA628DSP/BL-S",
+      "RETRA628DSP/BL-XL",
+      "RETRA628EXG/BL-2XL",
+      "RETRA628EXG/BL-3XL",
+      "RETRA628EXG/BL-L",
+      "RETRA628EXG/BL-M",
+      "RETRA628EXG/BL-S",
+      "RETRA628EXG/BL-XL",
+      "RETRA628FRB/NV-2XL",
+      "RETRA628FRB/NV-3XL",
+      "RETRA628FRB/NV-L",
+      "RETRA628FRB/NV-M",
+      "RETRA628FRB/NV-S",
+      "RETRA628FRB/NV-XL",
+      "RETRA628HPI/BL-2XL",
+      "RETRA628HPI/BL-3XL",
+      "RETRA628MAG/BL-2XL",
+      "RETRA628MAG/BL-3XL",
+      "RETRA628MAG/BL-S",
+      "RETRA628NRO/BL-2XL",
+      "RETRA628NRO/BL-3XL",
+      "RETRA628NRO/BL-L",
+      "RETRA628NRO/BL-M",
+      "RETRA628NRO/BL-S",
+      "RETRA628NRO/BL-XL",
+      "RETRA628NV/FRB-2XL",
+      "RETRA628NV/FRB-3XL",
+      "RETRA628NV/FRB-L",
+      "RETRA628NV/FRB-M",
+      "RETRA628NV/FRB-S",
+      "RETRA628NV/FRB-XL",
+      "RETRA628NV/NV-2XL",
+      "RETRA628NV/NV-3XL",
+      "RETRA628NV/NV-L",
+      "RETRA628NV/NV-M",
+      "RETRA628NV/NV-S",
+      "RETRA628NV/NV-XL",
+      "RETRA628RGR/BL-2XL",
+      "RETRA628RGR/BL-3XL",
+      "RETRA628RGR/BL-L",
+      "RETRA628RGR/BL-M",
+      "RETRA628RGR/BL-S",
+      "RETRA628RGR/BL-XL",
+      "RETRA628SG/BL-2XL",
+      "RETRA628SG/BL-3XL",
+      "RETRA628SG/BL-L",
+      "RETRA628SG/BL-M",
+      "RETRA628SG/BL-S",
+      "RETRA628SG/BL-XL",
+      "RETRA628VPU/BL-2XL",
+      "RETRA628VPU/BL-3XL",
+      "RETRA628VPU/BL-L",
+      "RETRA628VPU/BL-S",
+      "RETRA628VPU/BL-XL",
+      "RETRA628WH/LSTE-2XL",
+      "RETRA628WH/LSTE-3XL",
+      "RETRA628WH/LSTE-M",
+      "RETRA628WH/LSTE-S"
+    ],
     "price": 2.73,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -2857,7 +4795,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra628-whitelightsteel_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra628-whitelightsteel_b1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 80,
     "colorCount": 15,
     "sizeCount": 4,
@@ -2934,8 +4872,99 @@
     "summary": "3XL",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "RETRA629",
+    "supplierVariantIds": [
+      "RETRA629BL/BL-2XL",
+      "RETRA629BL/BL-3XL",
+      "RETRA629BL/BL-L",
+      "RETRA629BL/BL-M",
+      "RETRA629BL/BL-S",
+      "RETRA629BL/BL-XL",
+      "RETRA629BL/CRE-2XL",
+      "RETRA629BL/CRE-3XL",
+      "RETRA629BL/CRE-L",
+      "RETRA629BL/CRE-M",
+      "RETRA629BL/CRE-S",
+      "RETRA629BL/CRE-XL",
+      "RETRA629CRE/BL-2XL",
+      "RETRA629CRE/BL-3XL",
+      "RETRA629CRE/BL-L",
+      "RETRA629CRE/BL-M",
+      "RETRA629CRE/BL-S",
+      "RETRA629CRE/BL-XL",
+      "RETRA629DSP/BL-2XL",
+      "RETRA629DSP/BL-3XL",
+      "RETRA629DSP/BL-L",
+      "RETRA629DSP/BL-M",
+      "RETRA629DSP/BL-S",
+      "RETRA629DSP/BL-XL",
+      "RETRA629EXG/BL-2XL",
+      "RETRA629EXG/BL-3XL",
+      "RETRA629EXG/BL-L",
+      "RETRA629EXG/BL-M",
+      "RETRA629EXG/BL-S",
+      "RETRA629EXG/BL-XL",
+      "RETRA629FRB/NV-2XL",
+      "RETRA629FRB/NV-3XL",
+      "RETRA629FRB/NV-L",
+      "RETRA629FRB/NV-M",
+      "RETRA629FRB/NV-S",
+      "RETRA629FRB/NV-XL",
+      "RETRA629HPI/BL-3XL",
+      "RETRA629HPI/BL-L",
+      "RETRA629HPI/BL-M",
+      "RETRA629HPI/BL-XL",
+      "RETRA629MAG/BL-2XL",
+      "RETRA629MAG/BL-3XL",
+      "RETRA629MAG/BL-L",
+      "RETRA629MAG/BL-M",
+      "RETRA629MAG/BL-S",
+      "RETRA629MAG/BL-XL",
+      "RETRA629NRO/BL-2XL",
+      "RETRA629NRO/BL-3XL",
+      "RETRA629NRO/BL-L",
+      "RETRA629NRO/BL-M",
+      "RETRA629NRO/BL-S",
+      "RETRA629NRO/BL-XL",
+      "RETRA629NV/FRB-2XL",
+      "RETRA629NV/FRB-3XL",
+      "RETRA629NV/FRB-L",
+      "RETRA629NV/FRB-M",
+      "RETRA629NV/FRB-S",
+      "RETRA629NV/FRB-XL",
+      "RETRA629NV/NV-2XL",
+      "RETRA629NV/NV-3XL",
+      "RETRA629NV/NV-L",
+      "RETRA629NV/NV-M",
+      "RETRA629NV/NV-S",
+      "RETRA629NV/NV-XL",
+      "RETRA629RGR/BL-2XL",
+      "RETRA629RGR/BL-3XL",
+      "RETRA629RGR/BL-L",
+      "RETRA629RGR/BL-M",
+      "RETRA629RGR/BL-S",
+      "RETRA629RGR/BL-XL",
+      "RETRA629SG/BL-2XL",
+      "RETRA629SG/BL-3XL",
+      "RETRA629SG/BL-L",
+      "RETRA629SG/BL-M",
+      "RETRA629SG/BL-S",
+      "RETRA629SG/BL-XL",
+      "RETRA629VPU/BL-2XL",
+      "RETRA629VPU/BL-3XL",
+      "RETRA629VPU/BL-L",
+      "RETRA629VPU/BL-M",
+      "RETRA629VPU/BL-S",
+      "RETRA629VPU/BL-XL",
+      "RETRA629WH/LSTE-2XL",
+      "RETRA629WH/LSTE-3XL",
+      "RETRA629WH/LSTE-L",
+      "RETRA629WH/LSTE-M",
+      "RETRA629WH/LSTE-S",
+      "RETRA629WH/LSTE-XL"
+    ],
     "price": 5.59,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -2971,7 +5000,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra629-whitelightsteel_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra629-whitelightsteel_b1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 88,
     "colorCount": 15,
     "sizeCount": 4,
@@ -3048,8 +5077,27 @@
     "summary": "2XL",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "RETRA650",
+    "supplierVariantIds": [
+      "RETRA650BL/BL-2XL",
+      "RETRA650BL/BL-3XL",
+      "RETRA650BL/BL-L",
+      "RETRA650BL/BL-M",
+      "RETRA650BL/BL-S",
+      "RETRA650BL/BL-XL",
+      "RETRA650CRE/BL-3XL",
+      "RETRA650CRE/BL-L",
+      "RETRA650CRE/BL-M",
+      "RETRA650CRE/BL-S",
+      "RETRA650NV/BL-2XL",
+      "RETRA650NV/BL-3XL",
+      "RETRA650NV/BL-L",
+      "RETRA650NV/BL-M",
+      "RETRA650NV/BL-S",
+      "RETRA650NV/BL-XL"
+    ],
     "price": 50.08,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -3058,7 +5106,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra650-classicredblack_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra650-navyblack_a1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 16,
     "colorCount": 3,
     "sizeCount": 4,
@@ -3087,8 +5135,34 @@
     "summary": "4XL",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "RETRA654",
+    "supplierVariantIds": [
+      "RETRA654BL-2XL",
+      "RETRA654BL-3XL",
+      "RETRA654BL-4XL",
+      "RETRA654BL-L",
+      "RETRA654BL-M",
+      "RETRA654BL-S",
+      "RETRA654BL-XL",
+      "RETRA654BL-XS",
+      "RETRA654NV-2XL",
+      "RETRA654NV-3XL",
+      "RETRA654NV-L",
+      "RETRA654NV-M",
+      "RETRA654NV-S",
+      "RETRA654NV-XL",
+      "RETRA654NV-XS",
+      "RETRA654SG/BL-2XL",
+      "RETRA654SG/BL-3XL",
+      "RETRA654SG/BL-4XL",
+      "RETRA654SG/BL-L",
+      "RETRA654SG/BL-M",
+      "RETRA654SG/BL-S",
+      "RETRA654SG/BL-XL",
+      "RETRA654SG/BL-XS"
+    ],
     "price": 17.19,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -3101,7 +5175,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra654-sealgreyblack_a2.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra654-sealgreyblack_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 23,
     "colorCount": 3,
     "sizeCount": 5,
@@ -3130,8 +5204,27 @@
     "summary": "2XL",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "RETRA674",
+    "supplierVariantIds": [
+      "RETRA674BL/SG-2XL",
+      "RETRA674BL/SG-3XL",
+      "RETRA674BL/SG-L",
+      "RETRA674BL/SG-M",
+      "RETRA674BL/SG-S",
+      "RETRA674BL/SG-XL",
+      "RETRA674FRB/SG-2XL",
+      "RETRA674FRB/SG-3XL",
+      "RETRA674FRB/SG-M",
+      "RETRA674FRB/SG-S",
+      "RETRA674FRB/SG-XL",
+      "RETRA674SG/BL-2XL",
+      "RETRA674SG/BL-L",
+      "RETRA674SG/BL-M",
+      "RETRA674SG/BL-S",
+      "RETRA674SG/BL-XL"
+    ],
     "price": 17.19,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -3141,7 +5234,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra674-sealgreyblack_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra674-sealgreyblack_a3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 16,
     "colorCount": 3,
     "sizeCount": 4,
@@ -3170,8 +5263,35 @@
     "summary": "2XL",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "RETRA680",
+    "supplierVariantIds": [
+      "RETRA680BL-2XL",
+      "RETRA680BL-3XL",
+      "RETRA680BL-L",
+      "RETRA680BL-M",
+      "RETRA680BL-S",
+      "RETRA680BL-XL",
+      "RETRA680NV/NV-2XL",
+      "RETRA680NV/NV-3XL",
+      "RETRA680NV/NV-L",
+      "RETRA680NV/NV-M",
+      "RETRA680NV/NV-S",
+      "RETRA680NV/NV-XL",
+      "RETRA680OXB-2XL",
+      "RETRA680OXB-3XL",
+      "RETRA680OXB-L",
+      "RETRA680OXB-M",
+      "RETRA680OXB-S",
+      "RETRA680OXB-XL",
+      "RETRA680SG/SG-2XL",
+      "RETRA680SG/SG-3XL",
+      "RETRA680SG/SG-L",
+      "RETRA680SG/SG-M",
+      "RETRA680SG/SG-S",
+      "RETRA680SG/SG-XL"
+    ],
     "price": 12.9,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -3181,7 +5301,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra680-oxfordblueoxfordblue_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra680-sealgreysealgrey_a1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 24,
     "colorCount": 4,
     "sizeCount": 4,
@@ -3214,8 +5334,48 @@
     "summary": "XS",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "RETRA688",
+    "supplierVariantIds": [
+      "RETRA688BL/BL-2XL",
+      "RETRA688BL/BL-3XL",
+      "RETRA688BL/BL-4XL",
+      "RETRA688BL/BL-L",
+      "RETRA688BL/BL-M",
+      "RETRA688BL/BL-S",
+      "RETRA688BL/BL-XL",
+      "RETRA688BL/BL-XS",
+      "RETRA688CRE/BL-2XL",
+      "RETRA688CRE/BL-3XL",
+      "RETRA688CRE/BL-4XL",
+      "RETRA688CRE/BL-L",
+      "RETRA688CRE/BL-M",
+      "RETRA688CRE/BL-S",
+      "RETRA688CRE/BL-XL",
+      "RETRA688NV/SG-2XL",
+      "RETRA688NV/SG-3XL",
+      "RETRA688NV/SG-4XL",
+      "RETRA688NV/SG-L",
+      "RETRA688NV/SG-M",
+      "RETRA688NV/SG-S",
+      "RETRA688NV/SG-XL",
+      "RETRA688NV/SG-XS",
+      "RETRA688OXB/BL-2XL",
+      "RETRA688OXB/BL-3XL",
+      "RETRA688OXB/BL-4XL",
+      "RETRA688OXB/BL-L",
+      "RETRA688OXB/BL-M",
+      "RETRA688OXB/BL-S",
+      "RETRA688OXB/BL-XL",
+      "RETRA688SG/BL-2XL",
+      "RETRA688SG/BL-3XL",
+      "RETRA688SG/BL-4XL",
+      "RETRA688SG/BL-L",
+      "RETRA688SG/BL-M",
+      "RETRA688SG/BL-S",
+      "RETRA688SG/BL-XL"
+    ],
     "price": 17.19,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -3241,7 +5401,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra688-sealgreyblack_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra688-sealgreyblack_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 37,
     "colorCount": 5,
     "sizeCount": 5,
@@ -3278,8 +5438,42 @@
     "summary": "2XL",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "RETRA689",
+    "supplierVariantIds": [
+      "RETRA689BL/BL-2XL",
+      "RETRA689BL/BL-3XL",
+      "RETRA689BL/BL-4XL",
+      "RETRA689BL/BL-L",
+      "RETRA689BL/BL-M",
+      "RETRA689BL/BL-S",
+      "RETRA689BL/BL-XL",
+      "RETRA689BL/BL-XS",
+      "RETRA689CRE/BL-2XL",
+      "RETRA689CRE/BL-3XL",
+      "RETRA689CRE/BL-L",
+      "RETRA689CRE/BL-M",
+      "RETRA689CRE/BL-S",
+      "RETRA689CRE/BL-XL",
+      "RETRA689NV/SG-2XL",
+      "RETRA689NV/SG-3XL",
+      "RETRA689NV/SG-4XL",
+      "RETRA689NV/SG-XL",
+      "RETRA689NV/SG-XS",
+      "RETRA689OXB/BL-2XL",
+      "RETRA689OXB/BL-3XL",
+      "RETRA689OXB/BL-L",
+      "RETRA689OXB/BL-M",
+      "RETRA689OXB/BL-S",
+      "RETRA689OXB/BL-XL",
+      "RETRA689SG/BL-2XL",
+      "RETRA689SG/BL-3XL",
+      "RETRA689SG/BL-L",
+      "RETRA689SG/BL-M",
+      "RETRA689SG/BL-S",
+      "RETRA689SG/BL-XL"
+    ],
     "price": 27.08,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -3309,7 +5503,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra689-sealgreyblack_b2.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra689-sealgreyblack_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 31,
     "colorCount": 5,
     "sizeCount": 5,
@@ -3346,8 +5540,17 @@
     "summary": "2XL",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "RETRA701",
+    "supplierVariantIds": [
+      "RETRA701BL/BL-2XL",
+      "RETRA701BL/BL-3XL",
+      "RETRA701BL/BL-L",
+      "RETRA701BL/BL-M",
+      "RETRA701BL/BL-S",
+      "RETRA701BL/BL-XL"
+    ],
     "price": 30.63,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -3358,7 +5561,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra701-blackblack_a4.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra701-blackblack_b1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 6,
     "colorCount": 1,
     "sizeCount": 4,
@@ -3379,8 +5582,16 @@
     "summary": "12",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "RETRA702",
+    "supplierVariantIds": [
+      "RETRA702BL/BL-12",
+      "RETRA702BL/BL-14",
+      "RETRA702BL/BL-16",
+      "RETRA702BL/BL-18",
+      "RETRA702BL/BL-20"
+    ],
     "price": 30.63,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -3388,7 +5599,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra702-blackblack_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra702-blackblack_a2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 5,
     "colorCount": 1,
     "sizeCount": 5,
@@ -3409,15 +5620,23 @@
     "summary": "Fabric Information: \tInnovative woven ultra stretch fabric ,\tDurable water repellent finish ,\tHighly durable and resilient performance yarn fabric ,\tEco-friendly processing at lower temperatures than regular yarns ,\tS...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "RETRA710",
+    "supplierVariantIds": [
+      "RETRA710SGM-2XL",
+      "RETRA710SGM-3XL",
+      "RETRA710SGM-L",
+      "RETRA710SGM-S",
+      "RETRA710SGM-XL"
+    ],
     "price": 14.33,
     "priceFrom": false,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra710-sealgreymarl_a1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 5,
     "colorCount": 1,
     "sizeCount": 3,
@@ -3439,8 +5658,31 @@
     "summary": "2XL",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "RETRA806",
+    "supplierVariantIds": [
+      "RETRA806BL-2XL",
+      "RETRA806BL-3XL",
+      "RETRA806BL-M",
+      "RETRA806BL-S",
+      "RETRA806BL-XL",
+      "RETRA806BL-XS",
+      "RETRA806NV-2XL",
+      "RETRA806NV-3XL",
+      "RETRA806NV-L",
+      "RETRA806NV-M",
+      "RETRA806NV-S",
+      "RETRA806NV-XL",
+      "RETRA806NV-XS",
+      "RETRA806SG/BL-2XL",
+      "RETRA806SG/BL-3XL",
+      "RETRA806SG/BL-L",
+      "RETRA806SG/BL-M",
+      "RETRA806SG/BL-S",
+      "RETRA806SG/BL-XL",
+      "RETRA806SG/BL-XS"
+    ],
     "price": 31.29,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -3449,7 +5691,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra806-navy_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra806-sealgreyblack_a1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 20,
     "colorCount": 3,
     "sizeCount": 5,
@@ -3478,8 +5720,33 @@
     "summary": "4XL",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "RETRA831",
+    "supplierVariantIds": [
+      "RETRA831BL-2XL",
+      "RETRA831BL-3XL",
+      "RETRA831BL-4XL",
+      "RETRA831BL-L",
+      "RETRA831BL-M",
+      "RETRA831BL-S",
+      "RETRA831BL-XL",
+      "RETRA831CRE-4XL",
+      "RETRA831NV-2XL",
+      "RETRA831NV-3XL",
+      "RETRA831NV-4XL",
+      "RETRA831NV-L",
+      "RETRA831NV-M",
+      "RETRA831NV-S",
+      "RETRA831NV-XL",
+      "RETRA831SG-2XL",
+      "RETRA831SG-3XL",
+      "RETRA831SG-4XL",
+      "RETRA831SG-L",
+      "RETRA831SG-M",
+      "RETRA831SG-S",
+      "RETRA831SG-XL"
+    ],
     "price": 11.47,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -3505,7 +5772,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra831-sealgrey_b2.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra831-sealgrey_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 22,
     "colorCount": 4,
     "sizeCount": 4,
@@ -3538,8 +5805,23 @@
     "summary": "2XL",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "RETRA832",
+    "supplierVariantIds": [
+      "RETRA832BL-2XL",
+      "RETRA832BL-3XL",
+      "RETRA832BL-L",
+      "RETRA832BL-M",
+      "RETRA832BL-S",
+      "RETRA832BL-XL",
+      "RETRA832NV-2XL",
+      "RETRA832NV-3XL",
+      "RETRA832NV-L",
+      "RETRA832NV-M",
+      "RETRA832NV-S",
+      "RETRA832NV-XL"
+    ],
     "price": 23.76,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -3557,7 +5839,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra832-navy_b2.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra832-navy_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 12,
     "colorCount": 2,
     "sizeCount": 4,
@@ -3582,8 +5864,35 @@
     "summary": "2XL",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "RETRW297",
+    "supplierVariantIds": [
+      "RETRW297BL/AS-2XL",
+      "RETRW297BL/AS-3XL",
+      "RETRW297BL/AS-L",
+      "RETRW297BL/AS-M",
+      "RETRW297BL/AS-S",
+      "RETRW297BL/AS-XL",
+      "RETRW297CRE/NV-2XL",
+      "RETRW297CRE/NV-3XL",
+      "RETRW297CRE/NV-L",
+      "RETRW297CRE/NV-M",
+      "RETRW297CRE/NV-S",
+      "RETRW297CRE/NV-XL",
+      "RETRW297NV/NV-2XL",
+      "RETRW297NV/NV-3XL",
+      "RETRW297NV/NV-4XL",
+      "RETRW297NV/NV-L",
+      "RETRW297NV/NV-M",
+      "RETRW297NV/NV-S",
+      "RETRW297NV/NV-XL",
+      "RETRW297RO/NV-3XL",
+      "RETRW297RO/NV-L",
+      "RETRW297RO/NV-M",
+      "RETRW297RO/NV-S",
+      "RETRW297RO/NV-XL"
+    ],
     "price": 24.54,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -3597,7 +5906,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retrw297-royalbluenavy_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retrw297-royalbluenavy_b1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 24,
     "colorCount": 4,
     "sizeCount": 4,
@@ -3630,11 +5939,40 @@
     "summary": "2XL",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "SO01170",
+    "supplierVariantIds": [
+      "SO01170BL-2XL",
+      "SO01170BL-L",
+      "SO01170BL-S",
+      "SO01170BL-XL",
+      "SO01170NV-2XL",
+      "SO01170NV-L",
+      "SO01170NV-M",
+      "SO01170NV-S",
+      "SO01170NV-XL"
+    ],
     "price": 21.49,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -3646,7 +5984,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01170-navy_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01170-navy_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 9,
     "colorCount": 2,
     "sizeCount": 4,
@@ -3671,11 +6009,49 @@
     "summary": "XS",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "SO01171",
+    "supplierVariantIds": [
+      "SO01171BL/DG-2XL",
+      "SO01171BL/DG-L",
+      "SO01171BL/DG-M",
+      "SO01171BL/DG-S",
+      "SO01171BL/DG-XL",
+      "SO01171BL/DG-XS",
+      "SO01171CMO/RO-XS",
+      "SO01171NEL/RO-L",
+      "SO01171NV/RO-2XL",
+      "SO01171NV/RO-L",
+      "SO01171NV/RO-M",
+      "SO01171NV/RO-XL",
+      "SO01171RO/NEG-2XL",
+      "SO01171RO/NEG-L",
+      "SO01171RO/NEG-M",
+      "SO01171RO/NEG-S",
+      "SO01171RO/NEG-XL",
+      "SO01171RO/NEG-XS"
+    ],
     "price": 7.03,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -3696,7 +6072,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01171-royalblueneongold_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01171-royalblueneongold_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 18,
     "colorCount": 4,
     "sizeCount": 5,
@@ -3729,11 +6105,41 @@
     "summary": "2XL",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "SO01193",
+    "supplierVariantIds": [
+      "SO01193BL-2XL",
+      "SO01193BL-L",
+      "SO01193BL-M",
+      "SO01193BL-S",
+      "SO01193BL-XL",
+      "SO01193NV-2XL",
+      "SO01193NV-L",
+      "SO01193NV-M",
+      "SO01193NV-S",
+      "SO01193NV-XL"
+    ],
     "price": 21.49,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -3751,7 +6157,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01193-navy_c1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01193-navy_c2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 10,
     "colorCount": 2,
     "sizeCount": 4,
@@ -3776,11 +6182,58 @@
     "summary": "QUALITY - SOFTSHELL 280;96% polyester/4% elastane;2 layers;STYLE - SPORTS;2 side zip pockets;",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "SO01194",
+    "supplierVariantIds": [
+      "SO01194AR-2XL",
+      "SO01194AR-L",
+      "SO01194AR-M",
+      "SO01194AR-S",
+      "SO01194AR-XL",
+      "SO01194BG-2XL",
+      "SO01194BG-L",
+      "SO01194BG-S",
+      "SO01194BG-XL",
+      "SO01194BL-2XL",
+      "SO01194BL-L",
+      "SO01194BL-M",
+      "SO01194BL-S",
+      "SO01194BL-XL",
+      "SO01194FN-2XL",
+      "SO01194FN-L",
+      "SO01194FN-M",
+      "SO01194FN-S",
+      "SO01194FN-XL",
+      "SO01194PRE-2XL",
+      "SO01194PRE-L",
+      "SO01194PRE-M",
+      "SO01194PRE-S",
+      "SO01194PRE-XL",
+      "SO01194RO-2XL",
+      "SO01194RO-L",
+      "SO01194RO-XL"
+    ],
     "price": 11.47,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -3796,7 +6249,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01194-royalblue_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01194-royalblue_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 27,
     "colorCount": 6,
     "sizeCount": 4,
@@ -3838,11 +6291,59 @@
     "summary": "QUALITY - SOFTSHELL 280;96% polyester - 4% elastane;2 layers;STYLE - SPORTS;2 side zip pockets;",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "SO01195",
+    "supplierVariantIds": [
+      "SO01195AR-2XL",
+      "SO01195AR-3XL",
+      "SO01195AR-L",
+      "SO01195AR-XL",
+      "SO01195BG-M",
+      "SO01195BL-2XL",
+      "SO01195BL-3XL",
+      "SO01195BL-L",
+      "SO01195BL-M",
+      "SO01195BL-S",
+      "SO01195BL-XL",
+      "SO01195FN-2XL",
+      "SO01195FN-3XL",
+      "SO01195FN-L",
+      "SO01195FN-M",
+      "SO01195FN-S",
+      "SO01195FN-XL",
+      "SO01195PRE-2XL",
+      "SO01195PRE-3XL",
+      "SO01195PRE-L",
+      "SO01195PRE-M",
+      "SO01195PRE-S",
+      "SO01195PRE-XL",
+      "SO01195RO-2XL",
+      "SO01195RO-L",
+      "SO01195RO-M",
+      "SO01195RO-S",
+      "SO01195RO-XL"
+    ],
     "price": 11.47,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -3866,7 +6367,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01195-royalblue_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01195-royalblue_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 28,
     "colorCount": 6,
     "sizeCount": 4,
@@ -3908,11 +6409,49 @@
     "summary": "2XL",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "SO01436",
+    "supplierVariantIds": [
+      "SO01436BL-2XL",
+      "SO01436BL-3XL",
+      "SO01436BL-L",
+      "SO01436BL-M",
+      "SO01436BL-S",
+      "SO01436BL-XL",
+      "SO01436MEGR-2XL",
+      "SO01436MEGR-3XL",
+      "SO01436MEGR-L",
+      "SO01436MEGR-M",
+      "SO01436MEGR-S",
+      "SO01436MEGR-XL",
+      "SO01436NV-2XL",
+      "SO01436NV-3XL",
+      "SO01436NV-L",
+      "SO01436NV-M",
+      "SO01436NV-S",
+      "SO01436NV-XL"
+    ],
     "price": 21.09,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -3934,7 +6473,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01436-navy_c.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01436-navy_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 18,
     "colorCount": 3,
     "sizeCount": 4,
@@ -3963,11 +6502,46 @@
     "summary": "2XL",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "SO01437",
+    "supplierVariantIds": [
+      "SO01437BL-2XL",
+      "SO01437BL-L",
+      "SO01437BL-M",
+      "SO01437BL-S",
+      "SO01437BL-XL",
+      "SO01437MEGR-2XL",
+      "SO01437MEGR-L",
+      "SO01437MEGR-M",
+      "SO01437MEGR-S",
+      "SO01437MEGR-XL",
+      "SO01437NV-2XL",
+      "SO01437NV-L",
+      "SO01437NV-M",
+      "SO01437NV-S",
+      "SO01437NV-XL"
+    ],
     "price": 21.09,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -3982,7 +6556,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01437-navy_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01437-navy_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 15,
     "colorCount": 3,
     "sizeCount": 4,
@@ -4011,11 +6585,84 @@
     "summary": "XS",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "SO01618",
+    "supplierVariantIds": [
+      "SO01618AQ-2XL",
+      "SO01618AQ-L",
+      "SO01618AQ-M",
+      "SO01618AQ-S",
+      "SO01618AQ-XL",
+      "SO01618BL-2XL",
+      "SO01618BL-3XL",
+      "SO01618BL-L",
+      "SO01618BL-M",
+      "SO01618BL-S",
+      "SO01618BL-XL",
+      "SO01618FN-2XL",
+      "SO01618FN-3XL",
+      "SO01618FN-L",
+      "SO01618FN-M",
+      "SO01618FN-S",
+      "SO01618FN-XL",
+      "SO01618FN-XS",
+      "SO01618FO-2XL",
+      "SO01618FO-3XL",
+      "SO01618FO-L",
+      "SO01618FO-M",
+      "SO01618FO-S",
+      "SO01618FO-XL",
+      "SO01618FO-XS",
+      "SO01618GO-2XL",
+      "SO01618GO-S",
+      "SO01618GO-XL",
+      "SO01618LI-2XL",
+      "SO01618LI-L",
+      "SO01618LI-M",
+      "SO01618LI-S",
+      "SO01618LI-XL",
+      "SO01618OR-2XL",
+      "SO01618OR-M",
+      "SO01618OR-S",
+      "SO01618OR-XL",
+      "SO01618OR-XS",
+      "SO01618RE-2XL",
+      "SO01618RE-L",
+      "SO01618RE-M",
+      "SO01618RE-S",
+      "SO01618RE-XL",
+      "SO01618RO-3XL",
+      "SO01618RO-L",
+      "SO01618RO-M",
+      "SO01618RO-S",
+      "SO01618RO-XL",
+      "SO01618WH-2XL",
+      "SO01618WH-3XL",
+      "SO01618WH-L",
+      "SO01618WH-M",
+      "SO01618WH-S"
+    ],
     "price": 5.59,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -4051,7 +6698,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01618-white_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01618-white_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 53,
     "colorCount": 10,
     "sizeCount": 5,
@@ -4108,11 +6755,49 @@
     "summary": "XS",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "SO02109",
+    "supplierVariantIds": [
+      "SO02109BL-2XL",
+      "SO02109BL-S",
+      "SO02109BL-XL",
+      "SO02109CH-XS",
+      "SO02109FN-2XL",
+      "SO02109FN-L",
+      "SO02109FN-M",
+      "SO02109FN-S",
+      "SO02109FN-XL",
+      "SO02109KL-XS",
+      "SO02109MEGR-2XL",
+      "SO02109MEGR-3XL",
+      "SO02109MEGR-L",
+      "SO02109MEGR-XL",
+      "SO02109MEGR-XS",
+      "SO02109RE-4XL",
+      "SO02109RO-M",
+      "SO02109RO-S"
+    ],
     "price": 7.16,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -4139,7 +6824,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so02109-royalblue_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so02109-royalblue_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 18,
     "colorCount": 7,
     "sizeCount": 5,
@@ -4184,11 +6869,54 @@
     "summary": "2XL",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "SO02887",
+    "supplierVariantIds": [
+      "SO02887BL-2XL",
+      "SO02887BL-3XL",
+      "SO02887BL-L",
+      "SO02887BL-M",
+      "SO02887BL-S",
+      "SO02887BL-XL",
+      "SO02887FN-2XL",
+      "SO02887FN-3XL",
+      "SO02887FN-L",
+      "SO02887FN-M",
+      "SO02887FN-S",
+      "SO02887FN-XL",
+      "SO02887PRE-2XL",
+      "SO02887PRE-3XL",
+      "SO02887PRE-L",
+      "SO02887PRE-M",
+      "SO02887PRE-S",
+      "SO02887PRE-XL",
+      "SO02887RO-2XL",
+      "SO02887RO-L",
+      "SO02887RO-M",
+      "SO02887RO-S",
+      "SO02887RO-XL"
+    ],
     "price": 12.78,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -4210,7 +6938,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so02887-royalblue_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so02887-royalblue_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 23,
     "colorCount": 4,
     "sizeCount": 4,
@@ -4243,11 +6971,51 @@
     "summary": "2XL",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "SO02888",
+    "supplierVariantIds": [
+      "SO02888BL-2XL",
+      "SO02888BL-L",
+      "SO02888BL-M",
+      "SO02888BL-S",
+      "SO02888BL-XL",
+      "SO02888FN-2XL",
+      "SO02888FN-L",
+      "SO02888FN-M",
+      "SO02888FN-S",
+      "SO02888FN-XL",
+      "SO02888PRE-2XL",
+      "SO02888PRE-L",
+      "SO02888PRE-M",
+      "SO02888PRE-S",
+      "SO02888PRE-XL",
+      "SO02888RO-2XL",
+      "SO02888RO-L",
+      "SO02888RO-M",
+      "SO02888RO-S",
+      "SO02888RO-XL"
+    ],
     "price": 12.78,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -4269,7 +7037,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so02888-royalblue_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so02888-royalblue_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 20,
     "colorCount": 4,
     "sizeCount": 4,
@@ -4302,8 +7070,13 @@
     "summary": "QUALITY - SOFTSHELL 270 gsm;94% polyester. 6% elastane;3 layers;100% polyester polar fleece lining;STYLE;Full zip opening;2 side and 1 chest zip pockets;Tone-on-tone elasticated bias binding at cuffs and hem;",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "SO03090",
+    "supplierVariantIds": [
+      "SO03090BL-4XL",
+      "SO03090BL-S"
+    ],
     "price": 7.16,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -4312,7 +7085,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so03090-black_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so03090-black_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 2,
     "colorCount": 1,
     "sizeCount": 1,
@@ -4334,8 +7107,13 @@
     "summary": "QUALITY - SOFTSHELL 270 gsm;94% polyester. 6% elastane;3 layers;100% polyester polar fleece lining;STYLE;Full-zip opening;2 side and 1 chest zip pockets;Tone-on-tone elasticated bias binding at cuffs and hem;",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "SO03107",
+    "supplierVariantIds": [
+      "SO03107BL-2XL",
+      "SO03107BL-M"
+    ],
     "price": 10.02,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -4344,7 +7122,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so03107-black_b2.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so03107-black_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 2,
     "colorCount": 1,
     "sizeCount": 1,
@@ -4366,8 +7144,13 @@
     "summary": "M",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "SO03826",
+    "supplierVariantIds": [
+      "SO03826BL-M",
+      "SO03826BL-XL"
+    ],
     "price": 12.9,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -4376,7 +7159,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so03826-black_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so03826-black_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 2,
     "colorCount": 1,
     "sizeCount": 2,
@@ -4397,8 +7180,13 @@
     "summary": "2XL",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "SO03828",
+    "supplierVariantIds": [
+      "SO03828BL-2XL",
+      "SO03828BL-3XL"
+    ],
     "price": 5.73,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -4407,7 +7195,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so03828-black_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so03828-black_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 2,
     "colorCount": 1,
     "sizeCount": 0,
@@ -4428,8 +7216,24 @@
     "summary": "2XL",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "SO04041",
+    "supplierVariantIds": [
+      "SO04041AR/DAR-2XL",
+      "SO04041AR/DAR-L",
+      "SO04041AR/DAR-M",
+      "SO04041AR/DAR-S",
+      "SO04041AR/DAR-XL",
+      "SO04041CNGR/BL-2XL",
+      "SO04041CNGR/BL-L",
+      "SO04041CNGR/BL-M",
+      "SO04041CNGR/BL-XL",
+      "SO04041SBE/BE-2XL",
+      "SO04041SBE/BE-L",
+      "SO04041SBE/BE-S",
+      "SO04041SBE/BE-XL"
+    ],
     "price": 21.57,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -4441,7 +7245,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so04041-shearbeigebeige_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so04041-shearbeigebeige_b1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 13,
     "colorCount": 3,
     "sizeCount": 4,
@@ -4470,11 +7274,83 @@
     "summary": "XS",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "SO32000",
+    "supplierVariantIds": [
+      "SO32000AB-2XL",
+      "SO32000AB-L",
+      "SO32000AB-M",
+      "SO32000AB-S",
+      "SO32000AB-XL",
+      "SO32000BL-2XL",
+      "SO32000BL-L",
+      "SO32000BL-M",
+      "SO32000BL-S",
+      "SO32000BL-XL",
+      "SO32000BL-XS",
+      "SO32000FO-2XL",
+      "SO32000FO-L",
+      "SO32000FO-M",
+      "SO32000FO-S",
+      "SO32000FO-XL",
+      "SO32000FO-XS",
+      "SO32000GO-2XL",
+      "SO32000GO-M",
+      "SO32000GO-S",
+      "SO32000GO-XL",
+      "SO32000GO-XS",
+      "SO32000NEL-2XL",
+      "SO32000NEL-L",
+      "SO32000NEL-M",
+      "SO32000NEL-S",
+      "SO32000NEL-XS",
+      "SO32000NV-2XL",
+      "SO32000NV-L",
+      "SO32000NV-M",
+      "SO32000NV-S",
+      "SO32000NV-XL",
+      "SO32000OR-2XL",
+      "SO32000OR-L",
+      "SO32000OR-M",
+      "SO32000OR-S",
+      "SO32000OR-XL",
+      "SO32000RE-2XL",
+      "SO32000RE-L",
+      "SO32000RE-M",
+      "SO32000RE-S",
+      "SO32000RE-XL",
+      "SO32000RO-2XL",
+      "SO32000RO-L",
+      "SO32000RO-M",
+      "SO32000RO-S",
+      "SO32000RO-XL",
+      "SO32000WH-2XL",
+      "SO32000WH-L",
+      "SO32000WH-M",
+      "SO32000WH-S",
+      "SO32000WH-XL"
+    ],
     "price": 5.59,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -4510,7 +7386,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so32000-white_b.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so32000-white_c.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 52,
     "colorCount": 10,
     "sizeCount": 5,
@@ -4567,11 +7443,54 @@
     "summary": "XS",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "SO44001",
+    "supplierVariantIds": [
+      "SO44001BL-2XL",
+      "SO44001BL-L",
+      "SO44001BL-M",
+      "SO44001BL-S",
+      "SO44001BL-XL",
+      "SO44001BL-XS",
+      "SO44001FO-XS",
+      "SO44001NV-XS",
+      "SO44001OR-L",
+      "SO44001OR-M",
+      "SO44001OR-S",
+      "SO44001OR-XL",
+      "SO44001OR-XS",
+      "SO44001RE-2XL",
+      "SO44001RE-L",
+      "SO44001RE-M",
+      "SO44001RE-S",
+      "SO44001RE-XL",
+      "SO44001RO-2XL",
+      "SO44001RO-L",
+      "SO44001RO-M",
+      "SO44001RO-XL",
+      "SO44001RO-XS"
+    ],
     "price": 2.73,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -4589,7 +7508,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so44001-royalblue_a.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so44001-royalblue_b.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 23,
     "colorCount": 6,
     "sizeCount": 5,
@@ -4630,11 +7549,76 @@
     "summary": "2XL",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "SO44002",
+    "supplierVariantIds": [
+      "SO44002BL-2XL",
+      "SO44002BL-3XL",
+      "SO44002BL-4XL",
+      "SO44002BL-5XL",
+      "SO44002BL-L",
+      "SO44002BL-S",
+      "SO44002BL-XL",
+      "SO44002CHG-2XL",
+      "SO44002CHG-3XL",
+      "SO44002CHG-L",
+      "SO44002CHG-M",
+      "SO44002CHG-S",
+      "SO44002CHG-XL",
+      "SO44002FO-2XL",
+      "SO44002FO-L",
+      "SO44002FO-M",
+      "SO44002FO-S",
+      "SO44002FO-XL",
+      "SO44002NV-2XL",
+      "SO44002NV-3XL",
+      "SO44002NV-4XL",
+      "SO44002NV-5XL",
+      "SO44002NV-L",
+      "SO44002NV-M",
+      "SO44002NV-S",
+      "SO44002NV-XL",
+      "SO44002OR-2XL",
+      "SO44002OR-L",
+      "SO44002OR-M",
+      "SO44002OR-S",
+      "SO44002OR-XL",
+      "SO44002RE-2XL",
+      "SO44002RE-3XL",
+      "SO44002RE-L",
+      "SO44002RE-M",
+      "SO44002RE-S",
+      "SO44002RE-XL",
+      "SO44002RO-2XL",
+      "SO44002RO-3XL",
+      "SO44002RO-4XL",
+      "SO44002RO-5XL",
+      "SO44002RO-L",
+      "SO44002RO-M",
+      "SO44002RO-S",
+      "SO44002RO-XL"
+    ],
     "price": 18.41,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -4656,7 +7640,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so44002-royalblue_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so44002-royalblue_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 45,
     "colorCount": 7,
     "sizeCount": 4,
@@ -4701,11 +7685,36 @@
     "summary": "S",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "SO46000",
+    "supplierVariantIds": [
+      "SO46000BL-S",
+      "SO46000NV-2XL",
+      "SO46000NV-M",
+      "SO46000NV-S",
+      "SO46000NV-XL"
+    ],
     "price": 23.08,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -4717,7 +7726,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so46000-navy_b.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so46000-navy_c.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 5,
     "colorCount": 2,
     "sizeCount": 3,
@@ -4742,11 +7751,57 @@
     "summary": "S",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "SO46600",
+    "supplierVariantIds": [
+      "SO46600ABY-2XL",
+      "SO46600ABY-L",
+      "SO46600ABY-M",
+      "SO46600ABY-S",
+      "SO46600ABY-XL",
+      "SO46600BG-S",
+      "SO46600BL-2XL",
+      "SO46600BL-L",
+      "SO46600BL-M",
+      "SO46600BL-S",
+      "SO46600BL-XL",
+      "SO46600CH-2XL",
+      "SO46600CH-L",
+      "SO46600CH-M",
+      "SO46600CH-S",
+      "SO46600CH-XL",
+      "SO46600DC-2XL",
+      "SO46600DC-4XL",
+      "SO46600DC-M",
+      "SO46600DC-S",
+      "SO46600GAB-M",
+      "SO46600GM-3XL",
+      "SO46600GM-4XL",
+      "SO46600GM-M",
+      "SO46600GM-S",
+      "SO46600PRE-4XL"
+    ],
     "price": 7.16,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -4784,7 +7839,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so46600-pepperred_c.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so46600-pepperred_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 26,
     "colorCount": 7,
     "sizeCount": 4,
@@ -4829,11 +7884,54 @@
     "summary": "3XL",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "SO46601",
+    "supplierVariantIds": [
+      "SO46601BL-2XL",
+      "SO46601BL-3XL",
+      "SO46601BL-L",
+      "SO46601BL-M",
+      "SO46601BL-S",
+      "SO46601BL-XL",
+      "SO46601FN-2XL",
+      "SO46601FN-3XL",
+      "SO46601FN-L",
+      "SO46601FN-M",
+      "SO46601FN-S",
+      "SO46601FN-XL",
+      "SO46601PRE-2XL",
+      "SO46601PRE-L",
+      "SO46601PRE-M",
+      "SO46601PRE-S",
+      "SO46601PRE-XL",
+      "SO46601RO-2XL",
+      "SO46601RO-3XL",
+      "SO46601RO-L",
+      "SO46601RO-M",
+      "SO46601RO-S",
+      "SO46601RO-XL"
+    ],
     "price": 17.19,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -4849,7 +7947,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so46601-royalblue_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so46601-royalblue_b.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 23,
     "colorCount": 4,
     "sizeCount": 4,
@@ -4882,11 +7980,61 @@
     "summary": "3XL",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "SO46602",
+    "supplierVariantIds": [
+      "SO46602BL-2XL",
+      "SO46602BL-L",
+      "SO46602BL-M",
+      "SO46602BL-S",
+      "SO46602BL-XL",
+      "SO46602FN-2XL",
+      "SO46602FN-L",
+      "SO46602FN-M",
+      "SO46602FN-S",
+      "SO46602FN-XL",
+      "SO46602GM-2XL",
+      "SO46602GM-L",
+      "SO46602GM-M",
+      "SO46602GM-S",
+      "SO46602GM-XL",
+      "SO46602PRE-2XL",
+      "SO46602PRE-3XL",
+      "SO46602PRE-L",
+      "SO46602PRE-M",
+      "SO46602PRE-S",
+      "SO46602PRE-XL",
+      "SO46602RO-2XL",
+      "SO46602RO-L",
+      "SO46602RO-M",
+      "SO46602RO-S",
+      "SO46602RO-XL",
+      "SO46602WH-2XL",
+      "SO46602WH-M",
+      "SO46602WH-S",
+      "SO46602WH-XL"
+    ],
     "price": 27.22,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -4910,7 +8058,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so46602-white_b.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so46602-white_c.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 30,
     "colorCount": 6,
     "sizeCount": 4,
@@ -4951,11 +8099,57 @@
     "summary": "2XL",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "SO46800",
+    "supplierVariantIds": [
+      "SO46800ABY-2XL",
+      "SO46800ABY-S",
+      "SO46800ABY-XL",
+      "SO46800AR-2XL",
+      "SO46800AR-XL",
+      "SO46800BG-2XL",
+      "SO46800BG-M",
+      "SO46800BG-S",
+      "SO46800BG-XL",
+      "SO46800BL-2XL",
+      "SO46800BL-L",
+      "SO46800BL-M",
+      "SO46800BL-S",
+      "SO46800BL-XL",
+      "SO46800CH-L",
+      "SO46800DC-2XL",
+      "SO46800DC-L",
+      "SO46800DC-XL",
+      "SO46800GAB-2XL",
+      "SO46800PRE-2XL",
+      "SO46800PRE-L",
+      "SO46800RO-2XL",
+      "SO46800RO-L",
+      "SO46800RO-M",
+      "SO46800RO-S",
+      "SO46800RO-XL"
+    ],
     "price": 8.59,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -5006,7 +8200,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so46800-royalblue_c.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so46800-royalblue_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 26,
     "colorCount": 8,
     "sizeCount": 4,
@@ -5055,11 +8249,49 @@
     "summary": "2XL",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "SO46801",
+    "supplierVariantIds": [
+      "SO46801BL-2XL",
+      "SO46801BL-L",
+      "SO46801BL-M",
+      "SO46801BL-S",
+      "SO46801BL-XL",
+      "SO46801FN-2XL",
+      "SO46801FN-L",
+      "SO46801FN-M",
+      "SO46801FN-S",
+      "SO46801FN-XL",
+      "SO46801PRE-2XL",
+      "SO46801PRE-M",
+      "SO46801PRE-S",
+      "SO46801PRE-XL",
+      "SO46801RO-L",
+      "SO46801RO-M",
+      "SO46801RO-S",
+      "SO46801RO-XL"
+    ],
     "price": 14.33,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -5075,7 +8307,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so46801-royalblue_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so46801-royalblue_b.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 18,
     "colorCount": 4,
     "sizeCount": 4,
@@ -5108,11 +8340,54 @@
     "summary": "S",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "SO46802",
+    "supplierVariantIds": [
+      "SO46802BL-2XL",
+      "SO46802BL-L",
+      "SO46802BL-M",
+      "SO46802BL-S",
+      "SO46802BL-XL",
+      "SO46802FN-2XL",
+      "SO46802FN-L",
+      "SO46802FN-M",
+      "SO46802FN-S",
+      "SO46802FN-XL",
+      "SO46802GM-2XL",
+      "SO46802GM-L",
+      "SO46802GM-M",
+      "SO46802GM-S",
+      "SO46802GM-XL",
+      "SO46802PRE-S",
+      "SO46802RO-M",
+      "SO46802RO-S",
+      "SO46802RO-XL",
+      "SO46802WH-2XL",
+      "SO46802WH-L",
+      "SO46802WH-M",
+      "SO46802WH-XL"
+    ],
     "price": 27.22,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -5136,7 +8411,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so46802-white_b.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so46802-white_c.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 23,
     "colorCount": 6,
     "sizeCount": 4,
@@ -5177,11 +8452,32 @@
     "summary": "S",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "SO59000",
+    "supplierVariantIds": [
+      "SO59000NV-S"
+    ],
     "price": 12.9,
     "priceFrom": false,
     "stockLevel": "low",
@@ -5189,7 +8485,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so59000-navy_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so59000-navy_b1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -5210,11 +8506,47 @@
     "summary": "This padded jacket for men offers great heat insulation despite its light weight. With handy 'stow-away' function, The jacket folds down into its own inside pocket, saving space on outdoor adventures.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "ST5420",
+    "supplierVariantIds": [
+      "ST5420-BLM-3XL",
+      "ST5420-BLM-4XL",
+      "ST5420-BLM-5XL",
+      "ST5420-BLM-L",
+      "ST5420-BLM-M",
+      "ST5420-BLM-S",
+      "ST5420-BLM-XL",
+      "ST5420-BLM-XXL",
+      "ST5420-BLO-3XL",
+      "ST5420-BLO-4XL",
+      "ST5420-BLO-5XL",
+      "ST5420-BLO-L",
+      "ST5420-BLO-M",
+      "ST5420-BLO-S",
+      "ST5420-BLO-XL",
+      "ST5420-BLO-XXL"
+    ],
     "price": 48.79,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -5222,7 +8554,7 @@
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st5420-bluemidnight.jpg",
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st5420-blackopal.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 16,
     "colorCount": 2,
     "sizeCount": 4,
@@ -5248,11 +8580,47 @@
     "summary": "This padded vest for men offers great heat insulation despite its light weight. With handy 'stow-away' function, The vest folds down into its own inside pocket, saving space on outdoor adventures.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "ST5430",
+    "supplierVariantIds": [
+      "ST5430-BLM-3XL",
+      "ST5430-BLM-4XL",
+      "ST5430-BLM-5XL",
+      "ST5430-BLM-L",
+      "ST5430-BLM-M",
+      "ST5430-BLM-S",
+      "ST5430-BLM-XL",
+      "ST5430-BLM-XXL",
+      "ST5430-BLO-3XL",
+      "ST5430-BLO-4XL",
+      "ST5430-BLO-5XL",
+      "ST5430-BLO-L",
+      "ST5430-BLO-M",
+      "ST5430-BLO-S",
+      "ST5430-BLO-XL",
+      "ST5430-BLO-XXL"
+    ],
     "price": 38.87,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -5260,7 +8628,7 @@
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st5430-bluemidnight.jpg",
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st5430-blackopal.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 16,
     "colorCount": 2,
     "sizeCount": 4,
@@ -5286,11 +8654,55 @@
     "summary": "This lightweight softshell jacket for men keeps warm and dry while offering great breathability thanks to its functional 3-layer fabric.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "ST5440",
+    "supplierVariantIds": [
+      "ST5440-BLM-3XL",
+      "ST5440-BLM-4XL",
+      "ST5440-BLM-5XL",
+      "ST5440-BLM-L",
+      "ST5440-BLM-M",
+      "ST5440-BLM-S",
+      "ST5440-BLM-XL",
+      "ST5440-BLM-XXL",
+      "ST5440-BLO-3XL",
+      "ST5440-BLO-4XL",
+      "ST5440-BLO-5XL",
+      "ST5440-BLO-L",
+      "ST5440-BLO-M",
+      "ST5440-BLO-S",
+      "ST5440-BLO-XL",
+      "ST5440-BLO-XXL",
+      "ST5440-SRE-3XL",
+      "ST5440-SRE-4XL",
+      "ST5440-SRE-5XL",
+      "ST5440-SRE-L",
+      "ST5440-SRE-M",
+      "ST5440-SRE-S",
+      "ST5440-SRE-XL",
+      "ST5440-SRE-XXL"
+    ],
     "price": 41.18,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -5299,7 +8711,7 @@
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st5440-blackopal.jpg",
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st5440-scarletred.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 24,
     "colorCount": 3,
     "sizeCount": 4,
@@ -5329,11 +8741,45 @@
     "summary": "This padded jacket for women offers great heat insulation despite its light weight. With handy 'stow-away' function, The jacket folds down into its own inside pocket, saving space on outdoor adventures.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "ST5520",
+    "supplierVariantIds": [
+      "ST5520-BLM-3XL",
+      "ST5520-BLM-L",
+      "ST5520-BLM-M",
+      "ST5520-BLM-S",
+      "ST5520-BLM-XL",
+      "ST5520-BLM-XS",
+      "ST5520-BLM-XXL",
+      "ST5520-BLO-3XL",
+      "ST5520-BLO-L",
+      "ST5520-BLO-M",
+      "ST5520-BLO-S",
+      "ST5520-BLO-XL",
+      "ST5520-BLO-XS",
+      "ST5520-BLO-XXL"
+    ],
     "price": 48.79,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -5341,7 +8787,7 @@
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st5520-bluemidnight.jpg",
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st5520-blackopal.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 14,
     "colorCount": 2,
     "sizeCount": 5,
@@ -5367,11 +8813,45 @@
     "summary": "This padded vest for women offers great heat insulation despite its light weight. With handy 'stow-away' function, The vest folds down into its own inside pocket, saving space on outdoor adventures.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "ST5530",
+    "supplierVariantIds": [
+      "ST5530-BLM-3XL",
+      "ST5530-BLM-L",
+      "ST5530-BLM-M",
+      "ST5530-BLM-S",
+      "ST5530-BLM-XL",
+      "ST5530-BLM-XS",
+      "ST5530-BLM-XXL",
+      "ST5530-BLO-3XL",
+      "ST5530-BLO-L",
+      "ST5530-BLO-M",
+      "ST5530-BLO-S",
+      "ST5530-BLO-XL",
+      "ST5530-BLO-XS",
+      "ST5530-BLO-XXL"
+    ],
     "price": 38.87,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -5379,7 +8859,7 @@
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st5530-bluemidnight.jpg",
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st5530-blackopal.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 14,
     "colorCount": 2,
     "sizeCount": 5,
@@ -5405,11 +8885,52 @@
     "summary": "This lightweight softshell jacket for women keeps warm and dry while offering great breathability thanks to its functional 3-layer fabric.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "ST5540",
+    "supplierVariantIds": [
+      "ST5540-BLM-3XL",
+      "ST5540-BLM-L",
+      "ST5540-BLM-M",
+      "ST5540-BLM-S",
+      "ST5540-BLM-XL",
+      "ST5540-BLM-XS",
+      "ST5540-BLM-XXL",
+      "ST5540-BLO-3XL",
+      "ST5540-BLO-L",
+      "ST5540-BLO-M",
+      "ST5540-BLO-S",
+      "ST5540-BLO-XL",
+      "ST5540-BLO-XS",
+      "ST5540-BLO-XXL",
+      "ST5540-SRE-3XL",
+      "ST5540-SRE-L",
+      "ST5540-SRE-M",
+      "ST5540-SRE-S",
+      "ST5540-SRE-XL",
+      "ST5540-SRE-XS",
+      "ST5540-SRE-XXL"
+    ],
     "price": 41.18,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -5418,7 +8939,7 @@
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st5540-blackopal.jpg",
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st5540-scarletred.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 21,
     "colorCount": 3,
     "sizeCount": 5,
@@ -5448,8 +8969,26 @@
     "summary": "2 layer men's softshell jacket. Outer layer 95% polyester 5% elastane woven softshell. Inner layer 100% polyester micro fleece.  Windproof, water-repellant and anti-pilling. Front and side pockets with reversed zips.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "SW800",
+    "supplierVariantIds": [
+      "SW800.BLK-2XL",
+      "SW800.BLK-L",
+      "SW800.BLK-M",
+      "SW800.BLK-S",
+      "SW800.BLK-XL",
+      "SW800.DNV-2XL",
+      "SW800.DNV-L",
+      "SW800.DNV-M",
+      "SW800.DNV-S",
+      "SW800.DNV-XL",
+      "SW800.GRE-2XL",
+      "SW800.GRE-L",
+      "SW800.GRE-M",
+      "SW800.GRE-S",
+      "SW800.GRE-XL"
+    ],
     "price": 13.85,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -5458,7 +8997,7 @@
       "https://macma.ro/products/jpg/TEXTIL/STARWORLD/sw800-deepnavy_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/STARWORLD/sw800-grey_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 15,
     "colorCount": 3,
     "sizeCount": 4,
@@ -5488,8 +9027,21 @@
     "summary": "93% Polyester 7% Elastane men's softshell jacket. 3 Layers Bonded Fabric, 4 Way Stretch Breathable, Windproof and Water Resistant at 500m Raglan Sleeves, Cadet Collar, 3 Outer Pockets Waterproof Front and Pocket Zips",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "SW900",
+    "supplierVariantIds": [
+      "SW900.BLK-2XL",
+      "SW900.BLK-L",
+      "SW900.BLK-M",
+      "SW900.BLK-S",
+      "SW900.BLK-XL",
+      "SW900.DNV-2XL",
+      "SW900.DNV-L",
+      "SW900.DNV-M",
+      "SW900.DNV-S",
+      "SW900.DNV-XL"
+    ],
     "price": 20.77,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -5497,7 +9049,7 @@
       "https://macma.ro/products/jpg/TEXTIL/STARWORLD/sw900-black_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/STARWORLD/sw900-deepnavy_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 10,
     "colorCount": 2,
     "sizeCount": 4,
@@ -5523,11 +9075,112 @@
     "summary": "Outer: 65% polyester/35% cotton, 100% polyester inner lining. Slim fit model with tear-away brand label. 190 g/m²",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "WK607",
+    "supplierVariantIds": [
+      "WK607BE-2XL",
+      "WK607BE-3XL",
+      "WK607BE-4XL",
+      "WK607BE-5XL",
+      "WK607BE-L",
+      "WK607BE-M",
+      "WK607BE-S",
+      "WK607BE-XL",
+      "WK607BE-XS",
+      "WK607BL-2XL",
+      "WK607BL-3XL",
+      "WK607BL-4XL",
+      "WK607BL-5XL",
+      "WK607BL-S",
+      "WK607BL-XL",
+      "WK607BL-XS",
+      "WK607CVG-2XL",
+      "WK607CVG-3XL",
+      "WK607CVG-4XL",
+      "WK607CVG-5XL",
+      "WK607CVG-L",
+      "WK607CVG-M",
+      "WK607CVG-S",
+      "WK607CVG-XL",
+      "WK607CVG-XS",
+      "WK607DG-2XL",
+      "WK607DG-3XL",
+      "WK607DG-4XL",
+      "WK607DG-5XL",
+      "WK607DG-L",
+      "WK607DG-M",
+      "WK607DG-S",
+      "WK607DG-XL",
+      "WK607DG-XS",
+      "WK607DKH-2XL",
+      "WK607DKH-3XL",
+      "WK607DKH-4XL",
+      "WK607DKH-5XL",
+      "WK607DKH-L",
+      "WK607DKH-M",
+      "WK607DKH-S",
+      "WK607DKH-XL",
+      "WK607DKH-XS",
+      "WK607FO-3XL",
+      "WK607FO-4XL",
+      "WK607FO-5XL",
+      "WK607FO-L",
+      "WK607FO-M",
+      "WK607FO-S",
+      "WK607FO-XS",
+      "WK607NV-2XL",
+      "WK607NV-3XL",
+      "WK607NV-5XL",
+      "WK607NV-L",
+      "WK607NV-M",
+      "WK607NV-S",
+      "WK607NV-XS",
+      "WK607RE-2XL",
+      "WK607RE-3XL",
+      "WK607RE-4XL",
+      "WK607RE-5XL",
+      "WK607RE-L",
+      "WK607RE-M",
+      "WK607RE-S",
+      "WK607RE-XL",
+      "WK607RE-XS",
+      "WK607RO-2XL",
+      "WK607RO-3XL",
+      "WK607RO-4XL",
+      "WK607RO-5XL",
+      "WK607RO-L",
+      "WK607RO-M",
+      "WK607RO-S",
+      "WK607RO-XL",
+      "WK607RO-XS",
+      "WK607WH-3XL",
+      "WK607WH-4XL",
+      "WK607WH-5XL",
+      "WK607WH-L",
+      "WK607WH-XL",
+      "WK607WH-XS"
+    ],
     "price": 17.16,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -5557,7 +9210,7 @@
       "https://macma.ro/products/jpg/TEXTIL/DESTOWORK/wk607-white_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/DESTOWORK/wk607-white_c1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 81,
     "colorCount": 10,
     "sizeCount": 5,

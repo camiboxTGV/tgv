@@ -6,10 +6,21 @@
     "summary": "Multifunction bandana Schwarzwolf, 100% polyester microfibre\nRecommended branding: silkscreen S2\nDimensions: 48 x 24.8 cm\nPackaging: Polybag with Schwarzwolf insert card",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "4000200SA3",
+    "supplierVariantIds": [
+      "T4000200SA3"
+    ],
     "price": 1.26,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -19,7 +30,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/t4000200sa3_3.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/t4000200sa3_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -41,11 +52,50 @@
     "summary": "6-panel sandwich baseball cap made of heavy-brushed cotton, available in various colours, with a matt silver metal snap closure. 260 g/m²",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "H0",
+        "label": "Macma method H0",
+        "labelRo": "Metodă Macma H0",
+        "printSizes": [
+          "4,5 × 3"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "4,5 × 3"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "4,5 × 3"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "50466",
+    "supplierVariantIds": [
+      "5046603",
+      "5046604",
+      "5046605",
+      "5046606",
+      "5046607",
+      "5046608",
+      "5046609",
+      "5046610",
+      "5046614",
+      "5046629",
+      "5046644"
+    ],
     "price": 1.65,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -99,7 +149,7 @@
       "https://macma.ro/products/jpg/M/5046644_2.jpg",
       "https://macma.ro/products/jpg/M/5046644_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 11,
     "colorCount": 11,
     "sizeCount": 1,
@@ -161,11 +211,31 @@
     "summary": "Modern cap with polyester mesh and quick fastener.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "51475",
+    "supplierVariantIds": [
+      "5147503",
+      "5147505",
+      "5147506",
+      "5147544"
+    ],
     "price": 2.36,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -187,7 +257,7 @@
       "https://macma.ro/products/jpg/M/5147544_2.jpg",
       "https://macma.ro/products/jpg/M/5147544_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 1,
@@ -221,11 +291,43 @@
     "summary": "Classic 5-panel baseball cap made of cotton. Available in bright colours and with a velcro closure. 170 g/m²",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "H0",
+        "label": "Macma method H0",
+        "labelRo": "Metodă Macma H0",
+        "printSizes": []
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "52466",
+    "supplierVariantIds": [
+      "5246603",
+      "5246604",
+      "5246605",
+      "5246606",
+      "5246608",
+      "5246609",
+      "5246610",
+      "5246629",
+      "5246644",
+      "5246677"
+    ],
     "price": 1.11,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -273,7 +375,7 @@
       "https://macma.ro/products/jpg/M/5246677_2.jpg",
       "https://macma.ro/products/jpg/M/5246677_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 10,
     "colorCount": 10,
     "sizeCount": 1,
@@ -331,11 +433,28 @@
     "summary": "Organic cotton baseball cap with continuously adjustable velcro closure. 180 g/m²",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "53635",
+    "supplierVariantIds": [
+      "5363513"
+    ],
     "price": 1.79,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -346,7 +465,7 @@
       "https://macma.ro/products/jpg/M/5363513_3.jpg",
       "https://macma.ro/products/jpg/M/5363513_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -368,11 +487,32 @@
     "summary": "6 panel sandwich CrisMa baseball cap made from recycled 190g/m² cotton and suitable for almost all sizes thanks to the elasticated fastening.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "53797",
+    "supplierVariantIds": [
+      "5379703",
+      "5379704",
+      "5379705",
+      "5379707",
+      "5379744"
+    ],
     "price": 3.21,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -419,7 +559,7 @@
       "https://macma.ro/products/jpg/M/5379744_5.jpg",
       "https://macma.ro/products/jpg/M/5379744_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -457,11 +597,31 @@
     "summary": "High-quality cotton baseball cap (290 g/m²) with curved peak, 5 panels and metal fastening.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "53918",
+    "supplierVariantIds": [
+      "5391803",
+      "5391805",
+      "5391819",
+      "5391844"
+    ],
     "price": 5.65,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -499,7 +659,7 @@
       "https://macma.ro/products/jpg/M/5391844_6.jpg",
       "https://macma.ro/products/jpg/M/5391844_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -533,11 +693,30 @@
     "summary": "High-quality cap made of cotton (290 g/m²) and mesh insert with curved peak and size-adjustable press stud.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "53919",
+    "supplierVariantIds": [
+      "5391905",
+      "5391907",
+      "5391924"
+    ],
     "price": 5.06,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -564,7 +743,7 @@
       "https://macma.ro/products/jpg/M/5391924_5.jpg",
       "https://macma.ro/products/jpg/M/5391924_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -594,11 +773,28 @@
     "summary": "Knitted hat made from RPET and acrylic with a black patch. Suitable for almost all sizes thanks to the elasticated shape.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "54322",
+    "supplierVariantIds": [
+      "5432277"
+    ],
     "price": 2.94,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -608,7 +804,7 @@
       "https://macma.ro/products/jpg/M/5432277_1.jpg",
       "https://macma.ro/products/jpg/M/5432277_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -630,8 +826,12 @@
     "summary": "Knitted multifunctional Schwarzwolf neckcloth 2in1\nin black, quilted by reflective yarn. The neckcloth\nis suitable for winter weather, contains rubber for\nconstriction on neck, or you can use it as a hat.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "AJT400023",
+    "supplierVariantIds": [
+      "T4000200AJ3"
+    ],
     "price": 11.13,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -645,7 +845,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/t4000200aj3_7.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/t4000200aj3_8.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -667,8 +867,17 @@
     "summary": "100% Polylana® is a yarn made from a mixture of virgin and recycled polyester. Double layer knit. Cuffed design for optimal decoration. TearAway label for ease of rebranding.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "B385R",
+    "supplierVariantIds": [
+      "B385RBIS",
+      "B385RBLK",
+      "B385RGRA",
+      "B385RPCH",
+      "B385RVAN",
+      "B385RVIO"
+    ],
     "price": 3.55,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -680,7 +889,7 @@
       "https://macma.ro/products/jpg/TEXTIL/BEECHFIELD/b385r-vanilla_0.jpg",
       "https://macma.ro/products/jpg/TEXTIL/BEECHFIELD/b385r-violet_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 1,
@@ -721,8 +930,44 @@
     "summary": "100% Soft-Touch Acrylic. Luxurious double layer knit. Cuffed design for optimal decoration. Also available in junior size.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "B45",
+    "supplierVariantIds": [
+      "B045ALD",
+      "B045BLK",
+      "B045BLS",
+      "B045BOT",
+      "B045BRO",
+      "B045BUR",
+      "B045CAR",
+      "B045CPI",
+      "B045CSR",
+      "B045FLG",
+      "B045FLY",
+      "B045FNA",
+      "B045FUS",
+      "B045GPH",
+      "B045GRA",
+      "B045HEA",
+      "B045HNA",
+      "B045KEL",
+      "B045LAV",
+      "B045MIN",
+      "B045MUS",
+      "B045OLI",
+      "B045ORA",
+      "B045OXN",
+      "B045PET",
+      "B045PUR",
+      "B045QGR",
+      "B045SAN",
+      "B045SAP",
+      "B045SUB",
+      "B045TPI",
+      "B045WHI",
+      "B045YEL"
+    ],
     "price": 2.36,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -793,7 +1038,7 @@
       "https://macma.ro/products/jpg/TEXTIL/BEECHFIELD/b45-yellow_0.jpg",
       "https://macma.ro/products/jpg/TEXTIL/BEECHFIELD/b45-yellow_flatshot_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 33,
     "colorCount": 33,
     "sizeCount": 1,
@@ -942,8 +1187,15 @@
     "summary": "5 panel baseball cap with curved visor, adjustable velcro closure, 4 embroidered vents, full reinforcement on the front. Made of 100% cotton. Grammage 200 gr/m2 twill fabric.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "GOVAFOR",
+    "supplierVariantIds": [
+      "GOVAFORGM01",
+      "GOVAFORGR01",
+      "GOVAFORMR01",
+      "GOVAFORRA01"
+    ],
     "price": 1.88,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -953,7 +1205,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/fort-orionnavyblue-lottored_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/fort-royalblue-lemonyellow_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 1,
@@ -987,11 +1239,63 @@
     "summary": "100% cotton. 175 grs/m2 twill fabric. 5 panels. Front without seam for printing. Curved visor. Backvelcro closure. 2 embroidered vents. Removable front reinforcement. 300 units per box. 50 units perpackage: 1 size, 1 ...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "GOVAPRO",
+    "supplierVariantIds": [
+      "GOVAPROAM01",
+      "GOVAPROAM02",
+      "GOVAPROBA01",
+      "GOVAPROBG01",
+      "GOVAPROBG02",
+      "GOVAPROBL01",
+      "GOVAPROBL02",
+      "GOVAPROBM01",
+      "GOVAPROBM02",
+      "GOVAPROBR01",
+      "GOVAPROBV01",
+      "GOVAPROCL01",
+      "GOVAPROCL02",
+      "GOVAPROGR01",
+      "GOVAPROGT01",
+      "GOVAPROMR01",
+      "GOVAPROMR02",
+      "GOVAPRONA01",
+      "GOVAPRONG01",
+      "GOVAPRONG02",
+      "GOVAPRONJ01",
+      "GOVAPRONJ02",
+      "GOVAPRORJ01",
+      "GOVAPRORJ02",
+      "GOVAPRORY01",
+      "GOVAPRORY02",
+      "GOVAPROVB01",
+      "GOVAPROVB02",
+      "GOVAPROVD01",
+      "GOVAPROVD02",
+      "GOVAPROVM01",
+      "GOVAPROVM02"
+    ],
     "price": 1.08,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1016,7 +1320,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/govapro-kellygreen_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/govapro-applegreen_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 32,
     "colorCount": 19,
     "sizeCount": 2,
@@ -1110,8 +1414,19 @@
     "summary": "6 panel baseball cap with curved visor, adjustable velcro closure, 6 embroidered vents, full reinforcement on the front. Made of 100% combed cotton. Grammage 270 gr/m2 twill fabric.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "GOVATOR",
+    "supplierVariantIds": [
+      "GOVATORBL01",
+      "GOVATORGT01",
+      "GOVATORNG01",
+      "GOVATORNJ01",
+      "GOVATORRJ01",
+      "GOVATORVB01",
+      "GOVATORVK01",
+      "GOVATORVM01"
+    ],
     "price": 1.94,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1125,7 +1440,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/toronto-kellygreen_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/toronto-applegreen_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 8,
     "colorCount": 8,
     "sizeCount": 1,
@@ -1175,8 +1490,13 @@
     "summary": "6 panel baseball cap with curved visor, adjustable velcro closure, 6 embroidered vents, full reinforcement on the front. Made of 100% combed cotton. Grammage 270 gr/m2 twill fabric.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "GOVATUX",
+    "supplierVariantIds": [
+      "GOVATUXAB01",
+      "GOVATUXMA01"
+    ],
     "price": 2.34,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1184,7 +1504,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/tuxton-lemonyellow-bottlegreen_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/tuxton-orionnavyblue-lemonyellow_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 1,
@@ -1210,8 +1530,29 @@
     "summary": "Anti-pilling polar winter hat with drawstring that can be used as a scarf. Made of 100% polyester. Grammage 220 gr/m2.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "PRVAPOL",
+    "supplierVariantIds": [
+      "PRVAPOLAF00",
+      "PRVAPOLBG00",
+      "PRVAPOLBL00",
+      "PRVAPOLCH00",
+      "PRVAPOLCY00",
+      "PRVAPOLGC00",
+      "PRVAPOLGR00",
+      "PRVAPOLKK00",
+      "PRVAPOLMD00",
+      "PRVAPOLMG00",
+      "PRVAPOLMR00",
+      "PRVAPOLNG00",
+      "PRVAPOLNJ00",
+      "PRVAPOLRJ00",
+      "PRVAPOLRY00",
+      "PRVAPOLVB00",
+      "PRVAPOLVK00",
+      "PRVAPOLVM00"
+    ],
     "price": 0.98,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1235,7 +1576,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/prvapol-kellygreen_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/prvapol-applegreen_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 18,
     "colorCount": 18,
     "sizeCount": 2,
@@ -1325,11 +1666,32 @@
     "summary": "Warm and multifunctional Schwarzwolf neckcloth in black-grey color. The neckcloth is suitable for winter weather, contains a rubber for constriction on neck, or you can use it as a hat. Packed in polybag with Schwarzw...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "10 × 6"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "10 × 6"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "T4000100AJ",
+    "supplierVariantIds": [
+      "T4000100AJ3"
+    ],
     "price": 5.9,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -1340,7 +1702,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/t4000100aj3_4.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/t4000100aj3_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

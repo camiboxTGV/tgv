@@ -35,9 +35,10 @@ This repo ships to **Firebase App Hosting**. Pushing to `main` triggers an autom
 
 ## Image handling in production
 
-- Images are **hotlinked** from `macma.ro` via `next/image` (whitelisted in `next.config.ts`).
-- Firebase's image optimizer caches transformed versions on first request.
-- If Macma rate-limits or renames URLs, images break. Upgrade path: run `npm run sync:catalog` (without `--skip-images`) to download them locally, but that path needs `sharp` installed and a place to host ~2 GB of WebP.
+- Product images use the same-origin `/api/catalog-image/...` route. The route fetches an allowlisted supplier image server-side, converts it to WebP, and returns a versioned one-year immutable cache response for Firebase's CDN.
+- Catalog pages, search results, product galleries, metadata, and recommendations all receive the proxy URL from the shared catalog loader. Supplier URLs are never sent to the browser.
+- The first uncached request for an image still requires the supplier to be available; subsequent requests are served from Firebase's CDN. If the bytes at an existing supplier URL change, increment `CATALOG_IMAGE_CACHE_VERSION` in `lib/content/catalog-images.ts` to produce a fresh cache key.
+- Category artwork is committed under `public/images/categories/` with lowercase URL-safe names, so it does not depend on supplier hosting or special-character path handling.
 
 ## Rollback
 
@@ -50,7 +51,7 @@ This repo ships to **Firebase App Hosting**. Pushing to `main` triggers an autom
 - **A product category JSON file referencing a supplier slug that doesn't exist** (removed mid-sync) → 404s on detail pages but build stays green. The 50% deletion guard in the orchestrator prevents this catastrophically.
 - **A new category added to `lib/content/categories.ts` without corresponding generated products** → the category renders "No products in this category yet", which is fine.
 - **TypeScript errors** → build fails. Always `npm run build` locally before pushing.
-- **`next/image` trying to optimize a URL from an un-whitelisted domain** → 400 errors on the image. If we add a second supplier with its own CDN, add it to `next.config.ts` `remotePatterns`.
+- **A supplier image domain missing from the strict supplier allowlist** → the proxy returns 403. Add the supplier through `suppliers/_shared/suppliers.ts`; its generated allowlist is shared by catalog sync and image delivery.
 
 ## Secrets summary
 

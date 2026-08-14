@@ -5,9 +5,22 @@
     "category": "office-and-writing/office-accessories/paper-cutters",
     "summary": "Cutter with firm Grip, adjustable wheel and removable balde.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
-    "personalizations": [],
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "82095",
+    "supplierVariantIds": [
+      "8209508"
+    ],
     "price": 0.84,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -18,7 +31,7 @@
       "https://macma.ro/products/jpg/M/8209508_3.jpg",
       "https://macma.ro/products/jpg/M/8209508_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -40,10 +53,21 @@
     "summary": "All-round work knife including 8 blades and automatic blade change (40 x new blades).",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "83176",
+    "supplierVariantIds": [
+      "8317603"
+    ],
     "price": 2.87,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -54,7 +78,7 @@
       "https://macma.ro/products/jpg/M/8317603_4.jpg",
       "https://macma.ro/products/jpg/M/8317603_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -77,10 +101,27 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "84748",
+    "supplierVariantIds": [
+      "8474813"
+    ],
     "price": 0.57,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -92,7 +133,7 @@
       "https://macma.ro/products/jpg/M/8474813_3.jpg",
       "https://macma.ro/products/jpg/M/8474813_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -113,9 +154,26 @@
     "category": "office-and-writing/office-accessories/paper-cutters",
     "summary": "Large cutter with snap-off blade in various solid colours.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
-    "personalizations": [],
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "89001",
+    "supplierVariantIds": [
+      "8900104",
+      "8900105",
+      "8900106",
+      "8900109",
+      "8900108"
+    ],
     "price": 0.33,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -141,7 +199,7 @@
       "https://macma.ro/products/jpg/M/8900108_2.jpg",
       "https://macma.ro/products/jpg/M/8900108_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -178,9 +236,24 @@
     "category": "office-and-writing/office-accessories/paper-cutters",
     "summary": "Large cutter with snap-off blade with transparent body and coloured end caps.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
-    "personalizations": [],
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "89002",
+    "supplierVariantIds": [
+      "8900204",
+      "8900205",
+      "8900203"
+    ],
     "price": 0.27,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -190,7 +263,7 @@
       "https://macma.ro/products/jpg/M/8900205_1.jpg",
       "https://macma.ro/products/jpg/M/8900203_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -219,9 +292,26 @@
     "category": "office-and-writing/office-accessories/paper-cutters",
     "summary": "Small cutter with snap-off blade available in various colours.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
-    "personalizations": [],
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "89003",
+    "supplierVariantIds": [
+      "8900306",
+      "8900304",
+      "8900305",
+      "8900308",
+      "8900310"
+    ],
     "price": 0.22,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -247,7 +337,7 @@
       "https://macma.ro/products/jpg/M/8900310_2.jpg",
       "https://macma.ro/products/jpg/M/8900310_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -285,10 +375,21 @@
     "summary": "Professional cutter with 4 complete blades included, each with 10 parts.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "89005",
+    "supplierVariantIds": [
+      "8900503"
+    ],
     "price": 4.21,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -306,7 +407,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/8900503_lifestyle_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8900503_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -328,10 +429,21 @@
     "summary": "High-quality cutter with two additional spare blades for replacement.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "93904",
+    "supplierVariantIds": [
+      "9390477"
+    ],
     "price": 1.11,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -341,7 +453,7 @@
       "https://macma.ro/products/jpg/M/9390477_2.jpg",
       "https://macma.ro/products/jpg/M/9390477_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

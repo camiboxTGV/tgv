@@ -5,9 +5,26 @@
     "category": "office-and-writing/writing-instruments/highlighters",
     "summary": "Plastic ballpoint pen with highlighter, rubberized sheath, blue-writing refill, and touch function.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
-    "personalizations": [],
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "10965",
+    "supplierVariantIds": [
+      "1096529",
+      "1096508",
+      "1096511",
+      "1096510",
+      "1096524"
+    ],
     "price": 0.53,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -38,7 +55,7 @@
       "https://macma.ro/products/jpg/M/1096524_3.jpg",
       "https://macma.ro/products/jpg/M/1096524_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -75,9 +92,22 @@
     "category": "office-and-writing/writing-instruments/highlighters",
     "summary": "Highlighter with 2 different neon colours. Whichever colour you need is now quickly available.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
-    "personalizations": [],
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "13535",
+    "supplierVariantIds": [
+      "1353503"
+    ],
     "price": 0.44,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -88,7 +118,7 @@
       "https://macma.ro/products/jpg/M/1353503_3.jpg",
       "https://macma.ro/products/jpg/M/1353503_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -110,10 +140,28 @@
     "summary": "Triangular highlighter made of recyceled plastic in the colours yellow, green and pink.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "13883",
+    "supplierVariantIds": [
+      "1388306"
+    ],
     "price": 0.48,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -123,7 +171,7 @@
       "https://macma.ro/products/jpg/M/1388306_2.jpg",
       "https://macma.ro/products/jpg/M/1388306_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -145,10 +193,28 @@
     "summary": "Highlighter made from recycled plastic with yellow marking colour in a transparent casing.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "13952",
+    "supplierVariantIds": [
+      "1395208"
+    ],
     "price": 0.42,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -158,7 +224,7 @@
       "https://macma.ro/products/jpg/M/1395208_2.jpg",
       "https://macma.ro/products/jpg/M/1395208_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -180,10 +246,23 @@
     "summary": "Highlighter set with 6 different colors made of plastic. Three colors on each side.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "4 x 0,8"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "15593",
+    "supplierVariantIds": [
+      "15593MC"
+    ],
     "price": 1.22,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -195,7 +274,7 @@
       "https://macma.ro/products/jpg/M/15593mc_4_lifestyle.jpg",
       "https://macma.ro/products/jpg/M/15593mc_5_lifestyle.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -218,10 +297,29 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
       "uv-print",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "15616",
+    "supplierVariantIds": [
+      "1561608",
+      "1561609",
+      "1561610"
+    ],
     "price": 1.34,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -246,7 +344,7 @@
       "https://macma.ro/products/jpg/M/1561610_7_lifestyle.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/1561610_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -276,11 +374,28 @@
     "summary": "Highlighter flower with 5 coloured highlighters. Ideal for your desk.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "23486",
+    "supplierVariantIds": [
+      "2348606"
+    ],
     "price": 1.49,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -291,7 +406,7 @@
       "https://macma.ro/products/jpg/M/2348606_5.jpg",
       "https://macma.ro/products/jpg/M/2348606_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -313,10 +428,27 @@
     "summary": "Highlighter set consisting of 4 different colours (yellow, blue, green and orange), packed in a cardboard box. Ideal for the desk or book bag.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "24721",
+    "supplierVariantIds": [
+      "24721MC"
+    ],
     "price": 0.94,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -331,7 +463,7 @@
       "https://macma.ro/products/jpg/M/24721mc_8.jpg",
       "https://macma.ro/products/jpg/M/24721mc_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

@@ -7,10 +7,27 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG1",
+        "label": "CO₂ engraving 1",
+        "labelRo": "Gravură CO₂ 1",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "24226",
+    "supplierVariantIds": [
+      "2422613"
+    ],
     "price": 0.51,
     "priceFrom": false,
     "stockLevel": "low",
@@ -20,7 +37,7 @@
       "https://macma.ro/products/jpg/M/2422613_1.jpg",
       "https://macma.ro/products/jpg/M/2422613_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -42,10 +59,27 @@
     "summary": "Practical fridge magnet with integrated writing pad with 40 lined pages for shopping lists, appointments etc.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "24916",
+    "supplierVariantIds": [
+      "2491606"
+    ],
     "price": 0.32,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -55,7 +89,7 @@
       "https://macma.ro/products/jpg/M/2491606_3.jpg",
       "https://macma.ro/products/jpg/M/2491606_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -77,10 +111,21 @@
     "summary": "Table fan with rechargeable battery (500 mAh capacity) and type C charging cable.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "35183",
+    "supplierVariantIds": [
+      "3518303"
+    ],
     "price": 3.13,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -91,7 +136,7 @@
       "https://macma.ro/products/jpg/M/3518303_4.jpg",
       "https://macma.ro/products/jpg/M/3518303_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -114,10 +159,31 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": [
+          "6 x 2"
+        ]
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "6 x 2"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "35367",
+    "supplierVariantIds": [
+      "3536713"
+    ],
     "price": 12.84,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -127,7 +193,7 @@
       "https://macma.ro/products/jpg/M/3536713_2.jpg",
       "https://macma.ro/products/jpg/M/3536713_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -149,10 +215,23 @@
     "summary": "Electric air pump with rechargeable 2000 mAh battery and three valve attachments for inflating balls, air mattresses, etc. Includes USB-C cable.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": [
+          "3 x 2"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "35462",
+    "supplierVariantIds": [
+      "3546203"
+    ],
     "price": 19.57,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -167,7 +246,7 @@
       "https://macma.ro/products/jpg/M/3546203_8.jpg",
       "https://macma.ro/products/jpg/M/3546203_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -189,17 +268,28 @@
     "summary": "In cold winter nights you can appreciate this soft, comfortable blanket with stripes. Made of pleasant coral fleece material, wrapped in ribbon.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "5600400AJ3",
+    "supplierVariantIds": [
+      "F5600400AJ3"
+    ],
     "price": 11.51,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/VANILLA/f5600400aj3_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -221,17 +311,28 @@
     "summary": "In cold winter nights you can appreciate this soft, comfortable blanket with stripes. Made of pleasant coral fleece material, wrapped in ribbon.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "5600401AJ3",
+    "supplierVariantIds": [
+      "F5600401AJ3"
+    ],
     "price": 11.51,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/VANILLA/f5600401aj3_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -253,10 +354,21 @@
     "summary": "Schwarzwolf foldable picnic blanket which you can use on your trip to nature for a rest or for a lunch. The blanket has practical straps for easy packing and carrying.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "5600500AJ3",
+    "supplierVariantIds": [
+      "F5600500AJ3"
+    ],
     "price": 18.83,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -266,7 +378,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5600500aj3_3.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5600500aj3_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -288,11 +400,29 @@
     "summary": "Fleece blanket made from RPET with a pull-seam, in a lockable RPET carrier bag. Size of the blanket 120 x 150 cm.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "62570",
+    "supplierVariantIds": [
+      "6257077",
+      "6257013"
+    ],
     "price": 5.51,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -311,7 +441,7 @@
       "https://macma.ro/products/jpg/M/6257013_4.jpg",
       "https://macma.ro/products/jpg/M/6257013_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -337,10 +467,31 @@
     "summary": "Large cosy blanket (120 x 180 cm) made of fluffy flannel fleece (280 g/m²). Perfect for cold days.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "10 × 10"
+        ]
+      },
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": [
+          "10 × 10"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "64361",
+    "supplierVariantIds": [
+      "6436107"
+    ],
     "price": 11.03,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -351,7 +502,7 @@
       "https://macma.ro/products/jpg/M/6436107_4.jpg",
       "https://macma.ro/products/jpg/M/6436107_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -373,11 +524,43 @@
     "summary": "Large comfortable and cosy fleece blanket with handy carrying strap and fancy stitching. 170 g/m²",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "H0",
+        "label": "Macma method H0",
+        "labelRo": "Metodă Macma H0",
+        "printSizes": []
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "66902",
+    "supplierVariantIds": [
+      "6690204",
+      "6690244",
+      "6690205",
+      "6690206",
+      "6690209",
+      "6690203",
+      "6690207",
+      "6690210",
+      "6690229",
+      "6690208"
+    ],
     "price": 3.9,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -414,7 +597,7 @@
       "https://macma.ro/products/jpg/M/6690208_1.jpg",
       "https://macma.ro/products/jpg/M/6690208_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 10,
     "colorCount": 10,
     "sizeCount": 0,
@@ -472,8 +655,19 @@
     "summary": "Handkerchief package with 10 pieces each in 3-fold cuddlingly soft quality, soft to your nose and must not be missing in your handbag.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "68669",
+    "supplierVariantIds": [
+      "6866906"
+    ],
     "price": 0.18,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -482,7 +676,7 @@
       "https://macma.ro/products/jpg/M/6866906_2.jpg",
       "https://macma.ro/products/jpg/M/6866906_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -504,10 +698,27 @@
     "summary": "Aroma humidifier with colour-changing LED light. The humidifier has a capacity of approx. 130ml. The humidifier is operated with the included USB cable.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "72638",
+    "supplierVariantIds": [
+      "7263801"
+    ],
     "price": 3.07,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -522,7 +733,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/7263801_lifestyle_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/7263801_lifestyle_m_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -544,10 +755,21 @@
     "summary": "Travel sewing kit in an cardboard packaging with all the necessary utensils for a quick repair.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "73162",
+    "supplierVariantIds": [
+      "7316213"
+    ],
     "price": 0.14,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -559,7 +781,7 @@
       "https://macma.ro/products/jpg/M/7316213_4.jpg",
       "https://macma.ro/products/jpg/M/7316213_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -583,8 +805,19 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "73165",
+    "supplierVariantIds": [
+      "7316566"
+    ],
     "price": 3.17,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -598,7 +831,7 @@
       "https://macma.ro/products/jpg/M/7316566_7.jpg",
       "https://macma.ro/products/jpg/M/7316566_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -620,10 +853,23 @@
     "summary": "Hourglass made of synthetic material with suction cup and a running time of three minutes. Attachable e.g. to the bathroom mirrror to stay in time while toothbrushing.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "73575",
+    "supplierVariantIds": [
+      "7357504",
+      "7357505",
+      "7357511"
+    ],
     "price": 0.55,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -650,7 +896,7 @@
       "https://macma.ro/products/jpg/M/7357511_5.jpg",
       "https://macma.ro/products/jpg/M/7357511_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -681,10 +927,27 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "73770",
+    "supplierVariantIds": [
+      "7377013"
+    ],
     "price": 1.5,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -696,7 +959,7 @@
       "https://macma.ro/products/jpg/M/7377013_4.jpg",
       "https://macma.ro/products/jpg/M/7377013_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -717,9 +980,22 @@
     "category": "home-and-living/home-decor/candles-and-fragrances",
     "summary": "Plastic pill box with 7 compartments for the weekly storage of the required medication. The days of the week are also printed in Braille.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
-    "personalizations": [],
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "73896",
+    "supplierVariantIds": [
+      "7389666"
+    ],
     "price": 0.54,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -734,7 +1010,7 @@
       "https://macma.ro/products/jpg/M/7389666_6.jpg",
       "https://macma.ro/products/jpg/M/7389666_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -756,11 +1032,28 @@
     "summary": "Humidifier with colour-changing LED light and a capacity of 255ml. Includes USB charging cable.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
+      "pad-screen",
       "co2"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "73905",
+    "supplierVariantIds": [
+      "7390513"
+    ],
     "price": 3.28,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -780,7 +1073,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/7390513_lifestyle_3.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/7390513_lifestyle_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -802,10 +1095,21 @@
     "summary": "Humidifier with a dark wood look and a capacity of 130ml. Includes USB charging cable.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "73906",
+    "supplierVariantIds": [
+      "7390601"
+    ],
     "price": 4.5,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -817,7 +1121,7 @@
       "https://macma.ro/products/jpg/M/7390601_4.jpg",
       "https://macma.ro/products/jpg/M/7390601_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -840,10 +1144,31 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G1",
+        "label": "Engraving 1",
+        "labelRo": "Gravură 1",
+        "printSizes": [
+          "4 x 4"
+        ]
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "4 x 4"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "75278",
+    "supplierVariantIds": [
+      "7527895"
+    ],
     "price": 1.59,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -857,7 +1182,7 @@
       "https://macma.ro/products/jpg/M/7527895_6.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/7527895_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -879,8 +1204,21 @@
     "summary": "Heart made of realistically crafted artificial rose heads. Presented in a transparent, high-quality gift box with an elegant ribbon, ideal as a decorative gift or a thoughtful gesture.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": [
+          "4 x 6"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "75378",
+    "supplierVariantIds": [
+      "7537805"
+    ],
     "price": 4.94,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -890,7 +1228,7 @@
       "https://macma.ro/products/jpg/M/7537805_2.jpg",
       "https://macma.ro/products/jpg/M/7537805_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -912,10 +1250,31 @@
     "summary": "Real preserved rose in an elegant acrylic box with a ribbon and a refined crystal-look finish. The rose retains its natural beauty for several years, a stylish and long-lasting gift.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "2,5 x 2,5"
+        ]
+      },
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": [
+          "2,5 x 2,5"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "75427",
+    "supplierVariantIds": [
+      "7542705"
+    ],
     "price": 18.66,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -927,7 +1286,7 @@
       "https://macma.ro/products/jpg/M/7542705_4.jpg",
       "https://macma.ro/products/jpg/M/7542705_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -950,10 +1309,31 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": [
+          "3 x 3"
+        ]
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "3 x 3"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "75470",
+    "supplierVariantIds": [
+      "7547013"
+    ],
     "price": 1.32,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -966,7 +1346,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/7547013_lifestyle_1.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/7547013_lifestyle_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -988,10 +1368,23 @@
     "summary": "Practical pill box made of plastic with four individually closable compartments.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "3 x 3"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "75599",
+    "supplierVariantIds": [
+      "7559906"
+    ],
     "price": 0.8,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1006,7 +1399,7 @@
       "https://macma.ro/products/jpg/M/7559906_8.jpg",
       "https://macma.ro/products/jpg/M/7559906_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1028,10 +1421,21 @@
     "summary": "Colour-changing LED night light in star shape. Decorative in every room.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "80585",
+    "supplierVariantIds": [
+      "8058506"
+    ],
     "price": 2.55,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1047,7 +1451,7 @@
       "https://macma.ro/products/jpg/M/8058506_9.jpg",
       "https://macma.ro/products/jpg/M/8058506_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1071,8 +1475,21 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "5 x 5"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "85426",
+    "supplierVariantIds": [
+      "8542607"
+    ],
     "price": 4.42,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1086,7 +1503,7 @@
       "https://macma.ro/products/jpg/M/8542607_6.jpg",
       "https://macma.ro/products/jpg/M/8542607_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1108,10 +1525,28 @@
     "summary": "Round plastic magnet for a full digital printing.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "91588",
+    "supplierVariantIds": [
+      "9158806"
+    ],
     "price": 0.36,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1133,7 +1568,7 @@
       "https://macma.ro/products/jpg/M/9158806_8.jpg",
       "https://macma.ro/products/jpg/M/9158806_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1155,8 +1590,12 @@
     "summary": "Cardboard gift box with slip lid and black interior. Ideal for compiling gift sets or as packaging. We print your advertising on the lid.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "92594",
+    "supplierVariantIds": [
+      "9259413"
+    ],
     "price": 4.32,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1165,7 +1604,7 @@
       "https://macma.ro/products/jpg/M/9259413_1.jpg",
       "https://macma.ro/products/jpg/M/9259413_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1187,8 +1626,12 @@
     "summary": "Large cardboard gift box with slip lid and black interior. Ideal for compiling gift sets or as packaging. We print your advertising on the lid.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "92595",
+    "supplierVariantIds": [
+      "9259513"
+    ],
     "price": 8.45,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1197,7 +1640,7 @@
       "https://macma.ro/products/jpg/M/9259513_1.jpg",
       "https://macma.ro/products/jpg/M/9259513_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1220,10 +1663,31 @@
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": [
+          "4 × 3"
+        ]
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": [
+          "4 × 3"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "92691",
+    "supplierVariantIds": [
+      "9269103"
+    ],
     "price": 24.51,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1236,7 +1700,7 @@
       "https://macma.ro/products/jpg/M/9269103_5.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/9269103_lifestyle_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1258,10 +1722,25 @@
     "summary": "Fly swatter made of PP plastic.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "93151",
+    "supplierVariantIds": [
+      "9315106",
+      "9315103",
+      "9315105",
+      "9315109",
+      "9315104"
+    ],
     "price": 0.41,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1282,7 +1761,7 @@
       "https://macma.ro/products/jpg/M/9315104_1.jpg",
       "https://macma.ro/products/jpg/M/9315104_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -1322,8 +1801,19 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "93929",
+    "supplierVariantIds": [
+      "9392907"
+    ],
     "price": 8.57,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1341,7 +1831,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/9392907_lifestyle_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/9392907_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1365,8 +1855,19 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "94662",
+    "supplierVariantIds": [
+      "9466295"
+    ],
     "price": 5.02,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1382,7 +1883,7 @@
       "https://macma.ro/products/jpg/M/9466295_8.jpg",
       "https://macma.ro/products/jpg/M/9466295_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1406,8 +1907,19 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "94880",
+    "supplierVariantIds": [
+      "9488003"
+    ],
     "price": 15.44,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1419,7 +1931,7 @@
       "https://macma.ro/products/jpg/M/9488003_5.jpg",
       "https://macma.ro/products/jpg/M/9488003_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1443,8 +1955,19 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "94997",
+    "supplierVariantIds": [
+      "9499706"
+    ],
     "price": 7.99,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1456,7 +1979,7 @@
       "https://macma.ro/products/jpg/M/9499706_4.jpg",
       "https://macma.ro/products/jpg/M/9499706_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1480,8 +2003,19 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "95181",
+    "supplierVariantIds": [
+      "9518107"
+    ],
     "price": 13.98,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1493,7 +2027,7 @@
       "https://macma.ro/products/jpg/M/9518107_4.jpg",
       "https://macma.ro/products/jpg/M/9518107_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1517,8 +2051,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": [
+          "4 x 3"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "95271",
+    "supplierVariantIds": [
+      "9527103"
+    ],
     "price": 18.66,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1534,7 +2081,7 @@
       "https://macma.ro/products/jpg/M/9527103_8.jpg",
       "https://macma.ro/products/jpg/M/9527103_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1556,10 +2103,23 @@
     "summary": "Small outdoor lamp with color change in a compact size (Ø 11 × 20 cm), a runtime of 4–10 hours, 3.7V, and a rechargeable 1,200 mAh battery, lampshade is made from PP , lampbase is metal. Ideal for the garden, terrace,...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": [
+          "4 x 2"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "95370",
+    "supplierVariantIds": [
+      "9537006"
+    ],
     "price": 8.57,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1576,7 +2136,7 @@
       "https://macma.ro/products/jpg/M/9537006_8_lifestyle.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/9537006_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1598,10 +2158,23 @@
     "summary": "Outdoor lamp with color change and modern design (Ø 16.5 × 30 cm), with a runtime of 8–10 hours, 3.7V, and 2,400 mAh rechargeable batteries, lampshade is made from PP , lampbase is metal. Ideal for the garden, terrace...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": [
+          "5 x 2"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "95371",
+    "supplierVariantIds": [
+      "9537106"
+    ],
     "price": 12.28,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1619,7 +2192,7 @@
       "https://macma.ro/products/jpg/M/9537106_9_lifestyle.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/9537106_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1641,10 +2214,23 @@
     "summary": "Large outdoor lamp with color change and stylish design (Ø 19 × 105 cm). Runtime of 8–10 hours, 3.7V, and 2,400 mAh rechargeable batteries, lampshade is made from PP , lampbase is metal. Perfect for outdoor areas to c...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": [
+          "5 x 2"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "95372",
+    "supplierVariantIds": [
+      "9537206"
+    ],
     "price": 23.31,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1659,7 +2245,7 @@
       "https://macma.ro/products/jpg/M/9537206_6_lifestyle.jpg",
       "https://macma.ro/products/jpg/M/9537206_7_lifestyle.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1681,8 +2267,23 @@
     "summary": "Soft microfiber cloth (20 x 20 cm) folded in the shape of a dog and packaged.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": [
+          "5 x 5"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "95467",
+    "supplierVariantIds": [
+      "9546704",
+      "9546705",
+      "9546777"
+    ],
     "price": 1.05,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1700,7 +2301,7 @@
       "https://macma.ro/products/jpg/M/9546777_3.jpg",
       "https://macma.ro/products/jpg/M/9546777_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -1730,15 +2331,19 @@
     "summary": "AA 1,5 V Battery",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "99993",
+    "supplierVariantIds": [
+      "9999300"
+    ],
     "price": 0.3,
     "priceFrom": false,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/9999300_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1760,15 +2365,19 @@
     "summary": "UM 4 Super Heavy Duty Battery",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "99994",
+    "supplierVariantIds": [
+      "9999400"
+    ],
     "price": 0.24,
     "priceFrom": false,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/9999400_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1790,8 +2399,12 @@
     "summary": "Schwarzwolf hanging camping light with 3 lighting modes: weak, strong and red flashing light. The light contains 24 white and 12 red LEDs. It has a built-in 10m light chain, which can be used to decorate a tent when c...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "F2308900AJ3",
+    "supplierVariantIds": [
+      "F2308900AJ3"
+    ],
     "price": 10.26,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -1806,7 +2419,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2308900aj3_g_0.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f2308900aj3_h_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1828,8 +2441,12 @@
     "summary": "The soft and warm Vanilla Season blanket in gray color with fine stripes will be a beautiful addition to your interior. The blanket is made of special 230 g/m2 jacquard flannel with a white underside in imitation of 1...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "F560400",
+    "supplierVariantIds": [
+      "F5604000AJ3"
+    ],
     "price": 22.9,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -1840,7 +2457,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5604000aj3_c.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5604000aj3_d.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1861,8 +2478,12 @@
     "summary": "Enjoy everyday moments of comfort and relaxation with the extraordinarily soft and warm Vanilla Season blanket. Thanks to the elegant beige color and imitation of sheep wool on the bottom, it gives a very luxurious im...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "F560410",
+    "supplierVariantIds": [
+      "F5604100AJ3"
+    ],
     "price": 18.08,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -1875,7 +2496,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5604100aj3_e.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5604100aj3_f.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1896,8 +2517,12 @@
     "summary": "A luxurious scented candle with a pleasant scent of sandalwood and rose will be a beautiful addition to any home. The candle has a bamboo lid and it is made of soy wax (311 g) and borosilicate glass. Thanks to the dou...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "H380010",
+    "supplierVariantIds": [
+      "H3800100AJ3"
+    ],
     "price": 9.68,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -1909,7 +2534,7 @@
       "https://macma.ro/products/jpg/PSV/VANILLA/h3800100aj3_e_0.jpg",
       "https://macma.ro/products/jpg/PSV/VANILLA/h3800100aj3_f_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1930,10 +2555,39 @@
     "summary": "Let your home smell great with a diffuser with a very pleasant scent of white blossom. The diffuser contains four reed sticks. The volume of the bottle is 45 ml. Packed in a Vanilla Season gift box.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": [
+          "2 × 2"
+        ]
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": [
+          "2 × 2"
+        ]
+      },
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": [
+          "2 × 2"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "H3800100IP1",
+    "supplierVariantIds": [
+      "H3800100IP1"
+    ],
     "price": 4.33,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -1947,7 +2601,7 @@
       "https://macma.ro/products/jpg/PSV/VANILLA/h3800100ip1_d_0.jpg",
       "https://macma.ro/products/jpg/PSV/VANILLA/h3800100ip1_e_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1969,10 +2623,23 @@
     "summary": "Let your home smell great with a diffuser with a very pleasant scent of SPA garden. The diffuser contains four reed sticks. The volume of the bottle is 45 ml. Packed in a Vanilla Season gift box.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": [
+          "2 × 2"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "H3800101IP1",
+    "supplierVariantIds": [
+      "H3800101IP1"
+    ],
     "price": 4.33,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -1986,7 +2653,7 @@
       "https://macma.ro/products/jpg/PSV/VANILLA/h3800101ip1_d_0.jpg",
       "https://macma.ro/products/jpg/PSV/VANILLA/h3800101ip1_e_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2008,10 +2675,23 @@
     "summary": "Let your home smell great with a diffuser with a very pleasant scent of rose. The diffuser contains four reed sticks. The volume of the bottle is 45 ml. Packed in a Vanilla Season gift box.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": [
+          "2 × 2"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "H3800102IP1",
+    "supplierVariantIds": [
+      "H3800102IP1"
+    ],
     "price": 4.33,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -2025,7 +2705,7 @@
       "https://macma.ro/products/jpg/PSV/VANILLA/h3800102ip1_d_0.jpg",
       "https://macma.ro/products/jpg/PSV/VANILLA/h3800102ip1_e_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2047,8 +2727,12 @@
     "summary": "Decorate your interior with this designer diffuser with a pleasant scent of gardenia and white tea. The ceramic vase has a very elegant appearance and contains 3 pcs of white reed sticks and 2 pcs of polyester fiber s...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "H380020",
+    "supplierVariantIds": [
+      "H3800200AJ3"
+    ],
     "price": 6.63,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -2059,7 +2743,7 @@
       "https://macma.ro/products/jpg/PSV/VANILLA/h3800200aj3_c.jpg",
       "https://macma.ro/products/jpg/PSV/VANILLA/h3800200aj3_d.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2080,10 +2764,31 @@
     "summary": "A scented candle with a pleasant smell and an extended burning time that will scent your entire house will certainly be a must-have in every living room. The candle is offered in a three scents: white blossom, vanilla...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": [
+          "2,5 × 2,5"
+        ]
+      },
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": [
+          "2,5 × 2,5"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "H3800200IP1",
+    "supplierVariantIds": [
+      "H3800200IP1"
+    ],
     "price": 6.35,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -2091,7 +2796,7 @@
       "https://macma.ro/products/jpg/PSV/VANILLA/h3800200ip1_1.jpg",
       "https://macma.ro/products/jpg/PSV/VANILLA/h3800200ip1_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2113,10 +2818,31 @@
     "summary": "A scented candle with a pleasant smell and an extended burning time that will scent your entire house will certainly be a must-have in every living room. The candle is offered in a three scents: white blossom, vanilla...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": [
+          "2,5 × 2,5"
+        ]
+      },
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": [
+          "2,5 × 2,5"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "H3800201IP1",
+    "supplierVariantIds": [
+      "H3800201IP1"
+    ],
     "price": 6.35,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -2124,7 +2850,7 @@
       "https://macma.ro/products/jpg/PSV/VANILLA/h3800201ip1_1.jpg",
       "https://macma.ro/products/jpg/PSV/VANILLA/h3800201ip1_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2146,10 +2872,31 @@
     "summary": "A scented candle with a pleasant smell and an extended burning time that will scent your entire house will certainly be a must-have in every living room. The candle is offered in a three scents: white blossom, vanilla...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": [
+          "2,5 × 2,5"
+        ]
+      },
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": [
+          "2,5 × 2,5"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "H3800202IP1",
+    "supplierVariantIds": [
+      "H3800202IP1"
+    ],
     "price": 6.35,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -2157,7 +2904,7 @@
       "https://macma.ro/products/jpg/PSV/VANILLA/h3800202ip1_1.jpg",
       "https://macma.ro/products/jpg/PSV/VANILLA/h3800202ip1_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2179,8 +2926,12 @@
     "summary": "Give your home a touch and scent of elegance with the Vanilla Season diffuser. Its scent is inspired by Coco Chanel perfume and will create a feeling of luxury in your home. The black ceramic bottle has a very elegant...",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "SANUKI",
+    "supplierVariantIds": [
+      "H3800300AJ3"
+    ],
     "price": 10.53,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -2195,7 +2946,7 @@
       "https://macma.ro/products/jpg/PSV/VANILLA/h3800300aj3_g.jpg",
       "https://macma.ro/products/jpg/PSV/VANILLA/h3800300aj3_h.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

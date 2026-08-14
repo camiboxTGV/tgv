@@ -6,10 +6,27 @@
     "summary": "Transparent emergency poncho in a plastic sleeve with paper insert.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "40978",
+    "supplierVariantIds": [
+      "4097866"
+    ],
     "price": 0.67,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -22,7 +39,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/4097866_lifestyle_5.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/4097866_lifestyle_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -44,8 +61,19 @@
     "summary": "Compostable Rain Poncho made from PLA with carrier bag.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "41882",
+    "supplierVariantIds": [
+      "4188266"
+    ],
     "price": 0.87,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -59,7 +87,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/4188266_lifestyle_5.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/4188266_lifestyle_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -81,11 +109,31 @@
     "summary": "Transparent rain poncho with RPET pouch and carrying strap.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "43788",
+    "supplierVariantIds": [
+      "4378805",
+      "4378807",
+      "4378804",
+      "4378809"
+    ],
     "price": 0.87,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -115,7 +163,7 @@
       "https://macma.ro/products/jpg/M/4378809_4.jpg",
       "https://macma.ro/products/jpg/M/4378809_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -149,10 +197,23 @@
     "summary": "Classic raincoat with pushbuttons and hood in XL, made of PVC.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "10 × 6"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "49101",
+    "supplierVariantIds": [
+      "4910166"
+    ],
     "price": 3.69,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -161,7 +222,7 @@
       "https://macma.ro/products/jpg/M/4910166_1.jpg",
       "https://macma.ro/products/jpg/M/4910166_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -183,8 +244,21 @@
     "summary": "Bicolour reversible raincoat, made of PVC, in standard XL size with pushbuttons and hood.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "S2-PL",
+        "label": "Macma method S2-PL",
+        "labelRo": "Metodă Macma S2-PL",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "49205",
+    "supplierVariantIds": [
+      "4920537",
+      "4920548",
+      "4920549"
+    ],
     "price": 9.3,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -211,7 +285,7 @@
       "https://macma.ro/products/jpg/M/4920549_3.jpg",
       "https://macma.ro/products/jpg/M/4920549_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 1,
@@ -241,8 +315,19 @@
     "summary": "Disposable rain poncho in plastic cover.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "49218",
+    "supplierVariantIds": [
+      "4921866"
+    ],
     "price": 0.32,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -253,7 +338,7 @@
       "https://macma.ro/products/jpg/M/4921866_3.jpg",
       "https://macma.ro/products/jpg/M/4921866_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -275,11 +360,28 @@
     "summary": "Foldable rain poncho with reflective stripe and a drawstring for the hood, which can be folded into a fanny pack. Perfect for stowing away, this poncho should always be with you.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "52671",
+    "supplierVariantIds": [
+      "5267144"
+    ],
     "price": 17.95,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -294,7 +396,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/5267144_lifestyle_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/5267144_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

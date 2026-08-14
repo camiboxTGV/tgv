@@ -7,10 +7,27 @@
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "23970",
+    "supplierVariantIds": [
+      "2397013"
+    ],
     "price": 11.83,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -23,7 +40,7 @@
       "https://macma.ro/products/jpg/M/2397013_6.jpg",
       "https://macma.ro/products/jpg/M/2397013_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -47,8 +64,19 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "27502",
+    "supplierVariantIds": [
+      "2750266"
+    ],
     "price": 17.35,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -63,7 +91,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/2750266_lifestyle_5.jpg",
       "https://macma.ro/products/jpg/M/2750266_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -87,8 +115,19 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "27504",
+    "supplierVariantIds": [
+      "2750466"
+    ],
     "price": 9.89,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -101,7 +140,7 @@
       "https://macma.ro/products/jpg/M/2750466_6.jpg",
       "https://macma.ro/products/jpg/M/2750466_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

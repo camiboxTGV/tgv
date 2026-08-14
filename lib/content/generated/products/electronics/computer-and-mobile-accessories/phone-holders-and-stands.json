@@ -6,10 +6,27 @@
     "summary": "Virtual Reality glasses made of cardboard. Just install the app Cardboard on the operating system of your smartphone, insert the smartphone in the slot and now you can discover all avenues of the virtual world through...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "20356",
+    "supplierVariantIds": [
+      "2035601"
+    ],
     "price": 1.34,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -20,7 +37,7 @@
       "https://macma.ro/products/jpg/M/2035601_4.jpg",
       "https://macma.ro/products/jpg/M/2035601_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -42,11 +59,28 @@
     "summary": "Plastic, rounded USB hub with four ports.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "20659",
+    "supplierVariantIds": [
+      "2065906"
+    ],
     "price": 2.8,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -58,7 +92,7 @@
       "https://macma.ro/products/jpg/M/2065906_4.jpg",
       "https://macma.ro/products/jpg/M/2065906_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -80,11 +114,28 @@
     "summary": "3 in 1 charging cable with USB adapter, micro USB adapter, Android and iOS charging cable, in a plastic box.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "20784",
+    "supplierVariantIds": [
+      "2078403"
+    ],
     "price": 2.63,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -98,7 +149,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/2078403_lifestyle_1.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/2078403_lifestyle_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -122,8 +173,19 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "20785",
+    "supplierVariantIds": [
+      "2078503"
+    ],
     "price": 2.42,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -134,7 +196,7 @@
       "https://macma.ro/products/jpg/M/2078503_5.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/2078503_lifestyle_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -156,10 +218,25 @@
     "summary": "Extendable charging cable in a plastic housing with a USB plug and an iOS, C-Type and Micro USB connection.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "21652",
+    "supplierVariantIds": [
+      "2165204",
+      "2165209",
+      "2165205",
+      "2165206",
+      "2165203"
+    ],
     "price": 2.42,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -195,7 +272,7 @@
       "https://macma.ro/products/jpg/M/2165203_5.jpg",
       "https://macma.ro/products/jpg/M/2165203_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -234,10 +311,27 @@
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "22458",
+    "supplierVariantIds": [
+      "2245813"
+    ],
     "price": 0.8,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -252,7 +346,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/2245813_lifestyle_3.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/2245813_lifestyle_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -274,10 +368,33 @@
     "summary": "Ultra thin cover for webcam of computer, laptop, MacBook or iMac with 3M adhesive on the back for a secure hold. Protect yourself and your privacy.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "22533",
+    "supplierVariantIds": [
+      "2253303",
+      "2253305",
+      "2253304",
+      "2253309",
+      "2253307",
+      "2253306"
+    ],
     "price": 0.24,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -319,7 +436,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/2253306_lifestyle_4.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/2253306_lifestyle_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -360,9 +477,27 @@
     "category": "electronics/computer-and-mobile-accessories/phone-holders-and-stands",
     "summary": "Cover for the mobile phone camera, easy to open and close and with 3M adhesive on the back, for secure and permanent attachment.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
-    "personalizations": [],
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "22534",
+    "supplierVariantIds": [
+      "2253407",
+      "2253406",
+      "2253403",
+      "2253405",
+      "2253404",
+      "2253409"
+    ],
     "price": 0.18,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -398,7 +533,7 @@
       "https://macma.ro/products/jpg/M/2253409_4.jpg",
       "https://macma.ro/products/jpg/M/2253409_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -441,10 +576,27 @@
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "22698",
+    "supplierVariantIds": [
+      "2269813"
+    ],
     "price": 17.35,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -455,7 +607,7 @@
       "https://macma.ro/products/jpg/M/2269813_3.jpg",
       "https://macma.ro/products/jpg/M/2269813_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -477,10 +629,23 @@
     "summary": "Silicone holder for attaching to the back of your smartphone. There's enough space for business cards, credit cards, money, and more.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "22864",
+    "supplierVariantIds": [
+      "2286403",
+      "2286405",
+      "2286404"
+    ],
     "price": 0.31,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -496,7 +661,7 @@
       "https://macma.ro/products/jpg/M/2286404_2.jpg",
       "https://macma.ro/products/jpg/M/2286404_2_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -528,8 +693,19 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "23189",
+    "supplierVariantIds": [
+      "2318913"
+    ],
     "price": 0.81,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -546,7 +722,7 @@
       "https://macma.ro/products/jpg/M/2318913_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/2318913_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -568,10 +744,21 @@
     "summary": "Universal mobile phone holder made of bendable metal with protective silicone covering. It can be fixed to the socket during charging and shows your logo even when the smartphone/mobile phone is in the holding.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "23460",
+    "supplierVariantIds": [
+      "2346010"
+    ],
     "price": 1.07,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -580,7 +767,7 @@
       "https://macma.ro/products/jpg/M/2346010_2.jpg",
       "https://macma.ro/products/jpg/M/2346010_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -602,11 +789,30 @@
     "summary": "The writing case made of 190T nylon is available in three trendy colours and provides enough space inside for a modern tablet PC, includes a lined writing pad and a zipper compartment outside. We will print your logo ...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "28946",
+    "supplierVariantIds": [
+      "2894629",
+      "2894611",
+      "2894612"
+    ],
     "price": 2.46,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -617,7 +823,7 @@
       "https://macma.ro/products/jpg/M/2894612_0.jpg",
       "https://macma.ro/products/jpg/M/2894612_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -647,8 +853,19 @@
     "summary": "Liquid screen protector for smartphones, smartwatches, and tablets. The liquid glass seal makes your display a lot more resistant than a protective film and is completely invisible.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "30834",
+    "supplierVariantIds": [
+      "30834MC"
+    ],
     "price": 2.19,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -663,7 +880,7 @@
       "https://macma.ro/products/jpg/M/30834mc_7.jpg",
       "https://macma.ro/products/jpg/M/30834mc_8.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -685,10 +902,22 @@
     "summary": "Plastic induction charger, charge your smartphone with cordless technology. The wireless charger also works as a stand for your smartphone.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "30905",
+    "supplierVariantIds": [
+      "3090506",
+      "3090503"
+    ],
     "price": 5.26,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -709,7 +938,7 @@
       "https://macma.ro/products/jpg/M/3090503_8.jpg",
       "https://macma.ro/products/jpg/M/3090503_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -737,8 +966,19 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "31961",
+    "supplierVariantIds": [
+      "3196113"
+    ],
     "price": 3.48,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -748,7 +988,7 @@
       "https://macma.ro/products/jpg/M/3196113_2.jpg",
       "https://macma.ro/products/jpg/M/3196113_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -771,10 +1011,27 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "32663",
+    "supplierVariantIds": [
+      "3266307"
+    ],
     "price": 2.26,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -786,7 +1043,7 @@
       "https://macma.ro/products/jpg/M/3266307_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/3266307_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -809,10 +1066,27 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "33675",
+    "supplierVariantIds": [
+      "3367503"
+    ],
     "price": 2.65,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -821,7 +1095,7 @@
       "https://macma.ro/products/jpg/M/3367503_1.jpg",
       "https://macma.ro/products/jpg/M/3367503_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -845,8 +1119,19 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "33853",
+    "supplierVariantIds": [
+      "3385307"
+    ],
     "price": 4.5,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -858,7 +1143,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/3385307_lifestyle_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/3385307_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -881,10 +1166,27 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "33884",
+    "supplierVariantIds": [
+      "3388413"
+    ],
     "price": 3.74,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -896,7 +1198,7 @@
       "https://macma.ro/products/jpg/M/3388413_4.jpg",
       "https://macma.ro/products/jpg/M/3388413_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -919,10 +1221,27 @@
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "33951",
+    "supplierVariantIds": [
+      "3395107"
+    ],
     "price": 2.63,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -931,7 +1250,7 @@
       "https://macma.ro/products/jpg/M/3395107_1.jpg",
       "https://macma.ro/products/jpg/M/3395107_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -955,8 +1274,19 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "34779",
+    "supplierVariantIds": [
+      "3477903"
+    ],
     "price": 6.72,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -965,7 +1295,7 @@
       "https://macma.ro/products/jpg/M/3477903_1.jpg",
       "https://macma.ro/products/jpg/M/3477903_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -989,8 +1319,19 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "34945",
+    "supplierVariantIds": [
+      "3494503"
+    ],
     "price": 4.65,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1001,7 +1342,7 @@
       "https://macma.ro/products/jpg/M/3494503_2.jpg",
       "https://macma.ro/products/jpg/M/3494503_2_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1025,8 +1366,21 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "ø 2"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "35260",
+    "supplierVariantIds": [
+      "3526003"
+    ],
     "price": 6.7,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1037,7 +1391,7 @@
       "https://macma.ro/products/jpg/M/3526003_4.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/3526003_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1061,8 +1415,21 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": [
+          "2,5 x 2"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "35434",
+    "supplierVariantIds": [
+      "3543413"
+    ],
     "price": 5.79,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1074,7 +1441,7 @@
       "https://macma.ro/products/jpg/M/3543413_4.jpg",
       "https://macma.ro/products/jpg/M/3543413_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1096,8 +1463,21 @@
     "summary": "Thick microfiber cleaning cloth (400 gsm) with a different texture on each side. Ideal for gentle cleaning of glasses and all delicate surfaces.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "SU",
+        "label": "Sublimation",
+        "labelRo": "Sublimare",
+        "printSizes": [
+          "18,3 x 13"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "75438",
+    "supplierVariantIds": [
+      "7543806"
+    ],
     "price": 0.47,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1108,7 +1488,7 @@
       "https://macma.ro/products/jpg/M/7543806_4.jpg",
       "https://macma.ro/products/jpg/M/7543806_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1131,10 +1511,32 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G1",
+        "label": "Engraving 1",
+        "labelRo": "Gravură 1",
+        "printSizes": []
+      },
+      {
+        "code": "T4",
+        "label": "Pad printing 4",
+        "labelRo": "Tampografie 4",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "82325",
+    "supplierVariantIds": [
+      "8232505",
+      "8232507",
+      "8232504",
+      "8232503",
+      "8232510",
+      "8232509"
+    ],
     "price": 0.2,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1177,7 +1579,7 @@
       "https://macma.ro/products/jpg/M/8232509_4.jpg",
       "https://macma.ro/products/jpg/M/8232509_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -1219,10 +1621,22 @@
     "summary": "Mobile phone arm band - ideal for jogging, of course adjustable and with key slot.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "90726",
+    "supplierVariantIds": [
+      "9072603",
+      "9072605"
+    ],
     "price": 1.71,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1230,7 +1644,7 @@
       "https://macma.ro/products/jpg/M/9072603_0.jpg",
       "https://macma.ro/products/jpg/M/9072605_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -1256,8 +1670,19 @@
     "summary": "Microfibre cloth suitable for cleaning glasses, glass surfaces or LCD screens.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "SU",
+        "label": "Sublimation",
+        "labelRo": "Sublimare",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "91586",
+    "supplierVariantIds": [
+      "9158606"
+    ],
     "price": 0.12,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1277,7 +1702,7 @@
       "https://macma.ro/products/jpg/M/9158606_9.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/9158606_lifestyle_12.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1299,11 +1724,28 @@
     "summary": "Gloves made of RPET and soft acrylic with specially manufactured tips on the thumb, index and middle finger, which enable the operation of smartphones without taking off the gloves, an ideal winter gadget.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "92567",
+    "supplierVariantIds": [
+      "9256707"
+    ],
     "price": 1.29,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1313,7 +1755,7 @@
       "https://macma.ro/products/jpg/M/9256707_3.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/9256707_lifestyle_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -1336,10 +1778,27 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG1",
+        "label": "CO₂ engraving 1",
+        "labelRo": "Gravură CO₂ 1",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "92647",
+    "supplierVariantIds": [
+      "9264713"
+    ],
     "price": 0.48,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1352,7 +1811,7 @@
       "https://macma.ro/products/jpg/M/9264713_6.jpg",
       "https://macma.ro/products/jpg/M/9264713_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1374,11 +1833,28 @@
     "summary": "Using your smartphone while keeping your hands warm during winter - this is no problem with these touch screen gloves made of soft acryl with conductive tips on the thumb and index fingers.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "98765",
+    "supplierVariantIds": [
+      "9876503"
+    ],
     "price": 0.96,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1386,7 +1862,7 @@
       "https://macma.ro/products/jpg/M/9876503_1.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/9876503_lifestyle_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -1408,8 +1884,12 @@
     "summary": "Pierre Cardin magnetic 100W fast charging and data cable. The cable\nis made of aluminum, braided with nylon, always carefully folded\nthanks to the magnet. Cable connectors: input USB-A, USB-C; output\nUSB-C, Ligntning....",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "B1100200IP3",
+    "supplierVariantIds": [
+      "B1100200IP3"
+    ],
     "price": 11.77,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -1423,7 +1903,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b1100200ip3_f.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b1100200ip3_g.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -1445,8 +1925,12 @@
     "summary": "An elegant Pierre Cardin crossbody phone holder lanyard. The lanyard has an integrated 60W fast charging and data cable, input and output with USB Type-C. It includes two safety buckles behind the neck. Packed in a gi...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "B1100400IP3",
+    "supplierVariantIds": [
+      "B1100400IP3"
+    ],
     "price": 10.93,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -1457,7 +1941,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b1100400ip3_c_0.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b1100400ip3_d_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

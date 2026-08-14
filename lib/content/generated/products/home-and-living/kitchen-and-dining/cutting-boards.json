@@ -7,10 +7,27 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "80191",
+    "supplierVariantIds": [
+      "8019113"
+    ],
     "price": 8.13,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -23,7 +40,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/8019113_lifestyle_3.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8019113_lifestyle_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -46,10 +63,27 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "80573",
+    "supplierVariantIds": [
+      "8057307"
+    ],
     "price": 15.15,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -64,7 +98,7 @@
       "https://macma.ro/products/jpg/M/8057307_7.jpg",
       "https://macma.ro/products/jpg/M/8057307_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -88,8 +122,19 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "80791",
+    "supplierVariantIds": [
+      "8079103"
+    ],
     "price": 51.28,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -106,7 +151,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/8079103_lifestyle_8.jpg",
       "https://macma.ro/products/jpg/M/8079103_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -129,10 +174,27 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "80836",
+    "supplierVariantIds": [
+      "8083601"
+    ],
     "price": 14.6,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -145,7 +207,7 @@
       "https://macma.ro/products/jpg/M/8083601_5.jpg",
       "https://macma.ro/products/jpg/M/8083601_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -169,8 +231,19 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "82307",
+    "supplierVariantIds": [
+      "8230713"
+    ],
     "price": 2.01,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -182,7 +255,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/8230713_lifestyle_3.jpg",
       "https://macma.ro/products/jpg/M/8230713_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -206,8 +279,19 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "82512",
+    "supplierVariantIds": [
+      "8251213"
+    ],
     "price": 14.57,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -220,7 +304,7 @@
       "https://macma.ro/products/jpg/M/8251213_4.jpg",
       "https://macma.ro/products/jpg/M/8251213_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -244,8 +328,19 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "82523",
+    "supplierVariantIds": [
+      "8252313"
+    ],
     "price": 8.07,
     "priceFrom": false,
     "stockLevel": "low",
@@ -256,7 +351,7 @@
       "https://macma.ro/products/jpg/M/8252313_3.jpg",
       "https://macma.ro/products/jpg/M/8252313_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -280,8 +375,19 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "82985",
+    "supplierVariantIds": [
+      "8298506"
+    ],
     "price": 8.13,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -290,7 +396,7 @@
       "https://macma.ro/products/jpg/M/8298506_1.jpg",
       "https://macma.ro/products/jpg/M/8298506_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -314,8 +420,19 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "83837",
+    "supplierVariantIds": [
+      "8383701"
+    ],
     "price": 10.32,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -325,7 +442,7 @@
       "https://macma.ro/products/jpg/M/8383701_2.jpg",
       "https://macma.ro/products/jpg/M/8383701_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -349,8 +466,19 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "83864",
+    "supplierVariantIds": [
+      "8386413"
+    ],
     "price": 5.53,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -359,7 +487,7 @@
       "https://macma.ro/products/jpg/M/8386413_1.jpg",
       "https://macma.ro/products/jpg/M/8386413_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -383,8 +511,19 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "88872",
+    "supplierVariantIds": [
+      "8887201"
+    ],
     "price": 17.43,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -399,7 +538,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/8887201_lifestyle_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8887201_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -423,8 +562,21 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": [
+          "17 × 10"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "IBARAKI",
+    "supplierVariantIds": [
+      "H2502500AJ3"
+    ],
     "price": 10.4,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -433,7 +585,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/h2502500aj3_2.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/h2502500aj3_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -457,8 +609,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "6 × 2"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "KOFU",
+    "supplierVariantIds": [
+      "H3200700AJ3"
+    ],
     "price": 14.84,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -469,7 +634,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/h3200700aj3_3.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/h3200700aj3_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -493,8 +658,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "San.knife 6×2 par.knife 4×0,8"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "NUMAZU",
+    "supplierVariantIds": [
+      "H3200800AJ3"
+    ],
     "price": 20.85,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -507,7 +685,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/h3200800aj3_5.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/h3200800aj3_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

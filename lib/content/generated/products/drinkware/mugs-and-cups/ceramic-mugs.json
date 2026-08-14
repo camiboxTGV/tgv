@@ -8,8 +8,19 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "0200100ZH1",
+    "supplierVariantIds": [
+      "H0200100ZH1"
+    ],
     "price": 18.88,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -17,7 +28,7 @@
       "https://macma.ro/products/jpg/PSV/VANILLA/h0200100zh1_1.jpg",
       "https://macma.ro/products/jpg/PSV/VANILLA/h0200100zh1_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -41,15 +52,32 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      },
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "0200200ZH1",
+    "supplierVariantIds": [
+      "H0200200ZH1"
+    ],
     "price": 22.78,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/VANILLA/h0200200zh1_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -71,8 +99,21 @@
     "summary": "The stylish 1.5 l glass decanter Bohemia Crystal will be a beautiful present for those enjoying a glass of good wine. Packed in Vanilla Season gift box.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": [
+          "1,5 × 2"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "1200200ZH1",
+    "supplierVariantIds": [
+      "H1200200ZH1"
+    ],
     "price": 14.31,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -84,7 +125,7 @@
       "https://macma.ro/products/jpg/PSV/VANILLA/h1200200zh1_5.jpg",
       "https://macma.ro/products/jpg/PSV/VANILLA/h1200200zh1_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -106,8 +147,21 @@
     "summary": "All the important life events should be properly celebrated. And no celebration is complete without a glass of champagne or sparkling wine. This Vanilla Season gift set contains two 200ml Bohemia Crystal champagne flu...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": [
+          "1,5 × 2"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "1300100ZH1",
+    "supplierVariantIds": [
+      "H1300100ZH1"
+    ],
     "price": 11.23,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -119,7 +173,7 @@
       "https://macma.ro/products/jpg/PSV/VANILLA/h1300100zh1_d-1.jpg",
       "https://macma.ro/products/jpg/PSV/VANILLA/h1300100zh1_lifestyle.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -141,8 +195,21 @@
     "summary": "Set of two elegant white wine glasses (250 ml) Bohemia Crystal for romantic evenings in two. Packed in Vanilla Season gift box.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": [
+          "1,5 × 2"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "1300200ZH1",
+    "supplierVariantIds": [
+      "H1300200ZH1"
+    ],
     "price": 10.16,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -154,7 +221,7 @@
       "https://macma.ro/products/jpg/PSV/VANILLA/h1300200zh1_5.jpg",
       "https://macma.ro/products/jpg/PSV/VANILLA/h1300200zh1_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -176,8 +243,21 @@
     "summary": "Set of six elegant white wine glasses (250 ml) Bohemia Crystal for white wine enthusiasts. Packed in Vanilla Season gift box.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": [
+          "1,5 × 2"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "1300300ZH1",
+    "supplierVariantIds": [
+      "H1300300ZH1"
+    ],
     "price": 26.41,
     "priceFrom": false,
     "stockLevel": "low",
@@ -190,7 +270,7 @@
       "https://macma.ro/products/jpg/PSV/VANILLA/h1300300zh1_6.jpg",
       "https://macma.ro/products/jpg/PSV/VANILLA/h1300300zh1_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -212,8 +292,21 @@
     "summary": "Vanilla Season gift box with two white wine glasses (250ml) and a space for a bottle of white wine of your selection.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": [
+          "1,5 × 2"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "5400100IP1",
+    "supplierVariantIds": [
+      "H5400100IP1"
+    ],
     "price": 13.28,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -223,7 +316,7 @@
       "https://macma.ro/products/jpg/PSV/VANILLA/h5400100ip1_3.jpg",
       "https://macma.ro/products/jpg/PSV/VANILLA/h5400100ip1_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -245,10 +338,21 @@
     "summary": "Large drink dispenser made of plastic with lockable spout, carrying handle,sieve insert for e.g. fruits, and 2500 ml capacity.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "60814",
+    "supplierVariantIds": [
+      "6081477"
+    ],
     "price": 5.76,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -266,7 +370,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/6081477_lifestyle_10.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6081477_lifestyle_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -290,8 +394,25 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      },
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "62306",
+    "supplierVariantIds": [
+      "6230666"
+    ],
     "price": 3.22,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -303,7 +424,7 @@
       "https://macma.ro/products/jpg/M/6230666_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6230666_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -325,10 +446,30 @@
     "summary": "Glass drinking cup with a capacity of 300 ml, silicone lid and matching silicone sleeve.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "62572",
+    "supplierVariantIds": [
+      "6257209",
+      "6257204",
+      "6257203",
+      "6257205"
+    ],
     "price": 2.46,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -351,7 +492,7 @@
       "https://macma.ro/products/jpg/M/6257205_2.jpg",
       "https://macma.ro/products/jpg/M/6257205_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -387,8 +528,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "4 × 4"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "67877",
+    "supplierVariantIds": [
+      "6787707"
+    ],
     "price": 10.62,
     "priceFrom": false,
     "stockLevel": "low",
@@ -396,7 +550,7 @@
       "https://macma.ro/products/jpg/M/other/6787707_1.jpg",
       "https://macma.ro/products/jpg/M/other/6787707_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -418,10 +572,29 @@
     "summary": "Classic coffee mug with 300ml capacity - made of shiny ceramic. You can order a single box per mug on request.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "80095",
+    "supplierVariantIds": [
+      "8009503",
+      "8009505",
+      "8009504"
+    ],
     "price": 1.89,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -440,7 +613,7 @@
       "https://macma.ro/products/jpg/M/8009504_2.jpg",
       "https://macma.ro/products/jpg/M/8009504_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -470,10 +643,27 @@
     "summary": "Ceramic mug with 300ml capacity.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "80097",
+    "supplierVariantIds": [
+      "8009706"
+    ],
     "price": 2.42,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -482,7 +672,7 @@
       "https://macma.ro/products/jpg/M/8009706_box.jpg",
       "https://macma.ro/products/jpg/M/8009706_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -505,10 +695,39 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "80443",
+    "supplierVariantIds": [
+      "8044366"
+    ],
     "price": 11.06,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -526,7 +745,7 @@
       "https://macma.ro/products/jpg/M/8044366_9.jpg",
       "https://macma.ro/products/jpg/M/8044366_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -548,10 +767,27 @@
     "summary": "Nice shaped ceramic mug (300ml).",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "80481",
+    "supplierVariantIds": [
+      "8048106"
+    ],
     "price": 2.06,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -564,7 +800,7 @@
       "https://macma.ro/products/jpg/M/8048106_box.jpg",
       "https://macma.ro/products/jpg/M/8048106_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -588,8 +824,23 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "80654",
+    "supplierVariantIds": [
+      "8065403",
+      "8065404",
+      "8065405",
+      "8065409",
+      "8065408"
+    ],
     "price": 3.69,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -612,7 +863,7 @@
       "https://macma.ro/products/jpg/M/8065408_1.jpg",
       "https://macma.ro/products/jpg/M/8065408_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -652,8 +903,23 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "80655",
+    "supplierVariantIds": [
+      "8065503",
+      "8065505",
+      "8065509",
+      "8065508",
+      "8065504"
+    ],
     "price": 3.69,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -675,7 +941,7 @@
       "https://macma.ro/products/jpg/M/8065504_print.jpg",
       "https://macma.ro/products/jpg/M/8065504_print_d.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -715,8 +981,25 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      },
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "80798",
+    "supplierVariantIds": [
+      "8079866"
+    ],
     "price": 12.81,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -731,7 +1014,7 @@
       "https://macma.ro/products/jpg/M/8079866_8.jpg",
       "https://macma.ro/products/jpg/M/8079866_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -753,10 +1036,31 @@
     "summary": "Nostalgia ceramic cup with 350ml filling capacity.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      },
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "80843",
+    "supplierVariantIds": [
+      "8084305",
+      "8084309",
+      "8084307",
+      "8084304",
+      "8084303"
+    ],
     "price": 2.34,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -787,7 +1091,7 @@
       "https://macma.ro/products/jpg/M/8084303_3.jpg",
       "https://macma.ro/products/jpg/M/8084303_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -825,8 +1129,19 @@
     "summary": "Nostalgia ceramic cup with 350ml filling capacity. Your logo will be printed onto the mug.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "8084306",
+    "supplierVariantIds": [
+      "8084306"
+    ],
     "price": 2.34,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -837,7 +1152,7 @@
       "https://macma.ro/products/jpg/M/8084306_3.jpg",
       "https://macma.ro/products/jpg/M/8084306_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -859,10 +1174,30 @@
     "summary": "300ml ceramic cup, coloured outside, white inside.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "80921",
+    "supplierVariantIds": [
+      "8092103",
+      "8092104",
+      "8092144",
+      "8092105"
+    ],
     "price": 2.58,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -885,7 +1220,7 @@
       "https://macma.ro/products/jpg/M/8092105_2.jpg",
       "https://macma.ro/products/jpg/M/8092105_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -919,10 +1254,27 @@
     "summary": "Glass cup with 320ml filling capacity and extra sturdy handle.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "80948",
+    "supplierVariantIds": [
+      "8094866"
+    ],
     "price": 1.96,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -934,7 +1286,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/8094866_lifestyle_4.jpg",
       "https://macma.ro/products/jpg/M/8094866_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -956,8 +1308,19 @@
     "summary": "Sublimation mug (plastic-laminated ceramics) with 300ml capacity in classical style.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "SU-MUG",
+        "label": "Macma method SU-MUG",
+        "labelRo": "Metodă Macma SU-MUG",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "81277",
+    "supplierVariantIds": [
+      "8127706"
+    ],
     "price": 2.01,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -975,7 +1338,7 @@
       "https://macma.ro/products/jpg/M/8127706_box.jpg",
       "https://macma.ro/products/jpg/M/8127706_box copy.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -998,10 +1361,36 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      },
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "81367",
+    "supplierVariantIds": [
+      "8136705",
+      "8136704",
+      "8136709",
+      "8136703"
+    ],
     "price": 1.98,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1027,7 +1416,7 @@
       "https://macma.ro/products/jpg/M/8136703_3.jpg",
       "https://macma.ro/products/jpg/M/8136703_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -1061,10 +1450,21 @@
     "summary": "Nicely shaped drinking glass made of PET with a 450 ml filling capacity. Ideal for cocktails or long drinks.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "81456",
+    "supplierVariantIds": [
+      "8145666"
+    ],
     "price": 1.79,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1076,7 +1476,7 @@
       "https://macma.ro/products/jpg/M/8145666_box.jpg",
       "https://macma.ro/products/jpg/M/8145666_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1098,10 +1498,28 @@
     "summary": "Plastic drinking glass in the shape of a goblet, with a 450 ml filling capacity.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "RS1",
+        "label": "Macma method RS1",
+        "labelRo": "Metodă Macma RS1",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "81461",
+    "supplierVariantIds": [
+      "8146103",
+      "8146106"
+    ],
     "price": 2.9,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1114,7 +1532,7 @@
       "https://macma.ro/products/jpg/M/8146106_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8146106_lifestyle_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -1142,8 +1560,27 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      },
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "81482",
+    "supplierVariantIds": [
+      "8148204",
+      "8148206",
+      "8148205"
+    ],
     "price": 3.8,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1164,7 +1601,7 @@
       "https://macma.ro/products/jpg/M/8148205_3.jpg",
       "https://macma.ro/products/jpg/M/8148205_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -1194,11 +1631,34 @@
     "summary": "Double-walled, robust, stainless steel cup with a 300 ml capacity.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
+      "pad-screen",
       "fiber-laser"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      },
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "81488",
+    "supplierVariantIds": [
+      "8148807"
+    ],
     "price": 2.87,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1212,7 +1672,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/8148807_lifestyle_5.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8148807_lifestyle_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1236,8 +1696,25 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      },
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "81536",
+    "supplierVariantIds": [
+      "8153666"
+    ],
     "price": 4.63,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1252,7 +1729,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/8153666_lifestyle_6.jpg",
       "https://macma.ro/products/jpg/M/8153666_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1276,8 +1753,25 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      },
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "81537",
+    "supplierVariantIds": [
+      "8153766"
+    ],
     "price": 3.8,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1290,7 +1784,7 @@
       "https://macma.ro/products/jpg/M/8153766_5.jpg",
       "https://macma.ro/products/jpg/M/8153766_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1312,15 +1806,28 @@
     "summary": "Diverse choice of colourful spoons - fitting for Art. 81749. We can print your logo (ceramic transfer) on the handle.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": [
+          "4 × 0,5"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "81759",
+    "supplierVariantIds": [
+      "8175910"
+    ],
     "price": 0.44,
     "priceFrom": false,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/8175910_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1342,10 +1849,31 @@
     "summary": "Glass mug with coloured handle and a capacity of 250 ml.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "82340",
+    "supplierVariantIds": [
+      "8234004",
+      "8234005",
+      "8234003",
+      "8234008",
+      "8234009"
+    ],
     "price": 2.42,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1383,7 +1911,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/8234009_lifestyle_5.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8234009_lifestyle_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -1421,10 +1949,28 @@
     "summary": "350 ml Ceramic Mug with Cork Ground.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "82418",
+    "supplierVariantIds": [
+      "8241803",
+      "8241806"
+    ],
     "price": 4.39,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1442,7 +1988,7 @@
       "https://macma.ro/products/jpg/M/8241806_3.jpg",
       "https://macma.ro/products/jpg/M/8241806_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -1468,10 +2014,22 @@
     "summary": "Drinking goblet in with shiny surface and a capacity of 460 ml made from plastic.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "82479",
+    "supplierVariantIds": [
+      "8247998",
+      "8247911"
+    ],
     "price": 5.7,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1483,7 +2041,7 @@
       "https://macma.ro/products/jpg/M/8247911_1.jpg",
       "https://macma.ro/products/jpg/M/8247911_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -1510,10 +2068,33 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      },
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "82640",
+    "supplierVariantIds": [
+      "8264066"
+    ],
     "price": 9.3,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1531,7 +2112,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/8264066_lifestyle_8.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8264066_lifestyle_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1554,10 +2135,39 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      },
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      },
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "82667",
+    "supplierVariantIds": [
+      "8266766"
+    ],
     "price": 4.68,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1571,7 +2181,7 @@
       "https://macma.ro/products/jpg/M/8266766_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8266766_lifestyle_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1593,8 +2203,19 @@
     "summary": "Porcelain cup (300 ml) with an extravagant handle.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "82688",
+    "supplierVariantIds": [
+      "8268806"
+    ],
     "price": 3.48,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1607,7 +2228,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/8268806_lifestyle_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8268806_lifestyle_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1629,10 +2250,27 @@
     "summary": "New bone China cup with a capacity of 300 ml in an unusual shape that changes from round to square.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "82689",
+    "supplierVariantIds": [
+      "8268906"
+    ],
     "price": 2.98,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1644,7 +2282,7 @@
       "https://macma.ro/products/jpg/M/8268906_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8268906_lifestyle_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1666,8 +2304,19 @@
     "summary": "Large, solid porcelain cup with a capacity of 400 ml, for coffee or tea lover.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "82690",
+    "supplierVariantIds": [
+      "8269006"
+    ],
     "price": 3.42,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1680,7 +2329,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/8269006_lifestyle_4.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8269006_lifestyle_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1704,8 +2353,26 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      },
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "82969",
+    "supplierVariantIds": [
+      "8296903",
+      "8296906"
+    ],
     "price": 2.91,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1723,7 +2390,7 @@
       "https://macma.ro/products/jpg/M/8296906_4.jpg",
       "https://macma.ro/products/jpg/M/8296906_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -1751,8 +2418,25 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      },
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "83185",
+    "supplierVariantIds": [
+      "8318566"
+    ],
     "price": 4.91,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1765,7 +2449,7 @@
       "https://macma.ro/products/jpg/M/8318566_5.jpg",
       "https://macma.ro/products/jpg/M/8318566_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1787,10 +2471,27 @@
     "summary": "Glass mug for any kind of drinks with a 300ml capacity.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "83331",
+    "supplierVariantIds": [
+      "8333166"
+    ],
     "price": 1.2,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1804,7 +2505,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/8333166_lifestyle_3.jpg",
       "https://macma.ro/products/jpg/M/8333166_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1826,8 +2527,19 @@
     "summary": "Effective sublimation mug: when cold the imprint vanishes under the coloured lacquering. As soon as hot liquid is filled in, the coloured imprint appears.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "SU-MUG",
+        "label": "Macma method SU-MUG",
+        "labelRo": "Metodă Macma SU-MUG",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "83438",
+    "supplierVariantIds": [
+      "8343803"
+    ],
     "price": 2.94,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1840,7 +2552,7 @@
       "https://macma.ro/products/jpg/M/8343803_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8343803_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1862,8 +2574,19 @@
     "summary": "Retro cup made of enamel has a capacity of 300 ml. The cup can be finished allover in sublimation printing, photo prints are also possible.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "SU",
+        "label": "Sublimation",
+        "labelRo": "Sublimare",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "83704",
+    "supplierVariantIds": [
+      "8370406"
+    ],
     "price": 2.94,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1879,7 +2602,7 @@
       "https://macma.ro/products/jpg/M/8370406_box.jpg",
       "https://macma.ro/products/jpg/M/8370406_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1901,10 +2624,31 @@
     "summary": "Full color coffee mug made of glossy ceramic and 300ml capacity. Packed in cardboard box.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "83735",
+    "supplierVariantIds": [
+      "8373504",
+      "8373505",
+      "8373509",
+      "8373503",
+      "8373507"
+    ],
     "price": 2.13,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1935,7 +2679,7 @@
       "https://macma.ro/products/jpg/M/8373507_4.jpg",
       "https://macma.ro/products/jpg/M/8373507_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -1974,10 +2718,27 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "83762",
+    "supplierVariantIds": [
+      "8376207"
+    ],
     "price": 8.16,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1989,7 +2750,7 @@
       "https://macma.ro/products/jpg/M/8376207_5.jpg",
       "https://macma.ro/products/jpg/M/8376207_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2012,10 +2773,29 @@
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "83769",
+    "supplierVariantIds": [
+      "8376905",
+      "8376904",
+      "8376907"
+    ],
     "price": 3.89,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2041,7 +2821,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/8376907_lifestyle_1.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8376907_lifestyle_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -2071,8 +2851,19 @@
     "summary": "Large ceramic mug with a fluted pattern and a capacity of 400ml.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "83841",
+    "supplierVariantIds": [
+      "8384106"
+    ],
     "price": 3.16,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2087,7 +2878,7 @@
       "https://macma.ro/products/jpg/M/8384106_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8384106_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2111,8 +2902,25 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      },
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "83842",
+    "supplierVariantIds": [
+      "8384266"
+    ],
     "price": 2.82,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2127,7 +2935,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/8384266_lifestyle_3.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8384266_lifestyle_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2149,8 +2957,24 @@
     "summary": "Nostalgic - espresso mug made of ceramic with a black frame and a capacity of 60 ml.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "83843",
+    "supplierVariantIds": [
+      "8384306",
+      "8384303",
+      "8384304",
+      "8384307",
+      "8384309",
+      "8384305"
+    ],
     "price": 1.62,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2188,7 +3012,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/8384305_lifestyle_4.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8384305_lifestyle_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -2230,10 +3054,27 @@
     "summary": "Double-walled CrisMa espresso cup with a capacity of 50ml. Keeps drinks hot and cold!",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "83848",
+    "supplierVariantIds": [
+      "8384866"
+    ],
     "price": 1.59,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2248,7 +3089,7 @@
       "https://macma.ro/products/jpg/M/8384866_7.jpg",
       "https://macma.ro/products/jpg/M/8384866_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2270,10 +3111,27 @@
     "summary": "Double-walled CrisMa glass cup made of borosilicate glass with a capacity of 200ml. Keeps drinks hot and cold!",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "83849",
+    "supplierVariantIds": [
+      "8384966"
+    ],
     "price": 2.83,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2288,7 +3146,7 @@
       "https://macma.ro/products/jpg/M/8384966_7.jpg",
       "https://macma.ro/products/jpg/M/8384966_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2310,10 +3168,27 @@
     "summary": "Double-walled CrisMa glass cup made of borosilicate glass with a capacity of 330ml. Keeps drinks hot and cold!",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "83850",
+    "supplierVariantIds": [
+      "8385066"
+    ],
     "price": 3.13,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2328,7 +3203,7 @@
       "https://macma.ro/products/jpg/M/8385066_7.jpg",
       "https://macma.ro/products/jpg/M/8385066_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2350,10 +3225,30 @@
     "summary": "Large enamel mug with handle and a capacity of 550ml.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "83857",
+    "supplierVariantIds": [
+      "8385703",
+      "8385704",
+      "8385705",
+      "8385706"
+    ],
     "price": 3.48,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2375,7 +3270,7 @@
       "https://macma.ro/products/jpg/M/8385706_2.jpg",
       "https://macma.ro/products/jpg/M/8385706_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -2409,11 +3304,37 @@
     "summary": "Double-walled stainless steel mug with handle, bamboo lid and 300ml capacity.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
+      "pad-screen",
       "fiber-laser"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      },
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "83928",
+    "supplierVariantIds": [
+      "8392803",
+      "8392804",
+      "8392806",
+      "8392805"
+    ],
     "price": 6.7,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2443,7 +3364,7 @@
       "https://macma.ro/products/jpg/M/8392805_4.jpg",
       "https://macma.ro/products/jpg/M/8392805_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -2478,10 +3399,33 @@
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      },
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "83967",
+    "supplierVariantIds": [
+      "8396706"
+    ],
     "price": 6.96,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2490,7 +3434,7 @@
       "https://macma.ro/products/jpg/M/8396706_1.jpg",
       "https://macma.ro/products/jpg/M/8396706_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2513,10 +3457,27 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "83973",
+    "supplierVariantIds": [
+      "8397303"
+    ],
     "price": 2.26,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2524,7 +3485,7 @@
       "https://macma.ro/products/jpg/M/8397303_0.jpg",
       "https://macma.ro/products/jpg/M/8397303_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2547,10 +3508,27 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "83992",
+    "supplierVariantIds": [
+      "8399207"
+    ],
     "price": 2.79,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2563,7 +3541,7 @@
       "https://macma.ro/products/jpg/M/8399207_5.jpg",
       "https://macma.ro/products/jpg/M/8399207_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2585,11 +3563,36 @@
     "summary": "Double-walled espresso cup made of stainless steel with a capacity of 60ml.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
+      "pad-screen",
       "fiber-laser"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "84425",
+    "supplierVariantIds": [
+      "8442503",
+      "8442506",
+      "8442507"
+    ],
     "price": 3.48,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2607,7 +3610,7 @@
       "https://macma.ro/products/jpg/M/8442507_2.jpg",
       "https://macma.ro/products/jpg/M/8442507_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -2639,8 +3642,19 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "84622",
+    "supplierVariantIds": [
+      "8462295"
+    ],
     "price": 9.57,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2650,7 +3664,7 @@
       "https://macma.ro/products/jpg/M/8462295_2.jpg",
       "https://macma.ro/products/jpg/M/8462295_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2674,8 +3688,19 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "84946",
+    "supplierVariantIds": [
+      "8494695"
+    ],
     "price": 9.65,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2690,7 +3715,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/8494695_lifestyle_4.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8494695_lifestyle_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2714,8 +3739,19 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "84947",
+    "supplierVariantIds": [
+      "8494795"
+    ],
     "price": 6.9,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2725,7 +3761,7 @@
       "https://macma.ro/products/jpg/M/8494795_2.jpg",
       "https://macma.ro/products/jpg/M/8494795_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2749,8 +3785,19 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "84949",
+    "supplierVariantIds": [
+      "8494995"
+    ],
     "price": 4.21,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2771,7 +3818,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/8494995_lifestyle_6.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8494995_lifestyle_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2793,10 +3840,30 @@
     "summary": "Ceramic mug with integrated spoon in the handle (250 ml), colour-matching with the 4 available inner colours of the mug.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "85095",
+    "supplierVariantIds": [
+      "8509504",
+      "8509509",
+      "8509508",
+      "8509510"
+    ],
     "price": 2.65,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2820,7 +3887,7 @@
       "https://macma.ro/products/jpg/M/8509510_box.jpg",
       "https://macma.ro/products/jpg/M/8509510_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -2856,8 +3923,19 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "85175",
+    "supplierVariantIds": [
+      "8517595"
+    ],
     "price": 12.23,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2871,7 +3949,7 @@
       "https://macma.ro/products/jpg/M/8517595_6.jpg",
       "https://macma.ro/products/jpg/M/8517595_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2893,10 +3971,35 @@
     "summary": "Ceramic mug with a ribbed lower section and a capacity of 300 ml. Matte finish, comfortable to hold, and ideal for hot beverages.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": [
+          "3,5 x 3,5"
+        ]
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": [
+          "3,5 x 3,5"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "85361",
+    "supplierVariantIds": [
+      "8536103",
+      "8536105",
+      "8536107",
+      "8536129",
+      "8536144"
+    ],
     "price": 2.75,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2924,7 +4027,7 @@
       "https://macma.ro/products/jpg/M/8536144_2.jpg",
       "https://macma.ro/products/jpg/M/8536144_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -2964,8 +4067,25 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": [
+          "4 x 4"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "85497",
+    "supplierVariantIds": [
+      "8549705",
+      "8549707",
+      "8549709",
+      "8549710",
+      "8549744"
+    ],
     "price": 3.61,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2995,7 +4115,7 @@
       "https://macma.ro/products/jpg/M/8549744_2.jpg",
       "https://macma.ro/products/jpg/M/8549744_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -3035,8 +4155,25 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": [
+          "4 x 4"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "85498",
+    "supplierVariantIds": [
+      "8549805",
+      "8549807",
+      "8549809",
+      "8549810",
+      "8549844"
+    ],
     "price": 5.82,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -3079,7 +4216,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/8549844_lifestyle_5.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8549844_lifestyle_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -3117,11 +4254,37 @@
     "summary": "Plastic drinking cup with straw, reinforced grip zone, and 660ml capacity.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
+      "pad-screen",
       "co2"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": [
+          "3,5 x 3,5"
+        ]
+      },
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": [
+          "3,5 x 3,5"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "85529",
+    "supplierVariantIds": [
+      "8552906",
+      "8552909",
+      "8552912",
+      "8552913",
+      "8552924",
+      "8552944"
+    ],
     "price": 3.86,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -3141,7 +4304,7 @@
       "https://macma.ro/products/jpg/M/8552944_0.jpg",
       "https://macma.ro/products/jpg/M/8552944_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -3183,10 +4346,27 @@
     "summary": "Classical coffee mug made of glossy ceramic with a capacity of 300 ml.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "87888",
+    "supplierVariantIds": [
+      "8788806"
+    ],
     "price": 1.38,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -3199,7 +4379,7 @@
       "https://macma.ro/products/jpg/M/8788806_box.jpg",
       "https://macma.ro/products/jpg/M/8788806_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3221,17 +4401,30 @@
     "summary": "Single box for item 87888",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": [
+          "8 × 5"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "87888V",
+    "supplierVariantIds": [
+      "87888V"
+    ],
     "price": 0.48,
     "priceFrom": false,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/87888v_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3253,10 +4446,27 @@
     "summary": "Coffee mug transparently frosted in white (300 ml). This coffee mug is a must on every desk.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "87981",
+    "supplierVariantIds": [
+      "8798166"
+    ],
     "price": 1.23,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -3272,7 +4482,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/8798166_lifestyle_3.jpg",
       "https://macma.ro/products/jpg/M/8798166_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3294,10 +4504,31 @@
     "summary": "Porcelain cup with a capacity of 300ml and coloured outer part in many nice colours.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "88704",
+    "supplierVariantIds": [
+      "8870405",
+      "8870408",
+      "8870403",
+      "8870404",
+      "8870429"
+    ],
     "price": 2.78,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -3320,7 +4551,7 @@
       "https://macma.ro/products/jpg/M/8870429_1.jpg",
       "https://macma.ro/products/jpg/M/8870429_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -3358,15 +4589,26 @@
     "summary": "Ceramic coffee cup with coloured inner part and white outer part with a capacity of 300ml. Your logo will be printed via ceramic transfer on the mug.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "88705",
+    "supplierVariantIds": [
+      "8870508"
+    ],
     "price": 1.92,
     "priceFrom": false,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/8870508_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3388,8 +4630,19 @@
     "summary": "2-in-1 tea set with a tea cup (200ml), teapot (400ml) and saucer made of high-quality porcelain for the best tea enjoyment.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "88854",
+    "supplierVariantIds": [
+      "8885406"
+    ],
     "price": 10.37,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -3406,7 +4659,7 @@
       "https://macma.ro/products/jpg/M/8885406_8.jpg",
       "https://macma.ro/products/jpg/M/8885406_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3428,8 +4681,21 @@
     "summary": "Vanilla Season gift box with two Bohemia Crystal champagne glasses (200 ml) and space for a bottle of sparkling wine of your own choise.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": [
+          "1,5 × 2"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "H5400102IP",
+    "supplierVariantIds": [
+      "H5400102IP1"
+    ],
     "price": 13.28,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -3439,7 +4705,7 @@
       "https://macma.ro/products/jpg/PSV/VANILLA/h5400102ip1_3.jpg",
       "https://macma.ro/products/jpg/PSV/VANILLA/h5400102ip1_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3461,10 +4727,31 @@
     "summary": "Vanilla Season ceramic mugs for coffee or tea in white colour. The mugs are offered in three sizes. You can choose an 80 ml version for espresso, a 250 ml version for coffee or tea or a 330 ml mug for the perfect latt...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": [
+          "2 × 2"
+        ]
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": [
+          "2 × 2"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "RAIPUR 250",
+    "supplierVariantIds": [
+      "H0100900AJ3"
+    ],
     "price": 3.82,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -3476,7 +4763,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/h0100900aj3_5.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/h0100900aj3_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3498,10 +4785,31 @@
     "summary": "Vanilla Season ceramic mugs for coffee or tea in white colour. The mugs are offered in three sizes. You can choose an 80 ml version for espresso, a 250 ml version for coffee or tea or a 330 ml mug for the perfect latt...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": [
+          "2 × 2"
+        ]
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": [
+          "2 × 2"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "RAIPUR 330",
+    "supplierVariantIds": [
+      "H0101000AJ3"
+    ],
     "price": 4.32,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -3513,7 +4821,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/h0101000aj3_6.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/h0101000aj3_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3535,10 +4843,31 @@
     "summary": "Vanilla Season ceramic mugs for coffee or tea in white colour. The mugs are offered in three sizes. You can choose an 80 ml version for espresso, a 250 ml version for coffee or tea or a 330 ml mug for the perfect latt...",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": [
+          "1,5 × 1,5"
+        ]
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": [
+          "1,5 × 1,5"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "RAIPUR 80",
+    "supplierVariantIds": [
+      "H0100800AJ3"
+    ],
     "price": 3.33,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -3549,7 +4878,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/h0100800aj3_4.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/h0100800aj3_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3572,10 +4901,39 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": [
+          "3 × 3"
+        ]
+      },
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": [
+          "3 × 3"
+        ]
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": [
+          "3 × 3"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "WAINUI",
+    "supplierVariantIds": [
+      "H1200300ZH1"
+    ],
     "price": 18.02,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -3586,7 +4944,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/h1200300zh1_4.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/h1200300zh1_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3608,8 +4966,21 @@
     "summary": "Set of two elegant 85 ml volume glasses Bohemia Crystal for grappa or other aperitif which shouldn’t be missing in any household. The shape of the glass resembles a blooming tulip. This shape helps to accumulate the a...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": [
+          "1,2 × 1,2"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "ZHH130161",
+    "supplierVariantIds": [
+      "H1301600ZH1"
+    ],
     "price": 10.11,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -3619,7 +4990,7 @@
       "https://macma.ro/products/jpg/PSV/VANILLA/h1301600zh1_3.jpg",
       "https://macma.ro/products/jpg/PSV/VANILLA/h1301600zh1_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

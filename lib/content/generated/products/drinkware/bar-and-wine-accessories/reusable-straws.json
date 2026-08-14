@@ -6,8 +6,21 @@
     "summary": "10 two-coloured straws made of cardboard in a cardboard packaging. Ideal for cocktails and long drinks.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "81191",
+    "supplierVariantIds": [
+      "8119103",
+      "8119105",
+      "8119104"
+    ],
     "price": 0.33,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -31,7 +44,7 @@
       "https://macma.ro/products/jpg/M/8119104_6.jpg",
       "https://macma.ro/products/jpg/M/8119104_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -61,10 +74,31 @@
     "summary": "Set of 100 paper drink straws.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "81491",
+    "supplierVariantIds": [
+      "8149101",
+      "8149103",
+      "8149106",
+      "8149136",
+      "8149146"
+    ],
     "price": 2.9,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -95,7 +129,7 @@
       "https://macma.ro/products/jpg/M/8149146_4.jpg",
       "https://macma.ro/products/jpg/M/8149146_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -135,8 +169,25 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG1",
+        "label": "CO₂ engraving 1",
+        "labelRo": "Gravură CO₂ 1",
+        "printSizes": []
+      },
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "81599",
+    "supplierVariantIds": [
+      "8159966"
+    ],
     "price": 0.14,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -149,7 +200,7 @@
       "https://macma.ro/products/jpg/M/8159966_7.jpg",
       "https://macma.ro/products/jpg/M/8159966_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -173,8 +224,25 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG1",
+        "label": "CO₂ engraving 1",
+        "labelRo": "Gravură CO₂ 1",
+        "printSizes": []
+      },
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "81815",
+    "supplierVariantIds": [
+      "8181566"
+    ],
     "price": 0.66,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -187,7 +255,7 @@
       "https://macma.ro/products/jpg/M/8181566_7.jpg",
       "https://macma.ro/products/jpg/M/8181566_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

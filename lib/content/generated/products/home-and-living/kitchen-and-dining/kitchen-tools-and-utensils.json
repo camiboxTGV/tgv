@@ -6,8 +6,21 @@
     "summary": "Elegant 1,2 l Bohemia Crystal glass carafe for spring water or fresh lemonade for the hot summer days. Packed in a Vanilla Season gift box.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": [
+          "3 × 3"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "1200100ZH1",
+    "supplierVariantIds": [
+      "H1200100ZH1"
+    ],
     "price": 6.49,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -16,7 +29,7 @@
       "https://macma.ro/products/jpg/PSV/VANILLA/h1200100zh1_2.jpg",
       "https://macma.ro/products/jpg/PSV/VANILLA/h1200100zh1_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -40,8 +53,19 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "3200100AJ3",
+    "supplierVariantIds": [
+      "H3200100AJ3"
+    ],
     "price": 10.58,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -51,7 +75,7 @@
       "https://macma.ro/products/jpg/PSV/VANILLA/h3200100aj3_3.jpg",
       "https://macma.ro/products/jpg/PSV/VANILLA/h3200100aj3_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -73,11 +97,28 @@
     "summary": "Non-woven children's cooking set consisting of a practical chef's hat and matching apron.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "54755",
+    "supplierVariantIds": [
+      "5475506"
+    ],
     "price": 1.11,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -92,7 +133,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/5475506_lifestyle_4.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/5475506_lifestyle_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -114,11 +155,31 @@
     "summary": "Serving apron made of 180g/m² Eco Tex standard 100 cotton in varied colours.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "61381",
+    "supplierVariantIds": [
+      "6138103",
+      "6138144",
+      "6138106",
+      "6138105"
+    ],
     "price": 2.46,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -134,7 +195,7 @@
       "https://macma.ro/products/jpg/M/6138105_1.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6138105_lifestyle_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -168,11 +229,31 @@
     "summary": "Cooking apron made of 180g/m² Eco Tex standard 100 cotton in varied colours.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "61383",
+    "supplierVariantIds": [
+      "6138344",
+      "6138303",
+      "6138306",
+      "6138305"
+    ],
     "price": 3.48,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -189,7 +270,7 @@
       "https://macma.ro/products/jpg/M/6138305_1.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6138305_lifestyle_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -223,10 +304,31 @@
     "summary": "Cheese set in a sturdy cardboard gift box, with one slate cutting/presentation plate, one small and one flat cheese knife, and one cheese fork made of stainless steel.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": [
+          "8 × 4"
+        ]
+      },
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": [
+          "8 × 4"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "80190",
+    "supplierVariantIds": [
+      "8019077"
+    ],
     "price": 12.67,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -241,7 +343,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/8019077_lifestyle_6.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8019077_lifestyle_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -263,8 +365,21 @@
     "summary": "Chocolate fondue set made of porcelain, including 2 fondue forks. Dip fruits or biscuits into the chocolate and enjoy this beautiful gift set.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": [
+          "50 mm × 50 mm"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "80554",
+    "supplierVariantIds": [
+      "8055406"
+    ],
     "price": 11.67,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -274,7 +389,7 @@
       "https://macma.ro/products/jpg/M/8055406_2.jpg",
       "https://macma.ro/products/jpg/M/8055406_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -298,8 +413,19 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "80558",
+    "supplierVariantIds": [
+      "8055803"
+    ],
     "price": 11.82,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -313,7 +439,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/8055803_lifestyle_3.jpg",
       "https://macma.ro/products/jpg/M/8055803_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -335,11 +461,27 @@
     "summary": "2-pieces pizza set consisting of a rolling knife and a regular knife, both with plastic handle and stainless steel cutting edge. There is a delicious pizza recipe printed inside the cardboard packaging.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "80560",
+    "supplierVariantIds": [
+      "8056003"
+    ],
     "price": 5.06,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -353,7 +495,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/8056003_lifestyle_6.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8056003_lifestyle_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -375,11 +517,35 @@
     "summary": "Cotton apron in different colours. 170 g/m²",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "80664",
+    "supplierVariantIds": [
+      "8066403",
+      "8066406",
+      "8066405",
+      "8066444",
+      "8066429",
+      "8066407",
+      "8066409",
+      "8066413"
+    ],
     "price": 2.34,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -404,7 +570,7 @@
       "https://macma.ro/products/jpg/M/8066413_0.jpg",
       "https://macma.ro/products/jpg/M/8066413_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 8,
     "colorCount": 8,
     "sizeCount": 0,
@@ -456,8 +622,19 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "82296",
+    "supplierVariantIds": [
+      "8229613"
+    ],
     "price": 5.64,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -473,7 +650,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/8229613_lifestyle_7.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8229613_lifestyle_8.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -497,8 +674,19 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "82442",
+    "supplierVariantIds": [
+      "8244213"
+    ],
     "price": 5.46,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -515,7 +703,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/8244213_lifestyle_8.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8244213_lifestyle_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -539,8 +727,19 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "82525",
+    "supplierVariantIds": [
+      "8252513"
+    ],
     "price": 0.37,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -550,7 +749,7 @@
       "https://macma.ro/products/jpg/M/8252513_2.jpg",
       "https://macma.ro/products/jpg/M/8252513_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -572,11 +771,29 @@
     "summary": "Cooking apron made of cotton (340g/m²) with two front pockets and adjustable straps made of colour-contrasting PU.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "82963",
+    "supplierVariantIds": [
+      "8296303",
+      "8296313"
+    ],
     "price": 5.36,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -590,7 +807,7 @@
       "https://macma.ro/products/jpg/M/8296313_2.jpg",
       "https://macma.ro/products/jpg/M/8296313_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -618,8 +835,19 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "83130",
+    "supplierVariantIds": [
+      "8313013"
+    ],
     "price": 0.29,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -628,7 +856,7 @@
       "https://macma.ro/products/jpg/M/8313013_2.jpg",
       "https://macma.ro/products/jpg/M/8313013_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -650,11 +878,27 @@
     "summary": "Robust, washable table mat made of PVC. Protects against scratches, stains and it's also decorative on any table.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "83131",
+    "supplierVariantIds": [
+      "8313107"
+    ],
     "price": 2.09,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -663,7 +907,7 @@
       "https://macma.ro/products/jpg/M/8313107_2.jpg",
       "https://macma.ro/products/jpg/M/8313107_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -686,10 +930,27 @@
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
       "co2",
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "83136",
+    "supplierVariantIds": [
+      "8313613"
+    ],
     "price": 1.96,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -698,7 +959,7 @@
       "https://macma.ro/products/jpg/M/8313613_2.jpg",
       "https://macma.ro/products/jpg/M/8313613_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -721,10 +982,27 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "83160",
+    "supplierVariantIds": [
+      "8316007"
+    ],
     "price": 13.47,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -739,7 +1017,7 @@
       "https://macma.ro/products/jpg/M/8316007_7.jpg",
       "https://macma.ro/products/jpg/M/8316007_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -762,13 +1040,30 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "83161",
+    "supplierVariantIds": [
+      "8316113"
+    ],
     "price": 2.07,
     "priceFrom": false,
-    "stockLevel": "out-of-stock",
+    "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/8316113_1.jpg",
       "https://macma.ro/products/jpg/M/8316113_2.jpg",
@@ -777,7 +1072,7 @@
       "https://macma.ro/products/jpg/M/8316113_5.jpg",
       "https://macma.ro/products/jpg/M/8316113_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -801,8 +1096,25 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "83163",
+    "supplierVariantIds": [
+      "8316313"
+    ],
     "price": 5.06,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -812,7 +1124,7 @@
       "https://macma.ro/products/jpg/M/8316313_4.jpg",
       "https://macma.ro/products/jpg/M/8316313_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -834,10 +1146,22 @@
     "summary": "8-piece placemat with four large and four small PVC placemats for cutlery, drinks and accessories.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "83177",
+    "supplierVariantIds": [
+      "8317703",
+      "8317701"
+    ],
     "price": 8.13,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -861,7 +1185,7 @@
       "https://macma.ro/products/jpg/M/8317701_5.jpg",
       "https://macma.ro/products/jpg/M/8317701_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -888,11 +1212,34 @@
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "83187",
+    "supplierVariantIds": [
+      "8318713"
+    ],
     "price": 20.26,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -905,7 +1252,7 @@
       "https://macma.ro/products/jpg/M/8318713_6.jpg",
       "https://macma.ro/products/jpg/M/8318713_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -928,10 +1275,27 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "83188",
+    "supplierVariantIds": [
+      "8318813"
+    ],
     "price": 11.39,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -946,7 +1310,7 @@
       "https://macma.ro/products/jpg/M/8318813_7.jpg",
       "https://macma.ro/products/jpg/M/8318813_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -970,8 +1334,19 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "83243",
+    "supplierVariantIds": [
+      "8324313"
+    ],
     "price": 10.32,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -984,7 +1359,7 @@
       "https://macma.ro/products/jpg/M/8324313_5.jpg",
       "https://macma.ro/products/jpg/M/8324313_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1007,11 +1382,40 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "83582",
+    "supplierVariantIds": [
+      "8358213"
+    ],
     "price": 2.58,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1022,7 +1426,7 @@
       "https://macma.ro/products/jpg/M/8358213_2.jpg",
       "https://macma.ro/products/jpg/M/8358213_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1046,8 +1450,19 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "83593",
+    "supplierVariantIds": [
+      "8359313"
+    ],
     "price": 3.95,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -1057,7 +1472,7 @@
       "https://macma.ro/products/jpg/M/8359313_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8359313_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1081,8 +1496,19 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "83633",
+    "supplierVariantIds": [
+      "8363313"
+    ],
     "price": 13.42,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1093,7 +1519,7 @@
       "https://macma.ro/products/jpg/M/8363313_3.jpg",
       "https://macma.ro/products/jpg/M/8363313_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1116,10 +1542,27 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "83711",
+    "supplierVariantIds": [
+      "8371113"
+    ],
     "price": 4.04,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1134,7 +1577,7 @@
       "https://macma.ro/products/jpg/M/8371113_6.jpg",
       "https://macma.ro/products/jpg/M/8371113_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1157,10 +1600,27 @@
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "83712",
+    "supplierVariantIds": [
+      "8371213"
+    ],
     "price": 5.26,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1175,7 +1635,7 @@
       "https://macma.ro/products/jpg/M/8371213_6.jpg",
       "https://macma.ro/products/jpg/M/8371213_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1197,8 +1657,19 @@
     "summary": "Ceramic bowl with a fluted pattern and a capacity of 550 ml. An eye-catcher and ideal for breakfast cereals, snacks, bowls and much more.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "83840",
+    "supplierVariantIds": [
+      "8384006"
+    ],
     "price": 4.07,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1214,7 +1685,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/8384006_lifestyle_3.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8384006_lifestyle_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1236,12 +1707,35 @@
     "summary": "10 square coasters made of RPET felt in a bamboo stand.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print",
+      "textile-transfer",
+      "pad-screen",
       "co2"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      },
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "83862",
+    "supplierVariantIds": [
+      "8386277"
+    ],
     "price": 3.39,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1253,7 +1747,7 @@
       "https://macma.ro/products/jpg/M/8386277_4.jpg",
       "https://macma.ro/products/jpg/M/8386277_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1277,8 +1771,19 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "83995",
+    "supplierVariantIds": [
+      "8399513"
+    ],
     "price": 1.26,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1286,7 +1791,7 @@
       "https://macma.ro/products/jpg/M/8399513_0.jpg",
       "https://macma.ro/products/jpg/M/8399513_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1309,10 +1814,27 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "84705",
+    "supplierVariantIds": [
+      "8470513"
+    ],
     "price": 0.87,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1322,7 +1844,7 @@
       "https://macma.ro/products/jpg/M/8470513_1.jpg",
       "https://macma.ro/products/jpg/M/8470513_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1346,8 +1868,19 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "84728",
+    "supplierVariantIds": [
+      "8472813"
+    ],
     "price": 2.4,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1356,7 +1889,7 @@
       "https://macma.ro/products/jpg/M/8472813_0.jpg",
       "https://macma.ro/products/jpg/M/8472813_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1380,8 +1913,19 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "84731",
+    "supplierVariantIds": [
+      "8473113"
+    ],
     "price": 2.02,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1391,7 +1935,7 @@
       "https://macma.ro/products/jpg/M/8473113_1.jpg",
       "https://macma.ro/products/jpg/M/8473113_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1415,8 +1959,19 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "84973",
+    "supplierVariantIds": [
+      "8497395"
+    ],
     "price": 64.23,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1442,7 +1997,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/8497395_lifestyle_8.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8497395_lifestyle_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1466,8 +2021,19 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "84977",
+    "supplierVariantIds": [
+      "8497795"
+    ],
     "price": 75.85,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1483,7 +2049,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/8497795_lifestyle_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8497795_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1507,8 +2073,19 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "84978",
+    "supplierVariantIds": [
+      "8497895"
+    ],
     "price": 60.78,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1525,7 +2102,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/8497895_lifestyle_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8497895_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1549,8 +2126,21 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": [
+          "8 x 4"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "85613",
+    "supplierVariantIds": [
+      "8561307"
+    ],
     "price": 11.06,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1566,7 +2156,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/8561307_lifestyle_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8561307_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1589,10 +2179,27 @@
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "86016",
+    "supplierVariantIds": [
+      "8601607"
+    ],
     "price": 2.63,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1602,7 +2209,7 @@
       "https://macma.ro/products/jpg/M/8601607_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8601607_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1624,15 +2231,26 @@
     "summary": "For the gourmet's kitchen: the porcelain pot is not only very easy to clean (dishwasher-safe and suitable for microwave), but can also be used for serving food thanks to its nice design. The decorative heat protection...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "M",
+        "label": "Macma method M",
+        "labelRo": "Metodă Macma M",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "88894",
+    "supplierVariantIds": [
+      "8889411"
+    ],
     "price": 2.02,
     "priceFrom": false,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/8889411_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1654,10 +2272,21 @@
     "summary": "Refillable \"creme brulee\" torch with regulable flame size and kids safety.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "90045",
+    "supplierVariantIds": [
+      "9004503"
+    ],
     "price": 2.9,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1666,7 +2295,7 @@
       "https://macma.ro/products/jpg/M/9004503_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/9004503_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1687,9 +2316,25 @@
     "category": "home-and-living/kitchen-and-dining/kitchen-tools-and-utensils",
     "summary": "Electronic flambé lighter with adjustable flame setting for easy flambéing of food and many other possible uses. The lighter is refillable.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
-    "personalizations": [],
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": [
+          "4 x 1,2"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "95268",
+    "supplierVariantIds": [
+      "9526803",
+      "9526806"
+    ],
     "price": 2.43,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1705,7 +2350,7 @@
       "https://macma.ro/products/jpg/M/9526806_3.jpg",
       "https://macma.ro/products/jpg/M/9526806_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -1731,10 +2376,24 @@
     "summary": "CrisMa stick lighter with child safety lock and individually adjustable flame offers safe and precise ignition. Even hard-to-reach spots are no longer a problem.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "3 x 1"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "95269",
+    "supplierVariantIds": [
+      "9526903",
+      "9526906"
+    ],
     "price": 1.05,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1747,7 +2406,7 @@
       "https://macma.ro/products/jpg/M/9526906_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/9526906_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -1775,8 +2434,21 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": [
+          "8 × 2"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "AJH250013",
+    "supplierVariantIds": [
+      "H2500100AJ3"
+    ],
     "price": 21.58,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -1789,7 +2461,7 @@
       "https://macma.ro/products/jpg/PSV/VANILLA/h2500100aj3_6.jpg",
       "https://macma.ro/products/jpg/PSV/VANILLA/h2500100aj3_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1813,8 +2485,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": [
+          "board 7×4 knife and fork 2,5×1"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "AJH320063",
+    "supplierVariantIds": [
+      "H3200600AJ3"
+    ],
     "price": 15.35,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -1826,7 +2511,7 @@
       "https://macma.ro/products/jpg/PSV/VANILLA/h3200600aj3_5.jpg",
       "https://macma.ro/products/jpg/PSV/VANILLA/h3200600aj3_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1850,8 +2535,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "2,5 × 1,2"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "AJH680013",
+    "supplierVariantIds": [
+      "H6800100AJ3"
+    ],
     "price": 14.77,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -1865,7 +2563,7 @@
       "https://macma.ro/products/jpg/PSV/VANILLA/h6800100aj3_7.jpg",
       "https://macma.ro/products/jpg/PSV/VANILLA/h6800100aj3_8.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1889,8 +2587,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "corkscrew 2×0,7, stick 9×0,7"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "AJH720023",
+    "supplierVariantIds": [
+      "H7200200AJ3"
+    ],
     "price": 9.97,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -1902,7 +2613,7 @@
       "https://macma.ro/products/jpg/PSV/VANILLA/h7200200aj3_5.jpg",
       "https://macma.ro/products/jpg/PSV/VANILLA/h7200200aj3_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1924,8 +2635,12 @@
     "summary": "A multifunctional folding pot mat that you will love in the kitchen. The mat is made of rubber wood and will protect your surfaces from hot pots. Due to the pot being placed on the four spread legs of the mat, the coo...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "H240050",
+    "supplierVariantIds": [
+      "H2400500AJ3"
+    ],
     "price": 5.24,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -1941,7 +2656,7 @@
       "https://macma.ro/products/jpg/PSV/VANILLA/h2400500aj3_h_0.jpg",
       "https://macma.ro/products/jpg/PSV/VANILLA/h2400500aj3_i_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1962,8 +2677,12 @@
     "summary": "Rechargeable lighter which shouldn’t be missing in any household. The lighter works on the basis of electric discharge instead of a flame. Charging can be done by using the micro USB-C port of the lighter, allowing it...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "H680040",
+    "supplierVariantIds": [
+      "H6800400AJ3"
+    ],
     "price": 13.49,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -1982,7 +2701,7 @@
       "https://macma.ro/products/jpg/PSV/VANILLA/h6800400aj3_k.jpg",
       "https://macma.ro/products/jpg/PSV/VANILLA/h6800400aj3_l.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2003,10 +2722,23 @@
     "summary": "Vanilla Season glass dispenser for a kitchen dressings. It has two original compartments, one for oil (450 ml) and the other for vinegar (90 ml). Thanks to the elegant shape, it will stand out on any table. It is made...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": [
+          "3 × 1"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "NAMI",
+    "supplierVariantIds": [
+      "H2201700AJ3"
+    ],
     "price": 7.65,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -2017,7 +2749,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/h2201700aj3_3.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/h2201700aj3_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2041,8 +2773,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": [
+          "2 × 2"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "SABARI",
+    "supplierVariantIds": [
+      "H2201900AJ3"
+    ],
     "price": 23,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -2056,7 +2801,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/h2201900aj3_7.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/h2201900aj3_8.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2079,10 +2824,31 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": [
+          "2,5 × 2,5"
+        ]
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "2,5 × 2,5"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "TIRSULI",
+    "supplierVariantIds": [
+      "H2201800AJ3"
+    ],
     "price": 7.65,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -2097,7 +2863,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/h2201800aj3_7.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/h2201800aj3_8.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

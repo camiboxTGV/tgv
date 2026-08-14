@@ -6,10 +6,31 @@
     "summary": "Creative set consisting of 6 erasable wax crayons, eraser, and coloring pad. Ideal for children and creative minds, compact and ready for use at home or on the go.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "4 x 4"
+        ]
+      },
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": [
+          "4 x 4"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "15430",
+    "supplierVariantIds": [
+      "1543013"
+    ],
     "price": 1.05,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -33,7 +54,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/1543013_lifestyle_4.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/1543013_lifestyle_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -55,10 +76,21 @@
     "summary": "The Office Eagle - golf set with a wooden putter. Whether at the office or at home - improve your skills anywhere!",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "21100",
+    "supplierVariantIds": [
+      "2110003"
+    ],
     "price": 27.96,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -70,7 +102,7 @@
       "https://macma.ro/products/jpg/M/2110003_5.jpg",
       "https://macma.ro/products/jpg/M/2110003_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -94,8 +126,19 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG0",
+        "label": "CO₂ engraving 0",
+        "labelRo": "Gravură CO₂ 0",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "22718",
+    "supplierVariantIds": [
+      "2271806"
+    ],
     "price": 0.74,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -104,7 +147,7 @@
       "https://macma.ro/products/jpg/M/2271806_2.jpg",
       "https://macma.ro/products/jpg/M/2271806_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -126,10 +169,27 @@
     "summary": "Colouring book with 12 coloured pencils and 40 pages (12 pages with motives to colour, 28 blank pages).",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "23590",
+    "supplierVariantIds": [
+      "2359013"
+    ],
     "price": 1.45,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -154,7 +214,7 @@
       "https://macma.ro/products/jpg/M/2359013_8.jpg",
       "https://macma.ro/products/jpg/M/2359013_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -176,11 +236,28 @@
     "summary": "Children's colouring set with 12 coloured pencils, an eraser, a sharpener and 50 different motifs to colour in.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "24378",
+    "supplierVariantIds": [
+      "2437877"
+    ],
     "price": 3.89,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -190,7 +267,7 @@
       "https://macma.ro/products/jpg/M/2437877_2.jpg",
       "https://macma.ro/products/jpg/M/2437877_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -212,11 +289,28 @@
     "summary": "White slider puzzle perfect for digital print - let your customer create the perfect message.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "50178",
+    "supplierVariantIds": [
+      "5017806"
+    ],
     "price": 0.35,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -227,7 +321,7 @@
       "https://macma.ro/products/jpg/M/5017806_3.jpg",
       "https://macma.ro/products/jpg/M/5017806_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -249,8 +343,19 @@
     "summary": "Beach bucket with sand accessories for kids.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "50390",
+    "supplierVariantIds": [
+      "50390MC"
+    ],
     "price": 1.62,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -259,7 +364,7 @@
       "https://macma.ro/products/jpg/M/50390mc_1.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/50390mc_lifestyle_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -281,10 +386,21 @@
     "summary": "Building a dice can be complicated - but relax - think before completing it - or just try.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "50425",
+    "supplierVariantIds": [
+      "5042501"
+    ],
     "price": 1.02,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -297,7 +413,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/5042501_lifestyle_1.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/5042501_lifestyle_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -319,18 +435,35 @@
     "summary": "Small plush teddy bear (child) - a gift that is for sure loved - comes with a separate scarf.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "50450",
+    "supplierVariantIds": [
+      "5045013"
+    ],
     "price": 3.6,
     "priceFrom": false,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/5045013_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -352,11 +485,28 @@
     "summary": "Medium size plush teddy bear (mother) - a gift that is for sure loved - comes with a separate scarf.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "50451",
+    "supplierVariantIds": [
+      "5045101"
+    ],
     "price": 5.14,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -366,7 +516,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/5045101_lifestyle_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/5045101_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -388,18 +538,35 @@
     "summary": "Big plush teddy bear (father) - a gift that is for sure loved - comes with a separate scarf.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "50452",
+    "supplierVariantIds": [
+      "5045201"
+    ],
     "price": 6.23,
     "priceFrom": false,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/5045201_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -421,10 +588,27 @@
     "summary": "Colouring book, comes with 6 colouring pencils, sharpener and eraser. The colouring block comes with 30 sheets, perfect for the young artists.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "50493",
+    "supplierVariantIds": [
+      "5049301"
+    ],
     "price": 1.47,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -444,7 +628,7 @@
       "https://macma.ro/products/jpg/M/5049301_9.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/5049301_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -466,10 +650,21 @@
     "summary": "Classic ludo game made of wood. The game figures are for plugging in, which also ensures play fun on the road.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "50566",
+    "supplierVariantIds": [
+      "5056601"
+    ],
     "price": 2.64,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -482,7 +677,7 @@
       "https://macma.ro/products/jpg/M/5056601_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/5056601_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -504,10 +699,27 @@
     "summary": "Colouring kite for kids. Includes 4 crayons, plastic struts, tails, handler, and nylon cord.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      },
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "50666",
+    "supplierVariantIds": [
+      "5066606"
+    ],
     "price": 1.68,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -516,7 +728,7 @@
       "https://macma.ro/products/jpg/M/5066606_1.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/5066606_lifestyle_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -538,10 +750,21 @@
     "summary": "With this football your brand is an active advantage.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "50711",
+    "supplierVariantIds": [
+      "5071106"
+    ],
     "price": 4.16,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -550,7 +773,7 @@
       "https://macma.ro/products/jpg/M/5071106_1.jpg",
       "https://macma.ro/products/jpg/M/5071106_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -572,8 +795,19 @@
     "summary": "Jenga skills game made of wood. Take the individual blocks out of the built-up tower and put them on top avoiding it collapses.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "50742",
+    "supplierVariantIds": [
+      "5074201"
+    ],
     "price": 1.8,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -586,7 +820,7 @@
       "https://macma.ro/products/jpg/M/5074201_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/5074201_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -608,11 +842,31 @@
     "summary": "Bicolour beach ball made of PVC with white and coloured-transparent segments.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "50914",
+    "supplierVariantIds": [
+      "5091405",
+      "5091404",
+      "5091408",
+      "5091409"
+    ],
     "price": 0.6,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -630,7 +884,7 @@
       "https://macma.ro/products/jpg/M/5091409_1.jpg",
       "https://macma.ro/products/jpg/M/5091409_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -665,10 +919,27 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "50979",
+    "supplierVariantIds": [
+      "5097913"
+    ],
     "price": 0.72,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -679,7 +950,7 @@
       "https://macma.ro/products/jpg/M/5097913_3.jpg",
       "https://macma.ro/products/jpg/M/5097913_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -702,10 +973,27 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "50980",
+    "supplierVariantIds": [
+      "5098013"
+    ],
     "price": 0.66,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -720,7 +1008,7 @@
       "https://macma.ro/products/jpg/M/5098013_4.jpg",
       "https://macma.ro/products/jpg/M/5098013_4eps.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -743,10 +1031,27 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "50988",
+    "supplierVariantIds": [
+      "5098813"
+    ],
     "price": 2.46,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -758,7 +1063,7 @@
       "https://macma.ro/products/jpg/M/5098813_4.jpg",
       "https://macma.ro/products/jpg/M/5098813_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -780,11 +1085,35 @@
     "summary": "Trendy beach ball in fantastic colours with a segment length of 40 cm.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "51029",
+    "supplierVariantIds": [
+      "5102904",
+      "5102906",
+      "5102905",
+      "5102909",
+      "5102911",
+      "5102912",
+      "5102910",
+      "5102908"
+    ],
     "price": 0.71,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -798,7 +1127,7 @@
       "https://macma.ro/products/jpg/M/5102910_0.jpg",
       "https://macma.ro/products/jpg/M/5102908_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 8,
     "colorCount": 8,
     "sizeCount": 0,
@@ -848,11 +1177,35 @@
     "summary": "Bicoloured inflatable beach ball made of PVC with a segment length of 40 cm.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "51051",
+    "supplierVariantIds": [
+      "5105105",
+      "5105108",
+      "5105109",
+      "5105112",
+      "5105129",
+      "5105110",
+      "5105104",
+      "5105111"
+    ],
     "price": 0.57,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -868,7 +1221,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/5105104_lifestyle_1.jpg",
       "https://macma.ro/products/jpg/M/5105111_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 8,
     "colorCount": 8,
     "sizeCount": 0,
@@ -920,8 +1273,19 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "51172",
+    "supplierVariantIds": [
+      "5117203"
+    ],
     "price": 3.77,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -933,7 +1297,7 @@
       "https://macma.ro/products/jpg/M/5117203_box.jpg",
       "https://macma.ro/products/jpg/M/5117203_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -955,11 +1319,28 @@
     "summary": "Classic football in tournament size with chic look.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "51494",
+    "supplierVariantIds": [
+      "5149406"
+    ],
     "price": 5.82,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -968,7 +1349,7 @@
       "https://macma.ro/products/jpg/M/5149406_1.jpg",
       "https://macma.ro/products/jpg/M/5149406_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -992,8 +1373,19 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "51848",
+    "supplierVariantIds": [
+      "51848MC"
+    ],
     "price": 0.9,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1007,7 +1399,7 @@
       "https://macma.ro/products/jpg/M/51848mc_7.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/51848mc_lifestyle_8.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1029,10 +1421,21 @@
     "summary": "4 in a row with yellow and pink gaming pieces. The playing field is foldable and suits perfectly for trips.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "52292",
+    "supplierVariantIds": [
+      "5229214"
+    ],
     "price": 2.36,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1045,7 +1448,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/5229214_lifestyle_1.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/5229214_lifestyle_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1067,10 +1470,23 @@
     "summary": "Squeeze duck made from PVC. Pure bath joy for everyone.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "52308",
+    "supplierVariantIds": [
+      "5230806",
+      "5230824",
+      "5230808"
+    ],
     "price": 0.6,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1099,7 +1515,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/5230808_lifestyle_8.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/5230808_lifestyle_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -1129,10 +1545,27 @@
     "summary": "Classic card game with (Poker) made from recycled paper in a recycled cardboard box.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "52626",
+    "supplierVariantIds": [
+      "5262613"
+    ],
     "price": 0.57,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1145,7 +1578,7 @@
       "https://macma.ro/products/jpg/M/5262613_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/5262613_lifestyle_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1167,11 +1600,28 @@
     "summary": "Fluffy plush cat in a sitting position with a scarf. A faithful companion for children.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "52627",
+    "supplierVariantIds": [
+      "5262707"
+    ],
     "price": 6.96,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1179,7 +1629,7 @@
       "https://macma.ro/products/jpg/M/5262707_0.jpg",
       "https://macma.ro/products/jpg/M/5262707_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1201,11 +1651,28 @@
     "summary": "Fluffy plush dog in a sitting position with a scarf. A faithful companion for children.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "52628",
+    "supplierVariantIds": [
+      "5262801"
+    ],
     "price": 5.84,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1213,7 +1680,7 @@
       "https://macma.ro/products/jpg/M/5262801_0.jpg",
       "https://macma.ro/products/jpg/M/5262801_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1236,10 +1703,27 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "52697",
+    "supplierVariantIds": [
+      "5269713"
+    ],
     "price": 2.87,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1255,7 +1739,7 @@
       "https://macma.ro/products/jpg/M/5269713_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/5269713_lifestyle_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1278,10 +1762,27 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "52911",
+    "supplierVariantIds": [
+      "5291113"
+    ],
     "price": 1.53,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1292,7 +1793,7 @@
       "https://macma.ro/products/jpg/M/5291113_3.jpg",
       "https://macma.ro/products/jpg/M/5291113_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1316,8 +1817,25 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      },
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "53574",
+    "supplierVariantIds": [
+      "5357403"
+    ],
     "price": 7.52,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1331,7 +1849,7 @@
       "https://macma.ro/products/jpg/M/5357403_7.jpg",
       "https://macma.ro/products/jpg/M/5357403_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1353,10 +1871,21 @@
     "summary": "Beach ball set, packed in a net. The set includes two wooden rackets with plastic handle and one ball.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "53587",
+    "supplierVariantIds": [
+      "5358713"
+    ],
     "price": 2.58,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1367,7 +1896,7 @@
       "https://macma.ro/products/jpg/M/5358713_3.jpg",
       "https://macma.ro/products/jpg/M/5358713_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1389,11 +1918,28 @@
     "summary": "Big boules game with 6 metal balls, 1 small wooden ball, measuring tape and carrying bag.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "53602",
+    "supplierVariantIds": [
+      "5360209"
+    ],
     "price": 16.8,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1408,7 +1954,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/5360209_lifestyle_3.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/5360209_lifestyle_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1430,10 +1976,27 @@
     "summary": "Chalk eggs in yellow, orange, red, green, blue and purple in an egg cardboard box.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "53679",
+    "supplierVariantIds": [
+      "5367913"
+    ],
     "price": 1.32,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1446,7 +2009,7 @@
       "https://macma.ro/products/jpg/M/5367913_5.jpg",
       "https://macma.ro/products/jpg/M/5367913_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1468,11 +2031,28 @@
     "summary": "Miniature truck with metal driver's cab and plastic trailer.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "53753",
+    "supplierVariantIds": [
+      "5375306"
+    ],
     "price": 2.73,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1484,7 +2064,7 @@
       "https://macma.ro/products/jpg/M/5375306_5.jpg",
       "https://macma.ro/products/jpg/M/5375306_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1505,9 +2085,22 @@
     "category": "kids-and-games/toys-and-plush/outdoor-and-indoor-games",
     "summary": "Puzzle-Me - box set of 24 puzzle games (price per game).",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
-    "personalizations": [],
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "53938",
+    "supplierVariantIds": [
+      "53938MC"
+    ],
     "price": 0.34,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1525,7 +2118,7 @@
       "https://macma.ro/products/jpg/M/53938mc_8.jpg",
       "https://macma.ro/products/jpg/M/53938mc_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1547,10 +2140,23 @@
     "summary": "Double-sided dartboard with 6 darts and metal loop for fastening.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": [
+          "3 × 3"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "54222",
+    "supplierVariantIds": [
+      "54222MC"
+    ],
     "price": 8.16,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1561,7 +2167,7 @@
       "https://macma.ro/products/jpg/M/54222mc_2.jpg",
       "https://macma.ro/products/jpg/M/54222mc_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1584,10 +2190,27 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "54311",
+    "supplierVariantIds": [
+      "5431113"
+    ],
     "price": 2.66,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1601,7 +2224,7 @@
       "https://macma.ro/products/jpg/M/5431113_4.jpg",
       "https://macma.ro/products/jpg/M/5431113_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1624,10 +2247,27 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "54324",
+    "supplierVariantIds": [
+      "5432413"
+    ],
     "price": 4.59,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1642,7 +2282,7 @@
       "https://macma.ro/products/jpg/M/5432413_7.jpg",
       "https://macma.ro/products/jpg/M/5432413_8.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1664,11 +2304,28 @@
     "summary": "XXL beach ball made of PVC in a great sea look with a diameter of 70cm when inflated.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "54574",
+    "supplierVariantIds": [
+      "54574MC"
+    ],
     "price": 6.23,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1677,7 +2334,7 @@
       "https://macma.ro/products/jpg/M/54574mc_1.jpg",
       "https://macma.ro/products/jpg/M/54574mc_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1699,10 +2356,21 @@
     "summary": "Beach volleyball in white, yellow and blue.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "54591",
+    "supplierVariantIds": [
+      "54591MC"
+    ],
     "price": 3.72,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1711,7 +2379,7 @@
       "https://macma.ro/products/jpg/M/54591mc_1.jpg",
       "https://macma.ro/products/jpg/M/54591mc_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1733,8 +2401,12 @@
     "summary": "Basketball in size 7 with hard-wearing surface.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "54592",
+    "supplierVariantIds": [
+      "54592MC"
+    ],
     "price": 4.94,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1742,7 +2414,7 @@
       "https://macma.ro/products/jpg/M/54592mc_0.jpg",
       "https://macma.ro/products/jpg/M/54592mc_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1764,10 +2436,21 @@
     "summary": "This children's toy is reminiscent of a telescope. When you look through it, you see fantastic images created by the reflection of small, coloured plastic stones. If you turn the kaleidoscope, these images change. The...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "54703",
+    "supplierVariantIds": [
+      "5470313"
+    ],
     "price": 0.8,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1780,7 +2463,7 @@
       "https://macma.ro/products/jpg/M/5470313_4.jpg",
       "https://macma.ro/products/jpg/M/5470313_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1803,10 +2486,31 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": [
+          "4 x 4"
+        ]
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "4 x 4"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "55591",
+    "supplierVariantIds": [
+      "5559113"
+    ],
     "price": 3.19,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1820,7 +2524,7 @@
       "https://macma.ro/products/jpg/M/5559113_7.jpg",
       "https://macma.ro/products/jpg/M/5559113_8.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1842,11 +2546,28 @@
     "summary": "A classic, but always great summer item! This beach ball has 40 cm segments.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "58260",
+    "supplierVariantIds": [
+      "58260MC"
+    ],
     "price": 0.74,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1854,7 +2575,7 @@
       "https://macma.ro/products/jpg/M/58260mc_0.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/58260mc_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1876,11 +2597,31 @@
     "summary": "This bicoloured beach ball with 21.5 cm segments fits into every beach bag. Material: PVC.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "58261",
+    "supplierVariantIds": [
+      "5826104",
+      "5826105",
+      "5826108",
+      "5826109"
+    ],
     "price": 0.55,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1891,7 +2632,7 @@
       "https://macma.ro/products/jpg/M/5826109_0.jpg",
       "https://macma.ro/products/jpg/M/5826109_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -1925,10 +2666,30 @@
     "summary": "No chance for boredom! This frisbee is the perfect giveaway thanks to its foldable shape.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "SU",
+        "label": "Sublimation",
+        "labelRo": "Sublimare",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "58379",
+    "supplierVariantIds": [
+      "5837904",
+      "5837906",
+      "5837905",
+      "5837908"
+    ],
     "price": 0.27,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1947,7 +2708,7 @@
       "https://macma.ro/products/jpg/M/5837908_2.jpg",
       "https://macma.ro/products/jpg/M/5837908_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -1981,10 +2742,27 @@
     "summary": "Chalks in 6 different colours, packed in a box.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "58619",
+    "supplierVariantIds": [
+      "5861901"
+    ],
     "price": 0.45,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1995,7 +2773,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/5861901_lifestyle_3.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/5861901_lifestyle_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2019,8 +2797,25 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG0",
+        "label": "CO₂ engraving 0",
+        "labelRo": "Gravură CO₂ 0",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "58622",
+    "supplierVariantIds": [
+      "5862203",
+      "5862206",
+      "5862205",
+      "5862208",
+      "5862210",
+      "5862209",
+      "5862204"
+    ],
     "price": 0.54,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2039,7 +2834,7 @@
       "https://macma.ro/products/jpg/M/5862204_0.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/5862204_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 7,
     "colorCount": 7,
     "sizeCount": 0,
@@ -2085,11 +2880,28 @@
     "summary": "Beach ball in sea look made of PVC with a segment length of 40 cm.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "58664",
+    "supplierVariantIds": [
+      "5866414"
+    ],
     "price": 1.52,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2102,7 +2914,7 @@
       "https://macma.ro/products/jpg/M/5866414_5.jpg",
       "https://macma.ro/products/jpg/M/5866414_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2124,10 +2936,21 @@
     "summary": "Fidget dice for pushing, turning, sliding, suitable for all ages. Ideal for calming down or just for fun against boredom.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "93142",
+    "supplierVariantIds": [
+      "9314203"
+    ],
     "price": 2.69,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -2145,7 +2968,7 @@
       "https://macma.ro/products/jpg/M/9314203_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/9314203_lifestyle_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2168,13 +2991,36 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      },
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "93146",
+    "supplierVariantIds": [
+      "9314609"
+    ],
     "price": 2.49,
     "priceFrom": false,
-    "stockLevel": "low",
+    "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/9314609_1.jpg",
       "https://macma.ro/products/jpg/M/9314609_3.jpg",
@@ -2182,7 +3028,7 @@
       "https://macma.ro/products/jpg/M/9314609_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/9314609_lifestyle_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2204,8 +3050,12 @@
     "summary": "Schwarzwolf travel set of playing cards and dice in a tin box. You will certainly welcome this set, for example during your camping trip, when you and your friends will be able to enjoy the evening with a fun game or ...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "F700330",
+    "supplierVariantIds": [
+      "F7003300AJ3"
+    ],
     "price": 4.51,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -2219,7 +3069,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f7003300aj3_f.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f7003300aj3_g.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2243,8 +3093,21 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": [
+          "10 × 8"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "YARRA",
+    "supplierVariantIds": [
+      "F7003100AJ3"
+    ],
     "price": 2.96,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -2254,7 +3117,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f7003100aj3_3.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f7003100aj3_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

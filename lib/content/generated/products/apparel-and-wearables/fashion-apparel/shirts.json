@@ -6,11 +6,91 @@
     "summary": "70% cotton, 30% polyester women's long-sleeved shirt. 40° washable, suitable for tumble drying, easy wear. Tailored fit, classic blouse collar, rounded hem, replacement buttons, darts on the chest and back for good fi...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "932F",
+    "supplierVariantIds": [
+      "JZ932F.01.0",
+      "JZ932F.01.1",
+      "JZ932F.01.2",
+      "JZ932F.01.3",
+      "JZ932F.01.4",
+      "JZ932F.01.5",
+      "JZ932F.01.6",
+      "JZ932F.01.7",
+      "JZ932F.01.8",
+      "JZ932F.01.9",
+      "JZ932F.03.0",
+      "JZ932F.03.1",
+      "JZ932F.03.2",
+      "JZ932F.03.3",
+      "JZ932F.03.4",
+      "JZ932F.03.5",
+      "JZ932F.03.6",
+      "JZ932F.03.7",
+      "JZ932F.03.8",
+      "JZ932F.03.9",
+      "JZ932F.04.0",
+      "JZ932F.04.1",
+      "JZ932F.04.2",
+      "JZ932F.04.3",
+      "JZ932F.04.4",
+      "JZ932F.04.5",
+      "JZ932F.04.6",
+      "JZ932F.04.7",
+      "JZ932F.04.8",
+      "JZ932F.04.9",
+      "JZ932F.07.0",
+      "JZ932F.07.1",
+      "JZ932F.07.2",
+      "JZ932F.07.3",
+      "JZ932F.07.4",
+      "JZ932F.07.5",
+      "JZ932F.07.6",
+      "JZ932F.07.7",
+      "JZ932F.07.8",
+      "JZ932F.07.9",
+      "JZ932F.24.0",
+      "JZ932F.24.1",
+      "JZ932F.24.2",
+      "JZ932F.24.3",
+      "JZ932F.24.4",
+      "JZ932F.24.5",
+      "JZ932F.24.6",
+      "JZ932F.24.7",
+      "JZ932F.24.8",
+      "JZ932F.24.9",
+      "JZ932F.50.0",
+      "JZ932F.50.1",
+      "JZ932F.50.2",
+      "JZ932F.50.3",
+      "JZ932F.50.4",
+      "JZ932F.50.5",
+      "JZ932F.50.6",
+      "JZ932F.50.7",
+      "JZ932F.50.8",
+      "JZ932F.50.9"
+    ],
     "price": 17.65,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -24,7 +104,7 @@
       "https://macma.ro/products/jpg/TEXTIL/RUSSEL/932f-oxfordblue_3.jpg",
       "https://macma.ro/products/jpg/TEXTIL/RUSSEL/932f-silver_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 60,
     "colorCount": 6,
     "sizeCount": 5,
@@ -66,11 +146,85 @@
     "summary": "70% cotton, 30% polyester men's long-sleeved shirt. 40° washable, suitable for tumble drying, easy wear. Classic cut, button down collar, cuffs adjustable with 2 buttons, 1 button on the cuff gauntlet, replacement but...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "932M",
+    "supplierVariantIds": [
+      "JZ932M.01.1",
+      "JZ932M.01.2",
+      "JZ932M.01.3",
+      "JZ932M.01.4",
+      "JZ932M.01.5",
+      "JZ932M.01.6",
+      "JZ932M.01.7",
+      "JZ932M.01.8",
+      "JZ932M.01.9",
+      "JZ932M.03.1",
+      "JZ932M.03.2",
+      "JZ932M.03.3",
+      "JZ932M.03.4",
+      "JZ932M.03.5",
+      "JZ932M.03.6",
+      "JZ932M.03.7",
+      "JZ932M.03.8",
+      "JZ932M.03.9",
+      "JZ932M.04.1",
+      "JZ932M.04.2",
+      "JZ932M.04.3",
+      "JZ932M.04.4",
+      "JZ932M.04.5",
+      "JZ932M.04.6",
+      "JZ932M.04.7",
+      "JZ932M.04.8",
+      "JZ932M.04.9",
+      "JZ932M.07.1",
+      "JZ932M.07.2",
+      "JZ932M.07.3",
+      "JZ932M.07.4",
+      "JZ932M.07.5",
+      "JZ932M.07.6",
+      "JZ932M.07.7",
+      "JZ932M.07.8",
+      "JZ932M.07.9",
+      "JZ932M.24.1",
+      "JZ932M.24.2",
+      "JZ932M.24.3",
+      "JZ932M.24.4",
+      "JZ932M.24.5",
+      "JZ932M.24.6",
+      "JZ932M.24.7",
+      "JZ932M.24.8",
+      "JZ932M.24.9",
+      "JZ932M.50.1",
+      "JZ932M.50.2",
+      "JZ932M.50.3",
+      "JZ932M.50.4",
+      "JZ932M.50.5",
+      "JZ932M.50.6",
+      "JZ932M.50.7",
+      "JZ932M.50.8",
+      "JZ932M.50.9"
+    ],
     "price": 17.86,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -83,7 +237,7 @@
       "https://macma.ro/products/jpg/TEXTIL/RUSSEL/932m-oxfordblue_2.jpg",
       "https://macma.ro/products/jpg/TEXTIL/RUSSEL/932m-silver_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 54,
     "colorCount": 6,
     "sizeCount": 4,
@@ -125,11 +279,91 @@
     "summary": "70% cotton, 30% polyester women's short-sleeved shirt. 40° washable, suitable for tumble drying, easy wear. Tailored fit, classic blouse collar, rounded hem, replacement buttons, darts on the chest and back for good f...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "933F",
+    "supplierVariantIds": [
+      "JZ933F.01.0",
+      "JZ933F.01.1",
+      "JZ933F.01.2",
+      "JZ933F.01.3",
+      "JZ933F.01.4",
+      "JZ933F.01.5",
+      "JZ933F.01.6",
+      "JZ933F.01.7",
+      "JZ933F.01.8",
+      "JZ933F.01.9",
+      "JZ933F.03.0",
+      "JZ933F.03.1",
+      "JZ933F.03.2",
+      "JZ933F.03.3",
+      "JZ933F.03.4",
+      "JZ933F.03.5",
+      "JZ933F.03.6",
+      "JZ933F.03.7",
+      "JZ933F.03.8",
+      "JZ933F.03.9",
+      "JZ933F.04.0",
+      "JZ933F.04.1",
+      "JZ933F.04.2",
+      "JZ933F.04.3",
+      "JZ933F.04.4",
+      "JZ933F.04.5",
+      "JZ933F.04.6",
+      "JZ933F.04.7",
+      "JZ933F.04.8",
+      "JZ933F.04.9",
+      "JZ933F.07.0",
+      "JZ933F.07.1",
+      "JZ933F.07.2",
+      "JZ933F.07.3",
+      "JZ933F.07.4",
+      "JZ933F.07.5",
+      "JZ933F.07.6",
+      "JZ933F.07.7",
+      "JZ933F.07.8",
+      "JZ933F.07.9",
+      "JZ933F.24.0",
+      "JZ933F.24.1",
+      "JZ933F.24.2",
+      "JZ933F.24.3",
+      "JZ933F.24.4",
+      "JZ933F.24.5",
+      "JZ933F.24.6",
+      "JZ933F.24.7",
+      "JZ933F.24.8",
+      "JZ933F.24.9",
+      "JZ933F.50.0",
+      "JZ933F.50.1",
+      "JZ933F.50.2",
+      "JZ933F.50.3",
+      "JZ933F.50.4",
+      "JZ933F.50.5",
+      "JZ933F.50.6",
+      "JZ933F.50.7",
+      "JZ933F.50.8",
+      "JZ933F.50.9"
+    ],
     "price": 15.77,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -142,7 +376,7 @@
       "https://macma.ro/products/jpg/TEXTIL/RUSSEL/933f-oxfordblue_2.jpg",
       "https://macma.ro/products/jpg/TEXTIL/RUSSEL/933f-silver_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 60,
     "colorCount": 6,
     "sizeCount": 5,
@@ -184,11 +418,76 @@
     "summary": "70% cotton, 30% polyester men's short-sleeved shirt. 40° washable, suitable for tumble drying, easy wear. Classic cut, button down collar, rounded hem, replacement buttons, V-shaped tapered pocket on the left chest. 1...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "933M",
+    "supplierVariantIds": [
+      "JZ933M.03.1",
+      "JZ933M.03.2",
+      "JZ933M.03.3",
+      "JZ933M.03.4",
+      "JZ933M.03.5",
+      "JZ933M.03.6",
+      "JZ933M.03.7",
+      "JZ933M.03.8",
+      "JZ933M.03.9",
+      "JZ933M.04.1",
+      "JZ933M.04.2",
+      "JZ933M.04.3",
+      "JZ933M.04.4",
+      "JZ933M.04.5",
+      "JZ933M.04.6",
+      "JZ933M.04.7",
+      "JZ933M.04.8",
+      "JZ933M.04.9",
+      "JZ933M.07.1",
+      "JZ933M.07.2",
+      "JZ933M.07.3",
+      "JZ933M.07.4",
+      "JZ933M.07.5",
+      "JZ933M.07.6",
+      "JZ933M.07.7",
+      "JZ933M.07.8",
+      "JZ933M.07.9",
+      "JZ933M.24.1",
+      "JZ933M.24.2",
+      "JZ933M.24.3",
+      "JZ933M.24.4",
+      "JZ933M.24.5",
+      "JZ933M.24.6",
+      "JZ933M.24.7",
+      "JZ933M.24.8",
+      "JZ933M.24.9",
+      "JZ933M.50.1",
+      "JZ933M.50.2",
+      "JZ933M.50.3",
+      "JZ933M.50.4",
+      "JZ933M.50.5",
+      "JZ933M.50.6",
+      "JZ933M.50.7",
+      "JZ933M.50.8",
+      "JZ933M.50.9"
+    ],
     "price": 16.2,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -200,7 +499,7 @@
       "https://macma.ro/products/jpg/TEXTIL/RUSSEL/933m-oxfordblue_2.jpg",
       "https://macma.ro/products/jpg/TEXTIL/RUSSEL/933m-silver_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 45,
     "colorCount": 5,
     "sizeCount": 4,
@@ -238,11 +537,54 @@
     "summary": "100% cotton-micro-twill women's long-sleeved shirt. 40° washable, suitable for tumble drying, non iron. Tailored fit, generously cut collar with long tips, flared sleeves with cuffs and button, double stud closure, re...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "956F",
+    "supplierVariantIds": [
+      "JZ956F.01.0",
+      "JZ956F.01.1",
+      "JZ956F.01.2",
+      "JZ956F.01.3",
+      "JZ956F.01.4",
+      "JZ956F.01.5",
+      "JZ956F.01.6",
+      "JZ956F.01.7",
+      "JZ956F.03.0",
+      "JZ956F.03.1",
+      "JZ956F.03.2",
+      "JZ956F.03.3",
+      "JZ956F.03.4",
+      "JZ956F.03.5",
+      "JZ956F.03.6",
+      "JZ956F.03.7",
+      "JZ956F.12.0",
+      "JZ956F.12.1",
+      "JZ956F.12.2",
+      "JZ956F.12.3",
+      "JZ956F.12.4",
+      "JZ956F.12.5",
+      "JZ956F.12.6"
+    ],
     "price": 28.95,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -251,7 +593,7 @@
       "https://macma.ro/products/jpg/TEXTIL/RUSSEL/956f-black_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/RUSSEL/956f-brsky_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 23,
     "colorCount": 3,
     "sizeCount": 5,
@@ -281,11 +623,52 @@
     "summary": "100% cotton-micro-twill men's long-sleeved shirt. 40° washable, suitable for tumble drying, non iron. Classic cut, semi flared button down collar, mitred cuffs, wearable with cufflinks, replacement buttons, left chest...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "956M",
+    "supplierVariantIds": [
+      "JZ956M.01.1",
+      "JZ956M.01.2",
+      "JZ956M.01.3",
+      "JZ956M.01.4",
+      "JZ956M.01.5",
+      "JZ956M.01.6",
+      "JZ956M.01.7",
+      "JZ956M.03.1",
+      "JZ956M.03.2",
+      "JZ956M.03.3",
+      "JZ956M.03.4",
+      "JZ956M.03.5",
+      "JZ956M.03.6",
+      "JZ956M.03.7",
+      "JZ956M.12.1",
+      "JZ956M.12.2",
+      "JZ956M.12.3",
+      "JZ956M.12.4",
+      "JZ956M.12.5",
+      "JZ956M.12.6",
+      "JZ956M.12.7"
+    ],
     "price": 29.81,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -294,7 +677,7 @@
       "https://macma.ro/products/jpg/TEXTIL/RUSSEL/956m-black_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/RUSSEL/956m-brsky_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 21,
     "colorCount": 3,
     "sizeCount": 4,
@@ -324,11 +707,48 @@
     "summary": "100% cotton-micro-twill women's short-sleeved shirt. 40° washable, suitable for tumble drying, non iron. Tailored fit, generously cut collar with long tips, rounded hem, double stud closure, replacement buttons, innov...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "957F",
+    "supplierVariantIds": [
+      "JZ957F.01.0",
+      "JZ957F.01.1",
+      "JZ957F.01.2",
+      "JZ957F.01.3",
+      "JZ957F.01.4",
+      "JZ957F.01.5",
+      "JZ957F.01.6",
+      "JZ957F.01.7",
+      "JZ957F.03.3",
+      "JZ957F.03.4",
+      "JZ957F.12.0",
+      "JZ957F.12.1",
+      "JZ957F.12.2",
+      "JZ957F.12.3",
+      "JZ957F.12.4",
+      "JZ957F.12.6",
+      "JZ957F.12.7"
+    ],
     "price": 26.6,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -337,7 +757,7 @@
       "https://macma.ro/products/jpg/TEXTIL/RUSSEL/957f-black_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/RUSSEL/957f-brsky_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 17,
     "colorCount": 3,
     "sizeCount": 5,
@@ -367,11 +787,52 @@
     "summary": "100% cotton-micro-twill men's short-sleeved shirt. 40° washable, suitable for tumble drying, non iron. Classic cut, semi flared button down collar, double folded down cuffs, rounded hem, replacement buttons, left ches...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "957M",
+    "supplierVariantIds": [
+      "JZ957M.01.1",
+      "JZ957M.01.2",
+      "JZ957M.01.3",
+      "JZ957M.01.4",
+      "JZ957M.01.5",
+      "JZ957M.01.6",
+      "JZ957M.01.7",
+      "JZ957M.03.1",
+      "JZ957M.03.2",
+      "JZ957M.03.3",
+      "JZ957M.03.4",
+      "JZ957M.03.5",
+      "JZ957M.03.6",
+      "JZ957M.03.7",
+      "JZ957M.12.1",
+      "JZ957M.12.2",
+      "JZ957M.12.3",
+      "JZ957M.12.4",
+      "JZ957M.12.5",
+      "JZ957M.12.6",
+      "JZ957M.12.7"
+    ],
     "price": 27.39,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -380,7 +841,7 @@
       "https://macma.ro/products/jpg/TEXTIL/RUSSEL/957m-black_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/RUSSEL/957m-brsky_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 21,
     "colorCount": 3,
     "sizeCount": 4,
@@ -410,10 +871,24 @@
     "summary": "65% polyester, 35% cotton. 120 grs/m2 poplin fabric. Left chest pocket. Reinforced seams in sleeves and sides. Front closure with matching colour buttons. 40 units per box: 1 size, 1 color. Individual bag with plastic...",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "CSVA1BC",
+    "supplierVariantIds": [
+      "CSVA1BCBL50",
+      "CSVA1BCCL40"
+    ],
     "price": 9.74,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -421,7 +896,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/oporto-short-white_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/oporto-short-skyblue_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 2,
@@ -447,10 +922,25 @@
     "summary": "65% polyester, 35% cotton. 120 grs/m2 poplin fabric. Left chest pocket. Long sleeves with button closing. Reinforced seams in sleeves and sides. Front closure with matching colour buttons. 40 units per box: 1 size, 1 ...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "CSVA1BL",
+    "supplierVariantIds": [
+      "CSVA1BLCL38",
+      "CSVA1BLCL48",
+      "CSVA1BLNG40"
+    ],
     "price": 10.56,
     "priceFrom": true,
     "stockLevel": "in-stock",
@@ -458,7 +948,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/oporto-long-skyblue_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/oporto-long-black_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 3,
     "colorCount": 2,
     "sizeCount": 3,
@@ -484,17 +974,30 @@
     "summary": "65% polyester, 35% cotton. 120 grs/m2 poplin fabric. Fitted shirt. Left chest pocket. Front closure with matching colour buttons. 40 units per box: 1 size, 1 color. Individual bag with plastic clips.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "CSVASTC",
+    "supplierVariantIds": [
+      "CSVASTCRS36"
+    ],
     "price": 9.74,
     "priceFrom": false,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/star-short-cakepink_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -516,8 +1019,22 @@
     "summary": "2XL",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "KA595",
+    "supplierVariantIds": [
+      "KA595OXB-2XL",
+      "KA595OXB-3XL",
+      "KA595OXB-L",
+      "KA595OXB-S",
+      "KA595OXB-XL",
+      "KA595WH-2XL",
+      "KA595WH-3XL",
+      "KA595WH-4XL",
+      "KA595WH-L",
+      "KA595WH-M",
+      "KA595WH-S"
+    ],
     "price": 16.2,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -527,7 +1044,7 @@
       "https://macma.ro/products/jpg/TEXTIL/KARIBAN/ka595-white_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/KARIBAN/ka595-white_b1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 11,
     "colorCount": 2,
     "sizeCount": 4,

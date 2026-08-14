@@ -6,15 +6,21 @@
     "summary": "SHIRT HELSINKI SURGICAL GREEN - M",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "CQVAHEL",
+    "supplierVariantIds": [
+      "CQVAHELVQ21",
+      "CQVAHELVQ23",
+      "CQVAHELVQ24"
+    ],
     "price": 8.52,
     "priceFrom": false,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/cqvahel-surgicalgreen_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 3,
     "colorCount": 1,
     "sizeCount": 2,
@@ -36,11 +42,34 @@
     "summary": "U — cotton",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "SO01211",
+    "supplierVariantIds": [
+      "SO01211WH/FNV-U",
+      "SO01211WH/FU-U",
+      "SO01211WH/MEG-U"
+    ],
     "price": 2.42,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -49,7 +78,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01211-whitefuchsia_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01211-whitemelangegrey_a1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 3,
     "colorCount": 1,
     "sizeCount": 1,
@@ -70,18 +99,43 @@
     "summary": "These modern men’s boxer shorts made of a soft and sleek cotton-elastane-blend offer supreme comfort. 92% ring-spun combed cotton, 8% elastane monofilament; single jersey \"full feeder\"",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "21 × 29"
+        ]
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "21 × 29"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "ST9691",
+    "supplierVariantIds": [
+      "ST9691-BLO-L",
+      "ST9691-BLO-M",
+      "ST9691-BLO-S",
+      "ST9691-BLO-XL",
+      "ST9691-BLO-XXL"
+    ],
     "price": 15.54,
     "priceFrom": false,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st9691-blackopal.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 5,
     "colorCount": 1,
     "sizeCount": 4,

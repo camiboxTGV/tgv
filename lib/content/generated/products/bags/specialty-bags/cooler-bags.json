@@ -6,11 +6,28 @@
     "summary": "600D polyester cooler bag, with a filling capacity of 9 liters, two carrying straps, insulation, and suede-look sides and bottom.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "50768",
+    "supplierVariantIds": [
+      "5076844"
+    ],
     "price": 8.72,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -20,7 +37,7 @@
       "https://macma.ro/products/jpg/M/5076844_2.jpg",
       "https://macma.ro/products/jpg/M/5076844_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -42,11 +59,28 @@
     "summary": "Large cooler bag made of 600D polyester with a large compartment 5 liters capacity and an extra compartment in suede look  2 liters capacity. Your logo will be printed on the lid.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "52611",
+    "supplierVariantIds": [
+      "5261144"
+    ],
     "price": 9.04,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -61,7 +95,7 @@
       "https://macma.ro/products/jpg/M/5261144_8.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/5261144_lifestyle_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -83,11 +117,30 @@
     "summary": "Non-woven cooler bag with a filling capacity of 10 liters, two carrying straps and two-coloured design.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "60708",
+    "supplierVariantIds": [
+      "6070804",
+      "6070805",
+      "6070877"
+    ],
     "price": 2.16,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -101,7 +154,7 @@
       "https://macma.ro/products/jpg/M/6070877_0.jpg",
       "https://macma.ro/products/jpg/M/6070877_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -131,10 +184,21 @@
     "summary": "Cooling bag in retro lunch bag design with insulated interior and velcro closure.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "61412",
+    "supplierVariantIds": [
+      "6141213"
+    ],
     "price": 1.32,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -144,7 +208,7 @@
       "https://macma.ro/products/jpg/M/6141213_2.jpg",
       "https://macma.ro/products/jpg/M/6141213_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -166,11 +230,34 @@
     "summary": "Non-woven cooling bag with carrying strap, suitable for 6 standing beverage cans (0.33 litres).",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "61542",
+    "supplierVariantIds": [
+      "6154205",
+      "6154206",
+      "6154208",
+      "6154209",
+      "6154210",
+      "6154203",
+      "6154204"
+    ],
     "price": 1.05,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -211,7 +298,7 @@
       "https://macma.ro/products/jpg/M/6154204_3.jpg",
       "https://macma.ro/products/jpg/M/6154204_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 7,
     "colorCount": 7,
     "sizeCount": 0,
@@ -257,11 +344,28 @@
     "summary": "Cooler bag from 600D polyester with cork bottom, big space for up to 6 bottles or cans with 0,5 litre.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "62166",
+    "supplierVariantIds": [
+      "6216603"
+    ],
     "price": 2.94,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -272,7 +376,7 @@
       "https://macma.ro/products/jpg/M/6216603_3.jpg",
       "https://macma.ro/products/jpg/M/6216603_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -294,11 +398,31 @@
     "summary": "Polyester cooler bag with double velcro closure. Suitable for 4 bottles (á 0.5 litres).",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "62472",
+    "supplierVariantIds": [
+      "6247204",
+      "6247205",
+      "6247203",
+      "6247207"
+    ],
     "price": 2.53,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -324,7 +448,7 @@
       "https://macma.ro/products/jpg/M/6247207_3.jpg",
       "https://macma.ro/products/jpg/M/6247207_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -358,10 +482,21 @@
     "summary": "Cool bag made of moisture-proof, laminated jute and insulating inside made of aluminium with zip and extra height, suitable for 6 x 500 ml bottles. The handles, as well as the outer pocket on which your logo is printe...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "62542",
+    "supplierVariantIds": [
+      "6254213"
+    ],
     "price": 2.86,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -374,7 +509,7 @@
       "https://macma.ro/products/jpg/M/6254213_5.jpg",
       "https://macma.ro/products/jpg/M/6254213_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -396,11 +531,28 @@
     "summary": "Cooling bag made of RPET with a separate bottom made of cork, front compartment, carrying strap and an extra compartment. Suitable for 6 beverage cans or bottles of 0.5 liters each.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "62610",
+    "supplierVariantIds": [
+      "6261003"
+    ],
     "price": 6.49,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -413,7 +565,7 @@
       "https://macma.ro/products/jpg/M/6261003_5.jpg",
       "https://macma.ro/products/jpg/M/6261003_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -435,11 +587,28 @@
     "summary": "RPET cooler bag with 2 separate PEVA cooler compartments, a front pocket and a filling capacity of 12 liters. The carrying strap makes the cooler bag perfect for a day at the beach or on vacation.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "62978",
+    "supplierVariantIds": [
+      "6297877"
+    ],
     "price": 3.61,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -454,7 +623,7 @@
       "https://macma.ro/products/jpg/M/6297877_7.jpg",
       "https://macma.ro/products/jpg/M/6297877_8.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -476,11 +645,30 @@
     "summary": "Handy polyester shopping basket with cooling function and a foldable aluminium carrying handle. The basket is easy to fold and has a carrying capacity of 15kg.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "63153",
+    "supplierVariantIds": [
+      "6315344",
+      "6315377",
+      "6315305"
+    ],
     "price": 19.83,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -509,7 +697,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/6315305_lifestyle_3.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6315305_lifestyle_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -539,11 +727,28 @@
     "summary": "Cooler bag made of 200gsm cotton and laminated jute. With insulating aluminium interior and zipper.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "63246",
+    "supplierVariantIds": [
+      "6324613"
+    ],
     "price": 4.45,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -552,7 +757,7 @@
       "https://macma.ro/products/jpg/M/6324613_1.jpg",
       "https://macma.ro/products/jpg/M/6324613_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -574,11 +779,28 @@
     "summary": "600D polyester cooler bag with padded handles, zipper, insulating aluminium interior, security buttons and a filling capacity of 14 liters.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "63249",
+    "supplierVariantIds": [
+      "6324907"
+    ],
     "price": 5.82,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -588,7 +810,7 @@
       "https://macma.ro/products/jpg/M/6324907_2.jpg",
       "https://macma.ro/products/jpg/M/6324907_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -610,11 +832,28 @@
     "summary": "Backpack made of 600D two-tone polyester with cooling function, side nets, padded shoulder straps, zipper and a filling capacity of 10 liters.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "63647",
+    "supplierVariantIds": [
+      "6364707"
+    ],
     "price": 11.93,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -625,7 +864,7 @@
       "https://macma.ro/products/jpg/M/6364707_3.jpg",
       "https://macma.ro/products/jpg/M/6364707_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -647,11 +886,28 @@
     "summary": "Cooler bag made from recycled cotton with two carrying handles and front compartment, with 10-liter capacity. Ideal as a lunch bag.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "64393",
+    "supplierVariantIds": [
+      "6439344"
+    ],
     "price": 6.61,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -663,7 +919,7 @@
       "https://macma.ro/products/jpg/M/6439344_3.jpg",
       "https://macma.ro/products/jpg/M/6439344_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -685,11 +941,28 @@
     "summary": "Cooler bag made of 600D RPET with a detachable shoulder strap and additional zip pocket with a capacity of apprx. 9L.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "64408",
+    "supplierVariantIds": [
+      "6440807"
+    ],
     "price": 8.1,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -702,7 +975,7 @@
       "https://macma.ro/products/jpg/M/6440807_4.jpg",
       "https://macma.ro/products/jpg/M/6440807_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -724,11 +997,28 @@
     "summary": "Large CrisMa cooler bag with side carrying handles, two short carrying handles and one long carrying handle. The practical Velcro opening in the lid provides quick access to the chilled snacks.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "64422",
+    "supplierVariantIds": [
+      "6442244"
+    ],
     "price": 28.61,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -742,7 +1032,7 @@
       "https://macma.ro/products/jpg/M/6442244_5.jpg",
       "https://macma.ro/products/jpg/M/6442244_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -764,11 +1054,32 @@
     "summary": "Large cooler bag, 600D polyester, 30L capacity, insulated front pocket, side mesh pockets.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "15 x 15"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "15 x 15"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "65464",
+    "supplierVariantIds": [
+      "6546419"
+    ],
     "price": 13.4,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -783,7 +1094,7 @@
       "https://macma.ro/products/jpg/M/6546419_7_lifestyle.jpg",
       "https://macma.ro/products/jpg/M/6546419_8_lifestyle.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -805,11 +1116,35 @@
     "summary": "Cooler bag made from recycled polyester (RPET) with front zipper pocket, 5-liter capacity.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "15 x 10"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "15 x 10"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "65499",
+    "supplierVariantIds": [
+      "6549903",
+      "6549905",
+      "6549906",
+      "6549944"
+    ],
     "price": 4.66,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -839,7 +1174,7 @@
       "https://macma.ro/products/jpg/M/6549944_4.jpg",
       "https://macma.ro/products/jpg/M/6549944_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -873,10 +1208,23 @@
     "summary": "CrisMa cooler box made of plastic with 5-liter capacity and an ice pack that can be placed in the lid.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": [
+          "20 x 4"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "65527",
+    "supplierVariantIds": [
+      "6552713"
+    ],
     "price": 15.15,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -890,7 +1238,7 @@
       "https://macma.ro/products/jpg/M/6552713_7.jpg",
       "https://macma.ro/products/jpg/M/6552713_8.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -912,11 +1260,32 @@
     "summary": "Large CrisMa cooler bag made of PVC with waterproof exterior, 22-liter capacity, two mesh pockets, and adjustable shoulder strap.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "20 x 12"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "20 x 12"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "65594",
+    "supplierVariantIds": [
+      "6559407"
+    ],
     "price": 20.87,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -929,7 +1298,7 @@
       "https://macma.ro/products/jpg/M/6559407_6.jpg",
       "https://macma.ro/products/jpg/M/6559407_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -951,11 +1320,32 @@
     "summary": "CrisMa cooler bag made of PVC with a waterproof exterior, 9-liter capacity, two mesh compartments, and an adjustable shoulder strap.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "10 x 8"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "10 x 8"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "65595",
+    "supplierVariantIds": [
+      "6559507"
+    ],
     "price": 13.98,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -967,7 +1357,7 @@
       "https://macma.ro/products/jpg/M/6559507_4.jpg",
       "https://macma.ro/products/jpg/M/6559507_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -989,11 +1379,32 @@
     "summary": "Large cooler trolley with a 35-liter capacity and a waterproof zipper. The cooler bag is detachable, and the frame can be folded to save space.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "20 x 10"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "20 x 10"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "65660",
+    "supplierVariantIds": [
+      "6566003"
+    ],
     "price": 73.7,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1017,7 +1428,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/6566003_lifestyle_3.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6566003_lifestyle_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1039,11 +1450,31 @@
     "summary": "Simple polyester cooling bag, suitable for 6 cans with 0.33 l content and with carrying strap.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "67004",
+    "supplierVariantIds": [
+      "6700406",
+      "6700405",
+      "6700404",
+      "6700499"
+    ],
     "price": 0.99,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1062,7 +1493,7 @@
       "https://macma.ro/products/jpg/M/6700499_1.jpg",
       "https://macma.ro/products/jpg/M/6700499_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -1096,11 +1527,30 @@
     "summary": "Polyester cooler bag with carrying strap, suitable for 6 standing cans with 0.5 l content.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "67104",
+    "supplierVariantIds": [
+      "6710406",
+      "6710405",
+      "6710404"
+    ],
     "price": 1.72,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1117,7 +1567,7 @@
       "https://macma.ro/products/jpg/M/6710404_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6710404_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -1147,11 +1597,30 @@
     "summary": "210D polyester cooler bag with a zipper front compartment and nylon carrying straps. Suitable for 6 cans with 0.5l each, small bottles or anything that needs to stay fresh.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "68321",
+    "supplierVariantIds": [
+      "6832106",
+      "6832105",
+      "6832104"
+    ],
     "price": 1.98,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1166,7 +1635,7 @@
       "https://macma.ro/products/jpg/M/6832104_1.jpg",
       "https://macma.ro/products/jpg/M/6832104_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -1196,17 +1665,28 @@
     "summary": "This cooling pack in stable plastic cover is suitable for every cooling bag. The packs are already filled with cooling liquid.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "68721",
+    "supplierVariantIds": [
+      "6872166"
+    ],
     "price": 0.74,
     "priceFrom": false,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/6872166_0.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

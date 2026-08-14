@@ -6,10 +6,31 @@
     "summary": "Smart fitness bracelet made of silicone with coloured illuminating display. Compatible with iOS 8.0, Android 5.1, Bluetooth 4.0 and above, easily rechargeable via USB plug. Features date and time display, pedometer, c...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": [
+          "1,4 × 0,5"
+        ]
+      },
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": [
+          "1,4 × 0,5"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "41348",
+    "supplierVariantIds": [
+      "4134803"
+    ],
     "price": 27.44,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -32,7 +53,7 @@
       "https://macma.ro/products/jpg/M/4134803_9.jpg",
       "https://macma.ro/products/jpg/M/4134803_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -54,11 +75,34 @@
     "summary": "Set of 3. For golfers who want to play their best score! The golf balls have a soft feel, high flight, outstanding length and first-class controllability.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "VM",
+        "label": "Macma method VM",
+        "labelRo": "Metodă Macma VM",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "51279",
+    "supplierVariantIds": [
+      "5127906"
+    ],
     "price": 3.72,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -69,7 +113,7 @@
       "https://macma.ro/products/jpg/M/5127906_4.jpg",
       "https://macma.ro/products/jpg/M/5127906_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -91,10 +135,23 @@
     "summary": "Abs- and backtrainer with soft touch handles and feet fixture for a strong workout.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": [
+          "4 × 1,5"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "52471",
+    "supplierVariantIds": [
+      "5247124"
+    ],
     "price": 2.02,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -103,7 +160,7 @@
       "https://macma.ro/products/jpg/M/5247124_1.jpg",
       "https://macma.ro/products/jpg/M/5247124_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -125,11 +182,28 @@
     "summary": "Bicycle bag made of durable 600D polyester with reflective strips. The bag can be easily attached to the middle frame bar using the brackets and offers enough space for all important items.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "62684",
+    "supplierVariantIds": [
+      "6268403"
+    ],
     "price": 5.24,
     "priceFrom": false,
     "stockLevel": "low",
@@ -142,7 +216,7 @@
       "https://macma.ro/products/jpg/M/6268403_6.jpg",
       "https://macma.ro/products/jpg/M/6268403_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -165,10 +239,33 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      },
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "73174",
+    "supplierVariantIds": [
+      "7317413"
+    ],
     "price": 7.25,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -181,7 +278,7 @@
       "https://macma.ro/products/jpg/M/7317413_6.jpg",
       "https://macma.ro/products/jpg/M/7317413_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -204,10 +301,27 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "73175",
+    "supplierVariantIds": [
+      "7317513"
+    ],
     "price": 9.65,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -217,7 +331,7 @@
       "https://macma.ro/products/jpg/M/7317513_3.jpg",
       "https://macma.ro/products/jpg/M/7317513_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -239,11 +353,39 @@
     "summary": "Microfibre towel (90 x 40 cm) with elastic band and a grammage of 160 g/m².",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "H0",
+        "label": "Macma method H0",
+        "labelRo": "Metodă Macma H0",
+        "printSizes": []
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "74754",
+    "supplierVariantIds": [
+      "7475404",
+      "7475405",
+      "7475406",
+      "7475408",
+      "7475409",
+      "7475410"
+    ],
     "price": 1.53,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -273,7 +415,7 @@
       "https://macma.ro/products/jpg/M/7475410_3.jpg",
       "https://macma.ro/products/jpg/M/7475410_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,

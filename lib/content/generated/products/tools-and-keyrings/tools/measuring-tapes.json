@@ -6,11 +6,28 @@
     "summary": "Metric folding ruler made of plastic, 2 meters length (in cm).",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "80895",
+    "supplierVariantIds": [
+      "8089506"
+    ],
     "price": 1.38,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -19,7 +36,7 @@
       "https://macma.ro/products/jpg/M/8089506_1.jpg",
       "https://macma.ro/products/jpg/M/8089506_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -41,10 +58,21 @@
     "summary": "Large 3 meter steel measuring tape with robust plastic and metal coating, large figures, and a permanent stop bar. The practical belt clip and the small cord provide a safe grip.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "81734",
+    "supplierVariantIds": [
+      "8173403"
+    ],
     "price": 2.67,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -53,7 +81,7 @@
       "https://macma.ro/products/jpg/M/8173403_1.jpg",
       "https://macma.ro/products/jpg/M/8173403_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -75,10 +103,21 @@
     "summary": "Large 5 meter steel measuring tape with robust plastic and metal coating, large figures and a permanent stop bar. The practical belt clip and the small cord provides a safe grip.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "81735",
+    "supplierVariantIds": [
+      "8173503"
+    ],
     "price": 3.39,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -87,7 +126,7 @@
       "https://macma.ro/products/jpg/M/8173503_box.jpg",
       "https://macma.ro/products/jpg/M/8173503_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -108,9 +147,22 @@
     "category": "tools-and-keyrings/tools/measuring-tapes",
     "summary": "Rubberised 1,50 m Measuring Tape with paper sleeve.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
-    "personalizations": [],
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "82299",
+    "supplierVariantIds": [
+      "8229906"
+    ],
     "price": 0.28,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -120,7 +172,7 @@
       "https://macma.ro/products/jpg/M/8229906_2.jpg",
       "https://macma.ro/products/jpg/M/8229906_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -143,10 +195,27 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "93232",
+    "supplierVariantIds": [
+      "9323203"
+    ],
     "price": 2.84,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -157,7 +226,7 @@
       "https://macma.ro/products/jpg/M/9323203_3.jpg",
       "https://macma.ro/products/jpg/M/9323203_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -179,10 +248,21 @@
     "summary": "Solid steel tape measure, 5m running length with robust plastic casing, large digits, permanent stopper and practical nylon wrist strap.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "94625",
+    "supplierVariantIds": [
+      "9462503"
+    ],
     "price": 2.87,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -196,7 +276,7 @@
       "https://macma.ro/products/jpg/M/9462503_5.jpg",
       "https://macma.ro/products/jpg/M/9462503_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -218,10 +298,21 @@
     "summary": "Solid steel tape measure, 3m running length with robust plastic casing, large digits, permanent stopper and practical nylon wrist strap.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "94629",
+    "supplierVariantIds": [
+      "9462903"
+    ],
     "price": 2.23,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -235,7 +326,7 @@
       "https://macma.ro/products/jpg/M/9462903_5.jpg",
       "https://macma.ro/products/jpg/M/9462903_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -259,8 +350,22 @@
     "personalizations": [
       "uv-print"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": [
+          "6 x 2"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "95324",
+    "supplierVariantIds": [
+      "9532406",
+      "9532413"
+    ],
     "price": 2.15,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -274,7 +379,7 @@
       "https://macma.ro/products/jpg/M/9532413_2.jpg",
       "https://macma.ro/products/jpg/M/9532413_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,

@@ -6,11 +6,28 @@
     "summary": "A4 folder made of bonded leather with integrated powerbank (5.000 mAH capacity), USB-cable, 8 pockets, cell-phone pocket, ball pen loop, tablet pocket and a note pad.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "20123",
+    "supplierVariantIds": [
+      "2012307"
+    ],
     "price": 32.7,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -25,7 +42,7 @@
       "https://macma.ro/products/jpg/M/2012307_7.jpg",
       "https://macma.ro/products/jpg/M/2012307_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -47,11 +64,28 @@
     "summary": "Plastic Power bank with a capacity of 2200 mAh and USB connection in a package, so your smartphone / tablet can be charged on the way. We will print your logo directly on the power bank, full colour digital print poss...",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "20346",
+    "supplierVariantIds": [
+      "2034606"
+    ],
     "price": 4.65,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -64,7 +98,7 @@
       "https://macma.ro/products/jpg/M/2034606_box.jpg",
       "https://macma.ro/products/jpg/M/2034606_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -86,12 +120,41 @@
     "summary": "Power bank folder A5 with integrated power bank (4,000 mAh), notebook (128 pages) and slip pocket on the front. Input: 5V/1A - Output: 5V/2.1A.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
+      "textile-transfer",
       "co2",
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "20486",
+    "supplierVariantIds": [
+      "2048603"
+    ],
     "price": 28.46,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -106,7 +169,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/2048603_lifestyle_3.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/2048603_lifestyle_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -128,11 +191,28 @@
     "summary": "Power bank with a capacity of 10,000 mAH, USB charging cable and digital operation display to show the remaining power. You can recharge your smartphone several times with this plastic power bank.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "20518",
+    "supplierVariantIds": [
+      "2051806"
+    ],
     "price": 14.42,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -144,7 +224,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/2051806_lifestyle_1.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/2051806_lifestyle_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -166,12 +246,36 @@
     "summary": "A5 notebook with integrated 4000 mAh powerbank, various pockets, pen loop, mobile phone holder and USB charging cable. The highlight: rubberized magnetic lock with coloured LED light, so your logo will shine anywhere.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
+      "textile-transfer",
       "co2",
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "20752",
+    "supplierVariantIds": [
+      "2075205",
+      "2075209"
+    ],
     "price": 29.16,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -186,7 +290,7 @@
       "https://macma.ro/products/jpg/M/2075209_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/2075209_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -213,10 +317,27 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "23559",
+    "supplierVariantIds": [
+      "2355903"
+    ],
     "price": 8.74,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -230,7 +351,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/2355903_lifestyle_1.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/2355903_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -252,11 +373,28 @@
     "summary": "Wireless metal power bank with 8000 mAh capacity and USB charging cable for Android and iOS QI-enabled smartphones. Just place your smartphone on the powerbank and it will charge automatically.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "30823",
+    "supplierVariantIds": [
+      "3082303"
+    ],
     "price": 13.42,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -271,7 +409,7 @@
       "https://macma.ro/products/jpg/M/3082303_8.jpg",
       "https://macma.ro/products/jpg/M/3082303_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -294,10 +432,27 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "30824",
+    "supplierVariantIds": [
+      "3082403"
+    ],
     "price": 9.18,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -313,7 +468,7 @@
       "https://macma.ro/products/jpg/M/3082403_8.jpg",
       "https://macma.ro/products/jpg/M/3082403_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -335,11 +490,28 @@
     "summary": "Plastic power bank with 10,000mAh power, charging cable and indicator. It can charge 2 smartphones/tablets at the same time, Input: 5V/2.1A - Output: 5V/2.1A.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "31184",
+    "supplierVariantIds": [
+      "3118406"
+    ],
     "price": 12.26,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -350,7 +522,7 @@
       "https://macma.ro/products/jpg/M/3118406_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/3118406_lifestyle_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -373,10 +545,27 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "31473",
+    "supplierVariantIds": [
+      "3147313"
+    ],
     "price": 10.87,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -390,7 +579,7 @@
       "https://macma.ro/products/jpg/M/3147313_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/3147313_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -412,11 +601,28 @@
     "summary": "Powerbank with 20,000 mAh power, digital charging display and incl. charging cable. You can easily charge 2 devices at the same time. Input: 5V/2A (Micro+Type-C) - Output: 5V/2A (2x USB).",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "31498",
+    "supplierVariantIds": [
+      "3149806"
+    ],
     "price": 19.69,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -427,7 +633,7 @@
       "https://macma.ro/products/jpg/M/3149806_3.jpg",
       "https://macma.ro/products/jpg/M/3149806_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -450,10 +656,27 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "32563",
+    "supplierVariantIds": [
+      "3256313"
+    ],
     "price": 10.87,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -466,7 +689,7 @@
       "https://macma.ro/products/jpg/M/3256313_5.jpg",
       "https://macma.ro/products/jpg/M/3256313_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -489,10 +712,27 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "33190",
+    "supplierVariantIds": [
+      "3319013"
+    ],
     "price": 18.25,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -504,7 +744,7 @@
       "https://macma.ro/products/jpg/M/3319013_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/3319013_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -526,10 +766,21 @@
     "summary": "PU solar power bank with hinged cover (second solar panel), hanging loop, light, charging cable and 8,000 mAH power. Charging time: 12-15h.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "33657",
+    "supplierVariantIds": [
+      "3365703"
+    ],
     "price": 23.78,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -543,7 +794,7 @@
       "https://macma.ro/products/jpg/M/3365703_6.jpg",
       "https://macma.ro/products/jpg/M/3365703_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -565,10 +816,21 @@
     "summary": "Solar power bank with 20,000 mAH / 5 V / 5 Watt output and four fold-out solar panels for optimum energy supply. Includes C-type USB, micro USB and IOS charging cables and wireless charging function.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "33899",
+    "supplierVariantIds": [
+      "3389903"
+    ],
     "price": 44.4,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -589,7 +851,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/3389903_lifestyle_7.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/3389903_lifestyle_8.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -613,8 +875,19 @@
     "personalizations": [
       "fiber-laser"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "33909",
+    "supplierVariantIds": [
+      "3390977"
+    ],
     "price": 155.4,
     "priceFrom": false,
     "stockLevel": "low",
@@ -638,7 +911,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/3390977_lifestyle_3.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/3390977_lifestyle_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -662,8 +935,19 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "33949",
+    "supplierVariantIds": [
+      "3394913"
+    ],
     "price": 16.91,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -677,7 +961,7 @@
       "https://macma.ro/products/jpg/M/3394913_7.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/3394913_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -700,10 +984,28 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "33958",
+    "supplierVariantIds": [
+      "3395803",
+      "3395807"
+    ],
     "price": 14.22,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -727,7 +1029,7 @@
       "https://macma.ro/products/jpg/M/3395807_7.jpg",
       "https://macma.ro/products/jpg/M/3395807_8.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -754,10 +1056,27 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "33969",
+    "supplierVariantIds": [
+      "3396913"
+    ],
     "price": 22.03,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -771,7 +1090,7 @@
       "https://macma.ro/products/jpg/M/3396913_7.jpg",
       "https://macma.ro/products/jpg/M/3396913_8.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -794,10 +1113,30 @@
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "34503",
+    "supplierVariantIds": [
+      "3450307",
+      "3450305",
+      "3450303",
+      "3450304"
+    ],
     "price": 9.33,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -823,7 +1162,7 @@
       "https://macma.ro/products/jpg/M/3450304_2.jpg",
       "https://macma.ro/products/jpg/M/3450304_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -859,8 +1198,21 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": [
+          "4 x 5"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "35391",
+    "supplierVariantIds": [
+      "3539103"
+    ],
     "price": 36.21,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -872,7 +1224,7 @@
       "https://macma.ro/products/jpg/M/3539103_5.jpg",
       "https://macma.ro/products/jpg/M/3539103_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -894,10 +1246,23 @@
     "summary": "Magsafe® power bank made of recycled ABS with 10,000 mAh capacity and 15W super fast charging function, comes with a USB-C cable. The built-in magnet allows it to attach directly to an iPhone®. For other Qi-enabled de...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": [
+          "6 x 5"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "35435",
+    "supplierVariantIds": [
+      "3543503"
+    ],
     "price": 17.49,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -911,7 +1276,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/3543503_lifestyle_1.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/3543503_lifestyle_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -935,8 +1300,21 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG3",
+        "label": "CO₂ engraving 3",
+        "labelRo": "Gravură CO₂ 3",
+        "printSizes": [
+          "5 x 2"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "35436",
+    "supplierVariantIds": [
+      "3543603"
+    ],
     "price": 16.14,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -949,7 +1327,7 @@
       "https://macma.ro/products/jpg/M/3543603_6.jpg",
       "https://macma.ro/products/jpg/M/3543603_7.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -971,10 +1349,28 @@
     "summary": "Power bank (10,000 mAh) made of recycled plastic (RABS) with two ports: USB-C in/out 5V/2.1A and USB-A out 5V/2.1A. Includes 50 cm charging cable.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": [
+          "4 x 4"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "35494",
+    "supplierVariantIds": [
+      "3549403",
+      "3549404",
+      "3549405",
+      "3549409",
+      "3549410",
+      "3549411"
+    ],
     "price": 9.3,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1010,7 +1406,7 @@
       "https://macma.ro/products/jpg/M/3549411_4.jpg",
       "https://macma.ro/products/jpg/M/3549411_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -1052,10 +1448,21 @@
     "summary": "Power bank with suction cups, 2in1 charging cable (Android + iOS) and 4.000 mAh power capacity, fix it directly to your smartphone.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "40638",
+    "supplierVariantIds": [
+      "4063803"
+    ],
     "price": 6.99,
     "priceFrom": false,
     "stockLevel": "low",
@@ -1069,7 +1476,7 @@
       "https://macma.ro/products/jpg/M/4063803_7.jpg",
       "https://macma.ro/products/jpg/M/4063803_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1092,10 +1499,30 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "43029",
+    "supplierVariantIds": [
+      "4302904",
+      "4302903",
+      "4302905",
+      "4302907"
+    ],
     "price": 2.76,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1125,7 +1552,7 @@
       "https://macma.ro/products/jpg/M/4302907_2.jpg",
       "https://macma.ro/products/jpg/M/4302907_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,

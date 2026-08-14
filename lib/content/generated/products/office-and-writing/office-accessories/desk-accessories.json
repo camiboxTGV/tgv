@@ -7,10 +7,27 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
       "fiber-laser",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Engraving 2",
+        "labelRo": "Gravură 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "15318",
+    "supplierVariantIds": [
+      "1531807"
+    ],
     "price": 2.85,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -24,7 +41,7 @@
       "https://macma.ro/products/jpg/M/1531807_8.jpg",
       "https://macma.ro/products/jpg/M/1531807_box.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -46,8 +63,19 @@
     "summary": "This sublimation mousepad with polyester is perfect for full coloured promotion - almost endless logo space.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "SU",
+        "label": "Sublimation",
+        "labelRo": "Sublimare",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "20478",
+    "supplierVariantIds": [
+      "2047806"
+    ],
     "price": 0.42,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -67,7 +95,7 @@
       "https://macma.ro/products/jpg/M/2047806_4.jpg",
       "https://macma.ro/products/jpg/M/2047806_print.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -89,8 +117,19 @@
     "summary": "Round mouse pad made of rubber with spandex surface, perfect for allover digital print and suitable for photos or multi-coloured logos with gradients.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "SU",
+        "label": "Sublimation",
+        "labelRo": "Sublimare",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "21492",
+    "supplierVariantIds": [
+      "2149206"
+    ],
     "price": 0.57,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -110,7 +149,7 @@
       "https://macma.ro/products/jpg/M/2149206_8.jpg",
       "https://macma.ro/products/jpg/M/2149206_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -132,10 +171,28 @@
     "summary": "Practical and comfy white plastic letter opener with a sharp blade.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
+      "pad-screen",
       "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      },
+      {
+        "code": "UV",
+        "label": "UV LED printing",
+        "labelRo": "Print UV LED",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "22006",
+    "supplierVariantIds": [
+      "2200606"
+    ],
     "price": 0.19,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -144,7 +201,7 @@
       "https://macma.ro/products/jpg/M/2200606_1_print.jpg",
       "https://macma.ro/products/jpg/M/2200606_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -167,10 +224,27 @@
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "22263",
+    "supplierVariantIds": [
+      "2226313"
+    ],
     "price": 4.84,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -183,7 +257,7 @@
       "https://macma.ro/products/jpg/M/2226313_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/2226313_lifestyle_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -205,10 +279,21 @@
     "summary": "XXL gaming pad with microfibre surface and non-slip bottom for perfect stability.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "23140",
+    "supplierVariantIds": [
+      "2314003"
+    ],
     "price": 7.99,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -221,7 +306,7 @@
       "https://macma.ro/products/jpg/M/2314003_box.jpg",
       "https://macma.ro/products/jpg/M/2314003_l_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -244,10 +329,27 @@
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "23859",
+    "supplierVariantIds": [
+      "2385977"
+    ],
     "price": 1.62,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -261,7 +363,7 @@
       "https://macma.ro/products/jpg/M/2385977_7.jpg",
       "https://macma.ro/products/jpg/M/2385977_8.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -283,10 +385,28 @@
     "summary": "Bamboo ruler with centimetre scale (up to 30 cm).",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "co2"
+      "co2",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG1",
+        "label": "CO₂ engraving 1",
+        "labelRo": "Gravură CO₂ 1",
+        "printSizes": []
+      },
+      {
+        "code": "T1",
+        "label": "Pad printing 1",
+        "labelRo": "Tampografie 1",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "23863",
+    "supplierVariantIds": [
+      "2386313"
+    ],
     "price": 0.45,
     "priceFrom": false,
     "stockLevel": "low",
@@ -295,7 +415,7 @@
       "https://macma.ro/products/jpg/M/2386313_1.jpg",
       "https://macma.ro/products/jpg/M/2386313_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -318,10 +438,31 @@
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": [
+          "3,5 x 4"
+        ]
+      },
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "3,5 x 4"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "25360",
+    "supplierVariantIds": [
+      "2536013"
+    ],
     "price": 4.45,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -331,7 +472,7 @@
       "https://macma.ro/products/jpg/M/2536013_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/2536013_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -354,10 +495,27 @@
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
       "co2",
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "CG2",
+        "label": "CO₂ engraving 2",
+        "labelRo": "Gravură CO₂ 2",
+        "printSizes": []
+      },
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "33926",
+    "supplierVariantIds": [
+      "3392603"
+    ],
     "price": 3.3,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -366,7 +524,7 @@
       "https://macma.ro/products/jpg/M/3392603_1.jpg",
       "https://macma.ro/products/jpg/M/3392603_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -388,8 +546,21 @@
     "summary": "Disinfection column with a solid base, a telescopic rod (125-165 cm), an A4 sized logo space and a container with 1000 ml capacity for disinfectant gel or liquid, batteries are not included. Ideal for authorities, res...",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "DO",
+        "label": "Macma method DO",
+        "labelRo": "Metodă Macma DO",
+        "printSizes": [
+          "21 × 16"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "51726",
+    "supplierVariantIds": [
+      "5172607"
+    ],
     "price": 19.83,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -403,7 +574,7 @@
       "https://macma.ro/products/jpg/M/5172607_print.jpg",
       "https://macma.ro/products/jpg/M/5172607_print_eng.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -425,10 +596,23 @@
     "summary": "These glasses filter the blue light from digital devices (monitor, smartphone, etc.) and are suitable for anyone who spends a lot of time in front of screens made of PC material.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": [
+          "3,5 x 0,8"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "55654",
+    "supplierVariantIds": [
+      "5565403"
+    ],
     "price": 1.15,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -444,7 +628,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/5565403_lifestyle_3.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/5565403_lifestyle_4.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -466,10 +650,21 @@
     "summary": "Magnifier glass with LED, makes finding your way so much easier.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T2",
+        "label": "Pad printing 2",
+        "labelRo": "Tampografie 2",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "92238",
+    "supplierVariantIds": [
+      "9223803"
+    ],
     "price": 2.77,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -478,7 +673,7 @@
       "https://macma.ro/products/jpg/M/9223803_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/9223803_lifestyle_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -500,10 +695,23 @@
     "summary": "Elegant set of magnetic bookmark and postcard Pierre Cardin. The set will catch your eye with its colorful design. The bookmark would nicely complement Pierre Cardin notepads or could be a practical gift for all passi...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": [
+          "3 × 1,5"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "LIBRO",
+    "supplierVariantIds": [
+      "B4613000IP3"
+    ],
     "price": 1.88,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -514,7 +722,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b4613000ip3_4.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b4613000ip3_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -538,8 +746,21 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": [
+          "3,5 × 2"
+        ]
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "TAPIS",
+    "supplierVariantIds": [
+      "B1205400IP3"
+    ],
     "price": 36.34,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -555,7 +776,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b1205400ip3_8.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b1205400ip3_9.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

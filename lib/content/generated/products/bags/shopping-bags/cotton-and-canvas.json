@@ -6,11 +6,30 @@
     "summary": "Foldable shopping basket made of polyester and aluminium linkage. A useful companion that can be stored folded to save space.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "60058",
+    "supplierVariantIds": [
+      "6005844",
+      "6005805",
+      "6005877"
+    ],
     "price": 13.25,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -22,7 +41,7 @@
       "https://macma.ro/products/jpg/M/6005877_0.jpg",
       "https://macma.ro/products/jpg/M/6005877_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -52,11 +71,30 @@
     "summary": "Foldable polyester shopping basket with insulating function and aluminium linkage. A useful companion that can be stored folded to save space.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "60059",
+    "supplierVariantIds": [
+      "6005905",
+      "6005977",
+      "6005944"
+    ],
     "price": 14.38,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -68,7 +106,7 @@
       "https://macma.ro/products/jpg/M/6005944_0.jpg",
       "https://macma.ro/products/jpg/M/6005944_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -98,11 +136,28 @@
     "summary": "Handy shopping basket made of polyester with foldable carrying handle made of aluminium and a cooler function. Thanks to the special material, the basket can be easily folded and has a carrying capacity of 15kg. We wi...",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "60061",
+    "supplierVariantIds": [
+      "6006105"
+    ],
     "price": 9.89,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -112,7 +167,7 @@
       "https://macma.ro/products/jpg/M/6006105_2.jpg",
       "https://macma.ro/products/jpg/M/6006105_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -134,11 +189,28 @@
     "summary": "Foldable shopping trolley made of polyester with integrated cooling compartment. The frame is made of aluminium and includes a hook for hanging the trolley to a shopping cart.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-print",
-      "uv-transfer"
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      },
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "60063",
+    "supplierVariantIds": [
+      "6006377"
+    ],
     "price": 55.93,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -151,7 +223,7 @@
       "https://macma.ro/products/jpg/M/6006377_5.jpg",
       "https://macma.ro/products/jpg/M/6006377_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -173,11 +245,34 @@
     "summary": "Foldable non-woven shopping bag in a nice 2-colour design with carrying handles. 80 g/m²",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "60094",
+    "supplierVariantIds": [
+      "6009405",
+      "6009406",
+      "6009404",
+      "6009410",
+      "6009408",
+      "6009411",
+      "6009409"
+    ],
     "price": 0.78,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -199,7 +294,7 @@
       "https://macma.ro/products/jpg/M/6009409_0.jpg",
       "https://macma.ro/products/jpg/M/6009409_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 7,
     "colorCount": 7,
     "sizeCount": 0,
@@ -245,11 +340,40 @@
     "summary": "190T polyester foldable shopping bag with carrying straps.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "60724",
+    "supplierVariantIds": [
+      "6072403",
+      "6072406",
+      "6072411",
+      "6072405",
+      "6072410",
+      "6072412",
+      "6072408",
+      "6072444",
+      "6072409",
+      "6072407",
+      "6072429",
+      "6072424",
+      "6072404"
+    ],
     "price": 0.84,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -312,7 +436,7 @@
       "https://macma.ro/products/jpg/M/6072404_2.jpg",
       "https://macma.ro/products/jpg/M/6072404_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 13,
     "colorCount": 13,
     "sizeCount": 0,
@@ -382,10 +506,24 @@
     "summary": "Jute bag with drawstring, perfect for the beach or outdoor swimming.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "60864",
+    "supplierVariantIds": [
+      "6086403",
+      "6086444",
+      "6086404",
+      "6086405"
+    ],
     "price": 6.06,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -399,7 +537,7 @@
       "https://macma.ro/products/jpg/M/6086405_0.jpg",
       "https://macma.ro/products/jpg/M/6086405_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -433,10 +571,22 @@
     "summary": "Large, coloured jute bag with drawstring, your ideal shopping companion.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "60865",
+    "supplierVariantIds": [
+      "6086511",
+      "6086504"
+    ],
     "price": 5.65,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -450,7 +600,7 @@
       "https://macma.ro/products/jpg/M/6086504_2.jpg",
       "https://macma.ro/products/jpg/M/6086504_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -476,11 +626,41 @@
     "summary": "Large non-woven shopping bag with long straps and cross seam.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "60917",
+    "supplierVariantIds": [
+      "6091714",
+      "6091703",
+      "6091710",
+      "6091777",
+      "6091706",
+      "6091799",
+      "6091704",
+      "6091708",
+      "6091705",
+      "6091707",
+      "6091702",
+      "6091724",
+      "6091729",
+      "6091711"
+    ],
     "price": 0.45,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -515,7 +695,7 @@
       "https://macma.ro/products/jpg/M/6091711_0.jpg",
       "https://macma.ro/products/jpg/M/6091711_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 14,
     "colorCount": 14,
     "sizeCount": 0,
@@ -589,11 +769,28 @@
     "summary": "Eco Tex Standard 100 cotton bag with crocheted middle section, which makes the bag flexible. 150 g/m²",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "61831",
+    "supplierVariantIds": [
+      "6183106"
+    ],
     "price": 1.55,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -603,7 +800,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/6183106_lifestyle_1.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6183106_lifestyle_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -625,11 +822,37 @@
     "summary": "Recycled, Eco Tex Standard 100 cotton bag with long handles (140g/m²).",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S1",
+        "label": "Direct screen printing",
+        "labelRo": "Serigrafie directă",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "62358",
+    "supplierVariantIds": [
+      "6235804",
+      "6235803",
+      "6235805",
+      "6235806"
+    ],
     "price": 0.78,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -643,7 +866,7 @@
       "https://macma.ro/products/jpg/M/6235806_0.jpg",
       "https://macma.ro/products/jpg/M/6235806_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -677,11 +900,30 @@
     "summary": "Handy polyester shopping basket with a foldable aluminium carrying handle. The basket folds easily and has a carrying capacity of 15kg.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "63152",
+    "supplierVariantIds": [
+      "6315277",
+      "6315205",
+      "6315244"
+    ],
     "price": 17.95,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -705,7 +947,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/6315244_lifestyle_5.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6315244_lifestyle_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -735,11 +977,28 @@
     "summary": "Cotton bag with 120gsm, carrying handles, wax crayons and a printed design for colouring.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "63256",
+    "supplierVariantIds": [
+      "6325613"
+    ],
     "price": 1.65,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -748,7 +1007,7 @@
       "https://macma.ro/products/jpg/M/6325613_1.jpg",
       "https://macma.ro/products/jpg/M/6325613_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -770,11 +1029,28 @@
     "summary": "Washable and reusable cotton net for fruits, vegetables and more. Comes with a closing cord and a small cotton patch on the front.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "63477",
+    "supplierVariantIds": [
+      "6347713"
+    ],
     "price": 1.21,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -782,7 +1058,7 @@
       "https://macma.ro/products/jpg/M/6347713_0.jpg",
       "https://macma.ro/products/jpg/M/6347713_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -804,11 +1080,28 @@
     "summary": "Non woven bag with 80gsm, solid cross stitching and long handles.",
     "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "63651",
+    "supplierVariantIds": [
+      "6365113"
+    ],
     "price": 0.42,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -816,7 +1109,7 @@
       "https://macma.ro/products/jpg/M/6365113_0.jpg",
       "https://macma.ro/products/jpg/M/6365113_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -838,11 +1131,28 @@
     "summary": "Large non-woven bag with 80gsm, solid cross stitching, bottom gusset and long handles.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "63652",
+    "supplierVariantIds": [
+      "6365213"
+    ],
     "price": 0.51,
     "priceFrom": false,
     "stockLevel": "low",
@@ -850,7 +1160,7 @@
       "https://macma.ro/products/jpg/M/6365213_0.jpg",
       "https://macma.ro/products/jpg/M/6365213_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -872,11 +1182,28 @@
     "summary": "Foldable non woven bag with 80gsm, solid cross stitching and handles.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "63654",
+    "supplierVariantIds": [
+      "6365413"
+    ],
     "price": 0.67,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -889,7 +1216,7 @@
       "https://macma.ro/products/jpg/M/6365413_5.jpg",
       "https://macma.ro/products/jpg/M/6365413_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -911,8 +1238,25 @@
     "summary": "Folding plastic shopping trolley with extendable handle and 32 litre capacity. This makes it easy to transport your shopping.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "S2-PL",
+        "label": "Macma method S2-PL",
+        "labelRo": "Metodă Macma S2-PL",
+        "printSizes": []
+      },
+      {
+        "code": "DO",
+        "label": "Macma method DO",
+        "labelRo": "Metodă Macma DO",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "63861",
+    "supplierVariantIds": [
+      "6386103"
+    ],
     "price": 15.81,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -931,7 +1275,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/6386103_lifestyle_5.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6386103_lifestyle_6.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -953,11 +1297,34 @@
     "summary": "Natural-coloured, environmentally friendly cotton bag (180g/m²) with two long handles.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S1",
+        "label": "Direct screen printing",
+        "labelRo": "Serigrafie directă",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "63880",
+    "supplierVariantIds": [
+      "6388013"
+    ],
     "price": 0.81,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -965,7 +1332,7 @@
       "https://macma.ro/products/jpg/M/6388013_0.jpg",
       "https://macma.ro/products/jpg/M/6388013_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -989,8 +1356,19 @@
     "personalizations": [
       "co2"
     ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Engraving 3",
+        "labelRo": "Gravură 3",
+        "printSizes": []
+      }
+    ],
     "supplierId": "macma",
     "supplierSku": "63886",
+    "supplierVariantIds": [
+      "6388601"
+    ],
     "price": 18.63,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1003,7 +1381,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/6388601_lifestyle_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6388601_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1025,11 +1403,28 @@
     "summary": "Oeko-Tex® STANDARD 100 certified, natural coloured cotton bag (140g/m²) with two carrying straps and a closable front pocket.",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "64940",
+    "supplierVariantIds": [
+      "6494006"
+    ],
     "price": 2.13,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1037,7 +1432,7 @@
       "https://macma.ro/products/jpg/M/6494006_0.jpg",
       "https://macma.ro/products/jpg/M/6494006_1.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1059,11 +1454,32 @@
     "summary": "Large, transparent beach or shopping bag made of polyester with long carrying handles.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "25 x 20"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "25 x 20"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "65386",
+    "supplierVariantIds": [
+      "6538603"
+    ],
     "price": 2.63,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1072,7 +1488,7 @@
       "https://macma.ro/products/jpg/M/6538603_1.jpg",
       "https://macma.ro/products/jpg/M/6538603_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1094,11 +1510,32 @@
     "summary": "Sturdy shopper made of durable playester cord fabric, 250gsm corduroy (100%) with a front pocket, snap closure, and long, comfortable carrying handles.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "10 x 15"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "10 x 15"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "65425",
+    "supplierVariantIds": [
+      "6542507"
+    ],
     "price": 6.41,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1107,7 +1544,7 @@
       "https://macma.ro/products/jpg/M/6542507_1.jpg",
       "https://macma.ro/products/jpg/M/6542507_2_lifestyle.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1129,11 +1566,32 @@
     "summary": "Premium PU shopper bag with subtle CrisMa label.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "8 x 12"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "8 x 12"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "65476",
+    "supplierVariantIds": [
+      "6547603"
+    ],
     "price": 7.2,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1145,7 +1603,7 @@
       "https://macma.ro/products/jpg/M/6547603_4.jpg",
       "https://macma.ro/products/jpg/M/6547603_5.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1167,10 +1625,35 @@
     "summary": "Fairtrade cotton tote (180 gsm) with gusset and long handles (70 cm).",
     "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S1",
+        "label": "Direct screen printing",
+        "labelRo": "Serigrafie directă",
+        "printSizes": [
+          "26 x 27"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "26 x 27"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "65482",
+    "supplierVariantIds": [
+      "6548203",
+      "6548205",
+      "6548206",
+      "6548209",
+      "6548244"
+    ],
     "price": 1.89,
     "priceFrom": false,
     "stockLevel": "in-stock",
@@ -1191,7 +1674,7 @@
       "https://macma.ro/products/jpg/M/6548244_1.jpg",
       "https://macma.ro/products/jpg/M/6548244_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -1229,10 +1712,21 @@
     "summary": "XXL allround bag, ideal for shopping and the car. This bag is small when folded and huge when unfolded, with 2 compartments. Thanks to its firm walls, it provides a fix stand in the trunk. It is also ideal for all the...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     "personalizations": [
-      "uv-print"
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "67551",
+    "supplierVariantIds": [
+      "6755103"
+    ],
     "price": 10.79,
     "priceFrom": false,
     "stockLevel": "low",
@@ -1243,7 +1737,7 @@
       "https://macma.ro/products/jpg/M/6755103_3_print.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6755103_lifestyle_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1265,11 +1759,29 @@
     "summary": "The non-woven shopping bag can be folded saving space, and stored anywhere, thus, it is always at hand for spontaneous shopping trips. We will print your logo on one side.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": []
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": []
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "68792",
+    "supplierVariantIds": [
+      "6879205",
+      "6879210"
+    ],
     "price": 0.64,
     "priceFrom": false,
     "stockLevel": "low",
@@ -1285,7 +1797,7 @@
       "https://macma.ro/products/jpg/M/6879210_1.jpg",
       "https://macma.ro/products/jpg/M/6879210_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -1311,8 +1823,12 @@
     "summary": "Elegant Vanilla Seaon shopping and leisure bag. The bag is made in beige color. It has a main compartment that can be closed with a press, a small inner pocket and a large front pocket. The bag is very spacious, so it...",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [],
+    "supplierPersonalizations": [],
     "supplierId": "macma",
     "supplierSku": "H510020",
+    "supplierVariantIds": [
+      "H5100200AJ3"
+    ],
     "price": 11.78,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -1324,7 +1840,7 @@
       "https://macma.ro/products/jpg/PSV/VANILLA/h5100200aj3_d.jpg",
       "https://macma.ro/products/jpg/PSV/VANILLA/h5100200aj3_e.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1345,11 +1861,46 @@
     "summary": "Practical Vanilla Season folding shopping bag, which must not be missing in any handbag. The bag is made of recycled polyester with GRS certification. Offered in 4 modern colours.",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
-      "uv-transfer",
-      "uv-print"
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "30 × 30",
+          "5 × 4,2"
+        ]
+      },
+      {
+        "code": "S1",
+        "label": "Direct screen printing",
+        "labelRo": "Serigrafie directă",
+        "printSizes": [
+          "30 × 30",
+          "5 × 4,2"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Transfer screen printing",
+        "labelRo": "Serigrafie prin transfer",
+        "printSizes": [
+          "30 × 30",
+          "5 × 4,2"
+        ]
+      }
     ],
     "supplierId": "macma",
     "supplierSku": "KALBARRI",
+    "supplierVariantIds": [
+      "H5100100AJ3",
+      "H5100101AJ3",
+      "H5100102AJ3",
+      "H5100103AJ3"
+    ],
     "price": 2.73,
     "priceFrom": false,
     "stockLevel": "out-of-stock",
@@ -1364,7 +1915,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/h5100103aj3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/h5100103aj3_2.jpg"
     ],
-    "fetchedAt": "2026-08-14T04:51:55.703Z",
+    "fetchedAt": "2026-08-14T14:38:18.637Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
