@@ -3,6 +3,7 @@
 import { useEffect, useRef, useState, type ReactNode } from "react"
 import { useRouter } from "next/navigation"
 import type { SearchResponse, SearchResult } from "@/lib/search/types"
+import { useLanguage } from "@/components/LanguageProvider"
 
 type Status = "idle" | "loading" | "ready" | "error"
 
@@ -37,6 +38,7 @@ function highlight(
 }
 
 export default function SearchBox({ className, onNavigate }: SearchBoxProps) {
+  const { locale } = useLanguage()
   const router = useRouter()
   const [query, setQuery] = useState("")
   const [results, setResults] = useState<SearchResult[]>([])
@@ -156,7 +158,7 @@ export default function SearchBox({ className, onNavigate }: SearchBoxProps) {
         aria-activedescendant={
           activeIndex >= 0 ? `search-opt-${activeIndex}` : undefined
         }
-        placeholder="Search products…"
+        placeholder={locale === "ro" ? "Caută produse…" : "Search products…"}
         value={query}
         onChange={(e) => setQuery(e.target.value)}
         onFocus={() => {
@@ -173,17 +175,20 @@ export default function SearchBox({ className, onNavigate }: SearchBoxProps) {
         >
           {status === "loading" && (
             <li className="px-4 py-3 text-sm text-[var(--text-muted)]">
-              Searching…
+              {locale === "ro" ? "Se caută…" : "Searching…"}
             </li>
           )}
           {status === "ready" && results.length === 0 && (
             <li className="px-4 py-3 text-sm text-[var(--text-muted)]">
-              No matches for &ldquo;{query}&rdquo;
+              {locale === "ro" ? "Niciun rezultat pentru" : "No matches for"}{" "}
+              &ldquo;{query}&rdquo;
             </li>
           )}
           {status === "error" && (
             <li className="px-4 py-3 text-sm text-[var(--text-muted)]">
-              Search unavailable. Try again in a moment.
+              {locale === "ro"
+                ? "Căutarea nu este disponibilă. Încearcă din nou în câteva momente."
+                : "Search unavailable. Try again in a moment."}
             </li>
           )}
           {results.map((r, i) => (
@@ -220,7 +225,7 @@ export default function SearchBox({ className, onNavigate }: SearchBoxProps) {
                 </span>
               </div>
               <span className="shrink-0 text-sm font-semibold text-[var(--brand-orange)]">
-                {r.priceFrom ? "from " : ""}
+                {r.priceFrom ? (locale === "ro" ? "de la " : "from ") : ""}
                 {r.price.toFixed(2)} €
               </span>
             </li>

@@ -26,6 +26,7 @@ import {
   splitPath,
   type CategoryNode,
 } from "@/lib/content/categories"
+import LocalizedText from "@/components/LocalizedText"
 
 interface PageProps {
   params: Promise<{ slug: string[] }>
@@ -161,7 +162,7 @@ function CategoryView({ segments }: Readonly<{ segments: string[] }>) {
         <ol className="flex flex-wrap items-center gap-2 text-xs text-[var(--text-muted)]">
           <li>
             <Link href="/" className="hover:text-[var(--brand-black)] transition-colors">
-              Home
+              <LocalizedText en="Home" ro="Acasă" />
             </Link>
           </li>
           <li aria-hidden="true">/</li>
@@ -201,10 +202,11 @@ function CategoryView({ segments }: Readonly<{ segments: string[] }>) {
           </p>
         ) : null}
         <p className="relative mt-3 text-sm text-[var(--text-muted)]">
-          {totalCount} {categoryItemLabel(node, totalCount)}{" "}
-          {node.contentType === "project"
-            ? "featured in this category."
-            : "available for personalization."}
+          {totalCount}{" "}
+          <LocalizedText
+            en={`${categoryItemLabel(node, totalCount)} ${node.contentType === "project" ? "featured in this category." : "available for personalization."}`}
+            ro={`${node.contentType === "project" ? (totalCount === 1 ? "proiect" : "proiecte") : (totalCount === 1 ? "produs" : "produse")} ${node.contentType === "project" ? "în această categorie." : "disponibile pentru personalizare."}`}
+          />
         </p>
       </section>
 
@@ -221,7 +223,7 @@ function CategoryView({ segments }: Readonly<{ segments: string[] }>) {
         <div className="mx-auto px-6 lg:px-8 py-6 max-w-6xl">
           <div className="flex flex-col sm:flex-row sm:items-center gap-3">
             <span className="text-xs font-semibold uppercase tracking-widest text-[var(--text-muted)]">
-              Available techniques
+              <LocalizedText en="Available techniques" ro="Tehnici disponibile" />
             </span>
             <div className="flex flex-wrap gap-1.5">
               {PERSONALIZATIONS.map((p) => (
@@ -245,17 +247,17 @@ function CategoryView({ segments }: Readonly<{ segments: string[] }>) {
         <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 p-6 lg:p-8 bg-[var(--surface)] border border-[var(--border)] rounded-2xl">
           <div>
             <h2 className="text-lg font-[family-name:var(--font-outfit)] font-semibold text-[var(--brand-black)]">
-              Don't see what you need?
+              <LocalizedText en="Don't see what you need?" ro="Nu găsești ceea ce ai nevoie?" />
             </h2>
             <p className="mt-1 text-sm text-[var(--text-soft)]">
-              We build bespoke pieces from substrate up.
+              <LocalizedText en="We build bespoke pieces from substrate up." ro="Construim piese custom de la materialul de bază." />
             </p>
           </div>
           <Link
             href="/services/custom-production-integrated-branding"
             className="inline-flex items-center gap-2 px-5 py-2.5 text-sm font-semibold text-[var(--brand-black)] bg-transparent border border-[var(--border-strong)] hover:bg-[var(--surface-soft)] rounded-full transition-colors"
           >
-            <span>Custom production</span>
+            <span><LocalizedText en="Custom production" ro="Producție custom" /></span>
             <span aria-hidden="true">→</span>
           </Link>
         </div>
@@ -288,7 +290,7 @@ function ProductDetailShell({
         <ol className="flex flex-wrap items-center gap-2 text-xs text-[var(--text-muted)]">
           <li>
             <Link href="/" className="hover:text-[var(--brand-black)] transition-colors">
-              Home
+              <LocalizedText en="Home" ro="Acasă" />
             </Link>
           </li>
           <li aria-hidden="true">/</li>
@@ -313,7 +315,7 @@ function ProductDetailShell({
       {related.length > 0 ? (
         <section className="mx-auto px-6 lg:px-8 py-12 lg:py-16 max-w-6xl">
           <h2 className="text-2xl sm:text-3xl font-[family-name:var(--font-outfit)] font-semibold text-[var(--brand-black)]">
-            You may also like
+            <LocalizedText en="You may also like" ro="S-ar putea să îți placă și" />
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mt-6">
             {related.map((p) => (
@@ -377,28 +379,27 @@ function LeafProducts({ slug }: Readonly<{ slug: string[] }>) {
         <section className="mx-auto px-6 lg:px-8 py-12 lg:py-16 max-w-6xl">
           <div className="flex flex-col items-start max-w-2xl p-7 sm:p-9 bg-[var(--surface)] border border-[var(--border)] rounded-3xl">
             <p className="text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange)]">
-              Bespoke portfolio
+              <LocalizedText en="Bespoke portfolio" ro="Portofoliu custom" />
             </p>
             <h2 className="mt-3 text-2xl sm:text-3xl font-[family-name:var(--font-outfit)] font-semibold text-[var(--brand-black)]">
-              New projects will appear here as they leave the studio.
+              <LocalizedText en="New projects will appear here as they leave the studio." ro="Proiectele noi vor apărea aici pe măsură ce ies din atelier." />
             </h2>
             <p className="mt-3 text-sm sm:text-base leading-relaxed text-[var(--text-soft)]">
-              Until then, explore our wider portfolio or brief us on the piece
-              you need — our team can take it from concept to production.
+              <LocalizedText en="Until then, explore our wider portfolio or brief us on the piece you need — our team can take it from concept to production." ro="Până atunci, explorează portofoliul complet sau trimite-ne brieful piesei de care ai nevoie — o putem duce de la concept la producție." />
             </p>
             <div className="flex flex-wrap gap-3 mt-6">
               <Link
                 href="/portfolio"
                 className="inline-flex items-center gap-2 px-5 py-2.5 text-sm font-semibold text-white bg-[var(--brand-orange)] hover:bg-[var(--brand-orange-hover)] rounded-full transition-colors"
               >
-                View portfolio
+                <LocalizedText en="View portfolio" ro="Vezi portofoliul" />
                 <span aria-hidden="true">→</span>
               </Link>
               <Link
                 href="/contact"
                 className="inline-flex items-center px-5 py-2.5 text-sm font-semibold text-[var(--brand-black)] border border-[var(--border-strong)] hover:bg-[var(--surface-soft)] rounded-full transition-colors"
               >
-                Start a custom project
+                <LocalizedText en="Start a custom project" ro="Începe un proiect custom" />
               </Link>
             </div>
           </div>
@@ -408,7 +409,7 @@ function LeafProducts({ slug }: Readonly<{ slug: string[] }>) {
     return (
       <section className="mx-auto px-6 lg:px-8 py-12 lg:py-16 max-w-6xl">
         <p className="text-sm text-[var(--text-muted)]">
-          No products in this category yet. Check back after the next catalog sync.
+          <LocalizedText en="No products in this category yet. Check back after the next catalog sync." ro="Nu există încă produse în această categorie. Revino după următoarea sincronizare a catalogului." />
         </p>
       </section>
     )

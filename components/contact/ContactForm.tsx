@@ -6,6 +6,7 @@ import { useSearchParams } from "next/navigation"
 import ChipGroup from "@/components/contact/ChipGroup"
 import FileDropZone from "@/components/contact/FileDropZone"
 import { useOffer } from "@/components/OfferProvider"
+import { useLanguage } from "@/components/LanguageProvider"
 import { deserializeFromUrl, lineKey, type OfferItem } from "@/lib/offer/storage"
 import {
   ACCEPT_FILES_ATTR,
@@ -84,6 +85,8 @@ function errorMessage(code: string): string {
 }
 
 export default function ContactForm() {
+  const { locale } = useLanguage()
+  const ro = locale === "ro"
   const searchParams = useSearchParams()
   const { items: offerItems, clear } = useOffer()
   const [state, setState] = useState<FormState>(initial)
@@ -250,10 +253,10 @@ export default function ContactForm() {
         <SelectedProductsPanel items={selectedProducts} />
       )}
 
-      <FieldGroup label="About you">
+      <FieldGroup label={ro ? "Despre tine" : "About you"}>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
           <Field
-            label="Name"
+            label={ro ? "Nume" : "Name"}
             required
             error={errors.name}
           >
@@ -280,7 +283,7 @@ export default function ContactForm() {
               className={inputClass(!!errors.email)}
             />
           </Field>
-          <Field label="Phone" error={errors.phone}>
+          <Field label={ro ? "Telefon" : "Phone"} error={errors.phone}>
             <input
               type="tel"
               value={state.phone}
@@ -289,7 +292,7 @@ export default function ContactForm() {
               className={inputClass(false)}
             />
           </Field>
-          <Field label="Company" error={errors.company}>
+          <Field label={ro ? "Companie" : "Company"} error={errors.company}>
             <input
               type="text"
               value={state.company}
@@ -301,10 +304,10 @@ export default function ContactForm() {
         </div>
       </FieldGroup>
 
-      <FieldGroup label="About the project">
+      <FieldGroup label={ro ? "Despre proiect" : "About the project"}>
         <div className="flex flex-col gap-6">
           {!hasSelectedProducts && (
-            <Field label="Quantity estimate">
+            <Field label={ro ? "Cantitate estimată" : "Quantity estimate"}>
               <ChipGroup
                 variant="single"
                 name="quantity"
@@ -315,7 +318,7 @@ export default function ContactForm() {
               {state.quantity === "other" && (
                 <input
                   type="text"
-                  placeholder="e.g. 12,500 units"
+                  placeholder={ro ? "ex. 12.500 bucăți" : "e.g. 12,500 units"}
                   value={state.quantityOther}
                   onChange={(e) => update("quantityOther", e.target.value)}
                   className={`${inputClass(false)} mt-3`}
@@ -324,10 +327,10 @@ export default function ContactForm() {
             </Field>
           )}
           <Field
-            label="Deadline"
+            label={ro ? "Termen limită" : "Deadline"}
             required
             error={errors.deadlinePreset}
-            help="Pick a timeframe or set an exact date"
+            help={ro ? "Alege un interval sau o dată exactă" : "Pick a timeframe or set an exact date"}
           >
             <DeadlinePicker
               preset={state.deadlinePreset}
@@ -343,10 +346,11 @@ export default function ContactForm() {
                 if (v.length > 0) update("deadlinePreset", null)
                 markTouched("deadlineDate")
               }}
+              locale={locale}
             />
           </Field>
           <Field
-            label="Tell us about the event, audience or campaign"
+            label={ro ? "Spune-ne despre eveniment, public sau campanie" : "Tell us about the event, audience or campaign"}
             required
             error={errors.context}
             help={`${state.context.length}/${MAX_CONTEXT_CHARS}`}
@@ -356,14 +360,14 @@ export default function ContactForm() {
               onChange={(e) => update("context", e.target.value.slice(0, MAX_CONTEXT_CHARS))}
               onBlur={() => markTouched("context")}
               rows={5}
-              placeholder="Who is it for, when does it happen, what does success look like…"
+              placeholder={ro ? "Cui se adresează, când are loc și cum arată rezultatul dorit…" : "Who is it for, when does it happen, what does success look like…"}
               className={`${inputClass(!!errors.context)} resize-y min-h-32`}
             />
           </Field>
         </div>
       </FieldGroup>
 
-      <FieldGroup label="Files & artwork">
+      <FieldGroup label={ro ? "Fișiere și grafică" : "Files & artwork"}>
         <FileDropZone
           files={state.files}
           onChange={(files) => update("files", files)}
@@ -390,22 +394,22 @@ export default function ContactForm() {
               : "bg-[var(--brand-orange)] hover:scale-[1.01]"
           }`}
         >
-          {submitting ? "Sending…" : (
+          {submitting ? (ro ? "Se trimite…" : "Sending…") : (
             <>
-              <span>Send brief</span>
+              <span>{ro ? "Trimite brieful" : "Send brief"}</span>
               <span aria-hidden="true">→</span>
             </>
           )}
         </button>
         <p className="text-xs text-[var(--text-muted)] text-center">
-          By sending you agree to our{" "}
+          {ro ? "Prin trimitere ești de acord cu " : "By sending you agree to our "}
           <Link
             href="/privacy"
             className="text-[var(--text-soft)] hover:text-[var(--brand-orange)] underline"
           >
-            privacy policy
+            {ro ? "politica de confidențialitate" : "privacy policy"}
           </Link>
-          . We respond within 1 business day.
+          . {ro ? "Răspundem în cel mult o zi lucrătoare." : "We respond within 1 business day."}
         </p>
       </div>
     </form>
@@ -474,13 +478,16 @@ function DeadlinePicker({
   minDate,
   onPresetChange,
   onDateChange,
+  locale,
 }: {
   preset: DeadlinePreset | null
   date: string
   minDate: string
   onPresetChange: (v: DeadlinePreset | null) => void
   onDateChange: (v: string) => void
+  locale: "ro" | "en"
 }) {
+  const ro = locale === "ro"
   const activeHint = DEADLINE_PRESETS.find((p) => p.value === preset)?.hint
   return (
     <div className="flex flex-col gap-3">
@@ -500,23 +507,29 @@ function DeadlinePicker({
                   : "text-[var(--text-soft)] bg-[var(--surface)] border-[var(--border)] hover:border-[var(--border-strong)]"
               }`}
             >
-              {opt.label}
+              {ro
+                ? ({ "2-weeks": "În 2 săptămâni", "1-month": "Într-o lună", "2-3-months": "2–3 luni", flexible: "Flexibil" } as const)[opt.value]
+                : opt.label}
             </button>
           )
         })}
       </div>
       {activeHint && (
-        <p className="text-xs text-[var(--text-muted)]">{activeHint}</p>
+        <p className="text-xs text-[var(--text-muted)]">
+          {ro && preset
+            ? ({ "2-weeks": "Urgent — se poate aplica un tarif premium", "1-month": "Termen standard", "2-3-months": "Interval optim pentru preț", flexible: "Îți recomandăm calendarul optim" } as const)[preset]
+            : activeHint}
+        </p>
       )}
       <div className="flex items-center gap-3">
         <span className="text-xs uppercase tracking-widest text-[var(--text-muted)]">
-          or
+          {ro ? "sau" : "or"}
         </span>
         <span className="flex-1 h-px bg-[var(--border-soft)]" />
       </div>
       <label className="flex flex-col gap-2">
         <span className="text-xs font-medium text-[var(--text-muted)]">
-          Exact date
+          {ro ? "Dată exactă" : "Exact date"}
         </span>
         <input
           type="date"

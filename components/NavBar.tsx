@@ -6,21 +6,23 @@ import { usePathname } from "next/navigation"
 import { useOffer } from "@/components/OfferProvider"
 import LanguageSwitch from "@/components/LanguageSwitch"
 import SearchBox from "@/components/SearchBox"
+import { useLanguage } from "@/components/LanguageProvider"
 
 interface NavLink {
   href: string
-  label: string
+  label: { en: string; ro: string }
 }
 
 const links: NavLink[] = [
-  { href: "/services", label: "Services" },
-  { href: "/catalog", label: "Catalog" },
-  { href: "/portfolio", label: "Portfolio" },
-  { href: "/about", label: "About" },
+  { href: "/services", label: { en: "Services", ro: "Servicii" } },
+  { href: "/catalog", label: { en: "Catalog", ro: "Catalog" } },
+  { href: "/portfolio", label: { en: "Portfolio", ro: "Portofoliu" } },
+  { href: "/about", label: { en: "About", ro: "Despre noi" } },
 ]
 
 export default function NavBar() {
   const pathname = usePathname()
+  const { locale } = useLanguage()
   const { count, hydrated } = useOffer()
   const [scrolled, setScrolled] = useState(false)
   const [open, setOpen] = useState(false)
@@ -73,7 +75,7 @@ export default function NavBar() {
                     : "text-[var(--text-soft)] hover:text-[var(--brand-black)]"
                 }`}
               >
-                {link.label}
+                {link.label[locale]}
               </Link>
             ))}
           </nav>
@@ -86,7 +88,11 @@ export default function NavBar() {
             {hydrated && count > 0 && (
               <Link
                 href="/offer"
-                aria-label={`${count} item${count === 1 ? "" : "s"} in your offer`}
+                aria-label={
+                  locale === "ro"
+                    ? `${count} ${count === 1 ? "produs" : "produse"} în oferta ta`
+                    : `${count} item${count === 1 ? "" : "s"} in your offer`
+                }
                 className="inline-flex items-center justify-center w-8 h-8 text-xs font-semibold text-[var(--brand-orange)] bg-[var(--surface)] border border-[var(--brand-orange)] rounded-full hover:bg-[var(--brand-orange)] hover:text-white transition-colors"
               >
                 {count}
@@ -96,7 +102,7 @@ export default function NavBar() {
               href="/contact"
               className="inline-flex items-center px-5 py-2.5 text-sm font-semibold text-white bg-[var(--primary)] hover:bg-[var(--primary-hover)] rounded-full transition-colors"
             >
-              Start a project
+              {locale === "ro" ? "Începe un proiect" : "Start a project"}
             </Link>
           </div>
         </div>
@@ -104,7 +110,7 @@ export default function NavBar() {
         <button
           type="button"
           onClick={() => setOpen(true)}
-          aria-label="Open menu"
+          aria-label={locale === "ro" ? "Deschide meniul" : "Open menu"}
           className="md:hidden inline-flex items-center justify-center p-2 w-10 h-10 rounded-md text-[var(--brand-black)] hover:bg-[var(--surface-soft)]"
         >
           <svg
@@ -138,7 +144,7 @@ export default function NavBar() {
             <button
               type="button"
               onClick={() => setOpen(false)}
-              aria-label="Close menu"
+              aria-label={locale === "ro" ? "Închide meniul" : "Close menu"}
               className="inline-flex items-center justify-center p-2 w-10 h-10 rounded-md text-[var(--brand-black)] hover:bg-[var(--surface-soft)]"
             >
               <svg
@@ -181,7 +187,7 @@ export default function NavBar() {
                     : "text-[var(--brand-black)]"
                 }`}
               >
-                {link.label}
+                {link.label[locale]}
               </Link>
             ))}
           </nav>
@@ -192,7 +198,9 @@ export default function NavBar() {
               onClick={() => setOpen(false)}
               className="inline-flex items-center justify-center gap-2 mt-auto mb-3 px-6 py-3 text-sm font-semibold text-[var(--brand-orange)] bg-[var(--surface)] border border-[var(--brand-orange)] rounded-full"
             >
-              <span>Build my offer ({count})</span>
+              <span>
+                {locale === "ro" ? "Construiește oferta" : "Build my offer"} ({count})
+              </span>
               <span aria-hidden="true">→</span>
             </Link>
           )}
@@ -203,7 +211,7 @@ export default function NavBar() {
               hydrated && count > 0 ? "" : "mt-auto"
             }`}
           >
-            Start a project
+            {locale === "ro" ? "Începe un proiect" : "Start a project"}
           </Link>
         </div>
       )}

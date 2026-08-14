@@ -6,12 +6,18 @@ import {
   PORTFOLIO_CATEGORY_LABELS,
   type PortfolioItem,
 } from "@/lib/content/portfolio"
+import { useLanguage } from "@/components/LanguageProvider"
+import {
+  PORTFOLIO_LABELS_RO,
+  localizePortfolioItem,
+} from "@/lib/i18n/content"
 
 interface Props {
   items: PortfolioItem[]
 }
 
 export default function HomeProjectCarousel({ items }: Readonly<Props>) {
+  const { locale } = useLanguage()
   const [active, setActive] = useState(0)
   const viewportRef = useRef<HTMLDivElement>(null)
 
@@ -51,17 +57,20 @@ export default function HomeProjectCarousel({ items }: Readonly<Props>) {
   }, [items.length])
 
   return (
-    <section aria-label="Selected custom projects" className="pb-10 lg:pb-14">
+    <section
+      aria-label={locale === "ro" ? "Proiecte custom selectate" : "Selected custom projects"}
+      className="pb-10 lg:pb-14"
+    >
       <div className="mx-auto max-w-6xl px-6 lg:px-8">
         <div className="mb-4 flex items-center gap-4">
           <p className="text-xs font-semibold uppercase tracking-[0.18em] text-[var(--text-muted)]">
-            From our production floor
+            {locale === "ro" ? "Din atelierul nostru" : "From our production floor"}
           </p>
           <div className="flex items-center gap-2">
             <button
               type="button"
               onClick={() => moveTo(active - 1)}
-              aria-label="Previous project"
+              aria-label={locale === "ro" ? "Proiectul anterior" : "Previous project"}
               className="inline-flex h-9 w-9 items-center justify-center rounded-full border border-[var(--border)] bg-[var(--surface)] text-[var(--brand-black)] transition-colors hover:border-[var(--brand-orange)] hover:text-[var(--brand-orange)]"
             >
               ←
@@ -69,7 +78,7 @@ export default function HomeProjectCarousel({ items }: Readonly<Props>) {
             <button
               type="button"
               onClick={() => moveTo(active + 1)}
-              aria-label="Next project"
+              aria-label={locale === "ro" ? "Proiectul următor" : "Next project"}
               className="inline-flex h-9 w-9 items-center justify-center rounded-full border border-[var(--border)] bg-[var(--surface)] text-[var(--brand-black)] transition-colors hover:border-[var(--brand-orange)] hover:text-[var(--brand-orange)]"
             >
               →
@@ -81,10 +90,12 @@ export default function HomeProjectCarousel({ items }: Readonly<Props>) {
           ref={viewportRef}
           tabIndex={0}
           role="group"
-          aria-label="Project slides"
+          aria-label={locale === "ro" ? "Galerie de proiecte" : "Project slides"}
           className="flex snap-x snap-mandatory gap-4 overflow-x-auto pb-3 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden"
         >
-          {items.map((item, index) => (
+          {items.map((item, index) => {
+            const localized = localizePortfolioItem(item, locale)
+            return (
             <article
               key={item.slug}
               data-carousel-card
@@ -93,7 +104,7 @@ export default function HomeProjectCarousel({ items }: Readonly<Props>) {
               <div className="relative aspect-[4/5]">
                 <Image
                   src={item.image}
-                  alt={item.imageAlt}
+                  alt={localized.imageAlt}
                   fill
                   priority={index < 3}
                   sizes="(max-width: 640px) 82vw, (max-width: 1024px) 48vw, 31vw"
@@ -101,15 +112,18 @@ export default function HomeProjectCarousel({ items }: Readonly<Props>) {
                 />
                 <div className="absolute inset-x-0 bottom-0 bg-[var(--brand-black)] p-5 text-white">
                   <p className="inline-flex rounded-full bg-black px-2 py-1 text-[10px] font-semibold uppercase tracking-[0.16em] text-white">
-                    {PORTFOLIO_CATEGORY_LABELS[item.category]}
+                    {locale === "ro"
+                      ? PORTFOLIO_LABELS_RO[item.category]
+                      : PORTFOLIO_CATEGORY_LABELS[item.category]}
                   </p>
                   <h2 className="mt-1 font-[family-name:var(--font-outfit)] text-lg font-semibold">
-                    {item.title}
+                    {localized.title}
                   </h2>
                 </div>
               </div>
             </article>
-          ))}
+            )
+          })}
         </div>
 
         <div className="mt-2 flex justify-center gap-1.5" aria-hidden="true">

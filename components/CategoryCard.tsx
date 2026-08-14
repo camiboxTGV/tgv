@@ -1,9 +1,12 @@
+"use client"
+
 import Image from "next/image"
 import Link from "next/link"
 import {
   categoryItemLabel,
   type CategoryNode,
 } from "@/lib/content/categories"
+import { useLanguage } from "@/components/LanguageProvider"
 
 interface Props {
   category: CategoryNode
@@ -18,6 +21,8 @@ export default function CategoryCard({
   href,
   priority = false,
 }: Readonly<Props>) {
+  const { locale } = useLanguage()
+  const ro = locale === "ro"
   const target = href ?? `/catalog/${category.slug}`
   return (
     <Link
@@ -43,7 +48,12 @@ export default function CategoryCard({
           />
         )}
         <span className="absolute top-3 left-3 px-2.5 py-1 text-xs font-medium text-white bg-black/35 backdrop-blur-sm rounded-full">
-          {productCount} {categoryItemLabel(category, productCount)}
+          {productCount}{" "}
+          {ro
+            ? category.contentType === "project"
+              ? productCount === 1 ? "proiect" : "proiecte"
+              : productCount === 1 ? "produs" : "produse"
+            : categoryItemLabel(category, productCount)}
         </span>
       </div>
       <div className="flex flex-col gap-1.5">
@@ -56,7 +66,7 @@ export default function CategoryCard({
           </p>
         ) : null}
         <span className="inline-flex items-center gap-1.5 mt-1 text-xs font-medium text-[var(--brand-orange)] group-hover:gap-2 transition-all">
-          <span>Browse {category.name.toLowerCase()}</span>
+          <span>{ro ? "Explorează categoria" : `Browse ${category.name.toLowerCase()}`}</span>
           <span aria-hidden="true">→</span>
         </span>
       </div>

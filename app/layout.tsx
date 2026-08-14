@@ -5,6 +5,7 @@ import Footer from "@/components/Footer"
 import OfferProvider from "@/components/OfferProvider"
 import OfferDock from "@/components/OfferDock"
 import OfferToast from "@/components/OfferToast"
+import LanguageProvider from "@/components/LanguageProvider"
 import "./globals.css"
 
 const outfit = Outfit({
@@ -15,6 +16,7 @@ const outfit = Outfit({
 })
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://www.tgv-media.ro"),
   title: "TGV-Media — Custom production. Nine techniques. One workflow.",
   description:
     "Technical consultancy, custom fabrication, premium print, and integrated branding powered by nine in-house production techniques.",
@@ -26,13 +28,15 @@ export default function RootLayout({
   return (
     <html lang="en" className={outfit.variable} data-scroll-behavior="smooth">
       <body className="flex flex-col min-h-screen">
-        <OfferProvider>
-          <NavBar />
-          <main className="flex-1">{children}</main>
-          <Footer />
-          <OfferDock />
-          <OfferToast />
-        </OfferProvider>
+        <LanguageProvider>
+          <OfferProvider>
+            <NavBar />
+            <main className="flex-1">{children}</main>
+            <Footer />
+            <OfferDock />
+            <OfferToast />
+          </OfferProvider>
+        </LanguageProvider>
       </body>
     </html>
   )

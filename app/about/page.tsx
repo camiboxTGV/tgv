@@ -2,6 +2,7 @@ import type { Metadata } from "next"
 import Link from "next/link"
 import { categories } from "@/lib/content/catalog"
 import { services } from "@/lib/content/services"
+import LocalizedText from "@/components/LocalizedText"
 
 export const metadata: Metadata = {
   title: "About — TGV-Media",
@@ -29,31 +30,31 @@ function Hero() {
     <section className="relative overflow-hidden">
       <div className="flex flex-col items-start mx-auto px-6 lg:px-8 pt-20 pb-16 lg:pt-32 lg:pb-24 max-w-6xl">
         <p className="text-sm font-semibold uppercase tracking-widest text-[var(--text-muted)]">
-          About TGV-Media
+          <LocalizedText en="About TGV-Media" ro="Despre TGV-Media" />
         </p>
         <h1 className="mt-4 max-w-4xl text-4xl sm:text-5xl lg:text-6xl font-[family-name:var(--font-outfit)] font-bold leading-tight tracking-tight text-[var(--brand-black)]">
-          We're a{" "}
-          <span className="text-[var(--brand-orange)]">production</span> house —
-          not a print shop.
+          <LocalizedText en="We're a " ro="Suntem un atelier de " />
+          <span className="text-[var(--brand-orange)]"><LocalizedText en="production" ro="producție" /></span>{" "}
+          <LocalizedText en="house — not a print shop." ro="— nu doar o tipografie." />
         </h1>
         <p className="mt-6 max-w-2xl text-lg text-[var(--text-soft)] leading-relaxed">
-          TGV-Media exists to keep brand output consistent across every format
-          a marketing team has to ship. We decorate, finish and fabricate in
-          one workshop — so you brief once and the whole campaign comes out
-          aligned.
+          <LocalizedText
+            en="TGV-Media exists to keep brand output consistent across every format a marketing team has to ship. We decorate, finish and fabricate in one workshop — so you brief once and the whole campaign comes out aligned."
+            ro="TGV-Media păstrează identitatea brandului consecventă în toate formatele unei campanii. Personalizăm, finisăm și fabricăm în același atelier — un singur brief, o campanie perfect aliniată."
+          />
         </p>
         <div className="flex flex-col sm:flex-row gap-3 mt-10">
           <Link
             href="/contact"
             className="inline-flex items-center justify-center px-6 py-3 text-sm font-semibold text-white bg-[var(--primary)] hover:bg-[var(--primary-hover)] rounded-full transition-colors"
           >
-            Start a project
+            <LocalizedText en="Start a project" ro="Începe un proiect" />
           </Link>
           <Link
             href="/catalog"
             className="inline-flex items-center justify-center px-6 py-3 text-sm font-semibold text-[var(--brand-black)] bg-transparent border border-[var(--border-strong)] hover:bg-[var(--surface-soft)] rounded-full transition-colors"
           >
-            Browse catalog
+            <LocalizedText en="Browse catalog" ro="Vezi catalogul" />
           </Link>
         </div>
       </div>
@@ -63,16 +64,16 @@ function Hero() {
 
 function Numbers() {
   const stats = [
-    { value: services.length.toString(), label: "Services under one roof" },
-    { value: "4", label: "Decoration techniques" },
-    { value: categories.length.toString(), label: "Catalog categories" },
-    { value: "1", label: "Briefing-to-dispatch workflow" },
+    { value: services.length.toString(), label: <LocalizedText en="Services under one roof" ro="Servicii sub același acoperiș" /> },
+    { value: "9", label: <LocalizedText en="Production techniques" ro="Tehnici de producție" /> },
+    { value: categories.length.toString(), label: <LocalizedText en="Catalog categories" ro="Categorii de catalog" /> },
+    { value: "1", label: <LocalizedText en="Briefing-to-dispatch workflow" ro="Flux de la brief la livrare" /> },
   ]
   return (
     <section className="bg-[var(--surface)] border-y border-[var(--border-soft)]">
       <div className="grid grid-cols-2 lg:grid-cols-4 gap-8 mx-auto px-6 lg:px-8 py-12 lg:py-16 max-w-6xl">
-        {stats.map((s) => (
-          <div key={s.label} className="flex flex-col gap-2">
+        {stats.map((s, index) => (
+          <div key={index} className="flex flex-col gap-2">
             <span className="text-4xl sm:text-5xl lg:text-6xl font-[family-name:var(--font-outfit)] font-bold tracking-tight text-[var(--brand-orange)]">
               {s.value}
             </span>
@@ -92,39 +93,37 @@ function Story() {
       <div className="grid grid-cols-1 lg:grid-cols-[5fr_4fr] gap-10 lg:gap-16">
         <div className="flex flex-col gap-5">
           <p className="text-sm font-semibold uppercase tracking-widest text-[var(--text-muted)]">
-            Our story
+            <LocalizedText en="Our story" ro="Povestea noastră" />
           </p>
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-[family-name:var(--font-outfit)] font-semibold text-[var(--brand-black)]">
-            Built around the way real campaigns ship.
+            <LocalizedText en="Built around the way real campaigns ship." ro="Construit în jurul modului în care campaniile reale prind viață." />
           </h2>
           <p className="text-base lg:text-lg text-[var(--text-soft)] leading-relaxed">
-            Most agencies and marketing teams end up juggling four or five
-            vendors for one campaign — apparel from one place, signage from
-            another, the giveaway items from a third, finishing somewhere
-            else. By the time everything arrives, the brand looks slightly
-            different on every surface.
+            <LocalizedText
+              en="Most agencies and marketing teams end up juggling four or five vendors for one campaign — apparel from one place, signage from another, the giveaway items from a third, finishing somewhere else. By the time everything arrives, the brand looks slightly different on every surface."
+              ro="Majoritatea agențiilor ajung să coordoneze patru sau cinci furnizori pentru o singură campanie — textile, semnalistică, cadouri și finisaje din locuri diferite. La final, brandul arată puțin diferit pe fiecare suprafață."
+            />
           </p>
           <p className="text-base lg:text-lg text-[var(--text-soft)] leading-relaxed">
-            TGV-Media was set up to fix exactly that. We brought decoration,
-            finishing and bespoke production into a single workshop, with one
-            artwork and proofing pipeline behind it. The result: when you
-            brief us once, every piece comes out aligned — colour, scale,
-            material, finish.
+            <LocalizedText
+              en="TGV-Media was set up to fix exactly that. We brought decoration, finishing and bespoke production into a single workshop, with one artwork and proofing pipeline behind it. The result: when you brief us once, every piece comes out aligned — colour, scale, material, finish."
+              ro="TGV-Media a fost creat pentru a rezolva exact această problemă. Am adus personalizarea, finisarea și producția custom într-un singur atelier, cu un flux unic de grafică și verificare. Astfel, culoarea, scara, materialul și finisajul rămân aliniate."
+            />
           </p>
           <p className="text-base lg:text-lg text-[var(--text-soft)] leading-relaxed">
-            We work with single-piece samples and high-volume runs equally
-            seriously. The same hand reviews the proof. The same standard
-            applies.
+            <LocalizedText
+              en="We work with single-piece samples and high-volume runs equally seriously. The same hand reviews the proof. The same standard applies."
+              ro="Tratăm cu aceeași seriozitate mostrele unicat și seriile mari. Aceeași atenție verifică proba. Același standard se aplică."
+            />
           </p>
         </div>
         <aside className="relative flex flex-col gap-6 p-8 lg:p-10 bg-[var(--brand-black)] rounded-3xl overflow-hidden">
           <span className="block w-16 h-1 bg-[var(--brand-orange)]" />
           <p className="text-2xl sm:text-3xl font-[family-name:var(--font-outfit)] font-semibold leading-snug text-white">
-            "One brief, one workshop, one quality bar — across every format the
-            campaign needs."
+            <LocalizedText en="One brief, one workshop, one quality bar — across every format the campaign needs." ro="Un singur brief, un singur atelier, același standard de calitate — în toate formatele campaniei." />
           </p>
           <p className="text-sm text-white/60 uppercase tracking-widest">
-            How we work
+            <LocalizedText en="How we work" ro="Cum lucrăm" />
           </p>
         </aside>
       </div>
@@ -236,14 +235,13 @@ function Workshop() {
     <section className="bg-[var(--surface)] border-y border-[var(--border-soft)]">
       <div className="mx-auto px-6 lg:px-8 py-16 lg:py-24 max-w-6xl">
         <p className="text-sm font-semibold uppercase tracking-widest text-[var(--text-muted)]">
-          Capabilities
+          <LocalizedText en="Capabilities" ro="Capabilități" />
         </p>
         <h2 className="mt-3 max-w-3xl text-3xl sm:text-4xl lg:text-5xl font-[family-name:var(--font-outfit)] font-semibold text-[var(--brand-black)]">
-          Inside the workshop.
+          <LocalizedText en="Inside the workshop." ro="În atelier." />
         </h2>
         <p className="mt-4 max-w-2xl text-base lg:text-lg text-[var(--text-soft)] leading-relaxed">
-          Four production lines running in parallel — paired with one
-          artwork-to-dispatch pipeline behind them.
+          <LocalizedText en="Four production lines running in parallel — paired with one artwork-to-dispatch pipeline behind them." ro="Linii de producție care lucrează în paralel, coordonate printr-un singur flux de la grafică la livrare." />
         </p>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mt-10">
           {capabilities.map((c) => (
@@ -294,10 +292,10 @@ function Values() {
   return (
     <section className="mx-auto px-6 lg:px-8 py-16 lg:py-24 max-w-6xl">
       <p className="text-sm font-semibold uppercase tracking-widest text-[var(--text-muted)]">
-        What we stand for
+        <LocalizedText en="What we stand for" ro="Principiile noastre" />
       </p>
       <h2 className="mt-3 max-w-3xl text-3xl sm:text-4xl lg:text-5xl font-[family-name:var(--font-outfit)] font-semibold text-[var(--brand-black)]">
-        Four principles, applied to every job.
+        <LocalizedText en="Four principles, applied to every job." ro="Patru principii, aplicate fiecărui proiect." />
       </h2>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-10">
         {values.map((v) => (
@@ -353,10 +351,10 @@ function Process() {
     <section className="bg-[var(--surface)] border-y border-[var(--border-soft)]">
       <div className="mx-auto px-6 lg:px-8 py-16 lg:py-24 max-w-6xl">
         <p className="text-sm font-semibold uppercase tracking-widest text-[var(--text-muted)]">
-          How we work
+          <LocalizedText en="How we work" ro="Cum lucrăm" />
         </p>
         <h2 className="mt-3 max-w-3xl text-3xl sm:text-4xl lg:text-5xl font-[family-name:var(--font-outfit)] font-semibold text-[var(--brand-black)]">
-          From brief to dispatch in four steps.
+          <LocalizedText en="From brief to dispatch in four steps." ro="De la brief la livrare în patru pași." />
         </h2>
         <ol className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mt-10">
           {steps.map((step) => (
@@ -424,13 +422,13 @@ function Team() {
   return (
     <section className="mx-auto px-6 lg:px-8 py-16 lg:py-24 max-w-6xl">
       <p className="text-sm font-semibold uppercase tracking-widest text-[var(--text-muted)]">
-        The team
+        <LocalizedText en="The team" ro="Echipa" />
       </p>
       <h2 className="mt-3 max-w-3xl text-3xl sm:text-4xl lg:text-5xl font-[family-name:var(--font-outfit)] font-semibold text-[var(--brand-black)]">
-        The roles behind every job.
+        <LocalizedText en="The roles behind every job." ro="Rolurile din spatele fiecărui proiect." />
       </h2>
       <p className="mt-4 max-w-2xl text-base lg:text-lg text-[var(--text-soft)] leading-relaxed">
-        A small, specialised team — every brief touches each of these hands.
+        <LocalizedText en="A small, specialised team — every brief touches each of these hands." ro="O echipă restrânsă și specializată — fiecare brief trece prin mâinile noastre." />
       </p>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-10">
         {team.map((t) => (
@@ -465,18 +463,16 @@ function ClosingCTA() {
       <div className="flex flex-col items-start mx-auto px-6 lg:px-8 py-20 lg:py-28 max-w-6xl">
         <span className="block w-16 h-1 bg-[var(--brand-orange)]" />
         <h2 className="mt-6 max-w-3xl text-3xl sm:text-4xl lg:text-5xl font-[family-name:var(--font-outfit)] font-semibold text-white">
-          Ready to put us on a brief?
+          <LocalizedText en="Ready to put us on a brief?" ro="Pregătit să ne trimiți un brief?" />
         </h2>
         <p className="mt-5 max-w-2xl text-base lg:text-lg text-white/70 leading-relaxed">
-          Send the artwork, the event context and the deadline. We come back
-          with a quote, a sample plan and a production timeline within one
-          business day.
+          <LocalizedText en="Send the artwork, the event context and the deadline. We come back with a quote, a sample plan and a production timeline within one business day." ro="Trimite grafica, contextul evenimentului și termenul. Revenim în cel mult o zi lucrătoare cu o ofertă, un plan de mostre și un calendar de producție." />
         </p>
         <Link
           href="/contact"
           className="inline-flex items-center justify-center mt-10 px-6 py-3 text-sm font-semibold text-white bg-[var(--primary)] hover:bg-[var(--primary-hover)] rounded-full transition-colors"
         >
-          Start a project
+          <LocalizedText en="Start a project" ro="Începe un proiect" />
         </Link>
       </div>
     </section>

@@ -1,12 +1,18 @@
+"use client"
+
 import Link from "next/link"
 import type { Service } from "@/lib/content/services"
+import { useLanguage } from "@/components/LanguageProvider"
+import { localizeService } from "@/lib/i18n/content"
 
 interface Props {
   service: Service
 }
 
 export default function ServiceCard({ service }: Props) {
-  const previewUseCases = service.useCases.slice(0, 3)
+  const { locale } = useLanguage()
+  const localizedService = localizeService(service, locale)
+  const previewUseCases = localizedService.useCases.slice(0, 3)
   return (
     <article className="group relative flex flex-col gap-4 p-6 bg-[var(--surface)] border border-[var(--border)] rounded-2xl shadow-sm overflow-hidden hover:border-[var(--border-strong)] transition-colors">
       {/* Inline style: data-driven gradient accent strip pulled from Service.accent */}
@@ -16,10 +22,10 @@ export default function ServiceCard({ service }: Props) {
         style={{ background: service.accent }}
       />
       <h3 className="text-xl font-[family-name:var(--font-outfit)] font-semibold text-[var(--brand-black)]">
-        {service.title}
+        {localizedService.title}
       </h3>
       <p className="text-sm leading-relaxed text-[var(--text-soft)]">
-        {service.summary}
+        {localizedService.summary}
       </p>
       <ul className="flex flex-col gap-1.5 text-sm text-[var(--text-muted)]">
         {previewUseCases.map((useCase) => (
@@ -48,7 +54,7 @@ export default function ServiceCard({ service }: Props) {
         href={`/services/${service.slug}`}
         className="inline-flex items-center gap-2 mt-2 text-sm font-medium text-[var(--brand-orange)] group-hover:gap-3 transition-all"
       >
-        <span>View service</span>
+        <span>{locale === "ro" ? "Vezi serviciul" : "View service"}</span>
         <span aria-hidden="true">→</span>
       </Link>
     </article>
