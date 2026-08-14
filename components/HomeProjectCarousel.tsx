@@ -2,15 +2,9 @@
 
 import Image from "next/image"
 import { useCallback, useEffect, useRef, useState } from "react"
-import {
-  PORTFOLIO_CATEGORY_LABELS,
-  type PortfolioItem,
-} from "@/lib/content/portfolio"
+import type { PortfolioItem } from "@/lib/content/portfolio"
 import { useLanguage } from "@/components/LanguageProvider"
-import {
-  PORTFOLIO_LABELS_RO,
-  localizePortfolioItem,
-} from "@/lib/i18n/content"
+import { localizePortfolioItem } from "@/lib/i18n/content"
 
 interface Props {
   items: PortfolioItem[]
@@ -110,16 +104,6 @@ export default function HomeProjectCarousel({ items }: Readonly<Props>) {
                   sizes="(max-width: 640px) 82vw, (max-width: 1024px) 48vw, 31vw"
                   className="object-cover transition-transform duration-700 hover:scale-[1.025]"
                 />
-                <div className="absolute inset-x-0 bottom-0 bg-[var(--brand-black)] p-5 text-white">
-                  <p className="inline-flex rounded-full bg-black px-2 py-1 text-[10px] font-semibold uppercase tracking-[0.16em] text-white">
-                    {locale === "ro"
-                      ? PORTFOLIO_LABELS_RO[item.category]
-                      : PORTFOLIO_CATEGORY_LABELS[item.category]}
-                  </p>
-                  <h2 className="mt-1 font-[family-name:var(--font-outfit)] text-lg font-semibold">
-                    {localized.title}
-                  </h2>
-                </div>
               </div>
             </article>
             )
