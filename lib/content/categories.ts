@@ -181,6 +181,7 @@ export const categoryTree: CategoryNode[] = [
     ]),
     group("Personal Care & Wellness", [
       leaf("Lip Balms"),
+      leaf("Sun Care"),
       leaf("Hand Sanitizers & Gels"),
       leaf("Mirrors"),
       leaf("Nail & Manicure Kits"),
@@ -194,6 +195,7 @@ export const categoryTree: CategoryNode[] = [
   ], GRADIENTS[5], "/images/categories/home-and-living.webp"),
 
   group("Kids & Games", [
+    leaf("Baby & Toddler Products"),
     group("Toys & Plush", [
       leaf("Stuffed Animals"),
       leaf("Outdoor & Indoor Games"),
@@ -275,12 +277,16 @@ export const categoryTree: CategoryNode[] = [
       leaf("Ice Scrapers"),
       leaf("Car Air Fresheners"),
       leaf("Car Phone Holders"),
+      leaf("Car Organizers & Accessories"),
+      leaf("Car Sunshades"),
+      leaf("Fire & Emergency Blankets"),
     ]),
   ], GRADIENTS[3], "/images/categories/tools-and-keyrings.webp"),
 
   group("Umbrellas & Rainwear", [
     group("Umbrellas", [
       leaf("Folding Umbrellas"),
+      leaf("Standard Umbrellas"),
       leaf("Golf Umbrellas"),
     ]),
     group("Rainwear", [

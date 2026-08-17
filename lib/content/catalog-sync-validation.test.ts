@@ -50,7 +50,7 @@ test("inventory validation allows an older catalog until the next full bootstrap
 })
 
 test("catalog validation rejects products without a numeric stock total", async () => {
-  const product = f38Product() as CatalogProduct & { stock?: number }
+  const product: Partial<CatalogProduct> = f38Product()
   delete product.stock
   const root = await fixtureRoot([product as CatalogProduct])
   try {
@@ -94,6 +94,80 @@ test("catalog validation rejects duplicate product specification keys", async ()
   }
 })
 
+test("catalog validation rejects non-leaf and project categories", async () => {
+  for (const category of [
+    "bags",
+    "bespoke-and-custom-fabrication/signage-display",
+  ]) {
+    const product = f38Product()
+    product.category = category
+    const root = await fixtureRoot([product])
+    try {
+      await assert.rejects(
+        validateGeneratedCatalog({ repoRoot: root, mode: "full", now: NOW }),
+        /is not an existing product leaf/,
+      )
+    } finally {
+      await rm(root, { recursive: true, force: true })
+    }
+  }
+})
+
+test("full catalog validation reconciles every generated supplier", async () => {
+  const root = await fixtureRoot([f38Product(), midoceanProduct()])
+  try {
+    const result = await validateGeneratedCatalog({ repoRoot: root, mode: "full", now: NOW })
+    assert.equal(result.products, 2)
+  } finally {
+    await rm(root, { recursive: true, force: true })
+  }
+})
+
+test("full catalog validation requires every generated supplier report to succeed", async () => {
+  for (const options of [
+    { omitReportSuppliers: ["midocean"] },
+    { reportSupplierOverrides: { midocean: { ok: false } } },
+  ]) {
+    const root = await fixtureRoot([f38Product(), midoceanProduct()], options)
+    try {
+      await assert.rejects(
+        validateGeneratedCatalog({ repoRoot: root, mode: "full", now: NOW }),
+        /Supplier "midocean" is missing or unsuccessful/,
+      )
+    } finally {
+      await rm(root, { recursive: true, force: true })
+    }
+  }
+})
+
+test("full catalog validation rejects per-supplier report count mismatches", async () => {
+  const root = await fixtureRoot([f38Product(), midoceanProduct()], {
+    reportSupplierOverrides: { midocean: { normalized: 0 } },
+  })
+  try {
+    await assert.rejects(
+      validateGeneratedCatalog({ repoRoot: root, mode: "full", now: NOW }),
+      /Supplier "midocean" report total does not match generated products/,
+    )
+  } finally {
+    await rm(root, { recursive: true, force: true })
+  }
+})
+
+test("full catalog validation rejects per-supplier last-sync count mismatches", async () => {
+  const root = await fixtureRoot([f38Product(), midoceanProduct()], {
+    lastSupplierOverrides: { midocean: 0 },
+  })
+  try {
+    await assert.rejects(
+      validateGeneratedCatalog({ repoRoot: root, mode: "full", now: NOW }),
+      /Last-sync supplier "midocean" total does not match generated products/,
+    )
+  } finally {
+    await rm(root, { recursive: true, force: true })
+  }
+})
+
 function f38Product(): CatalogProduct {
   return {
     slug: "macma-f38",
@@ -123,10 +197,65 @@ function f38Product(): CatalogProduct {
   }
 }
 
-async function fixtureRoot(products: CatalogProduct[]): Promise<string> {
+function midoceanProduct(): CatalogProduct {
+  return {
+    ...f38Product(),
+    slug: "midocean-ar1249",
+    name: "TARGET",
+    supplierId: "midocean",
+    supplierSku: "AR1249",
+    personalizations: [],
+    supplierPersonalizations: [],
+    images: ["https://cdn1.midocean.com/image/700X700/ar1249-16.jpg"],
+  }
+}
+
+interface SyncSupplierFixture {
+  ok: boolean
+  normalized: number
+  unknownPersonalizationCodes?: { code: string; count: number }[]
+}
+
+interface FixtureOptions {
+  omitReportSuppliers?: string[]
+  reportSupplierOverrides?: Record<string, Partial<SyncSupplierFixture>>
+  lastSupplierOverrides?: Record<string, number>
+}
+
+async function fixtureRoot(
+  products: CatalogProduct[],
+  options: FixtureOptions = {},
+): Promise<string> {
   const root = await mkdtemp(join(tmpdir(), "tgv-catalog-validation-"))
   const generated = join(root, "lib/content/generated")
   const productDir = join(generated, "products/apparel-and-wearables")
+  const supplierCounts = new Map<string, number>()
+  for (const product of products) {
+    supplierCounts.set(
+      product.supplierId,
+      (supplierCounts.get(product.supplierId) ?? 0) + 1,
+    )
+  }
+  const reportSuppliers: Record<string, SyncSupplierFixture> = Object.fromEntries(
+    [...supplierCounts].map(([supplierId, normalized]) => [
+      supplierId,
+      { ok: true, normalized, unknownPersonalizationCodes: [] },
+    ]),
+  )
+  for (const [supplierId, override] of Object.entries(
+    options.reportSupplierOverrides ?? {},
+  )) {
+    reportSuppliers[supplierId] = {
+      ...(reportSuppliers[supplierId] ?? { ok: true, normalized: 0 }),
+      ...override,
+    }
+  }
+  for (const supplierId of options.omitReportSuppliers ?? []) {
+    delete reportSuppliers[supplierId]
+  }
+  const lastSuppliers: Record<string, number> = Object.fromEntries(supplierCounts)
+  Object.assign(lastSuppliers, options.lastSupplierOverrides)
+
   await mkdir(productDir, { recursive: true })
   await writeFile(join(productDir, "polo-shirts.json"), JSON.stringify(products), "utf8")
   await writeFile(
@@ -140,13 +269,7 @@ async function fixtureRoot(products: CatalogProduct[]): Promise<string> {
       ranAt: RAN_AT,
       success: true,
       totalProducts: products.length,
-      suppliers: {
-        macma: {
-          ok: true,
-          normalized: products.length,
-          unknownPersonalizationCodes: [],
-        },
-      },
+      suppliers: reportSuppliers,
     }),
     "utf8",
   )
@@ -155,7 +278,7 @@ async function fixtureRoot(products: CatalogProduct[]): Promise<string> {
     JSON.stringify({
       ranAt: RAN_AT,
       totalProducts: products.length,
-      suppliers: { macma: products.length },
+      suppliers: lastSuppliers,
     }),
     "utf8",
   )

@@ -4,6 +4,7 @@ import type {
   CatalogProduct,
   SupplierPersonalizationMethod,
 } from "./catalog.ts"
+import { flattenTree } from "./categories.ts"
 
 export type CatalogSyncValidationMode = "full" | "inventory"
 
@@ -52,6 +53,11 @@ const GENERATED_ROOT = "lib/content/generated"
 const PRODUCTS_ROOT = `${GENERATED_ROOT}/products`
 const DEFAULT_MAX_FULL_SYNC_AGE_MS = 30 * 60 * 1000
 const F38_EXPECTED_CODES = ["DC", "DT", "DW", "S2"]
+const PRODUCT_LEAF_PATHS = new Set(
+  flattenTree()
+    .filter(({ node }) => !node.children?.length && node.contentType !== "project")
+    .map(({ slugPath }) => slugPath),
+)
 
 export async function validateGeneratedCatalog(
   options: CatalogSyncValidationOptions,
@@ -70,6 +76,7 @@ export async function validateGeneratedCatalog(
 
   const slugs = new Set<string>()
   const supplierSkus = new Set<string>()
+  const supplierProductCounts = new Map<string, number>()
   const macmaProducts: CatalogProduct[] = []
   let macmaMethods = 0
 
@@ -77,6 +84,11 @@ export async function validateGeneratedCatalog(
     assertNonEmptyString(product.slug, "Product slug")
     assertNonEmptyString(product.supplierId, `${product.slug} supplierId`)
     assertNonEmptyString(product.supplierSku, `${product.slug} supplierSku`)
+    assertNonEmptyString(product.category, `${product.slug} category`)
+    assert(
+      PRODUCT_LEAF_PATHS.has(product.category),
+      `${product.slug} category "${product.category}" is not an existing product leaf.`,
+    )
     assert(Array.isArray(product.personalizations), `${product.slug} personalizations is not an array.`)
     assert(
       typeof product.stock === "number" && Number.isFinite(product.stock) && product.stock >= 0,
@@ -121,6 +133,10 @@ export async function validateGeneratedCatalog(
       `Supplier SKU "${product.supplierId}/${product.supplierSku}" appears more than once.`,
     )
     supplierSkus.add(supplierKey)
+    supplierProductCounts.set(
+      product.supplierId,
+      (supplierProductCounts.get(product.supplierId) ?? 0) + 1,
+    )
 
     if (product.supplierPersonalizations !== undefined) {
       validateSupplierMethods(product.slug, product.supplierPersonalizations)
@@ -163,7 +179,11 @@ export async function validateGeneratedCatalog(
       )
     }
 
-    const fullResult = await validateFullSyncFiles(options, products.length, macmaProducts.length)
+    const fullResult = await validateFullSyncFiles(
+      options,
+      products.length,
+      supplierProductCounts,
+    )
     unknownMacmaCodes = fullResult.unknownMacmaCodes
   }
 
@@ -181,7 +201,7 @@ export async function validateGeneratedCatalog(
 async function validateFullSyncFiles(
   options: CatalogSyncValidationOptions,
   productCount: number,
-  macmaProductCount: number,
+  supplierProductCounts: ReadonlyMap<string, number>,
 ): Promise<{ unknownMacmaCodes: string[] }> {
   const root = join(options.repoRoot, GENERATED_ROOT)
   const [index, report, last] = await Promise.all([
@@ -198,12 +218,26 @@ async function validateFullSyncFiles(
   const indexTotal = Object.values(index.counts).reduce((sum, count) => sum + count, 0)
   assert(indexTotal === productCount, "Generated index total does not match generated product files.")
 
-  const macma = report.suppliers.macma
-  assert(macma?.ok === true, "Macma is missing or unsuccessful in the sync report.")
-  assert(macma.normalized === macmaProductCount, "Macma report total does not match generated products.")
-  if (last.suppliers?.macma !== undefined) {
-    assert(last.suppliers.macma === macmaProductCount, "Last-sync Macma total does not match generated products.")
+  for (const [supplierId, generatedCount] of supplierProductCounts) {
+    const supplierReport = report.suppliers[supplierId]
+    assert(
+      supplierReport?.ok === true,
+      `Supplier "${supplierId}" is missing or unsuccessful in the sync report.`,
+    )
+    assert(
+      supplierReport.normalized === generatedCount,
+      `Supplier "${supplierId}" report total does not match generated products.`,
+    )
+    const lastCount = last.suppliers?.[supplierId]
+    if (lastCount !== undefined) {
+      assert(
+        lastCount === generatedCount,
+        `Last-sync supplier "${supplierId}" total does not match generated products.`,
+      )
+    }
   }
+
+  const macma = report.suppliers.macma
 
   const ranAt = Date.parse(report.ranAt)
   assert(Number.isFinite(ranAt), "Sync report has an invalid timestamp.")
