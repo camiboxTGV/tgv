@@ -1,0 +1,41 @@
+[
+  {
+    "contentKey": "67bdd3dcda29751c",
+    "supplierVariantId": "MO3103-03",
+    "stock": 2700,
+    "stockLevel": "in-stock",
+    "price": 8.39,
+    "color": {
+      "name": "Black"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "a2ec6dc66ac63627",
+    "supplierVariantId": "MO3103-60",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 8.39,
+    "color": {
+      "name": "Dark Green"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "a41c623b750dd09c",
+    "supplierVariantId": "MO3103-04",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 8.39,
+    "color": {
+      "name": "Blue"
+    },
+    "imageRefs": [
+      1
+    ]
+  }
+]

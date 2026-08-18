@@ -1,0 +1,110 @@
+[
+  {
+    "slug": "midocean-mo3137",
+    "name": "LOCK&GO",
+    "category": "bags/backpacks/anti-theft-backpacks",
+    "summary": "15\" RPET backpack lock 20L",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S3",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "160 × 200 mm",
+          "70 × 140 mm"
+        ]
+      },
+      {
+        "code": "T1",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "160 × 160 mm",
+          "40 × 60 mm",
+          "70 × 140 mm"
+        ]
+      },
+      {
+        "code": "TD1",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "160 × 160 mm",
+          "40 × 60 mm",
+          "70 × 140 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "160 × 160 mm",
+          "40 × 60 mm",
+          "70 × 140 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO3137",
+    "supplierVariantIds": [
+      "MO3137-03"
+    ],
+    "price": 17.49,
+    "priceFrom": false,
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo3137-03.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo3137-03-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo3137-03-open.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo3137-03-picture1.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo3137-03-picture2.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "30X20X40CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "RPET"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "10"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 650,
+    "descriptionLong": "15'''' laptop backpack in 600D RPET with PU backing. 20L capacity. 3-digit numerical lock. Front zip pocket, side pocket, padded laptop compartment. Padded back, top handle and luggage strap.",
+    "hasVariantDetail": false
+  }
+]

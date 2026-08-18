@@ -564,7 +564,7 @@
   {
     "contentKey": "42fc1143754a16e7",
     "supplierVariantId": "ST2600-DBY-XXL",
-    "stock": 192,
+    "stock": 168,
     "stockLevel": "in-stock",
     "price": 3.04,
     "color": {
@@ -608,7 +608,7 @@
   {
     "contentKey": "45439f471b095bba",
     "supplierVariantId": "ST2600-NAV-M",
-    "stock": 960,
+    "stock": 864,
     "stockLevel": "in-stock",
     "price": 3.04,
     "color": {
@@ -1888,8 +1888,8 @@
   {
     "contentKey": "a0194ede2d80bb69",
     "supplierVariantId": "ST2600-LBL-L",
-    "stock": 96,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 3.04,
     "color": {
       "name": "Light Blue",

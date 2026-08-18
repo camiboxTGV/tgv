@@ -170,7 +170,7 @@
     ],
     "price": 3,
     "priceFrom": true,
-    "stock": 253131,
+    "stock": 253013,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/PROACT/pa438-aquablue_a1.jpg",
@@ -234,7 +234,7 @@
       "https://macma.ro/products/jpg/TEXTIL/PROACT/pa438-wine_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/PROACT/pa438-wine_b1.jpg"
     ],
-    "fetchedAt": "2026-08-18T03:57:33.401Z",
+    "fetchedAt": "2026-08-18T13:15:05.027Z",
     "variantCount": 129,
     "colorCount": 23,
     "sizeCount": 5,
@@ -587,7 +587,7 @@
       "https://macma.ro/products/jpg/TEXTIL/PROACT/pa439-white_a2.jpg",
       "https://macma.ro/products/jpg/TEXTIL/PROACT/pa439-wine_a1.jpg"
     ],
-    "fetchedAt": "2026-08-18T03:57:33.401Z",
+    "fetchedAt": "2026-08-18T13:15:05.027Z",
     "variantCount": 115,
     "colorCount": 24,
     "sizeCount": 5,
@@ -739,6 +739,4070 @@
     "brand": "Proact",
     "weightGrams": 125,
     "descriptionLong": "100% polyester. Quick-drying lightweight fabric, raglan sleeves with with topstitch detailing. 140g/m²",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-s00583",
+    "name": "BAMBINO",
+    "category": "apparel-and-wearables/sportswear-and-activewear",
+    "summary": "BAMBINO BABY BODYSUIT",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "ST1",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "110 × 150 mm",
+          "50 × 50 mm"
+        ]
+      },
+      {
+        "code": "TDT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "110 × 150 mm",
+          "50 × 50 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "110 × 150 mm"
+        ]
+      },
+      {
+        "code": "TT",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "110 × 150 mm",
+          "50 × 50 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "S00583",
+    "supplierVariantIds": [
+      "S00583-AQ-M",
+      "S00583-AQ-S",
+      "S00583-AQ-XS",
+      "S00583-AQ-XXS",
+      "S00583-BK-M",
+      "S00583-BK-S",
+      "S00583-BK-XS",
+      "S00583-BK-XXS",
+      "S00583-OP-M",
+      "S00583-OP-S",
+      "S00583-OP-XS",
+      "S00583-OP-XXS",
+      "S00583-WH-M",
+      "S00583-WH-S",
+      "S00583-WH-XS",
+      "S00583-WH-XXS",
+      "S00583-FN-XXS",
+      "S00583-FN-XS",
+      "S00583-FN-S",
+      "S00583-FN-M",
+      "S00583-GM-XXS",
+      "S00583-GM-XS",
+      "S00583-GM-S",
+      "S00583-GM-M",
+      "S00583-AG-XXS",
+      "S00583-AG-XS",
+      "S00583-AG-S",
+      "S00583-AG-M"
+    ],
+    "price": 3.69,
+    "priceFrom": false,
+    "stock": 25693,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/s00583-aq.jpg",
+      "https://cdn1.midocean.com/image/700X700/s00583-bk.jpg",
+      "https://cdn1.midocean.com/image/700X700/s00583-op.jpg",
+      "https://cdn1.midocean.com/image/700X700/s00583-wh.jpg",
+      "https://cdn1.midocean.com/image/700X700/s00583-fn.jpg",
+      "https://cdn1.midocean.com/image/700X700/s00583-gm.jpg",
+      "https://cdn1.midocean.com/image/700X700/s00583-ag.jpg",
+      "https://cdn1.midocean.com/image/700X700/s00583-aq-back.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 28,
+    "colorCount": 7,
+    "sizeCount": 4,
+    "colorSwatches": [
+      {
+        "name": "Apple Green"
+      },
+      {
+        "name": "Aqua"
+      },
+      {
+        "name": "Black"
+      },
+      {
+        "name": "French Navy"
+      },
+      {
+        "name": "Grey Melange"
+      },
+      {
+        "name": "Orchid Pink"
+      },
+      {
+        "name": "White"
+      }
+    ],
+    "availableSizes": [
+      "XXS",
+      "XS",
+      "S",
+      "M"
+    ],
+    "specifications": [
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Cotton"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "6111 2090"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "10"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "100"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "Sol's",
+    "weightGrams": 60,
+    "descriptionLong": "SOL'S BAMBINO, baby bodysuit, 100% combed ringspun cotton rib 1x1 180, collar, cuff and leg binding, cap sleeves, bottom popper fastening. About sizes matching, please refer to the size chart in the product documentation section.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-s00589",
+    "name": "NORTH KIDS",
+    "category": "apparel-and-wearables/sportswear-and-activewear",
+    "summary": "NORTH KIDS FL JACKET  300g",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "E",
+        "label": "Embroidery",
+        "labelRo": "Broderie",
+        "printSizes": [
+          "200 × 200 mm",
+          "50 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TDT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "200 × 200 mm",
+          "50 × 50 mm",
+          "70 × 70 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "S00589",
+    "supplierVariantIds": [
+      "S00589-BK-3XL",
+      "S00589-BK-4XL",
+      "S00589-BK-5XL",
+      "S00589-BK-L",
+      "S00589-BK-XL",
+      "S00589-BK-XXL",
+      "S00589-FI-3XL",
+      "S00589-FI-4XL",
+      "S00589-FI-5XL",
+      "S00589-FI-L",
+      "S00589-FI-XL",
+      "S00589-FI-XXL",
+      "S00589-NY-3XL",
+      "S00589-NY-4XL",
+      "S00589-NY-5XL",
+      "S00589-NY-L",
+      "S00589-NY-XL",
+      "S00589-NY-XXL",
+      "S00589-RD-3XL",
+      "S00589-RD-4XL",
+      "S00589-RD-5XL",
+      "S00589-RD-L",
+      "S00589-RD-XL",
+      "S00589-RD-XXL"
+    ],
+    "price": 9.37,
+    "priceFrom": false,
+    "stock": 2109,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/s00589-bk.jpg",
+      "https://cdn1.midocean.com/image/700X700/s00589-fi.jpg",
+      "https://cdn1.midocean.com/image/700X700/s00589-ny.jpg",
+      "https://cdn1.midocean.com/image/700X700/s00589-rd.jpg",
+      "https://cdn1.midocean.com/image/700X700/s00589-bk-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/s00589-bk-side.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 24,
+    "colorCount": 4,
+    "sizeCount": 6,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      },
+      {
+        "name": "Fir Green"
+      },
+      {
+        "name": "Navy"
+      },
+      {
+        "name": "Red"
+      }
+    ],
+    "availableSizes": [
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL",
+      "5XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "35 X 58 X 40 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "PET"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "6110 3099"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "1"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "20"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "Sol's",
+    "weightGrams": 324,
+    "descriptionLong": "SOL'S NORTH KIDS, Kids' Zip Fleece Jacket, 100% High Density Polyester Fleece 300, Short Cut, Anti-Pilling, Reinforcing Tape On Neck, High Lined Collar, 2 Zipped Pockets With Large Piping, Elasticated Cuffs, Back Half Moon Yoke, Secured Inner Drawstring Hem. About Sizes Matching, Please Refer To The Size Chart In The Product Documentation Section.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-s01166",
+    "name": "SPORTY KIDS",
+    "category": "apparel-and-wearables/sportswear-and-activewear",
+    "summary": "SPORTY KIDS T-SHIRT 140g",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "E",
+        "label": "Embroidery",
+        "labelRo": "Broderie",
+        "printSizes": [
+          "170 × 250 mm",
+          "190 × 250 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "ST1",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "170 × 250 mm",
+          "190 × 250 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TDT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "170 × 250 mm",
+          "190 × 250 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "170 × 250 mm",
+          "190 × 250 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TST",
+        "label": "Sublimation",
+        "labelRo": "Sublimare",
+        "printSizes": [
+          "170 × 250 mm",
+          "190 × 250 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TT",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "170 × 250 mm",
+          "190 × 250 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "S01166",
+    "supplierVariantIds": [
+      "S01166-AG-3XL",
+      "S01166-AG-4XL",
+      "S01166-AG-XL",
+      "S01166-AG-XXL",
+      "S01166-AQ-3XL",
+      "S01166-AQ-4XL",
+      "S01166-AQ-XL",
+      "S01166-AQ-XXL",
+      "S01166-BK-3XL",
+      "S01166-BK-4XL",
+      "S01166-BK-XL",
+      "S01166-BK-XXL",
+      "S01166-FN-3XL",
+      "S01166-FN-4XL",
+      "S01166-FN-XL",
+      "S01166-FN-XXL",
+      "S01166-NE-3XL",
+      "S01166-NE-4XL",
+      "S01166-NE-XL",
+      "S01166-NE-XXL",
+      "S01166-NG-3XL",
+      "S01166-NG-4XL",
+      "S01166-NG-XL",
+      "S01166-NG-XXL",
+      "S01166-NO-3XL",
+      "S01166-NO-4XL",
+      "S01166-NO-XL",
+      "S01166-NO-XXL",
+      "S01166-NP-3XL",
+      "S01166-NP-4XL",
+      "S01166-NP-XL",
+      "S01166-NP-XXL",
+      "S01166-RB-3XL",
+      "S01166-RB-4XL",
+      "S01166-RB-XL",
+      "S01166-RB-XXL",
+      "S01166-RD-3XL",
+      "S01166-RD-4XL",
+      "S01166-RD-XL",
+      "S01166-RD-XXL",
+      "S01166-WH-3XL",
+      "S01166-WH-4XL",
+      "S01166-WH-XL",
+      "S01166-WH-XXL"
+    ],
+    "price": 2.79,
+    "priceFrom": true,
+    "stock": 46527,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/s01166-ag.jpg",
+      "https://cdn1.midocean.com/image/700X700/s01166-aq.jpg",
+      "https://cdn1.midocean.com/image/700X700/s01166-bk.jpg",
+      "https://cdn1.midocean.com/image/700X700/s01166-fn.jpg",
+      "https://cdn1.midocean.com/image/700X700/s01166-ne.jpg",
+      "https://cdn1.midocean.com/image/700X700/s01166-ng.jpg",
+      "https://cdn1.midocean.com/image/700X700/s01166-no.jpg",
+      "https://cdn1.midocean.com/image/700X700/s01166-np.jpg",
+      "https://cdn1.midocean.com/image/700X700/s01166-rb.jpg",
+      "https://cdn1.midocean.com/image/700X700/s01166-rd.jpg",
+      "https://cdn1.midocean.com/image/700X700/s01166-wh.jpg",
+      "https://cdn1.midocean.com/image/700X700/s01166-ag-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/s01166-ag-side.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 44,
+    "colorCount": 11,
+    "sizeCount": 4,
+    "colorSwatches": [
+      {
+        "name": "Apple Green"
+      },
+      {
+        "name": "Aqua"
+      },
+      {
+        "name": "Black"
+      },
+      {
+        "name": "French Navy"
+      },
+      {
+        "name": "Neon Green"
+      },
+      {
+        "name": "Neon Orange"
+      },
+      {
+        "name": "Neon Pink 2"
+      },
+      {
+        "name": "Neon Yellow"
+      },
+      {
+        "name": "Red"
+      },
+      {
+        "name": "Royal Blue"
+      },
+      {
+        "name": "White"
+      }
+    ],
+    "availableSizes": [
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "42 X 27 X 36 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "PET"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "6109 9020"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "10"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "50"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "Sol's",
+    "weightGrams": 60,
+    "descriptionLong": "SOL'S SPORTY Kids T-shirt in breathable polyester material with raglan sleeves, banded collar and flatlock seams makes this product ideal for any sports activity. It comes in a variety of sizes and colours as well as in neon colours. Fabric details: 140g/m² 100% polyester mesh. Only sold with print. Sizes - 6 yrs: 106-116cm (XL), 8 yrs: 118-128cm (XXL), 10 yrs: 130-140cm (3XL), 12 yrs: 142-152cm (4XL). Sublimation print available on white item only. About Sizes Matching, Please Refer To The Size Chart In The Product Documentation Section.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-s01183",
+    "name": "REGENT FIT KIDS",
+    "category": "apparel-and-wearables/sportswear-and-activewear",
+    "summary": "REGENT FIT KIDS 150g",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "E",
+        "label": "Embroidery",
+        "labelRo": "Broderie",
+        "printSizes": [
+          "200 × 220 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "ST1",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "200 × 220 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TDT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "200 × 220 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "200 × 220 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TT",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "200 × 220 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "S01183",
+    "supplierVariantIds": [
+      "S01183-AL-3XL",
+      "S01183-AL-4XL",
+      "S01183-AL-L",
+      "S01183-AL-M",
+      "S01183-AL-XL",
+      "S01183-AL-XXL",
+      "S01183-DB-3XL",
+      "S01183-DB-4XL",
+      "S01183-DB-L",
+      "S01183-DB-M",
+      "S01183-DB-XL",
+      "S01183-DB-XXL",
+      "S01183-FN-3XL",
+      "S01183-FN-4XL",
+      "S01183-FN-L",
+      "S01183-FN-M",
+      "S01183-FN-XL",
+      "S01183-FN-XXL",
+      "S01183-GM-3XL",
+      "S01183-GM-4XL",
+      "S01183-GM-L",
+      "S01183-GM-M",
+      "S01183-GM-XL",
+      "S01183-GM-XXL",
+      "S01183-RB-3XL",
+      "S01183-RB-4XL",
+      "S01183-RB-L",
+      "S01183-RB-M",
+      "S01183-RB-XL",
+      "S01183-RB-XXL",
+      "S01183-RD-3XL",
+      "S01183-RD-4XL",
+      "S01183-RD-L",
+      "S01183-RD-M",
+      "S01183-RD-XL",
+      "S01183-RD-XXL",
+      "S01183-WH-3XL",
+      "S01183-WH-4XL",
+      "S01183-WH-L",
+      "S01183-WH-M",
+      "S01183-WH-XL",
+      "S01183-WH-XXL"
+    ],
+    "price": 2.13,
+    "priceFrom": true,
+    "stock": 9551,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/s01183-al.jpg",
+      "https://cdn1.midocean.com/image/700X700/s01183-db.jpg",
+      "https://cdn1.midocean.com/image/700X700/s01183-fn.jpg",
+      "https://cdn1.midocean.com/image/700X700/s01183-gm.jpg",
+      "https://cdn1.midocean.com/image/700X700/s01183-rb.jpg",
+      "https://cdn1.midocean.com/image/700X700/s01183-rd.jpg",
+      "https://cdn1.midocean.com/image/700X700/s01183-wh.jpg",
+      "https://cdn1.midocean.com/image/700X700/s01183-al-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/s01183-al-side.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 42,
+    "colorCount": 7,
+    "sizeCount": 6,
+    "colorSwatches": [
+      {
+        "name": "Atoll Blue"
+      },
+      {
+        "name": "Deep Black"
+      },
+      {
+        "name": "French Navy"
+      },
+      {
+        "name": "Grey Melange"
+      },
+      {
+        "name": "Red"
+      },
+      {
+        "name": "Royal Blue"
+      },
+      {
+        "name": "White"
+      }
+    ],
+    "availableSizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "42 X 27 X 34 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Cotton"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "6109 1000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "10"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "100"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "Sol's",
+    "weightGrams": 52,
+    "descriptionLong": "SOL'S REGENT FIT KIDS, KIDS' ROUND NECK T-SHIRT, 100% semi-combed Ringspun cotton JERSEY 150, Neck tape, Rib-knitted collar with elastane, Short sleeves, Cut and sewn. About sizes matching, please refer to the size chart in the product documentation section.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-s02947",
+    "name": "IMPERIAL LSL KIDS",
+    "category": "apparel-and-wearables/sportswear-and-activewear",
+    "summary": "IMPERIAL LSL KIDS T-SHIRT",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "E",
+        "label": "Embroidery",
+        "labelRo": "Broderie",
+        "printSizes": [
+          "200 × 200 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "ST1",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "200 × 200 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TDT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "200 × 200 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "200 × 200 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TT",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "200 × 200 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "S02947",
+    "supplierVariantIds": [
+      "S02947-DB-L",
+      "S02947-DB-XL",
+      "S02947-DB-XXL",
+      "S02947-DB-3XL",
+      "S02947-DB-4XL",
+      "S02947-FN-L",
+      "S02947-FN-XL",
+      "S02947-FN-XXL",
+      "S02947-FN-3XL",
+      "S02947-FN-4XL",
+      "S02947-GM-L",
+      "S02947-GM-XL",
+      "S02947-GM-XXL",
+      "S02947-GM-3XL",
+      "S02947-GM-4XL",
+      "S02947-WH-L",
+      "S02947-WH-XL",
+      "S02947-WH-XXL",
+      "S02947-WH-3XL",
+      "S02947-WH-4XL",
+      "S02947-RD-L",
+      "S02947-RD-XL",
+      "S02947-RD-XXL",
+      "S02947-RD-3XL",
+      "S02947-RD-4XL",
+      "S02947-RB-L",
+      "S02947-RB-XL",
+      "S02947-RB-XXL",
+      "S02947-RB-3XL",
+      "S02947-RB-4XL"
+    ],
+    "price": 3.13,
+    "priceFrom": true,
+    "stock": 6116,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/s02947-db.jpg",
+      "https://cdn1.midocean.com/image/700X700/s02947-fn.jpg",
+      "https://cdn1.midocean.com/image/700X700/s02947-gm.jpg",
+      "https://cdn1.midocean.com/image/700X700/s02947-wh.jpg",
+      "https://cdn1.midocean.com/image/700X700/s02947-rd.jpg",
+      "https://cdn1.midocean.com/image/700X700/s02947-rb.jpg",
+      "https://cdn1.midocean.com/image/700X700/s02947-db-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/s02947-db-side.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 30,
+    "colorCount": 6,
+    "sizeCount": 5,
+    "colorSwatches": [
+      {
+        "name": "Deep Black"
+      },
+      {
+        "name": "French Navy"
+      },
+      {
+        "name": "Grey Melange"
+      },
+      {
+        "name": "Red"
+      },
+      {
+        "name": "Royal Blue"
+      },
+      {
+        "name": "White"
+      }
+    ],
+    "availableSizes": [
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "47 X 32 X 31 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Cotton"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "6109 1000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "5"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "50"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "Sol's",
+    "weightGrams": 162,
+    "descriptionLong": "SOL'S IMPERIAL kids t-shirt 190g.  Taped neck. Elastane ribbed collar. Round neck. Long sleeves. Cut and sewn. Fabric details: 100% semi-combed ringspun cotton. About sizes matching, please refer to the size chart in the product documentation section.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-s02948",
+    "name": "PERFECT KIDS",
+    "category": "apparel-and-wearables/sportswear-and-activewear",
+    "summary": "PERFECT KIDS POLO 180g",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "E",
+        "label": "Embroidery",
+        "labelRo": "Broderie",
+        "printSizes": [
+          "200 × 200 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "ST1",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "200 × 200 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TDT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "200 × 200 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "200 × 200 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TT",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "200 × 200 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "S02948",
+    "supplierVariantIds": [
+      "S02948-BK-3XL",
+      "S02948-BK-4XL",
+      "S02948-BK-L",
+      "S02948-BK-XL",
+      "S02948-BK-XXL",
+      "S02948-GY-3XL",
+      "S02948-GY-4XL",
+      "S02948-GY-L",
+      "S02948-GY-XL",
+      "S02948-GY-XXL"
+    ],
+    "price": 6.54,
+    "priceFrom": false,
+    "stock": 165,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/s02948-bk.jpg",
+      "https://cdn1.midocean.com/image/700X700/s02948-gy.jpg",
+      "https://cdn1.midocean.com/image/700X700/s02948-bk-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/s02948-bk-side.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 10,
+    "colorCount": 2,
+    "sizeCount": 5,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      },
+      {
+        "name": "Grey Melange 2"
+      }
+    ],
+    "availableSizes": [
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "42 X 30 X 26 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Cotton"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "6105 1000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "5"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "50"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "Sol's",
+    "weightGrams": 111,
+    "descriptionLong": "SOL'S PERFECT KIDS, KIDS’ POLO SHIRT, 100% combed Ringspun cotton PIQUÉ 180, 1x1 rib collar and cuffs, Taped neck, Short sleeves, 2 tone-on-tone button placket, Cut and sewn.About sizes matching, please refer to the size chart in the product documentation section.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-s03576",
+    "name": "STELLAR KIDS",
+    "category": "apparel-and-wearables/sportswear-and-activewear",
+    "summary": "STELLAR KIDS HOODED  SWEAT",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "E",
+        "label": "Embroidery",
+        "labelRo": "Broderie",
+        "printSizes": [
+          "200 × 120 mm",
+          "200 × 200 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "ST1",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "200 × 120 mm",
+          "200 × 200 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TDT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "200 × 120 mm",
+          "200 × 200 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "200 × 120 mm",
+          "200 × 200 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TT",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "200 × 120 mm",
+          "200 × 200 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "S03576",
+    "supplierVariantIds": [
+      "S03576-BK-L",
+      "S03576-BK-XL",
+      "S03576-BK-XXL",
+      "S03576-BK-3XL",
+      "S03576-BK-4XL",
+      "S03576-BL-L",
+      "S03576-BL-XL",
+      "S03576-BL-XXL",
+      "S03576-BL-3XL",
+      "S03576-BL-4XL",
+      "S03576-OB-L",
+      "S03576-OB-XL",
+      "S03576-OB-XXL",
+      "S03576-OB-3XL",
+      "S03576-OB-4XL",
+      "S03576-FN-L",
+      "S03576-FN-XL",
+      "S03576-FN-XXL",
+      "S03576-FN-3XL",
+      "S03576-FN-4XL",
+      "S03576-GY-L",
+      "S03576-GY-XL",
+      "S03576-GY-XXL",
+      "S03576-GY-3XL",
+      "S03576-GY-4XL",
+      "S03576-PP-L",
+      "S03576-PP-XL",
+      "S03576-PP-XXL",
+      "S03576-PP-3XL",
+      "S03576-PP-4XL",
+      "S03576-RD-L",
+      "S03576-RD-XL",
+      "S03576-RD-XXL",
+      "S03576-RD-3XL",
+      "S03576-RD-4XL",
+      "S03576-WH-L",
+      "S03576-WH-XL",
+      "S03576-WH-XXL",
+      "S03576-WH-3XL",
+      "S03576-WH-4XL"
+    ],
+    "price": 12.43,
+    "priceFrom": false,
+    "stock": 1866,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/s03576-bk.jpg",
+      "https://cdn1.midocean.com/image/700X700/s03576-bl.jpg",
+      "https://cdn1.midocean.com/image/700X700/s03576-ob.jpg",
+      "https://cdn1.midocean.com/image/700X700/s03576-fn.jpg",
+      "https://cdn1.midocean.com/image/700X700/s03576-gy.jpg",
+      "https://cdn1.midocean.com/image/700X700/s03576-pp.jpg",
+      "https://cdn1.midocean.com/image/700X700/s03576-rd.jpg",
+      "https://cdn1.midocean.com/image/700X700/s03576-wh.jpg",
+      "https://cdn1.midocean.com/image/700X700/s03576-bk-back.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 40,
+    "colorCount": 8,
+    "sizeCount": 5,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      },
+      {
+        "name": "Blue"
+      },
+      {
+        "name": "Burnt Orange"
+      },
+      {
+        "name": "French Navy"
+      },
+      {
+        "name": "Grey Melange 2"
+      },
+      {
+        "name": "Pale Pink"
+      },
+      {
+        "name": "Red"
+      },
+      {
+        "name": "White"
+      }
+    ],
+    "availableSizes": [
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "specifications": [
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "RPET"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "6110 2099"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "Sol's",
+    "descriptionLong": "SOL'S STELLAR KIDS, KIDS' HOODED SWEATSHIRT, 80% organically grown cotton - 20% recycled polyester, 3 yarns , Brushed lining , Outside: 100% organic cotton FLEECE 280, Cut and sewn, Raglan sleeves, 2x2 ribbed cuffs and hem, Half moon inside collar, Neck tape, Jersey lined hood. About sizes matching, please refer to the size chart in the product documentation section.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-s03578",
+    "name": "PIONEER KIDS",
+    "category": "apparel-and-wearables/sportswear-and-activewear",
+    "summary": "PIONEER KIDS T-SHIRTORGANIC",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "E",
+        "label": "Embroidery",
+        "labelRo": "Broderie",
+        "printSizes": [
+          "200 × 220 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "ST1",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "200 × 220 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TDT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "200 × 220 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "200 × 220 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TT",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "200 × 220 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "S03578",
+    "supplierVariantIds": [
+      "S03578-DB-3XL",
+      "S03578-DB-4XL",
+      "S03578-DB-L",
+      "S03578-DB-M",
+      "S03578-DB-XL",
+      "S03578-DB-XXL",
+      "S03578-FN-3XL",
+      "S03578-FN-4XL",
+      "S03578-FN-L",
+      "S03578-FN-M",
+      "S03578-FN-XL",
+      "S03578-FN-XXL",
+      "S03578-GM-3XL",
+      "S03578-GM-4XL",
+      "S03578-GM-L",
+      "S03578-GM-M",
+      "S03578-GM-XL",
+      "S03578-GM-XXL",
+      "S03578-RB-3XL",
+      "S03578-RB-4XL",
+      "S03578-RB-L",
+      "S03578-RB-M",
+      "S03578-RB-XL",
+      "S03578-RB-XXL",
+      "S03578-RD-3XL",
+      "S03578-RD-4XL",
+      "S03578-RD-L",
+      "S03578-RD-M",
+      "S03578-RD-XL",
+      "S03578-RD-XXL",
+      "S03578-WH-3XL",
+      "S03578-WH-4XL",
+      "S03578-WH-L",
+      "S03578-WH-M",
+      "S03578-WH-XL",
+      "S03578-WH-XXL",
+      "S03578-PP-M",
+      "S03578-PP-L",
+      "S03578-PP-XL",
+      "S03578-PP-XXL",
+      "S03578-PP-3XL",
+      "S03578-PP-4XL",
+      "S03578-KG-M",
+      "S03578-KG-L",
+      "S03578-KG-XL",
+      "S03578-KG-XXL",
+      "S03578-KG-3XL",
+      "S03578-KG-4XL",
+      "S03578-AG-M",
+      "S03578-AG-L",
+      "S03578-AG-XL",
+      "S03578-AG-XXL",
+      "S03578-AG-3XL",
+      "S03578-AG-4XL",
+      "S03578-GO-M",
+      "S03578-GO-L",
+      "S03578-GO-XL",
+      "S03578-GO-XXL",
+      "S03578-GO-3XL",
+      "S03578-GO-4XL",
+      "S03578-AQ-M",
+      "S03578-AQ-L",
+      "S03578-AQ-XL",
+      "S03578-AQ-XXL",
+      "S03578-AQ-3XL",
+      "S03578-AQ-4XL",
+      "S03578-OR-M",
+      "S03578-OR-L",
+      "S03578-OR-XL",
+      "S03578-OR-XXL",
+      "S03578-OR-3XL",
+      "S03578-OR-4XL"
+    ],
+    "price": 2.95,
+    "priceFrom": true,
+    "stock": 20499,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/s03578-db.jpg",
+      "https://cdn1.midocean.com/image/700X700/s03578-fn.jpg",
+      "https://cdn1.midocean.com/image/700X700/s03578-gm.jpg",
+      "https://cdn1.midocean.com/image/700X700/s03578-rb.jpg",
+      "https://cdn1.midocean.com/image/700X700/s03578-rd.jpg",
+      "https://cdn1.midocean.com/image/700X700/s03578-wh.jpg",
+      "https://cdn1.midocean.com/image/700X700/s03578-pp.jpg",
+      "https://cdn1.midocean.com/image/700X700/s03578-kg.jpg",
+      "https://cdn1.midocean.com/image/700X700/s03578-ag.jpg",
+      "https://cdn1.midocean.com/image/700X700/s03578-go.jpg",
+      "https://cdn1.midocean.com/image/700X700/s03578-aq.jpg",
+      "https://cdn1.midocean.com/image/700X700/s03578-or.jpg",
+      "https://cdn1.midocean.com/image/700X700/s03578-db-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/s03578-db-side.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 72,
+    "colorCount": 12,
+    "sizeCount": 6,
+    "colorSwatches": [
+      {
+        "name": "Apple Green"
+      },
+      {
+        "name": "Aqua"
+      },
+      {
+        "name": "Deep Black"
+      },
+      {
+        "name": "French Navy"
+      },
+      {
+        "name": "Gold"
+      },
+      {
+        "name": "Grey Melange"
+      },
+      {
+        "name": "Kelly Green"
+      },
+      {
+        "name": "Orange"
+      },
+      {
+        "name": "Pale Pink"
+      },
+      {
+        "name": "Red"
+      },
+      {
+        "name": "Royal Blue"
+      },
+      {
+        "name": "White"
+      }
+    ],
+    "availableSizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "specifications": [
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Organic Cotton"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "6109 1000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "10"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "100"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "Sol's",
+    "weightGrams": 54,
+    "descriptionLong": "SOL'S PIONEER KIDS, KIDS’ ROUND-NECK FITTED JERSEY T-SHIRT, 100%  organically grown cotton, Natural finish for a softer and smoother feel JERSEY 175, 100% cotton ribbed collar, Round neck, Neck tape, Fitted cut, Tubular, (1) Grey melange : 85 % Organic cotton / 15 % viscose. About sizes matching, please refer to the size chart in the product documentation section.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-s03580",
+    "name": "CRUSADER KIDS",
+    "category": "apparel-and-wearables/sportswear-and-activewear",
+    "summary": "CRUSADER KIDS T-SHIRT 150g",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "E",
+        "label": "Embroidery",
+        "labelRo": "Broderie",
+        "printSizes": [
+          "200 × 220 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "ST1",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "200 × 220 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TDT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "200 × 220 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "200 × 220 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TT",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "200 × 220 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "S03580",
+    "supplierVariantIds": [
+      "S03580-DB-3XL",
+      "S03580-DB-4XL",
+      "S03580-DB-L",
+      "S03580-DB-M",
+      "S03580-DB-XL",
+      "S03580-DB-XXL",
+      "S03580-FN-3XL",
+      "S03580-FN-4XL",
+      "S03580-FN-L",
+      "S03580-FN-M",
+      "S03580-FN-XL",
+      "S03580-FN-XXL",
+      "S03580-GM-3XL",
+      "S03580-GM-4XL",
+      "S03580-GM-L",
+      "S03580-GM-M",
+      "S03580-GM-XL",
+      "S03580-GM-XXL",
+      "S03580-RB-3XL",
+      "S03580-RB-4XL",
+      "S03580-RB-L",
+      "S03580-RB-M",
+      "S03580-RB-XL",
+      "S03580-RB-XXL",
+      "S03580-RD-3XL",
+      "S03580-RD-4XL",
+      "S03580-RD-L",
+      "S03580-RD-M",
+      "S03580-RD-XL",
+      "S03580-RD-XXL",
+      "S03580-WH-3XL",
+      "S03580-WH-4XL",
+      "S03580-WH-L",
+      "S03580-WH-M",
+      "S03580-WH-XL",
+      "S03580-WH-XXL",
+      "S03580-AG-M",
+      "S03580-AG-L",
+      "S03580-AG-XL",
+      "S03580-AG-XXL",
+      "S03580-AG-3XL",
+      "S03580-AG-4XL",
+      "S03580-AQ-M",
+      "S03580-AQ-L",
+      "S03580-AQ-XL",
+      "S03580-AQ-XXL",
+      "S03580-AQ-3XL",
+      "S03580-AQ-4XL",
+      "S03580-FU-M",
+      "S03580-FU-L",
+      "S03580-FU-XL",
+      "S03580-FU-XXL",
+      "S03580-FU-3XL",
+      "S03580-FU-4XL",
+      "S03580-GO-M",
+      "S03580-GO-L",
+      "S03580-GO-XL",
+      "S03580-GO-XXL",
+      "S03580-GO-3XL",
+      "S03580-GO-4XL",
+      "S03580-HB-M",
+      "S03580-HB-L",
+      "S03580-HB-XL",
+      "S03580-HB-XXL",
+      "S03580-HB-3XL",
+      "S03580-HB-4XL",
+      "S03580-EJ-M",
+      "S03580-EJ-L",
+      "S03580-EJ-XL",
+      "S03580-EJ-XXL",
+      "S03580-EJ-3XL",
+      "S03580-EJ-4XL",
+      "S03580-HP-M",
+      "S03580-HP-L",
+      "S03580-HP-XL",
+      "S03580-HP-XXL",
+      "S03580-HP-3XL",
+      "S03580-HP-4XL",
+      "S03580-KG-M",
+      "S03580-KG-L",
+      "S03580-KG-XL",
+      "S03580-KG-XXL",
+      "S03580-KG-3XL",
+      "S03580-KG-4XL",
+      "S03580-OR-M",
+      "S03580-OR-L",
+      "S03580-OR-XL",
+      "S03580-OR-XXL",
+      "S03580-OR-3XL",
+      "S03580-OR-4XL",
+      "S03580-OP-M",
+      "S03580-OP-L",
+      "S03580-OP-XL",
+      "S03580-OP-XXL",
+      "S03580-OP-3XL",
+      "S03580-OP-4XL",
+      "S03580-PP-M",
+      "S03580-PP-L",
+      "S03580-PP-XL",
+      "S03580-PP-XXL",
+      "S03580-PP-3XL",
+      "S03580-PP-4XL"
+    ],
+    "price": 2.54,
+    "priceFrom": true,
+    "stock": 40567,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/s03580-db.jpg",
+      "https://cdn1.midocean.com/image/700X700/s03580-fn.jpg",
+      "https://cdn1.midocean.com/image/700X700/s03580-gm.jpg",
+      "https://cdn1.midocean.com/image/700X700/s03580-rb.jpg",
+      "https://cdn1.midocean.com/image/700X700/s03580-rd.jpg",
+      "https://cdn1.midocean.com/image/700X700/s03580-wh.jpg",
+      "https://cdn1.midocean.com/image/700X700/s03580-ag.jpg",
+      "https://cdn1.midocean.com/image/700X700/s03580-aq.jpg",
+      "https://cdn1.midocean.com/image/700X700/s03580-fu.jpg",
+      "https://cdn1.midocean.com/image/700X700/s03580-go.jpg",
+      "https://cdn1.midocean.com/image/700X700/s03580-hb.jpg",
+      "https://cdn1.midocean.com/image/700X700/s03580-ej.jpg",
+      "https://cdn1.midocean.com/image/700X700/s03580-hp.jpg",
+      "https://cdn1.midocean.com/image/700X700/s03580-kg.jpg",
+      "https://cdn1.midocean.com/image/700X700/s03580-or.jpg",
+      "https://cdn1.midocean.com/image/700X700/s03580-op.jpg",
+      "https://cdn1.midocean.com/image/700X700/s03580-pp.jpg",
+      "https://cdn1.midocean.com/image/700X700/s03580-db-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/s03580-db-side.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 102,
+    "colorCount": 17,
+    "sizeCount": 6,
+    "colorSwatches": [
+      {
+        "name": "Apple Green"
+      },
+      {
+        "name": "Aqua"
+      },
+      {
+        "name": "Deep Black"
+      },
+      {
+        "name": "French Navy"
+      },
+      {
+        "name": "Fuchsia"
+      },
+      {
+        "name": "Gold"
+      },
+      {
+        "name": "Grey Melange"
+      },
+      {
+        "name": "Heather Beige"
+      },
+      {
+        "name": "Heather Light Green"
+      },
+      {
+        "name": "Heather Pink"
+      },
+      {
+        "name": "Kelly Green"
+      },
+      {
+        "name": "Orange"
+      },
+      {
+        "name": "Orchid Pink"
+      },
+      {
+        "name": "Pale Pink"
+      },
+      {
+        "name": "Red"
+      },
+      {
+        "name": "Royal Blue"
+      },
+      {
+        "name": "White"
+      }
+    ],
+    "availableSizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "specifications": [
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Organic Cotton"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "6109 1000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "10"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "100"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "Sol's",
+    "weightGrams": 41,
+    "descriptionLong": "SOL'S CRUSADER KIDS,kids round-neck fitted jersey t-shirt, 100%  organically grown cotton, natural finish for a softer and smoother feel jersey 150, 100% cotton ribbed collar, crew neck, taped neck, fitted cut, cut and sewn, (1) heather beige : 60 % organic cotton / 40 % recycled polyester, (2) heather light green : 60 % organic cotton / 40 % recycled polyester, (3) heather pink : 60 % organic cotton / 40 % recycled polyester, (4) grey melange : 85 % organic cotton / 15 % viscose. About sizes matching, please refer to the size chart in the product documentation section.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-s04238",
+    "name": "CONDOR KIDS",
+    "category": "apparel-and-wearables/sportswear-and-activewear",
+    "summary": "CONDOR KIDS Hooded Sweat",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "E",
+        "label": "Embroidery",
+        "labelRo": "Broderie",
+        "printSizes": [
+          "200 × 120 mm",
+          "200 × 200 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "ST1",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "200 × 120 mm",
+          "200 × 200 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TDT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "200 × 120 mm",
+          "200 × 200 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "200 × 120 mm",
+          "200 × 200 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TT",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "200 × 120 mm",
+          "200 × 200 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "S04238",
+    "supplierVariantIds": [
+      "S04238-BK-L",
+      "S04238-BK-XL",
+      "S04238-BK-XXL",
+      "S04238-BK-3XL",
+      "S04238-BK-4XL",
+      "S04238-BK-5XL",
+      "S04238-BL-L",
+      "S04238-BL-XL",
+      "S04238-BL-XXL",
+      "S04238-BL-3XL",
+      "S04238-BL-4XL",
+      "S04238-BL-5XL",
+      "S04238-BT-L",
+      "S04238-BT-XL",
+      "S04238-BT-XXL",
+      "S04238-BT-3XL",
+      "S04238-BT-4XL",
+      "S04238-BT-5XL",
+      "S04238-CP-L",
+      "S04238-CP-XL",
+      "S04238-CP-XXL",
+      "S04238-CP-3XL",
+      "S04238-CP-4XL",
+      "S04238-CP-5XL",
+      "S04238-FN-L",
+      "S04238-FN-XL",
+      "S04238-FN-XXL",
+      "S04238-FN-3XL",
+      "S04238-FN-4XL",
+      "S04238-FN-5XL",
+      "S04238-GY-L",
+      "S04238-GY-XL",
+      "S04238-GY-XXL",
+      "S04238-GY-3XL",
+      "S04238-GY-4XL",
+      "S04238-GY-5XL",
+      "S04238-KG-L",
+      "S04238-KG-XL",
+      "S04238-KG-XXL",
+      "S04238-KG-3XL",
+      "S04238-KG-4XL",
+      "S04238-KG-5XL",
+      "S04238-LY-L",
+      "S04238-LY-XL",
+      "S04238-LY-XXL",
+      "S04238-LY-3XL",
+      "S04238-LY-4XL",
+      "S04238-LY-5XL",
+      "S04238-RB-L",
+      "S04238-RB-XL",
+      "S04238-RB-XXL",
+      "S04238-RB-3XL",
+      "S04238-RB-4XL",
+      "S04238-RB-5XL",
+      "S04238-WH-L",
+      "S04238-WH-XL",
+      "S04238-WH-XXL",
+      "S04238-WH-3XL",
+      "S04238-WH-4XL",
+      "S04238-WH-5XL"
+    ],
+    "price": 10,
+    "priceFrom": false,
+    "stock": 8879,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/s04238-bk.jpg",
+      "https://cdn1.midocean.com/image/700X700/s04238-bl.jpg",
+      "https://cdn1.midocean.com/image/700X700/s04238-bt.jpg",
+      "https://cdn1.midocean.com/image/700X700/s04238-cp.jpg",
+      "https://cdn1.midocean.com/image/700X700/s04238-fn.jpg",
+      "https://cdn1.midocean.com/image/700X700/s04238-gy.jpg",
+      "https://cdn1.midocean.com/image/700X700/s04238-kg.jpg",
+      "https://cdn1.midocean.com/image/700X700/s04238-ly.jpg",
+      "https://cdn1.midocean.com/image/700X700/s04238-rb.jpg",
+      "https://cdn1.midocean.com/image/700X700/s04238-wh.jpg",
+      "https://cdn1.midocean.com/image/700X700/s04238-bk-back.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 60,
+    "colorCount": 10,
+    "sizeCount": 6,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      },
+      {
+        "name": "Blue"
+      },
+      {
+        "name": "Bright Red"
+      },
+      {
+        "name": "Creamy Pink"
+      },
+      {
+        "name": "French Navy"
+      },
+      {
+        "name": "Grey Melange 2"
+      },
+      {
+        "name": "Kelly Green"
+      },
+      {
+        "name": "Light Yellow"
+      },
+      {
+        "name": "Royal Blue"
+      },
+      {
+        "name": "White"
+      }
+    ],
+    "availableSizes": [
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL",
+      "5XL"
+    ],
+    "specifications": [
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Cotton"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "6110 2099"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "1"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "25"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "Sol's",
+    "weightGrams": 260,
+    "descriptionLong": "SOL'S CONDOR KIDS,  Sweatshirt 80% Cotton - 20% Grs Certified Recycled Polyester Set-In Sleeves,Cut And Sewn,1X1 Ribbed Cuffs And Bottom,Kangaroo Pocket,Lined Hood,Jersey Half Moon And Neck Tape Inside Collar,Relaxed Fit (1) Grey Melange : 73 % Cotton / 20 % Recycled Polyester / 7 % Viscose. . About Sizes Matching, Please Refer To The Size Chart In The Product Documentation Section.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-s04239",
+    "name": "COLUMBIA KIDS",
+    "category": "apparel-and-wearables/sportswear-and-activewear",
+    "summary": "COLUMBIA KIDS  Sweater",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "E",
+        "label": "Embroidery",
+        "labelRo": "Broderie",
+        "printSizes": [
+          "200 × 200 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "ST1",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "200 × 200 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TDT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "200 × 200 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "200 × 200 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TT",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "200 × 200 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "S04239",
+    "supplierVariantIds": [
+      "S04239-BK-L",
+      "S04239-BK-XL",
+      "S04239-BK-XXL",
+      "S04239-BK-3XL",
+      "S04239-BK-4XL",
+      "S04239-BK-5XL",
+      "S04239-BL-L",
+      "S04239-BL-XL",
+      "S04239-BL-XXL",
+      "S04239-BL-3XL",
+      "S04239-BL-4XL",
+      "S04239-BL-5XL",
+      "S04239-BT-L",
+      "S04239-BT-XL",
+      "S04239-BT-XXL",
+      "S04239-BT-3XL",
+      "S04239-BT-4XL",
+      "S04239-BT-5XL",
+      "S04239-CP-L",
+      "S04239-CP-XL",
+      "S04239-CP-XXL",
+      "S04239-CP-3XL",
+      "S04239-CP-4XL",
+      "S04239-CP-5XL",
+      "S04239-FN-L",
+      "S04239-FN-XL",
+      "S04239-FN-XXL",
+      "S04239-FN-3XL",
+      "S04239-FN-4XL",
+      "S04239-FN-5XL",
+      "S04239-GY-L",
+      "S04239-GY-XL",
+      "S04239-GY-XXL",
+      "S04239-GY-3XL",
+      "S04239-GY-4XL",
+      "S04239-GY-5XL",
+      "S04239-KG-L",
+      "S04239-KG-XL",
+      "S04239-KG-XXL",
+      "S04239-KG-3XL",
+      "S04239-KG-4XL",
+      "S04239-KG-5XL",
+      "S04239-LY-L",
+      "S04239-LY-XL",
+      "S04239-LY-XXL",
+      "S04239-LY-3XL",
+      "S04239-LY-4XL",
+      "S04239-LY-5XL",
+      "S04239-RB-L",
+      "S04239-RB-XL",
+      "S04239-RB-XXL",
+      "S04239-RB-3XL",
+      "S04239-RB-4XL",
+      "S04239-RB-5XL",
+      "S04239-WH-L",
+      "S04239-WH-XL",
+      "S04239-WH-XXL",
+      "S04239-WH-3XL",
+      "S04239-WH-4XL",
+      "S04239-WH-5XL"
+    ],
+    "price": 7.54,
+    "priceFrom": false,
+    "stock": 7832,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/s04239-bk.jpg",
+      "https://cdn1.midocean.com/image/700X700/s04239-bl.jpg",
+      "https://cdn1.midocean.com/image/700X700/s04239-bt.jpg",
+      "https://cdn1.midocean.com/image/700X700/s04239-cp.jpg",
+      "https://cdn1.midocean.com/image/700X700/s04239-fn.jpg",
+      "https://cdn1.midocean.com/image/700X700/s04239-gy.jpg",
+      "https://cdn1.midocean.com/image/700X700/s04239-kg.jpg",
+      "https://cdn1.midocean.com/image/700X700/s04239-ly.jpg",
+      "https://cdn1.midocean.com/image/700X700/s04239-rb.jpg",
+      "https://cdn1.midocean.com/image/700X700/s04239-wh.jpg",
+      "https://cdn1.midocean.com/image/700X700/s04239-bk-back.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 60,
+    "colorCount": 10,
+    "sizeCount": 6,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      },
+      {
+        "name": "Blue"
+      },
+      {
+        "name": "Bright Red"
+      },
+      {
+        "name": "Creamy Pink"
+      },
+      {
+        "name": "French Navy"
+      },
+      {
+        "name": "Grey Melange 2"
+      },
+      {
+        "name": "Kelly Green"
+      },
+      {
+        "name": "Light Yellow"
+      },
+      {
+        "name": "Royal Blue"
+      },
+      {
+        "name": "White"
+      }
+    ],
+    "availableSizes": [
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL",
+      "5XL"
+    ],
+    "specifications": [
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Cotton"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "6110 2099"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "1"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "25"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "Sol's",
+    "weightGrams": 176,
+    "descriptionLong": "SOL'S  COLUMBIA KIDS, 80% Cotton - 20% Grs Certified Recycled Polyester Round Neck,Set-In Sleeves,Cut And Sewn,1X1 Ribbed Cuffs, Neck And Bottom,Jersey Half Moon And Neck Tape Inside Collar,Relaxed Fit (1) Grey Melange : 73 % Cotton / 20 % Recycled Polyester / 7 % Viscose.. About Sizes Matching, Please Refer To The Size Chart In The Product Documentation Section.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-s04461",
+    "name": "EXPLORER",
+    "category": "apparel-and-wearables/sportswear-and-activewear",
+    "summary": "Explorer T-shirt Unisex",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "E",
+        "label": "Embroidery",
+        "labelRo": "Broderie",
+        "printSizes": [
+          "100 × 100 mm",
+          "100 × 70 mm"
+        ]
+      },
+      {
+        "code": "ST1",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "100 × 100 mm",
+          "100 × 70 mm",
+          "280 × 400 mm"
+        ]
+      },
+      {
+        "code": "TDT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "100 × 100 mm",
+          "100 × 70 mm",
+          "280 × 400 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "100 × 100 mm",
+          "100 × 70 mm",
+          "280 × 400 mm"
+        ]
+      },
+      {
+        "code": "TT",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "100 × 100 mm",
+          "100 × 70 mm",
+          "280 × 400 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "S04461",
+    "supplierVariantIds": [
+      "S04461-RC-XS",
+      "S04461-RC-S",
+      "S04461-RC-M",
+      "S04461-RC-L",
+      "S04461-RC-XL",
+      "S04461-RC-XXL",
+      "S04461-RC-3XL",
+      "S04461-RH-XS",
+      "S04461-RH-S",
+      "S04461-RH-M",
+      "S04461-RH-L",
+      "S04461-RH-XL",
+      "S04461-RH-XXL",
+      "S04461-RH-3XL",
+      "S04461-RV-XS",
+      "S04461-RV-S",
+      "S04461-RV-M",
+      "S04461-RV-L",
+      "S04461-RV-XL",
+      "S04461-RV-XXL",
+      "S04461-RV-3XL",
+      "S04461-RN-XS",
+      "S04461-RN-S",
+      "S04461-RN-M",
+      "S04461-RN-L",
+      "S04461-RN-XL",
+      "S04461-RN-XXL",
+      "S04461-RN-3XL",
+      "S04461-RS-XS",
+      "S04461-RS-S",
+      "S04461-RS-M",
+      "S04461-RS-L",
+      "S04461-RS-XL",
+      "S04461-RS-XXL",
+      "S04461-RS-3XL",
+      "S04461-RY-XS",
+      "S04461-RY-S",
+      "S04461-RY-M",
+      "S04461-RY-L",
+      "S04461-RY-XL",
+      "S04461-RY-XXL",
+      "S04461-RY-3XL"
+    ],
+    "price": 2.21,
+    "priceFrom": true,
+    "stock": 138869,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/s04461-rc.jpg",
+      "https://cdn1.midocean.com/image/700X700/s04461-rh.jpg",
+      "https://cdn1.midocean.com/image/700X700/s04461-rv.jpg",
+      "https://cdn1.midocean.com/image/700X700/s04461-rn.jpg",
+      "https://cdn1.midocean.com/image/700X700/s04461-rs.jpg",
+      "https://cdn1.midocean.com/image/700X700/s04461-ry.jpg",
+      "https://cdn1.midocean.com/image/700X700/s04461-rc-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/s04461-rc-side.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 42,
+    "colorCount": 6,
+    "sizeCount": 7,
+    "colorSwatches": [
+      {
+        "name": "Recycled Black"
+      },
+      {
+        "name": "Recycled Grey Melange"
+      },
+      {
+        "name": "Recycled Navy"
+      },
+      {
+        "name": "Recycled Red"
+      },
+      {
+        "name": "Recycled Royal Blue"
+      },
+      {
+        "name": "Recycled White"
+      }
+    ],
+    "availableSizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "56X39X33 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Recycled Cotton"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "6109 1000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "10"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "100"
+      }
+    ],
+    "brand": "Sol's",
+    "weightGrams": 125,
+    "descriptionLong": "SOL'S EXPLORER, unisex t-shirt with recycled fabric, 60% recycled cotton - 40% recycled polyester, modern fit , ribbed round neck, neck tape, short sleeves tubular. About sizes matching, please refer to the size chart in the product documentation section.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-s04773",
+    "name": "SPRINT KIDS",
+    "category": "apparel-and-wearables/sportswear-and-activewear",
+    "summary": "SPRINT KIDS SPORTS T-SHIRT",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "E",
+        "label": "Embroidery",
+        "labelRo": "Broderie",
+        "printSizes": [
+          "200 × 220 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "ST1",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "200 × 220 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TDT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "200 × 220 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "200 × 220 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TST",
+        "label": "Sublimation",
+        "labelRo": "Sublimare",
+        "printSizes": [
+          "200 × 220 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TT",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "200 × 220 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "S04773",
+    "supplierVariantIds": [
+      "S04773-AQ-L",
+      "S04773-AQ-XL",
+      "S04773-AQ-XXL",
+      "S04773-AQ-3XL",
+      "S04773-AQ-4XL",
+      "S04773-AQ-5XL",
+      "S04773-WH-L",
+      "S04773-WH-XL",
+      "S04773-WH-XXL",
+      "S04773-WH-3XL",
+      "S04773-WH-4XL",
+      "S04773-WH-5XL",
+      "S04773-NE-L",
+      "S04773-NE-XL",
+      "S04773-NE-XXL",
+      "S04773-NE-3XL",
+      "S04773-NE-4XL",
+      "S04773-NE-5XL",
+      "S04773-BK-L",
+      "S04773-BK-XL",
+      "S04773-BK-XXL",
+      "S04773-BK-3XL",
+      "S04773-BK-4XL",
+      "S04773-BK-5XL",
+      "S04773-RB-L",
+      "S04773-RB-XL",
+      "S04773-RB-XXL",
+      "S04773-RB-3XL",
+      "S04773-RB-4XL",
+      "S04773-RB-5XL"
+    ],
+    "price": 1.97,
+    "priceFrom": true,
+    "stock": 15436,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/s04773-aq.jpg",
+      "https://cdn1.midocean.com/image/700X700/s04773-wh.jpg",
+      "https://cdn1.midocean.com/image/700X700/s04773-ne.jpg",
+      "https://cdn1.midocean.com/image/700X700/s04773-bk.jpg",
+      "https://cdn1.midocean.com/image/700X700/s04773-rb.jpg",
+      "https://cdn1.midocean.com/image/700X700/s04773-aq-back.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 30,
+    "colorCount": 5,
+    "sizeCount": 6,
+    "colorSwatches": [
+      {
+        "name": "Aqua"
+      },
+      {
+        "name": "Black"
+      },
+      {
+        "name": "Neon Yellow"
+      },
+      {
+        "name": "Royal Blue"
+      },
+      {
+        "name": "White"
+      }
+    ],
+    "availableSizes": [
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL",
+      "5XL"
+    ],
+    "specifications": [
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Cotton"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "6109 1000"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "Sol's",
+    "descriptionLong": "SOL'S SPRINT KIDS, KIDS' SPORTS T-SHIRT, 100% recycled polyester, Round neck, Cut and sewn, Set-in sleeves, Ribbed body and neck. About sizes matching, please refer to the size chart in the product documentation section.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-s11344",
+    "name": "SUMMER II KIDS",
+    "category": "apparel-and-wearables/sportswear-and-activewear",
+    "summary": "SUMMER II KIDS Polo 170g",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "E",
+        "label": "Embroidery",
+        "labelRo": "Broderie",
+        "printSizes": [
+          "200 × 200 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "ST1",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "200 × 200 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TDT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "200 × 200 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "200 × 200 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TT",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "200 × 200 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "S11344",
+    "supplierVariantIds": [
+      "S11344-AL-3XL",
+      "S11344-AL-4XL",
+      "S11344-AL-L",
+      "S11344-AL-XL",
+      "S11344-AL-XXL",
+      "S11344-GO-3XL",
+      "S11344-GO-4XL",
+      "S11344-GO-L",
+      "S11344-GO-XL",
+      "S11344-GO-XXL",
+      "S11344-KG-3XL",
+      "S11344-KG-4XL",
+      "S11344-KG-L",
+      "S11344-KG-XL",
+      "S11344-KG-XXL",
+      "S11344-NY-3XL",
+      "S11344-NY-4XL",
+      "S11344-NY-L",
+      "S11344-NY-XL",
+      "S11344-NY-XXL",
+      "S11344-OR-3XL",
+      "S11344-OR-4XL",
+      "S11344-OR-L",
+      "S11344-OR-XL",
+      "S11344-OR-XXL",
+      "S11344-RB-3XL",
+      "S11344-RB-4XL",
+      "S11344-RB-L",
+      "S11344-RB-XL",
+      "S11344-RB-XXL",
+      "S11344-RD-3XL",
+      "S11344-RD-4XL",
+      "S11344-RD-L",
+      "S11344-RD-XL",
+      "S11344-RD-XXL",
+      "S11344-SP-3XL",
+      "S11344-SP-4XL",
+      "S11344-SP-L",
+      "S11344-SP-XL",
+      "S11344-SP-XXL",
+      "S11344-WH-3XL",
+      "S11344-WH-4XL",
+      "S11344-WH-L",
+      "S11344-WH-XL",
+      "S11344-WH-XXL"
+    ],
+    "price": 4.55,
+    "priceFrom": true,
+    "stock": 5842,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/s11344-al.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11344-go.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11344-kg.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11344-ny.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11344-or.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11344-rb.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11344-rd.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11344-sp.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11344-wh.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11344-al-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11344-al-side.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 45,
+    "colorCount": 9,
+    "sizeCount": 5,
+    "colorSwatches": [
+      {
+        "name": "Atoll Blue"
+      },
+      {
+        "name": "Gold"
+      },
+      {
+        "name": "Kelly Green"
+      },
+      {
+        "name": "Navy"
+      },
+      {
+        "name": "Orange"
+      },
+      {
+        "name": "Red"
+      },
+      {
+        "name": "Royal Blue"
+      },
+      {
+        "name": "Sky Blue Pique"
+      },
+      {
+        "name": "White"
+      }
+    ],
+    "availableSizes": [
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "42 X 30 X 26 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Cotton"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "6105 1000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "5"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "50"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "Sol's",
+    "weightGrams": 112,
+    "descriptionLong": "SOL'S SUMMER II KIDS,  Kids' Polo Shirt, 100% Combed Ringspun Cotton Piqué 170, Rib Collar, Reinforcing Tape On Neck, Short Sleeves, Tone On Tone 3 Button Placket, Straight Hem With Side Slits, Cut And Sewn. About Sizes Matching, Please Refer To The Size Chart In The Product Documentation Section.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-s11770",
+    "name": "IMPERIAL KIDS",
+    "category": "apparel-and-wearables/sportswear-and-activewear",
+    "summary": "IMPERIAL KIDS T-SHIRT 190g",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "E",
+        "label": "Embroidery",
+        "labelRo": "Broderie",
+        "printSizes": [
+          "200 × 200 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "ST1",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "200 × 200 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TDT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "200 × 200 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "200 × 200 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TT",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "200 × 200 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "S11770",
+    "supplierVariantIds": [
+      "S11770-AQ-3XL",
+      "S11770-AQ-4XL",
+      "S11770-AQ-L",
+      "S11770-AQ-M",
+      "S11770-AQ-XL",
+      "S11770-AQ-XXL",
+      "S11770-CH-3XL",
+      "S11770-CH-4XL",
+      "S11770-CH-L",
+      "S11770-CH-M",
+      "S11770-CH-XL",
+      "S11770-CH-XXL",
+      "S11770-DA-3XL",
+      "S11770-DA-4XL",
+      "S11770-DA-L",
+      "S11770-DA-M",
+      "S11770-DA-XL",
+      "S11770-DA-XXL",
+      "S11770-DB-3XL",
+      "S11770-DB-4XL",
+      "S11770-DB-L",
+      "S11770-DB-M",
+      "S11770-DB-XL",
+      "S11770-DB-XXL",
+      "S11770-FN-3XL",
+      "S11770-FN-4XL",
+      "S11770-FN-L",
+      "S11770-FN-M",
+      "S11770-FN-XL",
+      "S11770-FN-XXL",
+      "S11770-GM-3XL",
+      "S11770-GM-4XL",
+      "S11770-GM-L",
+      "S11770-GM-M",
+      "S11770-GM-XL",
+      "S11770-GM-XXL",
+      "S11770-GO-3XL",
+      "S11770-GO-4XL",
+      "S11770-GO-L",
+      "S11770-GO-M",
+      "S11770-GO-XL",
+      "S11770-GO-XXL",
+      "S11770-KG-3XL",
+      "S11770-KG-4XL",
+      "S11770-KG-L",
+      "S11770-KG-M",
+      "S11770-KG-XL",
+      "S11770-KG-XXL",
+      "S11770-MP-3XL",
+      "S11770-MP-4XL",
+      "S11770-MP-L",
+      "S11770-MP-M",
+      "S11770-MP-XL",
+      "S11770-MP-XXL",
+      "S11770-OR-3XL",
+      "S11770-OR-4XL",
+      "S11770-OR-L",
+      "S11770-OR-M",
+      "S11770-OR-XL",
+      "S11770-OR-XXL",
+      "S11770-RD-3XL",
+      "S11770-RD-4XL",
+      "S11770-RD-L",
+      "S11770-RD-M",
+      "S11770-RD-XL",
+      "S11770-RD-XXL",
+      "S11770-SK-3XL",
+      "S11770-SK-4XL",
+      "S11770-SK-L",
+      "S11770-SK-M",
+      "S11770-SK-XL",
+      "S11770-SK-XXL",
+      "S11770-WH-3XL",
+      "S11770-WH-4XL",
+      "S11770-WH-L",
+      "S11770-WH-M",
+      "S11770-WH-XL",
+      "S11770-WH-XXL",
+      "S11770-NB-M",
+      "S11770-NB-L",
+      "S11770-NB-XL",
+      "S11770-NB-XXL",
+      "S11770-NB-3XL",
+      "S11770-NB-4XL"
+    ],
+    "price": 2.6,
+    "priceFrom": true,
+    "stock": 93241,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/s11770-aq.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11770-ch.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11770-da.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11770-db.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11770-fn.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11770-gm.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11770-go.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11770-kg.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11770-mp.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11770-or.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11770-rd.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11770-sk.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11770-wh.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11770-nb.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11770-aq-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11770-aq-side.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 84,
+    "colorCount": 14,
+    "sizeCount": 6,
+    "colorSwatches": [
+      {
+        "name": "Absolute White"
+      },
+      {
+        "name": "Aqua"
+      },
+      {
+        "name": "Chocolate"
+      },
+      {
+        "name": "Dark Purple"
+      },
+      {
+        "name": "Deep Black"
+      },
+      {
+        "name": "French Navy"
+      },
+      {
+        "name": "Gold"
+      },
+      {
+        "name": "Grey Melange"
+      },
+      {
+        "name": "Kelly Green"
+      },
+      {
+        "name": "Medium Pink"
+      },
+      {
+        "name": "Orange"
+      },
+      {
+        "name": "Red"
+      },
+      {
+        "name": "Sky Blue"
+      },
+      {
+        "name": "White"
+      }
+    ],
+    "availableSizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "35X24X37 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Cotton"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "6109 1000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "10"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "100"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "Sol's",
+    "weightGrams": 117,
+    "descriptionLong": "SOL'S IMPERIAL KIDS, kids' round neck t-shirt, 100% semi-combed ringspun cotton jersey 190 extra soft, taped neck, elastane ribbed collar, short sleeves, cut and sewn (2-6 years) or tubular (from 8 years).about sizes matching, please refer to the size chart in the product documentation section.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-s11970",
+    "name": "REGENT KIDS",
+    "category": "apparel-and-wearables/sportswear-and-activewear",
+    "summary": "REGENT KIDS T-SHIRT 150g",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "E",
+        "label": "Embroidery",
+        "labelRo": "Broderie",
+        "printSizes": [
+          "200 × 220 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "ST1",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "200 × 220 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TDT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "200 × 220 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "200 × 220 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TT",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "200 × 220 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "S11970",
+    "supplierVariantIds": [
+      "S11970-AG-3XL",
+      "S11970-AG-4XL",
+      "S11970-AG-L",
+      "S11970-AG-M",
+      "S11970-AG-XL",
+      "S11970-AG-XXL",
+      "S11970-AL-3XL",
+      "S11970-AL-4XL",
+      "S11970-AL-L",
+      "S11970-AL-M",
+      "S11970-AL-XL",
+      "S11970-AL-XXL",
+      "S11970-AQ-3XL",
+      "S11970-AQ-4XL",
+      "S11970-AQ-L",
+      "S11970-AQ-M",
+      "S11970-AQ-XL",
+      "S11970-AQ-XXL",
+      "S11970-AR-3XL",
+      "S11970-AR-4XL",
+      "S11970-AR-L",
+      "S11970-AR-M",
+      "S11970-AR-XL",
+      "S11970-AR-XXL",
+      "S11970-AS-3XL",
+      "S11970-AS-4XL",
+      "S11970-AS-L",
+      "S11970-AS-M",
+      "S11970-AS-XL",
+      "S11970-AS-XXL",
+      "S11970-DA-3XL",
+      "S11970-DA-4XL",
+      "S11970-DA-L",
+      "S11970-DA-M",
+      "S11970-DA-XL",
+      "S11970-DA-XXL",
+      "S11970-DB-3XL",
+      "S11970-DB-4XL",
+      "S11970-DB-L",
+      "S11970-DB-M",
+      "S11970-DB-XL",
+      "S11970-DB-XXL",
+      "S11970-DM-3XL",
+      "S11970-DM-4XL",
+      "S11970-DM-L",
+      "S11970-DM-M",
+      "S11970-DM-XL",
+      "S11970-DM-XXL",
+      "S11970-FN-3XL",
+      "S11970-FN-4XL",
+      "S11970-FN-L",
+      "S11970-FN-M",
+      "S11970-FN-XL",
+      "S11970-FN-XXL",
+      "S11970-FU-3XL",
+      "S11970-FU-4XL",
+      "S11970-FU-L",
+      "S11970-FU-M",
+      "S11970-FU-XL",
+      "S11970-FU-XXL",
+      "S11970-GM-3XL",
+      "S11970-GM-4XL",
+      "S11970-GM-L",
+      "S11970-GM-M",
+      "S11970-GM-XL",
+      "S11970-GM-XXL",
+      "S11970-GO-3XL",
+      "S11970-GO-4XL",
+      "S11970-GO-L",
+      "S11970-GO-M",
+      "S11970-GO-XL",
+      "S11970-GO-XXL",
+      "S11970-KG-3XL",
+      "S11970-KG-4XL",
+      "S11970-KG-L",
+      "S11970-KG-M",
+      "S11970-KG-XL",
+      "S11970-KG-XXL",
+      "S11970-LE-3XL",
+      "S11970-LE-4XL",
+      "S11970-LE-L",
+      "S11970-LE-M",
+      "S11970-LE-XL",
+      "S11970-LE-XXL",
+      "S11970-NY-3XL",
+      "S11970-NY-4XL",
+      "S11970-NY-L",
+      "S11970-NY-M",
+      "S11970-NY-XL",
+      "S11970-NY-XXL",
+      "S11970-OP-3XL",
+      "S11970-OP-4XL",
+      "S11970-OP-L",
+      "S11970-OP-M",
+      "S11970-OP-XL",
+      "S11970-OP-XXL",
+      "S11970-OR-3XL",
+      "S11970-OR-4XL",
+      "S11970-OR-L",
+      "S11970-OR-M",
+      "S11970-OR-XL",
+      "S11970-OR-XXL",
+      "S11970-PP-3XL",
+      "S11970-PP-4XL",
+      "S11970-PP-L",
+      "S11970-PP-M",
+      "S11970-PP-XL",
+      "S11970-PP-XXL",
+      "S11970-RB-3XL",
+      "S11970-RB-4XL",
+      "S11970-RB-L",
+      "S11970-RB-M",
+      "S11970-RB-XL",
+      "S11970-RB-XXL",
+      "S11970-RD-3XL",
+      "S11970-RD-4XL",
+      "S11970-RD-L",
+      "S11970-RD-M",
+      "S11970-RD-XL",
+      "S11970-RD-XXL",
+      "S11970-SA-3XL",
+      "S11970-SA-4XL",
+      "S11970-SA-L",
+      "S11970-SA-M",
+      "S11970-SA-XL",
+      "S11970-SA-XXL",
+      "S11970-SK-3XL",
+      "S11970-SK-4XL",
+      "S11970-SK-L",
+      "S11970-SK-M",
+      "S11970-SK-XL",
+      "S11970-SK-XXL",
+      "S11970-WH-3XL",
+      "S11970-WH-4XL",
+      "S11970-WH-L",
+      "S11970-WH-M",
+      "S11970-WH-XL",
+      "S11970-WH-XXL",
+      "S11970-NB-M",
+      "S11970-NB-L",
+      "S11970-NB-XL",
+      "S11970-NB-XXL",
+      "S11970-NB-3XL",
+      "S11970-NB-4XL"
+    ],
+    "price": 1.82,
+    "priceFrom": true,
+    "stock": 318008,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/s11970-ag.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11970-al.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11970-aq.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11970-ar.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11970-as.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11970-da.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11970-db.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11970-dm.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11970-fn.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11970-fu.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11970-gm.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11970-go.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11970-kg.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11970-le.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11970-ny.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11970-op.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11970-or.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11970-pp.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11970-rb.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11970-rd.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11970-sa.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11970-sk.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11970-wh.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11970-nb.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11970-ag-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/s11970-ag-side.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 144,
+    "colorCount": 24,
+    "sizeCount": 6,
+    "colorSwatches": [
+      {
+        "name": "Absolute White"
+      },
+      {
+        "name": "Apple Green"
+      },
+      {
+        "name": "Aqua"
+      },
+      {
+        "name": "Army"
+      },
+      {
+        "name": "Ash"
+      },
+      {
+        "name": "Atoll Blue"
+      },
+      {
+        "name": "Dark Purple"
+      },
+      {
+        "name": "Deep Black"
+      },
+      {
+        "name": "Denim"
+      },
+      {
+        "name": "French Navy"
+      },
+      {
+        "name": "Fuchsia"
+      },
+      {
+        "name": "Gold"
+      },
+      {
+        "name": "Grey Melange"
+      },
+      {
+        "name": "Kelly Green"
+      },
+      {
+        "name": "Lemon"
+      },
+      {
+        "name": "Navy"
+      },
+      {
+        "name": "Orange"
+      },
+      {
+        "name": "Orchid Pink"
+      },
+      {
+        "name": "Pale Pink"
+      },
+      {
+        "name": "Red"
+      },
+      {
+        "name": "Royal Blue"
+      },
+      {
+        "name": "Sand"
+      },
+      {
+        "name": "Sky Blue"
+      },
+      {
+        "name": "White"
+      }
+    ],
+    "availableSizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "33X23X34 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Cotton"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "6109 1000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "10"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "100"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "Sol's",
+    "weightGrams": 117,
+    "descriptionLong": "SOL'S REGENT children's T-shirt in 150g/m², the best-selling T-shirt in the SOL'S range since 1995 and with one of the widest range of colours on the market. Reinforced taped neck seam, collar with elastane, 2-6 years with side seam tubular knit from 8 years. Fabric details: 150g/m2 single jersey, 100% semi-combed ringspun cotton. OEKO-TEX®. Only sold with print. Sizes - 2 yrs: 86-94cm (M), 4 yrs: 96-104cm (L), 6 yrs: 106- 116cm (XL), 8 yrs: 118-128cm (XXL), 10 yrs: 130-140cm (3XL), 12 yrs: 142-152cm (4XL).",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-s13249",
+    "name": "NEW SUPREME KIDS",
+    "category": "apparel-and-wearables/sportswear-and-activewear",
+    "summary": "NEW SUPREME KIDS  280g",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "E",
+        "label": "Embroidery",
+        "labelRo": "Broderie",
+        "printSizes": [
+          "200 × 200 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "ST1",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "200 × 200 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TDT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "200 × 200 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "200 × 200 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TT",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "200 × 200 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "S13249",
+    "supplierVariantIds": [
+      "S13249-BK-3XL",
+      "S13249-BK-4XL",
+      "S13249-BK-L",
+      "S13249-BK-XL",
+      "S13249-GM-3XL",
+      "S13249-GM-4XL",
+      "S13249-GM-L",
+      "S13249-GM-XL",
+      "S13249-GM-XXL",
+      "S13249-NY-L",
+      "S13249-NY-XL"
+    ],
+    "price": 6.32,
+    "priceFrom": false,
+    "stock": 167,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/s13249-bk.jpg",
+      "https://cdn1.midocean.com/image/700X700/s13249-gm.jpg",
+      "https://cdn1.midocean.com/image/700X700/s13249-ny.jpg",
+      "https://cdn1.midocean.com/image/700X700/s13249-bk-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/s13249-bk-side.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 11,
+    "colorCount": 3,
+    "sizeCount": 5,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      },
+      {
+        "name": "Grey Melange"
+      },
+      {
+        "name": "Navy"
+      }
+    ],
+    "availableSizes": [
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "59 X 39 X 28 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Cotton"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "PK"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "6110 3099"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "5"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "25"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "Sol's",
+    "weightGrams": 219,
+    "descriptionLong": "SOL'S NEW SUPREME, kids' sweatshirt, 50% ringspun cotton - 50% polyester brushed fleece 280, reinforcing tape on neck, elastane rib cuffs, collar and hem, set in sleeves, cut and sewn, (1) grey melange : 50 % cotton / 50 % polyester. About sizes matching, please refer to the size chart in the product documentation section.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-s13255",
+    "name": "SLAM KIDS",
+    "category": "apparel-and-wearables/sportswear-and-activewear",
+    "summary": "SLAM KIDS Hoodie Sweater",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "E",
+        "label": "Embroidery",
+        "labelRo": "Broderie",
+        "printSizes": [
+          "200 × 120 mm",
+          "200 × 200 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "ST1",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "200 × 120 mm",
+          "200 × 200 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TDT",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "200 × 120 mm",
+          "200 × 200 mm",
+          "50 × 50 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "200 × 120 mm",
+          "200 × 200 mm",
+          "50 × 50 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "TT",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "200 × 120 mm",
+          "200 × 200 mm",
+          "50 × 50 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "S13255",
+    "supplierVariantIds": [
+      "S13255-BK-L",
+      "S13255-BK-XL",
+      "S13255-BK-XXL",
+      "S13255-GM-L",
+      "S13255-GM-3XL",
+      "S13255-GM-4XL",
+      "S13255-KG-L",
+      "S13255-KG-XL",
+      "S13255-KG-3XL",
+      "S13255-KG-4XL",
+      "S13255-NY-XL",
+      "S13255-NY-4XL",
+      "S13255-OR-L",
+      "S13255-OR-4XL",
+      "S13255-RD-L",
+      "S13255-RD-XL",
+      "S13255-RD-3XL",
+      "S13255-RD-4XL",
+      "S13255-SK-3XL",
+      "S13255-WH-L",
+      "S13255-WH-XXL",
+      "S13255-WH-3XL",
+      "S13255-WH-4XL"
+    ],
+    "price": 11.47,
+    "priceFrom": true,
+    "stock": 1197,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/s13255-bk.jpg",
+      "https://cdn1.midocean.com/image/700X700/s13255-gm.jpg",
+      "https://cdn1.midocean.com/image/700X700/s13255-kg.jpg",
+      "https://cdn1.midocean.com/image/700X700/s13255-ny.jpg",
+      "https://cdn1.midocean.com/image/700X700/s13255-or.jpg",
+      "https://cdn1.midocean.com/image/700X700/s13255-rd.jpg",
+      "https://cdn1.midocean.com/image/700X700/s13255-sk.jpg",
+      "https://cdn1.midocean.com/image/700X700/s13255-wh.jpg",
+      "https://cdn1.midocean.com/image/700X700/s13255-bk-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/s13255-bk-side.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 23,
+    "colorCount": 8,
+    "sizeCount": 5,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      },
+      {
+        "name": "Grey Melange"
+      },
+      {
+        "name": "Kelly Green"
+      },
+      {
+        "name": "Navy"
+      },
+      {
+        "name": "Orange"
+      },
+      {
+        "name": "Red"
+      },
+      {
+        "name": "Sky Blue"
+      },
+      {
+        "name": "White"
+      }
+    ],
+    "availableSizes": [
+      "L",
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "59 X 39 X 27 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "PET"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "PK"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "6110 3099"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "5"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "20"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "Sol's",
+    "weightGrams": 364,
+    "descriptionLong": "SOL'S SLAM KIDS, Kids' Hooded Sweatshirt, 50% Ringspun Cotton - 50% Polyester Brushed Fleece 280, Elastane Rib, Set In Sleeves, Cut And Sewn, Kangaroo Pockets, Lined Hood Without Drawstring. About Sizes Matching, Please Refer To The Size Chart In The Product Documentation Section.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-s32300",
+    "name": "SURF KIDS",
+    "category": "apparel-and-wearables/sportswear-and-activewear",
+    "summary": "SURF KIDS WINDBREAKER 210g",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "ST1",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "300 × 400 mm",
+          "60 × 50 mm",
+          "70 × 70 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "S32300",
+    "supplierVariantIds": [
+      "S32300-BK-3XL",
+      "S32300-BK-5XL",
+      "S32300-BK-XL",
+      "S32300-BK-XXL",
+      "S32300-GO-5XL",
+      "S32300-NY-3XL",
+      "S32300-NY-5XL",
+      "S32300-NY-XL",
+      "S32300-NY-XXL",
+      "S32300-OR-3XL",
+      "S32300-OR-5XL",
+      "S32300-OR-XL",
+      "S32300-OR-XXL",
+      "S32300-RB-3XL",
+      "S32300-RB-5XL",
+      "S32300-RB-XL",
+      "S32300-RB-XXL",
+      "S32300-RD-3XL",
+      "S32300-RD-5XL",
+      "S32300-RD-XL",
+      "S32300-RD-XXL",
+      "S32300-BK-4XL",
+      "S32300-GO-4XL",
+      "S32300-NY-4XL",
+      "S32300-OR-4XL",
+      "S32300-RB-4XL",
+      "S32300-RD-4XL"
+    ],
+    "price": 8.01,
+    "priceFrom": false,
+    "stock": 2986,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/s32300-bk.jpg",
+      "https://cdn1.midocean.com/image/700X700/s32300-go.jpg",
+      "https://cdn1.midocean.com/image/700X700/s32300-ny.jpg",
+      "https://cdn1.midocean.com/image/700X700/s32300-or.jpg",
+      "https://cdn1.midocean.com/image/700X700/s32300-rb.jpg",
+      "https://cdn1.midocean.com/image/700X700/s32300-rd.jpg",
+      "https://cdn1.midocean.com/image/700X700/s32300-bk-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/s32300-bk-side.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 27,
+    "colorCount": 6,
+    "sizeCount": 5,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      },
+      {
+        "name": "Gold"
+      },
+      {
+        "name": "Navy"
+      },
+      {
+        "name": "Orange"
+      },
+      {
+        "name": "Red"
+      },
+      {
+        "name": "Royal Blue"
+      }
+    ],
+    "availableSizes": [
+      "XL",
+      "XXL",
+      "3XL",
+      "4XL",
+      "5XL"
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "60 X 40 X 22 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "RPET"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "BD"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "6202 4010"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "5"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "50"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "Sol's",
+    "weightGrams": 190,
+    "descriptionLong": "SOL'S SURF KIDS, kids' windbreaker, 100% polyamide, water repellent polyamide 210t, zipped opening, concealed hood, 2 exterior zipped pockets, \"in bag\" folding system with elasticated cuffs, ventilation eyelets, secured inner drawstring hem. About sizes matching, please refer to the size chart in the product documentation section.",
     "hasVariantDetail": true
   }
 ]

@@ -1,0 +1,41 @@
+[
+  {
+    "contentKey": "4d042797a318f427",
+    "supplierVariantId": "MO6674-05",
+    "stock": 12402,
+    "stockLevel": "in-stock",
+    "price": 0.89,
+    "color": {
+      "name": "Red"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "926ce6c9449c18e0",
+    "supplierVariantId": "MO6674-85",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.93,
+    "color": {
+      "name": "French Navy"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "a080144a95e4b2e7",
+    "supplierVariantId": "MO6674-03",
+    "stock": 1,
+    "stockLevel": "low",
+    "price": 0.93,
+    "color": {
+      "name": "Black"
+    },
+    "imageRefs": [
+      0
+    ]
+  }
+]

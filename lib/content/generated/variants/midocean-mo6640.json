@@ -1,0 +1,41 @@
+[
+  {
+    "contentKey": "a6500169b55509ad",
+    "supplierVariantId": "MO6640-06",
+    "stock": 3164,
+    "stockLevel": "in-stock",
+    "price": 4.23,
+    "color": {
+      "name": "White"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "b1612256a1df4b8f",
+    "supplierVariantId": "MO6640-03",
+    "stock": 2319,
+    "stockLevel": "in-stock",
+    "price": 4.23,
+    "color": {
+      "name": "Black"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "daf111d097c21708",
+    "supplierVariantId": "MO6640-04",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 4.23,
+    "color": {
+      "name": "Blue"
+    },
+    "imageRefs": [
+      1
+    ]
+  }
+]

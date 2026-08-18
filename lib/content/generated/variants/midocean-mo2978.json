@@ -1,0 +1,41 @@
+[
+  {
+    "contentKey": "16f08a7994913191",
+    "supplierVariantId": "MO2978-04",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 15.22,
+    "color": {
+      "name": "Blue"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "57f62e92103f6f96",
+    "supplierVariantId": "MO2978-03",
+    "stock": 649,
+    "stockLevel": "in-stock",
+    "price": 15.22,
+    "color": {
+      "name": "Black"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "b425602ef2ca8ccd",
+    "supplierVariantId": "MO2978-05",
+    "stock": 128,
+    "stockLevel": "in-stock",
+    "price": 15.22,
+    "color": {
+      "name": "Red"
+    },
+    "imageRefs": [
+      2
+    ]
+  }
+]

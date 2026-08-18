@@ -43,7 +43,7 @@
       "https://macma.ro/products/jpg/M/9026877_1.jpg",
       "https://macma.ro/products/jpg/M/9026877_2.jpg"
     ],
-    "fetchedAt": "2026-08-16T04:03:39.012Z",
+    "fetchedAt": "2026-08-18T13:15:05.027Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -130,7 +130,7 @@
       "https://macma.ro/products/jpg/M/9089106_1.jpg",
       "https://macma.ro/products/jpg/M/9089106_2.jpg"
     ],
-    "fetchedAt": "2026-08-18T03:57:33.401Z",
+    "fetchedAt": "2026-08-18T13:15:05.027Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -231,7 +231,7 @@
       "https://macma.ro/products/jpg/M/9099508_1.jpg",
       "https://macma.ro/products/jpg/M/9099508_2.jpg"
     ],
-    "fetchedAt": "2026-08-18T03:57:33.401Z",
+    "fetchedAt": "2026-08-18T13:15:05.027Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -323,7 +323,7 @@
       "https://macma.ro/products/jpg/M/9265607_9.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/9265607_lifestyle_10.jpg"
     ],
-    "fetchedAt": "2026-08-16T04:03:39.012Z",
+    "fetchedAt": "2026-08-18T13:15:05.027Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -431,7 +431,7 @@
       "https://macma.ro/products/jpg/M/9288808_4.jpg",
       "https://macma.ro/products/jpg/M/9288808_5.jpg"
     ],
-    "fetchedAt": "2026-08-18T03:57:33.401Z",
+    "fetchedAt": "2026-08-18T13:15:05.027Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 1,
@@ -532,7 +532,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/9548777_lifestyle_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/9548777_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-08-18T03:57:33.401Z",
+    "fetchedAt": "2026-08-18T13:15:05.027Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -629,7 +629,7 @@
       "https://macma.ro/products/jpg/M/9549307_6.jpg",
       "https://macma.ro/products/jpg/M/9549307_7.jpg"
     ],
-    "fetchedAt": "2026-08-18T03:57:33.401Z",
+    "fetchedAt": "2026-08-18T13:15:05.027Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -716,7 +716,7 @@
       "https://macma.ro/products/jpg/M/9901104_2.jpg",
       "https://macma.ro/products/jpg/M/9901104_1.jpg"
     ],
-    "fetchedAt": "2026-08-18T03:57:33.401Z",
+    "fetchedAt": "2026-08-18T13:15:05.027Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -799,7 +799,7 @@
     ],
     "price": 0.48,
     "priceFrom": false,
-    "stock": 31567,
+    "stock": 38567,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/9901205_0.jpg",
@@ -809,7 +809,7 @@
       "https://macma.ro/products/jpg/M/9901266_1.jpg",
       "https://macma.ro/products/jpg/M/9901210_0.jpg"
     ],
-    "fetchedAt": "2026-08-18T03:57:33.401Z",
+    "fetchedAt": "2026-08-18T13:15:05.027Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -876,5 +876,232 @@
     "weightGrams": 69,
     "descriptionLong": "Ice scraper transparently frosted.",
     "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-mo2960",
+    "name": "CARFRESH",
+    "category": "tools-and-keyrings/car-accessories/car-air-fresheners",
+    "summary": "Car vent air freshener",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
+    "personalizations": [
+      "co2",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "L3",
+        "label": "Laser engraving",
+        "labelRo": "Gravare laser",
+        "printSizes": [
+          "45 × 15 mm"
+        ]
+      },
+      {
+        "code": "P4",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "45 × 15 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO2960",
+    "supplierVariantIds": [
+      "MO2960-03"
+    ],
+    "price": 0.96,
+    "priceFrom": false,
+    "stock": 11634,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo2960-03.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2960-03-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2960-03-side.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2960-03-open.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2960-03-print.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2960-03-box.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "5.8X4.9X2.8CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "ABS"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "7616 9990"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "50"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "300"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "Back in MO Box"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 12,
+    "descriptionLong": "Car vent air freshener with aluminium cover and ABS clip. Includes RPET felt insert for aroma liquid (not included).",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo6206",
+    "name": "FRESH AIR",
+    "category": "tools-and-keyrings/car-accessories/car-air-fresheners",
+    "summary": "New car aroma air freshener 5ml",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
+    "personalizations": [
+      "co2",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DL",
+        "label": "Digital label",
+        "labelRo": "Etichetă digitală",
+        "printSizes": [
+          "15 × 12 mm",
+          "15 × 15 mm"
+        ]
+      },
+      {
+        "code": "DO1",
+        "label": "Doming",
+        "labelRo": "Doming",
+        "printSizes": [
+          "15 × 12 mm",
+          "15 × 15 mm"
+        ]
+      },
+      {
+        "code": "L2",
+        "label": "Laser engraving",
+        "labelRo": "Gravare laser",
+        "printSizes": [
+          "15 × 12 mm"
+        ]
+      },
+      {
+        "code": "P5",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "15 × 12 mm",
+          "15 × 15 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO6206",
+    "supplierVariantIds": [
+      "MO6206-40"
+    ],
+    "price": 1.73,
+    "priceFrom": false,
+    "stock": 9599,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo6206-40.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6206-40-side.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6206-40-print.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6206-40-ambiant.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6206-40-detail.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6206-40-box.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Wood"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2,7X2,7X4,8 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Glass"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "3307 4900"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "100"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "200"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "Back in MO Box"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 42,
+    "descriptionLong": "Refillable car air freshener with new car fragrance diffuser with essential oils. Glass container with beech wood lid. Capacity 5 ml.",
+    "hasVariantDetail": false
   }
 ]

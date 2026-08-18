@@ -1,0 +1,448 @@
+[
+  {
+    "slug": "midocean-mo6115",
+    "name": "SUNCARE TUBE",
+    "category": "home-and-living/personal-care-and-wellness/sun-care",
+    "summary": "Tube 45ml sunscreen lotion",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DL",
+        "label": "Digital label",
+        "labelRo": "Etichetă digitală",
+        "printSizes": [
+          "20 × 10 mm",
+          "20 × 45 mm"
+        ]
+      },
+      {
+        "code": "DO1",
+        "label": "Doming",
+        "labelRo": "Doming",
+        "printSizes": [
+          "20 × 15 mm"
+        ]
+      },
+      {
+        "code": "P3",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "20 × 10 mm"
+        ]
+      },
+      {
+        "code": "P4",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "20 × 45 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO6115",
+    "supplierVariantIds": [
+      "MO6115-06"
+    ],
+    "price": 1.2,
+    "priceFrom": false,
+    "stock": 20866,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo6115-06.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6115-06-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6115-06-side.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6115-06-top.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6115-06-print.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "White"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "5,5X3,2X8 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "PE"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "3304 9900"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "100"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "200"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 50,
+    "descriptionLong": "Tube sunscreen lotion with SPF25. 45 ml.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo6789",
+    "name": "CRENSUN",
+    "category": "home-and-living/personal-care-and-wellness/sun-care",
+    "summary": "Sunscreen lotion spray 30 ml",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DL",
+        "label": "Digital label",
+        "labelRo": "Etichetă digitală",
+        "printSizes": [
+          "25 × 35 mm"
+        ]
+      },
+      {
+        "code": "P5",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "20 × 20 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO6789",
+    "supplierVariantIds": [
+      "MO6789-06"
+    ],
+    "price": 1.29,
+    "priceFrom": false,
+    "stock": 1988,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo6789-06.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6789-06-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6789-06-side.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6789-06-print.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6789-06-detail.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "White"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "10X3,5X2,5 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "PE"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "3304 9900"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "100"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "200"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 51,
+    "descriptionLong": "Sunscreen spray SPF25 with carabiner. Capacity: 30 ml.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo6832",
+    "name": "PEI",
+    "category": "home-and-living/personal-care-and-wellness/sun-care",
+    "summary": "Sunscreen lotion spray 10 ml",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DL",
+        "label": "Digital label",
+        "labelRo": "Etichetă digitală",
+        "printSizes": [
+          "50 × 47 mm"
+        ]
+      },
+      {
+        "code": "P4",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "65 × 5 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO6832",
+    "supplierVariantIds": [
+      "MO6832-22"
+    ],
+    "price": 0.72,
+    "priceFrom": false,
+    "stock": 1112,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo6832-22.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6832-22-side.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6832-22-print.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Transparent"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "Ø1,6X14,2 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Liquid"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "3304 9900"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "50"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "500"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 23,
+    "descriptionLong": "Sunscreen in pen shape with spray on top. 10 ml. SPF25.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo8512",
+    "name": "SUNCARE",
+    "category": "home-and-living/personal-care-and-wellness/sun-care",
+    "summary": "30 ml sunscreen lotion",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DL",
+        "label": "Digital label",
+        "labelRo": "Etichetă digitală",
+        "printSizes": [
+          "30 × 40 mm"
+        ]
+      },
+      {
+        "code": "P4",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "23 × 23 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO8512",
+    "supplierVariantIds": [
+      "MO8512-04",
+      "MO8512-06",
+      "MO8512-10",
+      "MO8512-05",
+      "MO8512-08",
+      "MO8512-03"
+    ],
+    "price": 1.27,
+    "priceFrom": false,
+    "stock": 102884,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo8512-04.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo8512-06.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo8512-10.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo8512-05.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo8512-08.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo8512-03.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo8512-04-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo8512-04-ambiant.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 6,
+    "colorCount": 6,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      },
+      {
+        "name": "Blue"
+      },
+      {
+        "name": "Orange"
+      },
+      {
+        "name": "Red"
+      },
+      {
+        "name": "White"
+      },
+      {
+        "name": "Yellow"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "4,7X2,4X9 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "PE"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "3304 9900"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "50"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "200"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 45,
+    "descriptionLong": "Sunscreen lotion with SPF25 with carabiner. 30ml.",
+    "hasVariantDetail": true
+  }
+]

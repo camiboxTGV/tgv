@@ -45,7 +45,7 @@
       "https://macma.ro/products/jpg/M/8119104_6.jpg",
       "https://macma.ro/products/jpg/M/8119104_box.jpg"
     ],
-    "fetchedAt": "2026-08-16T04:03:39.012Z",
+    "fetchedAt": "2026-08-18T13:15:05.027Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -172,7 +172,7 @@
       "https://macma.ro/products/jpg/M/8149146_4.jpg",
       "https://macma.ro/products/jpg/M/8149146_box.jpg"
     ],
-    "fetchedAt": "2026-08-16T04:03:39.012Z",
+    "fetchedAt": "2026-08-18T13:15:05.027Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -285,7 +285,7 @@
       "https://macma.ro/products/jpg/M/8159966_7.jpg",
       "https://macma.ro/products/jpg/M/8159966_box.jpg"
     ],
-    "fetchedAt": "2026-08-18T03:57:33.401Z",
+    "fetchedAt": "2026-08-18T13:15:05.027Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -382,7 +382,7 @@
       "https://macma.ro/products/jpg/M/8181566_7.jpg",
       "https://macma.ro/products/jpg/M/8181566_box.jpg"
     ],
-    "fetchedAt": "2026-08-18T03:57:33.401Z",
+    "fetchedAt": "2026-08-18T13:15:05.027Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -436,6 +436,358 @@
     "brand": "M-Collection",
     "weightGrams": 46,
     "descriptionLong": "Set of 2 glass straws - almost unbreakable - means save to drink and eco-friendly, because reusable, Dishwasherproof. Your logo will be engraced onto both straws. the price for the engraving is to understood per straw.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo2452",
+    "name": "GLAW",
+    "category": "drinkware/bar-and-wine-accessories/reusable-straws",
+    "summary": "4 reusable glass straws",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DL",
+        "label": "Digital label",
+        "labelRo": "Etichetă digitală",
+        "printSizes": [
+          "60 × 15 mm",
+          "60 × 60 mm"
+        ]
+      },
+      {
+        "code": "P2",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "60 × 15 mm",
+          "60 × 60 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO2452",
+    "supplierVariantIds": [
+      "MO2452-40"
+    ],
+    "price": 0.86,
+    "priceFrom": false,
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo2452-40.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2452-40-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2452-40-side.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2452-40-top.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2452-40-detail.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2452-40-picture1.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2452-40-picture3.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Wood"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "20X8X1CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Glass High Borosilicate"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "7013 9900"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "60"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 63,
+    "descriptionLong": "Pack of 4 reusable straws in high borosilicate glass with 1 cleaning brush.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo9602",
+    "name": "COLD STRAW",
+    "category": "drinkware/bar-and-wine-accessories/reusable-straws",
+    "summary": "SS straw and brush in pouch",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
+    "personalizations": [
+      "fiber-laser",
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "L2",
+        "label": "Laser engraving",
+        "labelRo": "Gravare laser",
+        "printSizes": [
+          "3 × 60 mm"
+        ]
+      },
+      {
+        "code": "S3",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "20 × 150 mm"
+        ]
+      },
+      {
+        "code": "T1",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "20 × 150 mm"
+        ]
+      },
+      {
+        "code": "TD1",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "20 × 150 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "20 × 150 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO9602",
+    "supplierVariantIds": [
+      "MO9602-16"
+    ],
+    "price": 0.78,
+    "priceFrom": false,
+    "stock": 23010,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo9602-16.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo9602-16a.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Matt Silver"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "3X25CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Stainless Steel"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "7323 9300"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "100"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "600"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "Back in Pouch"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 16,
+    "descriptionLong": "Set of 1 reusable stainless steel drinking straws and cleaning brush in microfiber pouch.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo9630",
+    "name": "NATURAL STRAW",
+    "category": "drinkware/bar-and-wine-accessories/reusable-straws",
+    "summary": "Bamboo Straw w/brush in pouch",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [
+      "co2",
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "L2",
+        "label": "Laser engraving",
+        "labelRo": "Gravare laser",
+        "printSizes": [
+          "35 × 3 mm"
+        ]
+      },
+      {
+        "code": "S3",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "25 × 100 mm"
+        ]
+      },
+      {
+        "code": "T1",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "50 × 150 mm"
+        ]
+      },
+      {
+        "code": "TD1",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "50 × 150 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "50 × 150 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO9630",
+    "supplierVariantIds": [
+      "MO9630-13"
+    ],
+    "price": 1.02,
+    "priceFrom": false,
+    "stock": 17698,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo9630-13.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo9630-13a.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo9630-13-print.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo9630-13-ambiant.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Beige"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "Ø0,8X19CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Bamboo"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "4419 1900"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "1"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "200"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "Back in Pouch"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 31,
+    "descriptionLong": "Set of 2 reusable bamboo straws , stainless steel-nylon cleaning brush in cotton pouch. Since bamboo is a natural material the thickness and surface can vary.",
     "hasVariantDetail": false
   }
 ]

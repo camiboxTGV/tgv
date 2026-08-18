@@ -56,7 +56,7 @@
       "https://macma.ro/products/jpg/M/1096524_3.jpg",
       "https://macma.ro/products/jpg/M/1096524_4.jpg"
     ],
-    "fetchedAt": "2026-08-18T03:57:33.401Z",
+    "fetchedAt": "2026-08-18T13:15:05.027Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -161,7 +161,7 @@
       "https://macma.ro/products/jpg/M/1353503_3.jpg",
       "https://macma.ro/products/jpg/M/1353503_4.jpg"
     ],
-    "fetchedAt": "2026-08-18T03:57:33.401Z",
+    "fetchedAt": "2026-08-18T13:15:05.027Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -256,7 +256,7 @@
       "https://macma.ro/products/jpg/M/1388306_2.jpg",
       "https://macma.ro/products/jpg/M/1388306_3.jpg"
     ],
-    "fetchedAt": "2026-08-18T03:57:33.401Z",
+    "fetchedAt": "2026-08-18T13:15:05.027Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -351,7 +351,7 @@
       "https://macma.ro/products/jpg/M/1395208_2.jpg",
       "https://macma.ro/products/jpg/M/1395208_3.jpg"
     ],
-    "fetchedAt": "2026-08-16T04:03:39.012Z",
+    "fetchedAt": "2026-08-18T13:15:05.027Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -443,7 +443,7 @@
       "https://macma.ro/products/jpg/M/15593mc_4_lifestyle.jpg",
       "https://macma.ro/products/jpg/M/15593mc_5_lifestyle.jpg"
     ],
-    "fetchedAt": "2026-08-18T03:57:33.401Z",
+    "fetchedAt": "2026-08-18T13:15:05.027Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -549,7 +549,7 @@
       "https://macma.ro/products/jpg/M/1561610_7_lifestyle.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/1561610_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-18T03:57:33.401Z",
+    "fetchedAt": "2026-08-18T13:15:05.027Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -647,7 +647,7 @@
       "https://macma.ro/products/jpg/M/2348606_5.jpg",
       "https://macma.ro/products/jpg/M/2348606_7.jpg"
     ],
-    "fetchedAt": "2026-08-18T03:57:33.401Z",
+    "fetchedAt": "2026-08-18T13:15:05.027Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -746,7 +746,7 @@
       "https://macma.ro/products/jpg/M/24721mc_8.jpg",
       "https://macma.ro/products/jpg/M/24721mc_9.jpg"
     ],
-    "fetchedAt": "2026-08-16T04:03:39.012Z",
+    "fetchedAt": "2026-08-18T13:15:05.027Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -800,6 +800,983 @@
     "brand": "M-Collection",
     "weightGrams": 40,
     "descriptionLong": "Highlighter set consisting of 4 different colours (yellow, blue, green and orange), packed in a cardboard box. Ideal for the desk or book bag.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-kc2520",
+    "name": "FUN FOR FIVE",
+    "category": "office-and-writing/writing-instruments/highlighters",
+    "summary": "5 highlighters in container",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DL",
+        "label": "Digital label",
+        "labelRo": "Etichetă digitală",
+        "printSizes": [
+          "30 × 30 mm"
+        ]
+      },
+      {
+        "code": "DO1",
+        "label": "Doming",
+        "labelRo": "Doming",
+        "printSizes": [
+          "30 × 30 mm"
+        ]
+      },
+      {
+        "code": "P4",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "10 × 10 mm",
+          "11 × 11 mm",
+          "30 × 30 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "KC2520",
+    "supplierVariantIds": [
+      "KC2520-99"
+    ],
+    "price": 1.47,
+    "priceFrom": false,
+    "stock": 13441,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/kc2520-99.jpg",
+      "https://cdn1.midocean.com/image/700X700/kc2520-99-back.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Multicolour"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "7X7X5 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "PP"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "9608 2000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "10"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "100"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 51,
+    "descriptionLong": "5 highlighters with clip in small, transparent PET container.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo2427",
+    "name": "LIT",
+    "category": "office-and-writing/writing-instruments/highlighters",
+    "summary": "RPET highlighter",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DL",
+        "label": "Digital label",
+        "labelRo": "Etichetă digitală",
+        "printSizes": [
+          "20 × 15 mm",
+          "45 × 10 mm"
+        ]
+      },
+      {
+        "code": "DO1",
+        "label": "Doming",
+        "labelRo": "Doming",
+        "printSizes": [
+          "20 × 15 mm",
+          "45 × 10 mm"
+        ]
+      },
+      {
+        "code": "P3",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "20 × 15 mm",
+          "45 × 10 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO2427",
+    "supplierVariantIds": [
+      "MO2427-70",
+      "MO2427-71",
+      "MO2427-72"
+    ],
+    "price": 0.45,
+    "priceFrom": false,
+    "stock": 73562,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo2427-70.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2427-71.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2427-72.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2427-70-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2427-70-side.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2427-70-ambiant.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2427-70-detail.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 3,
+    "colorCount": 3,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Neon Fuchsia"
+      },
+      {
+        "name": "Neon Orange"
+      },
+      {
+        "name": "Neon Yellow"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "10,5X2,7X1,6 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "ABS"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "9608 2000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "50"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "500"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 20,
+    "descriptionLong": "Highlighter in RPET white casing.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-mo2812",
+    "name": "HIGH4",
+    "category": "office-and-writing/writing-instruments/highlighters",
+    "summary": "Highlighter set",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DL",
+        "label": "Digital label",
+        "labelRo": "Etichetă digitală",
+        "printSizes": [
+          "50 × 30 mm",
+          "50 × 50 mm"
+        ]
+      },
+      {
+        "code": "P2",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "50 × 30 mm",
+          "50 × 50 mm"
+        ]
+      },
+      {
+        "code": "PD1",
+        "label": "Digital printing",
+        "labelRo": "Imprimare digitală",
+        "printSizes": [
+          "71 × 40 mm",
+          "71 × 70 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO2812",
+    "supplierVariantIds": [
+      "MO2812-13"
+    ],
+    "price": 0.71,
+    "priceFrom": false,
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo2812-13.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2812-13-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2812-13-side.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2812-13-open.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2812-13-detail.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2812-13-picture1.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2812-13-picture6.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Beige"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "7X7X1.8CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "PP"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "9608 2000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "50"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "400"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 20,
+    "descriptionLong": "Set of 4 highlighters in a kraft box.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo6836",
+    "name": "BOWY",
+    "category": "office-and-writing/writing-instruments/highlighters",
+    "summary": "4 highlighter pencils in box",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DL",
+        "label": "Digital label",
+        "labelRo": "Etichetă digitală",
+        "printSizes": [
+          "15 × 15 mm",
+          "15 × 80 mm"
+        ]
+      },
+      {
+        "code": "P3",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "15 × 15 mm",
+          "15 × 80 mm"
+        ]
+      },
+      {
+        "code": "PD3",
+        "label": "Digital printing",
+        "labelRo": "Imprimare digitală",
+        "printSizes": [
+          "30 × 129 mm",
+          "30 × 179 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO6836",
+    "supplierVariantIds": [
+      "MO6836-99"
+    ],
+    "price": 0.8,
+    "priceFrom": false,
+    "stock": 23247,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo6836-99.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6836-99-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6836-99-side.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6836-99-ambiant.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Multicolour"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "17.5X0.75CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Wood"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "9609 1090"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "50"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "500"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 25,
+    "descriptionLong": "Set of 4 highlighter coloured pencils in paper box.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo7440",
+    "name": "RIO DUO",
+    "category": "office-and-writing/writing-instruments/highlighters",
+    "summary": "2 in 1 ball pen",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "P2",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "60 × 7 mm"
+        ]
+      },
+      {
+        "code": "PD1",
+        "label": "Digital printing",
+        "labelRo": "Imprimare digitală",
+        "printSizes": [
+          "30 × 5 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO7440",
+    "supplierVariantIds": [
+      "MO7440-08",
+      "MO7440-10"
+    ],
+    "price": 0.45,
+    "priceFrom": false,
+    "stock": 21991,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo7440-08.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo7440-10.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 2,
+    "colorCount": 2,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Orange"
+      },
+      {
+        "name": "Yellow"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "Ø1,2X14,5 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "ABS"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "9608 1092"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "50"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "1000"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 12,
+    "descriptionLong": "2 in 1 recycled ABS ball pen and highlighter in silver satin finish and chromed fittings. Blue ink.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-mo7448",
+    "name": "COLORE",
+    "category": "office-and-writing/writing-instruments/highlighters",
+    "summary": "5 colour highlighter",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "P4",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "40 × 25 mm"
+        ]
+      },
+      {
+        "code": "PD2",
+        "label": "Digital printing",
+        "labelRo": "Imprimare digitală",
+        "printSizes": [
+          "40 × 25 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO7448",
+    "supplierVariantIds": [
+      "MO7448-99"
+    ],
+    "price": 1.26,
+    "priceFrom": false,
+    "stock": 126929,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo7448-99.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo7448-99-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo7448-99-print.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Multicolour"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "9X7X1,9 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "PP"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "9608 2000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "25"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "250"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 37,
+    "descriptionLong": "5 colour highlighter in hand shape. Large printing area.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo7818",
+    "name": "TRIANGULO",
+    "category": "office-and-writing/writing-instruments/highlighters",
+    "summary": "Triangular highlighter",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "P3",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "30 × 30 mm"
+        ]
+      },
+      {
+        "code": "PD2",
+        "label": "Digital printing",
+        "labelRo": "Imprimare digitală",
+        "printSizes": [
+          "42 × 42 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO7818",
+    "supplierVariantIds": [
+      "MO7818-06"
+    ],
+    "price": 0.48,
+    "priceFrom": false,
+    "stock": 56825,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo7818-06.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo7818-06-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo7818-06-print.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo7818-06-ambiant.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "White"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "7.5X7.5X1.3 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "ABS"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "9608 2000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "50"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "500"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 15,
+    "descriptionLong": "Triangular shape highlighter in ABS casing. 3 colour ink: yellow, fuchsia and orange.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo8783",
+    "name": "SQUARIE",
+    "category": "office-and-writing/writing-instruments/highlighters",
+    "summary": "Square shaped highlighter",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "P3",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "60 × 60 mm"
+        ]
+      },
+      {
+        "code": "PD2",
+        "label": "Digital printing",
+        "labelRo": "Imprimare digitală",
+        "printSizes": [
+          "60 × 60 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO8783",
+    "supplierVariantIds": [
+      "MO8783-06"
+    ],
+    "price": 1.13,
+    "priceFrom": false,
+    "stock": 9846,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo8783-06.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo8783-06a.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "White"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "8X8X1,8 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "ABS"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "9608 2000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "50"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "250"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 44,
+    "descriptionLong": "Square shaped highlighter in ABS casing. 4 colour ink: yellow, fuchsia, orange and green.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo9895",
+    "name": "DUO PAPER",
+    "category": "office-and-writing/writing-instruments/highlighters",
+    "summary": "2 in 1 carton pen highlighter",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "P2",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "70 × 7 mm"
+        ]
+      },
+      {
+        "code": "PD1",
+        "label": "Digital printing",
+        "labelRo": "Imprimare digitală",
+        "printSizes": [
+          "70 × 5 mm"
+        ]
+      },
+      {
+        "code": "RS2",
+        "label": "Round screen printing",
+        "labelRo": "Serigrafie rotundă",
+        "printSizes": [
+          "45 × 25 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO9895",
+    "supplierVariantIds": [
+      "MO9895-08"
+    ],
+    "price": 0.3,
+    "priceFrom": false,
+    "stock": 46615,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo9895-08.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo9895-08-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo9895-08-detail.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Yellow"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "Ø1X14 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "PP"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "9608 2000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "50"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "1000"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 6,
+    "descriptionLong": "2 in 1 recycled carton barrel ball pen and  yellow highlighter. Blue ink.",
     "hasVariantDetail": false
   }
 ]

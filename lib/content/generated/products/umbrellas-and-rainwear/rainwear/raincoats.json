@@ -40,7 +40,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/4097866_lifestyle_5.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/4097866_lifestyle_6.jpg"
     ],
-    "fetchedAt": "2026-08-18T03:57:33.401Z",
+    "fetchedAt": "2026-08-18T13:15:05.027Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -126,7 +126,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/4188266_lifestyle_5.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/4188266_lifestyle_6.jpg"
     ],
-    "fetchedAt": "2026-08-18T03:57:33.401Z",
+    "fetchedAt": "2026-08-18T13:15:05.027Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -240,7 +240,7 @@
       "https://macma.ro/products/jpg/M/4378809_4.jpg",
       "https://macma.ro/products/jpg/M/4378809_5.jpg"
     ],
-    "fetchedAt": "2026-08-18T03:57:33.401Z",
+    "fetchedAt": "2026-08-18T13:15:05.027Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -341,7 +341,7 @@
       "https://macma.ro/products/jpg/M/4910166_1.jpg",
       "https://macma.ro/products/jpg/M/4910166_3.jpg"
     ],
-    "fetchedAt": "2026-08-18T03:57:33.401Z",
+    "fetchedAt": "2026-08-18T13:15:05.027Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -442,7 +442,7 @@
       "https://macma.ro/products/jpg/M/4920549_3.jpg",
       "https://macma.ro/products/jpg/M/4920549_4.jpg"
     ],
-    "fetchedAt": "2026-08-18T03:57:33.401Z",
+    "fetchedAt": "2026-08-18T13:15:05.027Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 1,
@@ -533,7 +533,7 @@
       "https://macma.ro/products/jpg/M/4921866_3.jpg",
       "https://macma.ro/products/jpg/M/4921866_4.jpg"
     ],
-    "fetchedAt": "2026-08-18T03:57:33.401Z",
+    "fetchedAt": "2026-08-18T13:15:05.027Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -629,7 +629,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/5267144_lifestyle_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/5267144_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-08-16T04:03:39.012Z",
+    "fetchedAt": "2026-08-18T13:15:05.027Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -683,6 +683,597 @@
     "brand": "M-Collection",
     "weightGrams": 302,
     "descriptionLong": "Foldable rain poncho with reflective stripe and a drawstring for the hood, which can be folded into a fanny pack. Perfect for stowing away, this poncho should always be with you.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-it0971",
+    "name": "REGAL",
+    "category": "umbrellas-and-rainwear/rainwear/raincoats",
+    "summary": "Raincoat in pouch",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S5",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "120 × 100 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "IT0971",
+    "supplierVariantIds": [
+      "IT0971-04",
+      "IT0971-03",
+      "IT0971-06"
+    ],
+    "price": 2.96,
+    "priceFrom": false,
+    "stock": 40873,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/it0971-04.jpg",
+      "https://cdn1.midocean.com/image/700X700/it0971-03.jpg",
+      "https://cdn1.midocean.com/image/700X700/it0971-06.jpg",
+      "https://cdn1.midocean.com/image/700X700/it0971-04-ambiant.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 3,
+    "colorCount": 3,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      },
+      {
+        "name": "Blue"
+      },
+      {
+        "name": "White"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "125X126CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "PVC"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "3926 2000"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "50"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "Back in Pouch"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 206,
+    "descriptionLong": "Foldable plastic raincoat with attached hood in pouch.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-it0972",
+    "name": "SPRINKLE",
+    "category": "umbrellas-and-rainwear/rainwear/raincoats",
+    "summary": "Foldable raincoat in polybag",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "DI",
+        "label": "Digital inlay",
+        "labelRo": "Etichetă digitală interioară",
+        "printSizes": [
+          "120 × 85 mm"
+        ]
+      },
+      {
+        "code": "DL",
+        "label": "Digital label",
+        "labelRo": "Etichetă digitală",
+        "printSizes": [
+          "50 × 50 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "IT0972",
+    "supplierVariantIds": [
+      "IT0972-22",
+      "IT0972-04",
+      "IT0972-05"
+    ],
+    "price": 0.41,
+    "priceFrom": false,
+    "stock": 277646,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/it0972-22.jpg",
+      "https://cdn1.midocean.com/image/700X700/it0972-04.jpg",
+      "https://cdn1.midocean.com/image/700X700/it0972-05.jpg",
+      "https://cdn1.midocean.com/image/700X700/it0972-22-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/it0972-22-side.jpg",
+      "https://cdn1.midocean.com/image/700X700/it0972-22-top.jpg",
+      "https://cdn1.midocean.com/image/700X700/it0972-22-open.jpg",
+      "https://cdn1.midocean.com/image/700X700/it0972-22-print.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 3,
+    "colorCount": 3,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Blue"
+      },
+      {
+        "name": "Red"
+      },
+      {
+        "name": "Transparent"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "127X100 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "PE"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "3926 2000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "1"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "250"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 36,
+    "descriptionLong": "Foldable plastic poncho with attached hood, packed in a transparent polybag.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-kc5101",
+    "name": "BLADO",
+    "category": "umbrellas-and-rainwear/rainwear/raincoats",
+    "summary": "PVC raincoat with hood",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S5",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "120 × 120 mm",
+          "260 × 200 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "KC5101",
+    "supplierVariantIds": [
+      "KC5101-08",
+      "KC5101-04",
+      "KC5101-03",
+      "KC5101-06"
+    ],
+    "price": 3.13,
+    "priceFrom": false,
+    "stock": 30584,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/kc5101-08.jpg",
+      "https://cdn1.midocean.com/image/700X700/kc5101-04.jpg",
+      "https://cdn1.midocean.com/image/700X700/kc5101-03.jpg",
+      "https://cdn1.midocean.com/image/700X700/kc5101-06.jpg",
+      "https://cdn1.midocean.com/image/700X700/kc5101-08-print.jpg",
+      "https://cdn1.midocean.com/image/700X700/kc5101-08-ambiant.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 4,
+    "colorCount": 4,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      },
+      {
+        "name": "Blue"
+      },
+      {
+        "name": "White"
+      },
+      {
+        "name": "Yellow"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "121X66CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "PVC"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "3926 2000"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "50"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 190,
+    "descriptionLong": "PVC raincoat with hood. Press-stud fastening.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-mo2128",
+    "name": "PONCHIE",
+    "category": "umbrellas-and-rainwear/rainwear/raincoats",
+    "summary": "PEVA kid rain coat with hood",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [],
+    "supplierPersonalizations": [],
+    "supplierId": "midocean",
+    "supplierSku": "MO2128",
+    "supplierVariantIds": [
+      "MO2128-06"
+    ],
+    "price": 1.68,
+    "priceFrom": false,
+    "stock": 92,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo2128-06.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2128-06-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2128-06-open.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2128-06-detail.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "White"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "87X79CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "EVA"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "3926 2000"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "50"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 200,
+    "descriptionLong": "PEVA kids (2-5 years old) raincoat with hood. Press-stud fastening.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo7421",
+    "name": "NIMBUS",
+    "category": "umbrellas-and-rainwear/rainwear/raincoats",
+    "summary": "Poncho in round container",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "P3",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "25 × 25 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO7421",
+    "supplierVariantIds": [
+      "MO7421-03",
+      "MO7421-04",
+      "MO7421-05",
+      "MO7421-06",
+      "MO7421-48",
+      "MO7421-10"
+    ],
+    "price": 0.9,
+    "priceFrom": false,
+    "stock": 64592,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo7421-03.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo7421-04.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo7421-05.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo7421-06.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo7421-48.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo7421-10.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 6,
+    "colorCount": 6,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      },
+      {
+        "name": "Blue"
+      },
+      {
+        "name": "Lime"
+      },
+      {
+        "name": "Orange"
+      },
+      {
+        "name": "Red"
+      },
+      {
+        "name": "White"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "Ø6 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "AS"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "3926 2000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "50"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "50"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 47,
+    "descriptionLong": "Transparent PE poncho wrapped in an AS ball shell with carabiner hook to hang on a belt or a bag.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-mo9993",
+    "name": "SPRINKLE PLA",
+    "category": "umbrellas-and-rainwear/rainwear/raincoats",
+    "summary": "Biodegradable poncho and bag",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "DI",
+        "label": "Digital inlay",
+        "labelRo": "Etichetă digitală interioară",
+        "printSizes": [
+          "120 × 85 mm"
+        ]
+      },
+      {
+        "code": "DL",
+        "label": "Digital label",
+        "labelRo": "Etichetă digitală",
+        "printSizes": [
+          "70 × 60 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO9993",
+    "supplierVariantIds": [
+      "MO9993-22"
+    ],
+    "price": 0.98,
+    "priceFrom": false,
+    "stock": 23956,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo9993-22.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo9993-22-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo9993-22-open.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Transparent"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "120X128CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "PE"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "3926 2000"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "200"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 57,
+    "descriptionLong": "Foldable poncho with hood in biodegradable material and also packed biodegradable bag.",
     "hasVariantDetail": false
   }
 ]

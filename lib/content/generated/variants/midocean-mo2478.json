@@ -1,0 +1,41 @@
+[
+  {
+    "contentKey": "0cb594eee2f03605",
+    "supplierVariantId": "MO2478-98",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 5.12,
+    "color": {
+      "name": "Gold"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "2c3b86a06d6d3cdf",
+    "supplierVariantId": "MO2478-03",
+    "stock": 7925,
+    "stockLevel": "in-stock",
+    "price": 5.12,
+    "color": {
+      "name": "Black"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "c58e9f4045f41c37",
+    "supplierVariantId": "MO2478-16",
+    "stock": 12039,
+    "stockLevel": "in-stock",
+    "price": 5.12,
+    "color": {
+      "name": "Matt Silver"
+    },
+    "imageRefs": [
+      0
+    ]
+  }
+]

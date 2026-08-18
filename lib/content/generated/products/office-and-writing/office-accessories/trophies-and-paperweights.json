@@ -41,7 +41,7 @@
       "https://macma.ro/products/jpg/M/2397013_6.jpg",
       "https://macma.ro/products/jpg/M/2397013_box.jpg"
     ],
-    "fetchedAt": "2026-08-16T04:03:39.012Z",
+    "fetchedAt": "2026-08-18T13:15:05.027Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -134,7 +134,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/2750266_lifestyle_5.jpg",
       "https://macma.ro/products/jpg/M/2750266_print.jpg"
     ],
-    "fetchedAt": "2026-08-16T04:03:39.012Z",
+    "fetchedAt": "2026-08-18T13:15:05.027Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -225,7 +225,7 @@
       "https://macma.ro/products/jpg/M/2750466_6.jpg",
       "https://macma.ro/products/jpg/M/2750466_box.jpg"
     ],
-    "fetchedAt": "2026-08-18T03:57:33.401Z",
+    "fetchedAt": "2026-08-18T13:15:05.027Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -279,6 +279,2021 @@
     "brand": "M-Collection",
     "weightGrams": 305,
     "descriptionLong": "With its distinct shape this glass cube highlights your logo. Safely packed in a blue box with satin inlay.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-ar1810",
+    "name": "KUBZLE",
+    "category": "office-and-writing/office-accessories/trophies-and-paperweights",
+    "summary": "Metal 3D puzzle",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "fiber-laser",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "L3",
+        "label": "Laser engraving",
+        "labelRo": "Gravare laser",
+        "printSizes": [
+          "28 × 28 mm"
+        ]
+      },
+      {
+        "code": "P6",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "28 × 28 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "AR1810",
+    "supplierVariantIds": [
+      "AR1810-16"
+    ],
+    "price": 9.36,
+    "priceFrom": false,
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/ar1810-16.jpg",
+      "https://cdn1.midocean.com/image/700X700/ar1810-16-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/ar1810-16-side.jpg",
+      "https://cdn1.midocean.com/image/700X700/ar1810-16-print.jpg",
+      "https://cdn1.midocean.com/image/700X700/ar1810-16-ambiant.jpg",
+      "https://cdn1.midocean.com/image/700X700/ar1810-16-box.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Matt Silver"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "8X4 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Metal"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "8304 0000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "20"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "40"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "Bubble + MO Box"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 350,
+    "descriptionLong": "3D puzzle composed of magnetic, metallic pieces. Can also be used as paper weight.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-it1537",
+    "name": "MUNDI",
+    "category": "office-and-writing/office-accessories/trophies-and-paperweights",
+    "summary": "Mundi desk paper weight",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
+    "personalizations": [
+      "co2",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DL",
+        "label": "Digital label",
+        "labelRo": "Etichetă digitală",
+        "printSizes": [
+          "110 × 70 mm",
+          "25 × 25 mm"
+        ]
+      },
+      {
+        "code": "DO1",
+        "label": "Doming",
+        "labelRo": "Doming",
+        "printSizes": [
+          "25 × 25 mm"
+        ]
+      },
+      {
+        "code": "L4",
+        "label": "Laser engraving",
+        "labelRo": "Gravare laser",
+        "printSizes": [
+          "25 × 25 mm"
+        ]
+      },
+      {
+        "code": "P6",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "25 × 25 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "IT1537",
+    "supplierVariantIds": [
+      "IT1537-22"
+    ],
+    "price": 10.67,
+    "priceFrom": false,
+    "stock": 895,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/it1537-22.jpg",
+      "https://cdn1.midocean.com/image/700X700/it1537-22-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/it1537-22-ambiant.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Transparent"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "Ø5,5 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Glass"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "7013 9900"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "20"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "Back in MO Box"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 616,
+    "descriptionLong": "Crystal globe design paperweight on stand. Presented in a classic gift box.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo2135",
+    "name": "RUMBO",
+    "category": "office-and-writing/office-accessories/trophies-and-paperweights",
+    "summary": "Crystal award",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
+    "personalizations": [
+      "co2"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DL",
+        "label": "Digital label",
+        "labelRo": "Etichetă digitală",
+        "printSizes": [
+          "120 × 120 mm"
+        ]
+      },
+      {
+        "code": "DO1",
+        "label": "Doming",
+        "labelRo": "Doming",
+        "printSizes": [
+          "120 × 120 mm"
+        ]
+      },
+      {
+        "code": "L4",
+        "label": "Laser engraving",
+        "labelRo": "Gravare laser",
+        "printSizes": [
+          "120 × 120 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO2135",
+    "supplierVariantIds": [
+      "MO2135-22"
+    ],
+    "price": 14.18,
+    "priceFrom": false,
+    "stock": 3946,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo2135-22.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2135-22-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2135-22-top.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2135-22-open.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2135-22-print.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2135-22-detail.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Transparent"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "14,6X15,5X4,3CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Glass"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "7006 0090"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "6"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "Back in MO Box"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 1250,
+    "descriptionLong": "Crystal award or trophy. Presented in a gift box.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo2236",
+    "name": "DIAWARD",
+    "category": "office-and-writing/office-accessories/trophies-and-paperweights",
+    "summary": "Crystal award in a gift box",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "co2"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DL",
+        "label": "Digital label",
+        "labelRo": "Etichetă digitală",
+        "printSizes": [
+          "30 × 120 mm",
+          "50 × 55 mm",
+          "64 × 35 mm"
+        ]
+      },
+      {
+        "code": "DO1",
+        "label": "Doming",
+        "labelRo": "Doming",
+        "printSizes": [
+          "30 × 120 mm",
+          "50 × 55 mm",
+          "64 × 35 mm"
+        ]
+      },
+      {
+        "code": "L3",
+        "label": "Laser engraving",
+        "labelRo": "Gravare laser",
+        "printSizes": [
+          "30 × 120 mm",
+          "50 × 55 mm",
+          "64 × 35 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO2236",
+    "supplierVariantIds": [
+      "MO2236-22"
+    ],
+    "price": 11.34,
+    "priceFrom": false,
+    "stock": 1351,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo2236-22.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2236-22-top.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2236-22-open.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2236-22-print.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2236-22-detail.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2236-22-picture1.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2236-22-picture2.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2236-22-picture7.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Transparent"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "7X7X22CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Glass"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "7020 0080"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "6"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "Back in MO Box"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 1083,
+    "descriptionLong": "Crystal award or trophy. Presented in a gift box.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo2260",
+    "name": "WINNER",
+    "category": "office-and-writing/office-accessories/trophies-and-paperweights",
+    "summary": "Medal 5cm diameter",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
+    "personalizations": [
+      "fiber-laser",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DL",
+        "label": "Digital label",
+        "labelRo": "Etichetă digitală",
+        "printSizes": [
+          "25 × 25 mm"
+        ]
+      },
+      {
+        "code": "DO1",
+        "label": "Doming",
+        "labelRo": "Doming",
+        "printSizes": [
+          "25 × 25 mm"
+        ]
+      },
+      {
+        "code": "L2",
+        "label": "Laser engraving",
+        "labelRo": "Gravare laser",
+        "printSizes": [
+          "20 × 20 mm"
+        ]
+      },
+      {
+        "code": "P3",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "40 × 80 mm"
+        ]
+      },
+      {
+        "code": "P4",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "20 × 20 mm"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "60 × 115 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO2260",
+    "supplierVariantIds": [
+      "MO2260-01",
+      "MO2260-16",
+      "MO2260-98"
+    ],
+    "price": 1.88,
+    "priceFrom": false,
+    "stock": 13077,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo2260-01.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2260-16.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2260-98.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2260-01-side.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2260-01-print.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2260-01-picture1.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 3,
+    "colorCount": 3,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Brown"
+      },
+      {
+        "name": "Gold"
+      },
+      {
+        "name": "Matt Silver"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "Ø5 X 0,2CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Metal"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "7117 1900"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "100"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "Back in MO Box"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 70,
+    "descriptionLong": "Medal made of iron with polyester strap in blue, white and red colours. 5 cm diameter",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-mo2655",
+    "name": "GLASSWARD",
+    "category": "office-and-writing/office-accessories/trophies-and-paperweights",
+    "summary": "Glass round award",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [
+      "co2",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DL",
+        "label": "Digital label",
+        "labelRo": "Etichetă digitală",
+        "printSizes": [
+          "110 × 80 mm"
+        ]
+      },
+      {
+        "code": "DO1",
+        "label": "Doming",
+        "labelRo": "Doming",
+        "printSizes": [
+          "18 × 10 mm"
+        ]
+      },
+      {
+        "code": "L3",
+        "label": "Laser engraving",
+        "labelRo": "Gravare laser",
+        "printSizes": [
+          "18 × 10 mm",
+          "20 × 20 mm"
+        ]
+      },
+      {
+        "code": "P6",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "18 × 10 mm",
+          "20 × 20 mm"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "110 × 80 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO2655",
+    "supplierVariantIds": [
+      "MO2655-22"
+    ],
+    "price": 4.93,
+    "priceFrom": false,
+    "stock": 8566,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo2655-22.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2655-22-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2655-22-open.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2655-22-print.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2655-22-detail.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2655-22-picture3.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Transparent"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "Ø6CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Glass"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "7013 9900"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "20"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "Back in MO Box"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 425,
+    "descriptionLong": "Glass round award or trophy with base. Presented in a gift box.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo2656",
+    "name": "KUBEWARD",
+    "category": "office-and-writing/office-accessories/trophies-and-paperweights",
+    "summary": "Glass cube award",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "co2",
+      "pad-screen",
+      "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DL",
+        "label": "Digital label",
+        "labelRo": "Etichetă digitală",
+        "printSizes": [
+          "60 × 60 mm"
+        ]
+      },
+      {
+        "code": "L3",
+        "label": "Laser engraving",
+        "labelRo": "Gravare laser",
+        "printSizes": [
+          "30 × 30 mm"
+        ]
+      },
+      {
+        "code": "P2",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "60 × 60 mm"
+        ]
+      },
+      {
+        "code": "P6",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "30 × 30 mm"
+        ]
+      },
+      {
+        "code": "PD2",
+        "label": "Digital printing",
+        "labelRo": "Imprimare digitală",
+        "printSizes": [
+          "39 × 39 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO2656",
+    "supplierVariantIds": [
+      "MO2656-22"
+    ],
+    "price": 4.67,
+    "priceFrom": false,
+    "stock": 5274,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo2656-22.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2656-22-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2656-22-open.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2656-22-print.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2656-22-detail.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2656-22-box.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2656-22-picture1.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Transparent"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "3,9X3,9X3,9CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Glass"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "7013 9900"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "24"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "Back in MO Box"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 166,
+    "descriptionLong": "Glass cube award or trophy. Presented in a gift box.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo2657",
+    "name": "ROUNDWARD",
+    "category": "office-and-writing/office-accessories/trophies-and-paperweights",
+    "summary": "Glass round award key ring",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
+    "personalizations": [
+      "co2",
+      "pad-screen",
+      "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DL",
+        "label": "Digital label",
+        "labelRo": "Etichetă digitală",
+        "printSizes": [
+          "80 × 40 mm"
+        ]
+      },
+      {
+        "code": "DO1",
+        "label": "Doming",
+        "labelRo": "Doming",
+        "printSizes": [
+          "20 × 20 mm"
+        ]
+      },
+      {
+        "code": "L3",
+        "label": "Laser engraving",
+        "labelRo": "Gravare laser",
+        "printSizes": [
+          "20 × 20 mm"
+        ]
+      },
+      {
+        "code": "P3",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "80 × 40 mm"
+        ]
+      },
+      {
+        "code": "P6",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "20 × 20 mm"
+        ]
+      },
+      {
+        "code": "PD2",
+        "label": "Digital printing",
+        "labelRo": "Imprimare digitală",
+        "printSizes": [
+          "31 × 31 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO2657",
+    "supplierVariantIds": [
+      "MO2657-22"
+    ],
+    "price": 2.01,
+    "priceFrom": false,
+    "stock": 4540,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo2657-22.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2657-22-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2657-22-top.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2657-22-open.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2657-22-print.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2657-22-detail.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2657-22-box.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Transparent"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "3X3X10,3CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Glass"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "7013 9900"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "50"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "100"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "Back in MO Box"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 70,
+    "descriptionLong": "Glass round award key ring. Presented in a gift box.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo2658",
+    "name": "HEARTWARD",
+    "category": "office-and-writing/office-accessories/trophies-and-paperweights",
+    "summary": "Glass heart award key ring",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [
+      "co2",
+      "pad-screen",
+      "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DL",
+        "label": "Digital label",
+        "labelRo": "Etichetă digitală",
+        "printSizes": [
+          "80 × 40 mm"
+        ]
+      },
+      {
+        "code": "DO1",
+        "label": "Doming",
+        "labelRo": "Doming",
+        "printSizes": [
+          "20 × 10 mm"
+        ]
+      },
+      {
+        "code": "L3",
+        "label": "Laser engraving",
+        "labelRo": "Gravare laser",
+        "printSizes": [
+          "20 × 10 mm"
+        ]
+      },
+      {
+        "code": "P3",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "80 × 40 mm"
+        ]
+      },
+      {
+        "code": "P6",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "20 × 10 mm"
+        ]
+      },
+      {
+        "code": "PD2",
+        "label": "Digital printing",
+        "labelRo": "Imprimare digitală",
+        "printSizes": [
+          "20 × 20 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO2658",
+    "supplierVariantIds": [
+      "MO2658-22"
+    ],
+    "price": 2.01,
+    "priceFrom": false,
+    "stock": 4511,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo2658-22.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2658-22-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2658-22-open.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2658-22-print.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2658-22-detail.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2658-22-box.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Transparent"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "3,1X3,1X10,3CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Glass"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "7013 9900"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "50"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "100"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "Back in MO Box"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 70,
+    "descriptionLong": "Glass heart award key ring. Presented in a gift box.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo2660",
+    "name": "STARWARD",
+    "category": "office-and-writing/office-accessories/trophies-and-paperweights",
+    "summary": "Glass star award",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
+    "personalizations": [
+      "co2",
+      "pad-screen",
+      "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DL",
+        "label": "Digital label",
+        "labelRo": "Etichetă digitală",
+        "printSizes": [
+          "120 × 120 mm"
+        ]
+      },
+      {
+        "code": "DO1",
+        "label": "Doming",
+        "labelRo": "Doming",
+        "printSizes": [
+          "40 × 40 mm"
+        ]
+      },
+      {
+        "code": "L3",
+        "label": "Laser engraving",
+        "labelRo": "Gravare laser",
+        "printSizes": [
+          "40 × 40 mm"
+        ]
+      },
+      {
+        "code": "P6",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "40 × 40 mm"
+        ]
+      },
+      {
+        "code": "PD2",
+        "label": "Digital printing",
+        "labelRo": "Imprimare digitală",
+        "printSizes": [
+          "105 × 100 mm"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "120 × 120 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO2660",
+    "supplierVariantIds": [
+      "MO2660-22"
+    ],
+    "price": 8.93,
+    "priceFrom": false,
+    "stock": 1424,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo2660-22.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2660-22-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2660-22-open.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2660-22-print.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2660-22-detail.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2660-22-box.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2660-22-picture1.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Transparent"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "10,5X10,5X1,9CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Glass"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "7013 9900"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "24"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "Back in MO Box"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 354,
+    "descriptionLong": "Glass star award or trophy. Presented in a gift box.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo2689",
+    "name": "LIGHT",
+    "category": "office-and-writing/office-accessories/trophies-and-paperweights",
+    "summary": "LED glass ball",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "co2",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "L3",
+        "label": "Laser engraving",
+        "labelRo": "Gravare laser",
+        "printSizes": [
+          "20 × 20 mm",
+          "40 × 10 mm",
+          "40 × 5 mm"
+        ]
+      },
+      {
+        "code": "P4",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "40 × 10 mm",
+          "40 × 5 mm"
+        ]
+      },
+      {
+        "code": "P6",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "20 × 20 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO2689",
+    "supplierVariantIds": [
+      "MO2689-40"
+    ],
+    "price": 3.17,
+    "priceFrom": false,
+    "stock": 5934,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo2689-40.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2689-40-print.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2689-40-detail.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2689-40-box.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2689-40-picture1.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2689-40-picture2.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2689-40-picture3.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2689-40-picture6.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Wood"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "DIA6CMX5,9X5,9CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Glass"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "9405 2150"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "20"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "Back in MO Box"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 300,
+    "descriptionLong": "Glass ball with LED light (100 lumens) on a rubber wood base. Includes a USB charging cable (90 cm). FSC®-certified",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo2817",
+    "name": "BEST",
+    "category": "office-and-writing/office-accessories/trophies-and-paperweights",
+    "summary": "Wooden medal",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [
+      "co2",
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "L3",
+        "label": "Laser engraving",
+        "labelRo": "Gravare laser",
+        "printSizes": [
+          "60 × 60 mm"
+        ]
+      },
+      {
+        "code": "P4",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "60 × 60 mm"
+        ]
+      },
+      {
+        "code": "S1",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "300 × 16 mm",
+          "60 × 60 mm"
+        ]
+      },
+      {
+        "code": "T1",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "300 × 16 mm"
+        ]
+      },
+      {
+        "code": "TD1",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "300 × 16 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "300 × 16 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO2817",
+    "supplierVariantIds": [
+      "MO2817-40"
+    ],
+    "price": 0.48,
+    "priceFrom": false,
+    "stock": 13,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo2817-40.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2817-40-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2817-40-open.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2817-40-print.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2817-40-detail.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2817-40-picture5.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2817-40-picture6.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Wood"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "DIA7X0.4CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Wood"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "7117 9000"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "500"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 14,
+    "descriptionLong": "Wooden medal with cotton strap and wheat straw/PP buckle.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo6585",
+    "name": "ZEAL",
+    "category": "office-and-writing/office-accessories/trophies-and-paperweights",
+    "summary": "Award plaque",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [
+      "co2"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DO1",
+        "label": "Doming",
+        "labelRo": "Doming",
+        "printSizes": [
+          "90 × 55 mm"
+        ]
+      },
+      {
+        "code": "L3",
+        "label": "Laser engraving",
+        "labelRo": "Gravare laser",
+        "printSizes": [
+          "110 × 90 mm",
+          "90 × 55 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO6585",
+    "supplierVariantIds": [
+      "MO6585-40"
+    ],
+    "price": 12.3,
+    "priceFrom": false,
+    "stock": 4290,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo6585-40.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6585-40-side.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6585-40-top.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6585-40-print.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6585-40-ambiant.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6585-40-detail.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Wood"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "20X12CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Glass Soda Lime"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "7020 0080"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "10"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "Back in MO Box"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 874,
+    "descriptionLong": "Crystal award or memorial plaque on a beech wooden base in a gift box.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo6586",
+    "name": "KEEN",
+    "category": "office-and-writing/office-accessories/trophies-and-paperweights",
+    "summary": "Round award plaque",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "co2"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DL",
+        "label": "Digital label",
+        "labelRo": "Etichetă digitală",
+        "printSizes": [
+          "110 × 15 mm",
+          "125 × 125 mm"
+        ]
+      },
+      {
+        "code": "DO1",
+        "label": "Doming",
+        "labelRo": "Doming",
+        "printSizes": [
+          "110 × 15 mm",
+          "125 × 125 mm"
+        ]
+      },
+      {
+        "code": "L3",
+        "label": "Laser engraving",
+        "labelRo": "Gravare laser",
+        "printSizes": [
+          "110 × 15 mm"
+        ]
+      },
+      {
+        "code": "L4",
+        "label": "Laser engraving",
+        "labelRo": "Gravare laser",
+        "printSizes": [
+          "120 × 120 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO6586",
+    "supplierVariantIds": [
+      "MO6586-01"
+    ],
+    "price": 18.54,
+    "priceFrom": false,
+    "stock": 1096,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo6586-01.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6586-01-side.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6586-01-top.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6586-01-print.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6586-01-ambiant.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6586-01-detail.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Brown"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "Ø 15CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Glass Soda Lime"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "7020 0080"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "10"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "Bubble + MO Box"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 1111,
+    "descriptionLong": "Round crystal award or memorial plaque on a beech wooden base in a gift box.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo6677",
+    "name": "BLO",
+    "category": "office-and-writing/office-accessories/trophies-and-paperweights",
+    "summary": "Crystal award",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
+    "personalizations": [
+      "co2",
+      "pad-screen",
+      "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "L3",
+        "label": "Laser engraving",
+        "labelRo": "Gravare laser",
+        "printSizes": [
+          "40 × 80 mm"
+        ]
+      },
+      {
+        "code": "P6",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "40 × 80 mm"
+        ]
+      },
+      {
+        "code": "PD3",
+        "label": "Digital printing",
+        "labelRo": "Imprimare digitală",
+        "printSizes": [
+          "90 × 130 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO6677",
+    "supplierVariantIds": [
+      "MO6677-22"
+    ],
+    "price": 5.93,
+    "priceFrom": false,
+    "stock": 2376,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo6677-22.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6677-22-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6677-22-side.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6677-22-top.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6677-22-open.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6677-22-print.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6677-22-ambiant.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6677-22-detail.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Transparent"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "9X2X13CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Glass Soda Lime"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "7006 0090"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "20"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "Back in MO Box"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 551,
+    "descriptionLong": "Crystal award or trophy frame. Presented in a gift box.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo7183",
+    "name": "MONDAL",
+    "category": "office-and-writing/office-accessories/trophies-and-paperweights",
+    "summary": "Globe glass trophy",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "co2",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "L4",
+        "label": "Laser engraving",
+        "labelRo": "Gravare laser",
+        "printSizes": [
+          "60 × 30 mm"
+        ]
+      },
+      {
+        "code": "P3",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "80 × 80 mm"
+        ]
+      },
+      {
+        "code": "P5",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "60 × 30 mm"
+        ]
+      },
+      {
+        "code": "P6",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "60 × 30 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO7183",
+    "supplierVariantIds": [
+      "MO7183-22"
+    ],
+    "price": 6.97,
+    "priceFrom": false,
+    "stock": 887,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo7183-22.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo7183-22b.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo7183-22-print.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Transparent"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "Ø12X11,5X3,7 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Glass Soda Lime"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "7013 9900"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "18"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "Back in MO Box"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 685,
+    "descriptionLong": "Elegant round trophy made in glass, featuring a relief half globe pattern on top. Presented in a classic gift box.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo9056",
+    "name": "OVALE",
+    "category": "office-and-writing/office-accessories/trophies-and-paperweights",
+    "summary": "Paper weight",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
+    "personalizations": [
+      "co2",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DL",
+        "label": "Digital label",
+        "labelRo": "Etichetă digitală",
+        "printSizes": [
+          "70 × 70 mm"
+        ]
+      },
+      {
+        "code": "L4",
+        "label": "Laser engraving",
+        "labelRo": "Gravare laser",
+        "printSizes": [
+          "50 × 50 mm"
+        ]
+      },
+      {
+        "code": "P6",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "50 × 50 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO9056",
+    "supplierVariantIds": [
+      "MO9056-22"
+    ],
+    "price": 4.91,
+    "priceFrom": false,
+    "stock": 3203,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo9056-22.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo9056-22a.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo9056-22b.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo9056-22-print.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo9056-22-ambiant.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Transparent"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "Ø8X3,5CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Glass Soda Lime"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "7013 9900"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "20"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "40"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "Back in MO Box"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 370,
+    "descriptionLong": "Paperweight glass ball and magnifier presented in gift box.",
     "hasVariantDetail": false
   }
 ]

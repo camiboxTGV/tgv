@@ -1,0 +1,982 @@
+[
+  {
+    "contentKey": "0406d1d77283b4cb",
+    "supplierVariantId": "S03806-BT-M",
+    "stock": 297,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Bright Red"
+    },
+    "size": "M",
+    "imageRefs": [
+      10
+    ]
+  },
+  {
+    "contentKey": "0ad5f334b823c4e2",
+    "supplierVariantId": "S03806-BT-XL",
+    "stock": 148,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Bright Red"
+    },
+    "size": "XL",
+    "imageRefs": [
+      10
+    ]
+  },
+  {
+    "contentKey": "0f4e9fad9da6692b",
+    "supplierVariantId": "S03806-LY-S",
+    "stock": 356,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Light Yellow"
+    },
+    "size": "S",
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "109b2ec4ac431cfe",
+    "supplierVariantId": "S03806-DB-S",
+    "stock": 11424,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Deep Black"
+    },
+    "size": "S",
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "11ed10f5cc223edf",
+    "supplierVariantId": "S03806-LY-M",
+    "stock": 401,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Light Yellow"
+    },
+    "size": "M",
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "120f8b2708beeae7",
+    "supplierVariantId": "S03806-DH-XL",
+    "stock": 88,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Light Grey Melange"
+    },
+    "size": "XL",
+    "imageRefs": [
+      11
+    ]
+  },
+  {
+    "contentKey": "19465db59eddfb66",
+    "supplierVariantId": "S03806-WH-XL",
+    "stock": 2748,
+    "stockLevel": "in-stock",
+    "price": 5.79,
+    "color": {
+      "name": "White"
+    },
+    "size": "XL",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "1af85a1e26618a46",
+    "supplierVariantId": "S03806-MU-S",
+    "stock": 47,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Mouse Grey"
+    },
+    "size": "S",
+    "imageRefs": [
+      8
+    ]
+  },
+  {
+    "contentKey": "2baeaba0145442f0",
+    "supplierVariantId": "S03806-DH-L",
+    "stock": 120,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Light Grey Melange"
+    },
+    "size": "L",
+    "imageRefs": [
+      11
+    ]
+  },
+  {
+    "contentKey": "2ccfe2401be69fbb",
+    "supplierVariantId": "S03806-UM-L",
+    "stock": 281,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Umber"
+    },
+    "size": "L",
+    "imageRefs": [
+      12
+    ]
+  },
+  {
+    "contentKey": "2e6ccaa756b376e9",
+    "supplierVariantId": "S03806-FN-XXL",
+    "stock": 183,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "French Navy"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      4
+    ]
+  },
+  {
+    "contentKey": "304828e153405d85",
+    "supplierVariantId": "S03806-IR-XXL",
+    "stock": 48,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Iris"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      9
+    ]
+  },
+  {
+    "contentKey": "31c1d419a389cae2",
+    "supplierVariantId": "S03806-UM-XXL",
+    "stock": 46,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Umber"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      12
+    ]
+  },
+  {
+    "contentKey": "36119819adabe0bb",
+    "supplierVariantId": "S03806-MU-M",
+    "stock": 103,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Mouse Grey"
+    },
+    "size": "M",
+    "imageRefs": [
+      8
+    ]
+  },
+  {
+    "contentKey": "3da2e78d4a083c4c",
+    "supplierVariantId": "S03806-LN-M",
+    "stock": 1632,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Linen Twin"
+    },
+    "size": "M",
+    "imageRefs": [
+      6
+    ]
+  },
+  {
+    "contentKey": "3f1ac3c0975f7a9a",
+    "supplierVariantId": "S03806-DM-XL",
+    "stock": 176,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Denim"
+    },
+    "size": "XL",
+    "imageRefs": [
+      7
+    ]
+  },
+  {
+    "contentKey": "4931ba1e8fb3a691",
+    "supplierVariantId": "S03806-MU-XXL",
+    "stock": 117,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Mouse Grey"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      8
+    ]
+  },
+  {
+    "contentKey": "4cbeb7a92f0727e4",
+    "supplierVariantId": "S03806-LL-L",
+    "stock": 320,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Lilac"
+    },
+    "size": "L",
+    "imageRefs": [
+      5
+    ]
+  },
+  {
+    "contentKey": "52e698c1945a472d",
+    "supplierVariantId": "S03806-KH-XXL",
+    "stock": 90,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Khaki"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      13
+    ]
+  },
+  {
+    "contentKey": "53832a140bc5794a",
+    "supplierVariantId": "S03806-UM-S",
+    "stock": 323,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Umber"
+    },
+    "size": "S",
+    "imageRefs": [
+      12
+    ]
+  },
+  {
+    "contentKey": "539551fca87eec97",
+    "supplierVariantId": "S03806-DM-L",
+    "stock": 224,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Denim"
+    },
+    "size": "L",
+    "imageRefs": [
+      7
+    ]
+  },
+  {
+    "contentKey": "5871a54d18626631",
+    "supplierVariantId": "S03806-WH-XXL",
+    "stock": 824,
+    "stockLevel": "in-stock",
+    "price": 5.79,
+    "color": {
+      "name": "White"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "5bfff01d632517e9",
+    "supplierVariantId": "S03806-UM-XL",
+    "stock": 132,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Umber"
+    },
+    "size": "XL",
+    "imageRefs": [
+      12
+    ]
+  },
+  {
+    "contentKey": "5cc89bbba7a105c0",
+    "supplierVariantId": "S03806-FN-M",
+    "stock": 837,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "French Navy"
+    },
+    "size": "M",
+    "imageRefs": [
+      4
+    ]
+  },
+  {
+    "contentKey": "62d851f5ed7a511c",
+    "supplierVariantId": "S03806-BT-L",
+    "stock": 283,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Bright Red"
+    },
+    "size": "L",
+    "imageRefs": [
+      10
+    ]
+  },
+  {
+    "contentKey": "671430079e6ea039",
+    "supplierVariantId": "S03806-WW-L",
+    "stock": 7949,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Off-White"
+    },
+    "size": "L",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "67b8b0a8c14393ee",
+    "supplierVariantId": "S03806-LY-XL",
+    "stock": 298,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Light Yellow"
+    },
+    "size": "XL",
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "6e3f7b80924ce8b2",
+    "supplierVariantId": "S03806-DB-L",
+    "stock": 16916,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Deep Black"
+    },
+    "size": "L",
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "6ec2f84eaddb192c",
+    "supplierVariantId": "S03806-MU-XL",
+    "stock": 52,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Mouse Grey"
+    },
+    "size": "XL",
+    "imageRefs": [
+      8
+    ]
+  },
+  {
+    "contentKey": "6f8bab3fc8c39ab6",
+    "supplierVariantId": "S03806-FN-XL",
+    "stock": 325,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "French Navy"
+    },
+    "size": "XL",
+    "imageRefs": [
+      4
+    ]
+  },
+  {
+    "contentKey": "7111cd332e1770e2",
+    "supplierVariantId": "S03806-WW-XL",
+    "stock": 2066,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Off-White"
+    },
+    "size": "XL",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "77a2cf75e0c604ac",
+    "supplierVariantId": "S03806-WW-S",
+    "stock": 9177,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Off-White"
+    },
+    "size": "S",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "78d965ecdf682e72",
+    "supplierVariantId": "S03806-UM-M",
+    "stock": 277,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Umber"
+    },
+    "size": "M",
+    "imageRefs": [
+      12
+    ]
+  },
+  {
+    "contentKey": "81235c7251da7780",
+    "supplierVariantId": "S03806-MU-L",
+    "stock": 123,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Mouse Grey"
+    },
+    "size": "L",
+    "imageRefs": [
+      8
+    ]
+  },
+  {
+    "contentKey": "821edcf338b40e76",
+    "supplierVariantId": "S03806-DH-S",
+    "stock": 90,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Light Grey Melange"
+    },
+    "size": "S",
+    "imageRefs": [
+      11
+    ]
+  },
+  {
+    "contentKey": "891da83f0b652607",
+    "supplierVariantId": "S03806-IR-S",
+    "stock": 125,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Iris"
+    },
+    "size": "S",
+    "imageRefs": [
+      9
+    ]
+  },
+  {
+    "contentKey": "893516ff24e35a4f",
+    "supplierVariantId": "S03806-BT-XXL",
+    "stock": 50,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Bright Red"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      10
+    ]
+  },
+  {
+    "contentKey": "89e3e1d363e6b1f6",
+    "supplierVariantId": "S03806-DH-XXL",
+    "stock": 37,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Light Grey Melange"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      11
+    ]
+  },
+  {
+    "contentKey": "8ba05bc732f6e723",
+    "supplierVariantId": "S03806-WH-M",
+    "stock": 5432,
+    "stockLevel": "in-stock",
+    "price": 5.79,
+    "color": {
+      "name": "White"
+    },
+    "size": "M",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "8c2fd9cf7ec5e622",
+    "supplierVariantId": "S03806-DB-M",
+    "stock": 14366,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Deep Black"
+    },
+    "size": "M",
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "a089f6bf83f14075",
+    "supplierVariantId": "S03806-LN-XL",
+    "stock": 1043,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Linen Twin"
+    },
+    "size": "XL",
+    "imageRefs": [
+      6
+    ]
+  },
+  {
+    "contentKey": "a29af4e0c7281671",
+    "supplierVariantId": "S03806-DB-XL",
+    "stock": 9748,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Deep Black"
+    },
+    "size": "XL",
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "a2b84b2c414a6a01",
+    "supplierVariantId": "S03806-WW-M",
+    "stock": 4743,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Off-White"
+    },
+    "size": "M",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "a9640f3a2685d5aa",
+    "supplierVariantId": "S03806-IR-M",
+    "stock": 273,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Iris"
+    },
+    "size": "M",
+    "imageRefs": [
+      9
+    ]
+  },
+  {
+    "contentKey": "b33b728f285195e0",
+    "supplierVariantId": "S03806-WW-XXL",
+    "stock": 363,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Off-White"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "b680c14e3e66e014",
+    "supplierVariantId": "S03806-DM-M",
+    "stock": 222,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Denim"
+    },
+    "size": "M",
+    "imageRefs": [
+      7
+    ]
+  },
+  {
+    "contentKey": "b9c2d7d10e8594bb",
+    "supplierVariantId": "S03806-DB-XXL",
+    "stock": 4035,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Deep Black"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "b9d2791cd41092f7",
+    "supplierVariantId": "S03806-LN-S",
+    "stock": 688,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Linen Twin"
+    },
+    "size": "S",
+    "imageRefs": [
+      6
+    ]
+  },
+  {
+    "contentKey": "bee8d5ad23d323c5",
+    "supplierVariantId": "S03806-WH-L",
+    "stock": 14877,
+    "stockLevel": "in-stock",
+    "price": 5.79,
+    "color": {
+      "name": "White"
+    },
+    "size": "L",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "c00c60345b8b8f12",
+    "supplierVariantId": "S03806-LN-XXL",
+    "stock": 469,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Linen Twin"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      6
+    ]
+  },
+  {
+    "contentKey": "c3550f586b999670",
+    "supplierVariantId": "S03806-LN-L",
+    "stock": 3496,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Linen Twin"
+    },
+    "size": "L",
+    "imageRefs": [
+      6
+    ]
+  },
+  {
+    "contentKey": "c3ee67ac352069fd",
+    "supplierVariantId": "S03806-WH-S",
+    "stock": 3334,
+    "stockLevel": "in-stock",
+    "price": 5.79,
+    "color": {
+      "name": "White"
+    },
+    "size": "S",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "c951967b04481518",
+    "supplierVariantId": "S03806-FN-L",
+    "stock": 829,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "French Navy"
+    },
+    "size": "L",
+    "imageRefs": [
+      4
+    ]
+  },
+  {
+    "contentKey": "caf979b4f0962f18",
+    "supplierVariantId": "S03806-FN-S",
+    "stock": 336,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "French Navy"
+    },
+    "size": "S",
+    "imageRefs": [
+      4
+    ]
+  },
+  {
+    "contentKey": "cc0c4d1a5e2b8813",
+    "supplierVariantId": "S03806-DH-M",
+    "stock": 128,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Light Grey Melange"
+    },
+    "size": "M",
+    "imageRefs": [
+      11
+    ]
+  },
+  {
+    "contentKey": "d187cb60859d3210",
+    "supplierVariantId": "S03806-IR-XL",
+    "stock": 138,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Iris"
+    },
+    "size": "XL",
+    "imageRefs": [
+      9
+    ]
+  },
+  {
+    "contentKey": "d1d236009c09a781",
+    "supplierVariantId": "S03806-KH-M",
+    "stock": 304,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Khaki"
+    },
+    "size": "M",
+    "imageRefs": [
+      13
+    ]
+  },
+  {
+    "contentKey": "d3ff6798a14bfe48",
+    "supplierVariantId": "S03806-KH-S",
+    "stock": 183,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Khaki"
+    },
+    "size": "S",
+    "imageRefs": [
+      13
+    ]
+  },
+  {
+    "contentKey": "dd5b739a94a0fc91",
+    "supplierVariantId": "S03806-DM-S",
+    "stock": 184,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Denim"
+    },
+    "size": "S",
+    "imageRefs": [
+      7
+    ]
+  },
+  {
+    "contentKey": "e14aa1f643b68141",
+    "supplierVariantId": "S03806-LL-M",
+    "stock": 452,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Lilac"
+    },
+    "size": "M",
+    "imageRefs": [
+      5
+    ]
+  },
+  {
+    "contentKey": "e9f6c369e2d71852",
+    "supplierVariantId": "S03806-KH-XL",
+    "stock": 186,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Khaki"
+    },
+    "size": "XL",
+    "imageRefs": [
+      13
+    ]
+  },
+  {
+    "contentKey": "ebae2b3b9242aa27",
+    "supplierVariantId": "S03806-DM-XXL",
+    "stock": 123,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Denim"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      7
+    ]
+  },
+  {
+    "contentKey": "efbeecf4fedd216a",
+    "supplierVariantId": "S03806-LL-S",
+    "stock": 249,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Lilac"
+    },
+    "size": "S",
+    "imageRefs": [
+      5
+    ]
+  },
+  {
+    "contentKey": "f0fd10272a49d92c",
+    "supplierVariantId": "S03806-LY-L",
+    "stock": 463,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Light Yellow"
+    },
+    "size": "L",
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "f85bb1ac87f8ac0c",
+    "supplierVariantId": "S03806-LL-XL",
+    "stock": 311,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Lilac"
+    },
+    "size": "XL",
+    "imageRefs": [
+      5
+    ]
+  },
+  {
+    "contentKey": "f8c7364206113b85",
+    "supplierVariantId": "S03806-BT-S",
+    "stock": 198,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Bright Red"
+    },
+    "size": "S",
+    "imageRefs": [
+      10
+    ]
+  },
+  {
+    "contentKey": "faa0a2786ce52d9d",
+    "supplierVariantId": "S03806-LL-XXL",
+    "stock": 228,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Lilac"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      5
+    ]
+  },
+  {
+    "contentKey": "fbb1622b8d6187a9",
+    "supplierVariantId": "S03806-LY-XXL",
+    "stock": 176,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Light Yellow"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "fda0c4a2fa166535",
+    "supplierVariantId": "S03806-KH-L",
+    "stock": 367,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Khaki"
+    },
+    "size": "L",
+    "imageRefs": [
+      13
+    ]
+  },
+  {
+    "contentKey": "ff1ae561a9c9b478",
+    "supplierVariantId": "S03806-IR-L",
+    "stock": 281,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Iris"
+    },
+    "size": "L",
+    "imageRefs": [
+      9
+    ]
+  }
+]

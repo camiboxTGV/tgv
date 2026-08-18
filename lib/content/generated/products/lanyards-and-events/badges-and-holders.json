@@ -1,0 +1,929 @@
+[
+  {
+    "slug": "midocean-it2386",
+    "name": "LADES",
+    "category": "lanyards-and-events/badges-and-holders",
+    "summary": "Badge holder",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DO1",
+        "label": "Doming",
+        "labelRo": "Doming",
+        "printSizes": [
+          "19 × 19 mm"
+        ]
+      },
+      {
+        "code": "P3",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "15 × 15 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "IT2386",
+    "supplierVariantIds": [
+      "IT2386-04",
+      "IT2386-26"
+    ],
+    "price": 0.32,
+    "priceFrom": false,
+    "stock": 80338,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/it2386-04.jpg",
+      "https://cdn1.midocean.com/image/700X700/it2386-26.jpg",
+      "https://cdn1.midocean.com/image/700X700/it2386-04-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/it2386-04b.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 2,
+    "colorCount": 2,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Blue"
+      },
+      {
+        "name": "Transparent White"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "Ø3,2X0,8X4,2 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "ABS"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "3926 9097"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "100"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "1200"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 10,
+    "descriptionLong": "Badge holder with metallic clip.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-mo2319",
+    "name": "PULRIC",
+    "category": "lanyards-and-events/badges-and-holders",
+    "summary": "Retractable badge holder set",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DL",
+        "label": "Digital label",
+        "labelRo": "Etichetă digitală",
+        "printSizes": [
+          "15 × 15 mm"
+        ]
+      },
+      {
+        "code": "DO1",
+        "label": "Doming",
+        "labelRo": "Doming",
+        "printSizes": [
+          "15 × 15 mm"
+        ]
+      },
+      {
+        "code": "P2",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "15 × 15 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO2319",
+    "supplierVariantIds": [
+      "MO2319-03"
+    ],
+    "price": 1.17,
+    "priceFrom": false,
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo2319-03.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2319-03-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2319-03-side.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2319-03-open.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2319-03-print.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2319-03-detail.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "10X3,5X0,8CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "ABS"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "8205 5100"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "400"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 20,
+    "descriptionLong": "Retractable badge holder in ABS with clip, key ring and bottle opener.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo2856",
+    "name": "BADSMALL",
+    "category": "lanyards-and-events/badges-and-holders",
+    "summary": "Lanyard badge 54 x 86mm",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DL",
+        "label": "Digital label",
+        "labelRo": "Etichetă digitală",
+        "printSizes": [
+          "70 × 30 mm"
+        ]
+      },
+      {
+        "code": "P2",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "70 × 30 mm"
+        ]
+      },
+      {
+        "code": "PD1",
+        "label": "Digital printing",
+        "labelRo": "Imprimare digitală",
+        "printSizes": [
+          "86 × 54 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO2856",
+    "supplierVariantIds": [
+      "MO2856-06"
+    ],
+    "price": 0.18,
+    "priceFrom": false,
+    "stock": 73745,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo2856-06.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2856-06-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2856-06-print.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2856-06-detail.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2856-06-picture1.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2856-06-picture6.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "White"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "8,6X5,4CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "PVC"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "3926 9097"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "200"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "2000"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 6,
+    "descriptionLong": "Lanyard badge 54 x 86mm",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo2974",
+    "name": "BADLARGE",
+    "category": "lanyards-and-events/badges-and-holders",
+    "summary": "Lanyard badge 120 x 80mm",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DL",
+        "label": "Digital label",
+        "labelRo": "Etichetă digitală",
+        "printSizes": [
+          "60 × 60 mm"
+        ]
+      },
+      {
+        "code": "P2",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "60 × 60 mm"
+        ]
+      },
+      {
+        "code": "PD1",
+        "label": "Digital printing",
+        "labelRo": "Imprimare digitală",
+        "printSizes": [
+          "80 × 120 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO2974",
+    "supplierVariantIds": [
+      "MO2974-06"
+    ],
+    "price": 0.36,
+    "priceFrom": false,
+    "stock": 63924,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo2974-06.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2974-06-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2974-06-print.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2974-06-detail.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2974-06-picture1.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2974-06-picture2.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2974-06-picture6.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "White"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "12X8CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "PVC"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "3926 9097"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "100"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "1000"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 12,
+    "descriptionLong": "Lanyard badge 120 x 80mm",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo3200",
+    "name": "ARRONSA",
+    "category": "lanyards-and-events/badges-and-holders",
+    "summary": "Retractable badge holder",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DO1",
+        "label": "Doming",
+        "labelRo": "Doming",
+        "printSizes": [
+          "20 × 20 mm",
+          "25 × 25 mm"
+        ]
+      },
+      {
+        "code": "P4",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "20 × 20 mm",
+          "25 × 25 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO3200",
+    "supplierVariantIds": [
+      "MO3200-03",
+      "MO3200-04",
+      "MO3200-05",
+      "MO3200-06"
+    ],
+    "price": 1.14,
+    "priceFrom": false,
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo3200-03.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo3200-04.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo3200-05.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo3200-06.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo3200-03-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo3200-03-top.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo3200-03-open.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo3200-03-detail.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo3200-03-picture1.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo3200-03-picture2.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 4,
+    "colorCount": 4,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      },
+      {
+        "name": "Blue"
+      },
+      {
+        "name": "Red"
+      },
+      {
+        "name": "White"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "8.8 X 3.5 X 1CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "ABS"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "50"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "600"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 21,
+    "descriptionLong": "Badge holder with carabiner in zinc alloy and ABS. Silicone stopper.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-mo3204",
+    "name": "STIBA",
+    "category": "lanyards-and-events/badges-and-holders",
+    "summary": "Retractable badge holder",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DL",
+        "label": "Digital label",
+        "labelRo": "Etichetă digitală",
+        "printSizes": [
+          "23 × 23 mm"
+        ]
+      },
+      {
+        "code": "DO1",
+        "label": "Doming",
+        "labelRo": "Doming",
+        "printSizes": [
+          "23 × 23 mm"
+        ]
+      },
+      {
+        "code": "P3",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "15 × 15 mm",
+          "2 × 15 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO3204",
+    "supplierVariantIds": [
+      "MO3204-03",
+      "MO3204-37",
+      "MO3204-49"
+    ],
+    "price": 1.14,
+    "priceFrom": false,
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo3204-03.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo3204-37.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo3204-49.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo3204-03-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo3204-03-top.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo3204-03-open.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo3204-03-picture1.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 3,
+    "colorCount": 3,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Army Green"
+      },
+      {
+        "name": "Black"
+      },
+      {
+        "name": "Royal Blue"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "12.4 X 4 X 1CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "ABS"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "200"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "400"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 21,
+    "descriptionLong": "Retractable badge holder in ABS with carabiner. Steel reel, 60 cm length.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-mo8599",
+    "name": "BADGY",
+    "category": "lanyards-and-events/badges-and-holders",
+    "summary": "Transparent badge 10cmx8cm",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DI",
+        "label": "Digital inlay",
+        "labelRo": "Etichetă digitală interioară",
+        "printSizes": [
+          "90 × 65 mm"
+        ]
+      },
+      {
+        "code": "P3",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "70 × 30 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO8599",
+    "supplierVariantIds": [
+      "MO8599-22"
+    ],
+    "price": 0.08,
+    "priceFrom": false,
+    "stock": 168656,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo8599-22.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo8599-22-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo8599-22-print.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Transparent"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "10X8CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "PVC"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "3926 9097"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "2000"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 4,
+    "descriptionLong": "Transparent badge. Innersize 6,3 x 9,3cm",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo8600",
+    "name": "BADGO",
+    "category": "lanyards-and-events/badges-and-holders",
+    "summary": "Transparent badge 7.5cmx12.5cm",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DI",
+        "label": "Digital inlay",
+        "labelRo": "Etichetă digitală interioară",
+        "printSizes": [
+          "65 × 105 mm"
+        ]
+      },
+      {
+        "code": "P3",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "50 × 30 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO8600",
+    "supplierVariantIds": [
+      "MO8600-22"
+    ],
+    "price": 0.08,
+    "priceFrom": false,
+    "stock": 155679,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo8600-22.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo8600-22a.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo8600-22-print.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Transparent"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "7,5X12,5CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "PVC"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "3926 9097"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "2000"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 5,
+    "descriptionLong": "Transparent badge.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo9642",
+    "name": "CLIPBADGE",
+    "category": "lanyards-and-events/badges-and-holders",
+    "summary": "PVC badge holder",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "P3",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "70 × 30 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO9642",
+    "supplierVariantIds": [
+      "MO9642-22"
+    ],
+    "price": 0.22,
+    "priceFrom": false,
+    "stock": 57118,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo9642-22.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo9642-22a.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo9642-22-print.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Transparent"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "9.5X8CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "PVC"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "3926 9097"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "1500"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 9,
+    "descriptionLong": "PVC badge holder with metal clip.",
+    "hasVariantDetail": false
+  }
+]

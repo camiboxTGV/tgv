@@ -21,7 +21,7 @@
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/cqvahel-surgicalgreen_1.jpg"
     ],
-    "fetchedAt": "2026-08-16T04:03:39.012Z",
+    "fetchedAt": "2026-08-18T13:15:05.027Z",
     "variantCount": 3,
     "colorCount": 1,
     "sizeCount": 2,
@@ -118,7 +118,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01211-whitefuchsia_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01211-whitemelangegrey_a1.jpg"
     ],
-    "fetchedAt": "2026-08-18T03:57:33.401Z",
+    "fetchedAt": "2026-08-18T13:15:05.027Z",
     "variantCount": 3,
     "colorCount": 1,
     "sizeCount": 1,
@@ -219,7 +219,7 @@
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st9691-blackopal.jpg"
     ],
-    "fetchedAt": "2026-08-16T04:03:39.012Z",
+    "fetchedAt": "2026-08-18T13:15:05.027Z",
     "variantCount": 5,
     "colorCount": 1,
     "sizeCount": 4,
@@ -284,6 +284,1023 @@
     "brand": "Stedman",
     "weightGrams": 125,
     "descriptionLong": "These modern men’s boxer shorts made of a soft and sleek cotton-elastane-blend offer supreme comfort. 92% ring-spun combed cotton, 8% elastane monofilament; single jersey \"full feeder\"",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-mo2076",
+    "name": "LESPORT",
+    "category": "apparel-and-wearables/textile-accessories",
+    "summary": "Tactile sport gloves",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S3",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "30 × 50 mm"
+        ]
+      },
+      {
+        "code": "T1",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "30 × 50 mm"
+        ]
+      },
+      {
+        "code": "TD1",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "30 × 50 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "30 × 50 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO2076",
+    "supplierVariantIds": [
+      "MO2076-03"
+    ],
+    "price": 2.82,
+    "priceFrom": false,
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo2076-03.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2076-03-side.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2076-03-top.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2076-03-open.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2076-03-print.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2076-03-detail.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "14,5X23CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "PET"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "6116 9300"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "200"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 44,
+    "descriptionLong": "Tactile sport gloves for smartphone in polyester. Two fingers with touch function with anti-slip dots on palm and finger in PVC.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo2338",
+    "name": "RAFY",
+    "category": "apparel-and-wearables/textile-accessories",
+    "summary": "Scarf in RPET polyester",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
+    "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "E",
+        "label": "Embroidery",
+        "labelRo": "Broderie",
+        "printSizes": [
+          "150 × 150 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO2338",
+    "supplierVariantIds": [
+      "MO2338-03",
+      "MO2338-04",
+      "MO2338-33",
+      "MO2338-34"
+    ],
+    "price": 2.98,
+    "priceFrom": false,
+    "stock": 6369,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo2338-03.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2338-04.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2338-33.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2338-34.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2338-03-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2338-03-open.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2338-03-detail.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 4,
+    "colorCount": 4,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      },
+      {
+        "name": "Blue"
+      },
+      {
+        "name": "White/Black"
+      },
+      {
+        "name": "White/Grey"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "18X150CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "RPET"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "6214 3000"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "80"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 110,
+    "descriptionLong": "Scarf in stretchable RPET polyester.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-mo2399",
+    "name": "HANDNIT",
+    "category": "apparel-and-wearables/textile-accessories",
+    "summary": "Knitted gloves in RPET",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "E",
+        "label": "Embroidery",
+        "labelRo": "Broderie",
+        "printSizes": [
+          "25 × 10 mm"
+        ]
+      },
+      {
+        "code": "S3",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "25 × 10 mm"
+        ]
+      },
+      {
+        "code": "T1",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "25 × 10 mm"
+        ]
+      },
+      {
+        "code": "TD1",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "25 × 10 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO2399",
+    "supplierVariantIds": [
+      "MO2399-03",
+      "MO2399-15",
+      "MO2399-85"
+    ],
+    "price": 2.84,
+    "priceFrom": false,
+    "stock": 10008,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo2399-03.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2399-15.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2399-85.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2399-03-open.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2399-03-detail.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2399-03-picture5.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 3,
+    "colorCount": 3,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      },
+      {
+        "name": "French Navy"
+      },
+      {
+        "name": "Stone Grey"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "24X12CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "RPET"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "6116 9300"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "200"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 38,
+    "descriptionLong": "Knitted gloves in soft stretchable RPET polyester with decoration patch.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-mo3125",
+    "name": "WAVES",
+    "category": "apparel-and-wearables/textile-accessories",
+    "summary": "Fleece headband",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "E",
+        "label": "Embroidery",
+        "labelRo": "Broderie",
+        "printSizes": [
+          "110 × 30 mm",
+          "90 × 45 mm"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "110 × 30 mm",
+          "90 × 45 mm"
+        ]
+      },
+      {
+        "code": "T1",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "110 × 30 mm",
+          "90 × 45 mm"
+        ]
+      },
+      {
+        "code": "TD1",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "110 × 30 mm",
+          "90 × 45 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "110 × 30 mm",
+          "90 × 45 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO3125",
+    "supplierVariantIds": [
+      "MO3125-03",
+      "MO3125-85"
+    ],
+    "price": 1.46,
+    "priceFrom": false,
+    "stock": 24899,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo3125-03.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo3125-85.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo3125-03-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo3125-03-open.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo3125-03-detail.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo3125-03-picture1.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo3125-03-picture2.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 2,
+    "colorCount": 2,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      },
+      {
+        "name": "French Navy"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "27X11CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Fleece"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "6117 8010"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "500"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 20,
+    "descriptionLong": "Soft and stretchy fleece headband. 280gr/m² fleece with loop velvet binding.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-mo6667",
+    "name": "TAKAI",
+    "category": "apparel-and-wearables/textile-accessories",
+    "summary": "Rpet tactile gloves",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "co2"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "E",
+        "label": "Embroidery",
+        "labelRo": "Broderie",
+        "printSizes": [
+          "36 × 36 mm"
+        ]
+      },
+      {
+        "code": "L3",
+        "label": "Laser engraving",
+        "labelRo": "Gravare laser",
+        "printSizes": [
+          "30 × 10 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO6667",
+    "supplierVariantIds": [
+      "MO6667-03",
+      "MO6667-85"
+    ],
+    "price": 2.76,
+    "priceFrom": false,
+    "stock": 4342,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo6667-03.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6667-85.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6667-03-side.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6667-03-top.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6667-03-print.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6667-03-detail.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 2,
+    "colorCount": 2,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      },
+      {
+        "name": "French Navy"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "23X12CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "RPET"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "6116 9300"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "100"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "Paper bag or paper wrap"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 51,
+    "descriptionLong": "Tactile gloves for smartphone in RPET with label for printing area.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-mo6876",
+    "name": "BANDANA BANDIDO",
+    "category": "apparel-and-wearables/textile-accessories",
+    "summary": "Multifunction Scarf Polycotton",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S1",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "400 × 200 mm"
+        ]
+      },
+      {
+        "code": "T1",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "400 × 200 mm"
+        ]
+      },
+      {
+        "code": "TD1",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "400 × 200 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "400 × 200 mm"
+        ]
+      },
+      {
+        "code": "TS3",
+        "label": "Sublimation",
+        "labelRo": "Sublimare",
+        "printSizes": [
+          "400 × 200 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO6876",
+    "supplierVariantIds": [
+      "MO6876-03",
+      "MO6876-05",
+      "MO6876-06",
+      "MO6876-08",
+      "MO6876-09",
+      "MO6876-10",
+      "MO6876-37",
+      "MO6876-66",
+      "MO6876-85"
+    ],
+    "price": 1.01,
+    "priceFrom": false,
+    "stock": 90388,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo6876-03.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6876-05.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6876-06.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6876-08.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6876-09.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6876-10.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6876-37.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6876-66.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6876-85.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6876-03-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6876-03-side.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6876-03-open.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 9,
+    "colorCount": 9,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Baby Blue"
+      },
+      {
+        "name": "Black"
+      },
+      {
+        "name": "French Navy"
+      },
+      {
+        "name": "Green"
+      },
+      {
+        "name": "Orange"
+      },
+      {
+        "name": "Red"
+      },
+      {
+        "name": "Royal Blue"
+      },
+      {
+        "name": "White"
+      },
+      {
+        "name": "Yellow"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "87X44CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "PET-Cotton"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "6214 3000"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "400"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 24,
+    "descriptionLong": "Multifunctional triangle shaped  bandana made of polycotton ( 90 % polyester 10% cotton).",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-mo6955",
+    "name": "DACTILE",
+    "category": "apparel-and-wearables/textile-accessories",
+    "summary": "RPET tactile gloves",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "co2"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "E",
+        "label": "Embroidery",
+        "labelRo": "Broderie",
+        "printSizes": [
+          "36 × 36 mm"
+        ]
+      },
+      {
+        "code": "L3",
+        "label": "Laser engraving",
+        "labelRo": "Gravare laser",
+        "printSizes": [
+          "25 × 10 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO6955",
+    "supplierVariantIds": [
+      "MO6955-03"
+    ],
+    "price": 1.85,
+    "priceFrom": false,
+    "stock": 5022,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo6955-03.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6955-03-side.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6955-03-top.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6955-03-print.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6955-03-detail.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "21 X 11,5CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "RPET"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "6116 9300"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "200"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "Paper bag or paper wrap"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 50,
+    "descriptionLong": "Tactile gloves for smartphone in RPET polyester with cork label for printing area. Cork is 100% natural material. Due to its structural nature and surface porosity the final print result per item may have deviations.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo7947",
+    "name": "TACTO",
+    "category": "apparel-and-wearables/textile-accessories",
+    "summary": "Tactile gloves for smartphones",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "E",
+        "label": "Embroidery",
+        "labelRo": "Broderie",
+        "printSizes": [
+          "36 × 36 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO7947",
+    "supplierVariantIds": [
+      "MO7947-03",
+      "MO7947-04"
+    ],
+    "price": 1.26,
+    "priceFrom": false,
+    "stock": 25943,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo7947-03.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo7947-04.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo7947-03-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo7947-03b.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo7947-03d.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo7947-03-print.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo7947-03-ambiant.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 2,
+    "colorCount": 2,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      },
+      {
+        "name": "Blue"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "21X12X1 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Acrylic"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "6116 9300"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "200"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "Paper bag or paper wrap"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 28,
+    "descriptionLong": "Tactile gloves for smartphone in acrylic. The 3 tactile extremities of the fingers are composed of 0.5% in stainless steel fibre, 89.5% in acrylic, 10% in spandex.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-mo8561",
+    "name": "DARIA",
+    "category": "apparel-and-wearables/textile-accessories",
+    "summary": "Multifunction scarf i",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
+    "personalizations": [
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "100 × 200 mm"
+        ]
+      },
+      {
+        "code": "TD1",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "100 × 200 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "100 × 200 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO8561",
+    "supplierVariantIds": [
+      "MO8561-03",
+      "MO8561-04"
+    ],
+    "price": 0.84,
+    "priceFrom": false,
+    "stock": 25619,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo8561-03.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo8561-04.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo8561-03-open.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 2,
+    "colorCount": 2,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      },
+      {
+        "name": "Blue"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "47X25CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "PET"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "6117 8010"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "200"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 34,
+    "descriptionLong": "Multifunctional trendy scarf made of microfiber.",
     "hasVariantDetail": true
   }
 ]

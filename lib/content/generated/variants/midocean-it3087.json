@@ -1,0 +1,41 @@
+[
+  {
+    "contentKey": "acd64b9d6600b851",
+    "supplierVariantId": "IT3087-04",
+    "stock": 778,
+    "stockLevel": "in-stock",
+    "price": 0.29,
+    "color": {
+      "name": "Blue"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "b3a769107979aaf3",
+    "supplierVariantId": "IT3087-10",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.29,
+    "color": {
+      "name": "Orange"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "f7b0737a3e951915",
+    "supplierVariantId": "IT3087-06",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.29,
+    "color": {
+      "name": "White"
+    },
+    "imageRefs": [
+      2
+    ]
+  }
+]

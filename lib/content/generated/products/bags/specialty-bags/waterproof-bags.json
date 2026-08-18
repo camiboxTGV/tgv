@@ -46,7 +46,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/6389519_lifestyle_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6389519_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-08-16T04:03:39.012Z",
+    "fetchedAt": "2026-08-18T13:15:05.027Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -142,7 +142,7 @@
       "https://macma.ro/products/jpg/M/6474407_3.jpg",
       "https://macma.ro/products/jpg/M/6474407_4.jpg"
     ],
-    "fetchedAt": "2026-08-16T04:03:39.012Z",
+    "fetchedAt": "2026-08-18T13:15:05.027Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -240,7 +240,7 @@
       "https://macma.ro/products/jpg/M/6523303_5.jpg",
       "https://macma.ro/products/jpg/M/6523303_6.jpg"
     ],
-    "fetchedAt": "2026-08-16T04:03:39.012Z",
+    "fetchedAt": "2026-08-18T13:15:05.027Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -295,5 +295,915 @@
     "weightGrams": 530,
     "descriptionLong": "Large weekender made of water-repellent PU material and side zip compartment. Can be used as a sports or travelling bag.",
     "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo2181",
+    "name": "SCUBAROLL",
+    "category": "bags/specialty-bags/waterproof-bags",
+    "summary": "RPET waterproof rolltop bag",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S3",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "100 × 130 mm",
+          "220 × 80 mm"
+        ]
+      },
+      {
+        "code": "T1",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "100 × 130 mm",
+          "220 × 80 mm"
+        ]
+      },
+      {
+        "code": "TD1",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "100 × 130 mm",
+          "220 × 80 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "100 × 130 mm",
+          "220 × 80 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO2181",
+    "supplierVariantIds": [
+      "MO2181-03",
+      "MO2181-15",
+      "MO2181-37"
+    ],
+    "price": 8.75,
+    "priceFrom": false,
+    "stock": 8010,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo2181-03.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2181-15.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2181-37.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2181-03-top.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2181-03-open.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2181-03-detail.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2181-03-picture1.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2181-03-picture2.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2181-03-picture3.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2181-03-picture7.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 3,
+    "colorCount": 3,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      },
+      {
+        "name": "Royal Blue"
+      },
+      {
+        "name": "Stone Grey"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "37X55CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "RPET"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "4202 9291"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "25"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 140,
+    "descriptionLong": "RPET 210D polyester waterproof rolltop backpack. Capacity: 25L.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-mo2465",
+    "name": "BOLSAIBLE +",
+    "category": "bags/specialty-bags/waterproof-bags",
+    "summary": "Waterproof bag 210T RPET 5L",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S4",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "100 × 220 mm",
+          "220 × 220 mm"
+        ]
+      },
+      {
+        "code": "T1",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "100 × 220 mm",
+          "220 × 220 mm"
+        ]
+      },
+      {
+        "code": "TD1",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "100 × 220 mm",
+          "220 × 220 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "100 × 220 mm",
+          "220 × 220 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO2465",
+    "supplierVariantIds": [
+      "MO2465-03",
+      "MO2465-15",
+      "MO2465-37"
+    ],
+    "price": 3.38,
+    "priceFrom": false,
+    "stock": 8202,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo2465-03.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2465-15.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2465-37.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2465-03-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2465-03-side.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2465-03-top.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2465-03-detail.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2465-03-picture1.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 3,
+    "colorCount": 3,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      },
+      {
+        "name": "Royal Blue"
+      },
+      {
+        "name": "Stone Grey"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "28X36CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "RPET"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "4202 9219"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "100"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 100,
+    "descriptionLong": "Waterproof (IPX6) bag in 210T RPET ripstop with shoulder strap. Capacity 5L.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-mo2466",
+    "name": "BOLSAIBLE",
+    "category": "bags/specialty-bags/waterproof-bags",
+    "summary": "Waterproof bag 210T RPET 1,5L",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S4",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "140 × 140 mm",
+          "50 × 140 mm"
+        ]
+      },
+      {
+        "code": "T1",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "140 × 140 mm",
+          "50 × 140 mm"
+        ]
+      },
+      {
+        "code": "TD1",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "140 × 140 mm",
+          "50 × 140 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "140 × 140 mm",
+          "50 × 140 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO2466",
+    "supplierVariantIds": [
+      "MO2466-03",
+      "MO2466-15",
+      "MO2466-37"
+    ],
+    "price": 2.31,
+    "priceFrom": false,
+    "stock": 10227,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo2466-03.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2466-15.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2466-37.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2466-03-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2466-03-side.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2466-03-top.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2466-03-open.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2466-03-detail.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 3,
+    "colorCount": 3,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      },
+      {
+        "name": "Royal Blue"
+      },
+      {
+        "name": "Stone Grey"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "17.5X24.5CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "RPET"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "4202 9219"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "200"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 40,
+    "descriptionLong": "Waterproof (IPX6) bag in 210T RPET ripstop. Capacity 1,5L.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-mo2691",
+    "name": "BRENNA SMALL",
+    "category": "bags/specialty-bags/waterproof-bags",
+    "summary": "Sports dry bag in 300D RPET",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S3",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "150 × 70 mm"
+        ]
+      },
+      {
+        "code": "T1",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "150 × 70 mm"
+        ]
+      },
+      {
+        "code": "TD1",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "150 × 70 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "150 × 70 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO2691",
+    "supplierVariantIds": [
+      "MO2691-03"
+    ],
+    "price": 3.24,
+    "priceFrom": false,
+    "stock": 1845,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo2691-03.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2691-03-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2691-03-side.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2691-03-print.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2691-03-detail.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2691-03-picture1.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "12X27CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "RPET"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "4202 9211"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "100"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 90,
+    "descriptionLong": "Sports dry bag in 300D RPET with PVC coating. It has a detachable and adjustable shoulder straps. Water resistant fabric. Capacity 3L.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo2754",
+    "name": "BRENNA POUCH",
+    "category": "bags/specialty-bags/waterproof-bags",
+    "summary": "Water-resistant documents bag",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S3",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "180 × 100 mm"
+        ]
+      },
+      {
+        "code": "T1",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "180 × 100 mm"
+        ]
+      },
+      {
+        "code": "TD1",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "180 × 100 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "180 × 100 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO2754",
+    "supplierVariantIds": [
+      "MO2754-03"
+    ],
+    "price": 2.84,
+    "priceFrom": false,
+    "stock": 3028,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo2754-03.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2754-03-print.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2754-03-detail.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2754-03-picture1.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "32X22CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "RPET"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "4202 1211"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "100"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 75,
+    "descriptionLong": "Personal item or documents pouch in 300D RPET and PVC coating with hand straps. Water-resistant fabric.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo2758",
+    "name": "BRENNA TUBE",
+    "category": "bags/specialty-bags/waterproof-bags",
+    "summary": "Sports bag in 300D RPET",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S3",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "200 × 90 mm"
+        ]
+      },
+      {
+        "code": "T1",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "200 × 90 mm"
+        ]
+      },
+      {
+        "code": "TD1",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "200 × 90 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "200 × 90 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO2758",
+    "supplierVariantIds": [
+      "MO2758-03"
+    ],
+    "price": 3.82,
+    "priceFrom": false,
+    "stock": 5941,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo2758-03.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2758-03-print.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2758-03-detail.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2758-03-picture1.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2758-03-picture5.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "15X34CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "RPET"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "4202 9211"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "50"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 130,
+    "descriptionLong": "Sports dry bag in 300D RPET with PVC coating. It has a detachable and adjustable shoulder straps. Water resistant fabric. Capacity 6L",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo8787",
+    "name": "SCUBA",
+    "category": "bags/specialty-bags/waterproof-bags",
+    "summary": "Waterproof bag PVC 10L",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S4",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "100 × 250 mm",
+          "160 × 160 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO8787",
+    "supplierVariantIds": [
+      "MO8787-03",
+      "MO8787-37"
+    ],
+    "price": 5.8,
+    "priceFrom": false,
+    "stock": 6086,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo8787-03.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo8787-37.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo8787-03-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo8787-03b.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo8787-03-top.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 2,
+    "colorCount": 2,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      },
+      {
+        "name": "Royal Blue"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "Ø20,5X46,5 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "PVC"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "4202 9219"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "25"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 209,
+    "descriptionLong": "Waterproof bag in PVC. Capacity 10L, with adjustable shoulder strap.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-mo8788",
+    "name": "SCUBADOO",
+    "category": "bags/specialty-bags/waterproof-bags",
+    "summary": "Water resistant bag PVC small",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S4",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "100 × 200 mm",
+          "50 × 200 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO8788",
+    "supplierVariantIds": [
+      "MO8788-03",
+      "MO8788-37"
+    ],
+    "price": 2.04,
+    "priceFrom": false,
+    "stock": 14284,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo8788-03.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo8788-37.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo8788-03a.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo8788-03b.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 2,
+    "colorCount": 2,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      },
+      {
+        "name": "Royal Blue"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "17,5X32,5 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "PVC"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "4202 9219"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "100"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 58,
+    "descriptionLong": "Small water resistant bag in 210D polyester. 1,5 L.",
+    "hasVariantDetail": true
   }
 ]

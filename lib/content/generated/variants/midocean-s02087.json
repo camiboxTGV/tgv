@@ -1,0 +1,982 @@
+[
+  {
+    "contentKey": "00ebd40b8120eac7",
+    "supplierVariantId": "S02087-AG-XL",
+    "stock": 150,
+    "stockLevel": "in-stock",
+    "price": 8.85,
+    "color": {
+      "name": "Apple Green"
+    },
+    "size": "XL",
+    "imageRefs": [
+      9
+    ]
+  },
+  {
+    "contentKey": "025ed8c8b2cb3a8a",
+    "supplierVariantId": "S02087-BK-3XL",
+    "stock": 309,
+    "stockLevel": "in-stock",
+    "price": 10.22,
+    "color": {
+      "name": "Black"
+    },
+    "size": "3XL",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "11d10203e3c6bd65",
+    "supplierVariantId": "S02087-GY-XL",
+    "stock": 311,
+    "stockLevel": "in-stock",
+    "price": 8.85,
+    "color": {
+      "name": "Grey Melange 2"
+    },
+    "size": "XL",
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "19a33776bc3f9a75",
+    "supplierVariantId": "S02087-OR-M",
+    "stock": 1112,
+    "stockLevel": "in-stock",
+    "price": 8.85,
+    "color": {
+      "name": "Orange"
+    },
+    "size": "M",
+    "imageRefs": [
+      4
+    ]
+  },
+  {
+    "contentKey": "1a0cf080d521c500",
+    "supplierVariantId": "S02087-BK-XL",
+    "stock": 1772,
+    "stockLevel": "in-stock",
+    "price": 8.85,
+    "color": {
+      "name": "Black"
+    },
+    "size": "XL",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "1bd0d5efad714466",
+    "supplierVariantId": "S02087-OR-S",
+    "stock": 124,
+    "stockLevel": "in-stock",
+    "price": 8.85,
+    "color": {
+      "name": "Orange"
+    },
+    "size": "S",
+    "imageRefs": [
+      4
+    ]
+  },
+  {
+    "contentKey": "1caa210a1aa79855",
+    "supplierVariantId": "S02087-WH-L",
+    "stock": 428,
+    "stockLevel": "in-stock",
+    "price": 8.33,
+    "color": {
+      "name": "White"
+    },
+    "size": "L",
+    "imageRefs": [
+      7
+    ]
+  },
+  {
+    "contentKey": "1e0d3f5d8af9925d",
+    "supplierVariantId": "S02087-OR-L",
+    "stock": 430,
+    "stockLevel": "in-stock",
+    "price": 8.85,
+    "color": {
+      "name": "Orange"
+    },
+    "size": "L",
+    "imageRefs": [
+      4
+    ]
+  },
+  {
+    "contentKey": "1f9c2deb8a4bfdab",
+    "supplierVariantId": "S02087-BO-XL",
+    "stock": 307,
+    "stockLevel": "in-stock",
+    "price": 8.85,
+    "color": {
+      "name": "Bottle Green"
+    },
+    "size": "XL",
+    "imageRefs": [
+      8
+    ]
+  },
+  {
+    "contentKey": "238a80cff3fef2a2",
+    "supplierVariantId": "S02087-BO-XXL",
+    "stock": 200,
+    "stockLevel": "in-stock",
+    "price": 8.85,
+    "color": {
+      "name": "Bottle Green"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      8
+    ]
+  },
+  {
+    "contentKey": "279fe8706bbfb652",
+    "supplierVariantId": "S02087-CE-M",
+    "stock": 484,
+    "stockLevel": "in-stock",
+    "price": 8.85,
+    "color": {
+      "name": "Charcoal Melange"
+    },
+    "size": "M",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "3111955d15987120",
+    "supplierVariantId": "S02087-WH-S",
+    "stock": 200,
+    "stockLevel": "in-stock",
+    "price": 8.33,
+    "color": {
+      "name": "White"
+    },
+    "size": "S",
+    "imageRefs": [
+      7
+    ]
+  },
+  {
+    "contentKey": "38045a15932e0697",
+    "supplierVariantId": "S02087-RD-S",
+    "stock": 103,
+    "stockLevel": "in-stock",
+    "price": 8.85,
+    "color": {
+      "name": "Red"
+    },
+    "size": "S",
+    "imageRefs": [
+      5
+    ]
+  },
+  {
+    "contentKey": "393624debe89a24f",
+    "supplierVariantId": "S02087-GY-L",
+    "stock": 836,
+    "stockLevel": "in-stock",
+    "price": 8.85,
+    "color": {
+      "name": "Grey Melange 2"
+    },
+    "size": "L",
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "3be05b5f53b6a1f8",
+    "supplierVariantId": "S02087-BO-3XL",
+    "stock": 60,
+    "stockLevel": "in-stock",
+    "price": 10.22,
+    "color": {
+      "name": "Bottle Green"
+    },
+    "size": "3XL",
+    "imageRefs": [
+      8
+    ]
+  },
+  {
+    "contentKey": "40101a107e616399",
+    "supplierVariantId": "S02087-CE-L",
+    "stock": 358,
+    "stockLevel": "in-stock",
+    "price": 8.85,
+    "color": {
+      "name": "Charcoal Melange"
+    },
+    "size": "L",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "42418a27312e267c",
+    "supplierVariantId": "S02087-GY-XXL",
+    "stock": 82,
+    "stockLevel": "in-stock",
+    "price": 8.85,
+    "color": {
+      "name": "Grey Melange 2"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "4255a31eb72a847b",
+    "supplierVariantId": "S02087-CE-XXL",
+    "stock": 206,
+    "stockLevel": "in-stock",
+    "price": 8.85,
+    "color": {
+      "name": "Charcoal Melange"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "489837e0d4de20d6",
+    "supplierVariantId": "S02087-CE-XL",
+    "stock": 153,
+    "stockLevel": "in-stock",
+    "price": 8.85,
+    "color": {
+      "name": "Charcoal Melange"
+    },
+    "size": "XL",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "48faf42c94342c11",
+    "supplierVariantId": "S02087-GY-4XL",
+    "stock": 140,
+    "stockLevel": "in-stock",
+    "price": 12.23,
+    "color": {
+      "name": "Grey Melange 2"
+    },
+    "size": "4XL",
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "4f53a7510bf98ca8",
+    "supplierVariantId": "S02087-GY-S",
+    "stock": 179,
+    "stockLevel": "in-stock",
+    "price": 8.85,
+    "color": {
+      "name": "Grey Melange 2"
+    },
+    "size": "S",
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "517456c2cbf7f820",
+    "supplierVariantId": "S02087-GY-M",
+    "stock": 401,
+    "stockLevel": "in-stock",
+    "price": 8.85,
+    "color": {
+      "name": "Grey Melange 2"
+    },
+    "size": "M",
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "604092d1d4582a9b",
+    "supplierVariantId": "S02087-BK-S",
+    "stock": 1072,
+    "stockLevel": "in-stock",
+    "price": 8.85,
+    "color": {
+      "name": "Black"
+    },
+    "size": "S",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "675a758cd37b3048",
+    "supplierVariantId": "S02087-RD-3XL",
+    "stock": 83,
+    "stockLevel": "in-stock",
+    "price": 10.22,
+    "color": {
+      "name": "Red"
+    },
+    "size": "3XL",
+    "imageRefs": [
+      5
+    ]
+  },
+  {
+    "contentKey": "67e85a48c20a5058",
+    "supplierVariantId": "S02087-RD-M",
+    "stock": 395,
+    "stockLevel": "in-stock",
+    "price": 8.85,
+    "color": {
+      "name": "Red"
+    },
+    "size": "M",
+    "imageRefs": [
+      5
+    ]
+  },
+  {
+    "contentKey": "6a58178a7d1a26b4",
+    "supplierVariantId": "S02087-WH-XL",
+    "stock": 416,
+    "stockLevel": "in-stock",
+    "price": 8.33,
+    "color": {
+      "name": "White"
+    },
+    "size": "XL",
+    "imageRefs": [
+      7
+    ]
+  },
+  {
+    "contentKey": "6bc08e2bc0b1436f",
+    "supplierVariantId": "S02087-RB-S",
+    "stock": 106,
+    "stockLevel": "in-stock",
+    "price": 8.85,
+    "color": {
+      "name": "Royal Blue"
+    },
+    "size": "S",
+    "imageRefs": [
+      6
+    ]
+  },
+  {
+    "contentKey": "6eaa10600ccf5fde",
+    "supplierVariantId": "S02087-RD-XL",
+    "stock": 230,
+    "stockLevel": "in-stock",
+    "price": 8.85,
+    "color": {
+      "name": "Red"
+    },
+    "size": "XL",
+    "imageRefs": [
+      5
+    ]
+  },
+  {
+    "contentKey": "741d2c0cb284610c",
+    "supplierVariantId": "S02087-FN-S",
+    "stock": 292,
+    "stockLevel": "in-stock",
+    "price": 8.85,
+    "color": {
+      "name": "French Navy"
+    },
+    "size": "S",
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "75d34698c2b759e9",
+    "supplierVariantId": "S02087-FN-XXL",
+    "stock": 1556,
+    "stockLevel": "in-stock",
+    "price": 8.85,
+    "color": {
+      "name": "French Navy"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "7bca7ab6aa2661a7",
+    "supplierVariantId": "S02087-RB-4XL",
+    "stock": 38,
+    "stockLevel": "in-stock",
+    "price": 12.23,
+    "color": {
+      "name": "Royal Blue"
+    },
+    "size": "4XL",
+    "imageRefs": [
+      6
+    ]
+  },
+  {
+    "contentKey": "872026f7e3c7c9a7",
+    "supplierVariantId": "S02087-OR-3XL",
+    "stock": 91,
+    "stockLevel": "in-stock",
+    "price": 10.22,
+    "color": {
+      "name": "Orange"
+    },
+    "size": "3XL",
+    "imageRefs": [
+      4
+    ]
+  },
+  {
+    "contentKey": "87ebeac4c109774b",
+    "supplierVariantId": "S02087-AG-4XL",
+    "stock": 47,
+    "stockLevel": "in-stock",
+    "price": 12.23,
+    "color": {
+      "name": "Apple Green"
+    },
+    "size": "4XL",
+    "imageRefs": [
+      9
+    ]
+  },
+  {
+    "contentKey": "8eb9f02c1b69974d",
+    "supplierVariantId": "S02087-FN-XL",
+    "stock": 3088,
+    "stockLevel": "in-stock",
+    "price": 8.85,
+    "color": {
+      "name": "French Navy"
+    },
+    "size": "XL",
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "930930aece6b7667",
+    "supplierVariantId": "S02087-WH-3XL",
+    "stock": 37,
+    "stockLevel": "in-stock",
+    "price": 9.71,
+    "color": {
+      "name": "White"
+    },
+    "size": "3XL",
+    "imageRefs": [
+      7
+    ]
+  },
+  {
+    "contentKey": "932dfe3e7fde8fc9",
+    "supplierVariantId": "S02087-RD-XXL",
+    "stock": 104,
+    "stockLevel": "in-stock",
+    "price": 8.85,
+    "color": {
+      "name": "Red"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      5
+    ]
+  },
+  {
+    "contentKey": "97a5da98d6a18757",
+    "supplierVariantId": "S02087-RB-XXL",
+    "stock": 280,
+    "stockLevel": "in-stock",
+    "price": 8.85,
+    "color": {
+      "name": "Royal Blue"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      6
+    ]
+  },
+  {
+    "contentKey": "9b3e67be331c4317",
+    "supplierVariantId": "S02087-OR-XL",
+    "stock": 161,
+    "stockLevel": "in-stock",
+    "price": 8.85,
+    "color": {
+      "name": "Orange"
+    },
+    "size": "XL",
+    "imageRefs": [
+      4
+    ]
+  },
+  {
+    "contentKey": "9cf94c10bf8f3bbd",
+    "supplierVariantId": "S02087-AG-3XL",
+    "stock": 100,
+    "stockLevel": "in-stock",
+    "price": 10.22,
+    "color": {
+      "name": "Apple Green"
+    },
+    "size": "3XL",
+    "imageRefs": [
+      9
+    ]
+  },
+  {
+    "contentKey": "9ef2c9d3c72448e9",
+    "supplierVariantId": "S02087-CE-S",
+    "stock": 123,
+    "stockLevel": "in-stock",
+    "price": 8.85,
+    "color": {
+      "name": "Charcoal Melange"
+    },
+    "size": "S",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "9f97b92088c7f196",
+    "supplierVariantId": "S02087-BO-4XL",
+    "stock": 20,
+    "stockLevel": "in-stock",
+    "price": 12.23,
+    "color": {
+      "name": "Bottle Green"
+    },
+    "size": "4XL",
+    "imageRefs": [
+      8
+    ]
+  },
+  {
+    "contentKey": "a36be75557a3e8b7",
+    "supplierVariantId": "S02087-FN-4XL",
+    "stock": 169,
+    "stockLevel": "in-stock",
+    "price": 12.23,
+    "color": {
+      "name": "French Navy"
+    },
+    "size": "4XL",
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "a56d0e82f62c6a2d",
+    "supplierVariantId": "S02087-BO-M",
+    "stock": 560,
+    "stockLevel": "in-stock",
+    "price": 8.85,
+    "color": {
+      "name": "Bottle Green"
+    },
+    "size": "M",
+    "imageRefs": [
+      8
+    ]
+  },
+  {
+    "contentKey": "a5e2f759449f8585",
+    "supplierVariantId": "S02087-GY-3XL",
+    "stock": 114,
+    "stockLevel": "in-stock",
+    "price": 10.22,
+    "color": {
+      "name": "Grey Melange 2"
+    },
+    "size": "3XL",
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "abc4c0ab3d307d73",
+    "supplierVariantId": "S02087-FN-3XL",
+    "stock": 209,
+    "stockLevel": "in-stock",
+    "price": 10.22,
+    "color": {
+      "name": "French Navy"
+    },
+    "size": "3XL",
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "abec37a674a39902",
+    "supplierVariantId": "S02087-AG-XXL",
+    "stock": 150,
+    "stockLevel": "in-stock",
+    "price": 8.85,
+    "color": {
+      "name": "Apple Green"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      9
+    ]
+  },
+  {
+    "contentKey": "b0f6b183944aa40a",
+    "supplierVariantId": "S02087-RD-L",
+    "stock": 360,
+    "stockLevel": "in-stock",
+    "price": 8.85,
+    "color": {
+      "name": "Red"
+    },
+    "size": "L",
+    "imageRefs": [
+      5
+    ]
+  },
+  {
+    "contentKey": "b5517d7cd616d617",
+    "supplierVariantId": "S02087-WH-4XL",
+    "stock": 94,
+    "stockLevel": "in-stock",
+    "price": 11.7,
+    "color": {
+      "name": "White"
+    },
+    "size": "4XL",
+    "imageRefs": [
+      7
+    ]
+  },
+  {
+    "contentKey": "bb20311d38aa952f",
+    "supplierVariantId": "S02087-BO-L",
+    "stock": 957,
+    "stockLevel": "in-stock",
+    "price": 8.85,
+    "color": {
+      "name": "Bottle Green"
+    },
+    "size": "L",
+    "imageRefs": [
+      8
+    ]
+  },
+  {
+    "contentKey": "c0f474ab2d863e63",
+    "supplierVariantId": "S02087-BK-XXL",
+    "stock": 631,
+    "stockLevel": "in-stock",
+    "price": 8.85,
+    "color": {
+      "name": "Black"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "c7ae41d1b505db48",
+    "supplierVariantId": "S02087-AG-S",
+    "stock": 97,
+    "stockLevel": "in-stock",
+    "price": 8.85,
+    "color": {
+      "name": "Apple Green"
+    },
+    "size": "S",
+    "imageRefs": [
+      9
+    ]
+  },
+  {
+    "contentKey": "c953b0af08e446b1",
+    "supplierVariantId": "S02087-WH-XXL",
+    "stock": 282,
+    "stockLevel": "in-stock",
+    "price": 8.33,
+    "color": {
+      "name": "White"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      7
+    ]
+  },
+  {
+    "contentKey": "cc7f2b5a0164f0cb",
+    "supplierVariantId": "S02087-BK-4XL",
+    "stock": 90,
+    "stockLevel": "in-stock",
+    "price": 12.23,
+    "color": {
+      "name": "Black"
+    },
+    "size": "4XL",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "d1fcb5c94577164e",
+    "supplierVariantId": "S02087-RB-XL",
+    "stock": 206,
+    "stockLevel": "in-stock",
+    "price": 8.85,
+    "color": {
+      "name": "Royal Blue"
+    },
+    "size": "XL",
+    "imageRefs": [
+      6
+    ]
+  },
+  {
+    "contentKey": "d3fcc2b487c93e4c",
+    "supplierVariantId": "S02087-RB-3XL",
+    "stock": 97,
+    "stockLevel": "in-stock",
+    "price": 10.22,
+    "color": {
+      "name": "Royal Blue"
+    },
+    "size": "3XL",
+    "imageRefs": [
+      6
+    ]
+  },
+  {
+    "contentKey": "d6b9e1bf2736c4f7",
+    "supplierVariantId": "S02087-BO-S",
+    "stock": 219,
+    "stockLevel": "in-stock",
+    "price": 8.85,
+    "color": {
+      "name": "Bottle Green"
+    },
+    "size": "S",
+    "imageRefs": [
+      8
+    ]
+  },
+  {
+    "contentKey": "d7836df1c62cd4d3",
+    "supplierVariantId": "S02087-WH-M",
+    "stock": 440,
+    "stockLevel": "in-stock",
+    "price": 8.33,
+    "color": {
+      "name": "White"
+    },
+    "size": "M",
+    "imageRefs": [
+      7
+    ]
+  },
+  {
+    "contentKey": "d8ced0c0cd1eb74b",
+    "supplierVariantId": "S02087-BK-M",
+    "stock": 1944,
+    "stockLevel": "in-stock",
+    "price": 8.85,
+    "color": {
+      "name": "Black"
+    },
+    "size": "M",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "db5915c3430b190a",
+    "supplierVariantId": "S02087-FN-M",
+    "stock": 1607,
+    "stockLevel": "in-stock",
+    "price": 8.85,
+    "color": {
+      "name": "French Navy"
+    },
+    "size": "M",
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "de7fbb8200d78e02",
+    "supplierVariantId": "S02087-BK-L",
+    "stock": 2035,
+    "stockLevel": "in-stock",
+    "price": 8.85,
+    "color": {
+      "name": "Black"
+    },
+    "size": "L",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "e500de1a98c56645",
+    "supplierVariantId": "S02087-OR-4XL",
+    "stock": 73,
+    "stockLevel": "in-stock",
+    "price": 12.23,
+    "color": {
+      "name": "Orange"
+    },
+    "size": "4XL",
+    "imageRefs": [
+      4
+    ]
+  },
+  {
+    "contentKey": "e5066b49a4d482ca",
+    "supplierVariantId": "S02087-AG-L",
+    "stock": 244,
+    "stockLevel": "in-stock",
+    "price": 8.85,
+    "color": {
+      "name": "Apple Green"
+    },
+    "size": "L",
+    "imageRefs": [
+      9
+    ]
+  },
+  {
+    "contentKey": "f5d6b19a0f2d390c",
+    "supplierVariantId": "S02087-CE-3XL",
+    "stock": 95,
+    "stockLevel": "in-stock",
+    "price": 10.22,
+    "color": {
+      "name": "Charcoal Melange"
+    },
+    "size": "3XL",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "f7213c78f84febee",
+    "supplierVariantId": "S02087-RB-M",
+    "stock": 395,
+    "stockLevel": "in-stock",
+    "price": 8.85,
+    "color": {
+      "name": "Royal Blue"
+    },
+    "size": "M",
+    "imageRefs": [
+      6
+    ]
+  },
+  {
+    "contentKey": "f7d9c940b8f0e4aa",
+    "supplierVariantId": "S02087-FN-L",
+    "stock": 10784,
+    "stockLevel": "in-stock",
+    "price": 8.85,
+    "color": {
+      "name": "French Navy"
+    },
+    "size": "L",
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "fc26df1f9329e5d5",
+    "supplierVariantId": "S02087-AG-M",
+    "stock": 300,
+    "stockLevel": "in-stock",
+    "price": 8.85,
+    "color": {
+      "name": "Apple Green"
+    },
+    "size": "M",
+    "imageRefs": [
+      9
+    ]
+  },
+  {
+    "contentKey": "fd30e1ddc1d40caf",
+    "supplierVariantId": "S02087-RD-4XL",
+    "stock": 142,
+    "stockLevel": "in-stock",
+    "price": 12.23,
+    "color": {
+      "name": "Red"
+    },
+    "size": "4XL",
+    "imageRefs": [
+      5
+    ]
+  },
+  {
+    "contentKey": "fe4b56f80c128a59",
+    "supplierVariantId": "S02087-OR-XXL",
+    "stock": 195,
+    "stockLevel": "in-stock",
+    "price": 8.85,
+    "color": {
+      "name": "Orange"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      4
+    ]
+  },
+  {
+    "contentKey": "ff7cb34054d127e5",
+    "supplierVariantId": "S02087-RB-L",
+    "stock": 299,
+    "stockLevel": "in-stock",
+    "price": 8.85,
+    "color": {
+      "name": "Royal Blue"
+    },
+    "size": "L",
+    "imageRefs": [
+      6
+    ]
+  },
+  {
+    "contentKey": "ffb67a01d041a41b",
+    "supplierVariantId": "S02087-CE-4XL",
+    "stock": 95,
+    "stockLevel": "in-stock",
+    "price": 12.23,
+    "color": {
+      "name": "Charcoal Melange"
+    },
+    "size": "4XL",
+    "imageRefs": [
+      1
+    ]
+  }
+]

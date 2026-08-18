@@ -1,0 +1,926 @@
+[
+  {
+    "contentKey": "0184e3e26301c4a5",
+    "supplierVariantId": "S04020-FG-XXL",
+    "stock": 67,
+    "stockLevel": "in-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Forest Green"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      9
+    ]
+  },
+  {
+    "contentKey": "079b5991efe3e6a7",
+    "supplierVariantId": "S04020-WW-L",
+    "stock": 140,
+    "stockLevel": "in-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Off-White"
+    },
+    "size": "L",
+    "imageRefs": [
+      10
+    ]
+  },
+  {
+    "contentKey": "0b4591ef1710ea90",
+    "supplierVariantId": "S04020-BK-L",
+    "stock": 17666,
+    "stockLevel": "in-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Black"
+    },
+    "size": "L",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "0c76f87e89eef1d8",
+    "supplierVariantId": "S04020-BK-XXL",
+    "stock": 3355,
+    "stockLevel": "in-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Black"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "0d9cb38cee0f4b05",
+    "supplierVariantId": "S04020-AR-L",
+    "stock": 5572,
+    "stockLevel": "in-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Army"
+    },
+    "size": "L",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "0ef55bcf94494f22",
+    "supplierVariantId": "S04020-CR-XL",
+    "stock": 2031,
+    "stockLevel": "in-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Charcoal Grey"
+    },
+    "size": "XL",
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "1a63570bb21fa416",
+    "supplierVariantId": "S04020-BG-3XL",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 18.06,
+    "color": {
+      "name": "Burgundy"
+    },
+    "size": "3XL",
+    "imageRefs": [
+      6
+    ]
+  },
+  {
+    "contentKey": "1fd0c75da852a7f6",
+    "supplierVariantId": "S04020-FN-XL",
+    "stock": 15571,
+    "stockLevel": "in-stock",
+    "price": 15.99,
+    "color": {
+      "name": "French Navy"
+    },
+    "size": "XL",
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "211d8de371312005",
+    "supplierVariantId": "S04020-CR-L",
+    "stock": 7714,
+    "stockLevel": "in-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Charcoal Grey"
+    },
+    "size": "L",
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "25e61a95feb44f08",
+    "supplierVariantId": "S04020-BK-S",
+    "stock": 4511,
+    "stockLevel": "in-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Black"
+    },
+    "size": "S",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "2b8f7b677390ce19",
+    "supplierVariantId": "S04020-BG-XXL",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Burgundy"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      6
+    ]
+  },
+  {
+    "contentKey": "33930d5e3853fcd3",
+    "supplierVariantId": "S04020-DM-XXL",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Denim"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      8
+    ]
+  },
+  {
+    "contentKey": "36dac2ee7e29ad0d",
+    "supplierVariantId": "S04020-RO-M",
+    "stock": 255,
+    "stockLevel": "in-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Rope"
+    },
+    "size": "M",
+    "imageRefs": [
+      4
+    ]
+  },
+  {
+    "contentKey": "385f606b9ce569db",
+    "supplierVariantId": "S04020-BK-3XL",
+    "stock": 504,
+    "stockLevel": "in-stock",
+    "price": 18.06,
+    "color": {
+      "name": "Black"
+    },
+    "size": "3XL",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "3c4b13412be86a95",
+    "supplierVariantId": "S04020-AR-XL",
+    "stock": 4481,
+    "stockLevel": "in-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Army"
+    },
+    "size": "XL",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "3dd3310e41de66cb",
+    "supplierVariantId": "S04020-FG-S",
+    "stock": 58,
+    "stockLevel": "in-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Forest Green"
+    },
+    "size": "S",
+    "imageRefs": [
+      9
+    ]
+  },
+  {
+    "contentKey": "41273bda3ab2195b",
+    "supplierVariantId": "S04020-WW-S",
+    "stock": 50,
+    "stockLevel": "in-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Off-White"
+    },
+    "size": "S",
+    "imageRefs": [
+      10
+    ]
+  },
+  {
+    "contentKey": "41c51650c95d1cb5",
+    "supplierVariantId": "S04020-FG-3XL",
+    "stock": 30,
+    "stockLevel": "in-stock",
+    "price": 18.06,
+    "color": {
+      "name": "Forest Green"
+    },
+    "size": "3XL",
+    "imageRefs": [
+      9
+    ]
+  },
+  {
+    "contentKey": "4558aa9f8254cccd",
+    "supplierVariantId": "S04020-AR-S",
+    "stock": 796,
+    "stockLevel": "in-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Army"
+    },
+    "size": "S",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "476c1688549021f1",
+    "supplierVariantId": "S04020-AR-3XL",
+    "stock": 102,
+    "stockLevel": "in-stock",
+    "price": 18.06,
+    "color": {
+      "name": "Army"
+    },
+    "size": "3XL",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "48dc973bf9607089",
+    "supplierVariantId": "S04020-BG-M",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Burgundy"
+    },
+    "size": "M",
+    "imageRefs": [
+      6
+    ]
+  },
+  {
+    "contentKey": "4a7f2b62c4feb317",
+    "supplierVariantId": "S04020-RO-3XL",
+    "stock": 50,
+    "stockLevel": "in-stock",
+    "price": 18.06,
+    "color": {
+      "name": "Rope"
+    },
+    "size": "3XL",
+    "imageRefs": [
+      4
+    ]
+  },
+  {
+    "contentKey": "4a9f2eb2a8d58f99",
+    "supplierVariantId": "S04020-RD-S",
+    "stock": 145,
+    "stockLevel": "in-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Red"
+    },
+    "size": "S",
+    "imageRefs": [
+      5
+    ]
+  },
+  {
+    "contentKey": "4ea983b27b2d2c8f",
+    "supplierVariantId": "S04020-DC-S",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Dark Chocolate"
+    },
+    "size": "S",
+    "imageRefs": [
+      7
+    ]
+  },
+  {
+    "contentKey": "50c66c2cf22ff500",
+    "supplierVariantId": "S04020-DC-3XL",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 18.06,
+    "color": {
+      "name": "Dark Chocolate"
+    },
+    "size": "3XL",
+    "imageRefs": [
+      7
+    ]
+  },
+  {
+    "contentKey": "63ccc2d5348dbabe",
+    "supplierVariantId": "S04020-FN-3XL",
+    "stock": 3096,
+    "stockLevel": "in-stock",
+    "price": 18.06,
+    "color": {
+      "name": "French Navy"
+    },
+    "size": "3XL",
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "66c1405ee6cd2791",
+    "supplierVariantId": "S04020-FG-M",
+    "stock": 146,
+    "stockLevel": "in-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Forest Green"
+    },
+    "size": "M",
+    "imageRefs": [
+      9
+    ]
+  },
+  {
+    "contentKey": "6b51fdff9cef4720",
+    "supplierVariantId": "S04020-DM-S",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Denim"
+    },
+    "size": "S",
+    "imageRefs": [
+      8
+    ]
+  },
+  {
+    "contentKey": "74ba6263e3c0abbc",
+    "supplierVariantId": "S04020-AR-M",
+    "stock": 4946,
+    "stockLevel": "in-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Army"
+    },
+    "size": "M",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "758ec96cfd63f543",
+    "supplierVariantId": "S04020-RD-XXL",
+    "stock": 96,
+    "stockLevel": "in-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Red"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      5
+    ]
+  },
+  {
+    "contentKey": "7bef12d45f636784",
+    "supplierVariantId": "S04020-RD-3XL",
+    "stock": 69,
+    "stockLevel": "in-stock",
+    "price": 18.06,
+    "color": {
+      "name": "Red"
+    },
+    "size": "3XL",
+    "imageRefs": [
+      5
+    ]
+  },
+  {
+    "contentKey": "871efcf3dc137187",
+    "supplierVariantId": "S04020-FN-L",
+    "stock": 21570,
+    "stockLevel": "in-stock",
+    "price": 15.99,
+    "color": {
+      "name": "French Navy"
+    },
+    "size": "L",
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "880b884bae18af86",
+    "supplierVariantId": "S04020-FG-L",
+    "stock": 183,
+    "stockLevel": "in-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Forest Green"
+    },
+    "size": "L",
+    "imageRefs": [
+      9
+    ]
+  },
+  {
+    "contentKey": "8fac080d4069022d",
+    "supplierVariantId": "S04020-RD-M",
+    "stock": 429,
+    "stockLevel": "in-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Red"
+    },
+    "size": "M",
+    "imageRefs": [
+      5
+    ]
+  },
+  {
+    "contentKey": "9f9a8d4902563724",
+    "supplierVariantId": "S04020-WW-XL",
+    "stock": 100,
+    "stockLevel": "in-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Off-White"
+    },
+    "size": "XL",
+    "imageRefs": [
+      10
+    ]
+  },
+  {
+    "contentKey": "a167c50785e638cc",
+    "supplierVariantId": "S04020-FN-XXL",
+    "stock": 6288,
+    "stockLevel": "in-stock",
+    "price": 15.99,
+    "color": {
+      "name": "French Navy"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "a7be0c1c299b6526",
+    "supplierVariantId": "S04020-DC-L",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Dark Chocolate"
+    },
+    "size": "L",
+    "imageRefs": [
+      7
+    ]
+  },
+  {
+    "contentKey": "a92d11695c0c7543",
+    "supplierVariantId": "S04020-CR-3XL",
+    "stock": 80,
+    "stockLevel": "in-stock",
+    "price": 18.06,
+    "color": {
+      "name": "Charcoal Grey"
+    },
+    "size": "3XL",
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "b17b2216a53b98d8",
+    "supplierVariantId": "S04020-CR-S",
+    "stock": 2269,
+    "stockLevel": "in-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Charcoal Grey"
+    },
+    "size": "S",
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "b3cabf8b1b2d5108",
+    "supplierVariantId": "S04020-CR-XXL",
+    "stock": 375,
+    "stockLevel": "in-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Charcoal Grey"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "ba8cb90ec79047ec",
+    "supplierVariantId": "S04020-RO-XXL",
+    "stock": 120,
+    "stockLevel": "in-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Rope"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      4
+    ]
+  },
+  {
+    "contentKey": "bf85a42d5fbe7cce",
+    "supplierVariantId": "S04020-DM-M",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Denim"
+    },
+    "size": "M",
+    "imageRefs": [
+      8
+    ]
+  },
+  {
+    "contentKey": "c30f70c13a5266cd",
+    "supplierVariantId": "S04020-RD-XL",
+    "stock": 324,
+    "stockLevel": "in-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Red"
+    },
+    "size": "XL",
+    "imageRefs": [
+      5
+    ]
+  },
+  {
+    "contentKey": "c3da6f53974b1236",
+    "supplierVariantId": "S04020-DM-L",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Denim"
+    },
+    "size": "L",
+    "imageRefs": [
+      8
+    ]
+  },
+  {
+    "contentKey": "c3ecfd6dbe9716f3",
+    "supplierVariantId": "S04020-WW-3XL",
+    "stock": 30,
+    "stockLevel": "in-stock",
+    "price": 18.06,
+    "color": {
+      "name": "Off-White"
+    },
+    "size": "3XL",
+    "imageRefs": [
+      10
+    ]
+  },
+  {
+    "contentKey": "c65095abb4d34e78",
+    "supplierVariantId": "S04020-BK-XL",
+    "stock": 4102,
+    "stockLevel": "in-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Black"
+    },
+    "size": "XL",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "c6fa22263077feaf",
+    "supplierVariantId": "S04020-DC-XL",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Dark Chocolate"
+    },
+    "size": "XL",
+    "imageRefs": [
+      7
+    ]
+  },
+  {
+    "contentKey": "c79dec2e2e7fcb2e",
+    "supplierVariantId": "S04020-BG-XL",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Burgundy"
+    },
+    "size": "XL",
+    "imageRefs": [
+      6
+    ]
+  },
+  {
+    "contentKey": "c7c0852a14e30310",
+    "supplierVariantId": "S04020-BK-M",
+    "stock": 11374,
+    "stockLevel": "in-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Black"
+    },
+    "size": "M",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "c9581431747325f8",
+    "supplierVariantId": "S04020-FN-S",
+    "stock": 7634,
+    "stockLevel": "in-stock",
+    "price": 15.99,
+    "color": {
+      "name": "French Navy"
+    },
+    "size": "S",
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "cc44f09a3ded4ae2",
+    "supplierVariantId": "S04020-DC-XXL",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Dark Chocolate"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      7
+    ]
+  },
+  {
+    "contentKey": "cd4ad8fd4fafe5ce",
+    "supplierVariantId": "S04020-RO-XL",
+    "stock": 230,
+    "stockLevel": "in-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Rope"
+    },
+    "size": "XL",
+    "imageRefs": [
+      4
+    ]
+  },
+  {
+    "contentKey": "d0f07d9ca7154ad3",
+    "supplierVariantId": "S04020-WW-XXL",
+    "stock": 50,
+    "stockLevel": "in-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Off-White"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      10
+    ]
+  },
+  {
+    "contentKey": "d6c52e1582e3a2af",
+    "supplierVariantId": "S04020-DM-XL",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Denim"
+    },
+    "size": "XL",
+    "imageRefs": [
+      8
+    ]
+  },
+  {
+    "contentKey": "d8203f978cc8caca",
+    "supplierVariantId": "S04020-FN-M",
+    "stock": 21087,
+    "stockLevel": "in-stock",
+    "price": 15.99,
+    "color": {
+      "name": "French Navy"
+    },
+    "size": "M",
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "e21d78958e24ff81",
+    "supplierVariantId": "S04020-FG-XL",
+    "stock": 125,
+    "stockLevel": "in-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Forest Green"
+    },
+    "size": "XL",
+    "imageRefs": [
+      9
+    ]
+  },
+  {
+    "contentKey": "e22f7207729aee31",
+    "supplierVariantId": "S04020-DM-3XL",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 18.06,
+    "color": {
+      "name": "Denim"
+    },
+    "size": "3XL",
+    "imageRefs": [
+      8
+    ]
+  },
+  {
+    "contentKey": "e7529485aa862f92",
+    "supplierVariantId": "S04020-DC-M",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Dark Chocolate"
+    },
+    "size": "M",
+    "imageRefs": [
+      7
+    ]
+  },
+  {
+    "contentKey": "e8482da9f5a5764a",
+    "supplierVariantId": "S04020-RO-L",
+    "stock": 335,
+    "stockLevel": "in-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Rope"
+    },
+    "size": "L",
+    "imageRefs": [
+      4
+    ]
+  },
+  {
+    "contentKey": "f1849dd2b73d6ed2",
+    "supplierVariantId": "S04020-WW-M",
+    "stock": 110,
+    "stockLevel": "in-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Off-White"
+    },
+    "size": "M",
+    "imageRefs": [
+      10
+    ]
+  },
+  {
+    "contentKey": "f46e58d1e79b007e",
+    "supplierVariantId": "S04020-BG-L",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Burgundy"
+    },
+    "size": "L",
+    "imageRefs": [
+      6
+    ]
+  },
+  {
+    "contentKey": "f62a22d756f3858a",
+    "supplierVariantId": "S04020-BG-S",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Burgundy"
+    },
+    "size": "S",
+    "imageRefs": [
+      6
+    ]
+  },
+  {
+    "contentKey": "f9eeb73c1493e3fe",
+    "supplierVariantId": "S04020-CR-M",
+    "stock": 5055,
+    "stockLevel": "in-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Charcoal Grey"
+    },
+    "size": "M",
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "fbb644b64e7b3473",
+    "supplierVariantId": "S04020-RD-L",
+    "stock": 531,
+    "stockLevel": "in-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Red"
+    },
+    "size": "L",
+    "imageRefs": [
+      5
+    ]
+  },
+  {
+    "contentKey": "fdab24dbb75b9ac3",
+    "supplierVariantId": "S04020-AR-XXL",
+    "stock": 1617,
+    "stockLevel": "in-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Army"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "fffc4aa5c0325d4f",
+    "supplierVariantId": "S04020-RO-S",
+    "stock": 110,
+    "stockLevel": "in-stock",
+    "price": 15.99,
+    "color": {
+      "name": "Rope"
+    },
+    "size": "S",
+    "imageRefs": [
+      4
+    ]
+  }
+]

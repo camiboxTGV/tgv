@@ -1,0 +1,54 @@
+[
+  {
+    "contentKey": "0e432ab26a75c029",
+    "supplierVariantId": "MO3131-03",
+    "stock": 19998,
+    "stockLevel": "in-stock",
+    "price": 0.9,
+    "color": {
+      "name": "Black"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "4f7559b687a81a12",
+    "supplierVariantId": "MO3131-01",
+    "stock": 19906,
+    "stockLevel": "in-stock",
+    "price": 0.9,
+    "color": {
+      "name": "Brown"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "b085b5dfa32ed02e",
+    "supplierVariantId": "MO3131-02",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.9,
+    "color": {
+      "name": "Burgundy"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "f6deeee73abe6dbc",
+    "supplierVariantId": "MO3131-85",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.9,
+    "color": {
+      "name": "French Navy"
+    },
+    "imageRefs": [
+      3
+    ]
+  }
+]

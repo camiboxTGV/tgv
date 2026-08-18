@@ -38,7 +38,7 @@
       "https://macma.ro/products/jpg/M/6181702_1.jpg",
       "https://macma.ro/products/jpg/M/6181702_2.jpg"
     ],
-    "fetchedAt": "2026-08-16T04:03:39.012Z",
+    "fetchedAt": "2026-08-18T13:15:05.027Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -142,7 +142,7 @@
       "https://macma.ro/products/jpg/M/6181809_2.jpg",
       "https://macma.ro/products/jpg/M/6181809_3.jpg"
     ],
-    "fetchedAt": "2026-08-16T04:03:39.012Z",
+    "fetchedAt": "2026-08-18T13:15:05.027Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -238,7 +238,7 @@
       "https://macma.ro/products/jpg/M/83531ma_2.jpg",
       "https://macma.ro/products/jpg/M/83531ma_3.jpg"
     ],
-    "fetchedAt": "2026-08-16T04:03:39.012Z",
+    "fetchedAt": "2026-08-18T13:15:05.027Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -292,6 +292,2965 @@
     "brand": "M-Collection",
     "weightGrams": 50,
     "descriptionLong": "The perfect gift bag for wine bottles. Thanks to the different prints, you´ll always find the right one for anyone. We will add a full colour label onto the bag for your logo.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo2147",
+    "name": "CHISAI",
+    "category": "bags/gift-bags",
+    "summary": "Small cotton gift bag140 gr/m²",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S1",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "130 × 180 mm"
+        ]
+      },
+      {
+        "code": "T1",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "130 × 180 mm"
+        ]
+      },
+      {
+        "code": "TD1",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "130 × 180 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "130 × 180 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO2147",
+    "supplierVariantIds": [
+      "MO2147-03",
+      "MO2147-05",
+      "MO2147-13",
+      "MO2147-37"
+    ],
+    "price": 0.55,
+    "priceFrom": false,
+    "stock": 39271,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo2147-03.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2147-05.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2147-13.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2147-37.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2147-03-open.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 4,
+    "colorCount": 4,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Beige"
+      },
+      {
+        "name": "Black"
+      },
+      {
+        "name": "Red"
+      },
+      {
+        "name": "Royal Blue"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "17X22CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Cotton"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "4202 9298"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "400"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 24,
+    "descriptionLong": "Small cotton gift or goodie bag with short handles. 140 gr/m².",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-mo2408",
+    "name": "FELTOTE",
+    "category": "bags/gift-bags",
+    "summary": "Small RPET felt gift bag",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S3",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "120 × 160 mm"
+        ]
+      },
+      {
+        "code": "T1",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "120 × 160 mm"
+        ]
+      },
+      {
+        "code": "TD1",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "120 × 160 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "120 × 160 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO2408",
+    "supplierVariantIds": [
+      "MO2408-03",
+      "MO2408-05",
+      "MO2408-09",
+      "MO2408-15"
+    ],
+    "price": 1.27,
+    "priceFrom": false,
+    "stock": 14496,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo2408-03.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2408-05.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2408-09.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2408-15.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2408-03-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2408-03-top.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2408-03-detail.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 4,
+    "colorCount": 4,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      },
+      {
+        "name": "Green"
+      },
+      {
+        "name": "Red"
+      },
+      {
+        "name": "Stone Grey"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "17X6X22CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "RPET"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "4202 9298"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "200"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 30,
+    "descriptionLong": "Small RPET felt gift or goodie bag with short handles and bottom gussets. Felt thickness: 1 mm.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-mo2617",
+    "name": "OKURIMONO",
+    "category": "bags/gift-bags",
+    "summary": "Small gift bag in RPET",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "140 × 160 mm"
+        ]
+      },
+      {
+        "code": "T1",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "140 × 160 mm"
+        ]
+      },
+      {
+        "code": "TD1",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "140 × 160 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "140 × 160 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO2617",
+    "supplierVariantIds": [
+      "MO2617-03",
+      "MO2617-04",
+      "MO2617-05",
+      "MO2617-06",
+      "MO2617-53"
+    ],
+    "price": 0.54,
+    "priceFrom": false,
+    "stock": 72735,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo2617-03.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2617-04.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2617-05.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2617-06.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2617-53.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2617-03-detail.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2617-03-picture1.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 5,
+    "colorCount": 5,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      },
+      {
+        "name": "Blue"
+      },
+      {
+        "name": "Ivory"
+      },
+      {
+        "name": "Red"
+      },
+      {
+        "name": "White"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "20X30CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "RPET"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "4202 9291"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "500"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 10,
+    "descriptionLong": "Small gift draw cord bag in RPET non-woven 80 gr/m². Size approx. 20x30 cm.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-mo2698",
+    "name": "LITAS",
+    "category": "bags/gift-bags",
+    "summary": "Small gift bag in RPET",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "140 × 160 mm"
+        ]
+      },
+      {
+        "code": "T1",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "140 × 160 mm"
+        ]
+      },
+      {
+        "code": "TD1",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "140 × 160 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "140 × 160 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO2698",
+    "supplierVariantIds": [
+      "MO2698-03",
+      "MO2698-04",
+      "MO2698-05",
+      "MO2698-06",
+      "MO2698-53"
+    ],
+    "price": 0.63,
+    "priceFrom": false,
+    "stock": 52327,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo2698-03.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2698-04.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2698-05.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2698-06.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2698-53.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2698-03-detail.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2698-03-picture1.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 5,
+    "colorCount": 5,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      },
+      {
+        "name": "Blue"
+      },
+      {
+        "name": "Ivory"
+      },
+      {
+        "name": "Red"
+      },
+      {
+        "name": "White"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "20X8X25CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "RPET"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "4202 9298"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "400"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 10,
+    "descriptionLong": "Small gift or goodie bag in RPET non-woven with short handles and gussets. 80 gr/m².",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-mo6172",
+    "name": "PAPER TONE S",
+    "category": "bags/gift-bags",
+    "summary": "Small Gift paper bag 90 gr/m²",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DL",
+        "label": "Digital label",
+        "labelRo": "Etichetă digitală",
+        "printSizes": [
+          "130 × 100 mm",
+          "130 × 70 mm"
+        ]
+      },
+      {
+        "code": "S1",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "130 × 100 mm",
+          "130 × 70 mm"
+        ]
+      },
+      {
+        "code": "T1",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "40 × 60 mm"
+        ]
+      },
+      {
+        "code": "TD1",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "40 × 60 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "40 × 60 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO6172",
+    "supplierVariantIds": [
+      "MO6172-03",
+      "MO6172-04",
+      "MO6172-05",
+      "MO6172-06",
+      "MO6172-09",
+      "MO6172-13"
+    ],
+    "price": 0.22,
+    "priceFrom": false,
+    "stock": 238432,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo6172-03.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6172-04.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6172-05.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6172-06.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6172-09.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6172-13.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6172-03-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6172-03c.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6172-03d.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6172-03-detail.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 6,
+    "colorCount": 6,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Beige"
+      },
+      {
+        "name": "Black"
+      },
+      {
+        "name": "Blue"
+      },
+      {
+        "name": "Green"
+      },
+      {
+        "name": "Red"
+      },
+      {
+        "name": "White"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "18X8X21 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Recycled Paper"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "PL"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "4819 4000"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "400"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 21,
+    "descriptionLong": "Small gift paper bag. A paper bag is a great way to present your gift. It is also convenient to use carrying items while shopping. 90 gr/m². FSC®-certified",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-mo6173",
+    "name": "PAPER TONE M",
+    "category": "bags/gift-bags",
+    "summary": "Medium Gift paper bag  90 gr/m²",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DL",
+        "label": "Digital label",
+        "labelRo": "Etichetă digitală",
+        "printSizes": [
+          "190 × 150 mm",
+          "190 × 200 mm"
+        ]
+      },
+      {
+        "code": "S1",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "190 × 150 mm",
+          "190 × 200 mm"
+        ]
+      },
+      {
+        "code": "T1",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "80 × 130 mm"
+        ]
+      },
+      {
+        "code": "TD1",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "80 × 130 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "80 × 130 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO6173",
+    "supplierVariantIds": [
+      "MO6173-03",
+      "MO6173-04",
+      "MO6173-05",
+      "MO6173-06",
+      "MO6173-09",
+      "MO6173-13"
+    ],
+    "price": 0.32,
+    "priceFrom": false,
+    "stock": 335971,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo6173-03.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6173-04.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6173-05.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6173-06.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6173-09.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6173-13.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6173-03-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6173-03-top.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6173-03d.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 6,
+    "colorCount": 6,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Beige"
+      },
+      {
+        "name": "Black"
+      },
+      {
+        "name": "Blue"
+      },
+      {
+        "name": "Green"
+      },
+      {
+        "name": "Red"
+      },
+      {
+        "name": "White"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "25X11X32 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Recycled Paper"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "PL"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "4819 4000"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "200"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 37,
+    "descriptionLong": "Medium gift paper bag. A paper bag is a great way to present your gift. It is also convenient to use carrying items while shopping. 90 gr/m². FSC®-certified",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-mo6174",
+    "name": "PAPER TONE L",
+    "category": "bags/gift-bags",
+    "summary": "Large Gift paper bag 90 gr/m²",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DL",
+        "label": "Digital label",
+        "labelRo": "Etichetă digitală",
+        "printSizes": [
+          "190 × 190 mm",
+          "190 × 240 mm"
+        ]
+      },
+      {
+        "code": "S1",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "190 × 190 mm",
+          "190 × 240 mm"
+        ]
+      },
+      {
+        "code": "T1",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "160 × 160 mm"
+        ]
+      },
+      {
+        "code": "TD1",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "160 × 160 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "160 × 160 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO6174",
+    "supplierVariantIds": [
+      "MO6174-03",
+      "MO6174-04",
+      "MO6174-05",
+      "MO6174-06",
+      "MO6174-09",
+      "MO6174-13"
+    ],
+    "price": 0.38,
+    "priceFrom": false,
+    "stock": 129899,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo6174-03.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6174-04.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6174-05.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6174-06.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6174-09.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6174-13.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6174-03-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6174-03c.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 6,
+    "colorCount": 6,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Beige"
+      },
+      {
+        "name": "Black"
+      },
+      {
+        "name": "Blue"
+      },
+      {
+        "name": "Green"
+      },
+      {
+        "name": "Red"
+      },
+      {
+        "name": "White"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "32X12X40 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Recycled Paper"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "PL"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "4819 4000"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "200"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 51,
+    "descriptionLong": "Large gift paper bag. A paper bag is a great way to present your gift. It is also convenient to use carrying items while shopping. 90 gr/m². FSC®-certified",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-mo6207",
+    "name": "BOX",
+    "category": "bags/gift-bags",
+    "summary": "Sublimation gift box for mugs",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "TS2",
+        "label": "Sublimation",
+        "labelRo": "Sublimare",
+        "printSizes": [
+          "101 × 96 mm",
+          "96 × 96 mm"
+        ]
+      },
+      {
+        "code": "TS4",
+        "label": "Sublimation",
+        "labelRo": "Sublimare",
+        "printSizes": [
+          "435 × 284 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO6207",
+    "supplierVariantIds": [
+      "MO6207-06"
+    ],
+    "price": 0.45,
+    "priceFrom": false,
+    "stock": 6741,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo6207-06.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6207-06c.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6207-06-open.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6207-06-print.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6207-06-ambiant.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6207-06-box.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "White"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "10,5X10X10 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Paper"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "4819 5000"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "600"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 29,
+    "descriptionLong": "Sublimation carton gift box for mugs. Item can only be ordered printed and in combination with a printed mug: MO8040, MO8422, MO9156, MO6118, MO6117, KC7062, MO6849, MO6208, MO6889, MO6849, MO6840, MO9243, MO9242, MO7344, MO9451, MO8831, MO8316, MO9244, MO8313, MO6600, MO6918, MO6873, MO9756, MO6460, MO6363, MO9719, MO6917, MO6553.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo6258",
+    "name": "CAMPO DI VINO",
+    "category": "bags/gift-bags",
+    "summary": "Jute wine bag for one bottle",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "50 × 250 mm"
+        ]
+      },
+      {
+        "code": "T1",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "50 × 90 mm"
+        ]
+      },
+      {
+        "code": "TD1",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "50 × 90 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "50 × 90 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO6258",
+    "supplierVariantIds": [
+      "MO6258-13"
+    ],
+    "price": 1.49,
+    "priceFrom": false,
+    "stock": 8814,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo6258-13.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6258-13-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6258-13-side.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6258-13-top.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6258-13-open.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6258-13-detail.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Beige"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "11X10X35CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Jute"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "IN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "4202 9298"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "50"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 90,
+    "descriptionLong": "Wine gift bag for one bottle in jute and 320 gr/m² canvas. Surprise someone special with a delicious wine. Presented in this high quality gift bag, your gift wil definitely be appreciated. Wine bottle is not included.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo6634",
+    "name": "AMBER SMALL",
+    "category": "bags/gift-bags",
+    "summary": "Small organic cotton gift bag",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "80 × 130 mm"
+        ]
+      },
+      {
+        "code": "T1",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "80 × 130 mm"
+        ]
+      },
+      {
+        "code": "TD1",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "80 × 130 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "80 × 130 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO6634",
+    "supplierVariantIds": [
+      "MO6634-13"
+    ],
+    "price": 0.9,
+    "priceFrom": false,
+    "stock": 3243,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo6634-13.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6634-13-side.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6634-13-top.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6634-13-print.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Beige"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "14X22 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Organic Cotton"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "6307 9098"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "400"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 13,
+    "descriptionLong": "Small gift draw cord in organic cotton. Size approx. 14x22 cm. 105 gr/m².",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo6635",
+    "name": "AMBER MEDIUM",
+    "category": "bags/gift-bags",
+    "summary": "Medium organic cotton gift bag",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "130 × 220 mm"
+        ]
+      },
+      {
+        "code": "T1",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "130 × 220 mm"
+        ]
+      },
+      {
+        "code": "TD1",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "130 × 220 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "130 × 220 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO6635",
+    "supplierVariantIds": [
+      "MO6635-13"
+    ],
+    "price": 1.27,
+    "priceFrom": false,
+    "stock": 10234,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo6635-13.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6635-13-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6635-13-side.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6635-13-top.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Beige"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "25X32 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Organic Cotton"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "6307 9098"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "400"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 26,
+    "descriptionLong": "Medium gift draw cord bag in organic cotton. Size approx.  25 x 32 cm. 105 gr/m².",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo6636",
+    "name": "AMBER LARGE",
+    "category": "bags/gift-bags",
+    "summary": "Large organic cotton gift bag",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "190 × 300 mm"
+        ]
+      },
+      {
+        "code": "T1",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "190 × 300 mm"
+        ]
+      },
+      {
+        "code": "TD1",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "190 × 300 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "190 × 300 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO6636",
+    "supplierVariantIds": [
+      "MO6636-13"
+    ],
+    "price": 1.64,
+    "priceFrom": false,
+    "stock": 2193,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo6636-13.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6636-13-side.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6636-13-top.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6636-13-print.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6636-13-detail.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Beige"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "30X47 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Organic Cotton"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "6307 9098"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "200"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 42,
+    "descriptionLong": "Large gift draw cord bag in organic cotton. Size approx. 30 x 47 cm. 105 gr/m².",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo6666",
+    "name": "HAKO",
+    "category": "bags/gift-bags",
+    "summary": "Gift card box",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DL",
+        "label": "Digital label",
+        "labelRo": "Etichetă digitală",
+        "printSizes": [
+          "110 × 80 mm",
+          "120 × 90 mm",
+          "70 × 30 mm"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "110 × 80 mm",
+          "120 × 90 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO6666",
+    "supplierVariantIds": [
+      "MO6666-03",
+      "MO6666-06"
+    ],
+    "price": 1.68,
+    "priceFrom": false,
+    "stock": 7217,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo6666-03.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6666-06.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6666-03-side.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6666-03-top.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6666-03-open.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6666-03-detail.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 2,
+    "colorCount": 2,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      },
+      {
+        "name": "White"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "13.5X10.5X2CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Paper"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "4819 5000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Ambalaj interior",
+        "value": "50"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "100"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 67,
+    "descriptionLong": "Gift card box with magnetic closure in kraft paper. 120 gr/m². Present a giftcard in style with this box. The magnetic closure makes it feel more luxurious and makes it even more fun to unpack the giftcard inside. FSC®-certified",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-mo8807",
+    "name": "PAPER SMALL",
+    "category": "bags/gift-bags",
+    "summary": "Gift paper bag small 150 gr/m²",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DL",
+        "label": "Digital label",
+        "labelRo": "Etichetă digitală",
+        "printSizes": [
+          "130 × 100 mm",
+          "130 × 150 mm"
+        ]
+      },
+      {
+        "code": "S1",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "130 × 100 mm",
+          "130 × 150 mm"
+        ]
+      },
+      {
+        "code": "T1",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "40 × 60 mm"
+        ]
+      },
+      {
+        "code": "TD1",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "40 × 60 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "40 × 60 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO8807",
+    "supplierVariantIds": [
+      "MO8807-13",
+      "MO8807-06"
+    ],
+    "price": 0.41,
+    "priceFrom": false,
+    "stock": 36484,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo8807-13.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo8807-06.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo8807-13a.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo8807-13-print.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 2,
+    "colorCount": 2,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Beige"
+      },
+      {
+        "name": "White"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "16X10X23CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Paper"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "4819 4000"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "200"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 24,
+    "descriptionLong": "Small Gift paper bag. 150 gr/m².",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-mo8808",
+    "name": "PAPER MEDIUM",
+    "category": "bags/gift-bags",
+    "summary": "Gift paper bag medium 150 gr/m²",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DL",
+        "label": "Digital label",
+        "labelRo": "Etichetă digitală",
+        "printSizes": [
+          "190 × 150 mm",
+          "190 × 200 mm"
+        ]
+      },
+      {
+        "code": "S1",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "190 × 150 mm",
+          "190 × 200 mm"
+        ]
+      },
+      {
+        "code": "T1",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "80 × 130 mm"
+        ]
+      },
+      {
+        "code": "TD1",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "80 × 130 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "80 × 130 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO8808",
+    "supplierVariantIds": [
+      "MO8808-13",
+      "MO8808-06"
+    ],
+    "price": 0.55,
+    "priceFrom": false,
+    "stock": 61818,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo8808-13.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo8808-06.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo8808-13a.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo8808-13b.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo8808-13-print.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 2,
+    "colorCount": 2,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Beige"
+      },
+      {
+        "name": "White"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "22X11X30CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Paper"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "4819 4000"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "100"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 35,
+    "descriptionLong": "Medium Gift recycled paper bag. 150 gr/m².",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-mo8809",
+    "name": "PAPER LARGE",
+    "category": "bags/gift-bags",
+    "summary": "Gift paper bag large 150 gr/m²",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "DL",
+        "label": "Digital label",
+        "labelRo": "Etichetă digitală",
+        "printSizes": [
+          "190 × 190 mm",
+          "190 × 240 mm"
+        ]
+      },
+      {
+        "code": "S1",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "190 × 190 mm",
+          "190 × 240 mm"
+        ]
+      },
+      {
+        "code": "T1",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "160 × 160 mm"
+        ]
+      },
+      {
+        "code": "TD1",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "160 × 160 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "160 × 160 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO8809",
+    "supplierVariantIds": [
+      "MO8809-13",
+      "MO8809-06"
+    ],
+    "price": 0.57,
+    "priceFrom": false,
+    "stock": 3128,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo8809-13.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo8809-06.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo8809-13a.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo8809-13-print.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 2,
+    "colorCount": 2,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Beige"
+      },
+      {
+        "name": "White"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "26X11X36CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Paper"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "4819 4000"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "100"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 46,
+    "descriptionLong": "Large Gift paper bag. 150 gr/m².",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "midocean-mo9728",
+    "name": "TASKE SMALL",
+    "category": "bags/gift-bags",
+    "summary": "Small Cotton draw cord bag",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "80 × 130 mm"
+        ]
+      },
+      {
+        "code": "T1",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "80 × 130 mm"
+        ]
+      },
+      {
+        "code": "TD1",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "80 × 130 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "80 × 130 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO9728",
+    "supplierVariantIds": [
+      "MO9728-13"
+    ],
+    "price": 0.6,
+    "priceFrom": false,
+    "stock": 11802,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo9728-13.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo9728-13-open.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo9728-13-print.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Beige"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "14X22 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Cotton"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "6307 9098"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "400"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 12,
+    "descriptionLong": "Small gift cotton draw cord bag. Size approx. 14 x 22cm. 105 gr/m².",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo9729",
+    "name": "TASKE SMALL",
+    "category": "bags/gift-bags",
+    "summary": "Small Cotton draw cord bag",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "80 × 130 mm"
+        ]
+      },
+      {
+        "code": "T1",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "80 × 130 mm"
+        ]
+      },
+      {
+        "code": "TD1",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "80 × 130 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "80 × 130 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO9729",
+    "supplierVariantIds": [
+      "MO9729-03"
+    ],
+    "price": 0.8,
+    "priceFrom": false,
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo9729-03.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo9729-03-open.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "14X22 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Cotton"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "6307 9098"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "400"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 12,
+    "descriptionLong": "Small gift cotton draw cord bag. Size approx. 14 x 22cm. 105 gr/m².",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo9730",
+    "name": "TASKE MEDIUM",
+    "category": "bags/gift-bags",
+    "summary": "Medium Cotton draw cord bag",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "130 × 220 mm"
+        ]
+      },
+      {
+        "code": "T1",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "130 × 220 mm"
+        ]
+      },
+      {
+        "code": "TD1",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "130 × 220 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "130 × 220 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO9730",
+    "supplierVariantIds": [
+      "MO9730-13"
+    ],
+    "price": 0.93,
+    "priceFrom": false,
+    "stock": 6944,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo9730-13.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo9730-13-open.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo9730-13-print.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Beige"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "25X32 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Cotton"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "6307 9098"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "400"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 26,
+    "descriptionLong": "Medium gift cotton draw cord bag. Size approx. 25 x 32cm. 105 gr/m².",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo9731",
+    "name": "TASKE MEDIUM",
+    "category": "bags/gift-bags",
+    "summary": "Medium Cotton draw cord bag",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "130 × 220 mm"
+        ]
+      },
+      {
+        "code": "T1",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "130 × 220 mm"
+        ]
+      },
+      {
+        "code": "TD1",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "130 × 220 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "130 × 220 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO9731",
+    "supplierVariantIds": [
+      "MO9731-03"
+    ],
+    "price": 1.03,
+    "priceFrom": false,
+    "stock": 11424,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo9731-03.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo9731-03-open.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "25X32 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Cotton"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "6307 9098"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "400"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 26,
+    "descriptionLong": "Medium gift cotton draw cord bag. Size approx. 25 x 32cm. 105 gr/m².",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo9732",
+    "name": "TASKE LARGE",
+    "category": "bags/gift-bags",
+    "summary": "Large Cotton draw cord bag",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "190 × 300 mm"
+        ]
+      },
+      {
+        "code": "T1",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "190 × 300 mm"
+        ]
+      },
+      {
+        "code": "TD1",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "190 × 300 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "190 × 300 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO9732",
+    "supplierVariantIds": [
+      "MO9732-13"
+    ],
+    "price": 1.1,
+    "priceFrom": false,
+    "stock": 7236,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo9732-13.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo9732-13-open.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Beige"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "30X47 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Cotton"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "6307 9098"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "200"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 39,
+    "descriptionLong": "Large gift cotton draw cord bag. Size approx. 30 x 47cm. 105 gr/m².",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo9733",
+    "name": "TASKE LARGE",
+    "category": "bags/gift-bags",
+    "summary": "Large Cotton draw cord bag",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "190 × 300 mm"
+        ]
+      },
+      {
+        "code": "T1",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "190 × 300 mm"
+        ]
+      },
+      {
+        "code": "TD1",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "190 × 300 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "190 × 300 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO9733",
+    "supplierVariantIds": [
+      "MO9733-03"
+    ],
+    "price": 1.26,
+    "priceFrom": false,
+    "stock": 6358,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo9733-03.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo9733-03-open.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo9733-03-print.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "30X47 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Cotton"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "6307 9098"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "200"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 41,
+    "descriptionLong": "Large gift cotton draw cord bag. Size approx. 30 x 47cm. 105 gr/m².",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo9928",
+    "name": "JUTE SMALL",
+    "category": "bags/gift-bags",
+    "summary": "Small jute gift bag 14 x 22 cm",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
+    "personalizations": [
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "80 × 130 mm"
+        ]
+      },
+      {
+        "code": "TD1",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "80 × 130 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "80 × 130 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO9928",
+    "supplierVariantIds": [
+      "MO9928-13"
+    ],
+    "price": 0.65,
+    "priceFrom": false,
+    "stock": 34510,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo9928-13.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo9928-13-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo9928-13-print.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Beige"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "14X22 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Jute"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "IN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "6307 9098"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "500"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 28,
+    "descriptionLong": "Small gift jute draw cord bag. Size approx. 14 x 22cm.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo9929",
+    "name": "JUTE MEDIUM",
+    "category": "bags/gift-bags",
+    "summary": "Medium jute gift bag 25 x 32cm",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
+    "personalizations": [
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "130 × 220 mm"
+        ]
+      },
+      {
+        "code": "TD1",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "130 × 220 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "130 × 220 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO9929",
+    "supplierVariantIds": [
+      "MO9929-13"
+    ],
+    "price": 1.02,
+    "priceFrom": false,
+    "stock": 6169,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo9929-13.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo9929-13-back.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Beige"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "25X32 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Jute"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "IN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "6307 9098"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "200"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 53,
+    "descriptionLong": "Medium gift jute draw cord bag. Size approx. 25 x 32cm.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "midocean-mo9930",
+    "name": "JUTE LARGE",
+    "category": "bags/gift-bags",
+    "summary": "Large jute gift bag 30x47 cm",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T1",
+        "label": "Screen transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "180 × 350 mm"
+        ]
+      },
+      {
+        "code": "TD1",
+        "label": "Digital transfer",
+        "labelRo": "Transfer digital",
+        "printSizes": [
+          "180 × 350 mm"
+        ]
+      },
+      {
+        "code": "TR",
+        "label": "Transfer reflective",
+        "labelRo": "Transfer reflectorizant",
+        "printSizes": [
+          "180 × 350 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO9930",
+    "supplierVariantIds": [
+      "MO9930-13"
+    ],
+    "price": 1.59,
+    "priceFrom": false,
+    "stock": 10409,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo9930-13.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo9930-13-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo9930-13-print.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Beige"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "30X47 CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Jute"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "IN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "6307 9098"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "200"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 96,
+    "descriptionLong": "Large gift jute draw cord bag. Size approx. 30x47 cm.",
     "hasVariantDetail": false
   }
 ]

@@ -1,0 +1,119 @@
+[
+  {
+    "slug": "midocean-mo2866",
+    "name": "BEAD",
+    "category": "apparel-and-wearables/headwear/visors",
+    "summary": "7 panel flat visor cap",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "E",
+        "label": "Embroidery",
+        "labelRo": "Broderie",
+        "printSizes": [
+          "80 × 40 mm"
+        ]
+      },
+      {
+        "code": "S3",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "80 × 40 mm"
+        ]
+      }
+    ],
+    "supplierId": "midocean",
+    "supplierSku": "MO2866",
+    "supplierVariantIds": [
+      "MO2866-03",
+      "MO2866-06",
+      "MO2866-37",
+      "MO2866-85",
+      "MO2866-49"
+    ],
+    "price": 2.47,
+    "priceFrom": false,
+    "stock": 26824,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://cdn1.midocean.com/image/700X700/mo2866-03.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2866-06.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2866-37.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2866-85.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2866-49.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2866-03-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2866-03-side.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2866-03-top.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2866-03-ambiant.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo2866-03-detail.jpg"
+    ],
+    "fetchedAt": "2026-08-18T13:14:20.502Z",
+    "variantCount": 5,
+    "colorCount": 5,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Army Green"
+      },
+      {
+        "name": "Black"
+      },
+      {
+        "name": "French Navy"
+      },
+      {
+        "name": "Royal Blue"
+      },
+      {
+        "name": "White"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "22X16X11.5CM"
+      },
+      {
+        "key": "material",
+        "label": "Material",
+        "labelRo": "Material",
+        "value": "Cotton"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "6505 0030"
+      },
+      {
+        "key": "outer-carton",
+        "label": "Outer carton",
+        "labelRo": "Bax exterior",
+        "value": "200"
+      },
+      {
+        "key": "packaging-after-printing",
+        "label": "Packaging after printing",
+        "labelRo": "Ambalare după personalizare",
+        "value": "No Polybag"
+      }
+    ],
+    "brand": "midocean",
+    "weightGrams": 63,
+    "descriptionLong": "7 panel flat visor cap in cotton twill 235 gr/m² with polyester mesh backside and plastic closure.",
+    "hasVariantDetail": true
+  }
+]
