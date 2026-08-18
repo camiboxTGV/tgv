@@ -121,8 +121,8 @@
   {
     "contentKey": "399bf6eb61f8f23c",
     "supplierVariantId": "ST9020-BLO-M",
-    "stock": 24,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 5.15,
     "color": {
       "name": "Black Opal",
@@ -314,7 +314,7 @@
   {
     "contentKey": "8723cf554442b1e9",
     "supplierVariantId": "ST9020-WHI-XL",
-    "stock": 360,
+    "stock": 336,
     "stockLevel": "in-stock",
     "price": 4.63,
     "color": {
@@ -624,7 +624,7 @@
   {
     "contentKey": "fc423bd2abb1f59c",
     "supplierVariantId": "ST9020-WHI-M",
-    "stock": 816,
+    "stock": 792,
     "stockLevel": "in-stock",
     "price": 4.63,
     "color": {
