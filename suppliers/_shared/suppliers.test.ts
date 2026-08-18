@@ -321,6 +321,38 @@ test("partial supplier writes are refused but partial dry-runs are allowed", asy
   })
 })
 
+test("empty supplier categories enter the review queue instead of a fake product leaf", async () => {
+  await withTempRepo(async (repoRoot) => {
+    const raw = product("macma", "EMPTY-CATEGORY", "")
+    const report = await runSync({
+      repoRoot,
+      adapters: [adapter("macma", [raw])],
+      skipImages: true,
+      force: true,
+    })
+
+    assert.equal(report.totalProducts, 0)
+    assert.equal(report.totalUnclassified, 1)
+    assert.equal(report.suppliers.macma?.normalized, 0)
+    assert.equal(report.suppliers.macma?.unclassified, 1)
+    assert.deepEqual(report.suppliers.macma?.newUnmappedCategories, [
+      { category: "(empty supplier category)", count: 1 },
+    ])
+
+    const queued = JSON.parse(
+      await readFile(join(repoRoot, "lib/content/generated/unclassified.json"), "utf8"),
+    ) as Array<{ supplierSku: string; category: string }>
+    assert.deepEqual(
+      queued.map(({ supplierSku, category }) => ({ supplierSku, category })),
+      [{ supplierSku: "EMPTY-CATEGORY", category: "unclassified" }],
+    )
+    await assert.rejects(
+      readFile(join(repoRoot, "lib/content/generated/products/unclassified.json"), "utf8"),
+      /ENOENT/,
+    )
+  })
+})
+
 test("supplier image URLs and duplicate SKUs are validated before publishing", async () => {
   await withTempRepo(async (repoRoot) => {
     const invalid = product("macma", "DUP")
