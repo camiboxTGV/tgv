@@ -35,8 +35,8 @@
   {
     "contentKey": "234bbb0845d22025",
     "supplierVariantId": "SO03575RO-XS",
-    "stock": 600,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 2.49,
     "color": {
       "name": "Royal Blue",
@@ -120,7 +120,7 @@
   {
     "contentKey": "99ec7cce6e03691f",
     "supplierVariantId": "SO03575BL-L",
-    "stock": 2253,
+    "stock": 2255,
     "stockLevel": "in-stock",
     "price": 6.76,
     "color": {
