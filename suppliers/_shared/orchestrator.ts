@@ -243,8 +243,8 @@ async function runOneAdapter(
         variantsBySlug.set(result.product.slug, result.variants)
       }
 
-      if (result.unclassifiedCategory) {
-        const key = result.unclassifiedCategory
+      if (!result.slugPath) {
+        const key = result.unclassifiedCategory?.trim() || "(empty supplier category)"
         unmappedCounts.set(key, (unmappedCounts.get(key) ?? 0) + 1)
         unclassified.push(result.product)
         summary.unclassified++

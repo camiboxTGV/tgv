@@ -127,7 +127,7 @@ export function normalize(
   raw: RawProduct,
   adapter: SupplierAdapter,
 ): NormalizeResult {
-  const slugPath = adapter.mapCategory(raw)
+  const slugPath = adapter.mapCategory(raw)?.trim() || null
   const personalizations = dedupePersonalizations(adapter.mapPersonalizations(raw))
   const slug = productSlug(raw.supplierId, raw.supplierSku)
   const displayPrice = applyMarkup(raw.supplierPriceEur)
