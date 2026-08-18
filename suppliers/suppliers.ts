@@ -44,6 +44,21 @@ export const supplierDefinitions = [
     ],
     loadAdapter: () => import("./macma/adapter.ts"),
   },
+  {
+    id: "midocean",
+    displayName: "midocean",
+    enabled: true,
+    allowProductsWithoutImages: false,
+    imageSources: [
+      {
+        protocol: "https",
+        hostname: "cdn1.midocean.com",
+        port: "",
+        pathnamePrefix: "/image/",
+      },
+    ],
+    loadAdapter: () => import("./midocean/adapter.ts"),
+  },
 ] as const satisfies readonly SupplierDefinition[]
 
 export const supplierImageRemotePatterns = supplierDefinitions.flatMap((supplier) =>

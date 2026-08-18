@@ -6,11 +6,11 @@ This repo ships to **Firebase App Hosting**. Pushing to `main` triggers an autom
 
 **Before pushing the first commit with the supplier pipeline:**
 
-1. **Verify the GitHub secret** for Macma credentials.
+1. **Verify the GitHub secrets** for supplier credentials.
    - Repo → Settings → Secrets and variables → Actions
-   - Secret name: `MACMA_API_BASE`
-   - Value: `https://macma.ro/api/v2/<token>/en` (no trailing slash)
-   - Used only by the daily `Catalog sync` workflow; Firebase never sees it.
+   - `MACMA_API_BASE`: `https://macma.ro/api/v2/<token>/en` (no trailing slash)
+   - `MIDOCEAN_API_KEY`: the midocean gateway API key
+   - These are used only by the `Catalog data sync` workflow; Firebase never sees them.
 
 2. **Confirm the Firebase backend** is linked to `main` on this repo.
    - Firebase console → App Hosting → your backend → Settings → Repository
@@ -24,14 +24,14 @@ This repo ships to **Firebase App Hosting**. Pushing to `main` triggers an autom
 ## What auto-deploys on push
 
 - Every push to `main` → Firebase App Hosting build → deploy.
-- The build reads `lib/content/generated/**` straight from the repo. No Macma API access needed during deploy.
+- The build reads `lib/content/generated/**` straight from the repo. No supplier API access is needed during deploy.
 
 ## What the daily GitHub Action does
 
-- Runs at 03:00 UTC.
-- Fetches fresh data from Macma, re-runs the full sync pipeline, commits changes to `main` if anything moved.
+- Runs at 03:17 UTC: inventory-only Monday-Saturday and a full catalog refresh on Sunday.
+- Fetches fresh data from every enabled supplier, commits generated changes to `main` if anything moved.
 - That commit triggers a Firebase deploy automatically — no human in the loop.
-- Manual trigger: Actions tab → "Catalog sync" → "Run workflow".
+- Manual trigger: Actions tab → "Catalog data sync" → "Run workflow".
 
 ## Image handling in production
 
@@ -51,20 +51,15 @@ This repo ships to **Firebase App Hosting**. Pushing to `main` triggers an autom
 - **A product category JSON file referencing a supplier slug that doesn't exist** (removed mid-sync) → 404s on detail pages but build stays green. The 50% deletion guard in the orchestrator prevents this catastrophically.
 - **A new category added to `lib/content/categories.ts` without corresponding generated products** → the category renders "No products in this category yet", which is fine.
 - **TypeScript errors** → build fails. Always `npm run build` locally before pushing.
-- **A supplier image domain missing from the strict supplier allowlist** → the proxy returns 403. Add the supplier through `suppliers/_shared/suppliers.ts`; its generated allowlist is shared by catalog sync and image delivery.
+- **A supplier image domain missing from the strict supplier allowlist** → the proxy returns 403. Add the supplier through `suppliers/suppliers.ts`; its generated allowlist is shared by catalog sync and image delivery.
 
 ## Secrets summary
 
 | Secret | Lives in | Used by |
 |---|---|---|
 | `MACMA_API_BASE` | GitHub repo secrets | `.github/workflows/sync-catalog.yml` |
+| `MIDOCEAN_API_KEY` | GitHub repo secrets | `.github/workflows/sync-catalog.yml` |
 | (none currently) | Firebase App Hosting | — |
 
-## Current production footprint
-
-- ~2,210 static pages
-- 1,934 products (1,929 Macma + 5 fixtures)
-- 926 product-detail variant files
-- ~12 MB of committed generated JSON
-- Build time: ~8 s on a fast runner
-- Deploy time: ~2–3 min end-to-end (Firebase clone + install + build + warmup)
+The workflow summary and generated sync report are the source of truth for current per-supplier
+product totals and catalog size.

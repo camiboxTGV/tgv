@@ -73,11 +73,31 @@ test("supplier definitions generate the same strict image allowlist used by Next
       port: "",
       pathname: "/products/**",
     },
+    {
+      protocol: "https",
+      hostname: "cdn1.midocean.com",
+      port: "",
+      pathname: "/image/**",
+    },
   ])
   assert.equal(isSupplierImageUrlAllowed("macma", "https://macma.ro/products/a.jpg"), true)
   assert.equal(isSupplierImageUrlAllowed("macma", "http://macma.ro/products/a.jpg"), false)
   assert.equal(isSupplierImageUrlAllowed("macma", "https://other.test/products/a.jpg"), false)
   assert.equal(isSupplierImageUrlAllowed("macma", "https://macma.ro/private/a.jpg"), false)
+  assert.equal(
+    isSupplierImageUrlAllowed(
+      "midocean",
+      "https://cdn1.midocean.com/image/700X700/ar1249-16.jpg",
+    ),
+    true,
+  )
+  assert.equal(
+    isSupplierImageUrlAllowed(
+      "midocean",
+      "https://cdn1.midocean.com/document/ar1249-green.pdf",
+    ),
+    false,
+  )
 })
 
 test("Macma Romania codes keep exact supplier methods separate from calculator families", () => {

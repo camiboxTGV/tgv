@@ -3,6 +3,10 @@
 Every supplier is isolated by `supplierId` and `supplierSku`. Product slugs, variants, reports,
 and downloaded image paths use that pair, so two suppliers may safely use the same SKU.
 
+The enabled production suppliers are Macma and midocean. Their API clients, payload types,
+category and decoration mappings, fixtures, and tests live in separate supplier directories;
+only the shared adapter contract and sync orchestration are common.
+
 To add a supplier:
 
 1. Add its adapter under `suppliers/<id>/adapter.ts` using the `SupplierAdapter` contract.
@@ -42,9 +46,9 @@ same time on Sunday. Its concurrency group prevents overlapping writers. A commi
 when deployable catalog JSON changes, and Firebase App Hosting then deploys that commit from its
 configured live branch.
 
-Before publishing, the workflow validates the API secret, generated totals, unique supplier SKUs,
-Macma's exact personalization payload, and the F38 S2/DC/DT/DW regression canary. It then runs the
-test suite and a production build. Automated commits are restricted to
+Before publishing, the workflow validates every enabled supplier's API credentials, generated
+totals, unique supplier SKUs, Macma's exact personalization payload, and the F38 S2/DC/DT/DW
+regression canary. It then runs the test suite and a production build. Automated commits are restricted to
 `lib/content/generated/**`; if the build changes any other tracked source, or the target branch
 advances while the sync is running, the job fails instead of publishing data produced from stale
 code. Each run writes a GitHub step summary and retains its sync log and reports for 14 days.
