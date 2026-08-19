@@ -20,6 +20,7 @@ interface IndexedCatalogProduct {
   slug: string
   name: string
   supplierSku: string
+  supplierVariantIds: string[]
   category: string
   categoryLabel: string
   summary: string
@@ -79,10 +80,12 @@ function getFuse(): Fuse<IndexedCatalogProduct> {
       (method) => [method.code, method.label, method.labelRo ?? ""],
     )
     const brand = product.brand ?? ""
+    const supplierVariantIds = product.supplierVariantIds ?? []
     return {
       slug: product.slug,
       name: product.name,
       supplierSku: product.supplierSku,
+      supplierVariantIds,
       category: product.category,
       categoryLabel: label,
       summary: product.summary,
@@ -93,6 +96,7 @@ function getFuse(): Fuse<IndexedCatalogProduct> {
         [
           product.name,
           product.supplierSku,
+          ...supplierVariantIds,
           brand,
           label,
           product.summary,

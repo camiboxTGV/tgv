@@ -3,6 +3,7 @@ import type { IFuseOptions } from "fuse.js"
 export const FUSE_OPTIONS: IFuseOptions<unknown> = {
   keys: [
     { name: "supplierSku", weight: 0.32 },
+    { name: "supplierVariantIds", weight: 0.32 },
     { name: "name", weight: 0.32 },
     { name: "categoryLabel", weight: 0.09 },
     { name: "brand", weight: 0.08 },
