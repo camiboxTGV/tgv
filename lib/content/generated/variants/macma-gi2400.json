@@ -147,7 +147,7 @@
   {
     "contentKey": "0a668f16b5b70e58",
     "supplierVariantId": "GI2400WH-L",
-    "stock": 9275,
+    "stock": 9248,
     "stockLevel": "in-stock",
     "price": 5.4,
     "color": {
@@ -185,7 +185,7 @@
   {
     "contentKey": "0f3ea8f22c1c83bd",
     "supplierVariantId": "GI2400MA-L",
-    "stock": 1913,
+    "stock": 1912,
     "stockLevel": "in-stock",
     "price": 6.85,
     "color": {
@@ -276,7 +276,7 @@
   {
     "contentKey": "157067be168a72b1",
     "supplierVariantId": "GI2400DH-S",
-    "stock": 125,
+    "stock": 124,
     "stockLevel": "in-stock",
     "price": 6.85,
     "color": {
@@ -295,7 +295,7 @@
   {
     "contentKey": "198b9c05e5c2b300",
     "supplierVariantId": "GI2400CR-M",
-    "stock": 228,
+    "stock": 218,
     "stockLevel": "in-stock",
     "price": 6.85,
     "color": {
@@ -333,7 +333,7 @@
   {
     "contentKey": "1c18df4dfa5669e5",
     "supplierVariantId": "GI2400SFO-L",
-    "stock": 1166,
+    "stock": 1176,
     "stockLevel": "in-stock",
     "price": 6.85,
     "color": {
@@ -349,8 +349,8 @@
   {
     "contentKey": "1e2b42c34f33df3e",
     "supplierVariantId": "GI2400LP-L",
-    "stock": 54,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 6.85,
     "color": {
       "name": "Light Pink",
@@ -368,7 +368,7 @@
   {
     "contentKey": "20d4dcee9c272e5c",
     "supplierVariantId": "GI2400DH-L",
-    "stock": 89,
+    "stock": 88,
     "stockLevel": "in-stock",
     "price": 6.85,
     "color": {
@@ -444,7 +444,7 @@
   {
     "contentKey": "2b7a6b359b3587d3",
     "supplierVariantId": "GI2400SP-L",
-    "stock": 3044,
+    "stock": 3042,
     "stockLevel": "in-stock",
     "price": 6.85,
     "color": {
@@ -463,7 +463,7 @@
   {
     "contentKey": "36d21dc73157e70e",
     "supplierVariantId": "GI2400CR-L",
-    "stock": 164,
+    "stock": 144,
     "stockLevel": "in-stock",
     "price": 6.85,
     "color": {
@@ -482,7 +482,7 @@
   {
     "contentKey": "38a3ce0a4f680343",
     "supplierVariantId": "GI2400SFO-M",
-    "stock": 1389,
+    "stock": 1395,
     "stockLevel": "in-stock",
     "price": 6.85,
     "color": {
@@ -571,7 +571,7 @@
   {
     "contentKey": "40b3a7a721bfbbc8",
     "supplierVariantId": "GI2400BL-2XL",
-    "stock": 1964,
+    "stock": 1940,
     "stockLevel": "in-stock",
     "price": 6.85,
     "color": {
@@ -625,7 +625,7 @@
   {
     "contentKey": "4177093ff3e298b5",
     "supplierVariantId": "GI2400SFO-S",
-    "stock": 586,
+    "stock": 596,
     "stockLevel": "in-stock",
     "price": 6.85,
     "color": {
@@ -696,7 +696,7 @@
   {
     "contentKey": "455cbb341c7aebca",
     "supplierVariantId": "GI2400CRE-4XL",
-    "stock": 21,
+    "stock": 18,
     "stockLevel": "in-stock",
     "price": 4.16,
     "color": {
@@ -714,7 +714,7 @@
   {
     "contentKey": "45dbd2762094bf4f",
     "supplierVariantId": "GI2400SFG-M",
-    "stock": 561,
+    "stock": 560,
     "stockLevel": "in-stock",
     "price": 6.85,
     "color": {
@@ -934,7 +934,7 @@
   {
     "contentKey": "53e8f712695eec4d",
     "supplierVariantId": "GI2400MA-S",
-    "stock": 633,
+    "stock": 632,
     "stockLevel": "in-stock",
     "price": 6.85,
     "color": {
@@ -1029,7 +1029,7 @@
   {
     "contentKey": "608d5e3a3cfa876f",
     "supplierVariantId": "GI2400WH-XL",
-    "stock": 3749,
+    "stock": 3737,
     "stockLevel": "in-stock",
     "price": 5.4,
     "color": {
@@ -1067,7 +1067,7 @@
   {
     "contentKey": "67e51a1839d0fdb8",
     "supplierVariantId": "GI2400LB-M",
-    "stock": 1185,
+    "stock": 1184,
     "stockLevel": "in-stock",
     "price": 6.85,
     "color": {
@@ -1086,7 +1086,7 @@
   {
     "contentKey": "6ada6f941155e618",
     "supplierVariantId": "GI2400BL-XL",
-    "stock": 4620,
+    "stock": 4550,
     "stockLevel": "in-stock",
     "price": 6.85,
     "color": {
@@ -1105,8 +1105,8 @@
   {
     "contentKey": "6c2159e4f4e1bf59",
     "supplierVariantId": "GI2400LP-M",
-    "stock": 100,
-    "stockLevel": "in-stock",
+    "stock": 6,
+    "stockLevel": "low",
     "price": 6.85,
     "color": {
       "name": "Light Pink",
@@ -1124,7 +1124,7 @@
   {
     "contentKey": "6c8c6ac3b5b874fc",
     "supplierVariantId": "GI2400CR-XL",
-    "stock": 80,
+    "stock": 70,
     "stockLevel": "in-stock",
     "price": 6.85,
     "color": {
@@ -1181,7 +1181,7 @@
   {
     "contentKey": "7a3e5f9046c10a24",
     "supplierVariantId": "GI2400LP-S",
-    "stock": 103,
+    "stock": 48,
     "stockLevel": "in-stock",
     "price": 6.85,
     "color": {
@@ -1311,7 +1311,7 @@
   {
     "contentKey": "85d4fc82c7bc8691",
     "supplierVariantId": "GI2400BL-L",
-    "stock": 10199,
+    "stock": 10076,
     "stockLevel": "in-stock",
     "price": 6.85,
     "color": {
@@ -1439,7 +1439,7 @@
   {
     "contentKey": "8d1132f04473326b",
     "supplierVariantId": "GI2400MA-M",
-    "stock": 1282,
+    "stock": 1281,
     "stockLevel": "in-stock",
     "price": 6.85,
     "color": {
@@ -1568,7 +1568,7 @@
   {
     "contentKey": "938a9cd64c47b042",
     "supplierVariantId": "GI2400WH-M",
-    "stock": 2531,
+    "stock": 2519,
     "stockLevel": "in-stock",
     "price": 5.4,
     "color": {
@@ -1787,7 +1787,7 @@
   {
     "contentKey": "a36b714257d757be",
     "supplierVariantId": "GI2400SFO-2XL",
-    "stock": 453,
+    "stock": 449,
     "stockLevel": "in-stock",
     "price": 6.85,
     "color": {
@@ -1866,7 +1866,7 @@
   {
     "contentKey": "a4a8091acd60261b",
     "supplierVariantId": "GI2400CH-M",
-    "stock": 1182,
+    "stock": 1181,
     "stockLevel": "in-stock",
     "price": 6.85,
     "color": {
@@ -1885,7 +1885,7 @@
   {
     "contentKey": "adbbfab64af64d71",
     "supplierVariantId": "GI2400NV-L",
-    "stock": 7294,
+    "stock": 7293,
     "stockLevel": "in-stock",
     "price": 6.85,
     "color": {
@@ -1976,7 +1976,7 @@
   {
     "contentKey": "b601b196c9e6b7ec",
     "supplierVariantId": "GI2400BL-S",
-    "stock": 1574,
+    "stock": 1558,
     "stockLevel": "in-stock",
     "price": 6.85,
     "color": {
@@ -2014,7 +2014,7 @@
   {
     "contentKey": "b7c8f62343f7f9d2",
     "supplierVariantId": "GI2400NV-M",
-    "stock": 6067,
+    "stock": 6052,
     "stockLevel": "in-stock",
     "price": 6.85,
     "color": {
@@ -2071,7 +2071,7 @@
   {
     "contentKey": "bfc1a5238480ad19",
     "supplierVariantId": "GI2400FO-2XL",
-    "stock": 699,
+    "stock": 698,
     "stockLevel": "in-stock",
     "price": 6.85,
     "color": {
@@ -2164,7 +2164,7 @@
   {
     "contentKey": "c769432c539b462b",
     "supplierVariantId": "GI2400SP-S",
-    "stock": 831,
+    "stock": 828,
     "stockLevel": "in-stock",
     "price": 6.85,
     "color": {
@@ -2183,7 +2183,7 @@
   {
     "contentKey": "c8d3eae0e65c8bdb",
     "supplierVariantId": "GI2400CB-M",
-    "stock": 408,
+    "stock": 407,
     "stockLevel": "in-stock",
     "price": 6.85,
     "color": {
@@ -2297,7 +2297,7 @@
   {
     "contentKey": "d28f019ae8887f98",
     "supplierVariantId": "GI2400CH-XL",
-    "stock": 326,
+    "stock": 325,
     "stockLevel": "in-stock",
     "price": 6.85,
     "color": {
@@ -2316,7 +2316,7 @@
   {
     "contentKey": "d291559824c92d50",
     "supplierVariantId": "GI2400FO-XL",
-    "stock": 568,
+    "stock": 567,
     "stockLevel": "in-stock",
     "price": 6.85,
     "color": {
@@ -2354,7 +2354,7 @@
   {
     "contentKey": "d504189687b9c0e6",
     "supplierVariantId": "GI2400GO-L",
-    "stock": 194,
+    "stock": 193,
     "stockLevel": "in-stock",
     "price": 6.85,
     "color": {
@@ -2629,7 +2629,7 @@
   {
     "contentKey": "f6a86341e49e1c14",
     "supplierVariantId": "GI2400WH-S",
-    "stock": 1057,
+    "stock": 893,
     "stockLevel": "in-stock",
     "price": 5.4,
     "color": {
@@ -2667,7 +2667,7 @@
   {
     "contentKey": "fc8124236d64e03f",
     "supplierVariantId": "GI2400BL-M",
-    "stock": 12097,
+    "stock": 11987,
     "stockLevel": "in-stock",
     "price": 6.85,
     "color": {
@@ -2686,7 +2686,7 @@
   {
     "contentKey": "fe9df02e317c7048",
     "supplierVariantId": "GI2400LP-XL",
-    "stock": 499,
+    "stock": 470,
     "stockLevel": "in-stock",
     "price": 6.85,
     "color": {
@@ -2705,7 +2705,7 @@
   {
     "contentKey": "ff8c9c80b4796e71",
     "supplierVariantId": "GI2400LP-2XL",
-    "stock": 132,
+    "stock": 131,
     "stockLevel": "in-stock",
     "price": 6.85,
     "color": {

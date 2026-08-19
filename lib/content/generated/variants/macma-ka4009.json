@@ -155,7 +155,7 @@
   {
     "contentKey": "2473e86d52dd7f1d",
     "supplierVariantId": "KA4009SG-2XL",
-    "stock": 5,
+    "stock": 3,
     "stockLevel": "low",
     "price": 20.07,
     "color": {
@@ -170,8 +170,8 @@
   {
     "contentKey": "2473e86d52dd7f1d",
     "supplierVariantId": "KA4009SG-3XL",
-    "stock": 10,
-    "stockLevel": "in-stock",
+    "stock": 8,
+    "stockLevel": "low",
     "price": 20.07,
     "color": {
       "name": "Sage Green",
@@ -403,8 +403,8 @@
   {
     "contentKey": "9f23f95adad66364",
     "supplierVariantId": "KA4009SG-XL",
-    "stock": 4,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 20.07,
     "color": {
       "name": "Sage Green",
@@ -451,7 +451,7 @@
   {
     "contentKey": "bb2bc7d77815f0ed",
     "supplierVariantId": "KA4009BL-L",
-    "stock": 953,
+    "stock": 952,
     "stockLevel": "in-stock",
     "price": 20.07,
     "color": {

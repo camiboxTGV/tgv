@@ -15,8 +15,8 @@
   {
     "contentKey": "9b1239ec05acfb76",
     "supplierVariantId": "MO2780-66",
-    "stock": 3,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 7.97,
     "color": {
       "name": "Baby Blue"
@@ -28,7 +28,7 @@
   {
     "contentKey": "b5978bc52b38924e",
     "supplierVariantId": "MO2780-11",
-    "stock": 462,
+    "stock": 489,
     "stockLevel": "in-stock",
     "price": 7.97,
     "color": {
@@ -41,8 +41,8 @@
   {
     "contentKey": "f1ed52f50e584142",
     "supplierVariantId": "MO2780-06",
-    "stock": 0,
-    "stockLevel": "out-of-stock",
+    "stock": 50,
+    "stockLevel": "in-stock",
     "price": 7.97,
     "color": {
       "name": "White"
