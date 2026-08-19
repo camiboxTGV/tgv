@@ -561,3 +561,27 @@ test("inventory sync requires bindings and rejects suspiciously incomplete feeds
     )
   })
 })
+
+test("inventory fetch failures identify the isolated supplier", async () => {
+  await withTempRepo(async (repoRoot) => {
+    const bound = product("macma", "FAIL-CONTEXT")
+    bound.supplierVariantIds = ["FAIL-CONTEXT-A"]
+    await runSync({
+      repoRoot,
+      adapters: [adapter("macma", [bound])],
+      skipImages: true,
+      force: true,
+    })
+
+    const failingAdapter: SupplierAdapter = {
+      ...adapter("macma", []),
+      fetchInventory: async () => {
+        throw new DOMException("This operation was aborted", "AbortError")
+      },
+    }
+    await assert.rejects(
+      runInventorySync({ repoRoot, adapters: [failingAdapter] }),
+      /Supplier "macma" inventory fetch failed: AbortError: This operation was aborted/,
+    )
+  })
+})

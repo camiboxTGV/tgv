@@ -105,7 +105,15 @@ export async function runInventorySync(
   const snapshots = new Map<string, SupplierInventorySnapshot>()
   await Promise.all(
     active.map(async (adapter) => {
-      const snapshot = await adapter.fetchInventory!()
+      let snapshot: SupplierInventorySnapshot
+      try {
+        snapshot = await adapter.fetchInventory!()
+      } catch (error) {
+        const detail = error instanceof Error
+          ? `${error.name === "Error" ? "" : `${error.name}: `}${error.message}`
+          : String(error)
+        throw new Error(`Supplier "${adapter.id}" inventory fetch failed: ${detail}`)
+      }
       assertSnapshotCoverage(
         adapter,
         snapshot,
