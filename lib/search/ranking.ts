@@ -1,6 +1,7 @@
 export interface SearchRankFields {
   name: string
   supplierSku: string
+  supplierVariantIds?: string[]
   brand: string
   categoryLabel: string
   stockLevel: "in-stock" | "low" | "out-of-stock"
@@ -83,6 +84,7 @@ export function searchRelevanceScore(item: SearchRankFields, rawQuery: string): 
 
   const fields = [
     { value: item.supplierSku, weight: 0.8 },
+    { value: (item.supplierVariantIds ?? []).join(" "), weight: 0.8 },
     { value: item.name, weight: 0.8 },
     { value: item.brand, weight: 0.9 },
     { value: item.categoryLabel, weight: 1 },
@@ -101,13 +103,14 @@ export function searchPriority(item: SearchRankFields, rawQuery: string): number
 
   const queryCode = normalizeCode(rawQuery)
   const sku = normalizeCode(item.supplierSku)
+  const variantSkus = (item.supplierVariantIds ?? []).map(normalizeCode)
   const name = normalizeSearchText(item.name)
   const brand = normalizeSearchText(item.brand)
   const category = normalizeSearchText(item.categoryLabel)
 
-  if (sku === queryCode) return 0
+  if (sku === queryCode || variantSkus.includes(queryCode)) return 0
   if (name === query) return 1
-  if (sku.startsWith(queryCode)) return 2
+  if (sku.startsWith(queryCode) || variantSkus.some((code) => code.startsWith(queryCode))) return 2
   if (name.startsWith(query)) return 3
 
   const queryTokens = searchQueryTokens(query)

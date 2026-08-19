@@ -13,6 +13,7 @@ function item(overrides: Partial<SearchRankFields>): SearchRankFields {
   return {
     name: "Canvas shopping bag",
     supplierSku: "60058",
+    supplierVariantIds: ["60058-03", "60058-04"],
     brand: "Macma",
     categoryLabel: "Bags / Shopping bags / Cotton and canvas",
     stockLevel: "in-stock",
@@ -31,8 +32,10 @@ test("multi-word search tokens ignore filler words and remove duplicates", () =>
 
 test("exact SKU and exact name matches outrank prefixes and fuzzy matches", () => {
   assert.equal(searchPriority(item({ supplierSku: "60058" }), "60058"), 0)
+  assert.equal(searchPriority(item({}), "60058-03"), 0)
   assert.equal(searchPriority(item({ name: "Canvas shopping bag" }), "canvas shopping bag"), 1)
   assert.equal(searchPriority(item({ supplierSku: "60058-A" }), "60058"), 2)
+  assert.equal(searchPriority(item({}), "60058-0"), 2)
   assert.equal(searchPriority(item({ name: "Canvas shopping bag" }), "canvas"), 3)
 })
 
