@@ -10,6 +10,7 @@ import {
   type CategoryNode,
 } from "./categories"
 import type { CatalogProduct, ProductVariant } from "./catalog"
+import { filterCatalogStock } from "./catalog-stock"
 import {
   catalogImageProxyPath,
   catalogImageVersion,
@@ -18,14 +19,7 @@ import {
 
 const PRODUCTS_DIR = "lib/content/generated/products"
 const VARIANTS_DIR = "lib/content/generated/variants"
-const INDEX_FILE = "lib/content/generated/index.json"
 
-interface GeneratedIndex {
-  generatedAt: string
-  counts: Record<string, number>
-}
-
-let cachedIndex: GeneratedIndex | null = null
 const cachedCategories = new Map<string, CatalogProduct[]>()
 const cachedImageSources = new Map<
   string,
@@ -38,24 +32,13 @@ function repoRoot(): string {
   return process.cwd()
 }
 
-function loadIndex(): GeneratedIndex {
-  if (cachedIndex) return cachedIndex
-  try {
-    const txt = readFileSync(join(repoRoot(), INDEX_FILE), "utf8")
-    cachedIndex = JSON.parse(txt) as GeneratedIndex
-  } catch {
-    cachedIndex = { generatedAt: new Date(0).toISOString(), counts: {} }
-  }
-  return cachedIndex
-}
-
 function loadLeafProducts(slugPath: string): CatalogProduct[] {
   const cached = cachedCategories.get(slugPath)
   if (cached) return cached
   try {
     const txt = readFileSync(join(repoRoot(), PRODUCTS_DIR, `${slugPath}.json`), "utf8")
     const rawList = JSON.parse(txt) as CatalogProduct[]
-    const list = rawList.map((product) => {
+    const list = filterCatalogStock(rawList).map((product) => {
       const sourceUrls = [...product.images]
       cachedImageSources.set(product.slug, {
         supplierId: product.supplierId,
@@ -135,9 +118,8 @@ export function getCatalogImageSource(
 }
 
 export function countProductsUnder(node: CategoryNode, trail: string[] = []): number {
-  const index = loadIndex()
   const here = [...trail, node.slug]
-  if (isLeaf(node)) return index.counts[joinPath(here)] ?? 0
+  if (isLeaf(node)) return loadLeafProducts(joinPath(here)).length
   let total = 0
   for (const child of node.children ?? []) {
     total += countProductsUnder(child, here)
@@ -156,7 +138,7 @@ export function getProductVariants(slug: string): ProductVariant[] {
   if (hit) return hit
   try {
     const txt = readFileSync(join(repoRoot(), VARIANTS_DIR, `${slug}.json`), "utf8")
-    const list = JSON.parse(txt) as ProductVariant[]
+    const list = filterCatalogStock(JSON.parse(txt) as ProductVariant[])
     cachedVariants.set(slug, list)
     return list
   } catch {
