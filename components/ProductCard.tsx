@@ -6,6 +6,7 @@ import {
   PERSONALIZATION_LABELS,
   type CatalogProduct,
 } from "@/lib/content/catalog"
+import { catalogColourBackground } from "@/lib/content/catalog-colors"
 
 interface Props {
   product: CatalogProduct
@@ -165,9 +166,7 @@ function VariantSummary({
               title={c.name}
               className="inline-block w-4 h-4 rounded-full border border-[var(--border)]"
               style={{
-                background:
-                  c.hex ??
-                  "linear-gradient(135deg, #E2E1E8 0%, #C7C6CE 100%)",
+                background: catalogColourBackground(c.name, c.hex),
               }}
             />
           ))

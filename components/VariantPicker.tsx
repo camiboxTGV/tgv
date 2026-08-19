@@ -2,6 +2,7 @@
 
 import { useCallback, useEffect, useMemo, useState } from "react"
 import type { ProductVariant } from "@/lib/content/catalog"
+import { catalogColourBackground } from "@/lib/content/catalog-colors"
 import { useLanguage } from "@/components/LanguageProvider"
 
 interface Props {
@@ -194,7 +195,7 @@ export default function VariantPicker({
                       : "border-[var(--border)] hover:border-[var(--border-strong)]"
                   } ${!hasAnyInStock ? "opacity-40" : ""}`}
                   style={{
-                    background: hex ?? "linear-gradient(135deg, #E2E1E8 0%, #C7C6CE 100%)",
+                    background: catalogColourBackground(color, hex),
                   }}
                 >
                   {!hasAnyInStock ? (
