@@ -1,0 +1,83 @@
+[
+  {
+    "contentKey": "072acee0648ccaab",
+    "supplierVariantId": "10787-NE",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 2.1,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "68836b7739fc8b74",
+    "supplierVariantId": "10787-PI",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 2.1,
+    "color": {
+      "name": "Stone",
+      "hex": "#8B8C7A"
+    },
+    "imageRefs": [
+      12,
+      13
+    ]
+  },
+  {
+    "contentKey": "bda312dc73ea2a84",
+    "supplierVariantId": "10787-VE-MILITAR",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 2.1,
+    "imageRefs": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ]
+  },
+  {
+    "contentKey": "c7d8e0f9f0b5e302",
+    "supplierVariantId": "10787-BL",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 2.1,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "d7c5c90152fdc7ce",
+    "supplierVariantId": "10787-MA",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 2.1,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "imageRefs": [
+      4,
+      5
+    ]
+  }
+]

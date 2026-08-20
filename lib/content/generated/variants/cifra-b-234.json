@@ -1,0 +1,76 @@
+[
+  {
+    "contentKey": "07529be9594abdb5",
+    "supplierVariantId": "B-234-LI",
+    "stock": 2878,
+    "stockLevel": "in-stock",
+    "price": 0.29,
+    "color": {
+      "name": "Lilac",
+      "hex": "#C8A2C8"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "3f2ae1db228273ef",
+    "supplierVariantId": "B-234-RO",
+    "stock": 4792,
+    "stockLevel": "in-stock",
+    "price": 0.29,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "contentKey": "4e6e10294a5309fc",
+    "supplierVariantId": "B-234-VE",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.29,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "830f1e265d8bed8a",
+    "supplierVariantId": "B-234-RY",
+    "stock": 2198,
+    "stockLevel": "in-stock",
+    "price": 0.29,
+    "color": {
+      "name": "Royal",
+      "hex": "#2D3192"
+    },
+    "imageRefs": [
+      5,
+      6
+    ]
+  },
+  {
+    "contentKey": "b14fbe47595349b7",
+    "supplierVariantId": "B-234-HI",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.29,
+    "color": {
+      "name": "Glacial",
+      "hex": "#F2F2F2"
+    },
+    "imageRefs": [
+      0
+    ]
+  }
+]

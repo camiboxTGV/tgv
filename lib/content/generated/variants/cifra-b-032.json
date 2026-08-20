@@ -1,0 +1,47 @@
+[
+  {
+    "contentKey": "8f4d1ddd614cc269",
+    "supplierVariantId": "B-032-RS",
+    "stock": 6830,
+    "stockLevel": "in-stock",
+    "price": 0.11,
+    "color": {
+      "name": "Pink",
+      "hex": "#FF1493"
+    },
+    "imageRefs": [
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "b6b0090a605dd52c",
+    "supplierVariantId": "B-032-AM",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.11,
+    "color": {
+      "name": "Yellow",
+      "hex": "#FFFF00"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "e78d48e940fbc2b6",
+    "supplierVariantId": "B-032-NA",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.11,
+    "color": {
+      "name": "Orange",
+      "hex": "#FFA500"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  }
+]

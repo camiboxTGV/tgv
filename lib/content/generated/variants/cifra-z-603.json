@@ -1,0 +1,43 @@
+[
+  {
+    "contentKey": "0445c532183f8523",
+    "supplierVariantId": "Z-603-PT",
+    "stock": 950,
+    "stockLevel": "in-stock",
+    "price": 1.77,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "4bffd3e06a82d231",
+    "supplierVariantId": "Z-603-CO",
+    "stock": 122,
+    "stockLevel": "in-stock",
+    "price": 1.77,
+    "color": {
+      "name": "Colorines"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "dc44378201107678",
+    "supplierVariantId": "Z-603-OR",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 1.77,
+    "color": {
+      "name": "Gold",
+      "hex": "#FFD700"
+    },
+    "imageRefs": [
+      1
+    ]
+  }
+]

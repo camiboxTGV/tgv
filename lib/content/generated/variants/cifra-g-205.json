@@ -1,0 +1,71 @@
+[
+  {
+    "contentKey": "3ec2a8432d5b1d72",
+    "supplierVariantId": "G-205",
+    "stock": 15000,
+    "stockLevel": "in-stock",
+    "price": 1.38,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "contentKey": "5a57ca767133762d",
+    "supplierVariantId": "G-205-AM-FL",
+    "stock": 3734,
+    "stockLevel": "in-stock",
+    "price": 1.38,
+    "color": {
+      "name": "Yellow Fluor"
+    },
+    "imageRefs": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "contentKey": "b17c7a3d3e289daf",
+    "supplierVariantId": "G-205-AZ",
+    "stock": 6968,
+    "stockLevel": "in-stock",
+    "price": 1.38,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      10,
+      11,
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "contentKey": "dbfcd64ec9c1e05d",
+    "supplierVariantId": "G-205-NA-FL",
+    "stock": 1523,
+    "stockLevel": "in-stock",
+    "price": 1.38,
+    "color": {
+      "name": "Fluor Orange"
+    },
+    "imageRefs": [
+      15,
+      16,
+      17,
+      18
+    ]
+  }
+]

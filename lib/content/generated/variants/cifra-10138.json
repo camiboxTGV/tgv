@@ -1,0 +1,34 @@
+[
+  {
+    "contentKey": "1e97ff6a83e31222",
+    "supplierVariantId": "10138",
+    "stock": 15000,
+    "stockLevel": "in-stock",
+    "price": 0.32,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "880c7bb3583a3bf7",
+    "supplierVariantId": "10138-LI",
+    "stock": 8296,
+    "stockLevel": "in-stock",
+    "price": 0.32,
+    "color": {
+      "name": "Lilac",
+      "hex": "#C8A2C8"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  }
+]

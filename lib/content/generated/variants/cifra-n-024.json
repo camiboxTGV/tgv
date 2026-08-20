@@ -1,0 +1,26 @@
+[
+  {
+    "contentKey": "a5c7ef9767f90cdb",
+    "supplierVariantId": "N-024",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 0.8,
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "eaed242dd9aab527",
+    "supplierVariantId": "N-024-BL",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.8,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      1
+    ]
+  }
+]

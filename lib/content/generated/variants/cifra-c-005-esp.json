@@ -1,0 +1,46 @@
+[
+  {
+    "contentKey": "44e11504c953b7fe",
+    "supplierVariantId": "C-005-ESP",
+    "stock": 20162,
+    "stockLevel": "in-stock",
+    "price": 0.08,
+    "color": {
+      "name": "Spain Flag"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "b02b7f9ff99a39f2",
+    "supplierVariantId": "C-005-ESP-VE",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.08,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "e19f5e131269a64b",
+    "supplierVariantId": "C-005-ESP-MA",
+    "stock": 15000,
+    "stockLevel": "in-stock",
+    "price": 0.08,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  }
+]

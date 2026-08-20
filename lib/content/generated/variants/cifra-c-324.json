@@ -1,0 +1,40 @@
+[
+  {
+    "contentKey": "752fc52c852a83e5",
+    "supplierVariantId": "C-324-NE",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 12.29,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "ce51bb127536f2e4",
+    "supplierVariantId": "C-324-GR",
+    "stock": 71,
+    "stockLevel": "in-stock",
+    "price": 12.29,
+    "color": {
+      "name": "Gray",
+      "hex": "#808080"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  }
+]

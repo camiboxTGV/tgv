@@ -1,0 +1,86 @@
+[
+  {
+    "contentKey": "0ab69058608ce2f8",
+    "supplierVariantId": "C-037-RY",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.55,
+    "color": {
+      "name": "Royal",
+      "hex": "#2D3192"
+    },
+    "imageRefs": [
+      5
+    ]
+  },
+  {
+    "contentKey": "18b8b448406ebadf",
+    "supplierVariantId": "C-037-LI",
+    "stock": 3545,
+    "stockLevel": "in-stock",
+    "price": 0.55,
+    "color": {
+      "name": "Lilac",
+      "hex": "#C8A2C8"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "5aa1d935aaacb056",
+    "supplierVariantId": "C-037-PS",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.55,
+    "color": {
+      "name": "Pistachio",
+      "hex": "#93C572"
+    },
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "6ce8eeb8cee17f94",
+    "supplierVariantId": "C-037-RO",
+    "stock": 8000,
+    "stockLevel": "in-stock",
+    "price": 0.55,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      4
+    ]
+  },
+  {
+    "contentKey": "78c9bb580f83e424",
+    "supplierVariantId": "C-037-BL",
+    "stock": 8000,
+    "stockLevel": "in-stock",
+    "price": 0.55,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "e5d611961727a9f6",
+    "supplierVariantId": "C-037-NA",
+    "stock": 8000,
+    "stockLevel": "in-stock",
+    "price": 0.55,
+    "color": {
+      "name": "Orange",
+      "hex": "#FFA500"
+    },
+    "imageRefs": [
+      2
+    ]
+  }
+]

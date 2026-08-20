@@ -1,0 +1,32 @@
+[
+  {
+    "contentKey": "0ab8d21cf758f28d",
+    "supplierVariantId": "B-283-AZ",
+    "stock": 210,
+    "stockLevel": "in-stock",
+    "price": 0.38,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "0ad0875d5ec3ef46",
+    "supplierVariantId": "B-283-RS",
+    "stock": 719,
+    "stockLevel": "in-stock",
+    "price": 0.38,
+    "color": {
+      "name": "Pink",
+      "hex": "#FF1493"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "contentKey": "6ae229390e821a50",
+    "supplierVariantId": "P-026-RS",
+    "stock": 909,
+    "stockLevel": "in-stock",
+    "price": 1.26,
+    "color": {
+      "name": "Pink",
+      "hex": "#FF1493"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "798f4adf3e820d06",
+    "supplierVariantId": "P-026-CE",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 1.26,
+    "color": {
+      "name": "Light blue",
+      "hex": "#87CEEB"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  }
+]

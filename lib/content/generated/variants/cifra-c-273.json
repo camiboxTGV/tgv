@@ -1,0 +1,38 @@
+[
+  {
+    "contentKey": "677e7fd726428aac",
+    "supplierVariantId": "C-273-RO",
+    "stock": 2085,
+    "stockLevel": "in-stock",
+    "price": 1.68,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "contentKey": "f57ec505d8e3eae4",
+    "supplierVariantId": "C-273-VE",
+    "stock": 1060,
+    "stockLevel": "in-stock",
+    "price": 1.68,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  }
+]

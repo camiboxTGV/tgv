@@ -1,0 +1,130 @@
+[
+  {
+    "contentKey": "0bacf1bfaac3ec0f",
+    "supplierVariantId": "10104-MA",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 1.5,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "1f5b771c738a633c",
+    "supplierVariantId": "10104-RY",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 1.5,
+    "color": {
+      "name": "Royal",
+      "hex": "#2D3192"
+    },
+    "imageRefs": [
+      18,
+      19,
+      20
+    ]
+  },
+  {
+    "contentKey": "4b3eb093d38492a7",
+    "supplierVariantId": "10104-NA",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 1.5,
+    "color": {
+      "name": "Orange",
+      "hex": "#FFA500"
+    },
+    "imageRefs": [
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "5c6d10e275ba3cd4",
+    "supplierVariantId": "10104-CR",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 1.5,
+    "color": {
+      "name": "Beige",
+      "hex": "#C2B280"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "6bd2353b327cafa4",
+    "supplierVariantId": "10104-LI",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 1.5,
+    "color": {
+      "name": "Lilac",
+      "hex": "#C8A2C8"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "9d55a280282ae1b8",
+    "supplierVariantId": "10104-VE",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 1.5,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      21,
+      22,
+      23
+    ]
+  },
+  {
+    "contentKey": "c8b25a54c2b233be",
+    "supplierVariantId": "10104-RO",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 1.5,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      15,
+      16,
+      17
+    ]
+  },
+  {
+    "contentKey": "ef0c712cfe250d65",
+    "supplierVariantId": "10104-NE",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 1.5,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      12,
+      13,
+      14
+    ]
+  }
+]

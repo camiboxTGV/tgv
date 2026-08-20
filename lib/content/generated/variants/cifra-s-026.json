@@ -1,0 +1,53 @@
+[
+  {
+    "contentKey": "3add6d0506ad2801",
+    "supplierVariantId": "S-026-MA",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 2.25,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "e25224c9c1b1e4ea",
+    "supplierVariantId": "S-026-GR",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 2.25,
+    "color": {
+      "name": "Gray",
+      "hex": "#808080"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "ffaa51809f3fb7e7",
+    "supplierVariantId": "S-026-NE",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 2.25,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      8,
+      9,
+      10,
+      11
+    ]
+  }
+]

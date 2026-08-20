@@ -1,0 +1,50 @@
+[
+  {
+    "contentKey": "067a32816c3063b7",
+    "supplierVariantId": "Z-1961-NE-NE",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.83,
+    "color": {
+      "name": "Black / Black"
+    },
+    "imageRefs": [
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "contentKey": "af8352b3b11dcc09",
+    "supplierVariantId": "Z-1961-BL",
+    "stock": 1335,
+    "stockLevel": "in-stock",
+    "price": 0.83,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "cbd9c88f48cba39d",
+    "supplierVariantId": "Z-1961-NE",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 0.83,
+    "color": {
+      "name": "Black / Silver"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5,
+      6
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "contentKey": "50e6f14b20873a3d",
+    "supplierVariantId": "B-492-LI",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 0.62,
+    "color": {
+      "name": "Lilac",
+      "hex": "#C8A2C8"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "6bf3e63245721e91",
+    "supplierVariantId": "B-492-CAM",
+    "stock": 4000,
+    "stockLevel": "in-stock",
+    "price": 0.62,
+    "color": {
+      "name": "Camel",
+      "hex": "#C19A6B"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "93bf7b791a5f1e9c",
+    "supplierVariantId": "B-492-NE",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 0.62,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "bff36dcef1dcc58b",
+    "supplierVariantId": "B-492-MR",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 0.62,
+    "color": {
+      "name": "Brown",
+      "hex": "#800000"
+    },
+    "imageRefs": [
+      4,
+      5
+    ]
+  }
+]

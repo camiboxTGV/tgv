@@ -1,0 +1,59 @@
+[
+  {
+    "contentKey": "19e2079ff0090e0d",
+    "supplierVariantId": "RP-069-MA",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 7.06,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "285d3d9ee549ffd2",
+    "supplierVariantId": "RP-069-GR",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 7.06,
+    "color": {
+      "name": "Gray",
+      "hex": "#808080"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "d2c7fb2e306ae355",
+    "supplierVariantId": "RP-069-NE",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 7.06,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ]
+  }
+]

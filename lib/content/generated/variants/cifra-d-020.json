@@ -1,0 +1,103 @@
+[
+  {
+    "contentKey": "099209d86698aea5",
+    "supplierVariantId": "D-020-BU",
+    "stock": 3941,
+    "stockLevel": "in-stock",
+    "price": 0.15,
+    "color": {
+      "name": "Bordeaux",
+      "hex": "#5F021F"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "2e5d6f32863a419f",
+    "supplierVariantId": "D-020-MA",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.15,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "imageRefs": [
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "58896983b67195b0",
+    "supplierVariantId": "D-020-NE",
+    "stock": 15000,
+    "stockLevel": "in-stock",
+    "price": 0.15,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "5e8f302c3dec8092",
+    "supplierVariantId": "D-020-BE",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.15,
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "7f43052067f61b3f",
+    "supplierVariantId": "D-020-PT",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 0.15,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "imageRefs": [
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "c90615433297b50e",
+    "supplierVariantId": "D-020-TU",
+    "stock": 8603,
+    "stockLevel": "in-stock",
+    "price": 0.15,
+    "color": {
+      "name": "Turquoise",
+      "hex": "#40E0D0"
+    },
+    "imageRefs": [
+      12,
+      13
+    ]
+  },
+  {
+    "contentKey": "ef17f5c770952986",
+    "supplierVariantId": "D-020-PLOMO",
+    "stock": 12000,
+    "stockLevel": "in-stock",
+    "price": 0.15,
+    "color": {
+      "name": "Lead",
+      "hex": "#798081"
+    },
+    "imageRefs": [
+      8,
+      9
+    ]
+  }
+]

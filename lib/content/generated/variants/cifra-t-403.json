@@ -1,0 +1,89 @@
+[
+  {
+    "contentKey": "350dac3732228690",
+    "supplierVariantId": "T-403-RO",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.63,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      7
+    ]
+  },
+  {
+    "contentKey": "5ea392aade76802d",
+    "supplierVariantId": "T-403-NA",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.63,
+    "color": {
+      "name": "Orange",
+      "hex": "#FFA500"
+    },
+    "imageRefs": [
+      3,
+      4
+    ]
+  },
+  {
+    "contentKey": "8526b564c22ab77a",
+    "supplierVariantId": "T-403-VE",
+    "stock": 7000,
+    "stockLevel": "in-stock",
+    "price": 0.63,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      8
+    ]
+  },
+  {
+    "contentKey": "89293261452fcafd",
+    "supplierVariantId": "T-403-NE",
+    "stock": 7000,
+    "stockLevel": "in-stock",
+    "price": 0.63,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      5,
+      6
+    ]
+  },
+  {
+    "contentKey": "ba6def929afcb262",
+    "supplierVariantId": "T-403-AZ",
+    "stock": 7000,
+    "stockLevel": "in-stock",
+    "price": 0.63,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "e0e13a7bd52375f7",
+    "supplierVariantId": "T-403-LI",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.63,
+    "color": {
+      "name": "Lilac",
+      "hex": "#C8A2C8"
+    },
+    "imageRefs": [
+      1,
+      2
+    ]
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "contentKey": "025268dc0631282a",
+    "supplierVariantId": "10416-BU",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 1.59,
+    "color": {
+      "name": "Bordeaux",
+      "hex": "#5F021F"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "047e41358e27ccd3",
+    "supplierVariantId": "10416-AZ",
+    "stock": 2084,
+    "stockLevel": "in-stock",
+    "price": 1.59,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "ab42a42956662f16",
+    "supplierVariantId": "10416-NE",
+    "stock": 4498,
+    "stockLevel": "in-stock",
+    "price": 1.59,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ]
+  }
+]

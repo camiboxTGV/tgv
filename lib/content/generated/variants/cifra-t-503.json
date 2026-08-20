@@ -1,0 +1,92 @@
+[
+  {
+    "contentKey": "089e000ba571cc5b",
+    "supplierVariantId": "T-503-XL-RO",
+    "stock": 279,
+    "stockLevel": "in-stock",
+    "price": 3.47,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "size": "XL",
+    "imageRefs": [
+      12,
+      13,
+      14,
+      15
+    ]
+  },
+  {
+    "contentKey": "18f42d1a6cc1ba4d",
+    "supplierVariantId": "T-503-L-RO",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 3.47,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "size": "L",
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "819cff63a4245e3d",
+    "supplierVariantId": "T-503-M-RO",
+    "stock": 374,
+    "stockLevel": "in-stock",
+    "price": 3.47,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "size": "M",
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "c864a44b4f7db858",
+    "supplierVariantId": "T-503-XXL-RO",
+    "stock": 243,
+    "stockLevel": "in-stock",
+    "price": 3.47,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      16,
+      17,
+      18,
+      19
+    ]
+  },
+  {
+    "contentKey": "d3ec6a90859ea837",
+    "supplierVariantId": "T-503-S-RO",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 3.47,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "size": "S",
+    "imageRefs": [
+      8,
+      9,
+      10,
+      11
+    ]
+  }
+]

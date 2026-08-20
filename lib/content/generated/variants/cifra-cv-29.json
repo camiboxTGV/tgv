@@ -1,0 +1,92 @@
+[
+  {
+    "contentKey": "08a123967c48ff5c",
+    "supplierVariantId": "CV-29-RY",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 0.14,
+    "color": {
+      "name": "Royal",
+      "hex": "#2D3192"
+    },
+    "imageRefs": [
+      15,
+      16,
+      17,
+      18,
+      19
+    ]
+  },
+  {
+    "contentKey": "3b67d895a505aca1",
+    "supplierVariantId": "CV-29-RS",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 0.14,
+    "color": {
+      "name": "Pink",
+      "hex": "#FF1493"
+    },
+    "imageRefs": [
+      10,
+      11,
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "contentKey": "5a5dcf767ebdbf6d",
+    "supplierVariantId": "CV-29-VE",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 0.14,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      20,
+      21,
+      22,
+      23,
+      24
+    ]
+  },
+  {
+    "contentKey": "8932256a4272e934",
+    "supplierVariantId": "CV-29",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 0.14,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "contentKey": "ec75163f512722cd",
+    "supplierVariantId": "CV-29-NE",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 0.14,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "contentKey": "46950c703e8e609d",
+    "supplierVariantId": "T-269-CR",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 5.4,
+    "color": {
+      "name": "Beige",
+      "hex": "#C2B280"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "59a3257e0ee41cd0",
+    "supplierVariantId": "T-269-GR",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 5.4,
+    "color": {
+      "name": "Gray",
+      "hex": "#808080"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "d972cfe0237d3b2d",
+    "supplierVariantId": "T-269-RO",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 5.4,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  }
+]

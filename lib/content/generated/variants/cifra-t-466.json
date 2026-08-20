@@ -1,0 +1,40 @@
+[
+  {
+    "contentKey": "58edff49c9330306",
+    "supplierVariantId": "T-466-NE",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.42,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "d717dfa482a78111",
+    "supplierVariantId": "T-466-BL-NU",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.42,
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "d9923045df1d553e",
+    "supplierVariantId": "T-466-BL",
+    "stock": 4968,
+    "stockLevel": "in-stock",
+    "price": 0.42,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "contentKey": "07169a12985e7a35",
+    "supplierVariantId": "T-670-S-BL",
+    "stock": 3,
+    "stockLevel": "low",
+    "price": 8.32,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "size": "S",
+    "imageRefs": [
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "56aeea0408269808",
+    "supplierVariantId": "T-670-L-BL",
+    "stock": 245,
+    "stockLevel": "in-stock",
+    "price": 8.32,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "size": "L",
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "93b92953bbf69cc9",
+    "supplierVariantId": "T-670-XL-BL",
+    "stock": 158,
+    "stockLevel": "in-stock",
+    "price": 8.32,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "size": "XL",
+    "imageRefs": [
+      6
+    ]
+  },
+  {
+    "contentKey": "c11d959fb3971db6",
+    "supplierVariantId": "T-670-M-BL",
+    "stock": 48,
+    "stockLevel": "in-stock",
+    "price": 8.32,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "size": "M",
+    "imageRefs": [
+      2,
+      3
+    ]
+  }
+]

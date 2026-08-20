@@ -1,0 +1,32 @@
+[
+  {
+    "contentKey": "43f1bd47110a9936",
+    "supplierVariantId": "B-276-VE",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.66,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "717982b55c53e147",
+    "supplierVariantId": "B-276-GR",
+    "stock": 1544,
+    "stockLevel": "in-stock",
+    "price": 0.66,
+    "color": {
+      "name": "Gray",
+      "hex": "#808080"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  }
+]

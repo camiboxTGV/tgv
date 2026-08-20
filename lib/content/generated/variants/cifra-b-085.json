@@ -1,0 +1,47 @@
+[
+  {
+    "contentKey": "1774610df5690bff",
+    "supplierVariantId": "B-085-BL",
+    "stock": 1378,
+    "stockLevel": "in-stock",
+    "price": 2.06,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "17f2aed3b0d54456",
+    "supplierVariantId": "B-085-NE",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 2.06,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "2e035f2e7cff1031",
+    "supplierVariantId": "B-085-RO",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 2.06,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      4,
+      5
+    ]
+  }
+]

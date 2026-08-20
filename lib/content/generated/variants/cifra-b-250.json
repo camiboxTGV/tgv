@@ -1,0 +1,32 @@
+[
+  {
+    "contentKey": "8f640e10122011f1",
+    "supplierVariantId": "B-250-RS",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.83,
+    "color": {
+      "name": "Pink",
+      "hex": "#FF1493"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "d42f267aa4aa74af",
+    "supplierVariantId": "B-250-CE",
+    "stock": 397,
+    "stockLevel": "in-stock",
+    "price": 0.83,
+    "color": {
+      "name": "Light blue",
+      "hex": "#87CEEB"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  }
+]

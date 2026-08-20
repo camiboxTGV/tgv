@@ -1,0 +1,45 @@
+[
+  {
+    "contentKey": "6629ad1747c8bbc7",
+    "supplierVariantId": "10098-BL",
+    "stock": 20000,
+    "stockLevel": "in-stock",
+    "price": 0.11,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "6a1634db29549f8f",
+    "supplierVariantId": "10098-PT",
+    "stock": 20000,
+    "stockLevel": "in-stock",
+    "price": 0.11,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "cc2c7ade321c89e5",
+    "supplierVariantId": "10098-NE",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.11,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      2
+    ]
+  }
+]

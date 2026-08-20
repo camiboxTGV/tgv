@@ -1,0 +1,32 @@
+[
+  {
+    "contentKey": "1392d8e6fb8e262d",
+    "supplierVariantId": "T-214-BL",
+    "stock": 6723,
+    "stockLevel": "in-stock",
+    "price": 2.34,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "f95be4f402c23a69",
+    "supplierVariantId": "T-214-CR",
+    "stock": 8000,
+    "stockLevel": "in-stock",
+    "price": 2.34,
+    "color": {
+      "name": "Beige",
+      "hex": "#C2B280"
+    },
+    "imageRefs": [
+      1,
+      2,
+      3
+    ]
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "contentKey": "1f4bb64b8cffc7f2",
+    "supplierVariantId": "11049-RS",
+    "stock": 8000,
+    "stockLevel": "in-stock",
+    "price": 1.31,
+    "color": {
+      "name": "Pink",
+      "hex": "#FF1493"
+    },
+    "imageRefs": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "contentKey": "8cbe3a4d1bf7543e",
+    "supplierVariantId": "11049-BL",
+    "stock": 8000,
+    "stockLevel": "in-stock",
+    "price": 1.31,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  }
+]

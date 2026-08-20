@@ -1,0 +1,44 @@
+[
+  {
+    "contentKey": "39352c2ce5df66d8",
+    "supplierVariantId": "G-126-BL",
+    "stock": 505,
+    "stockLevel": "in-stock",
+    "price": 2.17,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "793a0d20eed2a7cd",
+    "supplierVariantId": "G-126-NE",
+    "stock": 31,
+    "stockLevel": "in-stock",
+    "price": 2.17,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "878a5edfca213e71",
+    "supplierVariantId": "G-126-AZ",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 2.17,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0
+    ]
+  }
+]

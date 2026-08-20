@@ -1,0 +1,78 @@
+[
+  {
+    "contentKey": "2dc4b7376ea1324f",
+    "supplierVariantId": "T-1308-AZ/MED",
+    "stock": 6442,
+    "stockLevel": "in-stock",
+    "price": 0.96,
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "51759139b607b671",
+    "supplierVariantId": "T-1308-BL",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.96,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "a56656d92d1b15f4",
+    "supplierVariantId": "T-1308-VE",
+    "stock": 7000,
+    "stockLevel": "in-stock",
+    "price": 0.96,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "contentKey": "d57e24d3b5af7899",
+    "supplierVariantId": "T-1308-AM",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.96,
+    "color": {
+      "name": "Yellow",
+      "hex": "#FFFF00"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "d6f540e926ce8542",
+    "supplierVariantId": "T-1308-RO",
+    "stock": 5454,
+    "stockLevel": "in-stock",
+    "price": 0.96,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      9,
+      10,
+      11
+    ]
+  }
+]

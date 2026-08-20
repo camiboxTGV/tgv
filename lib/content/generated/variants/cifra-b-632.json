@@ -1,0 +1,71 @@
+[
+  {
+    "contentKey": "01b316896c244969",
+    "supplierVariantId": "B-632-NE-NE",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.56,
+    "color": {
+      "name": "Black / Black"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "032233418bfc1b09",
+    "supplierVariantId": "B-632-RO",
+    "stock": 291,
+    "stockLevel": "in-stock",
+    "price": 0.56,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "4d86cdd7245e7f9d",
+    "supplierVariantId": "B-632-NE",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 0.56,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "e2f29cf45cf2d6c2",
+    "supplierVariantId": "B-632-NA",
+    "stock": 281,
+    "stockLevel": "in-stock",
+    "price": 0.56,
+    "color": {
+      "name": "Orange",
+      "hex": "#FFA500"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "fb1ab9c2bb561f7e",
+    "supplierVariantId": "B-632-RY",
+    "stock": 1985,
+    "stockLevel": "in-stock",
+    "price": 0.56,
+    "color": {
+      "name": "Royal",
+      "hex": "#2D3192"
+    },
+    "imageRefs": [
+      4
+    ]
+  }
+]

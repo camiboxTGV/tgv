@@ -1,0 +1,49 @@
+[
+  {
+    "contentKey": "73e92035f600a27b",
+    "supplierVariantId": "A-454-OR",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.84,
+    "color": {
+      "name": "Gold",
+      "hex": "#FFD700"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "79b46050d5d4f41c",
+    "supplierVariantId": "A-454-PT",
+    "stock": 1784,
+    "stockLevel": "in-stock",
+    "price": 0.84,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "943d81f54aa4d0b2",
+    "supplierVariantId": "A-454-OR-RS",
+    "stock": 2048,
+    "stockLevel": "in-stock",
+    "price": 0.84,
+    "color": {
+      "name": "Gold/Rose"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  }
+]

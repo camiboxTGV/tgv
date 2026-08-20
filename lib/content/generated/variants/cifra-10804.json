@@ -1,0 +1,31 @@
+[
+  {
+    "contentKey": "a6b14f23e48d5140",
+    "supplierVariantId": "10804-MA",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 1.5,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "d3698d54be040e78",
+    "supplierVariantId": "10804-ESP",
+    "stock": 783,
+    "stockLevel": "in-stock",
+    "price": 1.5,
+    "color": {
+      "name": "Spain Flag"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  }
+]

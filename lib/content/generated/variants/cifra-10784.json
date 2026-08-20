@@ -1,0 +1,79 @@
+[
+  {
+    "contentKey": "1596014dee3ca2e3",
+    "supplierVariantId": "10784-RS",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 2.44,
+    "color": {
+      "name": "Pink",
+      "hex": "#FF1493"
+    },
+    "imageRefs": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ]
+  },
+  {
+    "contentKey": "4f2749f2da964c34",
+    "supplierVariantId": "10784-BU",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 2.44,
+    "color": {
+      "name": "Bordeaux",
+      "hex": "#5F021F"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "5d434d14e82eca4f",
+    "supplierVariantId": "10784-RY",
+    "stock": 3074,
+    "stockLevel": "in-stock",
+    "price": 2.44,
+    "color": {
+      "name": "Royal",
+      "hex": "#2D3192"
+    },
+    "imageRefs": [
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ]
+  },
+  {
+    "contentKey": "8f2667c46dd6e6f6",
+    "supplierVariantId": "10784-GR",
+    "stock": 1008,
+    "stockLevel": "in-stock",
+    "price": 2.44,
+    "color": {
+      "name": "Gray",
+      "hex": "#808080"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
+  }
+]

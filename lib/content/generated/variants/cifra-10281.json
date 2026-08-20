@@ -1,0 +1,44 @@
+[
+  {
+    "contentKey": "83ecaf25f40f014c",
+    "supplierVariantId": "10281-AM",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 0.39,
+    "color": {
+      "name": "Yellow",
+      "hex": "#FFFF00"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "aaba5f598dc8ebe2",
+    "supplierVariantId": "10281-RY",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 0.39,
+    "color": {
+      "name": "Royal",
+      "hex": "#2D3192"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "d10f3e4cdf6d6000",
+    "supplierVariantId": "10281-NA",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 0.39,
+    "color": {
+      "name": "Orange",
+      "hex": "#FFA500"
+    },
+    "imageRefs": [
+      1
+    ]
+  }
+]

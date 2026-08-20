@@ -1,0 +1,32 @@
+[
+  {
+    "contentKey": "31a69c726cb68e0c",
+    "supplierVariantId": "B-068-NE",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 0.15,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "93e77fe80bfff07c",
+    "supplierVariantId": "B-068-BL",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 0.15,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  }
+]

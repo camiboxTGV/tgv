@@ -1,0 +1,69 @@
+[
+  {
+    "contentKey": "161e4483a4766d7c",
+    "supplierVariantId": "T-409-NE",
+    "stock": 15000,
+    "stockLevel": "in-stock",
+    "price": 0.75,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "1eafd7d1a777edc6",
+    "supplierVariantId": "T-409-VE",
+    "stock": 4164,
+    "stockLevel": "in-stock",
+    "price": 0.75,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "27788bf3f6c82b3b",
+    "supplierVariantId": "T-409-MR",
+    "stock": 2401,
+    "stockLevel": "in-stock",
+    "price": 0.75,
+    "color": {
+      "name": "Brown",
+      "hex": "#800000"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "703629996c7736b7",
+    "supplierVariantId": "T-409-MA",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.75,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "f42d95a5c17ae2c5",
+    "supplierVariantId": "T-409",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.75,
+    "imageRefs": [
+      0
+    ]
+  }
+]

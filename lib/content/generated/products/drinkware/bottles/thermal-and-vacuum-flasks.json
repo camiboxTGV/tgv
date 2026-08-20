@@ -1,5 +1,558 @@
 [
   {
+    "slug": "cifra-10099-az",
+    "name": "BOTTLE 700 ML “ERCA”",
+    "category": "drinkware/bottles/thermal-and-vacuum-flasks",
+    "summary": "700 ml bottle. Individually packaged.",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "SG1",
+        "label": "Cifra decoration code SG1",
+        "labelRo": "Cod personalizare Cifra SG1",
+        "printSizes": [
+          "200x70 mm"
+        ]
+      },
+      {
+        "code": "SG2",
+        "label": "Cifra decoration code SG2",
+        "labelRo": "Cod personalizare Cifra SG2",
+        "printSizes": [
+          "200x70 mm"
+        ]
+      },
+      {
+        "code": "DIGITAL",
+        "label": "Digital printing",
+        "labelRo": "Imprimare digitală",
+        "printSizes": [
+          "200x70 mm"
+        ]
+      },
+      {
+        "code": "V",
+        "label": "Cifra decoration code V",
+        "labelRo": "Cod personalizare Cifra V",
+        "printSizes": [
+          "200x70 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "10099-AZ",
+    "supplierVariantIds": [
+      "10099-AZ",
+      "10099-BL",
+      "10099-BU",
+      "10099-NE",
+      "10099-VE"
+    ],
+    "price": 2.9,
+    "priceFrom": false,
+    "stock": 15248,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/10099-AZ-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10099-AZ-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10099-AZ-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/10099-BL-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10099-BL-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10099-BL-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/10099-BU-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10099-BU-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10099-BU-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/10099-NE-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10099-NE-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10099-NE-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/10099-VE-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10099-VE-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10099-VE-01-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 5,
+    "colorCount": 5,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Blue",
+        "hex": "#4169E1"
+      },
+      {
+        "name": "Bordeaux",
+        "hex": "#5F021F"
+      },
+      {
+        "name": "Green",
+        "hex": "#00FF00"
+      },
+      {
+        "name": "White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "25.7 × 7.5 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Stainless steel"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "39,0 x 39,0 x 57,5 cm"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "485"
+      }
+    ],
+    "weightGrams": 170,
+    "descriptionLong": "700 ml bottle. Individually packaged.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "cifra-11042",
+    "name": "HERMETIC THERMAL GLASS “TULCAN”",
+    "category": "drinkware/bottles/thermal-and-vacuum-flasks",
+    "summary": "Modern design with a matte finish, featuring a screw-on lid and an airtight seal. Metal base to keep the temperature for longer. Includes a practical carrying strap, ideal for everyday use.Capacity 380 ml; each tumble...",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "F",
+        "label": "Cifra decoration code F",
+        "labelRo": "Cod personalizare Cifra F",
+        "printSizes": [
+          "190x70 mm",
+          "30x80 mm"
+        ]
+      },
+      {
+        "code": "DIGITAL",
+        "label": "Digital printing",
+        "labelRo": "Imprimare digitală",
+        "printSizes": [
+          "190x70 mm",
+          "30x80 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "11042",
+    "supplierVariantIds": [
+      "11042-CR",
+      "11042-GRA",
+      "11042-MA",
+      "11042-NE",
+      "11042-VE"
+    ],
+    "price": 2.42,
+    "priceFrom": false,
+    "stock": 13000,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/11042-CR-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11042-CR-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11042-CR-07-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11042-CR-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11042-CR-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11042-CR-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11042-CR-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11042-CR-06-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/11042-GRA-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11042-GRA-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11042-GRA-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11042-GRA-07-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11042-GRA-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11042-GRA-06-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11042-GRA-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11042-GRA-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/11042-MA-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11042-MA-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11042-MA-07-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11042-MA-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11042-MA-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11042-MA-06-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11042-MA-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11042-MA-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/11042-NE-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11042-NE-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11042-NE-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11042-NE-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11042-NE-07-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11042-NE-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11042-NE-06-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11042-NE-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/11042-VE-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11042-VE-07-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11042-VE-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11042-VE-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11042-VE-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11042-VE-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11042-VE-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11042-VE-06-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 5,
+    "colorCount": 4,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Beige",
+        "hex": "#C2B280"
+      },
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Green",
+        "hex": "#00FF00"
+      },
+      {
+        "name": "Marine",
+        "hex": "#00008B"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "9 × 14.5 × 6 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "PP, silicone, stainless steel and PU handle+polyester."
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "49,0 x 32,0 x 49,0 cm · 0,0 x 0,0 x 0,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "9 kg",
+        "valueRo": "9 kg"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "495"
+      }
+    ],
+    "weightGrams": 135,
+    "descriptionLong": "Modern design with a matte finish, featuring a screw-on lid and an airtight seal. Metal base to keep the temperature for longer. Includes a practical carrying strap, ideal for everyday use.Capacity 380 ml; each tumbler comes in an individual box (measures: 9.3x15.2x9.3 cm).Available in a wide variety of colors.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "cifra-22300",
+    "name": "THERMOS \"LUXOR\"",
+    "category": "drinkware/bottles/thermal-and-vacuum-flasks",
+    "summary": "The LUXOR thermos made of stainless steel, has a modern aesthetic thanks to its metallic finish colours, and accessibility due to the design of its safety closure that offers a comfortable and quick opening thanks to ...",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen",
+      "fiber-laser"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "F",
+        "label": "Cifra decoration code F",
+        "labelRo": "Cod personalizare Cifra F",
+        "printSizes": [
+          "60x120 mm"
+        ]
+      },
+      {
+        "code": "L360",
+        "label": "360° laser engraving",
+        "labelRo": "Gravură laser 360°",
+        "printSizes": [
+          "60x120 mm"
+        ]
+      },
+      {
+        "code": "G",
+        "label": "Cifra decoration code G",
+        "labelRo": "Cod personalizare Cifra G",
+        "printSizes": [
+          "60x120mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "22300",
+    "supplierVariantIds": [
+      "22300-AZ",
+      "22300-BL",
+      "22300-NE",
+      "22300-RO",
+      "22300-VE",
+      "G-223-VE"
+    ],
+    "price": 2.93,
+    "priceFrom": true,
+    "stock": 7381,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/22300-AZ-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/22300-AZ-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/22300-AZ-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/22300-AZ-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/22300-BL-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/22300-BL-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/22300-BL-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/22300-BL-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/22300-BL-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/22300-NE-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/22300-RO-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/22300-RO-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/22300-RO-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/22300-RO-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/22300-VE-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/22300-VE-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/22300-VE-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/22300-VE-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/G-223-VE-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/G-223-VE-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/G-223-VE-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/G-223-VE-01-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 6,
+    "colorCount": 5,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Blue",
+        "hex": "#4169E1"
+      },
+      {
+        "name": "Green",
+        "hex": "#00FF00"
+      },
+      {
+        "name": "Red",
+        "hex": "#FF0000"
+      },
+      {
+        "name": "White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "6.5 × 22 × 0 cm · 23 × 6.5 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Stainless steel"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "37,0 x 37,0 x 48,0 cm · 73,0 x 73,0 x 25,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "13 / 15.5 kg",
+        "valueRo": "13 / 15.5 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "11 / 14.5 kg",
+        "valueRo": "11 / 14.5 kg"
+      },
+      {
+        "key": "ean",
+        "label": "EAN",
+        "labelRo": "EAN",
+        "value": "8436534310490 · 8436534310537 · 8436534312432 · 8436534312616 · 8436534312623"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "492"
+      }
+    ],
+    "weightGrams": 221,
+    "descriptionLong": "The LUXOR thermos made of stainless steel, has a modern aesthetic thanks to its metallic finish colours, and accessibility due to the design of its safety closure that offers a comfortable and quick opening thanks to the central button, which opens the lid automatically. When we open our thermos, we find an ergonomic design to drink comfortably. The rubber structure inside the lid is designed to prevent leaks. To keep your product in optimal hygiene conditions and extend its useful life, it is advisable to follow the cleaning instructions prior to its first use. In addition to performing a correct cleaning after each use, we recommend keeping the interior of the product completely dry and aerated before storage. Do not use dairy products for carbonated acid drinks. Available in wide variety of colours.420 ml capacity.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "cifra-22300-sub",
+    "name": "SUBLIMATION THERMOS “LUXOR”",
+    "category": "drinkware/bottles/thermal-and-vacuum-flasks",
+    "summary": "The LUXOR thermos made of stainless steel, has a modern aesthetic thanks to its metallic finish colours, and accessibility due to the design of its safety closure that offers a comfortable and quick opening thanks to ...",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
+    "personalizations": [
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "SUB1",
+        "label": "Sublimation",
+        "labelRo": "Sublimare",
+        "printSizes": [
+          "60x120mm"
+        ]
+      },
+      {
+        "code": "SUB2",
+        "label": "Sublimation",
+        "labelRo": "Sublimare",
+        "printSizes": [
+          "60x120mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "22300-SUB",
+    "supplierVariantIds": [
+      "22300-SUB"
+    ],
+    "price": 3.78,
+    "priceFrom": false,
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/22300-SUB-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/22300-SUB-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/22300-SUB-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/22300-SUB-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/22300-SUB-01-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 1,
+    "colorCount": 0,
+    "sizeCount": 0,
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "6.5 × 22 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "<p data-placeholder="
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "70,5 x 36,0 x 25,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "13.35 kg",
+        "valueRo": "13.35 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "12.3 kg",
+        "valueRo": "12.3 kg"
+      },
+      {
+        "key": "ean",
+        "label": "EAN",
+        "labelRo": "EAN",
+        "value": "8435744804645"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "492,668"
+      }
+    ],
+    "weightGrams": 221,
+    "descriptionLong": "The LUXOR thermos made of stainless steel, has a modern aesthetic thanks to its metallic finish colours, and accessibility due to the design of its safety closure that offers a comfortable and quick opening thanks to the central button, which opens the lid automatically. When we open our thermos, we find an ergonomic design to drink comfortably. The rubber structure inside the lid is designed to prevent leaks. To keep your product in optimal hygiene conditions and extend its useful life, it is advisable to follow the cleaning instructions prior to its first use. In addition to performing a correct cleaning after each use, we recommend keeping the interior of the product completely dry and aerated before storage. Do not use dairy products for carbonated acid drinks. 420 ml capacity.",
+    "hasVariantDetail": false
+  },
+  {
     "slug": "macma-4900400aj3",
     "name": "RANGES vacuum bottle",
     "category": "drinkware/bottles/thermal-and-vacuum-flasks",
@@ -23,14 +576,14 @@
     ],
     "price": 12.16,
     "priceFrom": false,
-    "stock": 232,
+    "stock": 226,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4900400aj3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4900400aj3_2.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4900400aj3_3.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -124,7 +677,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5100101aj3_3.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5100101aj3_4.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -235,7 +788,7 @@
       "https://macma.ro/products/jpg/M/6008906_2.jpg",
       "https://macma.ro/products/jpg/M/6008906_box.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -329,7 +882,7 @@
       "https://macma.ro/products/jpg/M/60196mc_2.jpg",
       "https://macma.ro/products/jpg/M/60196mc_box.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -437,7 +990,7 @@
       "https://macma.ro/products/jpg/M/6043006_4.jpg",
       "https://macma.ro/products/jpg/M/6043006_box.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -525,7 +1078,7 @@
       "https://macma.ro/products/jpg/M/other/6070909_1.jpg",
       "https://macma.ro/products/jpg/M/other/6070909_2.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -618,7 +1171,7 @@
       "https://macma.ro/products/jpg/M/6071003_3.jpg",
       "https://macma.ro/products/jpg/M/6071003_box.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -706,7 +1259,7 @@
     ],
     "price": 2.25,
     "priceFrom": false,
-    "stock": 5027,
+    "stock": 5026,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/6084105_0.jpg",
@@ -729,7 +1282,7 @@
       "https://macma.ro/products/jpg/M/6084104_4.jpg",
       "https://macma.ro/products/jpg/M/6084104_box.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -830,7 +1383,7 @@
     ],
     "price": 4.86,
     "priceFrom": false,
-    "stock": 7759,
+    "stock": 7789,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/6092613_0.jpg",
@@ -839,7 +1392,7 @@
       "https://macma.ro/products/jpg/M/6092613_box.jpg",
       "https://macma.ro/products/jpg/M/6092613_print.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -945,7 +1498,7 @@
     ],
     "price": 5.54,
     "priceFrom": false,
-    "stock": 7177,
+    "stock": 7237,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/6098303_0.jpg",
@@ -961,7 +1514,7 @@
       "https://macma.ro/products/jpg/M/6098307_4.jpg",
       "https://macma.ro/products/jpg/M/6098307_box.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:46.287Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -1068,7 +1621,7 @@
       "https://macma.ro/products/jpg/M/6119907_box.jpg",
       "https://macma.ro/products/jpg/M/6119907_print.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1169,7 +1722,7 @@
       "https://macma.ro/products/jpg/M/6148504_6.jpg",
       "https://macma.ro/products/jpg/M/6148504_box.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -1282,7 +1835,7 @@
       "https://macma.ro/products/jpg/M/6150906_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6150906_lifestyle_5.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1369,7 +1922,7 @@
     ],
     "price": 5.06,
     "priceFrom": false,
-    "stock": 2002,
+    "stock": 2052,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/6154506_0.jpg",
@@ -1383,7 +1936,7 @@
       "https://macma.ro/products/jpg/M/6154503_3.jpg",
       "https://macma.ro/products/jpg/M/6154503_box.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -1495,7 +2048,7 @@
       "https://macma.ro/products/jpg/M/6155406_4.jpg",
       "https://macma.ro/products/jpg/M/6155406_box.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:46.287Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -1605,7 +2158,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/6166713_lifestyle_6.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6166713_lifestyle_7.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1710,7 +2263,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/6214203_lifestyle_6.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6214203_lifestyle_7.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1801,7 +2354,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/6215713_lifestyle_4.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6215713_lifestyle_5.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1908,7 +2461,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/6233413_lifestyle_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6233413_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2018,7 +2571,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/6241407_lifestyle_4.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6241407_lifestyle_5.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2110,7 +2663,7 @@
       "https://macma.ro/products/jpg/M/6246403_6.jpg",
       "https://macma.ro/products/jpg/M/6246403_box.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2198,7 +2751,7 @@
     ],
     "price": 3.59,
     "priceFrom": false,
-    "stock": 4777,
+    "stock": 4681,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/6252203_0.jpg",
@@ -2216,7 +2769,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/6252206_lifestyle_5.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6252206_lifestyle_6.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -2318,7 +2871,7 @@
       "https://macma.ro/products/jpg/M/6254495_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6254495_lifestyle_6.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2418,7 +2971,7 @@
       "https://macma.ro/products/jpg/M/6257398_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6257398_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -2523,7 +3076,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/6257407_lifestyle_3.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6257407_lifestyle_6.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2612,7 +3165,7 @@
     ],
     "price": 5.82,
     "priceFrom": false,
-    "stock": 5357,
+    "stock": 5307,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/6257706_0.jpg",
@@ -2635,7 +3188,7 @@
       "https://macma.ro/products/jpg/M/6257791_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6257791_lifestyle_5.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:46.287Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -2791,7 +3344,7 @@
       "https://macma.ro/products/jpg/M/6265809_5.jpg",
       "https://macma.ro/products/jpg/M/6265809_box.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:46.287Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 7,
     "colorCount": 7,
     "sizeCount": 0,
@@ -2931,7 +3484,7 @@
       "https://macma.ro/products/jpg/M/6289229_2.jpg",
       "https://macma.ro/products/jpg/M/6289229_box.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -3043,7 +3596,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/6297913_lifestyle_6.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6297913_lifestyle_7.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3149,7 +3702,7 @@
       "https://macma.ro/products/jpg/M/6311313_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6311313_lifestyle_8.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3252,7 +3805,7 @@
       "https://macma.ro/products/jpg/M/6317903_4.jpg",
       "https://macma.ro/products/jpg/M/6317903_5.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3341,7 +3894,7 @@
       "https://macma.ro/products/jpg/M/6370244_3.jpg",
       "https://macma.ro/products/jpg/M/6370244_4.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3447,7 +4000,7 @@
       "https://macma.ro/products/jpg/M/6530007_print.jpg",
       "https://macma.ro/products/jpg/M/6530007_print_1.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3555,7 +4108,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/6540107_lifestyle_3.jpg",
       "https://macma.ro/products/jpg/M/6540107_print.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3665,7 +4218,7 @@
       "https://macma.ro/products/jpg/M/6540307_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6540307_lifestyle_6.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3779,7 +4332,7 @@
       "https://macma.ro/products/jpg/M/6542004_2.jpg",
       "https://macma.ro/products/jpg/M/6542004_box.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:46.287Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -3894,7 +4447,7 @@
       "https://macma.ro/products/jpg/M/6561010_1.jpg",
       "https://macma.ro/products/jpg/M/6561010_box.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:46.287Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -4004,7 +4557,7 @@
       "https://macma.ro/products/jpg/M/6879903_box.jpg",
       "https://macma.ro/products/jpg/M/6879903_print.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:46.287Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -4096,7 +4649,7 @@
     ],
     "price": 9.16,
     "priceFrom": false,
-    "stock": 4479,
+    "stock": 4491,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/8358007_0.jpg",
@@ -4105,7 +4658,7 @@
       "https://macma.ro/products/jpg/M/8358007_3.jpg",
       "https://macma.ro/products/jpg/M/8358007_box.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -4193,7 +4746,7 @@
       "https://macma.ro/products/jpg/M/8382406_4.jpg",
       "https://macma.ro/products/jpg/M/8382406_5.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -4304,7 +4857,7 @@
       "https://macma.ro/products/jpg/M/8389012_4.jpg",
       "https://macma.ro/products/jpg/M/8389012_box.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -4424,7 +4977,7 @@
       "https://macma.ro/products/jpg/M/8389306_3.jpg",
       "https://macma.ro/products/jpg/M/8389306_box.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -4525,7 +5078,7 @@
       "https://macma.ro/products/jpg/M/8397507_4.jpg",
       "https://macma.ro/products/jpg/M/8397507_5.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -4615,7 +5168,7 @@
       "https://macma.ro/products/jpg/M/8424803_5.jpg",
       "https://macma.ro/products/jpg/M/8424803_box.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -4715,7 +5268,7 @@
       "https://macma.ro/products/jpg/M/8431803_5.jpg",
       "https://macma.ro/products/jpg/M/8431803_box.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -4823,7 +5376,7 @@
       "https://macma.ro/products/jpg/M/8467677_5.jpg",
       "https://macma.ro/products/jpg/M/8467677_6_box.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -4943,7 +5496,7 @@
       "https://macma.ro/products/jpg/M/8468605_5.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8468605_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -5052,7 +5605,7 @@
       "https://macma.ro/products/jpg/M/8474903_4.jpg",
       "https://macma.ro/products/jpg/M/8474903_5.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -5148,7 +5701,7 @@
       "https://macma.ro/products/jpg/M/8481413_5.jpg",
       "https://macma.ro/products/jpg/M/8481413_6.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -5256,7 +5809,7 @@
       "https://macma.ro/products/jpg/M/8481929_3.jpg",
       "https://macma.ro/products/jpg/M/8481929_4.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -5366,7 +5919,7 @@
       "https://macma.ro/products/jpg/M/8482907_1.jpg",
       "https://macma.ro/products/jpg/M/8482907_2.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -5465,7 +6018,7 @@
       "https://macma.ro/products/jpg/M/8496195_5.jpg",
       "https://macma.ro/products/jpg/M/8496195_6.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -5555,7 +6108,7 @@
     ],
     "price": 2.7,
     "priceFrom": false,
-    "stock": 65027,
+    "stock": 65025,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/8496244_0.jpg",
@@ -5627,7 +6180,7 @@
       "https://macma.ro/products/jpg/M/8496203_4.jpg",
       "https://macma.ro/products/jpg/M/8496203_5.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:46.287Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 11,
     "colorCount": 11,
     "sizeCount": 0,
@@ -5781,7 +6334,7 @@
       "https://macma.ro/products/jpg/M/8510613_5.jpg",
       "https://macma.ro/products/jpg/M/8510613_6.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -5879,7 +6432,7 @@
       "https://macma.ro/products/jpg/M/8522507_2.jpg",
       "https://macma.ro/products/jpg/M/8522507_3.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -5969,7 +6522,7 @@
       "https://macma.ro/products/jpg/M/8522607_2.jpg",
       "https://macma.ro/products/jpg/M/8522607_3.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -6082,7 +6635,7 @@
       "https://macma.ro/products/jpg/M/8523605_3.jpg",
       "https://macma.ro/products/jpg/M/8523605_4.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -6270,7 +6823,7 @@
       "https://macma.ro/products/jpg/M/8523908_5.jpg",
       "https://macma.ro/products/jpg/M/8523908_6.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:46.287Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 10,
     "colorCount": 10,
     "sizeCount": 0,
@@ -6394,7 +6947,7 @@
       "https://macma.ro/products/jpg/M/8525906_4.jpg",
       "https://macma.ro/products/jpg/M/8525906_5.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -6465,7 +7018,7 @@
         "label": "Engraving 2",
         "labelRo": "Gravură 2",
         "printSizes": [
-          "4 x 4"
+          "40 mm x 40 mm"
         ]
       }
     ],
@@ -6495,7 +7048,7 @@
       "https://macma.ro/products/jpg/M/8536506_5.jpg",
       "https://macma.ro/products/jpg/M/8536506_6.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -6564,7 +7117,7 @@
         "label": "Engraving 2",
         "labelRo": "Gravură 2",
         "printSizes": [
-          "4 x 4"
+          "40 mm x 40 mm"
         ]
       }
     ],
@@ -6598,7 +7151,7 @@
       "https://macma.ro/products/jpg/M/8536844_2.jpg",
       "https://macma.ro/products/jpg/M/8536844_3.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:46.287Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -6676,7 +7229,7 @@
         "label": "Engraving 2",
         "labelRo": "Gravură 2",
         "printSizes": [
-          "4 x 4"
+          "40 mm x 40 mm"
         ]
       },
       {
@@ -6684,7 +7237,7 @@
         "label": "Pad printing 3",
         "labelRo": "Tampografie 3",
         "printSizes": [
-          "4 x 4"
+          "40 mm x 40 mm"
         ]
       }
     ],
@@ -6732,7 +7285,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/8536944_lifestyle_3.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8536944_lifestyle_4.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -6813,7 +7366,7 @@
         "label": "Engraving 2",
         "labelRo": "Gravură 2",
         "printSizes": [
-          "4 x 4"
+          "40 mm x 40 mm"
         ]
       },
       {
@@ -6821,7 +7374,7 @@
         "label": "Macma method RS2",
         "labelRo": "Metodă Macma RS2",
         "printSizes": [
-          "4 x 4"
+          "40 mm x 40 mm"
         ]
       }
     ],
@@ -6840,7 +7393,7 @@
       "https://macma.ro/products/jpg/M/8539603_2.jpg",
       "https://macma.ro/products/jpg/M/8539603_3.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -6905,7 +7458,7 @@
         "label": "Engraving 3",
         "labelRo": "Gravură 3",
         "printSizes": [
-          "4 x 4"
+          "40 mm x 40 mm"
         ]
       }
     ],
@@ -6924,7 +7477,7 @@
       "https://macma.ro/products/jpg/M/8539904_2_box.jpg",
       "https://macma.ro/products/jpg/M/8539904_3.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -6989,7 +7542,7 @@
         "label": "Engraving 3",
         "labelRo": "Gravură 3",
         "printSizes": [
-          "4 x 4"
+          "40 mm x 40 mm"
         ]
       }
     ],
@@ -7011,7 +7564,7 @@
       "https://macma.ro/products/jpg/M/8541409_5.jpg",
       "https://macma.ro/products/jpg/M/8541409_6.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -7076,7 +7629,7 @@
         "label": "Engraving 3",
         "labelRo": "Gravură 3",
         "printSizes": [
-          "4 x 4"
+          "40 mm x 40 mm"
         ]
       }
     ],
@@ -7122,7 +7675,7 @@
       "https://macma.ro/products/jpg/M/8541506_5.jpg",
       "https://macma.ro/products/jpg/M/8541506_6.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -7199,7 +7752,7 @@
         "label": "Engraving 3",
         "labelRo": "Gravură 3",
         "printSizes": [
-          "4 x 4"
+          "40 mm x 40 mm"
         ]
       }
     ],
@@ -7220,7 +7773,7 @@
       "https://macma.ro/products/jpg/M/8545307_5.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8545307_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -7319,7 +7872,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/8545807_lifestyle_5.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8545807_lifestyle_6.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -7391,7 +7944,7 @@
         "label": "Engraving 2",
         "labelRo": "Gravură 2",
         "printSizes": [
-          "4 x 4"
+          "40 mm x 40 mm"
         ]
       },
       {
@@ -7399,7 +7952,7 @@
         "label": "Pad printing 3",
         "labelRo": "Tampografie 3",
         "printSizes": [
-          "4 x 4"
+          "40 mm x 40 mm"
         ]
       }
     ],
@@ -7462,7 +8015,7 @@
       "https://macma.ro/products/jpg/M/8547599_5.jpg",
       "https://macma.ro/products/jpg/M/8547599_6.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -7544,7 +8097,7 @@
         "label": "Engraving 3",
         "labelRo": "Gravură 3",
         "printSizes": [
-          "4 x 4"
+          "35 mm x 35 mm"
         ]
       },
       {
@@ -7552,7 +8105,7 @@
         "label": "Pad printing 3",
         "labelRo": "Tampografie 3",
         "printSizes": [
-          "4 x 4"
+          "35 mm x 35 mm"
         ]
       }
     ],
@@ -7592,7 +8145,7 @@
       "https://macma.ro/products/jpg/M/8548899_2.jpg",
       "https://macma.ro/products/jpg/M/8548899_3.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -7674,7 +8227,7 @@
         "label": "Engraving 2",
         "labelRo": "Gravură 2",
         "printSizes": [
-          "4 x 4"
+          "40 mm x 40 mm"
         ]
       },
       {
@@ -7682,7 +8235,7 @@
         "label": "Pad printing 3",
         "labelRo": "Tampografie 3",
         "printSizes": [
-          "4 x 4"
+          "40 mm x 40 mm"
         ]
       }
     ],
@@ -7766,7 +8319,7 @@
       "https://macma.ro/products/jpg/M/8559844_4.jpg",
       "https://macma.ro/products/jpg/M/8559844_5.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:46.287Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 10,
     "colorCount": 10,
     "sizeCount": 0,
@@ -7867,7 +8420,7 @@
         "label": "Engraving 3",
         "labelRo": "Gravură 3",
         "printSizes": [
-          "4 x 4"
+          "40 mm x 40 mm"
         ]
       }
     ],
@@ -7905,7 +8458,7 @@
       "https://macma.ro/products/jpg/M/8561799_2.jpg",
       "https://macma.ro/products/jpg/M/8561799_3.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -7983,7 +8536,7 @@
         "label": "Engraving 2",
         "labelRo": "Gravură 2",
         "printSizes": [
-          "4 x 4"
+          "40 mm x 40 mm"
         ]
       },
       {
@@ -7991,7 +8544,7 @@
         "label": "Pad printing 3",
         "labelRo": "Tampografie 3",
         "printSizes": [
-          "4 x 4"
+          "40 mm x 40 mm"
         ]
       }
     ],
@@ -8025,7 +8578,7 @@
       "https://macma.ro/products/jpg/M/8565199_1.jpg",
       "https://macma.ro/products/jpg/M/8565199_2.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -8126,7 +8679,7 @@
     ],
     "price": 11.81,
     "priceFrom": false,
-    "stock": 3518,
+    "stock": 1518,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5106000aj3_1.jpg",
@@ -8139,7 +8692,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5106000aj3_8.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5106000aj3_9.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -8231,7 +8784,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5106100aj3_5.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5106100aj3_6.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -8324,7 +8877,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4912200aj3_6.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4912200aj3_7.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -8413,7 +8966,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5105900aj3_2.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5105900aj3_3.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -8501,7 +9054,7 @@
       "https://macma.ro/products/jpg/PSV/VANILLA/f5106200aj3_k.jpg",
       "https://macma.ro/products/jpg/PSV/VANILLA/f5106200aj3_l.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -8584,7 +9137,7 @@
       "https://macma.ro/products/jpg/PSV/VANILLA/f5106300aj3_f.jpg",
       "https://macma.ro/products/jpg/PSV/VANILLA/f5106300aj3_g.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -8685,7 +9238,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4912301aj3_4.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f4912302aj3_1.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -8817,7 +9370,7 @@
       "https://cdn1.midocean.com/image/700X700/kc2694-03.jpg",
       "https://cdn1.midocean.com/image/700X700/kc2694-03-ambiant.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -8951,7 +9504,7 @@
     ],
     "price": 4.16,
     "priceFrom": false,
-    "stock": 21014,
+    "stock": 21114,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2107-16.jpg",
@@ -8970,7 +9523,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2107-16-print.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2107-16-detail.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 11,
     "colorCount": 11,
     "sizeCount": 0,
@@ -9126,7 +9679,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2108-16-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2108-16-box.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -9258,7 +9811,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2109-16-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2109-16-box.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -9406,7 +9959,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2116-03-picture5.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2116-03-picture7.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -9456,7 +10009,7 @@
     ],
     "brand": "midocean",
     "weightGrams": 600,
-    "capacity": "150 ml",
+    "capacity": "420 ml",
     "descriptionLong": "Set of double wall stainless steel vacuum insulated flask with leak-free cup lid and 2 additional cups. Capacity: flask - 420 ml, cup - 150 ml.",
     "hasVariantDetail": false
   },
@@ -9537,7 +10090,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2117-03-picture1.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2117-03-picture6.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -9593,7 +10146,7 @@
     ],
     "brand": "midocean",
     "weightGrams": 300,
-    "capacity": "150 ml",
+    "capacity": "420 ml",
     "descriptionLong": "Double wall stainless steel vacuum insulated flask with leak-free cup lid. Capacity: flask 420 ml, cup 150 ml.",
     "hasVariantDetail": true
   },
@@ -9686,7 +10239,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2228-03-box.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2228-03-picture6.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -9823,7 +10376,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2234-03-picture1.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2234-03-picture2.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -9966,7 +10519,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2283-03-box.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2283-03-picture6.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -10100,7 +10653,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2308-03-picture1.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2308-03-picture3.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -10230,7 +10783,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2312-03-picture6.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2312-03-picture7.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -10350,7 +10903,7 @@
     ],
     "price": 4.24,
     "priceFrom": false,
-    "stock": 65293,
+    "stock": 65208,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2315-03.jpg",
@@ -10365,7 +10918,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2315-03-box.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2315-03-picture7.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 7,
     "colorCount": 7,
     "sizeCount": 0,
@@ -10497,7 +11050,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2331-03-picture4.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2331-03-picture6.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -10620,7 +11173,7 @@
     ],
     "price": 5.77,
     "priceFrom": false,
-    "stock": 6656,
+    "stock": 6648,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2336-03.jpg",
@@ -10630,7 +11183,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2336-03-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2336-03-box.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -10768,7 +11321,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2383-41-box.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2383-41-picture7.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -10911,7 +11464,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2413-03-picture2.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2413-03-picture4.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -11053,7 +11606,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2674-03-box.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2674-03-picture7.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -11176,7 +11729,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2710-03-picture6.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2710-03-picture7.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -11344,7 +11897,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2716-03-picture2.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2716-03-picture4.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -11400,6 +11953,7 @@
     ],
     "brand": "midocean",
     "weightGrams": 400,
+    "capacity": "500 ml",
     "descriptionLong": "Double wall insulated bottle in 90% recycled stainless steel and 10% stainless steel, with integrated strap handle and additional long strap (70cm) in PP lid. Leak-free. Bottom cup included. Capacity: 500 ml.",
     "hasVariantDetail": true
   },
@@ -11498,7 +12052,7 @@
     ],
     "price": 4.86,
     "priceFrom": false,
-    "stock": 9955,
+    "stock": 9954,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2735-03.jpg",
@@ -11513,7 +12067,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2735-03-picture3.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2735-03-picture4.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -11572,6 +12126,7 @@
     ],
     "brand": "midocean",
     "weightGrams": 220,
+    "capacity": "300 ml",
     "descriptionLong": "Double wall drinking bottle in recycled stainless steel (90% recycled stainless steel and 10% stainless steel) with security lock on the lid and press-to-open option. Leak free.  Capacity: 300ml.",
     "hasVariantDetail": true
   },
@@ -11666,7 +12221,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2775-03-picture5.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2775-03-picture7.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -11725,6 +12280,7 @@
     ],
     "brand": "midocean",
     "weightGrams": 350,
+    "capacity": "500 ml",
     "descriptionLong": "Double wall insulated bottle in recycled stainless steel (90% recycled stainless and 10% stainless steel) with combination straw and sip lid with handle. Leak free. Capacity : 500 ml.",
     "hasVariantDetail": true
   },
@@ -11809,7 +12365,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2988-03-picture3.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2988-03-picture4.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -11949,7 +12505,7 @@
       "https://cdn1.midocean.com/image/700X700/mo3176-03-picture1.jpg",
       "https://cdn1.midocean.com/image/700X700/mo3176-03-picture2.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -11993,6 +12549,7 @@
     ],
     "brand": "midocean",
     "weightGrams": 355,
+    "capacity": "500 ml",
     "descriptionLong": "Double wall insulated bottle in recycled stainless steel (90% recycled stainless steel and 10% stainless steel). 500ml. Easy-opening lid with integrated handle. Powder coating.",
     "hasVariantDetail": true
   },
@@ -12090,7 +12647,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6272-40-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6272-40-box.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -12227,7 +12784,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6288-16-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6288-16-box.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -12387,7 +12944,7 @@
     ],
     "price": 4.33,
     "priceFrom": false,
-    "stock": 32657,
+    "stock": 50805,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo6313-03.jpg",
@@ -12399,7 +12956,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6313-03-side.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6313-03-detail.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -12572,7 +13129,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6366-03-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6366-03-box.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -12696,7 +13253,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6371-40-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6371-40-box.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -12832,7 +13389,7 @@
     ],
     "price": 6.81,
     "priceFrom": false,
-    "stock": 19582,
+    "stock": 19581,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo6372-16.jpg",
@@ -12846,7 +13403,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6372-16-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6372-16-box.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -13008,7 +13565,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6373-16-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6373-16-box.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -13152,7 +13709,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6376-03-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6376-03-box.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -13261,7 +13818,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6676-16-print.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6676-16-detail.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -13410,7 +13967,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6750-03-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6750-03-box.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 10,
     "colorCount": 10,
     "sizeCount": 0,
@@ -13559,7 +14116,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6760-03-open.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6760-03-box.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -13705,7 +14262,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6774-03-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6774-03-box.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -13835,7 +14392,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6896-16-print.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6896-16-box.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -13960,7 +14517,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6931-01-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6931-01-box.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -14078,7 +14635,7 @@
     ],
     "price": 3.54,
     "priceFrom": true,
-    "stock": 9147,
+    "stock": 9146,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo6938-03.jpg",
@@ -14089,7 +14646,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6938-03-side.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6938-03-box.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -14242,7 +14799,7 @@
     ],
     "price": 4.1,
     "priceFrom": true,
-    "stock": 3376,
+    "stock": 4269,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo6944-03.jpg",
@@ -14252,7 +14809,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6944-03-open.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6944-03-box.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -14387,7 +14944,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6948-16-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6948-16-box.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -14538,7 +15095,7 @@
       "https://cdn1.midocean.com/image/700X700/mo8314-03-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo8314-03-box.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 11,
     "colorCount": 11,
     "sizeCount": 0,
@@ -14691,7 +15248,7 @@
       "https://cdn1.midocean.com/image/700X700/mo9421-40-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9421-40-box.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -14849,7 +15406,7 @@
     ],
     "price": 3.67,
     "priceFrom": false,
-    "stock": 62703,
+    "stock": 62599,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo9431-03.jpg",
@@ -14865,7 +15422,7 @@
       "https://cdn1.midocean.com/image/700X700/mo9431-03-ambiant.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9431-03-detail.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 9,
     "colorCount": 9,
     "sizeCount": 0,
@@ -14998,7 +15555,7 @@
     ],
     "price": 6.81,
     "priceFrom": false,
-    "stock": 3074,
+    "stock": 2844,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo9539-03.jpg",
@@ -15010,7 +15567,7 @@
       "https://cdn1.midocean.com/image/700X700/mo9539-03-ambiant.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9539-03-box.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -15158,7 +15715,7 @@
       "https://cdn1.midocean.com/image/700X700/mo9703-16-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9703-16-box.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -15299,7 +15856,7 @@
       "https://cdn1.midocean.com/image/700X700/mo9810-12-open.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9810-12-ambiant.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -15434,7 +15991,7 @@
     ],
     "price": 4.26,
     "priceFrom": false,
-    "stock": 64562,
+    "stock": 64162,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo9812-16.jpg",
@@ -15446,7 +16003,7 @@
       "https://cdn1.midocean.com/image/700X700/mo9812-97.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9812-16-detail.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 7,
     "colorCount": 7,
     "sizeCount": 0,
@@ -15594,7 +16151,7 @@
       "https://cdn1.midocean.com/image/700X700/mo9991-40-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9991-40-box.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

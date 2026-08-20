@@ -1,0 +1,64 @@
+[
+  {
+    "contentKey": "37828c5a75c37801",
+    "supplierVariantId": "H-312-BL",
+    "stock": 56,
+    "stockLevel": "in-stock",
+    "price": 227.5,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "51ab60a2c94d0044",
+    "supplierVariantId": "H-312-AM",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 227.5,
+    "color": {
+      "name": "Yellow",
+      "hex": "#FFFF00"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "8b563622bd561edb",
+    "supplierVariantId": "H-312-RO",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 227.5,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "contentKey": "ffb6ba1f0b13e495",
+    "supplierVariantId": "H-312-NE",
+    "stock": 13,
+    "stockLevel": "in-stock",
+    "price": 227.5,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      6
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "contentKey": "1c1ae734b7c857ca",
+    "supplierVariantId": "B-626-NE",
+    "stock": 12000,
+    "stockLevel": "in-stock",
+    "price": 0.43,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "2864d7fb0daf0861",
+    "supplierVariantId": "B-626-RY",
+    "stock": 8,
+    "stockLevel": "low",
+    "price": 0.43,
+    "color": {
+      "name": "Royal",
+      "hex": "#2D3192"
+    },
+    "imageRefs": [
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "ded1085e0765430b",
+    "supplierVariantId": "B-626-MA",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.43,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  }
+]

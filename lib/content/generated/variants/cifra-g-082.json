@@ -1,0 +1,55 @@
+[
+  {
+    "contentKey": "05e75b9f8cc99d8e",
+    "supplierVariantId": "G-082-ESP",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.55,
+    "color": {
+      "name": "Spain Flag"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "08b524538ea0e2f9",
+    "supplierVariantId": "G-082-POR",
+    "stock": 3540,
+    "stockLevel": "in-stock",
+    "price": 0.55,
+    "color": {
+      "name": "Portugal Flag"
+    },
+    "imageRefs": [
+      4
+    ]
+  },
+  {
+    "contentKey": "1f982b1e260d4317",
+    "supplierVariantId": "G-082-ITA",
+    "stock": 2384,
+    "stockLevel": "in-stock",
+    "price": 0.55,
+    "color": {
+      "name": "Italy Flag"
+    },
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "4ff1dd4ad9fa1aca",
+    "supplierVariantId": "G-082-FRA",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.55,
+    "color": {
+      "name": "France Flag"
+    },
+    "imageRefs": [
+      1,
+      2
+    ]
+  }
+]

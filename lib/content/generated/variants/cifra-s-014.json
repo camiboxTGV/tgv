@@ -1,0 +1,69 @@
+[
+  {
+    "contentKey": "0fdfcc1398b8eb6e",
+    "supplierVariantId": "S-014-BL",
+    "stock": 8402,
+    "stockLevel": "in-stock",
+    "price": 1.27,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "contentKey": "7b0bc79a741b3b31",
+    "supplierVariantId": "S-014-MA",
+    "stock": 3,
+    "stockLevel": "low",
+    "price": 1.27,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "imageRefs": [
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "contentKey": "97523a2c6135c41e",
+    "supplierVariantId": "S-014-AM-FL",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 1.27,
+    "color": {
+      "name": "Yellow Fluor"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "d72b0541494adbaf",
+    "supplierVariantId": "S-014-NE",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 1.27,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      11,
+      12,
+      13,
+      14,
+      15
+    ]
+  }
+]

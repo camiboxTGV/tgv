@@ -1,0 +1,59 @@
+[
+  {
+    "contentKey": "539714c7ca685d9d",
+    "supplierVariantId": "T-408-NE",
+    "stock": 15000,
+    "stockLevel": "in-stock",
+    "price": 1.58,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "a731f5a08cef44c5",
+    "supplierVariantId": "T-408-RO",
+    "stock": 7000,
+    "stockLevel": "in-stock",
+    "price": 1.58,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      4
+    ]
+  },
+  {
+    "contentKey": "ef5fefcf8821de7d",
+    "supplierVariantId": "T-408-MA",
+    "stock": 3071,
+    "stockLevel": "in-stock",
+    "price": 1.58,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "f3a3b2df722423b5",
+    "supplierVariantId": "T-408-CA",
+    "stock": 1539,
+    "stockLevel": "in-stock",
+    "price": 1.58,
+    "color": {
+      "name": "Coffee",
+      "hex": "#6F4E37"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  }
+]

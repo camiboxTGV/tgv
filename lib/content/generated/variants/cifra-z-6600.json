@@ -1,0 +1,59 @@
+[
+  {
+    "contentKey": "1c3614bdd54c6f62",
+    "supplierVariantId": "Z-6600-NE",
+    "stock": 696,
+    "stockLevel": "in-stock",
+    "price": 1.68,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "9e9a79a723dab61b",
+    "supplierVariantId": "Z-6600-MA",
+    "stock": 278,
+    "stockLevel": "in-stock",
+    "price": 1.68,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "f72dfc9226b9d7f8",
+    "supplierVariantId": "Z-6600-VE",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 1.68,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ]
+  }
+]

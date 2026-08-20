@@ -1,0 +1,98 @@
+[
+  {
+    "contentKey": "0cab68a63cb3d6d8",
+    "supplierVariantId": "T-103-RO",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 0.87,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "3715e6154b29da0e",
+    "supplierVariantId": "T-103-VE",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 0.87,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      15,
+      16,
+      17
+    ]
+  },
+  {
+    "contentKey": "486d1a1016bf9dc4",
+    "supplierVariantId": "T-103-RY",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 0.87,
+    "color": {
+      "name": "Royal",
+      "hex": "#2D3192"
+    },
+    "imageRefs": [
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "contentKey": "6e246b6efa87f81a",
+    "supplierVariantId": "T-103-NA",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 0.87,
+    "color": {
+      "name": "Orange",
+      "hex": "#FFA500"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "d34474f82bd6810f",
+    "supplierVariantId": "T-103-AM",
+    "stock": 1474,
+    "stockLevel": "in-stock",
+    "price": 0.87,
+    "color": {
+      "name": "Yellow",
+      "hex": "#FFFF00"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "fe19bb1bb00b5d29",
+    "supplierVariantId": "T-103-NE",
+    "stock": 2637,
+    "stockLevel": "in-stock",
+    "price": 0.87,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  }
+]

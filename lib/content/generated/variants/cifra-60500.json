@@ -1,0 +1,86 @@
+[
+  {
+    "contentKey": "06b3cacb791551bb",
+    "supplierVariantId": "60500-RO",
+    "stock": 1094,
+    "stockLevel": "in-stock",
+    "price": 1.83,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      5
+    ]
+  },
+  {
+    "contentKey": "6a4624f9a814d9ac",
+    "supplierVariantId": "60500-LI",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 1.83,
+    "color": {
+      "name": "Lilac",
+      "hex": "#C8A2C8"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "b37d7454a0dabd0a",
+    "supplierVariantId": "60500-NE",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 1.83,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "b89f1d20536107f2",
+    "supplierVariantId": "60500-CE",
+    "stock": 947,
+    "stockLevel": "in-stock",
+    "price": 1.83,
+    "color": {
+      "name": "Light blue",
+      "hex": "#87CEEB"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "c303cc521630a2e6",
+    "supplierVariantId": "60500-MA",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 1.83,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "ebc718e639424ed5",
+    "supplierVariantId": "60500-PS",
+    "stock": 2045,
+    "stockLevel": "in-stock",
+    "price": 1.83,
+    "color": {
+      "name": "Pistachio",
+      "hex": "#93C572"
+    },
+    "imageRefs": [
+      4
+    ]
+  }
+]

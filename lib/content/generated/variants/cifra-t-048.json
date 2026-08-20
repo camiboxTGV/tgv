@@ -1,0 +1,32 @@
+[
+  {
+    "contentKey": "07b4b08e2dc7c405",
+    "supplierVariantId": "T-048-PS",
+    "stock": 1354,
+    "stockLevel": "in-stock",
+    "price": 0.89,
+    "color": {
+      "name": "Pistachio",
+      "hex": "#93C572"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "68c5b88e19e25745",
+    "supplierVariantId": "T-048-RO",
+    "stock": 1414,
+    "stockLevel": "in-stock",
+    "price": 0.89,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  }
+]

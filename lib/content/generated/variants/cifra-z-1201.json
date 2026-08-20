@@ -1,0 +1,45 @@
+[
+  {
+    "contentKey": "4d9528b42cb4fa93",
+    "supplierVariantId": "Z-1201-BL",
+    "stock": 3745,
+    "stockLevel": "in-stock",
+    "price": 0.17,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "dd277e98bb8389af",
+    "supplierVariantId": "Z-1201",
+    "stock": 15000,
+    "stockLevel": "in-stock",
+    "price": 0.17,
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "fd588f04d97e8dbb",
+    "supplierVariantId": "Z-1201-NE",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.17,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      6,
+      7
+    ]
+  }
+]

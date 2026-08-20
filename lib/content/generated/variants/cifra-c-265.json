@@ -1,0 +1,72 @@
+[
+  {
+    "contentKey": "56dc17ba48c86a22",
+    "supplierVariantId": "C-265-BL",
+    "stock": 520,
+    "stockLevel": "in-stock",
+    "price": 1.26,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "9f6a9f597255a60f",
+    "supplierVariantId": "C-265-PT",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 1.26,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "a462e40c9aa42f6a",
+    "supplierVariantId": "C-265-RO",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 1.26,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "eb1e52742c9d40b7",
+    "supplierVariantId": "C-265-VE",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 1.26,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      4
+    ]
+  },
+  {
+    "contentKey": "fb69be58193858ea",
+    "supplierVariantId": "C-265-TR",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 1.26,
+    "color": {
+      "name": "Transparent",
+      "hex": "#F2F2F2"
+    },
+    "imageRefs": [
+      3
+    ]
+  }
+]

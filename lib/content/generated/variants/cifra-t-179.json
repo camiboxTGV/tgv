@@ -1,0 +1,72 @@
+[
+  {
+    "contentKey": "1b9de8f04f9a3423",
+    "supplierVariantId": "T-179-CA",
+    "stock": 356,
+    "stockLevel": "in-stock",
+    "price": 6.97,
+    "color": {
+      "name": "Coffee",
+      "hex": "#6F4E37"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "2a6dbc96719db236",
+    "supplierVariantId": "T-179-PS",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 6.97,
+    "color": {
+      "name": "Pistachio",
+      "hex": "#93C572"
+    },
+    "imageRefs": [
+      4
+    ]
+  },
+  {
+    "contentKey": "33b5a57c8938da94",
+    "supplierVariantId": "T-179-MA",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 6.97,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "9aa5cd528f03dcd5",
+    "supplierVariantId": "T-179-AZ",
+    "stock": 630,
+    "stockLevel": "in-stock",
+    "price": 6.97,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "c82fed3fb8759e86",
+    "supplierVariantId": "T-179-NE",
+    "stock": 1359,
+    "stockLevel": "in-stock",
+    "price": 6.97,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      3
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "contentKey": "939e8196867b82f8",
+    "supplierVariantId": "10015-AZ",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 0.84,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "9eaf46cfa01882dd",
+    "supplierVariantId": "10015-BL",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 0.84,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "efa804a842192ef0",
+    "supplierVariantId": "10015-RS",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 0.84,
+    "color": {
+      "name": "Pink",
+      "hex": "#FF1493"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  }
+]

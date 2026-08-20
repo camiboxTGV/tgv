@@ -1,5 +1,1973 @@
 [
   {
+    "slug": "cifra-10417",
+    "name": "AUTOMATIC UMBRELLA \"SPLASH\"",
+    "category": "umbrellas-and-rainwear/rainwear/raincoats",
+    "summary": "Umbrella with 8 transparent panels combined with opaque colors, structure and metal ribs. Automatic opening with push button integrated into an elegant black handle.",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G",
+        "label": "Cifra decoration code G",
+        "labelRo": "Cod personalizare Cifra G",
+        "printSizes": [
+          "250x100 mm"
+        ]
+      },
+      {
+        "code": "DTF",
+        "label": "Direct-to-film transfer",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "250x100 mm"
+        ]
+      },
+      {
+        "code": "DTFG",
+        "label": "Direct-to-film transfer",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "250x100 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "10417",
+    "supplierVariantIds": [
+      "10417-BL",
+      "10417-MA",
+      "10417-PI"
+    ],
+    "price": 4.36,
+    "priceFrom": false,
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/10417-BL-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10417-BL-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10417-BL-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10417-BL-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/10417-MA-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10417-MA-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10417-MA-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10417-MA-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/10417-PI-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10417-PI-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10417-PI-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10417-PI-01-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 3,
+    "colorCount": 3,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Marine",
+        "hex": "#00008B"
+      },
+      {
+        "name": "Stone",
+        "hex": "#8B8C7A"
+      },
+      {
+        "name": "White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "104 × 0 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "ABS"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "10 pcs",
+        "valueRo": "10 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "88,0 x 15,0 x 28,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "12.52 kg",
+        "valueRo": "12.52 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "12.04 kg",
+        "valueRo": "12.04 kg"
+      },
+      {
+        "key": "units-per-pallet",
+        "label": "Units per pallet",
+        "labelRo": "Unități per palet",
+        "value": "900 / 750 pcs",
+        "valueRo": "900 / 750 buc."
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "637"
+      }
+    ],
+    "weightGrams": 380,
+    "descriptionLong": "Umbrella with 8 transparent panels combined with opaque colors, structure and metal ribs. Automatic opening with push button integrated into an elegant black handle.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "cifra-10418",
+    "name": "AUTOMATIC UMBRELLA \"EXCELLENCE\"",
+    "category": "umbrellas-and-rainwear/rainwear/raincoats",
+    "summary": "Umbrella with push button and wooden handle. Available in navy, black and stone colors.",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G",
+        "label": "Cifra decoration code G",
+        "labelRo": "Cod personalizare Cifra G",
+        "printSizes": [
+          "250x100 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "10418",
+    "supplierVariantIds": [
+      "10418-MA",
+      "10418-NE",
+      "10418-PI"
+    ],
+    "price": 7.93,
+    "priceFrom": false,
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/10418-MA-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10418-MA-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10418-MA-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10418-MA-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/10418-NE-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10418-NE-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10418-NE-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10418-NE-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/10418-PI-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10418-PI-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10418-PI-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10418-PI-02-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 3,
+    "colorCount": 3,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Marine",
+        "hex": "#00008B"
+      },
+      {
+        "name": "Stone",
+        "hex": "#8B8C7A"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "134 × 0 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Microfibre. Fiber ribs and wooden handle."
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "10 pcs",
+        "valueRo": "10 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "102,0 x 20,0 x 25,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "20.4 kg",
+        "valueRo": "20.4 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "19.8 kg",
+        "valueRo": "19.8 kg"
+      },
+      {
+        "key": "units-per-pallet",
+        "label": "Units per pallet",
+        "labelRo": "Unități per palet",
+        "value": "720 pcs",
+        "valueRo": "720 buc."
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "634"
+      }
+    ],
+    "weightGrams": 640,
+    "descriptionLong": "Umbrella with push button and wooden handle. Available in navy, black and stone colors.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "cifra-10640",
+    "name": "AUTOMATIC UMBRELLA \"BRITISH\"",
+    "category": "umbrellas-and-rainwear/rainwear/raincoats",
+    "summary": "When opened, it reaches a diameter of 120 cm, providing wide and effective protection against heavy rain.It features an elegant design with a black outer canopy and a strikingly colourful inner lining.The metal shaft,...",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G",
+        "label": "Cifra decoration code G",
+        "labelRo": "Cod personalizare Cifra G",
+        "printSizes": [
+          "250x100 mm"
+        ]
+      },
+      {
+        "code": "DTF",
+        "label": "Direct-to-film transfer",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "250x100 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "10640",
+    "supplierVariantIds": [
+      "10640-GR",
+      "10640-RO",
+      "10640-RY",
+      "10640-VE"
+    ],
+    "price": 5.02,
+    "priceFrom": false,
+    "stock": 8000,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/10640-GR-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10640-GR-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10640-GR-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10640-GR-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10640-GR-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10640-GR-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/10640-RO-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10640-RO-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10640-RO-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10640-RO-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10640-RO-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10640-RO-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/10640-RY-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10640-RY-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10640-RY-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10640-RY-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10640-RY-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10640-RY-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/10640-VE-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10640-VE-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10640-VE-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10640-VE-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10640-VE-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10640-VE-01-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 4,
+    "colorCount": 4,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Gray",
+        "hex": "#808080"
+      },
+      {
+        "name": "Green",
+        "hex": "#00FF00"
+      },
+      {
+        "name": "Red",
+        "hex": "#FF0000"
+      },
+      {
+        "name": "Royal",
+        "hex": "#2D3192"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "120 × 0 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "POLYESTER + ALUMINIUM"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "10 / 1 pcs",
+        "valueRo": "10 / 1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "97,5 x 18,0 x 33,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "18 kg",
+        "valueRo": "18 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "16 kg",
+        "valueRo": "16 kg"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "636"
+      }
+    ],
+    "descriptionLong": "When opened, it reaches a diameter of 120 cm, providing wide and effective protection against heavy rain.It features an elegant design with a black outer canopy and a strikingly colourful inner lining.The metal shaft, top tip and Velcro fastening strap are all colour-matched in the same shade.It is equipped with a quick one-touch opening system that can be operated with a single hand.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "cifra-10765",
+    "name": "UMBRELLA \"PROTOCOLO\"",
+    "category": "umbrellas-and-rainwear/rainwear/raincoats",
+    "summary": "Protocol umbrella XL size, closed measurement 124cm (Diameter 183 cm).Fibreglass rods and handle made of eva, self-locking.",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "H",
+        "label": "Cifra decoration code H",
+        "labelRo": "Cod personalizare Cifra H",
+        "printSizes": [
+          "300x200 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "10765",
+    "supplierVariantIds": [
+      "10765-MA",
+      "10765-NE"
+    ],
+    "price": 18.13,
+    "priceFrom": false,
+    "stock": 1632,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/10765-MA-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10765-MA-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10765-MA-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10765-MA-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10765-MA-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10765-MA-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/10765-NE-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10765-NE-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10765-NE-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10765-NE-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10765-NE-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10765-NE-01-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 2,
+    "colorCount": 2,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Marine",
+        "hex": "#00008B"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "183 × 0 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Fiberglass and polyester pongee, EVA rubber handle"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "126,0 x 17,0 x 23,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "12.4 kg",
+        "valueRo": "12.4 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "10.8 kg",
+        "valueRo": "10.8 kg"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "633"
+      }
+    ],
+    "weightGrams": 900,
+    "descriptionLong": "Protocol umbrella XL size, closed measurement 124cm (Diameter 183 cm).Fibreglass rods and handle made of eva, self-locking.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "cifra-10969",
+    "name": "PONCHO WITH MESH CARRY BAG “AVENTURA”",
+    "category": "umbrellas-and-rainwear/rainwear/raincoats",
+    "summary": "Unisex rain poncho made from durable PEVA.Its loose-fitting design with a hood and snap closures on the sides offers comfortable protection.Each piece comes in an individual bag with an adjustable closure; bag size 15...",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "F",
+        "label": "Cifra decoration code F",
+        "labelRo": "Cod personalizare Cifra F",
+        "printSizes": [
+          "80x80 mm"
+        ]
+      },
+      {
+        "code": "DTF",
+        "label": "Direct-to-film transfer",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "80x80 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "10969",
+    "supplierVariantIds": [
+      "10969-AM",
+      "10969-BL",
+      "10969-RO",
+      "10969-RY"
+    ],
+    "price": 2.1,
+    "priceFrom": false,
+    "stock": 9061,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/10969-AM-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10969-AM-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10969-AM-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10969-AM-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10969-AM-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10969-AM-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/10969-BL-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10969-BL-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10969-BL-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10969-BL-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10969-BL-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10969-BL-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/10969-RO-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10969-RO-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10969-RO-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10969-RO-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10969-RO-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10969-RO-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/10969-RY-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10969-RY-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10969-RY-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10969-RY-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10969-RY-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10969-RY-02-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 4,
+    "colorCount": 4,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Red",
+        "hex": "#FF0000"
+      },
+      {
+        "name": "Royal",
+        "hex": "#2D3192"
+      },
+      {
+        "name": "White",
+        "hex": "#FFFFFF"
+      },
+      {
+        "name": "Yellow",
+        "hex": "#FFFF00"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "124 × 102 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "PEVA (PONCHO) AND RPET BAG"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "52,0 x 42,0 x 36,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "15.8 kg",
+        "valueRo": "15.8 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "14.8 kg",
+        "valueRo": "14.8 kg"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "639"
+      }
+    ],
+    "weightGrams": 140,
+    "descriptionLong": "Unisex rain poncho made from durable PEVA.Its loose-fitting design with a hood and snap closures on the sides offers comfortable protection.Each piece comes in an individual bag with an adjustable closure; bag size 15x27 cm.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "cifra-10971",
+    "name": "PONCHO WITH RPET BAG \"BROSS\"",
+    "category": "umbrellas-and-rainwear/rainwear/raincoats",
+    "summary": "Lightweight and foldable raincoat-poncho, ideal for unexpected rain. It comes in a handy rPet drawstring bag, making it easy to carry and store (bag dimensions: 12 x 15 cm).",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "F",
+        "label": "Cifra decoration code F",
+        "labelRo": "Cod personalizare Cifra F",
+        "printSizes": [
+          "60x60 mm"
+        ]
+      },
+      {
+        "code": "DTF",
+        "label": "Direct-to-film transfer",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "60x60 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "10971",
+    "supplierVariantIds": [
+      "10971-AM",
+      "10971-AZ",
+      "10971-BL",
+      "10971-RO"
+    ],
+    "price": 1.05,
+    "priceFrom": false,
+    "stock": 12000,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/10971-AM-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10971-AM-06-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10971-AM-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10971-AM-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10971-AM-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10971-AM-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10971-AM-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/10971-AZ-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10971-AZ-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10971-AZ-06-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10971-AZ-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10971-AZ-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10971-AZ-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10971-AZ-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/10971-BL-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10971-BL-06-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10971-BL-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10971-BL-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10971-BL-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10971-BL-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10971-BL-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/10971-RO-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10971-RO-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10971-RO-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10971-RO-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10971-RO-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10971-RO-06-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10971-RO-04-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 4,
+    "colorCount": 4,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Blue",
+        "hex": "#4169E1"
+      },
+      {
+        "name": "Red",
+        "hex": "#FF0000"
+      },
+      {
+        "name": "White",
+        "hex": "#FFFFFF"
+      },
+      {
+        "name": "Yellow",
+        "hex": "#FFFF00"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "124 × 102 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "PVC (PONCHO) AND RPET BAG"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "46,0 x 37,0 x 32,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "7.9 kg",
+        "valueRo": "7.9 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "6.9 kg",
+        "valueRo": "6.9 kg"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "638"
+      }
+    ],
+    "weightGrams": 48,
+    "descriptionLong": "Lightweight and foldable raincoat-poncho, ideal for unexpected rain. It comes in a handy rPet drawstring bag, making it easy to carry and store (bag dimensions: 12 x 15 cm).",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "cifra-c-003",
+    "name": "FOLDING WATERPROOF PONCHO \"CHUBI\"",
+    "category": "umbrellas-and-rainwear/rainwear/raincoats",
+    "summary": "Original ball-shaped keychain that holds a foldable blue rain poncho.Ball diameter 65 MM, poncho size 120x90 cm",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "D",
+        "label": "Cifra decoration code D",
+        "labelRo": "Cod personalizare Cifra D",
+        "printSizes": [
+          "30 x 30 mm",
+          "30x30 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "C-003",
+    "supplierVariantIds": [
+      "C-003-BL",
+      "C-003-FU",
+      "C-003-RO",
+      "C-003-RY",
+      "C-003-VE"
+    ],
+    "price": 0.59,
+    "priceFrom": false,
+    "stock": 19432,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/C-003-BL-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/C-003-BL-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/C-003-FU-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/C-003-FU-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/C-003-FU-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/C-003-RO-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/C-003-RO-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/C-003-RO-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/C-003-RY-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/C-003-RY-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/C-003-RY-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/C-003-VE-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/C-003-VE-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/C-003-VE-01-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 5,
+    "colorCount": 5,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Fuchsia",
+        "hex": "#FF00FF"
+      },
+      {
+        "name": "Green",
+        "hex": "#00FF00"
+      },
+      {
+        "name": "Red",
+        "hex": "#FF0000"
+      },
+      {
+        "name": "Royal",
+        "hex": "#2D3192"
+      },
+      {
+        "name": "White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "6 × 0 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "ABS / Plastic"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "59,0 x 39,0 x 36,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "8 kg",
+        "valueRo": "8 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "7 kg",
+        "valueRo": "7 kg"
+      },
+      {
+        "key": "units-per-pallet",
+        "label": "Units per pallet",
+        "labelRo": "Unități per palet",
+        "value": "4800 / 474 / 15 pcs",
+        "valueRo": "4800 / 474 / 15 buc."
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "638"
+      }
+    ],
+    "weightGrams": 27,
+    "descriptionLong": "Original ball-shaped keychain that holds a foldable blue rain poncho.Ball diameter 65 MM, poncho size 120x90 cm",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "cifra-e-049",
+    "name": "WATERPROOF COVER TABLET \"CIBELES\"",
+    "category": "umbrellas-and-rainwear/rainwear/raincoats",
+    "summary": "Protect your device from water, dirt, sand and dust. You will be able to use your device without removing it from the case.",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "F",
+        "label": "Cifra decoration code F",
+        "labelRo": "Cod personalizare Cifra F",
+        "printSizes": [
+          "130x20 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "E-049",
+    "supplierVariantIds": [
+      "E-049-AM",
+      "E-049-AZ",
+      "E-049-BL"
+    ],
+    "price": 0.29,
+    "priceFrom": false,
+    "stock": 1320,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/E-049-AM-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/E-049-AM-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/E-049-AZ-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/E-049-AZ-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/E-049-BL-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/E-049-BL-01-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 3,
+    "colorCount": 3,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Blue",
+        "hex": "#4169E1"
+      },
+      {
+        "name": "White",
+        "hex": "#FFFFFF"
+      },
+      {
+        "name": "Yellow",
+        "hex": "#FFFF00"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "21 × 31.5 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "PVC"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "40,0 x 30,0 x 30,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "15 kg",
+        "valueRo": "15 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "14.5 kg",
+        "valueRo": "14.5 kg"
+      },
+      {
+        "key": "units-per-pallet",
+        "label": "Units per pallet",
+        "labelRo": "Unități per palet",
+        "value": "372 / 352 / 3116 pcs",
+        "valueRo": "372 / 352 / 3116 buc."
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "729"
+      }
+    ],
+    "weightGrams": 49,
+    "descriptionLong": "Protect your device from water, dirt, sand and dust. You will be able to use your device without removing it from the case.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "cifra-rp-036",
+    "name": "WINDPROOF UMBRELLA \"STORM\"",
+    "category": "umbrellas-and-rainwear/rainwear/raincoats",
+    "summary": "Umbrella with golf-type handle and anti-wind rods, a system that prevents the umbrella from breaking in the event of strong wind. Nylon fabric with steel shaft and EVA rubber handle which makes it more comfortable to ...",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G",
+        "label": "Cifra decoration code G",
+        "labelRo": "Cod personalizare Cifra G",
+        "printSizes": [
+          "250 x 100 mm"
+        ]
+      },
+      {
+        "code": "DTF",
+        "label": "Direct-to-film transfer",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "250 x 100 mm"
+        ]
+      },
+      {
+        "code": "V",
+        "label": "Cifra decoration code V",
+        "labelRo": "Cod personalizare Cifra V",
+        "printSizes": [
+          "250 x 100 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "RP-036",
+    "supplierVariantIds": [
+      "RP-036-AM",
+      "RP-036-BL",
+      "RP-036-GR",
+      "RP-036-LI",
+      "RP-036-MA",
+      "RP-036-NA",
+      "RP-036-NE",
+      "RP-036-RO",
+      "RP-036-RY",
+      "RP-036-VE"
+    ],
+    "price": 3.04,
+    "priceFrom": false,
+    "stock": 19443,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/RP-036-AM-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-036-AM-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-036-AM-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-036-AM-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/RP-036-BL-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-036-BL-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-036-BL-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-036-BL-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/RP-036-GR-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-036-GR-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-036-GR-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-036-GR-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/RP-036-LI-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-036-LI-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-036-LI-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-036-LI-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/RP-036-MA-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-036-MA-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-036-MA-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-036-MA-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/RP-036-NA-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-036-NA-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-036-NA-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-036-NA-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/RP-036-NE-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-036-NE-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-036-NE-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-036-NE-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/RP-036-RO-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-036-RO-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-036-RO-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-036-RO-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/RP-036-RY-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-036-RY-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-036-RY-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-036-RY-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/RP-036-VE-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-036-VE-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-036-VE-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-036-VE-02-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 10,
+    "colorCount": 10,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Gray",
+        "hex": "#808080"
+      },
+      {
+        "name": "Green",
+        "hex": "#00FF00"
+      },
+      {
+        "name": "Lilac",
+        "hex": "#C8A2C8"
+      },
+      {
+        "name": "Marine",
+        "hex": "#00008B"
+      },
+      {
+        "name": "Orange",
+        "hex": "#FFA500"
+      },
+      {
+        "name": "Red",
+        "hex": "#FF0000"
+      },
+      {
+        "name": "Royal",
+        "hex": "#2D3192"
+      },
+      {
+        "name": "White",
+        "hex": "#FFFFFF"
+      },
+      {
+        "name": "Yellow",
+        "hex": "#FFFF00"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "130 × 0 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Polyester and rubber eva control"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "10 pcs",
+        "valueRo": "10 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "100,5 x 21,0 x 22,0 cm · 104,0 x 16,0 x 32,0 cm · 103,0 x 19,0 x 23,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "16 / 12.9 / 13.5 kg",
+        "valueRo": "16 / 12.9 / 13.5 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "15 / 1.202 / 12.2 / 12 kg",
+        "valueRo": "15 / 1.202 / 12.2 / 12 kg"
+      },
+      {
+        "key": "units-per-pallet",
+        "label": "Units per pallet",
+        "labelRo": "Unități per palet",
+        "value": "690 / 810 pcs",
+        "valueRo": "690 / 810 buc."
+      },
+      {
+        "key": "ean",
+        "label": "EAN",
+        "labelRo": "EAN",
+        "value": "8436534314184 · 8436534314191 · 8436534314207 · 8436534314214 · 8436534314221 · 8436534314238 · 8436534314245 · 8436534314252 · 8436534314269 · 8436534314276"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "635 · 635,661"
+      }
+    ],
+    "weightGrams": 425,
+    "descriptionLong": "Umbrella with golf-type handle and anti-wind rods, a system that prevents the umbrella from breaking in the event of strong wind. Nylon fabric with steel shaft and EVA rubber handle which makes it more comfortable to use.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "cifra-rp-039",
+    "name": "FOLDING UMBRELLA \"CROMO\"",
+    "category": "umbrellas-and-rainwear/rainwear/raincoats",
+    "summary": "Due to its small size you can take it comfortably wherever you need it. It's ideal for carrying in your bag, in the car or simply in your hand, since it incorporates a carrying strap and a matching protective cover.Cl...",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G",
+        "label": "Cifra decoration code G",
+        "labelRo": "Cod personalizare Cifra G",
+        "printSizes": [
+          "180 x 80 mm"
+        ]
+      },
+      {
+        "code": "DTF",
+        "label": "Direct-to-film transfer",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "180 x 80 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "RP-039",
+    "supplierVariantIds": [
+      "RP-039-GR",
+      "RP-039-LI",
+      "RP-039-NE",
+      "RP-039-RO",
+      "RP-039-RY",
+      "RP-039-VE"
+    ],
+    "price": 2.21,
+    "priceFrom": false,
+    "stock": 11702,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/RP-039-GR-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-039-GR-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-039-GR-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-039-GR-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/RP-039-LI-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-039-LI-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-039-LI-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/RP-039-NE-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-039-NE-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-039-NE-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/RP-039-RO-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-039-RO-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-039-RO-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/RP-039-RY-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-039-RY-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-039-RY-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/RP-039-VE-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-039-VE-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-039-VE-01-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 6,
+    "colorCount": 6,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Gray",
+        "hex": "#808080"
+      },
+      {
+        "name": "Green",
+        "hex": "#00FF00"
+      },
+      {
+        "name": "Lilac",
+        "hex": "#C8A2C8"
+      },
+      {
+        "name": "Red",
+        "hex": "#FF0000"
+      },
+      {
+        "name": "Royal",
+        "hex": "#2D3192"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "93 × 0 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Polyester, metal and plastic."
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "10 pcs",
+        "valueRo": "10 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "26,0 x 22,0 x 54,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "13 kg",
+        "valueRo": "13 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "12 kg",
+        "valueRo": "12 kg"
+      },
+      {
+        "key": "units-per-pallet",
+        "label": "Units per pallet",
+        "labelRo": "Unități per palet",
+        "value": "2520 pcs",
+        "valueRo": "2520 buc."
+      },
+      {
+        "key": "ean",
+        "label": "EAN",
+        "labelRo": "EAN",
+        "value": "8436606334096 · 8436606334102 · 8436534314283 · 8436534314290 · 8436534314306 · 8436534314313"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "636"
+      }
+    ],
+    "weightGrams": 200,
+    "descriptionLong": "Due to its small size you can take it comfortably wherever you need it. It's ideal for carrying in your bag, in the car or simply in your hand, since it incorporates a carrying strap and a matching protective cover.Closed size: 24 cm (length).",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "cifra-rp-064",
+    "name": "AUTOMATIC UMBRELLA \"LUXE\"",
+    "category": "umbrellas-and-rainwear/rainwear/raincoats",
+    "summary": "Elegant automatic umbrella made of polyester, steel ribs and ABS handle.Open diameter 100cm",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G",
+        "label": "Cifra decoration code G",
+        "labelRo": "Cod personalizare Cifra G",
+        "printSizes": [
+          "180x100 mm"
+        ]
+      },
+      {
+        "code": "DTF",
+        "label": "Direct-to-film transfer",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "180x100 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "RP-064",
+    "supplierVariantIds": [
+      "RP-064-AZ",
+      "RP-064-GR",
+      "RP-064-NE",
+      "RP-064-RO",
+      "RP-064-VE"
+    ],
+    "price": 2.9,
+    "priceFrom": false,
+    "stock": 4151,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/RP-064-AZ-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-064-AZ-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-064-AZ-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-064-AZ-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/RP-064-GR-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-064-GR-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-064-GR-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-064-GR-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/RP-064-NE-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-064-NE-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-064-NE-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-064-NE-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/RP-064-RO-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-064-RO-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-064-RO-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-064-RO-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/RP-064-VE-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-064-VE-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-064-VE-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-064-VE-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-064-VE-03-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 5,
+    "colorCount": 5,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Blue",
+        "hex": "#4169E1"
+      },
+      {
+        "name": "Gray",
+        "hex": "#808080"
+      },
+      {
+        "name": "Green",
+        "hex": "#00FF00"
+      },
+      {
+        "name": "Red",
+        "hex": "#FF0000"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "105 × 0 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "POLYESTER"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "10 pcs",
+        "valueRo": "10 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "85,0 x 14,0 x 34,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "15 kg",
+        "valueRo": "15 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "14 kg",
+        "valueRo": "14 kg"
+      },
+      {
+        "key": "units-per-pallet",
+        "label": "Units per pallet",
+        "labelRo": "Unități per palet",
+        "value": "1000 pcs",
+        "valueRo": "1000 buc."
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "636"
+      }
+    ],
+    "weightGrams": 300,
+    "descriptionLong": "Elegant automatic umbrella made of polyester, steel ribs and ABS handle.Open diameter 100cm",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "cifra-rp-066",
+    "name": "WOODEN HANDLE UMBRELLA \"ZEIST\"",
+    "category": "umbrellas-and-rainwear/rainwear/raincoats",
+    "summary": "Stroller umbrella, 170T nylon fabric with steel handle and wooden handle OPEN DIAMETER: 104 CM",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G",
+        "label": "Cifra decoration code G",
+        "labelRo": "Cod personalizare Cifra G",
+        "printSizes": [
+          "200 x 100 mm"
+        ]
+      },
+      {
+        "code": "DTF",
+        "label": "Direct-to-film transfer",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "200 x 100 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "RP-066",
+    "supplierVariantIds": [
+      "RP-066-AZ",
+      "RP-066-GR",
+      "RP-066-LI",
+      "RP-066-MA",
+      "RP-066-NA",
+      "RP-066-NE",
+      "RP-066-PI",
+      "RP-066-RO",
+      "RP-066-VE"
+    ],
+    "price": 3.56,
+    "priceFrom": false,
+    "stock": 10751,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/RP-066-AZ-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-066-AZ-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/RP-066-GR-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-066-GR-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-066-GR-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/RP-066-LI-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-066-LI-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/RP-066-MA-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-066-MA-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/RP-066-NA-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-066-NA-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/RP-066-NE-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-066-NE-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/RP-066-PI-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-066-PI-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/RP-066-RO-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-066-RO-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/RP-066-VE-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-066-VE-01-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 9,
+    "colorCount": 9,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Blue",
+        "hex": "#4169E1"
+      },
+      {
+        "name": "Gray",
+        "hex": "#808080"
+      },
+      {
+        "name": "Green",
+        "hex": "#00FF00"
+      },
+      {
+        "name": "Lilac",
+        "hex": "#C8A2C8"
+      },
+      {
+        "name": "Marine",
+        "hex": "#00008B"
+      },
+      {
+        "name": "Orange",
+        "hex": "#FFA500"
+      },
+      {
+        "name": "Red",
+        "hex": "#FF0000"
+      },
+      {
+        "name": "Stone",
+        "hex": "#8B8C7A"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "104 × 0 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Wood and Polyester"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "15 / 10 pcs",
+        "valueRo": "15 / 10 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "93,0 x 23,0 x 26,0 cm · 95,5 x 25,0 x 18,5 cm · 93,0 x 25,0 x 26,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "12.6 / 10 / 10.3 / 11.8 kg",
+        "valueRo": "12.6 / 10 / 10.3 / 11.8 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "10.8 / 9 / 9.3 kg",
+        "valueRo": "10.8 / 9 / 9.3 kg"
+      },
+      {
+        "key": "units-per-pallet",
+        "label": "Units per pallet",
+        "labelRo": "Unități per palet",
+        "value": "630 / 690 / 24 pcs",
+        "valueRo": "630 / 690 / 24 buc."
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "637"
+      }
+    ],
+    "weightGrams": 310,
+    "descriptionLong": "Stroller umbrella, 170T nylon fabric with steel handle and wooden handle OPEN DIAMETER: 104 CM",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "cifra-rp-068",
+    "name": "AUTOMATIC TRANSPARENT UMBRELLA \"TV\"",
+    "category": "umbrellas-and-rainwear/rainwear/raincoats",
+    "summary": "Automatic opening. Click-close folding. Wooden handle and end-tip.",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "H",
+        "label": "Cifra decoration code H",
+        "labelRo": "Cod personalizare Cifra H",
+        "printSizes": [
+          "120x120 mm (1 gajo)"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "RP-068",
+    "supplierVariantIds": [
+      "RP-068"
+    ],
+    "price": 4.06,
+    "priceFrom": false,
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/RP-068-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-068-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-068-01-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 1,
+    "colorCount": 0,
+    "sizeCount": 0,
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "100 × 0 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "ABS"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "10 pcs",
+        "valueRo": "10 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "91,0 x 17,0 x 28,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "11.69 kg",
+        "valueRo": "11.69 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "10.35 kg",
+        "valueRo": "10.35 kg"
+      },
+      {
+        "key": "units-per-pallet",
+        "label": "Units per pallet",
+        "labelRo": "Unități per palet",
+        "value": "720 pcs",
+        "valueRo": "720 buc."
+      },
+      {
+        "key": "ean",
+        "label": "EAN",
+        "labelRo": "EAN",
+        "value": "8436606330968"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "637"
+      }
+    ],
+    "weightGrams": 345,
+    "descriptionLong": "Automatic opening. Click-close folding. Wooden handle and end-tip.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "cifra-rp-069",
+    "name": "AUTOMATIC UMBRELLA \"HIGH LEVEL\"",
+    "category": "umbrellas-and-rainwear/rainwear/raincoats",
+    "summary": "Large capacity umbrella with ergonomically designed handle made of metal and rubber.",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen",
+      "textile-transfer",
+      "uv-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G",
+        "label": "Cifra decoration code G",
+        "labelRo": "Cod personalizare Cifra G",
+        "printSizes": [
+          "250x100 mm"
+        ]
+      },
+      {
+        "code": "DTF",
+        "label": "Direct-to-film transfer",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "250x100 mm"
+        ]
+      },
+      {
+        "code": "GOTA DE RESINA",
+        "label": "Resin dome",
+        "labelRo": "Doming cu rășină",
+        "printSizes": [
+          "250x100 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "RP-069",
+    "supplierVariantIds": [
+      "RP-069-GR",
+      "RP-069-MA",
+      "RP-069-NE"
+    ],
+    "price": 7.06,
+    "priceFrom": false,
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/RP-069-GR-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-069-GR-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-069-GR-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-069-GR-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-069-GR-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-069-GR-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/RP-069-MA-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-069-MA-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-069-MA-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-069-MA-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-069-MA-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-069-MA-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/RP-069-NE-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-069-NE-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-069-NE-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-069-NE-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-069-NE-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-069-NE-01-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 3,
+    "colorCount": 3,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Gray",
+        "hex": "#808080"
+      },
+      {
+        "name": "Marine",
+        "hex": "#00008B"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "123 × 0 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Polyester, fiberglass, rubber and metal"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "10 pcs",
+        "valueRo": "10 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "95,0 x 15,0 x 24,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "13 kg",
+        "valueRo": "13 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "11.4 kg",
+        "valueRo": "11.4 kg"
+      },
+      {
+        "key": "units-per-pallet",
+        "label": "Units per pallet",
+        "labelRo": "Unități per palet",
+        "value": "700 / 600 pcs",
+        "valueRo": "700 / 600 buc."
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "634"
+      }
+    ],
+    "weightGrams": 572,
+    "descriptionLong": "Large capacity umbrella with ergonomically designed handle made of metal and rubber.",
+    "hasVariantDetail": true
+  },
+  {
     "slug": "macma-40978",
     "name": "Rain poncho",
     "category": "umbrellas-and-rainwear/rainwear/raincoats",
@@ -40,7 +2008,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/4097866_lifestyle_5.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/4097866_lifestyle_6.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -126,7 +2094,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/4188266_lifestyle_5.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/4188266_lifestyle_6.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:46.287Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -240,7 +2208,7 @@
       "https://macma.ro/products/jpg/M/4378809_4.jpg",
       "https://macma.ro/products/jpg/M/4378809_5.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -334,14 +2302,14 @@
     ],
     "price": 3.69,
     "priceFrom": false,
-    "stock": 268,
+    "stock": 768,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/4910166_0.jpg",
       "https://macma.ro/products/jpg/M/4910166_1.jpg",
       "https://macma.ro/products/jpg/M/4910166_3.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:46.287Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -442,7 +2410,7 @@
       "https://macma.ro/products/jpg/M/4920549_3.jpg",
       "https://macma.ro/products/jpg/M/4920549_4.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 1,
@@ -533,7 +2501,7 @@
       "https://macma.ro/products/jpg/M/4921866_3.jpg",
       "https://macma.ro/products/jpg/M/4921866_4.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:46.287Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -629,7 +2597,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/5267144_lifestyle_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/5267144_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:46.287Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -713,7 +2681,7 @@
     ],
     "price": 2.96,
     "priceFrom": false,
-    "stock": 40853,
+    "stock": 40845,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/it0971-04.jpg",
@@ -721,7 +2689,7 @@
       "https://cdn1.midocean.com/image/700X700/it0971-06.jpg",
       "https://cdn1.midocean.com/image/700X700/it0971-04-ambiant.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -814,7 +2782,7 @@
     ],
     "price": 0.41,
     "priceFrom": false,
-    "stock": 274131,
+    "stock": 273543,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/it0972-22.jpg",
@@ -826,7 +2794,7 @@
       "https://cdn1.midocean.com/image/700X700/it0972-22-open.jpg",
       "https://cdn1.midocean.com/image/700X700/it0972-22-print.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -931,7 +2899,7 @@
       "https://cdn1.midocean.com/image/700X700/kc5101-08-print.jpg",
       "https://cdn1.midocean.com/image/700X700/kc5101-08-ambiant.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -1016,7 +2984,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2128-06-open.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2128-06-detail.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1100,7 +3068,7 @@
     ],
     "price": 0.9,
     "priceFrom": false,
-    "stock": 62541,
+    "stock": 62488,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo7421-03.jpg",
@@ -1110,7 +3078,7 @@
       "https://cdn1.midocean.com/image/700X700/mo7421-48.jpg",
       "https://cdn1.midocean.com/image/700X700/mo7421-10.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -1216,14 +3184,14 @@
     ],
     "price": 0.98,
     "priceFrom": false,
-    "stock": 22886,
+    "stock": 22885,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo9993-22.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9993-22-back.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9993-22-open.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

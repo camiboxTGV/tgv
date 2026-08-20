@@ -1,0 +1,40 @@
+[
+  {
+    "contentKey": "367cbd967257eecd",
+    "supplierVariantId": "C-476-AZ",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 7.22,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "4e645919f57039f0",
+    "supplierVariantId": "C-476-NE",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 7.22,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  }
+]

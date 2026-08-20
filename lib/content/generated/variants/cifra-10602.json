@@ -1,0 +1,30 @@
+[
+  {
+    "contentKey": "36400c4af215fc62",
+    "supplierVariantId": "10602-NE",
+    "stock": 1637,
+    "stockLevel": "in-stock",
+    "price": 1.25,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "895e2b2f78c9d066",
+    "supplierVariantId": "10602-BL",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 1.25,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0
+    ]
+  }
+]

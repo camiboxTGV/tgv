@@ -1,0 +1,70 @@
+[
+  {
+    "contentKey": "698e1cf904064ee3",
+    "supplierVariantId": "11012-LI",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.72,
+    "color": {
+      "name": "Lilac",
+      "hex": "#C8A2C8"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "6e196a52768aa343",
+    "supplierVariantId": "11012-OR",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.72,
+    "color": {
+      "name": "Gold",
+      "hex": "#FFD700"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "91f58f6aba14e7f4",
+    "supplierVariantId": "11012-PT",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.72,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "imageRefs": [
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "9fc74aa8a5e63667",
+    "supplierVariantId": "11012-TU",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.72,
+    "color": {
+      "name": "Turquoise",
+      "hex": "#40E0D0"
+    },
+    "imageRefs": [
+      12,
+      13,
+      14,
+      15
+    ]
+  }
+]

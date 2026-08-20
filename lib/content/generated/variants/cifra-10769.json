@@ -1,0 +1,96 @@
+[
+  {
+    "contentKey": "6e02a824d8aada4e",
+    "supplierVariantId": "10769-VE",
+    "stock": 7000,
+    "stockLevel": "in-stock",
+    "price": 0.5,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      15,
+      16,
+      17
+    ]
+  },
+  {
+    "contentKey": "9c93cb8b04f2c577",
+    "supplierVariantId": "10769-NE",
+    "stock": 5400,
+    "stockLevel": "in-stock",
+    "price": 0.5,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "contentKey": "ab0dde196bfc2f18",
+    "supplierVariantId": "10769-FRA",
+    "stock": 2334,
+    "stockLevel": "in-stock",
+    "price": 0.5,
+    "color": {
+      "name": "France Flag"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "e0d7c8a56bac27e0",
+    "supplierVariantId": "10769-ITA",
+    "stock": 3343,
+    "stockLevel": "in-stock",
+    "price": 0.5,
+    "color": {
+      "name": "Italy Flag"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "f823171ceac7ef33",
+    "supplierVariantId": "10769-BL",
+    "stock": 7000,
+    "stockLevel": "in-stock",
+    "price": 0.5,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "fa4601c65828bc29",
+    "supplierVariantId": "10769-MA",
+    "stock": 7000,
+    "stockLevel": "in-stock",
+    "price": 0.5,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "imageRefs": [
+      9,
+      10,
+      11
+    ]
+  }
+]

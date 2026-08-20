@@ -1,0 +1,186 @@
+[
+  {
+    "contentKey": "1fc3778849addea4",
+    "supplierVariantId": "T-092-BL",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.12,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "534d4749588541bd",
+    "supplierVariantId": "T-092-NA",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.12,
+    "color": {
+      "name": "Orange",
+      "hex": "#FFA500"
+    },
+    "imageRefs": [
+      10
+    ]
+  },
+  {
+    "contentKey": "71cc72892b52cd8d",
+    "supplierVariantId": "T-092-FU",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.12,
+    "color": {
+      "name": "Fuchsia",
+      "hex": "#FF00FF"
+    },
+    "imageRefs": [
+      5
+    ]
+  },
+  {
+    "contentKey": "875fd039527f1079",
+    "supplierVariantId": "T-092-NE",
+    "stock": 20000,
+    "stockLevel": "in-stock",
+    "price": 0.12,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      11
+    ]
+  },
+  {
+    "contentKey": "a6529dcff73f6fc6",
+    "supplierVariantId": "T-092-CR",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.12,
+    "color": {
+      "name": "Beige",
+      "hex": "#C2B280"
+    },
+    "imageRefs": [
+      3,
+      4
+    ]
+  },
+  {
+    "contentKey": "b2bb899ead51df05",
+    "supplierVariantId": "T-092-AZ",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.12,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "b62938b3ce08e110",
+    "supplierVariantId": "T-092-RY",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.12,
+    "color": {
+      "name": "Royal",
+      "hex": "#2D3192"
+    },
+    "imageRefs": [
+      13
+    ]
+  },
+  {
+    "contentKey": "b9e6b08252a85a75",
+    "supplierVariantId": "T-092-VE",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.12,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      14
+    ]
+  },
+  {
+    "contentKey": "bdc694659e103b0e",
+    "supplierVariantId": "T-092-GR",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.12,
+    "color": {
+      "name": "Gray",
+      "hex": "#808080"
+    },
+    "imageRefs": [
+      6
+    ]
+  },
+  {
+    "contentKey": "d1352be921c35b78",
+    "supplierVariantId": "T-092-MA",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.12,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "imageRefs": [
+      8
+    ]
+  },
+  {
+    "contentKey": "d9bda428d6ce4210",
+    "supplierVariantId": "T-092-RO",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.12,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      12
+    ]
+  },
+  {
+    "contentKey": "f5cc834ebd554829",
+    "supplierVariantId": "T-092-MR",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.12,
+    "color": {
+      "name": "Brown",
+      "hex": "#800000"
+    },
+    "imageRefs": [
+      9
+    ]
+  },
+  {
+    "contentKey": "f6dd2910a21dc331",
+    "supplierVariantId": "T-092-LI",
+    "stock": 8000,
+    "stockLevel": "in-stock",
+    "price": 0.12,
+    "color": {
+      "name": "Lilac",
+      "hex": "#C8A2C8"
+    },
+    "imageRefs": [
+      7
+    ]
+  }
+]

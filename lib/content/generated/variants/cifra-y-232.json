@@ -1,0 +1,58 @@
+[
+  {
+    "contentKey": "1324399fa57913af",
+    "supplierVariantId": "Y-232-RO",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 0.06,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "6de901926bbfb8d4",
+    "supplierVariantId": "Y-232-VE",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 0.06,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "c03e8f0532943d73",
+    "supplierVariantId": "Y-232-LI",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 0.06,
+    "color": {
+      "name": "Lilac",
+      "hex": "#C8A2C8"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "e336a73d11eb8614",
+    "supplierVariantId": "Y-232-NE",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 0.06,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      1
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "contentKey": "1cd1eb2ef4f2c97b",
+    "supplierVariantId": "N-025-VE",
+    "stock": 1243,
+    "stockLevel": "in-stock",
+    "price": 0.66,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "8d5a163043f9130c",
+    "supplierVariantId": "N-025-RO",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.66,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "b66c4345eb0cbe3e",
+    "supplierVariantId": "N-025",
+    "stock": 1480,
+    "stockLevel": "in-stock",
+    "price": 0.66,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "f6f71a30dce8e5d7",
+    "supplierVariantId": "N-025-AZ",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.66,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      1
+    ]
+  }
+]

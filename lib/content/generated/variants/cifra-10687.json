@@ -1,0 +1,44 @@
+[
+  {
+    "contentKey": "6b3cc412f7f5f9f6",
+    "supplierVariantId": "10687-LI",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.74,
+    "color": {
+      "name": "Lilac",
+      "hex": "#C8A2C8"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "baa5c2a0d187d2aa",
+    "supplierVariantId": "10687-BL",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.74,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "da08976176683878",
+    "supplierVariantId": "10687-NE",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.74,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      2
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "contentKey": "7a8281a468c129e8",
+    "supplierVariantId": "10197-MA",
+    "stock": 191,
+    "stockLevel": "in-stock",
+    "price": 3.84,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "imageRefs": [
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "9fcf85dd64dcc241",
+    "supplierVariantId": "10197-GR",
+    "stock": 177,
+    "stockLevel": "in-stock",
+    "price": 3.84,
+    "color": {
+      "name": "Gray",
+      "hex": "#808080"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "b2e7a2b78da804e0",
+    "supplierVariantId": "10197-GR-OS",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 3.84,
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+]

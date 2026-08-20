@@ -1,0 +1,82 @@
+[
+  {
+    "contentKey": "06ab5bc57588507b",
+    "supplierVariantId": "A-328-VE",
+    "stock": 15000,
+    "stockLevel": "in-stock",
+    "price": 0.24,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "contentKey": "6f015620e840ce94",
+    "supplierVariantId": "A-328-BL",
+    "stock": 25000,
+    "stockLevel": "in-stock",
+    "price": 0.24,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "6f5ec92fcf5b13ca",
+    "supplierVariantId": "A-328-NE",
+    "stock": 15000,
+    "stockLevel": "in-stock",
+    "price": 0.24,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "c088092dfae0fe02",
+    "supplierVariantId": "A-328-AZ",
+    "stock": 20000,
+    "stockLevel": "in-stock",
+    "price": 0.24,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "c88f8980502bcf47",
+    "supplierVariantId": "A-328-MR",
+    "stock": 94,
+    "stockLevel": "in-stock",
+    "price": 0.24,
+    "color": {
+      "name": "Brown",
+      "hex": "#800000"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "contentKey": "239b77edfdfad339",
+    "supplierVariantId": "C-148-NE",
+    "stock": 535,
+    "stockLevel": "in-stock",
+    "price": 5.75,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "38b6fdce6db66951",
+    "supplierVariantId": "C-148-RO",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 5.75,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "963ed4978dc385ec",
+    "supplierVariantId": "C-148-GR",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 5.75,
+    "color": {
+      "name": "Gray",
+      "hex": "#808080"
+    },
+    "imageRefs": [
+      0
+    ]
+  }
+]

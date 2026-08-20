@@ -1,0 +1,70 @@
+[
+  {
+    "contentKey": "52bad8c38765a23f",
+    "supplierVariantId": "T-149-PI",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 2.33,
+    "color": {
+      "name": "Stone",
+      "hex": "#8B8C7A"
+    },
+    "imageRefs": [
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "8ea7aacb3b106a40",
+    "supplierVariantId": "T-149-MA",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 2.33,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "d9628fb3177e68b0",
+    "supplierVariantId": "T-149-VE",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 2.33,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      12,
+      13,
+      14,
+      15
+    ]
+  },
+  {
+    "contentKey": "dbbfdc2ebd9e0046",
+    "supplierVariantId": "T-149-BL",
+    "stock": 80,
+    "stockLevel": "in-stock",
+    "price": 2.33,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  }
+]

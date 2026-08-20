@@ -1,0 +1,80 @@
+[
+  {
+    "contentKey": "3bcdde6475252dc3",
+    "supplierVariantId": "B-235-AZ",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.1,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "d5db022ea73a01d4",
+    "supplierVariantId": "B-235-FU",
+    "stock": 8000,
+    "stockLevel": "in-stock",
+    "price": 0.1,
+    "color": {
+      "name": "Fuchsia",
+      "hex": "#FF00FF"
+    },
+    "imageRefs": [
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "d6f501bc38c5b3a3",
+    "supplierVariantId": "B-235-VE",
+    "stock": 12000,
+    "stockLevel": "in-stock",
+    "price": 0.1,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "contentKey": "d8d3dcbaef55fbda",
+    "supplierVariantId": "B-235-LI",
+    "stock": 7365,
+    "stockLevel": "in-stock",
+    "price": 0.1,
+    "color": {
+      "name": "Lilac",
+      "hex": "#C8A2C8"
+    },
+    "imageRefs": [
+      8,
+      9
+    ]
+  },
+  {
+    "contentKey": "dd52cb39c761c076",
+    "supplierVariantId": "B-235-BL",
+    "stock": 20000,
+    "stockLevel": "in-stock",
+    "price": 0.1,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  }
+]

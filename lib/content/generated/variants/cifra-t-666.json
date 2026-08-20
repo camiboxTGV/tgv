@@ -1,0 +1,82 @@
+[
+  {
+    "contentKey": "08307dedc809aaec",
+    "supplierVariantId": "T-666-M-AZ",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 8.39,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "size": "M",
+    "imageRefs": [
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "31c5727849e7b115",
+    "supplierVariantId": "T-666-S-AZ",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 8.39,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "size": "S",
+    "imageRefs": [
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "400cb3f4daa15ffd",
+    "supplierVariantId": "T-666-XXL-AZ",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 8.39,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      8,
+      9
+    ]
+  },
+  {
+    "contentKey": "c6da64f2f63d575a",
+    "supplierVariantId": "T-666-XL-AZ",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 8.39,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "size": "XL",
+    "imageRefs": [
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "f4a8afd0af88d4f4",
+    "supplierVariantId": "T-666-L-AZ",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 8.39,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "size": "L",
+    "imageRefs": [
+      0,
+      1
+    ]
+  }
+]

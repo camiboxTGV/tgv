@@ -1,0 +1,47 @@
+[
+  {
+    "contentKey": "0674466762f92613",
+    "supplierVariantId": "10025-RS",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.27,
+    "color": {
+      "name": "Pink",
+      "hex": "#FF1493"
+    },
+    "imageRefs": [
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "1f406b676db1e043",
+    "supplierVariantId": "10025-BL",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.27,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "3a9113de3910753d",
+    "supplierVariantId": "10025-LI",
+    "stock": 1814,
+    "stockLevel": "in-stock",
+    "price": 0.27,
+    "color": {
+      "name": "Lilac",
+      "hex": "#C8A2C8"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  }
+]

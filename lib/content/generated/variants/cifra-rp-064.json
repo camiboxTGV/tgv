@@ -1,0 +1,88 @@
+[
+  {
+    "contentKey": "62932325f501af74",
+    "supplierVariantId": "RP-064-NE",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 2.9,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "b588e2bab56221c7",
+    "supplierVariantId": "RP-064-RO",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 2.9,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      12,
+      13,
+      14,
+      15
+    ]
+  },
+  {
+    "contentKey": "b5a8fbcf9aabfeeb",
+    "supplierVariantId": "RP-064-VE",
+    "stock": 151,
+    "stockLevel": "in-stock",
+    "price": 2.9,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      16,
+      17,
+      18,
+      19,
+      20
+    ]
+  },
+  {
+    "contentKey": "cf384319e7c53f84",
+    "supplierVariantId": "RP-064-AZ",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 2.9,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "ff29c2bf217439ae",
+    "supplierVariantId": "RP-064-GR",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 2.9,
+    "color": {
+      "name": "Gray",
+      "hex": "#808080"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+]

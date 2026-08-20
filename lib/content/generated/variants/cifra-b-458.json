@@ -1,0 +1,138 @@
+[
+  {
+    "contentKey": "18402e4bff707267",
+    "supplierVariantId": "B-458-PT",
+    "stock": 8000,
+    "stockLevel": "in-stock",
+    "price": 0.15,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "imageRefs": [
+      20,
+      21,
+      22,
+      23
+    ]
+  },
+  {
+    "contentKey": "5c19707c92cdad62",
+    "supplierVariantId": "B-458-AM",
+    "stock": 8000,
+    "stockLevel": "in-stock",
+    "price": 0.15,
+    "color": {
+      "name": "Yellow",
+      "hex": "#FFFF00"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "6a05efad05f155b0",
+    "supplierVariantId": "B-458-NA",
+    "stock": 8000,
+    "stockLevel": "in-stock",
+    "price": 0.15,
+    "color": {
+      "name": "Orange",
+      "hex": "#FFA500"
+    },
+    "imageRefs": [
+      12,
+      13,
+      14,
+      15
+    ]
+  },
+  {
+    "contentKey": "6fab736b93013afd",
+    "supplierVariantId": "B-458-LI",
+    "stock": 6948,
+    "stockLevel": "in-stock",
+    "price": 0.15,
+    "color": {
+      "name": "Lilac",
+      "hex": "#C8A2C8"
+    },
+    "imageRefs": [
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "8ee2dc4d197c38c8",
+    "supplierVariantId": "B-458-NE",
+    "stock": 12000,
+    "stockLevel": "in-stock",
+    "price": 0.15,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      16,
+      17,
+      18,
+      19
+    ]
+  },
+  {
+    "contentKey": "91e9daaa40f6e099",
+    "supplierVariantId": "B-458-AZ",
+    "stock": 2753,
+    "stockLevel": "in-stock",
+    "price": 0.15,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "9519108406055219",
+    "supplierVariantId": "B-458-RO",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.15,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      24,
+      25,
+      26,
+      27
+    ]
+  },
+  {
+    "contentKey": "d4e2dc8f96bf52ef",
+    "supplierVariantId": "B-458-VE",
+    "stock": 12000,
+    "stockLevel": "in-stock",
+    "price": 0.15,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      28,
+      29,
+      30,
+      31
+    ]
+  }
+]

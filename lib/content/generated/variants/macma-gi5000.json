@@ -130,8 +130,8 @@
   {
     "contentKey": "031af7aaac02da7c",
     "supplierVariantId": "GI5000DH-5XL",
-    "stock": 120,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 3.95,
     "color": {
       "name": "Dark Heather",
@@ -345,7 +345,7 @@
   {
     "contentKey": "114c08aeac0195b9",
     "supplierVariantId": "GI5000BL-S",
-    "stock": 87036,
+    "stock": 86889,
     "stockLevel": "in-stock",
     "price": 2.65,
     "color": {
@@ -364,7 +364,7 @@
   {
     "contentKey": "1360b9fd984ff7f1",
     "supplierVariantId": "GI5000RO-XL",
-    "stock": 21379,
+    "stock": 21374,
     "stockLevel": "in-stock",
     "price": 2.65,
     "color": {
@@ -513,7 +513,7 @@
   {
     "contentKey": "1ce777b6516d4271",
     "supplierVariantId": "GI5000RO-M",
-    "stock": 26644,
+    "stock": 26619,
     "stockLevel": "in-stock",
     "price": 2.65,
     "color": {
@@ -569,7 +569,7 @@
   {
     "contentKey": "200f3b7deca6d4f9",
     "supplierVariantId": "GI5000WH-3XL",
-    "stock": 2248,
+    "stock": 2212,
     "stockLevel": "in-stock",
     "price": 3.2,
     "color": {
@@ -587,7 +587,7 @@
   {
     "contentKey": "200f3b7deca6d4f9",
     "supplierVariantId": "GI5000WH-4XL",
-    "stock": 2925,
+    "stock": 2889,
     "stockLevel": "in-stock",
     "price": 3.2,
     "color": {
@@ -605,7 +605,7 @@
   {
     "contentKey": "200f3b7deca6d4f9",
     "supplierVariantId": "GI5000WH-5XL",
-    "stock": 5025,
+    "stock": 4989,
     "stockLevel": "in-stock",
     "price": 3.2,
     "color": {
@@ -679,7 +679,7 @@
   {
     "contentKey": "21ca9a44abff405b",
     "supplierVariantId": "GI5000OR-3XL",
-    "stock": 3059,
+    "stock": 1259,
     "stockLevel": "in-stock",
     "price": 3.95,
     "color": {
@@ -787,7 +787,7 @@
   {
     "contentKey": "2cb362ac70386c15",
     "supplierVariantId": "GI5000RO-S",
-    "stock": 20087,
+    "stock": 20072,
     "stockLevel": "in-stock",
     "price": 2.65,
     "color": {
@@ -1508,7 +1508,7 @@
   {
     "contentKey": "44ad1ed072221b7c",
     "supplierVariantId": "GI5000NV-XL",
-    "stock": 64803,
+    "stock": 64802,
     "stockLevel": "in-stock",
     "price": 2.65,
     "color": {
@@ -1930,7 +1930,7 @@
   {
     "contentKey": "566808313ce70a21",
     "supplierVariantId": "GI5000CH-M",
-    "stock": 23066,
+    "stock": 22994,
     "stockLevel": "in-stock",
     "price": 2.65,
     "color": {
@@ -1967,7 +1967,7 @@
   {
     "contentKey": "57cbd56645381f40",
     "supplierVariantId": "GI5000NV-3XL",
-    "stock": 17538,
+    "stock": 17537,
     "stockLevel": "in-stock",
     "price": 3.95,
     "color": {
@@ -2168,7 +2168,7 @@
   {
     "contentKey": "5dbf5c6b629914d6",
     "supplierVariantId": "GI5000BL-2XL",
-    "stock": 242797,
+    "stock": 242675,
     "stockLevel": "in-stock",
     "price": 2.65,
     "color": {
@@ -2186,7 +2186,7 @@
   {
     "contentKey": "5dbf5c6b629914d6",
     "supplierVariantId": "GI5000BL-3XL",
-    "stock": 92543,
+    "stock": 92501,
     "stockLevel": "in-stock",
     "price": 3.95,
     "color": {
@@ -2790,7 +2790,7 @@
   {
     "contentKey": "758326069bfcf5b6",
     "supplierVariantId": "GI5000MI-XL",
-    "stock": 15335,
+    "stock": 15334,
     "stockLevel": "in-stock",
     "price": 2.65,
     "color": {
@@ -2809,7 +2809,7 @@
   {
     "contentKey": "75dd6b4957f2bded",
     "supplierVariantId": "GI5000DA-L",
-    "stock": 8017,
+    "stock": 5641,
     "stockLevel": "in-stock",
     "price": 2.65,
     "color": {
@@ -3306,7 +3306,7 @@
   {
     "contentKey": "9199706679bafe19",
     "supplierVariantId": "GI5000BL-L",
-    "stock": 419441,
+    "stock": 419167,
     "stockLevel": "in-stock",
     "price": 2.65,
     "color": {
@@ -3909,7 +3909,7 @@
   {
     "contentKey": "a4d3c8f9125a9694",
     "supplierVariantId": "GI5000SP-3XL",
-    "stock": 3497,
+    "stock": 3496,
     "stockLevel": "in-stock",
     "price": 3.95,
     "color": {
@@ -4128,7 +4128,7 @@
   {
     "contentKey": "a79ce1be63be5a5e",
     "supplierVariantId": "GI5000SH-4XL",
-    "stock": 249,
+    "stock": 247,
     "stockLevel": "in-stock",
     "price": 3.95,
     "color": {
@@ -4146,7 +4146,7 @@
   {
     "contentKey": "a79ce1be63be5a5e",
     "supplierVariantId": "GI5000SH-5XL",
-    "stock": 94,
+    "stock": 88,
     "stockLevel": "in-stock",
     "price": 3.95,
     "color": {
@@ -4440,7 +4440,7 @@
   {
     "contentKey": "ae8e641c17f10ef3",
     "supplierVariantId": "GI5000ACY-2XL",
-    "stock": 706,
+    "stock": 58,
     "stockLevel": "in-stock",
     "price": 2.65,
     "color": {
@@ -4785,7 +4785,7 @@
   {
     "contentKey": "ba02f3756e5ac94a",
     "supplierVariantId": "GI5000DC-4XL",
-    "stock": 193,
+    "stock": 190,
     "stockLevel": "in-stock",
     "price": 3.95,
     "color": {
@@ -5537,7 +5537,7 @@
   {
     "contentKey": "ce38b10537573295",
     "supplierVariantId": "GI5000IG-3XL",
-    "stock": 585,
+    "stock": 584,
     "stockLevel": "in-stock",
     "price": 3.95,
     "color": {
@@ -5886,7 +5886,7 @@
   {
     "contentKey": "db61b174f7b63a5d",
     "supplierVariantId": "GI5000BL-XL",
-    "stock": 357208,
+    "stock": 357021,
     "stockLevel": "in-stock",
     "price": 2.65,
     "color": {
@@ -5905,7 +5905,7 @@
   {
     "contentKey": "db7862350878b9a6",
     "supplierVariantId": "GI5000RO-L",
-    "stock": 33089,
+    "stock": 22413,
     "stockLevel": "in-stock",
     "price": 2.65,
     "color": {
@@ -6000,7 +6000,7 @@
   {
     "contentKey": "df0a637ad2859d96",
     "supplierVariantId": "GI5000DH-XL",
-    "stock": 11979,
+    "stock": 11955,
     "stockLevel": "in-stock",
     "price": 2.65,
     "color": {
@@ -6057,7 +6057,7 @@
   {
     "contentKey": "e5faf2db8ccad8c7",
     "supplierVariantId": "GI5000LB-S",
-    "stock": 14669,
+    "stock": 14653,
     "stockLevel": "in-stock",
     "price": 2.65,
     "color": {
@@ -6076,7 +6076,7 @@
   {
     "contentKey": "e60bf96a6ae5b5c2",
     "supplierVariantId": "GI5000WH-XL",
-    "stock": 140369,
+    "stock": 140225,
     "stockLevel": "in-stock",
     "price": 2.46,
     "color": {
@@ -6334,7 +6334,7 @@
   {
     "contentKey": "f14f33e8da4bb4d5",
     "supplierVariantId": "GI5000BL-M",
-    "stock": 250478,
+    "stock": 250276,
     "stockLevel": "in-stock",
     "price": 2.65,
     "color": {

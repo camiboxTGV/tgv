@@ -1,0 +1,31 @@
+[
+  {
+    "contentKey": "192cbd6625bef76c",
+    "supplierVariantId": "G-171-NA",
+    "stock": 78,
+    "stockLevel": "in-stock",
+    "price": 2.06,
+    "color": {
+      "name": "Orange",
+      "hex": "#FFA500"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "b790bad6ed2e91ee",
+    "supplierVariantId": "G-171-RY",
+    "stock": 300,
+    "stockLevel": "in-stock",
+    "price": 2.06,
+    "color": {
+      "name": "Royal",
+      "hex": "#2D3192"
+    },
+    "imageRefs": [
+      2
+    ]
+  }
+]

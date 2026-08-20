@@ -1,0 +1,31 @@
+[
+  {
+    "contentKey": "3c267d05625b7b09",
+    "supplierVariantId": "B-690-OR-RS",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.74,
+    "color": {
+      "name": "Gold/Rose"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "a56043e869638860",
+    "supplierVariantId": "B-690-PT",
+    "stock": 2970,
+    "stockLevel": "in-stock",
+    "price": 0.74,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "contentKey": "78100b9e0794dd3b",
+    "supplierVariantId": "G-500-GR",
+    "stock": 379,
+    "stockLevel": "in-stock",
+    "price": 10.34,
+    "color": {
+      "name": "Gray",
+      "hex": "#808080"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "bb7bb6826f677a59",
+    "supplierVariantId": "G-500",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 10.34,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  }
+]

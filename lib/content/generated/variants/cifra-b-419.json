@@ -1,0 +1,49 @@
+[
+  {
+    "contentKey": "024e669fa50b0d68",
+    "supplierVariantId": "B-419-RS",
+    "stock": 7409,
+    "stockLevel": "in-stock",
+    "price": 0.15,
+    "color": {
+      "name": "Pink",
+      "hex": "#FF1493"
+    },
+    "imageRefs": [
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "4e7587ac023cb716",
+    "supplierVariantId": "B-419-MA",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.15,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "imageRefs": [
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "f6b19fedb710a6b2",
+    "supplierVariantId": "B-419-AM",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.15,
+    "color": {
+      "name": "Yellow",
+      "hex": "#FFFF00"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  }
+]

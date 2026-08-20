@@ -1,0 +1,32 @@
+[
+  {
+    "contentKey": "66120e7008db70bc",
+    "supplierVariantId": "B-095-AZ",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.22,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "98cbe3dae80e635a",
+    "supplierVariantId": "B-095-RO",
+    "stock": 4729,
+    "stockLevel": "in-stock",
+    "price": 0.22,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "contentKey": "5c5d2d0f6545206b",
+    "supplierVariantId": "C-017-PT",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 0.28,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "imageRefs": [
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "abe54636b34aa444",
+    "supplierVariantId": "C-017-OR",
+    "stock": 1813,
+    "stockLevel": "in-stock",
+    "price": 0.28,
+    "color": {
+      "name": "Gold",
+      "hex": "#FFD700"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "c37d96935947688f",
+    "supplierVariantId": "C-017-FU",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 0.28,
+    "color": {
+      "name": "Fuchsia",
+      "hex": "#FF00FF"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  }
+]

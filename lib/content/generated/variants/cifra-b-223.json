@@ -1,0 +1,33 @@
+[
+  {
+    "contentKey": "680b9ed41057d452",
+    "supplierVariantId": "B-223-PT",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.29,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "imageRefs": [
+      3,
+      4
+    ]
+  },
+  {
+    "contentKey": "c6c2850d3ba84a77",
+    "supplierVariantId": "B-223-NE",
+    "stock": 4577,
+    "stockLevel": "in-stock",
+    "price": 0.29,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  }
+]

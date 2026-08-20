@@ -1,0 +1,87 @@
+[
+  {
+    "contentKey": "273d021c18c1ef0f",
+    "supplierVariantId": "T-435-VE",
+    "stock": 1,
+    "stockLevel": "low",
+    "price": 0.22,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      6
+    ]
+  },
+  {
+    "contentKey": "439fdcf4d798730f",
+    "supplierVariantId": "T-435-AZ",
+    "stock": 6112,
+    "stockLevel": "in-stock",
+    "price": 0.22,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "71ba2832859dacab",
+    "supplierVariantId": "T-435-LI",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.22,
+    "color": {
+      "name": "Lilac",
+      "hex": "#C8A2C8"
+    },
+    "imageRefs": [
+      4
+    ]
+  },
+  {
+    "contentKey": "741f2af6f6ac4f57",
+    "supplierVariantId": "T-435-NA",
+    "stock": 2,
+    "stockLevel": "low",
+    "price": 0.22,
+    "color": {
+      "name": "Orange",
+      "hex": "#FFA500"
+    },
+    "imageRefs": [
+      5
+    ]
+  },
+  {
+    "contentKey": "8f1a2b9b64d37a13",
+    "supplierVariantId": "T-435-AM",
+    "stock": 3,
+    "stockLevel": "low",
+    "price": 0.22,
+    "color": {
+      "name": "Yellow",
+      "hex": "#FFFF00"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "fefb3b8563f8323f",
+    "supplierVariantId": "T-435-GR",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.22,
+    "color": {
+      "name": "Gray",
+      "hex": "#808080"
+    },
+    "imageRefs": [
+      3
+    ]
+  }
+]

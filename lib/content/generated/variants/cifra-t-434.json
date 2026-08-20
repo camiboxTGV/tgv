@@ -1,0 +1,50 @@
+[
+  {
+    "contentKey": "90e27878ec482bf5",
+    "supplierVariantId": "T-434-PT",
+    "stock": 2917,
+    "stockLevel": "in-stock",
+    "price": 0.77,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "921aa86feedc3018",
+    "supplierVariantId": "T-434-OR",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 0.77,
+    "color": {
+      "name": "Gold",
+      "hex": "#FFD700"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "a54d004b120f2d9e",
+    "supplierVariantId": "T-434-RO",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 0.77,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  }
+]

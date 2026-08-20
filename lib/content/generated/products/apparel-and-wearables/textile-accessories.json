@@ -1,5 +1,2511 @@
 [
   {
+    "slug": "cifra-10871",
+    "name": "BELT “SORRENTO”",
+    "category": "apparel-and-wearables/textile-accessories",
+    "summary": "Modern black belt with a precision adjustment system without holes, ensuring maximum comfort and precision. It includes a clamp closure for quick fastening and adjustment of the belt.",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "D",
+        "label": "Cifra decoration code D",
+        "labelRo": "Cod personalizare Cifra D",
+        "printSizes": [
+          "30x30 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "10871",
+    "supplierVariantIds": [
+      "10871"
+    ],
+    "price": 1.85,
+    "priceFrom": false,
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/10871-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10871-06-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10871-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10871-07-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10871-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10871-01-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 1,
+    "colorCount": 0,
+    "sizeCount": 0,
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "138 × 35 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "PU + STEEL"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "40,0 x 30,0 x 25,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "15.9 kg",
+        "valueRo": "15.9 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "14.9 kg",
+        "valueRo": "14.9 kg"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "629"
+      }
+    ],
+    "weightGrams": 179,
+    "descriptionLong": "Modern black belt with a precision adjustment system without holes, ensuring maximum comfort and precision. It includes a clamp closure for quick fastening and adjustment of the belt.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "cifra-pd-18",
+    "name": "TIE “SCOOTER” SPAIN",
+    "category": "apparel-and-wearables/textile-accessories",
+    "summary": "It includes presentation case (delivered disassembled)",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
+    "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "SE SIRVE SIN MARCAJE",
+        "label": "Supplied without decoration",
+        "labelRo": "Livrat fără personalizare",
+        "printSizes": [
+          "se sirve sin marcaje"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "PD-18",
+    "supplierVariantIds": [
+      "PD-18-ESP",
+      "PD-18-ITA"
+    ],
+    "price": 6.49,
+    "priceFrom": false,
+    "stock": 155,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/PD-18-ESP-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/PD-18-ESP-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/PD-18-ESP-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/PD-18-ESP-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/PD-18-ITA-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/PD-18-ITA-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/PD-18-ITA-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/PD-18-ITA-02-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 2,
+    "colorCount": 2,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Italy Flag"
+      },
+      {
+        "name": "Spain Flag"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "8.4 × 155 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Microfiber"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "0,0 x 0,0 x 0,0 cm"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "631"
+      }
+    ],
+    "weightGrams": 59,
+    "descriptionLong": "It includes presentation case (delivered disassembled)",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "cifra-pd-19",
+    "name": "TIE \"CALABROTE\" SPAIN",
+    "category": "apparel-and-wearables/textile-accessories",
+    "summary": "It includes presentation case (delivered disassembled)",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
+    "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "SE SIRVE SIN MARCAJE",
+        "label": "Supplied without decoration",
+        "labelRo": "Livrat fără personalizare",
+        "printSizes": [
+          "se sirve sin marcaje"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "PD-19",
+    "supplierVariantIds": [
+      "PD-19-ESP",
+      "PD-19-ITA"
+    ],
+    "price": 6.49,
+    "priceFrom": false,
+    "stock": 320,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/PD-19-ESP-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/PD-19-ESP-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/PD-19-ESP-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/PD-19-ESP-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/PD-19-ITA-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/PD-19-ITA-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/PD-19-ITA-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/PD-19-ITA-01-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 2,
+    "colorCount": 2,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Italy Flag"
+      },
+      {
+        "name": "Spain Flag"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "8.4 × 155 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Microfiber"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "0,0 x 0,0 x 0,0 cm"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "631"
+      }
+    ],
+    "weightGrams": 59,
+    "descriptionLong": "It includes presentation case (delivered disassembled)",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "cifra-pd-20",
+    "name": "SPANISH FLAG TIE \"CHAMBERI\"",
+    "category": "apparel-and-wearables/textile-accessories",
+    "summary": "It includes presentation case (delivered disassembled)IMMEDIATE SERVICE REAR LABEL TO CUSTOMIZE",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "IMPORTACION",
+        "label": "Cifra decoration code IMPORTACION",
+        "labelRo": "Cod personalizare Cifra IMPORTACION",
+        "printSizes": [
+          "importacion"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "PD-20",
+    "supplierVariantIds": [
+      "PD-20"
+    ],
+    "price": 6.49,
+    "priceFrom": false,
+    "stock": 112,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/PD-20-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/PD-20-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/PD-20-01-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 1,
+    "colorCount": 0,
+    "sizeCount": 0,
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "8.4 × 155 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "MICROFIBER"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "80,0 x 34,0 x 15,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "7 kg",
+        "valueRo": "7 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "6 kg",
+        "valueRo": "6 kg"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "631"
+      }
+    ],
+    "weightGrams": 59,
+    "descriptionLong": "It includes presentation case (delivered disassembled)IMMEDIATE SERVICE REAR LABEL TO CUSTOMIZE",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "cifra-pd-21",
+    "name": "SPANISH FLAG TIE \"CHAMBERÍ\" (NAVY BLUE)",
+    "category": "apparel-and-wearables/textile-accessories",
+    "summary": "This institutional-style tie combines sophistication and patriotism in a distinguished design, ideal for official events, institutional celebrations, security forces or as a corporate gift of great importance.Decorate...",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
+    "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "SE SIRVE SIN MARCAR",
+        "label": "Supplied without decoration",
+        "labelRo": "Livrat fără personalizare",
+        "printSizes": [
+          "se sirve sin marcar"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "PD-21",
+    "supplierVariantIds": [
+      "PD-21-MA",
+      "PD-21-NE",
+      "PD-21-VE"
+    ],
+    "price": 6.49,
+    "priceFrom": false,
+    "stock": 328,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/PD-21-MA-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/PD-21-NE-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/PD-21-VE-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 3,
+    "colorCount": 3,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Green",
+        "hex": "#00FF00"
+      },
+      {
+        "name": "Marine",
+        "hex": "#00008B"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "8.4 × 155 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Microfibre, MICROFIBER"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "80,0 x 34,0 x 15,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "7 kg",
+        "valueRo": "7 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "6 kg",
+        "valueRo": "6 kg"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "631"
+      }
+    ],
+    "weightGrams": 59,
+    "descriptionLong": "This institutional-style tie combines sophistication and patriotism in a distinguished design, ideal for official events, institutional celebrations, security forces or as a corporate gift of great importance.Decorated with a repeated pattern of small flags of Spain arranged oblique.Made of microfiber, a durable material that offers a sophisticated finish, silky smooth feel and excellent wrinkle resistance.It has dimensions of 8.4 x 155 cm, a classic width and an optimal length that adapt perfectly to different types of knots.Each piece comes in a black cardboard box (served disassembled).",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "cifra-pd-22",
+    "name": "SPANISH FLAG TIE \"CHAMBERI\"",
+    "category": "apparel-and-wearables/textile-accessories",
+    "summary": "It includes presentation case (delivered disassembled)IMMEDIATE SERVICE REAR LABEL TO CUSTOMIZE",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
+    "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "IMPORTACION",
+        "label": "Cifra decoration code IMPORTACION",
+        "labelRo": "Cod personalizare Cifra IMPORTACION",
+        "printSizes": [
+          "importacion"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "PD-22",
+    "supplierVariantIds": [
+      "PD-22"
+    ],
+    "price": 6.49,
+    "priceFrom": false,
+    "stock": 43,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/PD-22-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/PD-22-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/PD-22-01-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 1,
+    "colorCount": 0,
+    "sizeCount": 0,
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "8.4 × 155 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "MICROFIBER"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "82,0 x 35,0 x 30,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "15 kg",
+        "valueRo": "15 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "13 kg",
+        "valueRo": "13 kg"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "631"
+      }
+    ],
+    "weightGrams": 59,
+    "descriptionLong": "It includes presentation case (delivered disassembled)IMMEDIATE SERVICE REAR LABEL TO CUSTOMIZE",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "cifra-pd-23",
+    "name": "BASQUE COUNTRY FLAG TIE \"MONCLOA\"",
+    "category": "apparel-and-wearables/textile-accessories",
+    "summary": "It includes presentation case (delivered disassembled)IMMEDIATE SERVICE REAR LABEL TO CUSTOMIZE",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "IMPORTACION",
+        "label": "Cifra decoration code IMPORTACION",
+        "labelRo": "Cod personalizare Cifra IMPORTACION",
+        "printSizes": [
+          "importacion"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "PD-23",
+    "supplierVariantIds": [
+      "PD-23"
+    ],
+    "price": 6.49,
+    "priceFrom": false,
+    "stock": 54,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/PD-23-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 1,
+    "colorCount": 0,
+    "sizeCount": 0,
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "8.4 × 155 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "MICROFIBER"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "81,0 x 34,0 x 12,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "12 kg",
+        "valueRo": "12 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "10 kg",
+        "valueRo": "10 kg"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "631"
+      }
+    ],
+    "weightGrams": 59,
+    "descriptionLong": "It includes presentation case (delivered disassembled)IMMEDIATE SERVICE REAR LABEL TO CUSTOMIZE",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "cifra-pd-24",
+    "name": "ANDALUSIA FLAG TIE \"MONCLOA\"",
+    "category": "apparel-and-wearables/textile-accessories",
+    "summary": "It includes presentation case (delivered disassembled)IMMEDIATE SERVICE REAR LABEL TO CUSTOMIZE",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "IMPORTACION",
+        "label": "Cifra decoration code IMPORTACION",
+        "labelRo": "Cod personalizare Cifra IMPORTACION",
+        "printSizes": [
+          "importacion"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "PD-24",
+    "supplierVariantIds": [
+      "PD-24"
+    ],
+    "price": 6.49,
+    "priceFrom": false,
+    "stock": 96,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/PD-24-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 1,
+    "colorCount": 0,
+    "sizeCount": 0,
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "8.4 × 155 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "MICROFIBER"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "81,0 x 34,0 x 12,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "12 kg",
+        "valueRo": "12 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "10 kg",
+        "valueRo": "10 kg"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "631"
+      }
+    ],
+    "weightGrams": 59,
+    "descriptionLong": "It includes presentation case (delivered disassembled)IMMEDIATE SERVICE REAR LABEL TO CUSTOMIZE",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "cifra-pd-25",
+    "name": "CATALONIA FLAG TIE \"MONCLOA\"",
+    "category": "apparel-and-wearables/textile-accessories",
+    "summary": "It includes presentation case (delivered disassembled)IMMEDIATE SERVICE REAR LABEL TO CUSTOMIZE",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
+    "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "IMPORTACION",
+        "label": "Cifra decoration code IMPORTACION",
+        "labelRo": "Cod personalizare Cifra IMPORTACION",
+        "printSizes": [
+          "importacion"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "PD-25",
+    "supplierVariantIds": [
+      "PD-25"
+    ],
+    "price": 6.49,
+    "priceFrom": false,
+    "stock": 48,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/PD-25-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 1,
+    "colorCount": 0,
+    "sizeCount": 0,
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "8.4 × 155 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "MICROFIBER"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "81,0 x 34,0 x 12,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "12 kg",
+        "valueRo": "12 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "10 kg",
+        "valueRo": "10 kg"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "631"
+      }
+    ],
+    "weightGrams": 59,
+    "descriptionLong": "It includes presentation case (delivered disassembled)IMMEDIATE SERVICE REAR LABEL TO CUSTOMIZE",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "cifra-pd-27",
+    "name": "FRANCE FLAG TIE \"MONCLOA\"",
+    "category": "apparel-and-wearables/textile-accessories",
+    "summary": "It includes presentation case (delivered disassembled)IMMEDIATE SERVICE REAR LABEL TO CUSTOMIZE",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
+    "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "IMPORTACION",
+        "label": "Cifra decoration code IMPORTACION",
+        "labelRo": "Cod personalizare Cifra IMPORTACION",
+        "printSizes": [
+          "importacion"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "PD-27",
+    "supplierVariantIds": [
+      "PD-27"
+    ],
+    "price": 6.49,
+    "priceFrom": false,
+    "stock": 125,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/PD-27-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/PD-27-01-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 1,
+    "colorCount": 0,
+    "sizeCount": 0,
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "8.4 × 155 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "MICROFIBER"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "81,0 x 34,0 x 12,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "13 kg",
+        "valueRo": "13 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "10 kg",
+        "valueRo": "10 kg"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "631"
+      }
+    ],
+    "weightGrams": 59,
+    "descriptionLong": "It includes presentation case (delivered disassembled)IMMEDIATE SERVICE REAR LABEL TO CUSTOMIZE",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "cifra-pd-28",
+    "name": "SPANISH FLAG TIE \"ALARCON\"",
+    "category": "apparel-and-wearables/textile-accessories",
+    "summary": "It includes presentation case (delivered disassembled)IMMEDIATE SERVICE REAR LABEL TO CUSTOMIZE",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
+    "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "IMPORTACION",
+        "label": "Cifra decoration code IMPORTACION",
+        "labelRo": "Cod personalizare Cifra IMPORTACION",
+        "printSizes": [
+          "importacion"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "PD-28",
+    "supplierVariantIds": [
+      "PD-28"
+    ],
+    "price": 6.49,
+    "priceFrom": false,
+    "stock": 100,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/PD-28-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 1,
+    "colorCount": 0,
+    "sizeCount": 0,
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "8.4 × 155 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "MICROFIBER"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "0,0 x 0,0 x 0,0 cm"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "631"
+      }
+    ],
+    "weightGrams": 59,
+    "descriptionLong": "It includes presentation case (delivered disassembled)IMMEDIATE SERVICE REAR LABEL TO CUSTOMIZE",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "cifra-pd-29",
+    "name": "SPANISH FLAG TIE \"ALARCON\"",
+    "category": "apparel-and-wearables/textile-accessories",
+    "summary": "It includes presentation case (delivered disassembled)IMMEDIATE SERVICE REAR LABEL TO CUSTOMIZE",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "IMPORTACION",
+        "label": "Cifra decoration code IMPORTACION",
+        "labelRo": "Cod personalizare Cifra IMPORTACION",
+        "printSizes": [
+          "importacion"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "PD-29",
+    "supplierVariantIds": [
+      "PD-29"
+    ],
+    "price": 6.49,
+    "priceFrom": false,
+    "stock": 48,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/PD-29-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/PD-29-01-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 1,
+    "colorCount": 0,
+    "sizeCount": 0,
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "8.4 × 155 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "MICROFIBER"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "80,0 x 34,0 x 15,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "7 kg",
+        "valueRo": "7 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "6 kg",
+        "valueRo": "6 kg"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "631"
+      }
+    ],
+    "weightGrams": 59,
+    "descriptionLong": "It includes presentation case (delivered disassembled)IMMEDIATE SERVICE REAR LABEL TO CUSTOMIZE",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "cifra-pd-31",
+    "name": "MICROFIBRE TIE FLAG \"SPAINFLAG\"",
+    "category": "apparel-and-wearables/textile-accessories",
+    "summary": "It includes presentation case (delivered disassembled)IMMEDIATE SERVICE REAR LABEL TO CUSTOMIZE",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
+    "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "IMPORTACION",
+        "label": "Cifra decoration code IMPORTACION",
+        "labelRo": "Cod personalizare Cifra IMPORTACION",
+        "printSizes": [
+          "importacion"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "PD-31",
+    "supplierVariantIds": [
+      "PD-31"
+    ],
+    "price": 6.49,
+    "priceFrom": false,
+    "stock": 7,
+    "stockLevel": "low",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/PD-31-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 1,
+    "colorCount": 0,
+    "sizeCount": 0,
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "8.4 × 155 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "MICROFIBER"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "80,0 x 34,0 x 15,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "7 kg",
+        "valueRo": "7 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "6 kg",
+        "valueRo": "6 kg"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "631"
+      }
+    ],
+    "weightGrams": 59,
+    "descriptionLong": "It includes presentation case (delivered disassembled)IMMEDIATE SERVICE REAR LABEL TO CUSTOMIZE",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "cifra-pd-32",
+    "name": "MICROFIBRE TIE SPANISH FLAG",
+    "category": "apparel-and-wearables/textile-accessories",
+    "summary": "It includes presentation case (delivered disassembled)IMMEDIATE SERVICE REAR LABEL TO CUSTOMIZE",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "IMPORTACION",
+        "label": "Cifra decoration code IMPORTACION",
+        "labelRo": "Cod personalizare Cifra IMPORTACION",
+        "printSizes": [
+          "importacion"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "PD-32",
+    "supplierVariantIds": [
+      "PD-32"
+    ],
+    "price": 6.49,
+    "priceFrom": false,
+    "stock": 44,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/PD-32-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/PD-32-01-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 1,
+    "colorCount": 0,
+    "sizeCount": 0,
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "8.4 × 155 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "MICROFIBER"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "80,0 x 34,0 x 15,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "7 kg",
+        "valueRo": "7 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "6 kg",
+        "valueRo": "6 kg"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "631"
+      }
+    ],
+    "weightGrams": 59,
+    "descriptionLong": "It includes presentation case (delivered disassembled)IMMEDIATE SERVICE REAR LABEL TO CUSTOMIZE",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "cifra-pd-33",
+    "name": "MICROFIBRE TIE SPANISH FLAG",
+    "category": "apparel-and-wearables/textile-accessories",
+    "summary": "It includes presentation case (delivered disassembled)IMMEDIATE SERVICE REAR LABEL TO CUSTOMIZE",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "IMPORTACION",
+        "label": "Cifra decoration code IMPORTACION",
+        "labelRo": "Cod personalizare Cifra IMPORTACION",
+        "printSizes": [
+          "importacion"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "PD-33",
+    "supplierVariantIds": [
+      "PD-33"
+    ],
+    "price": 6.49,
+    "priceFrom": false,
+    "stock": 44,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/PD-33-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/PD-33-01-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 1,
+    "colorCount": 0,
+    "sizeCount": 0,
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "8.4 × 155 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "MICROFIBER"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "80,0 x 34,0 x 15,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "7 kg",
+        "valueRo": "7 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "6 kg",
+        "valueRo": "6 kg"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "631"
+      }
+    ],
+    "weightGrams": 59,
+    "descriptionLong": "It includes presentation case (delivered disassembled)IMMEDIATE SERVICE REAR LABEL TO CUSTOMIZE",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "cifra-pd-34",
+    "name": "TIE ITALIAN FLAG \"MONCLOA\"",
+    "category": "apparel-and-wearables/textile-accessories",
+    "summary": "It includes presentation case (delivered disassembled)IMMEDIATE SERVICE REAR LABEL TO CUSTOMIZE",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
+    "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "IMPORTACION",
+        "label": "Cifra decoration code IMPORTACION",
+        "labelRo": "Cod personalizare Cifra IMPORTACION",
+        "printSizes": []
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "PD-34",
+    "supplierVariantIds": [
+      "PD-34"
+    ],
+    "price": 6.49,
+    "priceFrom": false,
+    "stock": 188,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/PD-34-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/PD-34-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/PD-34-01-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 1,
+    "colorCount": 0,
+    "sizeCount": 0,
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "8.4 × 155 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "MICROFIBER"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "0,0 x 0,0 x 0,0 cm"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "631"
+      }
+    ],
+    "weightGrams": 59,
+    "descriptionLong": "It includes presentation case (delivered disassembled)IMMEDIATE SERVICE REAR LABEL TO CUSTOMIZE",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "cifra-pd-35",
+    "name": "TIE PORTUGUESE FLAG \"MONCLOA\"",
+    "category": "apparel-and-wearables/textile-accessories",
+    "summary": "It includes presentation case (delivered disassembled)IMMEDIATE SERVICE REAR LABEL TO CUSTOMIZE",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "IMPORTACION",
+        "label": "Cifra decoration code IMPORTACION",
+        "labelRo": "Cod personalizare Cifra IMPORTACION",
+        "printSizes": []
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "PD-35",
+    "supplierVariantIds": [
+      "PD-35"
+    ],
+    "price": 6.49,
+    "priceFrom": false,
+    "stock": 172,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/PD-35-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/PD-35-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/PD-35-01-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 1,
+    "colorCount": 0,
+    "sizeCount": 0,
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "8.4 × 155 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "MICROFIBER"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "0,0 x 0,0 x 0,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "7 kg",
+        "valueRo": "7 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "6 kg",
+        "valueRo": "6 kg"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "631"
+      }
+    ],
+    "weightGrams": 59,
+    "descriptionLong": "It includes presentation case (delivered disassembled)IMMEDIATE SERVICE REAR LABEL TO CUSTOMIZE",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "cifra-pd-36",
+    "name": "SPAIN TIE “ROMBOS”",
+    "category": "apparel-and-wearables/textile-accessories",
+    "summary": "It includes presentation case (delivered disassembled)IMMEDIATE SERVICE REAR LABEL TO CUSTOMIZE",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
+    "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "SE SIRVE SIN MARCAR",
+        "label": "Supplied without decoration",
+        "labelRo": "Livrat fără personalizare",
+        "printSizes": [
+          "se sirve sin marcar"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "PD-36",
+    "supplierVariantIds": [
+      "PD-36-CE",
+      "PD-36-VE"
+    ],
+    "price": 6.49,
+    "priceFrom": false,
+    "stock": 72,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/PD-36-CE-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/PD-36-CE-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/PD-36-VE-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/PD-36-VE-01-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 2,
+    "colorCount": 2,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Green",
+        "hex": "#00FF00"
+      },
+      {
+        "name": "Light blue",
+        "hex": "#87CEEB"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "8.4 × 155 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "MICROFIBER"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "80,0 x 34,0 x 15,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "7 kg",
+        "valueRo": "7 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "6 kg",
+        "valueRo": "6 kg"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "630,631"
+      }
+    ],
+    "weightGrams": 59,
+    "descriptionLong": "It includes presentation case (delivered disassembled)IMMEDIATE SERVICE REAR LABEL TO CUSTOMIZE",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "cifra-pd-39",
+    "name": "SPANISH FLAG TIE \"ALARCÓN\"",
+    "category": "apparel-and-wearables/textile-accessories",
+    "summary": "This institutional-style tie combines sophistication and patriotism in a distinguished design, ideal for official events, institutional celebrations, security forces or as a corporate gift of great importance.Decorate...",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "SE SIRVE SIN MARCAR",
+        "label": "Supplied without decoration",
+        "labelRo": "Livrat fără personalizare",
+        "printSizes": [
+          "se sirve sin marcar"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "PD-39",
+    "supplierVariantIds": [
+      "PD-39-VE"
+    ],
+    "price": 6.49,
+    "priceFrom": false,
+    "stock": 100,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/PD-39-VE-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Green",
+        "hex": "#00FF00"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "8.4 × 155 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Microfibre"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "80,0 x 34,0 x 15,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "7 kg",
+        "valueRo": "7 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "6 kg",
+        "valueRo": "6 kg"
+      }
+    ],
+    "descriptionLong": "This institutional-style tie combines sophistication and patriotism in a distinguished design, ideal for official events, institutional celebrations, security forces or as a corporate gift of great importance.Decorated with a repeated pattern of small flags of Spain waving on a golden pole.Made of microfiber, a durable material that offers a sophisticated finish, silky smooth feel and excellent wrinkle resistance.It has dimensions of 8.4 x 155 cm, a classic width and an optimal length that adapt perfectly to different types of knots.Each piece comes in a black cardboard box (served disassembled).",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "cifra-pd-elf",
+    "name": "CHRISTMAS TIE \"ELF\"",
+    "category": "apparel-and-wearables/textile-accessories",
+    "summary": "Includes presentation case.",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "SE SIRVE SIN MARCAR",
+        "label": "Supplied without decoration",
+        "labelRo": "Livrat fără personalizare",
+        "printSizes": [
+          "se sirve sin marcar"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "PD-ELF",
+    "supplierVariantIds": [
+      "PD-ELF"
+    ],
+    "price": 6.49,
+    "priceFrom": false,
+    "stock": 56,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/PD-ELF-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/PD-ELF-01-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 1,
+    "colorCount": 0,
+    "sizeCount": 0,
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "7 × 155 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "40% poly satin, 60% poliestere"
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "0,0 x 0,0 x 0,0 cm"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "630"
+      }
+    ],
+    "weightGrams": 59,
+    "descriptionLong": "Includes presentation case.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "cifra-pd-ho",
+    "name": "CHRISTMAS TIE \"HO HO HO\"",
+    "category": "apparel-and-wearables/textile-accessories",
+    "summary": "Includes presentation case.",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
+    "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "SE SIRVE SIN MARCAR",
+        "label": "Supplied without decoration",
+        "labelRo": "Livrat fără personalizare",
+        "printSizes": [
+          "se sirve sin marcar"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "PD-HO",
+    "supplierVariantIds": [
+      "PD-HO"
+    ],
+    "price": 6.49,
+    "priceFrom": false,
+    "stock": 61,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/PD-HO-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/PD-HO-01-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 1,
+    "colorCount": 0,
+    "sizeCount": 0,
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "7 × 155 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "40% poly satin, 60% poliestere"
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "0,0 x 0,0 x 0,0 cm"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "630"
+      }
+    ],
+    "weightGrams": 59,
+    "descriptionLong": "Includes presentation case.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "cifra-t-412",
+    "name": "POLYESTER SCARF",
+    "category": "apparel-and-wearables/textile-accessories",
+    "summary": "poliester",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
+    "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "SE SIRVE SIN MARCAJE",
+        "label": "Supplied without decoration",
+        "labelRo": "Livrat fără personalizare",
+        "printSizes": [
+          "se sirve sin marcaje"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "T-412",
+    "supplierVariantIds": [
+      "T-412-NA"
+    ],
+    "price": 0.29,
+    "priceFrom": false,
+    "stock": 460,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/T-412-NA-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Orange",
+        "hex": "#FFA500"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "146 × 13 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Poliester"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "10 pcs",
+        "valueRo": "10 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "0,0 x 0,0 x 0,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "10.3 kg",
+        "valueRo": "10.3 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "9.5 kg",
+        "valueRo": "9.5 kg"
+      }
+    ],
+    "weightGrams": 29,
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "cifra-z-425",
+    "name": "FLAGS BELT",
+    "category": "apparel-and-wearables/textile-accessories",
+    "summary": "polyester",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
+    "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "SE SIRVE SIN MARCAJE",
+        "label": "Supplied without decoration",
+        "labelRo": "Livrat fără personalizare",
+        "printSizes": [
+          "se sirve sin marcaje"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "Z-425",
+    "supplierVariantIds": [
+      "Z-425-MA"
+    ],
+    "price": 0.44,
+    "priceFrom": false,
+    "stock": 2645,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/Z-425-MA-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Marine",
+        "hex": "#00008B"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Polyester"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "10 pcs",
+        "valueRo": "10 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "48,0 x 28,0 x 42,0 cm"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "0.076 kg",
+        "valueRo": "0.076 kg"
+      }
+    ],
+    "weightGrams": 76,
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "cifra-z-426",
+    "name": "FLAGS BELT",
+    "category": "apparel-and-wearables/textile-accessories",
+    "summary": "polyester",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "SE SIRVE SIN MARCAJE",
+        "label": "Supplied without decoration",
+        "labelRo": "Livrat fără personalizare",
+        "printSizes": [
+          "se sirve sin marcaje"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "Z-426",
+    "supplierVariantIds": [
+      "Z-426-MA"
+    ],
+    "price": 0.44,
+    "priceFrom": false,
+    "stock": 1035,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/Z-426-MA-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Marine",
+        "hex": "#00008B"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Polyester"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "10 pcs",
+        "valueRo": "10 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "48,0 x 28,0 x 42,0 cm"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "0.076 kg",
+        "valueRo": "0.076 kg"
+      }
+    ],
+    "weightGrams": 76,
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "cifra-z-660",
+    "name": "BLACK/FLAG ELASTIC BELT “RIKSON”",
+    "category": "apparel-and-wearables/textile-accessories",
+    "summary": "polyester",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "E* (1 COLOR)",
+        "label": "Cifra decoration code E* (1 COLOR)",
+        "labelRo": "Cod personalizare Cifra E* (1 COLOR)",
+        "printSizes": [
+          "23 x 23 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "Z-660",
+    "supplierVariantIds": [
+      "Z-660"
+    ],
+    "price": 2.51,
+    "priceFrom": false,
+    "stock": 378,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/Z-660-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/Z-660-01-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 1,
+    "colorCount": 0,
+    "sizeCount": 0,
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "120 × 3.2 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Polyester"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "10 pcs",
+        "valueRo": "10 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "35,0 x 25,0 x 25,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "15.16 kg",
+        "valueRo": "15.16 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "14.16 kg",
+        "valueRo": "14.16 kg"
+      },
+      {
+        "key": "units-per-pallet",
+        "label": "Units per pallet",
+        "labelRo": "Unități per palet",
+        "value": "14 pcs",
+        "valueRo": "14 buc."
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "628"
+      }
+    ],
+    "weightGrams": 215,
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "cifra-z-6600",
+    "name": "BELT \"UNIFORM\"",
+    "category": "apparel-and-wearables/textile-accessories",
+    "summary": "presented in individual bag",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "D",
+        "label": "Cifra decoration code D",
+        "labelRo": "Cod personalizare Cifra D",
+        "printSizes": [
+          "30x30 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "Z-6600",
+    "supplierVariantIds": [
+      "Z-6600-MA",
+      "Z-6600-NE",
+      "Z-6600-VE"
+    ],
+    "price": 1.68,
+    "priceFrom": false,
+    "stock": 1974,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/Z-6600-MA-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/Z-6600-MA-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/Z-6600-MA-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/Z-6600-MA-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/Z-6600-MA-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/Z-6600-MA-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/Z-6600-NE-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/Z-6600-NE-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/Z-6600-NE-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/Z-6600-NE-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/Z-6600-NE-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/Z-6600-NE-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/Z-6600-VE-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/Z-6600-VE-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/Z-6600-VE-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/Z-6600-VE-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/Z-6600-VE-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/Z-6600-VE-04-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 3,
+    "colorCount": 3,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Green",
+        "hex": "#00FF00"
+      },
+      {
+        "name": "Marine",
+        "hex": "#00008B"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "129 × 0 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "PVC closure and nylon belt"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "40,0 x 30,0 x 25,0 cm"
+      },
+      {
+        "key": "units-per-pallet",
+        "label": "Units per pallet",
+        "labelRo": "Unități per palet",
+        "value": "500 / 4000 / 3000 pcs",
+        "valueRo": "500 / 4000 / 3000 buc."
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "628"
+      }
+    ],
+    "weightGrams": 110,
+    "descriptionLong": "presented in individual bag",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "cifra-z-662",
+    "name": "ELASTIC BELT \"SPIKE\"",
+    "category": "apparel-and-wearables/textile-accessories",
+    "summary": "Served in individual bag",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "E",
+        "label": "Cifra decoration code E",
+        "labelRo": "Cod personalizare Cifra E",
+        "printSizes": [
+          "10 x 10 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "Z-662",
+    "supplierVariantIds": [
+      "Z-662-CR",
+      "Z-662-MA",
+      "Z-662-MR",
+      "Z-662-NE"
+    ],
+    "price": 2.51,
+    "priceFrom": false,
+    "stock": 1400,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/Z-662-CR-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/Z-662-CR-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/Z-662-CR-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/Z-662-MA-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/Z-662-MA-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/Z-662-MR-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/Z-662-MR-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/Z-662-MR-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/Z-662-NE-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/Z-662-NE-01-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 4,
+    "colorCount": 4,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Beige",
+        "hex": "#C2B280"
+      },
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Brown",
+        "hex": "#800000"
+      },
+      {
+        "name": "Marine",
+        "hex": "#00008B"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "120 × 3.2 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Polyester"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "10 pcs",
+        "valueRo": "10 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "40,0 x 30,0 x 20,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "14 kg",
+        "valueRo": "14 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "13.68 kg",
+        "valueRo": "13.68 kg"
+      },
+      {
+        "key": "units-per-pallet",
+        "label": "Units per pallet",
+        "labelRo": "Unități per palet",
+        "value": "14 pcs",
+        "valueRo": "14 buc."
+      },
+      {
+        "key": "ean",
+        "label": "EAN",
+        "labelRo": "EAN",
+        "value": "8436534312999 · 8436534312897"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "628"
+      }
+    ],
+    "weightGrams": 230,
+    "descriptionLong": "Served in individual bag",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "cifra-z-663",
+    "name": "ELASTIC TWO COLORS BELT",
+    "category": "apparel-and-wearables/textile-accessories",
+    "summary": "polyester",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "E* (1 COLOR)",
+        "label": "Cifra decoration code E* (1 COLOR)",
+        "labelRo": "Cod personalizare Cifra E* (1 COLOR)",
+        "printSizes": [
+          "10 x 10 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "Z-663",
+    "supplierVariantIds": [
+      "Z-663"
+    ],
+    "price": 2.24,
+    "priceFrom": false,
+    "stock": 300,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/Z-663-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/Z-663-01-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 1,
+    "colorCount": 0,
+    "sizeCount": 0,
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "120 × 3.2 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Polyester"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "10 pcs",
+        "valueRo": "10 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "30,0 x 30,0 x 25,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "13 kg",
+        "valueRo": "13 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "12.5 kg",
+        "valueRo": "12.5 kg"
+      },
+      {
+        "key": "units-per-pallet",
+        "label": "Units per pallet",
+        "labelRo": "Unități per palet",
+        "value": "116 pcs",
+        "valueRo": "116 buc."
+      }
+    ],
+    "weightGrams": 220,
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "cifra-z-665",
+    "name": "FLAG ELASTIC BELT “CHARLY”",
+    "category": "apparel-and-wearables/textile-accessories",
+    "summary": "Colour Blue Navy and Spanish flag.",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "E* (1 COLOR)",
+        "label": "Cifra decoration code E* (1 COLOR)",
+        "labelRo": "Cod personalizare Cifra E* (1 COLOR)",
+        "printSizes": [
+          "10 x 10 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "Z-665",
+    "supplierVariantIds": [
+      "Z-665"
+    ],
+    "price": 2.51,
+    "priceFrom": false,
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/Z-665-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/Z-665-01-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 1,
+    "colorCount": 0,
+    "sizeCount": 0,
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "120 × 3.2 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Polyester"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "10 pcs",
+        "valueRo": "10 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "30,0 x 25,0 x 25,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "14 kg",
+        "valueRo": "14 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "13.68 kg",
+        "valueRo": "13.68 kg"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "628"
+      }
+    ],
+    "weightGrams": 215,
+    "descriptionLong": "Colour Blue Navy and Spanish flag.",
+    "hasVariantDetail": false
+  },
+  {
     "slug": "macma-cqvahel",
     "name": "shirt HELSINKI",
     "category": "apparel-and-wearables/textile-accessories",
@@ -21,7 +2527,7 @@
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/cqvahel-surgicalgreen_1.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 3,
     "colorCount": 1,
     "sizeCount": 2,
@@ -118,7 +2624,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01211-whitefuchsia_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01211-whitemelangegrey_a1.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 3,
     "colorCount": 1,
     "sizeCount": 1,
@@ -214,12 +2720,12 @@
     ],
     "price": 15.54,
     "priceFrom": false,
-    "stock": 2760,
+    "stock": 2748,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st9691-blackopal.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 5,
     "colorCount": 1,
     "sizeCount": 4,
@@ -347,7 +2853,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2076-03-print.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2076-03-detail.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -427,7 +2933,7 @@
     ],
     "price": 2.98,
     "priceFrom": false,
-    "stock": 6363,
+    "stock": 8363,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2338-03.jpg",
@@ -438,7 +2944,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2338-03-open.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2338-03-detail.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -563,7 +3069,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2399-03-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2399-03-picture5.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -698,7 +3204,7 @@
       "https://cdn1.midocean.com/image/700X700/mo3125-03-picture1.jpg",
       "https://cdn1.midocean.com/image/700X700/mo3125-03-picture2.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -793,7 +3299,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6667-03-print.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6667-03-detail.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -916,7 +3422,7 @@
     ],
     "price": 1.01,
     "priceFrom": false,
-    "stock": 89628,
+    "stock": 89368,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo6876-03.jpg",
@@ -932,7 +3438,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6876-03-side.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6876-03-open.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 9,
     "colorCount": 9,
     "sizeCount": 0,
@@ -1052,7 +3558,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6955-03-print.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6955-03-detail.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1141,7 +3647,7 @@
       "https://cdn1.midocean.com/image/700X700/mo7947-03-print.jpg",
       "https://cdn1.midocean.com/image/700X700/mo7947-03-ambiant.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -1247,7 +3753,7 @@
       "https://cdn1.midocean.com/image/700X700/mo8561-04.jpg",
       "https://cdn1.midocean.com/image/700X700/mo8561-03-open.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,

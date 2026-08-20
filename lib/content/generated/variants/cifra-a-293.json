@@ -1,0 +1,51 @@
+[
+  {
+    "contentKey": "56518d44dec56590",
+    "supplierVariantId": "A-293-RS",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 0.26,
+    "color": {
+      "name": "Pink",
+      "hex": "#FF1493"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "contentKey": "861226f205285cb3",
+    "supplierVariantId": "A-293-CE",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 0.26,
+    "color": {
+      "name": "Light blue",
+      "hex": "#87CEEB"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "96f6c7e4546ed081",
+    "supplierVariantId": "A-293-BL",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 0.26,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  }
+]

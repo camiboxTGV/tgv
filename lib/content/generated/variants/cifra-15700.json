@@ -1,0 +1,30 @@
+[
+  {
+    "contentKey": "35da249e24a7863e",
+    "supplierVariantId": "15700",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 6.5,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "46cfac3cacc47a58",
+    "supplierVariantId": "15700-CB",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 6.5,
+    "color": {
+      "name": "Copper",
+      "hex": "#B87333"
+    },
+    "imageRefs": [
+      1
+    ]
+  }
+]

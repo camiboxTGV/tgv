@@ -1,0 +1,104 @@
+[
+  {
+    "contentKey": "00602984f7d53b73",
+    "supplierVariantId": "A-232-NA",
+    "stock": 3932,
+    "stockLevel": "in-stock",
+    "price": 0.21,
+    "color": {
+      "name": "Orange",
+      "hex": "#FFA500"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "032540e0a0aed6d4",
+    "supplierVariantId": "A-232-NE",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.21,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "42ef390714efc7e8",
+    "supplierVariantId": "A-232-VE",
+    "stock": 4965,
+    "stockLevel": "in-stock",
+    "price": 0.21,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      20,
+      21,
+      22,
+      23
+    ]
+  },
+  {
+    "contentKey": "7e54b3f405979365",
+    "supplierVariantId": "A-232-BL",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.21,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "c8c6bdd71fc3e663",
+    "supplierVariantId": "A-232-RY",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.21,
+    "color": {
+      "name": "Royal",
+      "hex": "#2D3192"
+    },
+    "imageRefs": [
+      16,
+      17,
+      18,
+      19
+    ]
+  },
+  {
+    "contentKey": "d55ecd180353d24a",
+    "supplierVariantId": "A-232-RO",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.21,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      12,
+      13,
+      14,
+      15
+    ]
+  }
+]

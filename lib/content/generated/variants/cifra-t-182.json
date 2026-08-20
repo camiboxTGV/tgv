@@ -1,0 +1,32 @@
+[
+  {
+    "contentKey": "ad09d4045b3b0ebf",
+    "supplierVariantId": "T-182-BU",
+    "stock": 344,
+    "stockLevel": "in-stock",
+    "price": 4.19,
+    "color": {
+      "name": "Bordeaux",
+      "hex": "#5F021F"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "c2bcca6a97f0c389",
+    "supplierVariantId": "T-182-NE",
+    "stock": 1477,
+    "stockLevel": "in-stock",
+    "price": 4.19,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "contentKey": "a273470958b926bf",
+    "supplierVariantId": "G-346-PT",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 0.25,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "a6614fbdf66c90e4",
+    "supplierVariantId": "G-346-OR",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 0.25,
+    "color": {
+      "name": "Gold",
+      "hex": "#FFD700"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  }
+]

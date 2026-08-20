@@ -1,0 +1,36 @@
+[
+  {
+    "contentKey": "9dd1a54fabed0ecc",
+    "supplierVariantId": "10132-AZ",
+    "stock": 1703,
+    "stockLevel": "in-stock",
+    "price": 0.83,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "ecca9a9a4d21ba25",
+    "supplierVariantId": "10132-NE",
+    "stock": 1697,
+    "stockLevel": "in-stock",
+    "price": 0.83,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+]

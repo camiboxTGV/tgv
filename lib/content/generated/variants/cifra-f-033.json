@@ -1,0 +1,46 @@
+[
+  {
+    "contentKey": "1f84046a8f730aa1",
+    "supplierVariantId": "F-033-PT",
+    "stock": 15000,
+    "stockLevel": "in-stock",
+    "price": 0.14,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "imageRefs": [
+      4
+    ]
+  },
+  {
+    "contentKey": "3a5b2a9ec8e83efc",
+    "supplierVariantId": "F-033-NE",
+    "stock": 15000,
+    "stockLevel": "in-stock",
+    "price": 0.14,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "d104bbb6d174095c",
+    "supplierVariantId": "F-033-LI",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.14,
+    "color": {
+      "name": "Lilac",
+      "hex": "#C8A2C8"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  }
+]

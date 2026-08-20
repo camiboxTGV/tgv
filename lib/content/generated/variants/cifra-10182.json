@@ -1,0 +1,36 @@
+[
+  {
+    "contentKey": "192781a22ab68554",
+    "supplierVariantId": "10182-NE",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 7.22,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "6d84d511b9ebe1e5",
+    "supplierVariantId": "10182-BL",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 7.22,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "contentKey": "73d4c562d2e1ebe2",
+    "supplierVariantId": "C-046-R",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.48,
+    "imageRefs": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "db826fe7081a4ed9",
+    "supplierVariantId": "C-046-NE",
+    "stock": 20000,
+    "stockLevel": "in-stock",
+    "price": 0.48,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "contentKey": "ed4b608f42e2b83f",
+    "supplierVariantId": "C-046-BL",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 0.48,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  }
+]

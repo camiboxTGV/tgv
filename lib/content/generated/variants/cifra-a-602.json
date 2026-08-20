@@ -1,0 +1,86 @@
+[
+  {
+    "contentKey": "19cb11cc4661bee4",
+    "supplierVariantId": "A-602-NE",
+    "stock": 50000,
+    "stockLevel": "in-stock",
+    "price": 0.06,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "contentKey": "6dc0f00df9d1abae",
+    "supplierVariantId": "A-602-AZ",
+    "stock": 15000,
+    "stockLevel": "in-stock",
+    "price": 0.06,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "b1f9480f15fe9242",
+    "supplierVariantId": "A-602-BL",
+    "stock": 40000,
+    "stockLevel": "in-stock",
+    "price": 0.06,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "contentKey": "b49d8b4af8f196c5",
+    "supplierVariantId": "A-602-RO",
+    "stock": 20000,
+    "stockLevel": "in-stock",
+    "price": 0.06,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      11,
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "contentKey": "e32c67fc8969317c",
+    "supplierVariantId": "A-602-VE",
+    "stock": 15000,
+    "stockLevel": "in-stock",
+    "price": 0.06,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      15,
+      16,
+      17,
+      18
+    ]
+  }
+]

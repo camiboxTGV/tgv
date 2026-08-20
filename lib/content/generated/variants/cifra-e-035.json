@@ -1,0 +1,36 @@
+[
+  {
+    "contentKey": "d08570be7e785545",
+    "supplierVariantId": "E-035-AZ",
+    "stock": 17,
+    "stockLevel": "in-stock",
+    "price": 1.42,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "d4a6766d19790e16",
+    "supplierVariantId": "E-035-RO",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 1.42,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+]

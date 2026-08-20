@@ -1,0 +1,54 @@
+[
+  {
+    "contentKey": "0455b5c560820ed7",
+    "supplierVariantId": "T-65-BL",
+    "stock": 20000,
+    "stockLevel": "in-stock",
+    "price": 0.38,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "17758a5cd08c86f1",
+    "supplierVariantId": "T-65-AZ",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.38,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "7780ff449c8d7268",
+    "supplierVariantId": "T-65-NE",
+    "stock": 12000,
+    "stockLevel": "in-stock",
+    "price": 0.38,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "e41e5a8ffffabfa5",
+    "supplierVariantId": "T-65-GR-PR",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.38,
+    "imageRefs": [
+      2
+    ]
+  }
+]

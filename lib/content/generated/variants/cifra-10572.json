@@ -1,0 +1,50 @@
+[
+  {
+    "contentKey": "19543b4633f958a5",
+    "supplierVariantId": "10572-MA",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 2.06,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "imageRefs": [
+      5,
+      6
+    ]
+  },
+  {
+    "contentKey": "417921a5ebb16875",
+    "supplierVariantId": "10572-NE",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 2.06,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "a5f764b74c02c6aa",
+    "supplierVariantId": "10572-BU",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 2.06,
+    "color": {
+      "name": "Bordeaux",
+      "hex": "#5F021F"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  }
+]

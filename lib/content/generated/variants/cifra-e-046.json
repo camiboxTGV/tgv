@@ -1,0 +1,48 @@
+[
+  {
+    "contentKey": "77c4950970510241",
+    "supplierVariantId": "E-046-VE",
+    "stock": 3159,
+    "stockLevel": "in-stock",
+    "price": 0.28,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      5,
+      6
+    ]
+  },
+  {
+    "contentKey": "c804ca30b530f791",
+    "supplierVariantId": "E-046-BL",
+    "stock": 2207,
+    "stockLevel": "in-stock",
+    "price": 0.28,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "contentKey": "cb6a3cea5911306b",
+    "supplierVariantId": "E-046-AM",
+    "stock": 7089,
+    "stockLevel": "in-stock",
+    "price": 0.28,
+    "color": {
+      "name": "Yellow",
+      "hex": "#FFFF00"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  }
+]

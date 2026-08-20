@@ -1,0 +1,100 @@
+[
+  {
+    "contentKey": "00a2e947816b3166",
+    "supplierVariantId": "Z-401-LI",
+    "stock": 15000,
+    "stockLevel": "in-stock",
+    "price": 0.11,
+    "color": {
+      "name": "Lilac",
+      "hex": "#C8A2C8"
+    },
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "2463b9ed71530336",
+    "supplierVariantId": "Z-401-NA",
+    "stock": 6675,
+    "stockLevel": "in-stock",
+    "price": 0.11,
+    "color": {
+      "name": "Orange",
+      "hex": "#FFA500"
+    },
+    "imageRefs": [
+      4
+    ]
+  },
+  {
+    "contentKey": "2b06aeb78a3a7911",
+    "supplierVariantId": "Z-401-GR",
+    "stock": 7812,
+    "stockLevel": "in-stock",
+    "price": 0.11,
+    "color": {
+      "name": "Gray",
+      "hex": "#808080"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "aacf311ab2d3c224",
+    "supplierVariantId": "Z-401-RO",
+    "stock": 15000,
+    "stockLevel": "in-stock",
+    "price": 0.11,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      5
+    ]
+  },
+  {
+    "contentKey": "bfe67c35fa963490",
+    "supplierVariantId": "Z-401",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.11,
+    "color": {
+      "name": "Yellow",
+      "hex": "#FFFF00"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "c49964a979d21af5",
+    "supplierVariantId": "Z-401-VE",
+    "stock": 15000,
+    "stockLevel": "in-stock",
+    "price": 0.11,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      6
+    ]
+  },
+  {
+    "contentKey": "f0d642c9fc9f445c",
+    "supplierVariantId": "Z-401-AZ",
+    "stock": 8237,
+    "stockLevel": "in-stock",
+    "price": 0.11,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      1
+    ]
+  }
+]

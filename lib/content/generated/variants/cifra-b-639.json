@@ -1,0 +1,48 @@
+[
+  {
+    "contentKey": "d4808a3b0e2c546e",
+    "supplierVariantId": "B-639-RS",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.36,
+    "color": {
+      "name": "Pink",
+      "hex": "#FF1493"
+    },
+    "imageRefs": [
+      5,
+      6
+    ]
+  },
+  {
+    "contentKey": "f9869b71bbd394f3",
+    "supplierVariantId": "B-639-OR",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.36,
+    "color": {
+      "name": "Gold",
+      "hex": "#FFD700"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "fcc90cb98555d79a",
+    "supplierVariantId": "B-639-PT",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.36,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "imageRefs": [
+      2,
+      3,
+      4
+    ]
+  }
+]

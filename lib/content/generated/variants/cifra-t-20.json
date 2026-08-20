@@ -1,0 +1,55 @@
+[
+  {
+    "contentKey": "2bddcd67dd66ba1e",
+    "supplierVariantId": "T-20-ALE",
+    "stock": 4680,
+    "stockLevel": "in-stock",
+    "price": 0.32,
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "2e6001ac87d91131",
+    "supplierVariantId": "T-20-POR",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.32,
+    "color": {
+      "name": "Portugal Flag"
+    },
+    "imageRefs": [
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "76ba3153dd6e89e6",
+    "supplierVariantId": "T-20-FRA",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.32,
+    "color": {
+      "name": "France Flag"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "b7acfd06889d8633",
+    "supplierVariantId": "T-20-ITA",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.32,
+    "color": {
+      "name": "Italy Flag"
+    },
+    "imageRefs": [
+      4,
+      5
+    ]
+  }
+]

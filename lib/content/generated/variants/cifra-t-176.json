@@ -1,0 +1,100 @@
+[
+  {
+    "contentKey": "26bfdca52c7340aa",
+    "supplierVariantId": "T-176-MA",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.87,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "6d06fff0e22c4cde",
+    "supplierVariantId": "T-176-RO",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.87,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      5
+    ]
+  },
+  {
+    "contentKey": "732fee715947fe4d",
+    "supplierVariantId": "T-176-NA",
+    "stock": 2514,
+    "stockLevel": "in-stock",
+    "price": 0.87,
+    "color": {
+      "name": "Orange",
+      "hex": "#FFA500"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "7970e1f70ccc44ca",
+    "supplierVariantId": "T-176-AZ",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.87,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "89af81e759b0fbf6",
+    "supplierVariantId": "T-176-PS",
+    "stock": 2317,
+    "stockLevel": "in-stock",
+    "price": 0.87,
+    "color": {
+      "name": "Pistachio",
+      "hex": "#93C572"
+    },
+    "imageRefs": [
+      4
+    ]
+  },
+  {
+    "contentKey": "a0b51642447701dc",
+    "supplierVariantId": "T-176-NE",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.87,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "bf9609bcd31f524f",
+    "supplierVariantId": "T-176-VE",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.87,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      6
+    ]
+  }
+]

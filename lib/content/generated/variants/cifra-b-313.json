@@ -1,0 +1,53 @@
+[
+  {
+    "contentKey": "0fc2af35e4cd86b9",
+    "supplierVariantId": "B-313-RO",
+    "stock": 1179,
+    "stockLevel": "in-stock",
+    "price": 0.74,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "2e58bcf4178d3ec9",
+    "supplierVariantId": "B-313-RS",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.74,
+    "color": {
+      "name": "Pink",
+      "hex": "#FF1493"
+    },
+    "imageRefs": [
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "e667468cbad8a729",
+    "supplierVariantId": "B-313-BL",
+    "stock": 3024,
+    "stockLevel": "in-stock",
+    "price": 0.74,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  }
+]

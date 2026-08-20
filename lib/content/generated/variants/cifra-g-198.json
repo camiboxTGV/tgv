@@ -1,0 +1,35 @@
+[
+  {
+    "contentKey": "2a1187df57ad2b99",
+    "supplierVariantId": "G-198-AZ",
+    "stock": 1384,
+    "stockLevel": "in-stock",
+    "price": 5.75,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "907755acc3d1ab24",
+    "supplierVariantId": "G-198-NE",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 5.75,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6
+    ]
+  }
+]

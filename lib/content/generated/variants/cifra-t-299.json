@@ -1,0 +1,54 @@
+[
+  {
+    "contentKey": "7f18849cfa98e3a0",
+    "supplierVariantId": "T-299-NE",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 4.88,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "8cef45df25b0a64f",
+    "supplierVariantId": "T-299-MR",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 4.88,
+    "color": {
+      "name": "Brown",
+      "hex": "#800000"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "bfd53aa4f45a9f30",
+    "supplierVariantId": "T-299-MA-OS",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 4.88,
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "e9634492dfba7b0e",
+    "supplierVariantId": "T-299-CH",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 4.88,
+    "color": {
+      "name": "Chocolate",
+      "hex": "#D2691E"
+    },
+    "imageRefs": [
+      0
+    ]
+  }
+]

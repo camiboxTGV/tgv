@@ -1,0 +1,30 @@
+[
+  {
+    "contentKey": "026b41a69b8e312f",
+    "supplierVariantId": "10532-MA",
+    "stock": 2146,
+    "stockLevel": "in-stock",
+    "price": 1.85,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "d01d7b96445d1992",
+    "supplierVariantId": "10532-BE",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 1.85,
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  }
+]

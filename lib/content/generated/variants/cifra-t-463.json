@@ -1,0 +1,54 @@
+[
+  {
+    "contentKey": "1bc4666025089301",
+    "supplierVariantId": "T-463-BL",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 1.17,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "2918bc7804ff3d45",
+    "supplierVariantId": "T-463-PT",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 1.17,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "4135bb2f2677d918",
+    "supplierVariantId": "T-463-BL-NU",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 1.17,
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "643c057de489f450",
+    "supplierVariantId": "T-463-NE",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 1.17,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      2
+    ]
+  }
+]

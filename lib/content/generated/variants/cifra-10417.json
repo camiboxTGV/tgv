@@ -1,0 +1,53 @@
+[
+  {
+    "contentKey": "2cb1906b2ca85936",
+    "supplierVariantId": "10417-PI",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 4.36,
+    "color": {
+      "name": "Stone",
+      "hex": "#8B8C7A"
+    },
+    "imageRefs": [
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "6ffdff3a7ec9183b",
+    "supplierVariantId": "10417-BL",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 4.36,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "7ab3c1c65e0142d3",
+    "supplierVariantId": "10417-MA",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 4.36,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+]

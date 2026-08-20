@@ -1,0 +1,66 @@
+[
+  {
+    "contentKey": "0e26e1488a69cb1f",
+    "supplierVariantId": "T-1303-RO",
+    "stock": 2478,
+    "stockLevel": "in-stock",
+    "price": 1.94,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "30d461f8f76942df",
+    "supplierVariantId": "T-1303-MA",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 1.94,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "bf1ce2ff8a15570a",
+    "supplierVariantId": "T-1303-NE",
+    "stock": 1561,
+    "stockLevel": "in-stock",
+    "price": 1.94,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "c563ab0f8be4dc5e",
+    "supplierVariantId": "T-1303-CR",
+    "stock": 645,
+    "stockLevel": "in-stock",
+    "price": 1.94,
+    "color": {
+      "name": "Beige",
+      "hex": "#C2B280"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  }
+]

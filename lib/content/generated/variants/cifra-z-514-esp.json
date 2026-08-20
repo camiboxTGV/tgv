@@ -1,0 +1,50 @@
+[
+  {
+    "contentKey": "129462ebc04e8e70",
+    "supplierVariantId": "Z-514-FRA",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 0.65,
+    "color": {
+      "name": "France Flag"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "d1eb0fa0c72fd8cb",
+    "supplierVariantId": "Z-514-ESP",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.65,
+    "color": {
+      "name": "Spain Flag"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "eb8bdb59f027e448",
+    "supplierVariantId": "Z-514-POR",
+    "stock": 1636,
+    "stockLevel": "in-stock",
+    "price": 0.65,
+    "color": {
+      "name": "Portugal Flag"
+    },
+    "imageRefs": [
+      8,
+      9,
+      10,
+      11
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "contentKey": "853050b1acfefc41",
+    "supplierVariantId": "C-464-PS",
+    "stock": 248,
+    "stockLevel": "in-stock",
+    "price": 1.62,
+    "color": {
+      "name": "Pistachio",
+      "hex": "#93C572"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "f821f1be619ae54b",
+    "supplierVariantId": "C-464-RO",
+    "stock": 266,
+    "stockLevel": "in-stock",
+    "price": 1.62,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  }
+]

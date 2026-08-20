@@ -1,0 +1,36 @@
+[
+  {
+    "contentKey": "1bc06ea5fc5908ca",
+    "supplierVariantId": "10186-GR",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 0.44,
+    "color": {
+      "name": "Gray",
+      "hex": "#808080"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "22c39bac519a73f3",
+    "supplierVariantId": "10186-MR",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 0.44,
+    "color": {
+      "name": "Brown",
+      "hex": "#800000"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+]

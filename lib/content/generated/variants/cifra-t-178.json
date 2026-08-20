@@ -1,0 +1,80 @@
+[
+  {
+    "contentKey": "0c58899ab5a735f4",
+    "supplierVariantId": "T-178-MA",
+    "stock": 564,
+    "stockLevel": "in-stock",
+    "price": 2.93,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "38f17873b199ad46",
+    "supplierVariantId": "T-178-RY",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 2.93,
+    "color": {
+      "name": "Royal",
+      "hex": "#2D3192"
+    },
+    "imageRefs": [
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "contentKey": "8b1077a566aa23c2",
+    "supplierVariantId": "T-178-FU",
+    "stock": 2788,
+    "stockLevel": "in-stock",
+    "price": 2.93,
+    "color": {
+      "name": "Fuchsia",
+      "hex": "#FF00FF"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "8ba6eb0244f66a1e",
+    "supplierVariantId": "T-178-PS",
+    "stock": 2081,
+    "stockLevel": "in-stock",
+    "price": 2.93,
+    "color": {
+      "name": "Pistachio",
+      "hex": "#93C572"
+    },
+    "imageRefs": [
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "contentKey": "dd50ec5ac007b3dc",
+    "supplierVariantId": "T-178-NA",
+    "stock": 2132,
+    "stockLevel": "in-stock",
+    "price": 2.93,
+    "color": {
+      "name": "Orange",
+      "hex": "#FFA500"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6
+    ]
+  }
+]

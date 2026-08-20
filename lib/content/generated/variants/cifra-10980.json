@@ -1,0 +1,31 @@
+[
+  {
+    "contentKey": "11275de998eee4a5",
+    "supplierVariantId": "10980-BL",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 1.32,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "eded9c41e1e6784c",
+    "supplierVariantId": "10980-RO",
+    "stock": 611,
+    "stockLevel": "in-stock",
+    "price": 1.32,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      1,
+      2
+    ]
+  }
+]

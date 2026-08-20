@@ -1,0 +1,30 @@
+[
+  {
+    "contentKey": "4a7e09c1324b40ae",
+    "supplierVariantId": "T-303-BE",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 1.67,
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "84ba62ab290e5668",
+    "supplierVariantId": "T-303-NE",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 1.67,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  }
+]

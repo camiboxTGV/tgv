@@ -1,0 +1,53 @@
+[
+  {
+    "contentKey": "4814dc2e4afd32d3",
+    "supplierVariantId": "A-480-BL",
+    "stock": 8000,
+    "stockLevel": "in-stock",
+    "price": 0.39,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "4d8da3275f38f404",
+    "supplierVariantId": "A-480-AM",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.39,
+    "color": {
+      "name": "Yellow",
+      "hex": "#FFFF00"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "c3739d3dc688404f",
+    "supplierVariantId": "A-480-NE",
+    "stock": 8000,
+    "stockLevel": "in-stock",
+    "price": 0.39,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      8,
+      9,
+      10,
+      11
+    ]
+  }
+]

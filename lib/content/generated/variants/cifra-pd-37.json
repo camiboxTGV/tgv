@@ -1,0 +1,32 @@
+[
+  {
+    "contentKey": "27e262bae2678d08",
+    "supplierVariantId": "PD-37-RO",
+    "stock": 22,
+    "stockLevel": "in-stock",
+    "price": 6.49,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "e236a9cf840673b6",
+    "supplierVariantId": "PD-37-VE",
+    "stock": 94,
+    "stockLevel": "in-stock",
+    "price": 6.49,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  }
+]

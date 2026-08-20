@@ -1,0 +1,44 @@
+[
+  {
+    "contentKey": "25ae028ef8acbcb9",
+    "supplierVariantId": "PD-21-VE",
+    "stock": 91,
+    "stockLevel": "in-stock",
+    "price": 6.49,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "591cd55002e118c9",
+    "supplierVariantId": "PD-21-MA",
+    "stock": 150,
+    "stockLevel": "in-stock",
+    "price": 6.49,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "6b371808d012b5f4",
+    "supplierVariantId": "PD-21-NE",
+    "stock": 87,
+    "stockLevel": "in-stock",
+    "price": 6.49,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      1
+    ]
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "contentKey": "554934ba71910b86",
+    "supplierVariantId": "Z-795-AZ",
+    "stock": 430,
+    "stockLevel": "in-stock",
+    "price": 0.45,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "5ccb95c20a1b6117",
+    "supplierVariantId": "Z-795-RO",
+    "stock": 495,
+    "stockLevel": "in-stock",
+    "price": 0.45,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      5,
+      6
+    ]
+  },
+  {
+    "contentKey": "dd9209163c1fdddf",
+    "supplierVariantId": "Z-795-NE",
+    "stock": 2364,
+    "stockLevel": "in-stock",
+    "price": 0.45,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      3,
+      4
+    ]
+  }
+]

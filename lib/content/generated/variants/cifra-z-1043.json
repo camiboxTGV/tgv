@@ -1,0 +1,38 @@
+[
+  {
+    "contentKey": "645610914e7cbe1a",
+    "supplierVariantId": "Z-1043-BL",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 0.12,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "contentKey": "ecdda9e299dd570b",
+    "supplierVariantId": "Z-1043-NE",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 0.12,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  }
+]

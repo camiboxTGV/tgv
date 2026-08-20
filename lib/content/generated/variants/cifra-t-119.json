@@ -1,0 +1,30 @@
+[
+  {
+    "contentKey": "104eefbbf2b75aa2",
+    "supplierVariantId": "T-119-NE",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 1.28,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "617b86a98baa014a",
+    "supplierVariantId": "T-119-RY",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 1.28,
+    "color": {
+      "name": "Royal",
+      "hex": "#2D3192"
+    },
+    "imageRefs": [
+      1
+    ]
+  }
+]

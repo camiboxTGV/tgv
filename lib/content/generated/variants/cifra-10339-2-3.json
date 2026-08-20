@@ -1,0 +1,53 @@
+[
+  {
+    "contentKey": "5cb4491a0b33f314",
+    "supplierVariantId": "10339-2-3-AM",
+    "stock": 232,
+    "stockLevel": "in-stock",
+    "price": 2.07,
+    "color": {
+      "name": "Yellow",
+      "hex": "#FFFF00"
+    },
+    "size": "2-3",
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "e46e14529c359b76",
+    "supplierVariantId": "10339-4-6-AM",
+    "stock": 490,
+    "stockLevel": "in-stock",
+    "price": 2.07,
+    "color": {
+      "name": "Yellow",
+      "hex": "#FFFF00"
+    },
+    "size": "4-6",
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "ea9f67c013495997",
+    "supplierVariantId": "10339-8-10-AM",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 2.07,
+    "color": {
+      "name": "Yellow",
+      "hex": "#FFFF00"
+    },
+    "size": "8-10",
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  }
+]

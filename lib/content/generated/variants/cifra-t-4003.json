@@ -1,0 +1,47 @@
+[
+  {
+    "contentKey": "0da96f8f26b30be2",
+    "supplierVariantId": "T-4003-RO",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 1.79,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "22960917bbcd2d70",
+    "supplierVariantId": "T-4003-AZ",
+    "stock": 6448,
+    "stockLevel": "in-stock",
+    "price": 1.79,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "4d466a2411cee843",
+    "supplierVariantId": "T-4003-VE",
+    "stock": 3925,
+    "stockLevel": "in-stock",
+    "price": 1.79,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      4,
+      5
+    ]
+  }
+]

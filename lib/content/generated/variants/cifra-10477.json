@@ -1,0 +1,33 @@
+[
+  {
+    "contentKey": "7bdfeb777aee1bca",
+    "supplierVariantId": "10477-RS",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 0.92,
+    "color": {
+      "name": "Pink",
+      "hex": "#FF1493"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "a28bb944954100de",
+    "supplierVariantId": "10477-OR-RS",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 0.92,
+    "color": {
+      "name": "Gold/Rose"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  }
+]

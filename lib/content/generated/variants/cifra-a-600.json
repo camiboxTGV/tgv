@@ -1,0 +1,54 @@
+[
+  {
+    "contentKey": "509068d73b5e611d",
+    "supplierVariantId": "A-600-PT",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 0.04,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "imageRefs": [
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "contentKey": "51e4df7d9d01f81d",
+    "supplierVariantId": "A-600-NE",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 0.04,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "c1a9ba096b30d9e7",
+    "supplierVariantId": "A-600-BL",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 0.04,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  }
+]

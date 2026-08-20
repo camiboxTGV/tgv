@@ -1,0 +1,81 @@
+[
+  {
+    "contentKey": "2b28ff5328d778cc",
+    "supplierVariantId": "11032-FU",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.62,
+    "color": {
+      "name": "Fuchsia",
+      "hex": "#FF00FF"
+    },
+    "imageRefs": [
+      8
+    ]
+  },
+  {
+    "contentKey": "7e618f3e18d166c5",
+    "supplierVariantId": "11032-NE",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.62,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      9
+    ]
+  },
+  {
+    "contentKey": "c6b0a3f226e2a58a",
+    "supplierVariantId": "11032-TU",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.62,
+    "color": {
+      "name": "Turquoise",
+      "hex": "#40E0D0"
+    },
+    "imageRefs": [
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  {
+    "contentKey": "c9b3092f1f21bf19",
+    "supplierVariantId": "11032-AZ",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.62,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "cbbfdba2311a9c2b",
+    "supplierVariantId": "11032-CR",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.62,
+    "color": {
+      "name": "Beige",
+      "hex": "#C2B280"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+]

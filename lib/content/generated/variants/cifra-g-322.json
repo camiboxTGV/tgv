@@ -1,0 +1,78 @@
+[
+  {
+    "contentKey": "1b6cd09f791dcb1a",
+    "supplierVariantId": "G-322-VE",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 0.32,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ]
+  },
+  {
+    "contentKey": "2c19673f4205012d",
+    "supplierVariantId": "G-322-NE",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 0.32,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ]
+  },
+  {
+    "contentKey": "2d0a56600a0b7ebc",
+    "supplierVariantId": "G-322-GR",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 0.32,
+    "color": {
+      "name": "Gray",
+      "hex": "#808080"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "a64e95249b23d5ae",
+    "supplierVariantId": "G-322-AZ",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 0.32,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  }
+]

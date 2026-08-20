@@ -57,8 +57,8 @@
     ],
     "price": 17.49,
     "priceFrom": false,
-    "stock": 0,
-    "stockLevel": "out-of-stock",
+    "stock": 3000,
+    "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo3137-03.jpg",
       "https://cdn1.midocean.com/image/700X700/mo3137-03-back.jpg",
@@ -66,7 +66,7 @@
       "https://cdn1.midocean.com/image/700X700/mo3137-03-picture1.jpg",
       "https://cdn1.midocean.com/image/700X700/mo3137-03-picture2.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

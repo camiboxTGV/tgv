@@ -1,0 +1,70 @@
+[
+  {
+    "contentKey": "4a5702934382690a",
+    "supplierVariantId": "B-522-RY",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.15,
+    "color": {
+      "name": "Royal",
+      "hex": "#2D3192"
+    },
+    "imageRefs": [
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "6477c6c8a624fd2d",
+    "supplierVariantId": "B-522-VE",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.15,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      12,
+      13,
+      14,
+      15
+    ]
+  },
+  {
+    "contentKey": "80c317c446d4b80a",
+    "supplierVariantId": "B-522-NE",
+    "stock": 4,
+    "stockLevel": "low",
+    "price": 0.15,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "ff89915f78400e20",
+    "supplierVariantId": "B-522-RO",
+    "stock": 1315,
+    "stockLevel": "in-stock",
+    "price": 0.15,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+]

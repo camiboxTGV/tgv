@@ -1,0 +1,102 @@
+[
+  {
+    "contentKey": "1523203b85e314c2",
+    "supplierVariantId": "N-043-AM-FL",
+    "stock": 1080,
+    "stockLevel": "in-stock",
+    "price": 0.99,
+    "color": {
+      "name": "Yellow Fluor"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "4df5d21137c1cff0",
+    "supplierVariantId": "N-043-BL",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.99,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "75e4bd4588e3f002",
+    "supplierVariantId": "N-043-NE",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.99,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "8ce665625f266a62",
+    "supplierVariantId": "N-043-AM",
+    "stock": 3336,
+    "stockLevel": "in-stock",
+    "price": 0.99,
+    "color": {
+      "name": "Yellow",
+      "hex": "#FFFF00"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "9f4248f47b1ecb90",
+    "supplierVariantId": "N-043-RY",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.99,
+    "color": {
+      "name": "Royal",
+      "hex": "#2D3192"
+    },
+    "imageRefs": [
+      10
+    ]
+  },
+  {
+    "contentKey": "ea1e80236460f306",
+    "supplierVariantId": "N-043-NA-FL",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.99,
+    "color": {
+      "name": "Fluor Orange"
+    },
+    "imageRefs": [
+      4
+    ]
+  },
+  {
+    "contentKey": "ee8a28c3b6d2553c",
+    "supplierVariantId": "N-043-RO",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.99,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      8,
+      9
+    ]
+  }
+]

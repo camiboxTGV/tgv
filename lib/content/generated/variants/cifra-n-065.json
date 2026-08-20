@@ -1,0 +1,33 @@
+[
+  {
+    "contentKey": "ba23afff6afba72e",
+    "supplierVariantId": "N-065-PI",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 1.49,
+    "color": {
+      "name": "Stone",
+      "hex": "#8B8C7A"
+    },
+    "imageRefs": [
+      3,
+      4
+    ]
+  },
+  {
+    "contentKey": "fe638773ded51b43",
+    "supplierVariantId": "N-065-MR",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 1.49,
+    "color": {
+      "name": "Brown",
+      "hex": "#800000"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  }
+]

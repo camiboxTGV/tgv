@@ -1,0 +1,36 @@
+[
+  {
+    "contentKey": "0a9b7d1c9820fdee",
+    "supplierVariantId": "A-241-AZ",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.06,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "cd82d5d9ea5d1f13",
+    "supplierVariantId": "A-241-RO",
+    "stock": 7116,
+    "stockLevel": "in-stock",
+    "price": 0.06,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+]

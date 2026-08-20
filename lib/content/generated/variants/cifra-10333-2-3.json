@@ -1,0 +1,53 @@
+[
+  {
+    "contentKey": "3b359b1936bbbaf2",
+    "supplierVariantId": "10333-4-6-BL",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 1.8,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "size": "4-6",
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "a817e72f04c27536",
+    "supplierVariantId": "10333-8-10-BL",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 1.8,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "size": "8-10",
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "d2a928463d67c255",
+    "supplierVariantId": "10333-2-3-BL",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 1.8,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "size": "2-3",
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  }
+]

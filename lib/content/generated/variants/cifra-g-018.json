@@ -1,0 +1,98 @@
+[
+  {
+    "contentKey": "51961da83ac7ec00",
+    "supplierVariantId": "G-018-NE",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.37,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "contentKey": "892535f4a7e57394",
+    "supplierVariantId": "G-018-LI",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.37,
+    "color": {
+      "name": "Lilac",
+      "hex": "#C8A2C8"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "9609bcf6f76913f4",
+    "supplierVariantId": "G-018-RO",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.37,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      15,
+      16,
+      17
+    ]
+  },
+  {
+    "contentKey": "db112ed87d04cea3",
+    "supplierVariantId": "G-018-NA",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.37,
+    "color": {
+      "name": "Orange",
+      "hex": "#FFA500"
+    },
+    "imageRefs": [
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "ef6af9a504294237",
+    "supplierVariantId": "G-018-BL",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.37,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "fadc14bf79ec842f",
+    "supplierVariantId": "G-018-FU",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.37,
+    "color": {
+      "name": "Fuchsia",
+      "hex": "#FF00FF"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  }
+]

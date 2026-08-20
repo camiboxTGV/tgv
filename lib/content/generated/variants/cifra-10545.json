@@ -1,0 +1,28 @@
+[
+  {
+    "contentKey": "755bba9d5cbb8f28",
+    "supplierVariantId": "10545-RS-AZ",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.5,
+    "imageRefs": [
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "e1d34db05ed71a8f",
+    "supplierVariantId": "10545-AZ",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.5,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  }
+]

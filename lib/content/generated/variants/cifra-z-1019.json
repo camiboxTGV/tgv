@@ -1,0 +1,50 @@
+[
+  {
+    "contentKey": "7502ccb89e254d6a",
+    "supplierVariantId": "Z-1019-FR",
+    "stock": 7812,
+    "stockLevel": "in-stock",
+    "price": 0.5,
+    "color": {
+      "name": "Blue/White"
+    },
+    "imageRefs": [
+      3,
+      4
+    ]
+  },
+  {
+    "contentKey": "f424d75afdbe6cea",
+    "supplierVariantId": "Z-1019",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.5,
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "f424d75afdbe6cea",
+    "supplierVariantId": "Z-1019-IT",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.5,
+    "imageRefs": [
+      5,
+      6
+    ]
+  },
+  {
+    "contentKey": "f424d75afdbe6cea",
+    "supplierVariantId": "Z-1019-POR",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.5,
+    "imageRefs": [
+      7,
+      8
+    ]
+  }
+]

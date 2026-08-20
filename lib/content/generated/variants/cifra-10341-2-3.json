@@ -1,0 +1,53 @@
+[
+  {
+    "contentKey": "0ce96ea24d74a43a",
+    "supplierVariantId": "10341-8-10-NA",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 2.07,
+    "color": {
+      "name": "Orange",
+      "hex": "#FFA500"
+    },
+    "size": "8-10",
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "295354ab57773c68",
+    "supplierVariantId": "10341-4-6-NA",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 2.07,
+    "color": {
+      "name": "Orange",
+      "hex": "#FFA500"
+    },
+    "size": "4-6",
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "fe943c315e37ef3c",
+    "supplierVariantId": "10341-2-3-NA",
+    "stock": 212,
+    "stockLevel": "in-stock",
+    "price": 2.07,
+    "color": {
+      "name": "Orange",
+      "hex": "#FFA500"
+    },
+    "size": "2-3",
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  }
+]

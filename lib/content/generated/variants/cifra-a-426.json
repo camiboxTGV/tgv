@@ -1,0 +1,101 @@
+[
+  {
+    "contentKey": "1e0f00d8cc8e0ec8",
+    "supplierVariantId": "A-426-RO",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.33,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "contentKey": "29f84c8c10c0ee6c",
+    "supplierVariantId": "A-426-AZ",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.33,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "51dff2c5b8c63e02",
+    "supplierVariantId": "A-426-NE",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.33,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "contentKey": "ac2e50cd3e0e6169",
+    "supplierVariantId": "A-426-VE",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.33,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      17,
+      18,
+      19,
+      20
+    ]
+  },
+  {
+    "contentKey": "cb0b425e60306315",
+    "supplierVariantId": "A-426-PT",
+    "stock": 7728,
+    "stockLevel": "in-stock",
+    "price": 0.33,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "imageRefs": [
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  {
+    "contentKey": "fdc59f952d9661ba",
+    "supplierVariantId": "A-426-LI",
+    "stock": 7491,
+    "stockLevel": "in-stock",
+    "price": 0.33,
+    "color": {
+      "name": "Lilac",
+      "hex": "#C8A2C8"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  }
+]

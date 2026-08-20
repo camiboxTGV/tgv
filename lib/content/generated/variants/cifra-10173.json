@@ -1,0 +1,32 @@
+[
+  {
+    "contentKey": "6651203b29336aec",
+    "supplierVariantId": "10173-AZ",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 4.29,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "9770fa0d6f672e0d",
+    "supplierVariantId": "10173-CR",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 4.29,
+    "color": {
+      "name": "Beige",
+      "hex": "#C2B280"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  }
+]

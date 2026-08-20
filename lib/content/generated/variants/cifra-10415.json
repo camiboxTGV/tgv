@@ -1,0 +1,36 @@
+[
+  {
+    "contentKey": "2322ce59eac605ef",
+    "supplierVariantId": "10415-NE",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.28,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "c52736d47c6c7cfb",
+    "supplierVariantId": "10415-PT",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.28,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+]

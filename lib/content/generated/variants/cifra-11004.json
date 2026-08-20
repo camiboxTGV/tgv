@@ -1,0 +1,31 @@
+[
+  {
+    "contentKey": "2399c9a3f18b91ed",
+    "supplierVariantId": "11004-PT",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 0.96,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "d3d9c6762e449119",
+    "supplierVariantId": "11004-NE",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 0.96,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  }
+]

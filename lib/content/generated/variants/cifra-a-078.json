@@ -1,0 +1,44 @@
+[
+  {
+    "contentKey": "4d85e919f241fb26",
+    "supplierVariantId": "A-078-BL",
+    "stock": 25000,
+    "stockLevel": "in-stock",
+    "price": 0.03,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "9db7f5246f63f558",
+    "supplierVariantId": "A-078-MD",
+    "stock": 25000,
+    "stockLevel": "in-stock",
+    "price": 0.03,
+    "color": {
+      "name": "Wood",
+      "hex": "#DEB887"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "a978572c9f37f8b5",
+    "supplierVariantId": "A-078-NE",
+    "stock": 25000,
+    "stockLevel": "in-stock",
+    "price": 0.03,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      2
+    ]
+  }
+]

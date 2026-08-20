@@ -1,0 +1,30 @@
+[
+  {
+    "contentKey": "4e20622ded198d82",
+    "supplierVariantId": "Z-605-NA",
+    "stock": 69,
+    "stockLevel": "in-stock",
+    "price": 1.24,
+    "color": {
+      "name": "Orange",
+      "hex": "#FFA500"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "d51429f9bdf479ce",
+    "supplierVariantId": "Z-605-PS",
+    "stock": 686,
+    "stockLevel": "in-stock",
+    "price": 1.24,
+    "color": {
+      "name": "Pistachio",
+      "hex": "#93C572"
+    },
+    "imageRefs": [
+      1
+    ]
+  }
+]

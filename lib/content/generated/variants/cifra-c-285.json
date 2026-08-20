@@ -1,0 +1,58 @@
+[
+  {
+    "contentKey": "00aa169c806e4785",
+    "supplierVariantId": "C-285",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 2.69,
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "07670ccbcf69001e",
+    "supplierVariantId": "C-285-PT",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 2.69,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "imageRefs": [
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "403ed48acc3eb06c",
+    "supplierVariantId": "C-285-AZ",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 2.69,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "dffc7d6afed5768f",
+    "supplierVariantId": "C-285-RO",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 2.69,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      6,
+      7
+    ]
+  }
+]

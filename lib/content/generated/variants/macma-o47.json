@@ -299,7 +299,7 @@
   {
     "contentKey": "392d2311e4f37976",
     "supplierVariantId": "BO470809",
-    "stock": 8,
+    "stock": 7,
     "stockLevel": "low",
     "price": 10.01,
     "color": {
@@ -398,7 +398,7 @@
   {
     "contentKey": "48c2517d5ccb89bd",
     "supplierVariantId": "BO470808",
-    "stock": 17,
+    "stock": 13,
     "stockLevel": "in-stock",
     "price": 10.01,
     "color": {
@@ -432,8 +432,8 @@
   {
     "contentKey": "4e235653a600f16d",
     "supplierVariantId": "BO470806",
-    "stock": 3,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 10.01,
     "color": {
       "name": "Burgundy",
@@ -1092,7 +1092,7 @@
   {
     "contentKey": "bbe6039d0c754bfc",
     "supplierVariantId": "BO470807",
-    "stock": 8,
+    "stock": 4,
     "stockLevel": "low",
     "price": 10.01,
     "color": {
@@ -1323,7 +1323,7 @@
   {
     "contentKey": "ea666f3ac021d2f5",
     "supplierVariantId": "BO472307",
-    "stock": 14,
+    "stock": 13,
     "stockLevel": "in-stock",
     "price": 10.01,
     "color": {

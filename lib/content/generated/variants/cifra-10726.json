@@ -1,0 +1,54 @@
+[
+  {
+    "contentKey": "45a1a7de44475bd5",
+    "supplierVariantId": "10726-BL",
+    "stock": 14951,
+    "stockLevel": "in-stock",
+    "price": 0.55,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "521e78110a6d9c20",
+    "supplierVariantId": "10726-RS",
+    "stock": 4687,
+    "stockLevel": "in-stock",
+    "price": 0.55,
+    "color": {
+      "name": "Pink",
+      "hex": "#FF1493"
+    },
+    "imageRefs": [
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "contentKey": "5fc3e44d8b6941bd",
+    "supplierVariantId": "10726-CE",
+    "stock": 3729,
+    "stockLevel": "in-stock",
+    "price": 0.55,
+    "color": {
+      "name": "Light blue",
+      "hex": "#87CEEB"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  }
+]

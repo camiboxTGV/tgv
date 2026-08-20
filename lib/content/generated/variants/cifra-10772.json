@@ -1,0 +1,37 @@
+[
+  {
+    "contentKey": "5091783f7b8d97e4",
+    "supplierVariantId": "10772-PI",
+    "stock": 3439,
+    "stockLevel": "in-stock",
+    "price": 2.51,
+    "color": {
+      "name": "Stone",
+      "hex": "#8B8C7A"
+    },
+    "imageRefs": [
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "fa3382c3a01b3fda",
+    "supplierVariantId": "10772-NE",
+    "stock": 3287,
+    "stockLevel": "in-stock",
+    "price": 2.51,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "contentKey": "6f2bc48dba04aeca",
+    "supplierVariantId": "Z-793-AM",
+    "stock": 4501,
+    "stockLevel": "in-stock",
+    "price": 0.28,
+    "color": {
+      "name": "Yellow",
+      "hex": "#FFFF00"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "ab125c3b8d048579",
+    "supplierVariantId": "Z-793-NA",
+    "stock": 1699,
+    "stockLevel": "in-stock",
+    "price": 0.28,
+    "color": {
+      "name": "Orange",
+      "hex": "#FFA500"
+    },
+    "imageRefs": [
+      2,
+      3,
+      4
+    ]
+  }
+]

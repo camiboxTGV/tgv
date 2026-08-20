@@ -1,0 +1,50 @@
+[
+  {
+    "contentKey": "0e41ddc385fb102f",
+    "supplierVariantId": "10524-NE",
+    "stock": 300,
+    "stockLevel": "in-stock",
+    "price": 32.45,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "418a12fb85416458",
+    "supplierVariantId": "10524-BL",
+    "stock": 300,
+    "stockLevel": "in-stock",
+    "price": 32.45,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "f3aa28ec59eb1596",
+    "supplierVariantId": "10524-MA",
+    "stock": 300,
+    "stockLevel": "in-stock",
+    "price": 32.45,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  }
+]

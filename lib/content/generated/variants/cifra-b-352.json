@@ -1,0 +1,63 @@
+[
+  {
+    "contentKey": "08358e1ea08c38dd",
+    "supplierVariantId": "B-352-VE",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 2.94,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "781e7905dd6748b5",
+    "supplierVariantId": "B-352-NE",
+    "stock": 1681,
+    "stockLevel": "in-stock",
+    "price": 2.94,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "a722f7b29b3053a5",
+    "supplierVariantId": "B-352-AZ",
+    "stock": 446,
+    "stockLevel": "in-stock",
+    "price": 2.94,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "c6d7f0d40ebe7656",
+    "supplierVariantId": "B-352-RO",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 2.94,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      4,
+      5
+    ]
+  }
+]

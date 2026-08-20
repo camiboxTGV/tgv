@@ -1,0 +1,51 @@
+[
+  {
+    "contentKey": "5bcc716dd53dc7d8",
+    "supplierVariantId": "T-084-VE",
+    "stock": 512,
+    "stockLevel": "in-stock",
+    "price": 0.74,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "contentKey": "721780d008eb9813",
+    "supplierVariantId": "T-084-AZ",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.74,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "fe88db9d8bfb7f6d",
+    "supplierVariantId": "T-084-CR",
+    "stock": 1256,
+    "stockLevel": "in-stock",
+    "price": 0.74,
+    "color": {
+      "name": "Beige",
+      "hex": "#C2B280"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6
+    ]
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "contentKey": "044de10fa52b3722",
+    "supplierVariantId": "S-027-RY",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 0.8,
+    "color": {
+      "name": "Royal",
+      "hex": "#2D3192"
+    },
+    "imageRefs": [
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "contentKey": "1cc8bd2f852b6d46",
+    "supplierVariantId": "S-027-MA",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 0.8,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "28a44684ffc7e7db",
+    "supplierVariantId": "S-027-NE",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 0.8,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "3e15d6ca03a8f915",
+    "supplierVariantId": "S-027-RO",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 0.8,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "8156ed7dfe5ba0d4",
+    "supplierVariantId": "S-027-VE",
+    "stock": 538,
+    "stockLevel": "in-stock",
+    "price": 0.8,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      15,
+      16,
+      17
+    ]
+  },
+  {
+    "contentKey": "a55b09b8b1932aab",
+    "supplierVariantId": "S-027-BL",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 0.8,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  }
+]

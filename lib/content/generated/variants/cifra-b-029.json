@@ -1,0 +1,32 @@
+[
+  {
+    "contentKey": "51d3427679d331ca",
+    "supplierVariantId": "B-029-CE",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 0.12,
+    "color": {
+      "name": "Light blue",
+      "hex": "#87CEEB"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "d7a8b12026ac7375",
+    "supplierVariantId": "B-029-RS",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 0.12,
+    "color": {
+      "name": "Pink",
+      "hex": "#FF1493"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  }
+]

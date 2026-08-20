@@ -1,0 +1,32 @@
+[
+  {
+    "contentKey": "3ad74f26635ce72f",
+    "supplierVariantId": "PD-36-VE",
+    "stock": 23,
+    "stockLevel": "in-stock",
+    "price": 6.49,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "c6fe5a377310f5c7",
+    "supplierVariantId": "PD-36-CE",
+    "stock": 49,
+    "stockLevel": "in-stock",
+    "price": 6.49,
+    "color": {
+      "name": "Light blue",
+      "hex": "#87CEEB"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  }
+]

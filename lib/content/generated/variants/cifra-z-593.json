@@ -1,0 +1,38 @@
+[
+  {
+    "contentKey": "4ec4af66b16a6729",
+    "supplierVariantId": "Z-593-OR",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 13.07,
+    "color": {
+      "name": "Gold",
+      "hex": "#FFD700"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "contentKey": "722e5f6615e0ddaa",
+    "supplierVariantId": "Z-593-PT",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 13.07,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "imageRefs": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  }
+]

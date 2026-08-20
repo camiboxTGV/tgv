@@ -1,0 +1,37 @@
+[
+  {
+    "contentKey": "04d41701dca13512",
+    "supplierVariantId": "N-067-BL",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.83,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "a45c82329473e7e9",
+    "supplierVariantId": "N-067-VE",
+    "stock": 9746,
+    "stockLevel": "in-stock",
+    "price": 0.83,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  }
+]

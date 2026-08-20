@@ -1,0 +1,92 @@
+[
+  {
+    "contentKey": "82b6a1f1885a4285",
+    "supplierVariantId": "G-069-CR",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 1.01,
+    "color": {
+      "name": "Beige",
+      "hex": "#C2B280"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "a6d393e659a63015",
+    "supplierVariantId": "G-069-NE",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 1.01,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "c36f2c1747aef63f",
+    "supplierVariantId": "G-069-AZ",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 1.01,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "d0fa8d0ebf89553c",
+    "supplierVariantId": "G-069-PS",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 1.01,
+    "color": {
+      "name": "Pistachio",
+      "hex": "#93C572"
+    },
+    "imageRefs": [
+      8,
+      9
+    ]
+  },
+  {
+    "contentKey": "e604756ba1e7bf39",
+    "supplierVariantId": "G-069-RO",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 1.01,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "eeb703b73ace55c1",
+    "supplierVariantId": "G-069-LI",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 1.01,
+    "color": {
+      "name": "Lilac",
+      "hex": "#C8A2C8"
+    },
+    "imageRefs": [
+      4,
+      5
+    ]
+  }
+]

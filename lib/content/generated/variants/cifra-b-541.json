@@ -1,0 +1,65 @@
+[
+  {
+    "contentKey": "6faac31f5ce9b2de",
+    "supplierVariantId": "B-541-RO",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 1.67,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ]
+  },
+  {
+    "contentKey": "7daba17aa6a8c46f",
+    "supplierVariantId": "B-541-BL",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 1.67,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ]
+  },
+  {
+    "contentKey": "8c15e9898afc8f99",
+    "supplierVariantId": "B-541-AZ",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 1.67,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+]

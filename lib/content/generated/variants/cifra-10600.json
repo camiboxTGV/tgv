@@ -1,0 +1,32 @@
+[
+  {
+    "contentKey": "0c8d1ebde5310d18",
+    "supplierVariantId": "10600-AM",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.41,
+    "color": {
+      "name": "Yellow",
+      "hex": "#FFFF00"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "5ff16e908bd8c606",
+    "supplierVariantId": "10600-NA",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 0.41,
+    "color": {
+      "name": "Orange",
+      "hex": "#FFA500"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  }
+]

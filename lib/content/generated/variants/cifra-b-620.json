@@ -1,0 +1,47 @@
+[
+  {
+    "contentKey": "129df0cba45ff160",
+    "supplierVariantId": "B-620-RO",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 1.68,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "31cd1818d3b873ef",
+    "supplierVariantId": "B-620-AZ",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 1.68,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "a0fb27f077be5886",
+    "supplierVariantId": "B-620-MR",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 1.68,
+    "color": {
+      "name": "Brown",
+      "hex": "#800000"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "contentKey": "820dd0e2cafec34b",
+    "supplierVariantId": "10705-NE",
+    "stock": 2997,
+    "stockLevel": "in-stock",
+    "price": 1.26,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "contentKey": "cdc77af5239b461d",
+    "supplierVariantId": "10705-MA",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 1.26,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "contentKey": "3946ea39bdcffae0",
+    "supplierVariantId": "C-263",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.5,
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "82a7b79d076bd0b8",
+    "supplierVariantId": "C-263-NE",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.5,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "9c593a7bf6324199",
+    "supplierVariantId": "C-263-BL",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.5,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      1
+    ]
+  }
+]

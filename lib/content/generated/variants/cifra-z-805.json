@@ -1,0 +1,36 @@
+[
+  {
+    "contentKey": "064c6a2df2d245a0",
+    "supplierVariantId": "Z-805-RO",
+    "stock": 11,
+    "stockLevel": "in-stock",
+    "price": 57.88,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "cb7d48c00bff4ab0",
+    "supplierVariantId": "Z-805-GR",
+    "stock": 100,
+    "stockLevel": "in-stock",
+    "price": 57.88,
+    "color": {
+      "name": "Gray",
+      "hex": "#808080"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  }
+]

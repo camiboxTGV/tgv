@@ -1,0 +1,78 @@
+[
+  {
+    "contentKey": "29813570e47ae030",
+    "supplierVariantId": "10969-AM",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 2.1,
+    "color": {
+      "name": "Yellow",
+      "hex": "#FFFF00"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "33bcd5029fda9ac7",
+    "supplierVariantId": "10969-BL",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 2.1,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "4754341bbf73d0e7",
+    "supplierVariantId": "10969-RY",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 2.1,
+    "color": {
+      "name": "Royal",
+      "hex": "#2D3192"
+    },
+    "imageRefs": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ]
+  },
+  {
+    "contentKey": "ec02c9239af1784e",
+    "supplierVariantId": "10969-RO",
+    "stock": 61,
+    "stockLevel": "in-stock",
+    "price": 2.1,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ]
+  }
+]

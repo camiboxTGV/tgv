@@ -1,0 +1,62 @@
+[
+  {
+    "contentKey": "10fe3ae34714e2d4",
+    "supplierVariantId": "G-345-RS",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.71,
+    "color": {
+      "name": "Pink",
+      "hex": "#FF1493"
+    },
+    "imageRefs": [
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "8ced4fadb6f378aa",
+    "supplierVariantId": "G-345-PT",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.71,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "imageRefs": [
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "f6b35b32f48a2f58",
+    "supplierVariantId": "G-345-PLOMO",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 0.71,
+    "color": {
+      "name": "Lead",
+      "hex": "#798081"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "fa1233ab0ef4356a",
+    "supplierVariantId": "G-345-OR",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.71,
+    "color": {
+      "name": "Gold",
+      "hex": "#FFD700"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  }
+]

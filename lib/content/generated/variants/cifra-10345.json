@@ -1,0 +1,104 @@
+[
+  {
+    "contentKey": "07d632465f21d242",
+    "supplierVariantId": "10345-S-MA",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 2.84,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "size": "S",
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "62c3b1c5cf84d8ca",
+    "supplierVariantId": "10345-M-MA",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 2.84,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "size": "M",
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "96cbff30cf1989b5",
+    "supplierVariantId": "10345-XL-MA",
+    "stock": 326,
+    "stockLevel": "in-stock",
+    "price": 2.84,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "size": "XL",
+    "imageRefs": [
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "96e032ffd66e7905",
+    "supplierVariantId": "10345-XS-MA",
+    "stock": 483,
+    "stockLevel": "in-stock",
+    "price": 2.84,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "size": "XS",
+    "imageRefs": [
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "contentKey": "e2acc417e951ad3d",
+    "supplierVariantId": "10345-L-MA",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 2.84,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "size": "L",
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "fbdc7d23febddd8b",
+    "supplierVariantId": "10345-XXL-MA",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 2.84,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      15,
+      16,
+      17
+    ]
+  }
+]

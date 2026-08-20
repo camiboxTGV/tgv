@@ -1,0 +1,92 @@
+[
+  {
+    "contentKey": "250f55286b7e6a3c",
+    "supplierVariantId": "10324-VE",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 1.49,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "3d2f8e3fa3b1f46e",
+    "supplierVariantId": "10324-RO",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 1.49,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "456ff350962cba30",
+    "supplierVariantId": "10324-LI",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 1.49,
+    "color": {
+      "name": "Lilac",
+      "hex": "#C8A2C8"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "4a918a85c96cd17a",
+    "supplierVariantId": "10324-RY",
+    "stock": 8,
+    "stockLevel": "low",
+    "price": 1.49,
+    "color": {
+      "name": "Royal",
+      "hex": "#2D3192"
+    },
+    "imageRefs": [
+      8,
+      9
+    ]
+  },
+  {
+    "contentKey": "508d93ab5b42dafb",
+    "supplierVariantId": "10324-BL",
+    "stock": 8000,
+    "stockLevel": "in-stock",
+    "price": 1.49,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "9a174bad9c02ab55",
+    "supplierVariantId": "10324-NE",
+    "stock": 8000,
+    "stockLevel": "in-stock",
+    "price": 1.49,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      4,
+      5
+    ]
+  }
+]

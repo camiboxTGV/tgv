@@ -1,0 +1,101 @@
+[
+  {
+    "contentKey": "061b40ec5d9bfceb",
+    "supplierVariantId": "T-1300-BU",
+    "stock": 2,
+    "stockLevel": "low",
+    "price": 1.32,
+    "color": {
+      "name": "Bordeaux",
+      "hex": "#5F021F"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "293862fe8fef51fe",
+    "supplierVariantId": "T-1300-NE",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 1.32,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "contentKey": "42bd4b4af7e87659",
+    "supplierVariantId": "T-1300-VE",
+    "stock": 2598,
+    "stockLevel": "in-stock",
+    "price": 1.32,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      17,
+      18,
+      19,
+      20
+    ]
+  },
+  {
+    "contentKey": "880860e8029fcfd1",
+    "supplierVariantId": "T-1300-BL",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 1.32,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "945d4f1bce1ef289",
+    "supplierVariantId": "T-1300-CR",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 1.32,
+    "color": {
+      "name": "Beige",
+      "hex": "#C2B280"
+    },
+    "imageRefs": [
+      8
+    ]
+  },
+  {
+    "contentKey": "f94421de3f99e432",
+    "supplierVariantId": "T-1300-MA",
+    "stock": 8000,
+    "stockLevel": "in-stock",
+    "price": 1.32,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "imageRefs": [
+      9,
+      10,
+      11,
+      12
+    ]
+  }
+]

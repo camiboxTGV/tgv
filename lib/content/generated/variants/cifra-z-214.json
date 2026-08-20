@@ -1,0 +1,93 @@
+[
+  {
+    "contentKey": "0b9556e05c57c6d0",
+    "supplierVariantId": "Z-214-RO",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 0.75,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      9,
+      10
+    ]
+  },
+  {
+    "contentKey": "3304c35dcbc4fb74",
+    "supplierVariantId": "Z-214-AM",
+    "stock": 545,
+    "stockLevel": "in-stock",
+    "price": 0.75,
+    "color": {
+      "name": "Yellow",
+      "hex": "#FFFF00"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "5aea3bea6fc5570f",
+    "supplierVariantId": "Z-214-AZ",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 0.75,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "720e7f84eb3273bc",
+    "supplierVariantId": "Z-214-NE",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 0.75,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "897d55daea3b6b30",
+    "supplierVariantId": "Z-214-BL",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 0.75,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "8f0f6b0365d39de7",
+    "supplierVariantId": "Z-214-VE",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 0.75,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      11,
+      12
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "contentKey": "7cfaced333b60d30",
+    "supplierVariantId": "Z-619-NE",
+    "stock": 163,
+    "stockLevel": "in-stock",
+    "price": 0.29,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "eedaf915aab287b7",
+    "supplierVariantId": "Z-619-CR",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 0.29,
+    "color": {
+      "name": "Beige",
+      "hex": "#C2B280"
+    },
+    "imageRefs": [
+      0
+    ]
+  }
+]

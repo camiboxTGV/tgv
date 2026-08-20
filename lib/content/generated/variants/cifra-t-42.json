@@ -1,0 +1,58 @@
+[
+  {
+    "contentKey": "14cd1d066adfac98",
+    "supplierVariantId": "T-42-NA",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 0.86,
+    "color": {
+      "name": "Orange",
+      "hex": "#FFA500"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "5b39e44708d29bdb",
+    "supplierVariantId": "T-42-LI",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 0.86,
+    "color": {
+      "name": "Lilac",
+      "hex": "#C8A2C8"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "7ae6233b40320d97",
+    "supplierVariantId": "T-42-RO",
+    "stock": 1783,
+    "stockLevel": "in-stock",
+    "price": 0.86,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "9e72d2d98a13805e",
+    "supplierVariantId": "T-42-RY",
+    "stock": 559,
+    "stockLevel": "in-stock",
+    "price": 0.86,
+    "color": {
+      "name": "Royal",
+      "hex": "#2D3192"
+    },
+    "imageRefs": [
+      3
+    ]
+  }
+]

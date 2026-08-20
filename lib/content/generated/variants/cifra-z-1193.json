@@ -1,0 +1,80 @@
+[
+  {
+    "contentKey": "14a08e3eb5ce37a2",
+    "supplierVariantId": "Z-1193-BL",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.6,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "4c055937aec72ed4",
+    "supplierVariantId": "Z-1193-PI",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.6,
+    "color": {
+      "name": "Stone",
+      "hex": "#8B8C7A"
+    },
+    "imageRefs": [
+      11,
+      12
+    ]
+  },
+  {
+    "contentKey": "acc8cdc5523bf6de",
+    "supplierVariantId": "Z-1193-BU",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.6,
+    "color": {
+      "name": "Bordeaux",
+      "hex": "#5F021F"
+    },
+    "imageRefs": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "contentKey": "f611a39a445afdc7",
+    "supplierVariantId": "Z-1193-NE",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.6,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "contentKey": "f69d042b5b426996",
+    "supplierVariantId": "Z-1193-MA",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.6,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "imageRefs": [
+      5,
+      6,
+      7
+    ]
+  }
+]

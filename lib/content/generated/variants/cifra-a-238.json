@@ -1,0 +1,98 @@
+[
+  {
+    "contentKey": "03080be4de62a4e5",
+    "supplierVariantId": "A-238-FU",
+    "stock": 2559,
+    "stockLevel": "in-stock",
+    "price": 0.08,
+    "color": {
+      "name": "Fuchsia",
+      "hex": "#FF00FF"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "26b134990d59475b",
+    "supplierVariantId": "A-238-AZ",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.08,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "5b8907590fe32709",
+    "supplierVariantId": "A-238-NE",
+    "stock": 2757,
+    "stockLevel": "in-stock",
+    "price": 0.08,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "c5b8dc658d22e75e",
+    "supplierVariantId": "A-238-VE",
+    "stock": 149,
+    "stockLevel": "in-stock",
+    "price": 0.08,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      15,
+      16,
+      17
+    ]
+  },
+  {
+    "contentKey": "d2ee1abd79cb2e03",
+    "supplierVariantId": "A-238-RO",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.08,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "contentKey": "ee28a097ded92c63",
+    "supplierVariantId": "A-238-LI",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.08,
+    "color": {
+      "name": "Lilac",
+      "hex": "#C8A2C8"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "contentKey": "0e8471661ac6ee29",
+    "supplierVariantId": "P-126-PT",
+    "stock": 605,
+    "stockLevel": "in-stock",
+    "price": 0.29,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "afca0c77bd0720be",
+    "supplierVariantId": "P-126-BL",
+    "stock": 1430,
+    "stockLevel": "in-stock",
+    "price": 0.29,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  }
+]

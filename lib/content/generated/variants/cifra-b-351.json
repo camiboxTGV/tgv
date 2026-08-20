@@ -1,0 +1,82 @@
+[
+  {
+    "contentKey": "114c820950e40128",
+    "supplierVariantId": "B-351-NA",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 1.67,
+    "color": {
+      "name": "Orange",
+      "hex": "#FFA500"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "480c3c7763d098a5",
+    "supplierVariantId": "B-351-RY",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 1.67,
+    "color": {
+      "name": "Royal",
+      "hex": "#2D3192"
+    },
+    "imageRefs": [
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "53e96c9e7446de99",
+    "supplierVariantId": "B-351-NE",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 1.67,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "5c1c5317564c6d48",
+    "supplierVariantId": "B-351-VE",
+    "stock": 901,
+    "stockLevel": "in-stock",
+    "price": 1.67,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "contentKey": "85b6573178f5808f",
+    "supplierVariantId": "B-351-RO",
+    "stock": 441,
+    "stockLevel": "in-stock",
+    "price": 1.67,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  }
+]

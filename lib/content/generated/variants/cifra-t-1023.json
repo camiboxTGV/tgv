@@ -1,0 +1,87 @@
+[
+  {
+    "contentKey": "5f81cdc5718b8602",
+    "supplierVariantId": "T-1023-XXL-RO",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 2.06,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "contentKey": "7adc48d887c0d989",
+    "supplierVariantId": "T-1023-L-RO",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 2.06,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "size": "L",
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "a21fa7fc77557c76",
+    "supplierVariantId": "T-1023-XL-RO",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 2.06,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "size": "XL",
+    "imageRefs": [
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "d575c9f146fab4b6",
+    "supplierVariantId": "T-1023-S-RO",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 2.06,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "size": "S",
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "f76fc4ba3806f34d",
+    "supplierVariantId": "T-1023-M-RO",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 2.06,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "size": "M",
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  }
+]

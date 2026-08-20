@@ -1,0 +1,35 @@
+[
+  {
+    "contentKey": "3f3c260b3fe6d151",
+    "supplierVariantId": "B-688-PT",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 1.01,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "89dcfd4607a43cb1",
+    "supplierVariantId": "B-688-OR-RS",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 1.01,
+    "color": {
+      "name": "Gold/Rose"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  }
+]

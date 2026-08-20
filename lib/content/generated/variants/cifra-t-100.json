@@ -1,0 +1,138 @@
+[
+  {
+    "contentKey": "0722e5b80efd26cf",
+    "supplierVariantId": "T-100-AZ/MEDIO",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.87,
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "0722e5b80efd26cf",
+    "supplierVariantId": "T-100-MA",
+    "stock": 15000,
+    "stockLevel": "in-stock",
+    "price": 0.87,
+    "imageRefs": [
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "contentKey": "09ba0f482e5a6691",
+    "supplierVariantId": "T-100-LI",
+    "stock": 8000,
+    "stockLevel": "in-stock",
+    "price": 0.87,
+    "color": {
+      "name": "Lilac",
+      "hex": "#C8A2C8"
+    },
+    "imageRefs": [
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "31202f678f1e4a77",
+    "supplierVariantId": "T-100-AM",
+    "stock": 8000,
+    "stockLevel": "in-stock",
+    "price": 0.87,
+    "color": {
+      "name": "Yellow",
+      "hex": "#FFFF00"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "566e9fdc47c4d8e9",
+    "supplierVariantId": "T-100-NA",
+    "stock": 8000,
+    "stockLevel": "in-stock",
+    "price": 0.87,
+    "color": {
+      "name": "Orange",
+      "hex": "#FFA500"
+    },
+    "imageRefs": [
+      15,
+      16,
+      17
+    ]
+  },
+  {
+    "contentKey": "5fc908d93f97d300",
+    "supplierVariantId": "T-100-NE",
+    "stock": 15000,
+    "stockLevel": "in-stock",
+    "price": 0.87,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      18,
+      19,
+      20
+    ]
+  },
+  {
+    "contentKey": "7ca0793c32876e5a",
+    "supplierVariantId": "T-100-RO",
+    "stock": 8000,
+    "stockLevel": "in-stock",
+    "price": 0.87,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      21,
+      22,
+      23
+    ]
+  },
+  {
+    "contentKey": "9e4c33c03dd82b46",
+    "supplierVariantId": "T-100-BL",
+    "stock": 15000,
+    "stockLevel": "in-stock",
+    "price": 0.87,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "b750afa6bfa06bdc",
+    "supplierVariantId": "T-100-VE",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.87,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      24,
+      25,
+      26
+    ]
+  }
+]

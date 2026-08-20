@@ -1,0 +1,114 @@
+[
+  {
+    "contentKey": "40de442bdbf36298",
+    "supplierVariantId": "A-236-AZ",
+    "stock": 20000,
+    "stockLevel": "in-stock",
+    "price": 0.08,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "56a704b2d44cf9cf",
+    "supplierVariantId": "A-236-VE",
+    "stock": 15000,
+    "stockLevel": "in-stock",
+    "price": 0.08,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      18,
+      19,
+      20
+    ]
+  },
+  {
+    "contentKey": "5a941905ee02c3d9",
+    "supplierVariantId": "A-236-BL",
+    "stock": 9387,
+    "stockLevel": "in-stock",
+    "price": 0.08,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "5dac6998280d437b",
+    "supplierVariantId": "A-236-NE",
+    "stock": 20000,
+    "stockLevel": "in-stock",
+    "price": 0.08,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "contentKey": "b2686f6fbd89e877",
+    "supplierVariantId": "A-236-FU",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.08,
+    "color": {
+      "name": "Fuchsia",
+      "hex": "#FF00FF"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "d9ff3e07409aa259",
+    "supplierVariantId": "A-236-RO",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.08,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      15,
+      16,
+      17
+    ]
+  },
+  {
+    "contentKey": "e1ddbea9d04a1caa",
+    "supplierVariantId": "A-236-LI",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.08,
+    "color": {
+      "name": "Lilac",
+      "hex": "#C8A2C8"
+    },
+    "imageRefs": [
+      9,
+      10,
+      11
+    ]
+  }
+]

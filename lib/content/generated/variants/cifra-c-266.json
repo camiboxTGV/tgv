@@ -1,0 +1,82 @@
+[
+  {
+    "contentKey": "06ef3111a0723f85",
+    "supplierVariantId": "C-266-VE",
+    "stock": 857,
+    "stockLevel": "in-stock",
+    "price": 4.15,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "contentKey": "08da7c44cc6ec817",
+    "supplierVariantId": "C-266-RO",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 4.15,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "271c7b2ee39dc9be",
+    "supplierVariantId": "C-266-RY",
+    "stock": 901,
+    "stockLevel": "in-stock",
+    "price": 4.15,
+    "color": {
+      "name": "Royal",
+      "hex": "#2D3192"
+    },
+    "imageRefs": [
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "5ee5f3dbc09e17ba",
+    "supplierVariantId": "C-266-PT",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 4.15,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "957c7f9de713565c",
+    "supplierVariantId": "C-266-LI",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 4.15,
+    "color": {
+      "name": "Lilac",
+      "hex": "#C8A2C8"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  }
+]

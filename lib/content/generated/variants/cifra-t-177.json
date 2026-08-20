@@ -1,0 +1,100 @@
+[
+  {
+    "contentKey": "4f039c39a9b19adf",
+    "supplierVariantId": "T-177-AZ",
+    "stock": 412,
+    "stockLevel": "in-stock",
+    "price": 3.28,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "5526115f4344d0d7",
+    "supplierVariantId": "T-177-NA",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 3.28,
+    "color": {
+      "name": "Orange",
+      "hex": "#FFA500"
+    },
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "bb8228765d61966e",
+    "supplierVariantId": "T-177-AM",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 3.28,
+    "color": {
+      "name": "Yellow",
+      "hex": "#FFFF00"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "c0bdc14e64abd282",
+    "supplierVariantId": "T-177-RO",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 3.28,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      6
+    ]
+  },
+  {
+    "contentKey": "cb028902158dc060",
+    "supplierVariantId": "T-177-MA",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 3.28,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "d044f47c0306073e",
+    "supplierVariantId": "T-177-PS",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 3.28,
+    "color": {
+      "name": "Pistachio",
+      "hex": "#93C572"
+    },
+    "imageRefs": [
+      5
+    ]
+  },
+  {
+    "contentKey": "d32dba30edae22ec",
+    "supplierVariantId": "T-177-NE",
+    "stock": 1147,
+    "stockLevel": "in-stock",
+    "price": 3.28,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      4
+    ]
+  }
+]

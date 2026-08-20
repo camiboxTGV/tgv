@@ -1,0 +1,71 @@
+[
+  {
+    "contentKey": "12f64258555ef061",
+    "supplierVariantId": "CV-10-BL",
+    "stock": 2709,
+    "stockLevel": "in-stock",
+    "price": 0.65,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "142bdae99e6b26f4",
+    "supplierVariantId": "CV-10-AZ",
+    "stock": 2378,
+    "stockLevel": "in-stock",
+    "price": 0.65,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "contentKey": "c9011786d5da37a9",
+    "supplierVariantId": "CV-10-VE",
+    "stock": 1115,
+    "stockLevel": "in-stock",
+    "price": 0.65,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "contentKey": "de8c038a3cbe9ed1",
+    "supplierVariantId": "CV-10-RS",
+    "stock": 1133,
+    "stockLevel": "in-stock",
+    "price": 0.65,
+    "color": {
+      "name": "Pink",
+      "hex": "#FF1493"
+    },
+    "imageRefs": [
+      8,
+      9,
+      10,
+      11
+    ]
+  }
+]

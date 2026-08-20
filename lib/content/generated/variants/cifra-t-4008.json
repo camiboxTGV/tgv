@@ -1,0 +1,84 @@
+[
+  {
+    "contentKey": "0304a0b4f81e4a8b",
+    "supplierVariantId": "T-4008-LI",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 1.17,
+    "color": {
+      "name": "Lilac",
+      "hex": "#C8A2C8"
+    },
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "3299619fcb2a4388",
+    "supplierVariantId": "T-4008-RO",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 1.17,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      6
+    ]
+  },
+  {
+    "contentKey": "4b4480a7d4fe828d",
+    "supplierVariantId": "T-4008-MA",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 1.17,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "imageRefs": [
+      4
+    ]
+  },
+  {
+    "contentKey": "9677ee8944d6983f",
+    "supplierVariantId": "T-4008-NE",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 1.17,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      5
+    ]
+  },
+  {
+    "contentKey": "a023bb217ca5ae3b",
+    "supplierVariantId": "T-4008",
+    "stock": 25000,
+    "stockLevel": "in-stock",
+    "price": 1.25,
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "e56bfb0de0a948ce",
+    "supplierVariantId": "T-4008-VE",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 1.17,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      7
+    ]
+  }
+]

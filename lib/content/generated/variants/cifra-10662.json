@@ -1,0 +1,98 @@
+[
+  {
+    "contentKey": "0520a4eb42f363b1",
+    "supplierVariantId": "10662-BU",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.32,
+    "color": {
+      "name": "Bordeaux",
+      "hex": "#5F021F"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "5e30fcfb300aeb06",
+    "supplierVariantId": "10662-MA",
+    "stock": 15000,
+    "stockLevel": "in-stock",
+    "price": 0.32,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "611a217f9457a969",
+    "supplierVariantId": "10662-VE",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.32,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      15,
+      16,
+      17
+    ]
+  },
+  {
+    "contentKey": "b0d7b423be5340bd",
+    "supplierVariantId": "10662-RS",
+    "stock": 7324,
+    "stockLevel": "in-stock",
+    "price": 0.32,
+    "color": {
+      "name": "Pink",
+      "hex": "#FF1493"
+    },
+    "imageRefs": [
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "contentKey": "d27b4ce27410662d",
+    "supplierVariantId": "10662-NE",
+    "stock": 15000,
+    "stockLevel": "in-stock",
+    "price": 0.32,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "e41df2e073fbe2b6",
+    "supplierVariantId": "10662-GR",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.32,
+    "color": {
+      "name": "Gray",
+      "hex": "#808080"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  }
+]

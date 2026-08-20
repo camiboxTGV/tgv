@@ -1,5 +1,743 @@
 [
   {
+    "slug": "cifra-10612",
+    "name": "SANTA'S HAT HEADBAND \"JOLLY\"",
+    "category": "apparel-and-wearables/headwear/beanies",
+    "summary": "Original headband with Christmas hat decorated with sequins.",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
+    "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "SE SIRVE SIN MARCAR",
+        "label": "Supplied without decoration",
+        "labelRo": "Livrat fără personalizare",
+        "printSizes": [
+          "se sirve sin marcar"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "10612",
+    "supplierVariantIds": [
+      "10612"
+    ],
+    "price": 1.17,
+    "priceFrom": false,
+    "stock": 7270,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/10612-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10612-01-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 1,
+    "colorCount": 0,
+    "sizeCount": 0,
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "9 × 12 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Polyester"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "10 pcs",
+        "valueRo": "10 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "60,0 x 40,0 x 40,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "7 kg",
+        "valueRo": "7 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "6 kg",
+        "valueRo": "6 kg"
+      },
+      {
+        "key": "units-per-pallet",
+        "label": "Units per pallet",
+        "labelRo": "Unități per palet",
+        "value": "3600 pcs",
+        "valueRo": "3600 buc."
+      }
+    ],
+    "weightGrams": 20,
+    "descriptionLong": "Original headband with Christmas hat decorated with sequins.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "cifra-10632",
+    "name": "XMAS HEADBAND FOR PETS \"PIPO\"",
+    "category": "apparel-and-wearables/headwear/beanies",
+    "summary": "Funny Santa Claus hat for your pets.",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "F",
+        "label": "Cifra decoration code F",
+        "labelRo": "Cod personalizare Cifra F",
+        "printSizes": [
+          "70x20 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "10632",
+    "supplierVariantIds": [
+      "10632"
+    ],
+    "price": 0.48,
+    "priceFrom": false,
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/10632-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10632-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10632-01-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Red",
+        "hex": "#FF0000"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "13.5 × 20 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Polyester"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "10 pcs",
+        "valueRo": "10 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "50,0 x 30,0 x 50,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "8.7 kg",
+        "valueRo": "8.7 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "7.2 kg",
+        "valueRo": "7.2 kg"
+      }
+    ],
+    "weightGrams": 8,
+    "descriptionLong": "Funny Santa Claus hat for your pets.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "cifra-t-429",
+    "name": "CHILD'S CHRISTMAS HAT “PEQUE”",
+    "category": "apparel-and-wearables/headwear/beanies",
+    "summary": "Christmas hat in felt. A classic in all Christmas parties and at the best price. Special size, perfect for children. ⁠⁠⁠⁠⁠⁠⁠Sold in multiples of 10 pcs, minimum quantity.",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "F",
+        "label": "Cifra decoration code F",
+        "labelRo": "Cod personalizare Cifra F",
+        "printSizes": [
+          "150x28mm"
+        ]
+      },
+      {
+        "code": "DTF",
+        "label": "Direct-to-film transfer",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "150x28mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "T-429",
+    "supplierVariantIds": [
+      "T-429"
+    ],
+    "price": 0.22,
+    "priceFrom": false,
+    "stock": 8,
+    "stockLevel": "low",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/T-429-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-429-01-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Red",
+        "hex": "#FF0000"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "25.5 × 37 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Polyester"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "10 pcs",
+        "valueRo": "10 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "60,0 x 40,0 x 40,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "9.25 kg",
+        "valueRo": "9.25 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "8.25 kg",
+        "valueRo": "8.25 kg"
+      },
+      {
+        "key": "units-per-pallet",
+        "label": "Units per pallet",
+        "labelRo": "Unități per palet",
+        "value": "5600 pcs",
+        "valueRo": "5600 buc."
+      },
+      {
+        "key": "ean",
+        "label": "EAN",
+        "labelRo": "EAN",
+        "value": "8436534317093"
+      }
+    ],
+    "weightGrams": 17,
+    "descriptionLong": "Christmas hat in felt. A classic in all Christmas parties and at the best price. Special size, perfect for children. ⁠⁠⁠⁠⁠⁠⁠Sold in multiples of 10 pcs, minimum quantity.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "cifra-t-434",
+    "name": "CHRISTMAS HAT \"LUXEX\"",
+    "category": "apparel-and-wearables/headwear/beanies",
+    "summary": "Santa's hat with spectacular metallic colors thanks to the lurex fabric and its aluminum threads covered in transparent plastic. Sold in multiples of 10 units, minimum quantity.",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "F",
+        "label": "Cifra decoration code F",
+        "labelRo": "Cod personalizare Cifra F",
+        "printSizes": [
+          "150x40mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "T-434",
+    "supplierVariantIds": [
+      "T-434-OR",
+      "T-434-PT",
+      "T-434-RO"
+    ],
+    "price": 0.77,
+    "priceFrom": false,
+    "stock": 8917,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/T-434-OR-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-434-OR-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-434-OR-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/T-434-PT-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-434-PT-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-434-PT-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/T-434-RO-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-434-RO-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-434-RO-01-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 3,
+    "colorCount": 3,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Gold",
+        "hex": "#FFD700"
+      },
+      {
+        "name": "Red",
+        "hex": "#FF0000"
+      },
+      {
+        "name": "Silver",
+        "hex": "#C0C0C0"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "29 × 34 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "LUREX FABRIC"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "10 pcs",
+        "valueRo": "10 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "63,0 x 42,0 x 53,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "11.5 kg",
+        "valueRo": "11.5 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "9.5 kg",
+        "valueRo": "9.5 kg"
+      },
+      {
+        "key": "units-per-pallet",
+        "label": "Units per pallet",
+        "labelRo": "Unități per palet",
+        "value": "1000 pcs",
+        "valueRo": "1000 buc."
+      }
+    ],
+    "weightGrams": 19,
+    "descriptionLong": "Santa's hat with spectacular metallic colors thanks to the lurex fabric and its aluminum threads covered in transparent plastic. Sold in multiples of 10 units, minimum quantity.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "cifra-t-435",
+    "name": "CHRISTMAS HAT \"BLITZEN\"",
+    "category": "apparel-and-wearables/headwear/beanies",
+    "summary": "Felt Santa's hat. A classic for all Christmas parties and at the best price. Sold in multiples of 10 pcs, minimum quantity.",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "F(1COLOR)",
+        "label": "Cifra decoration code F(1COLOR)",
+        "labelRo": "Cod personalizare Cifra F(1COLOR)",
+        "printSizes": [
+          "150 x 28mm",
+          "150x28 mm"
+        ]
+      },
+      {
+        "code": "DTF",
+        "label": "Direct-to-film transfer",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "150 x 28mm",
+          "150x28 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "T-435",
+    "supplierVariantIds": [
+      "T-435-AM",
+      "T-435-AZ",
+      "T-435-GR",
+      "T-435-LI",
+      "T-435-NA",
+      "T-435-VE"
+    ],
+    "price": 0.22,
+    "priceFrom": false,
+    "stock": 16118,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/T-435-AM-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-435-AM-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/T-435-AZ-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/T-435-GR-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/T-435-LI-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/T-435-NA-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/T-435-VE-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 6,
+    "colorCount": 6,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Blue",
+        "hex": "#4169E1"
+      },
+      {
+        "name": "Gray",
+        "hex": "#808080"
+      },
+      {
+        "name": "Green",
+        "hex": "#00FF00"
+      },
+      {
+        "name": "Lilac",
+        "hex": "#C8A2C8"
+      },
+      {
+        "name": "Orange",
+        "hex": "#FFA500"
+      },
+      {
+        "name": "Yellow",
+        "hex": "#FFFF00"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "28 × 37 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Polyester, Poliéster"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "10 pcs",
+        "valueRo": "10 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "59,0 x 39,0 x 39,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "9.7 kg",
+        "valueRo": "9.7 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "8 / 8.2 kg",
+        "valueRo": "8 / 8.2 kg"
+      },
+      {
+        "key": "units-per-pallet",
+        "label": "Units per pallet",
+        "labelRo": "Unități per palet",
+        "value": "5600 / 6000 pcs",
+        "valueRo": "5600 / 6000 buc."
+      },
+      {
+        "key": "ean",
+        "label": "EAN",
+        "labelRo": "EAN",
+        "value": "8436534317369 · 8436534317345 · 8436534317352 · 8436534317376 · 8436534317338"
+      }
+    ],
+    "weightGrams": 20,
+    "descriptionLong": "Felt Santa's hat. A classic for all Christmas parties and at the best price. Sold in multiples of 10 pcs, minimum quantity.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "cifra-t-435-ro",
+    "name": "CHRISTMAS HAT \"BLITZEN\"",
+    "category": "apparel-and-wearables/headwear/beanies",
+    "summary": "Felt Santa's hat. A classic for all Christmas parties and at the best price. Sold in multiples of 10 pcs, minimum quantity.",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "F(1COLOR)",
+        "label": "Cifra decoration code F(1COLOR)",
+        "labelRo": "Cod personalizare Cifra F(1COLOR)",
+        "printSizes": [
+          "150 x 28mm"
+        ]
+      },
+      {
+        "code": "DTF",
+        "label": "Direct-to-film transfer",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "150 x 28mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "T-435-RO",
+    "supplierVariantIds": [
+      "T-435-RO"
+    ],
+    "price": 0.22,
+    "priceFrom": false,
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/T-435-RO-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-435-RO-01-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Red",
+        "hex": "#FF0000"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "28 × 37 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Polyester"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "10 pcs",
+        "valueRo": "10 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "59,0 x 39,0 x 39,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "9.7 kg",
+        "valueRo": "9.7 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "8.2 kg",
+        "valueRo": "8.2 kg"
+      },
+      {
+        "key": "units-per-pallet",
+        "label": "Units per pallet",
+        "labelRo": "Unități per palet",
+        "value": "5600 pcs",
+        "valueRo": "5600 buc."
+      },
+      {
+        "key": "ean",
+        "label": "EAN",
+        "labelRo": "EAN",
+        "value": "8436534317321"
+      }
+    ],
+    "weightGrams": 20,
+    "descriptionLong": "Felt Santa's hat. A classic for all Christmas parties and at the best price. Sold in multiples of 10 pcs, minimum quantity.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "cifra-t-437",
+    "name": "CHRISTMAS HAT WITH PLAITS \"MAMA NOEL\"",
+    "category": "apparel-and-wearables/headwear/beanies",
+    "summary": "Felt Santa's hat. A classic for all Christmas parties and at the best price. Sold in multiples of 10 pcs, minimum quantity.",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "F",
+        "label": "Cifra decoration code F",
+        "labelRo": "Cod personalizare Cifra F",
+        "printSizes": [
+          "150x40mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "T-437",
+    "supplierVariantIds": [
+      "T-437-VE"
+    ],
+    "price": 0.83,
+    "priceFrom": false,
+    "stock": 8,
+    "stockLevel": "low",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/T-437-VE-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-437-VE-01-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Green",
+        "hex": "#00FF00"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "27 × 40 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "NON WOVEN 110G/M2"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "10 pcs",
+        "valueRo": "10 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "60,0 x 41,0 x 30,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "6.17 kg",
+        "valueRo": "6.17 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "5.4 kg",
+        "valueRo": "5.4 kg"
+      }
+    ],
+    "weightGrams": 23,
+    "descriptionLong": "Felt Santa's hat. A classic for all Christmas parties and at the best price. Sold in multiples of 10 pcs, minimum quantity.",
+    "hasVariantDetail": false
+  },
+  {
     "slug": "midocean-mo2350",
     "name": "BLIZZARD RPET",
     "category": "apparel-and-wearables/headwear/beanies",
@@ -69,7 +807,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2350-03-back.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2350-03-detail.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -203,7 +941,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2359-03-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2359-03-picture1.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -339,7 +1077,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2688-03-picture4.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2688-03-picture7.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -457,7 +1195,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2700-03-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2700-03-picture1.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -545,7 +1283,7 @@
     ],
     "price": 1.79,
     "priceFrom": false,
-    "stock": 37836,
+    "stock": 37735,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2705-03.jpg",
@@ -556,7 +1294,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2705-15.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2705-03-detail.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -684,7 +1422,7 @@
       "https://cdn1.midocean.com/image/700X700/mo3221-03-back.jpg",
       "https://cdn1.midocean.com/image/700X700/mo3221-03-top.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -824,7 +1562,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6645-03-top.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6645-03-detail.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 11,
     "colorCount": 11,
     "sizeCount": 0,
@@ -933,7 +1671,7 @@
     ],
     "price": 13.86,
     "priceFrom": false,
-    "stock": 2627,
+    "stock": 2746,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo6651-03.jpg",
@@ -946,7 +1684,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6651-03-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6651-03-box.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1034,7 +1772,7 @@
       "https://cdn1.midocean.com/image/700X700/mo9964-04.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9964-03-detail.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -1129,7 +1867,7 @@
       "https://cdn1.midocean.com/image/700X700/mo9965-04.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9965-03-detail.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,

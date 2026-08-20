@@ -1,0 +1,36 @@
+[
+  {
+    "contentKey": "4e53ea29923d9b27",
+    "supplierVariantId": "T-457-RO",
+    "stock": 2461,
+    "stockLevel": "in-stock",
+    "price": 1.08,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "8a93970fe407be6d",
+    "supplierVariantId": "T-457-MR",
+    "stock": 1499,
+    "stockLevel": "in-stock",
+    "price": 1.08,
+    "color": {
+      "name": "Brown",
+      "hex": "#800000"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "contentKey": "10def97874766e03",
+    "supplierVariantId": "Z-5000-BE",
+    "stock": 107,
+    "stockLevel": "in-stock",
+    "price": 3.72,
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "10def97874766e03",
+    "supplierVariantId": "Z-5000-MO",
+    "stock": 700,
+    "stockLevel": "in-stock",
+    "price": 3.72,
+    "imageRefs": [
+      8,
+      9
+    ]
+  },
+  {
+    "contentKey": "29c991fa4f2c39da",
+    "supplierVariantId": "Z-5000-MA",
+    "stock": 385,
+    "stockLevel": "in-stock",
+    "price": 3.72,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "imageRefs": [
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "3dfbd7422a36ffb5",
+    "supplierVariantId": "Z-5000-NE",
+    "stock": 700,
+    "stockLevel": "in-stock",
+    "price": 3.72,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "4a4354753c6bbb5f",
+    "supplierVariantId": "Z-5000-BU",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 3.72,
+    "color": {
+      "name": "Bordeaux",
+      "hex": "#5F021F"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "63ef2155406ab041",
+    "supplierVariantId": "Z-5000-CR",
+    "stock": 800,
+    "stockLevel": "in-stock",
+    "price": 3.72,
+    "color": {
+      "name": "Beige",
+      "hex": "#C2B280"
+    },
+    "imageRefs": [
+      4,
+      5
+    ]
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "contentKey": "17f7e5817a420830",
+    "supplierVariantId": "F-034-NE",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.18,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "a9063a2a69ba4e25",
+    "supplierVariantId": "F-034-PT",
+    "stock": 20000,
+    "stockLevel": "in-stock",
+    "price": 0.18,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "imageRefs": [
+      7
+    ]
+  },
+  {
+    "contentKey": "b81582d15100f03d",
+    "supplierVariantId": "F-034-BL",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.18,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "bbaa7448dac4138a",
+    "supplierVariantId": "F-034-OR",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.18,
+    "color": {
+      "name": "Gold",
+      "hex": "#FFD700"
+    },
+    "imageRefs": [
+      6
+    ]
+  },
+  {
+    "contentKey": "bfe286305ed4a455",
+    "supplierVariantId": "F-034-LI",
+    "stock": 5805,
+    "stockLevel": "in-stock",
+    "price": 0.18,
+    "color": {
+      "name": "Lilac",
+      "hex": "#C8A2C8"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  }
+]

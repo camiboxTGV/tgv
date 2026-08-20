@@ -1,0 +1,32 @@
+[
+  {
+    "contentKey": "18234dee0e609065",
+    "supplierVariantId": "B-331-VE",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 0.63,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "df4ae352a38ed5c3",
+    "supplierVariantId": "B-331-BL",
+    "stock": 4965,
+    "stockLevel": "in-stock",
+    "price": 0.63,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  }
+]

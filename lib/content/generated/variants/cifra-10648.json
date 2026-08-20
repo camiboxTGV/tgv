@@ -1,0 +1,38 @@
+[
+  {
+    "contentKey": "7b8a36393a56dcc5",
+    "supplierVariantId": "10648-CR",
+    "stock": 8000,
+    "stockLevel": "in-stock",
+    "price": 2.94,
+    "color": {
+      "name": "Beige",
+      "hex": "#C2B280"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "a1e850c0c7dc5885",
+    "supplierVariantId": "10648-NE",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 2.94,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      8,
+      9
+    ]
+  }
+]

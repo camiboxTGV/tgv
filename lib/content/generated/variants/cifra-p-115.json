@@ -1,0 +1,107 @@
+[
+  {
+    "contentKey": "1451f1a01e705a99",
+    "supplierVariantId": "P-115-NE",
+    "stock": 8000,
+    "stockLevel": "in-stock",
+    "price": 1.23,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "contentKey": "4af73c1e48ac3d8a",
+    "supplierVariantId": "P-115-RO",
+    "stock": 447,
+    "stockLevel": "in-stock",
+    "price": 1.23,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      17,
+      18,
+      19,
+      20,
+      21
+    ]
+  },
+  {
+    "contentKey": "529e2d4f4913bf6d",
+    "supplierVariantId": "P-115-VE",
+    "stock": 937,
+    "stockLevel": "in-stock",
+    "price": 1.23,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      22,
+      23,
+      24,
+      25,
+      26
+    ]
+  },
+  {
+    "contentKey": "7a8e780f1ba6b127",
+    "supplierVariantId": "P-115-NA",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 1.23,
+    "color": {
+      "name": "Orange",
+      "hex": "#FFA500"
+    },
+    "imageRefs": [
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "84a7b583acfb286a",
+    "supplierVariantId": "P-115-AZ",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 1.23,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "contentKey": "addf2e27a4cbf0c9",
+    "supplierVariantId": "P-115-BL",
+    "stock": 1586,
+    "stockLevel": "in-stock",
+    "price": 1.23,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      5,
+      6,
+      7
+    ]
+  }
+]

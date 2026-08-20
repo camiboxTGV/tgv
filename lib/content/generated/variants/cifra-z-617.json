@@ -1,0 +1,32 @@
+[
+  {
+    "contentKey": "ad80e3746f27c246",
+    "supplierVariantId": "Z-617-VE",
+    "stock": 777,
+    "stockLevel": "in-stock",
+    "price": 1.59,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "fda0135ab3f7f045",
+    "supplierVariantId": "Z-617-RO",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 1.59,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "contentKey": "62b09a633de7efae",
+    "supplierVariantId": "E-023-AZ",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 0.44,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "d1e3486afd240b01",
+    "supplierVariantId": "E-023-NA",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 0.44,
+    "color": {
+      "name": "Orange",
+      "hex": "#FFA500"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "contentKey": "298a234cd4fbdc9b",
+    "supplierVariantId": "10915-CR",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.83,
+    "color": {
+      "name": "Beige",
+      "hex": "#C2B280"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "36986d747500b613",
+    "supplierVariantId": "10915-RS",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.83,
+    "color": {
+      "name": "Pink",
+      "hex": "#FF1493"
+    },
+    "imageRefs": [
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  {
+    "contentKey": "9423ed3171fc0a1b",
+    "supplierVariantId": "10915-RO",
+    "stock": 7000,
+    "stockLevel": "in-stock",
+    "price": 0.83,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8,
+      9
+    ]
+  }
+]

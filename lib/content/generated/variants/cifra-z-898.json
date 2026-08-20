@@ -1,0 +1,38 @@
+[
+  {
+    "contentKey": "8537da03796cc3a0",
+    "supplierVariantId": "Z-898-BL",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 2.17,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "contentKey": "dca36bb1c2d99f0f",
+    "supplierVariantId": "Z-898-NE",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 2.17,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  }
+]

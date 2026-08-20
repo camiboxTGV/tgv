@@ -1,0 +1,62 @@
+[
+  {
+    "contentKey": "2d8fedb6ee2dcd98",
+    "supplierVariantId": "Z-6000-NE",
+    "stock": 1599,
+    "stockLevel": "in-stock",
+    "price": 1.67,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "3ded5654e78e3af0",
+    "supplierVariantId": "Z-6000-VE",
+    "stock": 1177,
+    "stockLevel": "in-stock",
+    "price": 1.67,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "3f446806e066735f",
+    "supplierVariantId": "Z-6000-RO",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 1.67,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "7be9362388c253d6",
+    "supplierVariantId": "Z-6000-AM",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 1.67,
+    "color": {
+      "name": "Yellow",
+      "hex": "#FFFF00"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  }
+]

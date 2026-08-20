@@ -1,0 +1,34 @@
+[
+  {
+    "contentKey": "09e93481da4dc528",
+    "supplierVariantId": "D-013-FU",
+    "stock": 1200,
+    "stockLevel": "in-stock",
+    "price": 1.47,
+    "color": {
+      "name": "Fuchsia",
+      "hex": "#FF00FF"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "740a3b7ba9503d90",
+    "supplierVariantId": "D-013-RO",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 1.47,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  }
+]

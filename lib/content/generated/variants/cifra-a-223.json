@@ -1,0 +1,32 @@
+[
+  {
+    "contentKey": "29174dc6e3b4bbb1",
+    "supplierVariantId": "A-223-BL",
+    "stock": 1086,
+    "stockLevel": "in-stock",
+    "price": 1.73,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "7290c364ea79ddc2",
+    "supplierVariantId": "A-223-NE",
+    "stock": 1586,
+    "stockLevel": "in-stock",
+    "price": 1.73,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  }
+]

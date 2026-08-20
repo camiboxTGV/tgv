@@ -1,0 +1,47 @@
+[
+  {
+    "contentKey": "0a878f40ad1b7805",
+    "supplierVariantId": "10795-AZ",
+    "stock": 4155,
+    "stockLevel": "in-stock",
+    "price": 0.14,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "a2ebf03ed4b335df",
+    "supplierVariantId": "10795-NE",
+    "stock": 3059,
+    "stockLevel": "in-stock",
+    "price": 0.14,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "f9a681c124feceba",
+    "supplierVariantId": "10795-RO",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.14,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      4,
+      5
+    ]
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "contentKey": "13b3a03da57e8500",
+    "supplierVariantId": "T-691-XXL-MA",
+    "stock": 343,
+    "stockLevel": "in-stock",
+    "price": 7.06,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "contentKey": "2e7f93883b05ac10",
+    "supplierVariantId": "T-691-XL-MA",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 7.06,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "size": "XL",
+    "imageRefs": [
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "9226842bbd592af0",
+    "supplierVariantId": "T-691-L-MA",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 7.06,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "size": "L",
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "a03719567605c523",
+    "supplierVariantId": "T-694-S-RY",
+    "stock": 54,
+    "stockLevel": "in-stock",
+    "price": 7.06,
+    "color": {
+      "name": "Royal",
+      "hex": "#2D3192"
+    },
+    "size": "S",
+    "imageRefs": [
+      15,
+      16,
+      17
+    ]
+  },
+  {
+    "contentKey": "a2fbcd644c93d397",
+    "supplierVariantId": "T-691-M-MA",
+    "stock": 341,
+    "stockLevel": "in-stock",
+    "price": 7.06,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "size": "M",
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "c876e0e2fddcd5f7",
+    "supplierVariantId": "T-691-S-MA",
+    "stock": 175,
+    "stockLevel": "in-stock",
+    "price": 7.06,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "size": "S",
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  }
+]

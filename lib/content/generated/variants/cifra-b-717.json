@@ -1,0 +1,53 @@
+[
+  {
+    "contentKey": "59f6c00a18574fc4",
+    "supplierVariantId": "B-717-NE",
+    "stock": 3017,
+    "stockLevel": "in-stock",
+    "price": 1.01,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "97e553872836b4f1",
+    "supplierVariantId": "B-717-AZ",
+    "stock": 4880,
+    "stockLevel": "in-stock",
+    "price": 1.01,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "9c5790c7d8663644",
+    "supplierVariantId": "B-717-MR",
+    "stock": 1116,
+    "stockLevel": "in-stock",
+    "price": 1.01,
+    "color": {
+      "name": "Brown",
+      "hex": "#800000"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+]

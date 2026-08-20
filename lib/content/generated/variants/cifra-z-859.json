@@ -1,0 +1,95 @@
+[
+  {
+    "contentKey": "5828acd958927486",
+    "supplierVariantId": "Z-859-RO",
+    "stock": 18,
+    "stockLevel": "in-stock",
+    "price": 0.66,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+    ]
+  },
+  {
+    "contentKey": "76346f9713af40f3",
+    "supplierVariantId": "Z-859-BL",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.66,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "contentKey": "82c65de0b4b2162f",
+    "supplierVariantId": "Z-859-NE",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 0.66,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ]
+  },
+  {
+    "contentKey": "d1b2ad393dd801f7",
+    "supplierVariantId": "Z-859-AZ",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.66,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "d20e3c5b1811d31c",
+    "supplierVariantId": "Z-859-FU",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 0.66,
+    "color": {
+      "name": "Fuchsia",
+      "hex": "#FF00FF"
+    },
+    "imageRefs": [
+      11,
+      12,
+      13,
+      14,
+      15
+    ]
+  }
+]

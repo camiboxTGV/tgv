@@ -1,0 +1,32 @@
+[
+  {
+    "contentKey": "15ed4fafd69bb458",
+    "supplierVariantId": "Z-139-AM",
+    "stock": 1674,
+    "stockLevel": "in-stock",
+    "price": 0.45,
+    "color": {
+      "name": "Yellow",
+      "hex": "#FFFF00"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "ae478f26fe5721f1",
+    "supplierVariantId": "Z-139-VE",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.92,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  }
+]

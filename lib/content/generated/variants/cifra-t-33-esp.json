@@ -1,0 +1,77 @@
+[
+  {
+    "contentKey": "125d89d5cd2461ac",
+    "supplierVariantId": "T-33-CAT",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 1.47,
+    "color": {
+      "name": "Catalan flag"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "16745150294b12fc",
+    "supplierVariantId": "T-33-CO",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 1.47,
+    "color": {
+      "name": "Colorines"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "3f555339e35cf14d",
+    "supplierVariantId": "T-33-VASC",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 1.01,
+    "color": {
+      "name": "Basque Country Flag"
+    },
+    "imageRefs": [
+      5
+    ]
+  },
+  {
+    "contentKey": "890bc780046927b4",
+    "supplierVariantId": "T-33-AND",
+    "stock": 3,
+    "stockLevel": "low",
+    "price": 1.47,
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "c613aca47aa326e4",
+    "supplierVariantId": "T-33-GAL",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 1.47,
+    "color": {
+      "name": "Galician Flag"
+    },
+    "imageRefs": [
+      4
+    ]
+  },
+  {
+    "contentKey": "fe07cee56413db30",
+    "supplierVariantId": "T-33-ESP",
+    "stock": 4,
+    "stockLevel": "low",
+    "price": 1.47,
+    "color": {
+      "name": "Spain Flag"
+    },
+    "imageRefs": [
+      3
+    ]
+  }
+]

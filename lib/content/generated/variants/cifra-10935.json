@@ -1,0 +1,40 @@
+[
+  {
+    "contentKey": "05011518850d0a83",
+    "supplierVariantId": "10935-BL",
+    "stock": 15000,
+    "stockLevel": "in-stock",
+    "price": 0.22,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "4c6e8e52f3de426b",
+    "supplierVariantId": "10935-NE",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.22,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  }
+]

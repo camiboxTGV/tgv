@@ -1,0 +1,30 @@
+[
+  {
+    "contentKey": "9e40ccc01189240c",
+    "supplierVariantId": "B-339-AZ",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.17,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "9faec5e6eceed849",
+    "supplierVariantId": "B-339-NA",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.17,
+    "color": {
+      "name": "Orange",
+      "hex": "#FFA500"
+    },
+    "imageRefs": [
+      1
+    ]
+  }
+]

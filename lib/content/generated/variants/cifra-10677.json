@@ -1,0 +1,82 @@
+[
+  {
+    "contentKey": "4b0224a772a7a69e",
+    "supplierVariantId": "10677-NA",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.39,
+    "color": {
+      "name": "Orange",
+      "hex": "#FFA500"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "8446d399bb00ff27",
+    "supplierVariantId": "10677-AZ",
+    "stock": 7000,
+    "stockLevel": "in-stock",
+    "price": 0.39,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "91a2356a500b4904",
+    "supplierVariantId": "10677-RO",
+    "stock": 7000,
+    "stockLevel": "in-stock",
+    "price": 0.39,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "b30e0d6654992772",
+    "supplierVariantId": "10677-FU",
+    "stock": 3859,
+    "stockLevel": "in-stock",
+    "price": 0.39,
+    "color": {
+      "name": "Fuchsia",
+      "hex": "#FF00FF"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "dc920bf830b6452e",
+    "supplierVariantId": "10677-VE",
+    "stock": 7000,
+    "stockLevel": "in-stock",
+    "price": 0.39,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      12,
+      13,
+      14
+    ]
+  }
+]

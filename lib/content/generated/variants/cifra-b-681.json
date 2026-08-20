@@ -1,0 +1,44 @@
+[
+  {
+    "contentKey": "0156d50aa56c64da",
+    "supplierVariantId": "B-681-AZ",
+    "stock": 216,
+    "stockLevel": "in-stock",
+    "price": 0.22,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "03526479be4dbef4",
+    "supplierVariantId": "B-681-RS",
+    "stock": 4523,
+    "stockLevel": "in-stock",
+    "price": 0.22,
+    "color": {
+      "name": "Pink",
+      "hex": "#FF1493"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "395785548ebfd263",
+    "supplierVariantId": "B-681-BL",
+    "stock": 7251,
+    "stockLevel": "in-stock",
+    "price": 0.22,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      1
+    ]
+  }
+]

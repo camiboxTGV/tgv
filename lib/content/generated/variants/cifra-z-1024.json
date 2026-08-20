@@ -1,0 +1,32 @@
+[
+  {
+    "contentKey": "5ac46ee4a3af2f69",
+    "supplierVariantId": "Z-1024-MA",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 1.85,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "e072c96835c54286",
+    "supplierVariantId": "Z-1024-NE",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 1.85,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  }
+]

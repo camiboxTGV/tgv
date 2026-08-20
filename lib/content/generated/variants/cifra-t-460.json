@@ -1,0 +1,44 @@
+[
+  {
+    "contentKey": "2b4fcc4eacbd5434",
+    "supplierVariantId": "T-460-NE",
+    "stock": 2864,
+    "stockLevel": "in-stock",
+    "price": 0.6,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "4bfa859e439483da",
+    "supplierVariantId": "T-460-PT",
+    "stock": 2242,
+    "stockLevel": "in-stock",
+    "price": 0.6,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "eb9ada74e97321e3",
+    "supplierVariantId": "T-460-BL",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.6,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0
+    ]
+  }
+]

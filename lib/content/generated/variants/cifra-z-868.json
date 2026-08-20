@@ -1,0 +1,63 @@
+[
+  {
+    "contentKey": "623c2e174ff2b09a",
+    "supplierVariantId": "Z-868",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 1.65,
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "a195644e59ca9ae3",
+    "supplierVariantId": "Z-868-BL",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 1.65,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "contentKey": "acbcfcc546763b19",
+    "supplierVariantId": "Z-868-NE",
+    "stock": 1807,
+    "stockLevel": "in-stock",
+    "price": 1.65,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "contentKey": "e61e2d196b2377c0",
+    "supplierVariantId": "Z-868-AZ",
+    "stock": 767,
+    "stockLevel": "in-stock",
+    "price": 1.65,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "contentKey": "2a6bd47a0cb6ebd5",
+    "supplierVariantId": "PD-18-ITA",
+    "stock": 55,
+    "stockLevel": "in-stock",
+    "price": 6.49,
+    "color": {
+      "name": "Italy Flag"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "6fae14c39c029456",
+    "supplierVariantId": "PD-18-ESP",
+    "stock": 100,
+    "stockLevel": "in-stock",
+    "price": 6.49,
+    "color": {
+      "name": "Spain Flag"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  }
+]

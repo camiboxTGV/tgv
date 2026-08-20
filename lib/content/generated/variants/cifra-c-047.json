@@ -1,0 +1,90 @@
+[
+  {
+    "contentKey": "1461304d5ab3542b",
+    "supplierVariantId": "C-047-ESP",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.21,
+    "color": {
+      "name": "Spain Flag"
+    },
+    "imageRefs": [
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "7b71e57ff248805d",
+    "supplierVariantId": "C-047-RO",
+    "stock": 3625,
+    "stockLevel": "in-stock",
+    "price": 0.21,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "94c78baa35e197b1",
+    "supplierVariantId": "C-047-VE",
+    "stock": 274,
+    "stockLevel": "in-stock",
+    "price": 0.21,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      9,
+      10
+    ]
+  },
+  {
+    "contentKey": "ac834dc42278e9fb",
+    "supplierVariantId": "C-047-LI",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.21,
+    "color": {
+      "name": "Lilac",
+      "hex": "#C8A2C8"
+    },
+    "imageRefs": [
+      6
+    ]
+  },
+  {
+    "contentKey": "b2124af56ee1acaa",
+    "supplierVariantId": "C-047-AZ",
+    "stock": 7392,
+    "stockLevel": "in-stock",
+    "price": 0.21,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "f1603a09e89c3122",
+    "supplierVariantId": "C-047-BL",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.21,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  }
+]

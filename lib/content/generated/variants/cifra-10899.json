@@ -1,0 +1,42 @@
+[
+  {
+    "contentKey": "91fe56e620e6c109",
+    "supplierVariantId": "10899-OR",
+    "stock": 100,
+    "stockLevel": "in-stock",
+    "price": 21.78,
+    "color": {
+      "name": "Gold",
+      "hex": "#FFD700"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "contentKey": "d130d4f0327e6d75",
+    "supplierVariantId": "10899-PT",
+    "stock": 100,
+    "stockLevel": "in-stock",
+    "price": 21.78,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "imageRefs": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ]
+  }
+]

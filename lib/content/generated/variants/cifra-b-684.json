@@ -1,0 +1,50 @@
+[
+  {
+    "contentKey": "5042f7f4b3bdaede",
+    "supplierVariantId": "B-684-AZ",
+    "stock": 687,
+    "stockLevel": "in-stock",
+    "price": 0.37,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "51a67000b6de0499",
+    "supplierVariantId": "B-684-BL",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.37,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "b5e1323e5416acb8",
+    "supplierVariantId": "B-684-RO",
+    "stock": 35,
+    "stockLevel": "in-stock",
+    "price": 0.37,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  }
+]

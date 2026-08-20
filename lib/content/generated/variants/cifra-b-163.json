@@ -1,0 +1,36 @@
+[
+  {
+    "contentKey": "12527099439cd37e",
+    "supplierVariantId": "B-163-AM",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 2.1,
+    "color": {
+      "name": "Yellow",
+      "hex": "#FFFF00"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "1358168a666dd54b",
+    "supplierVariantId": "B-163-BL",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 2.1,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+]

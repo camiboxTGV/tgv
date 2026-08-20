@@ -1,0 +1,34 @@
+[
+  {
+    "contentKey": "496dbe4528a29c25",
+    "supplierVariantId": "H-154-NE",
+    "stock": 12,
+    "stockLevel": "in-stock",
+    "price": 59.28,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "6a98627523363295",
+    "supplierVariantId": "H-154-PT",
+    "stock": 50,
+    "stockLevel": "in-stock",
+    "price": 59.28,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "imageRefs": [
+      4,
+      5
+    ]
+  }
+]

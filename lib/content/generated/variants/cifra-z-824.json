@@ -1,0 +1,82 @@
+[
+  {
+    "contentKey": "1c2ae97d86d4b527",
+    "supplierVariantId": "Z-824-PLOMO",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 4.16,
+    "color": {
+      "name": "Lead",
+      "hex": "#798081"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "4500af54e5fb7977",
+    "supplierVariantId": "Z-824-RO",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 4.16,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "8cdcbfec66c4a1be",
+    "supplierVariantId": "Z-824-PT",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 4.16,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "ab023a5786c605c3",
+    "supplierVariantId": "Z-824-VE",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 4.16,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "contentKey": "ae3831e32331068b",
+    "supplierVariantId": "Z-824-AZ",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 4.16,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  }
+]

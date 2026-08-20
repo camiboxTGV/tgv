@@ -1,0 +1,70 @@
+[
+  {
+    "contentKey": "554263a422045bfc",
+    "supplierVariantId": "Z-5300-S/V-LI",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 8.66,
+    "color": {
+      "name": "Lilac",
+      "hex": "#C8A2C8"
+    },
+    "imageRefs": [
+      10,
+      11,
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "contentKey": "708b22cb3fbfb7ee",
+    "supplierVariantId": "Z-5300-S/V-AZ",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 8.66,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "contentKey": "cbc54dad7d58ff85",
+    "supplierVariantId": "Z-5300-SV-MR",
+    "stock": 1134,
+    "stockLevel": "in-stock",
+    "price": 8.66,
+    "color": {
+      "name": "Brown",
+      "hex": "#800000"
+    },
+    "imageRefs": [
+      15
+    ]
+  },
+  {
+    "contentKey": "d93b77e33c05839b",
+    "supplierVariantId": "Z-5300-S/V-GR",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 8.66,
+    "color": {
+      "name": "Gray",
+      "hex": "#808080"
+    },
+    "imageRefs": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  }
+]

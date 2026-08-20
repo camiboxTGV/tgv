@@ -1,0 +1,59 @@
+[
+  {
+    "contentKey": "0264f6bbd5fddbef",
+    "supplierVariantId": "Z-588-RS",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 2.83,
+    "color": {
+      "name": "Pink",
+      "hex": "#FF1493"
+    },
+    "imageRefs": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ]
+  },
+  {
+    "contentKey": "3a0a7a7aa783cd56",
+    "supplierVariantId": "Z-588-RO",
+    "stock": 21,
+    "stockLevel": "in-stock",
+    "price": 2.83,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "contentKey": "d83d91c76e991a3e",
+    "supplierVariantId": "Z-588-BL",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 2.83,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  }
+]

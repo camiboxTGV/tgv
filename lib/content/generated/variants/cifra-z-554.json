@@ -1,0 +1,36 @@
+[
+  {
+    "contentKey": "27d904228f1a7f0f",
+    "supplierVariantId": "Z-554-MR",
+    "stock": 1158,
+    "stockLevel": "in-stock",
+    "price": 10.66,
+    "color": {
+      "name": "Brown",
+      "hex": "#800000"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "b6e198c4c7e0d16e",
+    "supplierVariantId": "Z-554-VE",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 10.66,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+]

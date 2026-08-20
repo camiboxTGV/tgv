@@ -1,0 +1,72 @@
+[
+  {
+    "contentKey": "44763a26e4a20013",
+    "supplierVariantId": "Z-883-BL",
+    "stock": 18309,
+    "stockLevel": "in-stock",
+    "price": 0.13,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "615a66427575f141",
+    "supplierVariantId": "Z-883-NE",
+    "stock": 54101,
+    "stockLevel": "in-stock",
+    "price": 0.13,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      11,
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "contentKey": "819958e76f43ad26",
+    "supplierVariantId": "Z-883-NA",
+    "stock": 17216,
+    "stockLevel": "in-stock",
+    "price": 0.13,
+    "color": {
+      "name": "Orange",
+      "hex": "#FFA500"
+    },
+    "imageRefs": [
+      9,
+      10
+    ]
+  },
+  {
+    "contentKey": "f434f51b159ac67f",
+    "supplierVariantId": "Z-883-VE",
+    "stock": 3533,
+    "stockLevel": "in-stock",
+    "price": 0.13,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      15,
+      16,
+      17
+    ]
+  }
+]

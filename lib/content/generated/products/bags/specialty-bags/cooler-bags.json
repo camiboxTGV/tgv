@@ -1,5 +1,1358 @@
 [
   {
+    "slug": "cifra-10253",
+    "name": "COOLER BAG \"CALABRIA\"",
+    "category": "bags/specialty-bags/cooler-bags",
+    "summary": "Bag made of recycled paper and non woven with padded double insulating aluminum interior. Double use, bag and refrigerator.",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "F",
+        "label": "Cifra decoration code F",
+        "labelRo": "Cod personalizare Cifra F",
+        "printSizes": [
+          "200x150 mm"
+        ]
+      },
+      {
+        "code": "DTF",
+        "label": "Direct-to-film transfer",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "200x150 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "10253",
+    "supplierVariantIds": [
+      "10253"
+    ],
+    "price": 3.06,
+    "priceFrom": false,
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/10253-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10253-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10253-01-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 1,
+    "colorCount": 0,
+    "sizeCount": 0,
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "51 × 36 × 14 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Natural fiber. Double insulated padded aluminum interior"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "47,0 x 36,0 x 56,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "10 kg",
+        "valueRo": "10 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "8.8 kg",
+        "valueRo": "8.8 kg"
+      },
+      {
+        "key": "ean",
+        "label": "EAN",
+        "labelRo": "EAN",
+        "value": "8436534311848"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "52,158"
+      }
+    ],
+    "weightGrams": 180,
+    "descriptionLong": "Bag made of recycled paper and non woven with padded double insulating aluminum interior. Double use, bag and refrigerator.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "cifra-10256",
+    "name": "COOLER BAG \"BAHÍA\"",
+    "category": "bags/specialty-bags/cooler-bags",
+    "summary": "Bag in cotton and laminated jute.Dual use, bag and refrigerator.Internal padding in aluminum with double insulation.",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
+    "personalizations": [
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "F",
+        "label": "Cifra decoration code F",
+        "labelRo": "Cod personalizare Cifra F",
+        "printSizes": [
+          "200x150 mm"
+        ]
+      },
+      {
+        "code": "DTF",
+        "label": "Direct-to-film transfer",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "200x150 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "10256",
+    "supplierVariantIds": [
+      "10256"
+    ],
+    "price": 2.55,
+    "priceFrom": false,
+    "stock": 15000,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/10256-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10256-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10256-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10256-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10256-03-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Beige",
+        "hex": "#C2B280"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "42 × 34 × 13 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "220 gr cotton + laminated jute. Insulating aluminum foam interior."
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "45,0 x 40,0 x 28,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "7 kg",
+        "valueRo": "7 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "6.2 kg",
+        "valueRo": "6.2 kg"
+      },
+      {
+        "key": "ean",
+        "label": "EAN",
+        "labelRo": "EAN",
+        "value": "8436534312487"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "52,158"
+      }
+    ],
+    "weightGrams": 145,
+    "descriptionLong": "Bag in cotton and laminated jute.Dual use, bag and refrigerator.Internal padding in aluminum with double insulation.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "cifra-10256-ma",
+    "name": "COOLER BAG \"BAHÍA\"",
+    "category": "bags/specialty-bags/cooler-bags",
+    "summary": "Bag in cotton and laminated jute.Dual use, bag and refrigerator.Internal padding in aluminum with double insulation.",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "F",
+        "label": "Cifra decoration code F",
+        "labelRo": "Cod personalizare Cifra F",
+        "printSizes": [
+          "200x150 mm"
+        ]
+      },
+      {
+        "code": "DTF",
+        "label": "Direct-to-film transfer",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "200x150 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "10256-MA",
+    "supplierVariantIds": [
+      "10256-MA"
+    ],
+    "price": 2.99,
+    "priceFrom": false,
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/10256-MA-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10256-MA-06-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10256-MA-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10256-MA-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10256-MA-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10256-MA-03-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Marine",
+        "hex": "#00008B"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "42 × 34 × 13 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "220 gr cotton + laminated jute. Insulating aluminum foam interior."
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "47,0 x 40,0 x 28,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "7 kg",
+        "valueRo": "7 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "6.2 kg",
+        "valueRo": "6.2 kg"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "52,158"
+      }
+    ],
+    "weightGrams": 160,
+    "descriptionLong": "Bag in cotton and laminated jute.Dual use, bag and refrigerator.Internal padding in aluminum with double insulation.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "cifra-10263",
+    "name": "COOLER BAG \"HILTON\"",
+    "category": "bags/specialty-bags/cooler-bags",
+    "summary": "Large-capacity cooler bag (6 litres) made of rPET, light and easy to transport.Includes an outside pocket (12x11 cm).Lightweight padded handles.Available in black, royal, burgundy and gray.Each piece is individually b...",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "F",
+        "label": "Cifra decoration code F",
+        "labelRo": "Cod personalizare Cifra F",
+        "printSizes": [
+          "140x70 mm"
+        ]
+      },
+      {
+        "code": "DTF",
+        "label": "Direct-to-film transfer",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "140x70 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "10263",
+    "supplierVariantIds": [
+      "10263-BU",
+      "10263-GR",
+      "10263-RY"
+    ],
+    "price": 1.68,
+    "priceFrom": false,
+    "stock": 33000,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/10263-BU-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10263-BU-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10263-BU-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10263-BU-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/10263-GR-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10263-GR-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10263-GR-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/10263-RY-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10263-RY-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10263-RY-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10263-RY-04-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 3,
+    "colorCount": 3,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Bordeaux",
+        "hex": "#5F021F"
+      },
+      {
+        "name": "Gray",
+        "hex": "#808080"
+      },
+      {
+        "name": "Royal",
+        "hex": "#2D3192"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "22 × 19 × 14 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "RPET"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "48,0 x 27,0 x 36,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "5.5 kg",
+        "valueRo": "5.5 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "4.5 kg",
+        "valueRo": "4.5 kg"
+      },
+      {
+        "key": "units-per-pallet",
+        "label": "Units per pallet",
+        "labelRo": "Unități per palet",
+        "value": "1300 pcs",
+        "valueRo": "1300 buc."
+      },
+      {
+        "key": "ean",
+        "label": "EAN",
+        "labelRo": "EAN",
+        "value": "8436534312586 · 8436534312593 · 8436534312609"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "49,16"
+      }
+    ],
+    "weightGrams": 110,
+    "descriptionLong": "Large-capacity cooler bag (6 litres) made of rPET, light and easy to transport.Includes an outside pocket (12x11 cm).Lightweight padded handles.Available in black, royal, burgundy and gray.Each piece is individually bagged.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "cifra-10309",
+    "name": "PVC COOLER BAG \"QUEBEC\"",
+    "category": "bags/specialty-bags/cooler-bags",
+    "summary": "Insulating foam interior and alluminium. Velcro closure.Volume: 10 litres",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "F",
+        "label": "Cifra decoration code F",
+        "labelRo": "Cod personalizare Cifra F",
+        "printSizes": [
+          "240x170 mm"
+        ]
+      },
+      {
+        "code": "DTF",
+        "label": "Direct-to-film transfer",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "240x170 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "10309",
+    "supplierVariantIds": [
+      "10309-NE",
+      "10309-RO",
+      "10309-RY"
+    ],
+    "price": 1.49,
+    "priceFrom": false,
+    "stock": 4282,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/10309-NE-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10309-NE-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10309-NE-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10309-NE-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/10309-RO-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10309-RO-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10309-RO-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10309-RO-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/10309-RY-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10309-RY-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10309-RY-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10309-RY-01-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 3,
+    "colorCount": 3,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Red",
+        "hex": "#FF0000"
+      },
+      {
+        "name": "Royal",
+        "hex": "#2D3192"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "37.5 × 34 × 14.4 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Shiny PVC 190 grm/m2"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "78,0 x 40,0 x 60,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "16 kg",
+        "valueRo": "16 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "15 kg",
+        "valueRo": "15 kg"
+      },
+      {
+        "key": "units-per-pallet",
+        "label": "Units per pallet",
+        "labelRo": "Unități per palet",
+        "value": "1200 pcs",
+        "valueRo": "1200 buc."
+      },
+      {
+        "key": "ean",
+        "label": "EAN",
+        "labelRo": "EAN",
+        "value": "8436606337189 · 8436606337196 · 8436606337202"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "55,159"
+      }
+    ],
+    "weightGrams": 94,
+    "descriptionLong": "Insulating foam interior and alluminium. Velcro closure.Volume: 10 litres",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "cifra-10563",
+    "name": "RPET COOLER BAG \"TERRANOVA\"",
+    "category": "bags/specialty-bags/cooler-bags",
+    "summary": "Ecological cooler bag made of Rpet, insulating aluminum foam interior.",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "F",
+        "label": "Cifra decoration code F",
+        "labelRo": "Cod personalizare Cifra F",
+        "printSizes": [
+          "130x100 mm"
+        ]
+      },
+      {
+        "code": "DTF",
+        "label": "Direct-to-film transfer",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "130x100 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "10563",
+    "supplierVariantIds": [
+      "10563-AZ",
+      "10563-RS",
+      "10563-VE"
+    ],
+    "price": 2.28,
+    "priceFrom": false,
+    "stock": 18000,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/10563-AZ-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10563-AZ-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10563-AZ-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/10563-RS-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10563-RS-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10563-RS-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/10563-VE-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10563-VE-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10563-VE-02-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 3,
+    "colorCount": 3,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Blue",
+        "hex": "#4169E1"
+      },
+      {
+        "name": "Green",
+        "hex": "#00FF00"
+      },
+      {
+        "name": "Pink",
+        "hex": "#FF1493"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "22 × 22 × 12.5 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Recycled polyester"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "48,0 x 24,0 x 42,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "7.8 kg",
+        "valueRo": "7.8 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "6.8 kg",
+        "valueRo": "6.8 kg"
+      },
+      {
+        "key": "units-per-pallet",
+        "label": "Units per pallet",
+        "labelRo": "Unități per palet",
+        "value": "1200 pcs",
+        "valueRo": "1200 buc."
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "49,16"
+      }
+    ],
+    "weightGrams": 140,
+    "descriptionLong": "Ecological cooler bag made of Rpet, insulating aluminum foam interior.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "cifra-10738",
+    "name": "FOLDABLE COOLER BAG \"SIMBA\"",
+    "category": "bags/specialty-bags/cooler-bags",
+    "summary": "Large-capacity cooler bag, includes a front pocket measuring 27x29.5 cm. Available in a wide variety of colors.Served folded.",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "F",
+        "label": "Cifra decoration code F",
+        "labelRo": "Cod personalizare Cifra F",
+        "printSizes": [
+          "120x80 mm",
+          "120x80 mm120x80 mm"
+        ]
+      },
+      {
+        "code": "DTF",
+        "label": "Direct-to-film transfer",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "120x80 mm",
+          "120x80 mm120x80 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "10738",
+    "supplierVariantIds": [
+      "10738-GR",
+      "10738-LI",
+      "10738-MA",
+      "10738-PS",
+      "10738-RO",
+      "10738-RY"
+    ],
+    "price": 1.5,
+    "priceFrom": false,
+    "stock": 8201,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/10738-GR-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-GR-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-GR-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-GR-09-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-GR-07-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-GR-06-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-GR-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-GR-08-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-GR-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-GR-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/10738-LI-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-LI-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-LI-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-LI-07-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-LI-06-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-LI-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-LI-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-LI-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/10738-MA-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-MA-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-MA-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-MA-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-MA-06-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-MA-09-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-MA-08-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-MA-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-MA-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-MA-07-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/10738-PS-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-PS-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-PS-06-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-PS-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-PS-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-PS-08-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-PS-07-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-PS-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-PS-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/10738-RO-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-RO-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-RO-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-RO-07-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-RO-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-RO-09-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-RO-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-RO-06-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-RO-08-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/10738-RY-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-RY-08-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-RY-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-RY-09-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-RY-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-RY-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-RY-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-RY-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-RY-06-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10738-RY-07-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 6,
+    "colorCount": 6,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Gray",
+        "hex": "#808080"
+      },
+      {
+        "name": "Lilac",
+        "hex": "#C8A2C8"
+      },
+      {
+        "name": "Marine",
+        "hex": "#00008B"
+      },
+      {
+        "name": "Pistachio",
+        "hex": "#93C572"
+      },
+      {
+        "name": "Red",
+        "hex": "#FF0000"
+      },
+      {
+        "name": "Royal",
+        "hex": "#2D3192"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "44 × 33 × 8.5 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Polyester 190 T and aluminium, Polyester 190 T and aluminium."
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "65,0 x 51,0 x 40,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "8 kg",
+        "valueRo": "8 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "6.4 kg",
+        "valueRo": "6.4 kg"
+      },
+      {
+        "key": "units-per-pallet",
+        "label": "Units per pallet",
+        "labelRo": "Unități per palet",
+        "value": "1000 pcs",
+        "valueRo": "1000 buc."
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "52,159"
+      }
+    ],
+    "weightGrams": 64,
+    "descriptionLong": "Large-capacity cooler bag, includes a front pocket measuring 27x29.5 cm. Available in a wide variety of colors.Served folded.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "cifra-10784",
+    "name": "COOLER BAG \"YAKY\"",
+    "category": "bags/specialty-bags/cooler-bags",
+    "summary": "The perfect combination of style, comfort and sustainability for your meals on the go. This tote-style insulated bag stands out for its excellent organisation and recycled materials, designed to keep your food fresh.M...",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
+    "personalizations": [
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "F",
+        "label": "Cifra decoration code F",
+        "labelRo": "Cod personalizare Cifra F",
+        "printSizes": [
+          "150x170 mm"
+        ]
+      },
+      {
+        "code": "DTF",
+        "label": "Direct-to-film transfer",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "150x170 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "10784",
+    "supplierVariantIds": [
+      "10784-BU",
+      "10784-GR",
+      "10784-RS",
+      "10784-RY"
+    ],
+    "price": 2.44,
+    "priceFrom": false,
+    "stock": 7082,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/10784-BU-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10784-BU-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10784-BU-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10784-BU-06-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10784-BU-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10784-BU-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/10784-GR-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10784-GR-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10784-GR-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10784-GR-06-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10784-GR-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10784-GR-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10784-GR-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/10784-RS-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10784-RS-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10784-RS-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10784-RS-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10784-RS-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10784-RS-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/10784-RY-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10784-RY-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10784-RY-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10784-RY-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10784-RY-06-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10784-RY-02-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 4,
+    "colorCount": 4,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Bordeaux",
+        "hex": "#5F021F"
+      },
+      {
+        "name": "Gray",
+        "hex": "#808080"
+      },
+      {
+        "name": "Pink",
+        "hex": "#FF1493"
+      },
+      {
+        "name": "Royal",
+        "hex": "#2D3192"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "25 × 25 × 15 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Exterior: RPET, interior: insulating aluminium foam"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "50,0 x 40,0 x 40,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "9.7 kg",
+        "valueRo": "9.7 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "8.7 kg",
+        "valueRo": "8.7 kg"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "48,16"
+      }
+    ],
+    "weightGrams": 170,
+    "descriptionLong": "The perfect combination of style, comfort and sustainability for your meals on the go. This tote-style insulated bag stands out for its excellent organisation and recycled materials, designed to keep your food fresh.Made from rPET polyester with a stylish mottled finish.With a 7-litre capacity, it’s the ideal size for comfortably carrying your daily lunch boxes, fruit and desserts without running out of space.It features side compartments (each measuring a generous 13 x 16.5 cm), which are perfect and easily accessible for carrying water bottles, umbrellas or cutlery.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "cifra-10888",
+    "name": "COOLER BAG \"BARENTS\"",
+    "category": "bags/specialty-bags/cooler-bags",
+    "summary": "Large capacity cooler bag (9 litres). Available in navy blue and grey.Insulating aluminium lining. Includes a front pocket (23 x 11.5 cm).",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "F",
+        "label": "Cifra decoration code F",
+        "labelRo": "Cod personalizare Cifra F",
+        "printSizes": [
+          "100x70 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "10888",
+    "supplierVariantIds": [
+      "10888-GR",
+      "10888-MA"
+    ],
+    "price": 2.7,
+    "priceFrom": false,
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/10888-GR-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10888-GR-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10888-GR-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10888-GR-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/10888-MA-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10888-MA-07-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10888-MA-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10888-MA-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10888-MA-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10888-MA-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10888-MA-06-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 2,
+    "colorCount": 2,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Gray",
+        "hex": "#808080"
+      },
+      {
+        "name": "Marine",
+        "hex": "#00008B"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "23 × 20.5 × 16 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "PU, POLYESTER AND INSULATING ALUMINUM INTERIOR"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "40,0 x 39,0 x 51,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "11.25 kg",
+        "valueRo": "11.25 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "10.75 kg",
+        "valueRo": "10.75 kg"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "49,16"
+      }
+    ],
+    "weightGrams": 215,
+    "descriptionLong": "Large capacity cooler bag (9 litres). Available in navy blue and grey.Insulating aluminium lining. Includes a front pocket (23 x 11.5 cm).",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "cifra-g-211",
+    "name": "COOLER BAG \"BRUNCH\"",
+    "category": "bags/specialty-bags/cooler-bags",
+    "summary": "Thanks to its padded double insulated aluminum interior, your lunch or dishes that require cold temperatures will be kept in perfect condition.Made in \"non-woven\" laminated silver metallic effect. Velcro closure and w...",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "F",
+        "label": "Cifra decoration code F",
+        "labelRo": "Cod personalizare Cifra F",
+        "printSizes": [
+          "160x180 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "G-211",
+    "supplierVariantIds": [
+      "G-211"
+    ],
+    "price": 0.75,
+    "priceFrom": false,
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/G-211-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/G-211-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/G-211-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/G-211-02-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 1,
+    "colorCount": 0,
+    "sizeCount": 0,
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "29 × 23 × 14 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "100% polyester, interior material padded insulating aluminum"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "25 pcs",
+        "valueRo": "25 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "48,0 x 44,0 x 65,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "11.4 kg",
+        "valueRo": "11.4 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "11.25 kg",
+        "valueRo": "11.25 kg"
+      },
+      {
+        "key": "units-per-pallet",
+        "label": "Units per pallet",
+        "labelRo": "Unități per palet",
+        "value": "3600 pcs",
+        "valueRo": "3600 buc."
+      },
+      {
+        "key": "ean",
+        "label": "EAN",
+        "labelRo": "EAN",
+        "value": "8436534316041"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "51,175"
+      }
+    ],
+    "weightGrams": 41,
+    "descriptionLong": "Thanks to its padded double insulated aluminum interior, your lunch or dishes that require cold temperatures will be kept in perfect condition.Made in \"non-woven\" laminated silver metallic effect. Velcro closure and wide double handle to carry with total comfort.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "cifra-z-1196",
+    "name": "COOLER BAG “BRUNCH”",
+    "category": "bags/specialty-bags/cooler-bags",
+    "summary": "Includes outer pocket.",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "F",
+        "label": "Cifra decoration code F",
+        "labelRo": "Cod personalizare Cifra F",
+        "printSizes": [
+          "150x170 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "Z-1196",
+    "supplierVariantIds": [
+      "Z-1196"
+    ],
+    "price": 0.5,
+    "priceFrom": false,
+    "stock": 17640,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/Z-1196-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/Z-1196-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/Z-1196-01-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 1,
+    "colorCount": 0,
+    "sizeCount": 0,
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "19 × 37 × 12 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Insulating aluminum Foram"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "40,0 x 22,0 x 60,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "2.88 kg",
+        "valueRo": "2.88 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "2.09 kg",
+        "valueRo": "2.09 kg"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "55"
+      }
+    ],
+    "weightGrams": 42,
+    "descriptionLong": "Includes outer pocket.",
+    "hasVariantDetail": false
+  },
+  {
     "slug": "macma-50768",
     "name": "Cooler bag",
     "category": "bags/specialty-bags/cooler-bags",
@@ -38,7 +1391,7 @@
       "https://macma.ro/products/jpg/M/5076844_2.jpg",
       "https://macma.ro/products/jpg/M/5076844_3.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -138,7 +1491,7 @@
       "https://macma.ro/products/jpg/M/5261144_8.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/5261144_lifestyle_9.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -239,7 +1592,7 @@
       "https://macma.ro/products/jpg/M/6070877_0.jpg",
       "https://macma.ro/products/jpg/M/6070877_1.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -335,7 +1688,7 @@
       "https://macma.ro/products/jpg/M/6141213_2.jpg",
       "https://macma.ro/products/jpg/M/6141213_3.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -467,7 +1820,7 @@
       "https://macma.ro/products/jpg/M/6154204_3.jpg",
       "https://macma.ro/products/jpg/M/6154204_4.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 7,
     "colorCount": 7,
     "sizeCount": 0,
@@ -587,7 +1940,7 @@
       "https://macma.ro/products/jpg/M/6216603_3.jpg",
       "https://macma.ro/products/jpg/M/6216603_4.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -677,7 +2030,7 @@
     ],
     "price": 2.53,
     "priceFrom": false,
-    "stock": 27451,
+    "stock": 27201,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/6247204_0.jpg",
@@ -701,7 +2054,7 @@
       "https://macma.ro/products/jpg/M/6247207_3.jpg",
       "https://macma.ro/products/jpg/M/6247207_4.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -793,7 +2146,7 @@
     ],
     "price": 2.86,
     "priceFrom": false,
-    "stock": 3272,
+    "stock": 6272,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/6254213_0.jpg",
@@ -804,7 +2157,7 @@
       "https://macma.ro/products/jpg/M/6254213_5.jpg",
       "https://macma.ro/products/jpg/M/6254213_6.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -902,7 +2255,7 @@
       "https://macma.ro/products/jpg/M/6261003_5.jpg",
       "https://macma.ro/products/jpg/M/6261003_6.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1002,7 +2355,7 @@
       "https://macma.ro/products/jpg/M/6297877_7.jpg",
       "https://macma.ro/products/jpg/M/6297877_8.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1118,7 +2471,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/6315305_lifestyle_3.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6315305_lifestyle_4.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -1220,7 +2573,7 @@
       "https://macma.ro/products/jpg/M/6324613_1.jpg",
       "https://macma.ro/products/jpg/M/6324613_2.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1315,7 +2668,7 @@
       "https://macma.ro/products/jpg/M/6324907_2.jpg",
       "https://macma.ro/products/jpg/M/6324907_3.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:46.287Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1411,7 +2764,7 @@
       "https://macma.ro/products/jpg/M/6364707_3.jpg",
       "https://macma.ro/products/jpg/M/6364707_4.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1508,7 +2861,7 @@
       "https://macma.ro/products/jpg/M/6439344_3.jpg",
       "https://macma.ro/products/jpg/M/6439344_4.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1606,7 +2959,7 @@
       "https://macma.ro/products/jpg/M/6440807_4.jpg",
       "https://macma.ro/products/jpg/M/6440807_5.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1705,7 +3058,7 @@
       "https://macma.ro/products/jpg/M/6442244_5.jpg",
       "https://macma.ro/products/jpg/M/6442244_6.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1777,7 +3130,7 @@
         "label": "Digital transfer",
         "labelRo": "Transfer digital",
         "printSizes": [
-          "15 x 15"
+          "100 mm x 150 mm"
         ]
       },
       {
@@ -1785,7 +3138,7 @@
         "label": "Transfer screen printing",
         "labelRo": "Serigrafie prin transfer",
         "printSizes": [
-          "15 x 15"
+          "100 mm x 150 mm"
         ]
       }
     ],
@@ -1809,7 +3162,7 @@
       "https://macma.ro/products/jpg/M/6546419_7_lifestyle.jpg",
       "https://macma.ro/products/jpg/M/6546419_8_lifestyle.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:46.287Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1875,7 +3228,7 @@
         "label": "Digital transfer",
         "labelRo": "Transfer digital",
         "printSizes": [
-          "15 x 10"
+          "150 mm x 100 mm"
         ]
       },
       {
@@ -1883,7 +3236,7 @@
         "label": "Transfer screen printing",
         "labelRo": "Serigrafie prin transfer",
         "printSizes": [
-          "15 x 10"
+          "150 mm x 100 mm"
         ]
       }
     ],
@@ -1925,7 +3278,7 @@
       "https://macma.ro/products/jpg/M/6549944_4.jpg",
       "https://macma.ro/products/jpg/M/6549944_5.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:46.287Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -2025,7 +3378,7 @@
       "https://macma.ro/products/jpg/M/6552713_7.jpg",
       "https://macma.ro/products/jpg/M/6552713_8.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2091,7 +3444,7 @@
         "label": "Digital transfer",
         "labelRo": "Transfer digital",
         "printSizes": [
-          "20 x 12"
+          "200 mm x 120 mm"
         ]
       },
       {
@@ -2099,7 +3452,7 @@
         "label": "Transfer screen printing",
         "labelRo": "Serigrafie prin transfer",
         "printSizes": [
-          "20 x 12"
+          "200 mm x 120 mm"
         ]
       }
     ],
@@ -2121,7 +3474,7 @@
       "https://macma.ro/products/jpg/M/6559407_6.jpg",
       "https://macma.ro/products/jpg/M/6559407_7.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2187,7 +3540,7 @@
         "label": "Digital transfer",
         "labelRo": "Transfer digital",
         "printSizes": [
-          "10 x 8"
+          "100 mm x 80 mm"
         ]
       },
       {
@@ -2195,7 +3548,7 @@
         "label": "Transfer screen printing",
         "labelRo": "Serigrafie prin transfer",
         "printSizes": [
-          "10 x 8"
+          "100 mm x 80 mm"
         ]
       }
     ],
@@ -2216,7 +3569,7 @@
       "https://macma.ro/products/jpg/M/6559507_4.jpg",
       "https://macma.ro/products/jpg/M/6559507_5.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2282,7 +3635,7 @@
         "label": "Digital transfer",
         "labelRo": "Transfer digital",
         "printSizes": [
-          "20 x 10"
+          "200 mm x 100 mm"
         ]
       },
       {
@@ -2290,7 +3643,7 @@
         "label": "Transfer screen printing",
         "labelRo": "Serigrafie prin transfer",
         "printSizes": [
-          "20 x 10"
+          "200 mm x 100 mm"
         ]
       }
     ],
@@ -2323,7 +3676,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/6566003_lifestyle_3.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6566003_lifestyle_4.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2424,7 +3777,7 @@
       "https://macma.ro/products/jpg/M/6700499_1.jpg",
       "https://macma.ro/products/jpg/M/6700499_2.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -2540,7 +3893,7 @@
       "https://macma.ro/products/jpg/M/6710404_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6710404_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -2650,7 +4003,7 @@
       "https://macma.ro/products/jpg/M/6832104_1.jpg",
       "https://macma.ro/products/jpg/M/6832104_2.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -2743,7 +4096,7 @@
     "images": [
       "https://macma.ro/products/jpg/M/6872166_0.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:46.287Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2855,7 +4208,7 @@
     ],
     "price": 5.12,
     "priceFrom": false,
-    "stock": 15337,
+    "stock": 15236,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/it3101-37.jpg",
@@ -2863,7 +4216,7 @@
       "https://cdn1.midocean.com/image/700X700/it3101-06.jpg",
       "https://cdn1.midocean.com/image/700X700/it3101-37-detail.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -2975,7 +4328,7 @@
     ],
     "price": 2.93,
     "priceFrom": false,
-    "stock": 23747,
+    "stock": 23717,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2492-03.jpg",
@@ -2987,7 +4340,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2492-03-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2492-03-picture1.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -3115,7 +4468,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2503-13-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2503-13-picture2.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3238,7 +4591,7 @@
     ],
     "price": 3.82,
     "priceFrom": false,
-    "stock": 20596,
+    "stock": 20591,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2504-03.jpg",
@@ -3249,7 +4602,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2504-03-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2504-03-picture1.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -3374,7 +4727,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2518-03-picture1.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2518-03-picture2.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -3504,7 +4857,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2551-03-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2551-03-picture2.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -3629,7 +4982,7 @@
     ],
     "price": 4.47,
     "priceFrom": false,
-    "stock": 5341,
+    "stock": 5331,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2557-03.jpg",
@@ -3641,7 +4994,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2557-03-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2557-03-picture2.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -3742,7 +5095,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2560-15-picture3.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2560-15-picture7.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3867,7 +5220,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2782-03-top.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2782-03-open.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -3986,7 +5339,7 @@
     ],
     "price": 6.81,
     "priceFrom": false,
-    "stock": 862,
+    "stock": 861,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2788-03.jpg",
@@ -3999,7 +5352,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2788-03-picture5.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2788-03-picture6.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -4120,7 +5473,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2810-03-picture1.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2810-03-picture6.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -4248,7 +5601,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2832-15-picture6.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2832-15-picture7.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -4374,7 +5727,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2934-04-picture5.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2934-04-picture6.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -4504,7 +5857,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2971-03-picture6.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2971-03-picture7.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -4634,7 +5987,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2972-03-picture6.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2972-03-picture7.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -4751,7 +6104,7 @@
     ],
     "price": 2.9,
     "priceFrom": false,
-    "stock": 25129,
+    "stock": 24974,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo6150-03.jpg",
@@ -4762,7 +6115,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6150-03-open.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6150-03-detail.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -4885,7 +6238,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6160-13-ambiant.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6160-13-detail.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -4998,7 +6351,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6167-03-picture1.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6167-03-picture2.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -5118,7 +6471,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6462-03-print.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6462-03-detail.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -5234,7 +6587,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6751-13-print.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6751-13-detail.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -5354,7 +6707,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6867-13-side.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6867-13-print.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -5474,7 +6827,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6868-13-side.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6868-13-print.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -5603,7 +6956,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6869-13-ambiant.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6869-13-detail.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -5726,7 +7079,7 @@
       "https://cdn1.midocean.com/image/700X700/mo7883-05.jpg",
       "https://cdn1.midocean.com/image/700X700/mo7883-06.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -5853,7 +7206,7 @@
       "https://cdn1.midocean.com/image/700X700/mo8438-06-back.jpg",
       "https://cdn1.midocean.com/image/700X700/mo8438-06-print.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -5971,7 +7324,7 @@
       "https://cdn1.midocean.com/image/700X700/mo8529-06-back.jpg",
       "https://cdn1.midocean.com/image/700X700/mo8529-06-print.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -6089,7 +7442,7 @@
       "https://cdn1.midocean.com/image/700X700/mo8772-04d.jpg",
       "https://cdn1.midocean.com/image/700X700/mo8772-04-detail.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -6206,7 +7559,7 @@
     ],
     "price": 3.77,
     "priceFrom": false,
-    "stock": 42913,
+    "stock": 42911,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo8949-05.jpg",
@@ -6219,7 +7572,7 @@
       "https://cdn1.midocean.com/image/700X700/mo8949-05a.jpg",
       "https://cdn1.midocean.com/image/700X700/mo8949-05-detail.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 7,
     "colorCount": 7,
     "sizeCount": 0,
@@ -6327,7 +7680,7 @@
       "https://cdn1.midocean.com/image/700X700/mo9881-13-print.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9881-13-detail.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -6424,7 +7777,7 @@
       "https://cdn1.midocean.com/image/700X700/mo9882-13-print.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9882-13-detail.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -6547,7 +7900,7 @@
       "https://cdn1.midocean.com/image/700X700/mo9915-03-print.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9915-03-detail.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,

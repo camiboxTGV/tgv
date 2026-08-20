@@ -1,0 +1,34 @@
+[
+  {
+    "contentKey": "916d3db4eff5bc65",
+    "supplierVariantId": "10129-RO",
+    "stock": 3925,
+    "stockLevel": "in-stock",
+    "price": 0.8,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "a7c98b061bcf293f",
+    "supplierVariantId": "10129-VE",
+    "stock": 4387,
+    "stockLevel": "in-stock",
+    "price": 0.8,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  }
+]

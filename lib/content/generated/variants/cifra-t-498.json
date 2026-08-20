@@ -1,0 +1,92 @@
+[
+  {
+    "contentKey": "98bad7d2322faf9c",
+    "supplierVariantId": "T-498-L-BL",
+    "stock": 457,
+    "stockLevel": "in-stock",
+    "price": 3.63,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "size": "L",
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "98bf46b84afac621",
+    "supplierVariantId": "T-498-XL-BL",
+    "stock": 3,
+    "stockLevel": "low",
+    "price": 3.63,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "size": "XL",
+    "imageRefs": [
+      12,
+      13,
+      14,
+      15
+    ]
+  },
+  {
+    "contentKey": "b6b4d192d51afbd4",
+    "supplierVariantId": "T-498-XXL-BL",
+    "stock": 229,
+    "stockLevel": "in-stock",
+    "price": 3.63,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      16,
+      17,
+      18,
+      19
+    ]
+  },
+  {
+    "contentKey": "b918c4b9933e862b",
+    "supplierVariantId": "T-498-M-BL",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 3.63,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "size": "M",
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "dee31945f2c27a91",
+    "supplierVariantId": "T-498-S-BL",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 3.63,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "size": "S",
+    "imageRefs": [
+      8,
+      9,
+      10,
+      11
+    ]
+  }
+]

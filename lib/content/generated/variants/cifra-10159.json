@@ -1,0 +1,59 @@
+[
+  {
+    "contentKey": "49731b882d53dd2e",
+    "supplierVariantId": "10159-BE",
+    "stock": 15000,
+    "stockLevel": "in-stock",
+    "price": 0.11,
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "49731b882d53dd2e",
+    "supplierVariantId": "10159-KRAFT",
+    "stock": 20000,
+    "stockLevel": "in-stock",
+    "price": 0.11,
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "b591b57af4ea9b8d",
+    "supplierVariantId": "10159-NE",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.11,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "c44308c373cc3d89",
+    "supplierVariantId": "10159-PT",
+    "stock": 20000,
+    "stockLevel": "in-stock",
+    "price": 0.11,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "imageRefs": [
+      9,
+      10,
+      11,
+      12
+    ]
+  }
+]

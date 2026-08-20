@@ -1,0 +1,47 @@
+[
+  {
+    "contentKey": "423b661b3701e6a7",
+    "supplierVariantId": "11071-NE",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 2.78,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "92e53c5a8bcee41a",
+    "supplierVariantId": "11071-BL",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 2.78,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "c362f1f91cb6d93c",
+    "supplierVariantId": "11071-RS",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 2.78,
+    "color": {
+      "name": "Pink",
+      "hex": "#FF1493"
+    },
+    "imageRefs": [
+      4,
+      5
+    ]
+  }
+]

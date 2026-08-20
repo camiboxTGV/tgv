@@ -1,0 +1,62 @@
+[
+  {
+    "contentKey": "392a61172651f356",
+    "supplierVariantId": "B-622-MA",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.39,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "572f2f0023516e1e",
+    "supplierVariantId": "B-622-VE",
+    "stock": 400,
+    "stockLevel": "in-stock",
+    "price": 0.39,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "825271de91da3534",
+    "supplierVariantId": "B-622-NE",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.39,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "9da18017328d4d3e",
+    "supplierVariantId": "B-622-BU",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.39,
+    "color": {
+      "name": "Bordeaux",
+      "hex": "#5F021F"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  }
+]

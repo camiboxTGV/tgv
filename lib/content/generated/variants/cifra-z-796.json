@@ -1,0 +1,46 @@
+[
+  {
+    "contentKey": "18d8065df4830818",
+    "supplierVariantId": "Z-796-AZ",
+    "stock": 944,
+    "stockLevel": "in-stock",
+    "price": 0.45,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "42aa687011be65bf",
+    "supplierVariantId": "Z-796-LI",
+    "stock": 1139,
+    "stockLevel": "in-stock",
+    "price": 0.45,
+    "color": {
+      "name": "Lilac",
+      "hex": "#C8A2C8"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "d7caf1aba0196699",
+    "supplierVariantId": "Z-796-NE",
+    "stock": 1278,
+    "stockLevel": "in-stock",
+    "price": 0.45,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      3,
+      4
+    ]
+  }
+]

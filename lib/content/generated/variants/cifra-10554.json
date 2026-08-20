@@ -1,0 +1,32 @@
+[
+  {
+    "contentKey": "062b605e954b7c0e",
+    "supplierVariantId": "10554",
+    "stock": 8000,
+    "stockLevel": "in-stock",
+    "price": 1.42,
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "7ee299454883eeac",
+    "supplierVariantId": "10554-CO",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 1.42,
+    "color": {
+      "name": "Colorines"
+    },
+    "imageRefs": [
+      8
+    ]
+  }
+]

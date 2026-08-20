@@ -1,0 +1,28 @@
+[
+  {
+    "contentKey": "10cd15aa7aaed195",
+    "supplierVariantId": "Z-024",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 2.25,
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "aaa017ab84767d90",
+    "supplierVariantId": "Z-024-NE",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 2.25,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  }
+]

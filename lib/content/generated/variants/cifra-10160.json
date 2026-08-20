@@ -1,0 +1,121 @@
+[
+  {
+    "contentKey": "171bcd0ad3e33a2e",
+    "supplierVariantId": "10160-BL",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 1.29,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "1bbcdf6a491ab362",
+    "supplierVariantId": "10160-NE",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 1.29,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "67ba26f64c150685",
+    "supplierVariantId": "10160-RO",
+    "stock": 2845,
+    "stockLevel": "in-stock",
+    "price": 1.29,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      12,
+      13,
+      14,
+      15
+    ]
+  },
+  {
+    "contentKey": "77c0a11e5cbe98c2",
+    "supplierVariantId": "10160-CE",
+    "stock": 2998,
+    "stockLevel": "in-stock",
+    "price": 1.29,
+    "color": {
+      "name": "Light blue",
+      "hex": "#87CEEB"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "8746b8428990c062",
+    "supplierVariantId": "10160-RY",
+    "stock": 1930,
+    "stockLevel": "in-stock",
+    "price": 1.29,
+    "color": {
+      "name": "Royal",
+      "hex": "#2D3192"
+    },
+    "imageRefs": [
+      20,
+      21,
+      22,
+      23
+    ]
+  },
+  {
+    "contentKey": "979c1d9708ee56e2",
+    "supplierVariantId": "10160-VE",
+    "stock": 1988,
+    "stockLevel": "in-stock",
+    "price": 1.29,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      24,
+      25,
+      26,
+      27
+    ]
+  },
+  {
+    "contentKey": "cf9ea8acf44b08ac",
+    "supplierVariantId": "10160-RS",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 1.29,
+    "color": {
+      "name": "Pink",
+      "hex": "#FF1493"
+    },
+    "imageRefs": [
+      16,
+      17,
+      18,
+      19
+    ]
+  }
+]

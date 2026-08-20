@@ -1,0 +1,53 @@
+[
+  {
+    "contentKey": "03d5e6aec9772173",
+    "supplierVariantId": "Z-439-RY",
+    "stock": 805,
+    "stockLevel": "in-stock",
+    "price": 0.43,
+    "color": {
+      "name": "Royal",
+      "hex": "#2D3192"
+    },
+    "imageRefs": [
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "0eeca4c6edde0ba9",
+    "supplierVariantId": "Z-439-NE",
+    "stock": 2774,
+    "stockLevel": "in-stock",
+    "price": 0.43,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "9084ca1f946a4fda",
+    "supplierVariantId": "Z-439-NA",
+    "stock": 1504,
+    "stockLevel": "in-stock",
+    "price": 0.43,
+    "color": {
+      "name": "Orange",
+      "hex": "#FFA500"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  }
+]

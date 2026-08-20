@@ -1,0 +1,49 @@
+[
+  {
+    "contentKey": "9b5d43b1dc0d91d6",
+    "supplierVariantId": "D-054-AZ",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.5,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "ea29b4fa50fbb154",
+    "supplierVariantId": "D-054-ESP",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.5,
+    "color": {
+      "name": "Spain Flag"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "ebe9a500032d0b7d",
+    "supplierVariantId": "D-054-BL",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.5,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  }
+]

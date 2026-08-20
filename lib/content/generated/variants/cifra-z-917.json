@@ -1,0 +1,70 @@
+[
+  {
+    "contentKey": "0c9530a3f1a5fa64",
+    "supplierVariantId": "Z-917-VE",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 1.73,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      12,
+      13,
+      14,
+      15
+    ]
+  },
+  {
+    "contentKey": "372e3676ddc8701a",
+    "supplierVariantId": "Z-917-NE",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 1.73,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "e08a52ca66346b97",
+    "supplierVariantId": "Z-917-RO",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 1.73,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "f57e1afc90369528",
+    "supplierVariantId": "Z-917-RY",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 1.73,
+    "color": {
+      "name": "Royal",
+      "hex": "#2D3192"
+    },
+    "imageRefs": [
+      8,
+      9,
+      10,
+      11
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "contentKey": "10d92453f2bd3522",
+    "supplierVariantId": "10690-PT",
+    "stock": 4130,
+    "stockLevel": "in-stock",
+    "price": 0.19,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "9b33c2d2bdedd1d2",
+    "supplierVariantId": "10690-AM",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.19,
+    "color": {
+      "name": "Yellow",
+      "hex": "#FFFF00"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  }
+]

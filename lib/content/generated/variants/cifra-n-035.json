@@ -1,0 +1,47 @@
+[
+  {
+    "contentKey": "04f19238a7edc46f",
+    "supplierVariantId": "N-035-CL",
+    "stock": 1708,
+    "stockLevel": "in-stock",
+    "price": 2.1,
+    "color": {
+      "name": "Clear",
+      "hex": "#FAD6A5"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "692821250f1a2520",
+    "supplierVariantId": "N-035-MR",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 2.1,
+    "color": {
+      "name": "Brown",
+      "hex": "#800000"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "be506f474fb198c7",
+    "supplierVariantId": "N-035-NE",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 2.1,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      4,
+      5
+    ]
+  }
+]

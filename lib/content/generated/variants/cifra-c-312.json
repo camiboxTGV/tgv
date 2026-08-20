@@ -1,0 +1,36 @@
+[
+  {
+    "contentKey": "7eb173acfc713dfc",
+    "supplierVariantId": "C-312-OR",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 6.31,
+    "color": {
+      "name": "Gold",
+      "hex": "#FFD700"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "a3a7c95252512aae",
+    "supplierVariantId": "C-312-CB",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 6.31,
+    "color": {
+      "name": "Copper",
+      "hex": "#B87333"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  }
+]

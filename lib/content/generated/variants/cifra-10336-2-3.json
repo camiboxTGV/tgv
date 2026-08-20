@@ -1,0 +1,53 @@
+[
+  {
+    "contentKey": "430723a7e762a95d",
+    "supplierVariantId": "10336-4-6-AZ",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 2.07,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "size": "4-6",
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "aa08d245df0cf99c",
+    "supplierVariantId": "10336-8-10-AZ",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 2.07,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "size": "8-10",
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "ca19770703931a82",
+    "supplierVariantId": "10336-2-3-AZ",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 2.07,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "size": "2-3",
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  }
+]

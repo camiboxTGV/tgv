@@ -1,0 +1,82 @@
+[
+  {
+    "contentKey": "3c7c8dc624866dd2",
+    "supplierVariantId": "T-1211-L-MA",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 3.63,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "size": "L",
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "63ff687840c83fa3",
+    "supplierVariantId": "T-1211-XL-MA",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 3.63,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "size": "XL",
+    "imageRefs": [
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "9865c8347e11c9b4",
+    "supplierVariantId": "T-1211-S-MA",
+    "stock": 588,
+    "stockLevel": "in-stock",
+    "price": 3.63,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "size": "S",
+    "imageRefs": [
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "c6ad64424774b1bf",
+    "supplierVariantId": "T-1211-M-MA",
+    "stock": 470,
+    "stockLevel": "in-stock",
+    "price": 3.63,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "size": "M",
+    "imageRefs": [
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "e681da978a279af6",
+    "supplierVariantId": "T-1211-XXL-MA",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 3.63,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      8,
+      9
+    ]
+  }
+]

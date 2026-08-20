@@ -1,0 +1,36 @@
+[
+  {
+    "contentKey": "89c64c28544cec16",
+    "supplierVariantId": "11034-AZ",
+    "stock": 7000,
+    "stockLevel": "in-stock",
+    "price": 0.62,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "ce3068cba6032ccd",
+    "supplierVariantId": "11034-BU",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.62,
+    "color": {
+      "name": "Bordeaux",
+      "hex": "#5F021F"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+]

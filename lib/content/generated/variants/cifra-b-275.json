@@ -1,0 +1,32 @@
+[
+  {
+    "contentKey": "1768d3f9600d7921",
+    "supplierVariantId": "B-275-MA",
+    "stock": 1640,
+    "stockLevel": "in-stock",
+    "price": 0.8,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "e9abb2bd738b2679",
+    "supplierVariantId": "B-275-NE",
+    "stock": 5694,
+    "stockLevel": "in-stock",
+    "price": 0.8,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  }
+]

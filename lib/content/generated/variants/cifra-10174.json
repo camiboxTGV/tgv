@@ -1,0 +1,35 @@
+[
+  {
+    "contentKey": "037d0eb26e5d565f",
+    "supplierVariantId": "10174-BL",
+    "stock": 436,
+    "stockLevel": "in-stock",
+    "price": 5.46,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "716c4ffe22dd7c85",
+    "supplierVariantId": "10174-NE",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 5.46,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5,
+      6
+    ]
+  }
+]

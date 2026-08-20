@@ -1,0 +1,46 @@
+[
+  {
+    "contentKey": "4a44c58f684c3239",
+    "supplierVariantId": "Z-1005-AZ",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 1.17,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "c264e82adb3354c4",
+    "supplierVariantId": "Z-1005-RO",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 1.17,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "f28afb32b13a4579",
+    "supplierVariantId": "Z-1005-VE",
+    "stock": 1998,
+    "stockLevel": "in-stock",
+    "price": 1.17,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      4
+    ]
+  }
+]

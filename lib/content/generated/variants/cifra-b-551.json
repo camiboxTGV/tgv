@@ -1,0 +1,47 @@
+[
+  {
+    "contentKey": "56c9c94a80d80147",
+    "supplierVariantId": "B-551-AZ",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 0.33,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "de507e7804634772",
+    "supplierVariantId": "B-551-VE",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 0.33,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "efe0636f75b34a3f",
+    "supplierVariantId": "B-551-RO",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.33,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  }
+]

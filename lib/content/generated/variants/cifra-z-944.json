@@ -1,0 +1,62 @@
+[
+  {
+    "contentKey": "0800212cb4461d42",
+    "supplierVariantId": "Z-944-CR",
+    "stock": 483,
+    "stockLevel": "in-stock",
+    "price": 0.38,
+    "color": {
+      "name": "Beige",
+      "hex": "#C2B280"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "23d7d546149f2d03",
+    "supplierVariantId": "Z-944-RO",
+    "stock": 2684,
+    "stockLevel": "in-stock",
+    "price": 0.38,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "a4841e5b4110b66a",
+    "supplierVariantId": "Z-944-MR",
+    "stock": 3134,
+    "stockLevel": "in-stock",
+    "price": 0.38,
+    "color": {
+      "name": "Brown",
+      "hex": "#800000"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "dd4452aa9f16eaef",
+    "supplierVariantId": "Z-944-NE",
+    "stock": 1205,
+    "stockLevel": "in-stock",
+    "price": 0.38,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      4,
+      5
+    ]
+  }
+]

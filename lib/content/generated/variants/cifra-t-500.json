@@ -1,0 +1,92 @@
+[
+  {
+    "contentKey": "1daebe6ab7074862",
+    "supplierVariantId": "T-500-L-BL",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 3.47,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "size": "L",
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "3e2bdd57dc8de171",
+    "supplierVariantId": "T-500-XXL-BL",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 3.47,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      16,
+      17,
+      18,
+      19
+    ]
+  },
+  {
+    "contentKey": "5202ad53636e4e38",
+    "supplierVariantId": "T-500-M-BL",
+    "stock": 332,
+    "stockLevel": "in-stock",
+    "price": 3.47,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "size": "M",
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "78eb1530f052483c",
+    "supplierVariantId": "T-500-XL-BL",
+    "stock": 256,
+    "stockLevel": "in-stock",
+    "price": 3.47,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "size": "XL",
+    "imageRefs": [
+      12,
+      13,
+      14,
+      15
+    ]
+  },
+  {
+    "contentKey": "977e1df6e4e96888",
+    "supplierVariantId": "T-500-S-BL",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 3.47,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "size": "S",
+    "imageRefs": [
+      8,
+      9,
+      10,
+      11
+    ]
+  }
+]

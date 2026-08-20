@@ -1,0 +1,38 @@
+[
+  {
+    "contentKey": "4784c991c24d6485",
+    "supplierVariantId": "B-694-NE",
+    "stock": 2101,
+    "stockLevel": "in-stock",
+    "price": 4.73,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "contentKey": "659c70680134dad4",
+    "supplierVariantId": "B-694-BL",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 4.73,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  }
+]

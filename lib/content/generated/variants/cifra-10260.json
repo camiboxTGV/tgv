@@ -1,0 +1,50 @@
+[
+  {
+    "contentKey": "be4de85753acc872",
+    "supplierVariantId": "10260-AZ",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 2.84,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "e51d216530ad2f78",
+    "supplierVariantId": "10260-NA",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 2.84,
+    "color": {
+      "name": "Orange",
+      "hex": "#FFA500"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "f7c13addfdcdf34b",
+    "supplierVariantId": "10260-GR",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 2.84,
+    "color": {
+      "name": "Gray",
+      "hex": "#808080"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  }
+]

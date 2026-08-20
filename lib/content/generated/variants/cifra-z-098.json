@@ -1,0 +1,62 @@
+[
+  {
+    "contentKey": "34a084a3dfd153e9",
+    "supplierVariantId": "Z-098-HI",
+    "stock": 12000,
+    "stockLevel": "in-stock",
+    "price": 0.39,
+    "color": {
+      "name": "Glacial",
+      "hex": "#F2F2F2"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "988971cb94099955",
+    "supplierVariantId": "Z-098-RS",
+    "stock": 12000,
+    "stockLevel": "in-stock",
+    "price": 0.39,
+    "color": {
+      "name": "Pink",
+      "hex": "#FF1493"
+    },
+    "imageRefs": [
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "b059ddcb962e36a3",
+    "supplierVariantId": "Z-098-AZ-MED",
+    "stock": 12000,
+    "stockLevel": "in-stock",
+    "price": 0.39,
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "d4381773dd93a75f",
+    "supplierVariantId": "Z-098-LI",
+    "stock": 12000,
+    "stockLevel": "in-stock",
+    "price": 0.39,
+    "color": {
+      "name": "Lilac",
+      "hex": "#C8A2C8"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  }
+]

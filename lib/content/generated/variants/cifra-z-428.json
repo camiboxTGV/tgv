@@ -1,0 +1,62 @@
+[
+  {
+    "contentKey": "38a61eb55896947d",
+    "supplierVariantId": "Z-428-RY",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.69,
+    "color": {
+      "name": "Royal",
+      "hex": "#2D3192"
+    },
+    "imageRefs": [
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "41f72f0e1046ed5c",
+    "supplierVariantId": "Z-428-NE",
+    "stock": 12000,
+    "stockLevel": "in-stock",
+    "price": 0.69,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "635f9ef7ba3c0473",
+    "supplierVariantId": "Z-428-GR",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.69,
+    "color": {
+      "name": "Gray",
+      "hex": "#808080"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "736323e1843dfaa7",
+    "supplierVariantId": "Z-428-AZ",
+    "stock": 4169,
+    "stockLevel": "in-stock",
+    "price": 0.69,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  }
+]

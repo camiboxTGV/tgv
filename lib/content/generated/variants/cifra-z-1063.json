@@ -1,0 +1,45 @@
+[
+  {
+    "contentKey": "508f89861ff26b46",
+    "supplierVariantId": "Z-1063-ESP",
+    "stock": 389,
+    "stockLevel": "in-stock",
+    "price": 0.8,
+    "color": {
+      "name": "Spain Flag"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "baa40731821f6771",
+    "supplierVariantId": "Z-1063-POR",
+    "stock": 1151,
+    "stockLevel": "in-stock",
+    "price": 0.8,
+    "color": {
+      "name": "Portugal Flag"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "contentKey": "baebf305d592b3b4",
+    "supplierVariantId": "Z-1063-ITA",
+    "stock": 762,
+    "stockLevel": "in-stock",
+    "price": 0.8,
+    "color": {
+      "name": "Italy Flag"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  }
+]

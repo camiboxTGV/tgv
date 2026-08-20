@@ -1,0 +1,32 @@
+[
+  {
+    "contentKey": "363bd5f7dee75289",
+    "supplierVariantId": "10272-RS",
+    "stock": 341,
+    "stockLevel": "in-stock",
+    "price": 11.28,
+    "color": {
+      "name": "Pink",
+      "hex": "#FF1493"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "e7f5e4174eb45f44",
+    "supplierVariantId": "10272-PT",
+    "stock": 444,
+    "stockLevel": "in-stock",
+    "price": 11.28,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  }
+]

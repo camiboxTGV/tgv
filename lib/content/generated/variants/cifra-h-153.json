@@ -1,0 +1,32 @@
+[
+  {
+    "contentKey": "4b36384ed28c8a09",
+    "supplierVariantId": "H-153-NE",
+    "stock": 50,
+    "stockLevel": "in-stock",
+    "price": 62.47,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "705e72ce7360b2f7",
+    "supplierVariantId": "H-153-PT",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 62.47,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  }
+]

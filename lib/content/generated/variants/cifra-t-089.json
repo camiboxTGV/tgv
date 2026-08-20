@@ -1,0 +1,32 @@
+[
+  {
+    "contentKey": "3acd57bb7116a2fa",
+    "supplierVariantId": "T-089-XL-AZ",
+    "stock": 280,
+    "stockLevel": "in-stock",
+    "price": 10.34,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "size": "XL",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "c22ccbb500745a6d",
+    "supplierVariantId": "T-089-L-AZ",
+    "stock": 323,
+    "stockLevel": "in-stock",
+    "price": 10.34,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "size": "L",
+    "imageRefs": [
+      0
+    ]
+  }
+]

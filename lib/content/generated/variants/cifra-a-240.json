@@ -1,0 +1,74 @@
+[
+  {
+    "contentKey": "43649935fa670921",
+    "supplierVariantId": "A-240-NE",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.11,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "contentKey": "6f16113ca78b4216",
+    "supplierVariantId": "A-240-RO",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.11,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      10,
+      11,
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "contentKey": "8dc2594afe5d09c6",
+    "supplierVariantId": "A-240-VE",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.11,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      15,
+      16,
+      17,
+      18,
+      19
+    ]
+  },
+  {
+    "contentKey": "a4fbe3beb6b3c933",
+    "supplierVariantId": "A-240-AZ",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.11,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  }
+]

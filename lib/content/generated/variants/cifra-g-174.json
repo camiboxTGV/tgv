@@ -1,0 +1,74 @@
+[
+  {
+    "contentKey": "00a2d3addb7f68a7",
+    "supplierVariantId": "G-174-GR",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 4.29,
+    "color": {
+      "name": "Gray",
+      "hex": "#808080"
+    },
+    "imageRefs": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "contentKey": "a51746a3c7eadcb7",
+    "supplierVariantId": "G-174-BU",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 4.29,
+    "color": {
+      "name": "Bordeaux",
+      "hex": "#5F021F"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "contentKey": "a7eae885d519cc8b",
+    "supplierVariantId": "G-174-NE",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 4.29,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      15,
+      16,
+      17,
+      18,
+      19
+    ]
+  },
+  {
+    "contentKey": "e1e14d42e5dc4bfc",
+    "supplierVariantId": "G-174-MA",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 4.29,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "imageRefs": [
+      10,
+      11,
+      12,
+      13,
+      14
+    ]
+  }
+]

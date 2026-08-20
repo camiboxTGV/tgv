@@ -1,0 +1,36 @@
+[
+  {
+    "contentKey": "4eca9ce26062392a",
+    "supplierVariantId": "10491-NE",
+    "stock": 700,
+    "stockLevel": "in-stock",
+    "price": 7.22,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "c5e6181b432fce76",
+    "supplierVariantId": "10491-CM",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 7.22,
+    "color": {
+      "name": "Camouflage"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  }
+]

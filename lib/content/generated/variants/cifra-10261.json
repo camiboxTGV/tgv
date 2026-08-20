@@ -1,0 +1,88 @@
+[
+  {
+    "contentKey": "3c099b6e376b64b6",
+    "supplierVariantId": "10261-VE",
+    "stock": 1011,
+    "stockLevel": "in-stock",
+    "price": 5.81,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ]
+  },
+  {
+    "contentKey": "605cc723cf40f150",
+    "supplierVariantId": "10261-BU",
+    "stock": 1153,
+    "stockLevel": "in-stock",
+    "price": 5.81,
+    "color": {
+      "name": "Bordeaux",
+      "hex": "#5F021F"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "876be2177a7906af",
+    "supplierVariantId": "10261-GR",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 5.81,
+    "color": {
+      "name": "Gray",
+      "hex": "#808080"
+    },
+    "imageRefs": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "contentKey": "9299a603d9ae09a7",
+    "supplierVariantId": "10261-MA",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 5.81,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "imageRefs": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "contentKey": "c71f8607824da239",
+    "supplierVariantId": "10261-NE",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 5.81,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      13,
+      14
+    ]
+  }
+]

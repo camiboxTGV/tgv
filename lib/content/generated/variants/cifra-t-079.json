@@ -1,0 +1,44 @@
+[
+  {
+    "contentKey": "0ea0b484fdb1d983",
+    "supplierVariantId": "T-079-CR",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 0.63,
+    "color": {
+      "name": "Beige",
+      "hex": "#C2B280"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "2f96f1563f4d7cfa",
+    "supplierVariantId": "T-079-NE",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 0.63,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "b86ddd6167d8ad7f",
+    "supplierVariantId": "T-079-NA",
+    "stock": 594,
+    "stockLevel": "in-stock",
+    "price": 0.63,
+    "color": {
+      "name": "Orange",
+      "hex": "#FFA500"
+    },
+    "imageRefs": [
+      1
+    ]
+  }
+]

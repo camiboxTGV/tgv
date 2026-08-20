@@ -1,0 +1,62 @@
+[
+  {
+    "contentKey": "16e97d323101baa1",
+    "supplierVariantId": "10704-LI",
+    "stock": 7000,
+    "stockLevel": "in-stock",
+    "price": 0.5,
+    "color": {
+      "name": "Lilac",
+      "hex": "#C8A2C8"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "308ed71b17e037b3",
+    "supplierVariantId": "10704-PS",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.5,
+    "color": {
+      "name": "Pistachio",
+      "hex": "#93C572"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "3237cdef90ecab3a",
+    "supplierVariantId": "10704-RY",
+    "stock": 6416,
+    "stockLevel": "in-stock",
+    "price": 0.5,
+    "color": {
+      "name": "Royal",
+      "hex": "#2D3192"
+    },
+    "imageRefs": [
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "4fc2fc4a392aeaf5",
+    "supplierVariantId": "10704-RO",
+    "stock": 8000,
+    "stockLevel": "in-stock",
+    "price": 0.5,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      4,
+      5
+    ]
+  }
+]

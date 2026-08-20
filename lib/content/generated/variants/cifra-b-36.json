@@ -1,0 +1,76 @@
+[
+  {
+    "contentKey": "015a1bb8d963e84c",
+    "supplierVariantId": "B-36-RY",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.05,
+    "color": {
+      "name": "Royal",
+      "hex": "#2D3192"
+    },
+    "imageRefs": [
+      5,
+      6
+    ]
+  },
+  {
+    "contentKey": "4eab684313bbc9e8",
+    "supplierVariantId": "B-36",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.05,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "9b4a1d9869c0f94b",
+    "supplierVariantId": "B-36-PT",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.05,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "imageRefs": [
+      3,
+      4
+    ]
+  },
+  {
+    "contentKey": "b9ce9aa05b7a9401",
+    "supplierVariantId": "B-36-BU",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.05,
+    "color": {
+      "name": "Bordeaux",
+      "hex": "#5F021F"
+    },
+    "imageRefs": [
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "be1e90c39d7e93a0",
+    "supplierVariantId": "B-36-VE",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.05,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      7,
+      8
+    ]
+  }
+]

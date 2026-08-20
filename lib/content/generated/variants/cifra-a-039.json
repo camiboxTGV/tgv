@@ -1,0 +1,114 @@
+[
+  {
+    "contentKey": "052f97adbf714a6d",
+    "supplierVariantId": "A-039-AZ",
+    "stock": 39,
+    "stockLevel": "in-stock",
+    "price": 0.05,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "06a7e7b51277f0e5",
+    "supplierVariantId": "A-039-NE",
+    "stock": 25000,
+    "stockLevel": "in-stock",
+    "price": 0.05,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      4
+    ]
+  },
+  {
+    "contentKey": "76c0e3ef3434010e",
+    "supplierVariantId": "A-039-VE",
+    "stock": 16684,
+    "stockLevel": "in-stock",
+    "price": 0.05,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      7
+    ]
+  },
+  {
+    "contentKey": "81284649560a005e",
+    "supplierVariantId": "A-039-RO",
+    "stock": 17600,
+    "stockLevel": "in-stock",
+    "price": 0.05,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      6
+    ]
+  },
+  {
+    "contentKey": "90b36b2379016868",
+    "supplierVariantId": "A-039-PT",
+    "stock": 20000,
+    "stockLevel": "in-stock",
+    "price": 0.05,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "imageRefs": [
+      5
+    ]
+  },
+  {
+    "contentKey": "98702b5fa0478e20",
+    "supplierVariantId": "A-039-BL",
+    "stock": 25000,
+    "stockLevel": "in-stock",
+    "price": 0.05,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "b09970ffb4ca9201",
+    "supplierVariantId": "A-039-NA",
+    "stock": 20000,
+    "stockLevel": "in-stock",
+    "price": 0.05,
+    "color": {
+      "name": "Orange",
+      "hex": "#FFA500"
+    },
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "d713f2a4738cacfd",
+    "supplierVariantId": "A-039-AM",
+    "stock": 12351,
+    "stockLevel": "in-stock",
+    "price": 0.05,
+    "color": {
+      "name": "Yellow",
+      "hex": "#FFFF00"
+    },
+    "imageRefs": [
+      0
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "contentKey": "46e9a8a617e21f6b",
+    "supplierVariantId": "T-482-OR",
+    "stock": 147,
+    "stockLevel": "in-stock",
+    "price": 0.48,
+    "color": {
+      "name": "Gold",
+      "hex": "#FFD700"
+    },
+    "imageRefs": [
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "4c48e8572d5dc9ba",
+    "supplierVariantId": "T-482-PT",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.48,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "imageRefs": [
+      3,
+      4
+    ]
+  },
+  {
+    "contentKey": "7ffefce92228802e",
+    "supplierVariantId": "T-482-NE",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.48,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      0
+    ]
+  }
+]

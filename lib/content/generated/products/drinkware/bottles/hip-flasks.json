@@ -1,5 +1,408 @@
 [
   {
+    "slug": "cifra-10175",
+    "name": "HIP FLASK \"TRADITIONAL\"",
+    "category": "drinkware/bottles/hip-flasks",
+    "summary": "Each piece in individual bag and box, capacity 170 ml.",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
+    "personalizations": [
+      "fiber-laser"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "LCO1",
+        "label": "Laser engraving",
+        "labelRo": "Gravură laser",
+        "printSizes": [
+          "50x20 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "10175",
+    "supplierVariantIds": [
+      "10175"
+    ],
+    "price": 1.94,
+    "priceFrom": false,
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/10175-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10175-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10175-04-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 1,
+    "colorCount": 0,
+    "sizeCount": 0,
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "11 × 9 × 2 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Stainless steel"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "49,0 x 29,0 x 25,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "10.7 kg",
+        "valueRo": "10.7 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "9.25 kg",
+        "valueRo": "9.25 kg"
+      },
+      {
+        "key": "units-per-pallet",
+        "label": "Units per pallet",
+        "labelRo": "Unități per palet",
+        "value": "3600 pcs",
+        "valueRo": "3600 buc."
+      },
+      {
+        "key": "ean",
+        "label": "EAN",
+        "labelRo": "EAN",
+        "value": "8436606331828"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "550"
+      }
+    ],
+    "weightGrams": 92,
+    "descriptionLong": "Each piece in individual bag and box, capacity 170 ml.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "cifra-10176",
+    "name": "BAMBOO HIP FLASK \"AMBIENT\"",
+    "category": "drinkware/bottles/hip-flasks",
+    "summary": "Each piece in individual bag and box, capacity 170 ml.",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen",
+      "fiber-laser"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "E",
+        "label": "Cifra decoration code E",
+        "labelRo": "Cod personalizare Cifra E",
+        "printSizes": [
+          "50x20 mm"
+        ]
+      },
+      {
+        "code": "LL",
+        "label": "Laser engraving",
+        "labelRo": "Gravură laser",
+        "printSizes": [
+          "50x20 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "10176",
+    "supplierVariantIds": [
+      "10176"
+    ],
+    "price": 2.34,
+    "priceFrom": false,
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/10176-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10176-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10176-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10176-07-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 1,
+    "colorCount": 0,
+    "sizeCount": 0,
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "11 × 9 × 2 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Bamboo and stainless steel"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "49,0 x 29,0 x 25,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "11.25 kg",
+        "valueRo": "11.25 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "9.75 kg",
+        "valueRo": "9.75 kg"
+      },
+      {
+        "key": "units-per-pallet",
+        "label": "Units per pallet",
+        "labelRo": "Unități per palet",
+        "value": "1500 pcs",
+        "valueRo": "1500 buc."
+      },
+      {
+        "key": "ean",
+        "label": "EAN",
+        "labelRo": "EAN",
+        "value": "8436606331835"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "550"
+      }
+    ],
+    "weightGrams": 97,
+    "descriptionLong": "Each piece in individual bag and box, capacity 170 ml.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "cifra-10177",
+    "name": "GLASSES AND HIP FLASK SET \"DUO PARTY\"",
+    "category": "drinkware/bottles/hip-flasks",
+    "summary": "Each piece in individual bag and box. Hip glass capacity 170 ml, glasses 30 ml.",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
+    "personalizations": [
+      "fiber-laser"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "LCO1",
+        "label": "Laser engraving",
+        "labelRo": "Gravură laser",
+        "printSizes": [
+          "50x20 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "10177",
+    "supplierVariantIds": [
+      "10177"
+    ],
+    "price": 3.86,
+    "priceFrom": false,
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/10177-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10177-07-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10177-06-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10177-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10177-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10177-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10177-01-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 1,
+    "colorCount": 0,
+    "sizeCount": 0,
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "19.3 × 17 × 4 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Stainless steel"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "46,0 x 46,0 x 36,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "11.95 kg",
+        "valueRo": "11.95 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "4.82 kg",
+        "valueRo": "4.82 kg"
+      },
+      {
+        "key": "ean",
+        "label": "EAN",
+        "labelRo": "EAN",
+        "value": "8436606331842"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "550"
+      }
+    ],
+    "weightGrams": 280,
+    "descriptionLong": "Each piece in individual bag and box. Hip glass capacity 170 ml, glasses 30 ml.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "cifra-10789",
+    "name": "SUBLIMATION HIP FLASK “CHICAGO”",
+    "category": "drinkware/bottles/hip-flasks",
+    "summary": "Special hip flask for sublimation, 170 ml capacity. Each piece is individually packaged.",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "SUB1",
+        "label": "Sublimation",
+        "labelRo": "Sublimare",
+        "printSizes": [
+          "60x60 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "10789",
+    "supplierVariantIds": [
+      "10789"
+    ],
+    "price": 3.28,
+    "priceFrom": false,
+    "stock": 1495,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/10789-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10789-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10789-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10789-04-500x500.jpg"
+    ],
+    "fetchedAt": "2026-08-20T09:05:20.586Z",
+    "variantCount": 1,
+    "colorCount": 0,
+    "sizeCount": 0,
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "11 × 9 × 2 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Stainless steel"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "50,0 x 30,0 x 25,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "10.83 kg",
+        "valueRo": "10.83 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "9.83 kg",
+        "valueRo": "9.83 kg"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "550,678"
+      }
+    ],
+    "weightGrams": 98,
+    "descriptionLong": "Special hip flask for sublimation, 170 ml capacity. Each piece is individually packaged.",
+    "hasVariantDetail": false
+  },
+  {
     "slug": "macma-5000100aj3",
     "name": "OLYMPOS branded bottle",
     "category": "drinkware/bottles/hip-flasks",
@@ -25,14 +428,14 @@
     ],
     "price": 7.63,
     "priceFrom": false,
-    "stock": 2154,
+    "stock": 2129,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5000100aj3_9.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5000100aj3_1.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5000100aj3_2.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -120,7 +523,7 @@
       "https://macma.ro/products/jpg/M/6016807_3.jpg",
       "https://macma.ro/products/jpg/M/6016807_box.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -212,7 +615,7 @@
       "https://macma.ro/products/jpg/M/6079203_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6079203_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -302,7 +705,7 @@
       "https://macma.ro/products/jpg/M/6079305_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6079305_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -398,7 +801,7 @@
       "https://macma.ro/products/jpg/M/6243901_3.jpg",
       "https://macma.ro/products/jpg/M/6243901_box.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -484,7 +887,7 @@
     ],
     "price": 2.76,
     "priceFrom": false,
-    "stock": 17869,
+    "stock": 17859,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/6570307_0.jpg",
@@ -494,7 +897,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/6570307_lifestyle_4.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6570307_lifestyle_5.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:46.287Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -588,7 +991,7 @@
       "https://macma.ro/products/jpg/M/6570807_3.jpg",
       "https://macma.ro/products/jpg/M/6570807_box.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -684,7 +1087,7 @@
       "https://macma.ro/products/jpg/M/6574003_3.jpg",
       "https://macma.ro/products/jpg/M/6574003_box.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -780,7 +1183,7 @@
       "https://macma.ro/products/jpg/M/8325213_3.jpg",
       "https://macma.ro/products/jpg/M/8325213_box.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -878,7 +1281,7 @@
       "https://macma.ro/products/jpg/M/8325701_5.jpg",
       "https://macma.ro/products/jpg/M/8325701_box.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -975,7 +1378,7 @@
       "https://macma.ro/products/jpg/M/9462007_4.jpg",
       "https://macma.ro/products/jpg/M/9462007_5_box.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1065,7 +1468,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5000200aj3_3.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5000200aj3_4.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1156,7 +1559,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5001100aj3_4.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5001100aj3_5.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1250,7 +1653,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5001200aj3_7.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5001200aj3_8.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:38.538Z",
+    "fetchedAt": "2026-08-20T09:06:09.004Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1338,7 +1741,7 @@
       "https://cdn1.midocean.com/image/700X700/kc4703-16-print.jpg",
       "https://cdn1.midocean.com/image/700X700/kc4703-16-box.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1458,7 +1861,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2152-14-print.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2152-14-picture5.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1579,7 +1982,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2628-03-picture3.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2628-03-picture4.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1629,6 +2032,7 @@
     ],
     "brand": "midocean",
     "weightGrams": 140,
+    "capacity": "20 ml",
     "descriptionLong": "Hip Flask in stainless steel with PU Leather surface and 2 pieces stainless steel 20ml shot cups in lid. Capacity: 230ml.",
     "hasVariantDetail": false
   },
@@ -1681,7 +2085,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2629-01-picture2.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2629-01-picture5.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -1734,6 +2138,7 @@
     ],
     "brand": "midocean",
     "weightGrams": 130,
+    "capacity": "200 ml",
     "descriptionLong": "Slim hip flask in stainless steel with PU-leather cover. 200 ml capacity.",
     "hasVariantDetail": true
   },
@@ -1789,7 +2194,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6356-13-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6356-13-box.jpg"
     ],
-    "fetchedAt": "2026-08-19T13:38:01.781Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1904,7 +2309,7 @@
       "https://cdn1.midocean.com/image/700X700/mo8321-16b.jpg",
       "https://cdn1.midocean.com/image/700X700/mo8321-16-box.jpg"
     ],
-    "fetchedAt": "2026-08-20T03:57:24.374Z",
+    "fetchedAt": "2026-08-20T09:05:20.947Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

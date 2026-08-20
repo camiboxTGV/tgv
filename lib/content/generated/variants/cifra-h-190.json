@@ -1,0 +1,59 @@
+[
+  {
+    "contentKey": "1c623aad8fa4f2d1",
+    "supplierVariantId": "H-190-AZ",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 36.37,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "953a6696d178b14a",
+    "supplierVariantId": "H-190-PT",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 36.37,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "b4bcaf014fa0c9fd",
+    "supplierVariantId": "H-190-RO",
+    "stock": 50,
+    "stockLevel": "in-stock",
+    "price": 36.37,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      4
+    ]
+  },
+  {
+    "contentKey": "c935af2db6522f3c",
+    "supplierVariantId": "H-190-NE",
+    "stock": 100,
+    "stockLevel": "in-stock",
+    "price": 36.37,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      2
+    ]
+  }
+]

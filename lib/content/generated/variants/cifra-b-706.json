@@ -1,0 +1,87 @@
+[
+  {
+    "contentKey": "3c29a39cec0bb1ed",
+    "supplierVariantId": "B-706-VE",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.98,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      16,
+      17,
+      18,
+      19
+    ]
+  },
+  {
+    "contentKey": "824509a052442d2b",
+    "supplierVariantId": "B-706-AZ",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.98,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "b83d4cb1e7273bb6",
+    "supplierVariantId": "B-706-NE",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.98,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      12,
+      13,
+      14,
+      15
+    ]
+  },
+  {
+    "contentKey": "cdbb23db9c60be6a",
+    "supplierVariantId": "B-706-BL",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.98,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "ebf53faef1fddf6a",
+    "supplierVariantId": "B-706-BU",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.98,
+    "color": {
+      "name": "Bordeaux",
+      "hex": "#5F021F"
+    },
+    "imageRefs": [
+      8,
+      9,
+      10,
+      11
+    ]
+  }
+]

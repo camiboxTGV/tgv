@@ -1,0 +1,47 @@
+[
+  {
+    "contentKey": "075188027fa1ea75",
+    "supplierVariantId": "B-040-PT",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.08,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "imageRefs": [
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "0782c9371b2cc8bc",
+    "supplierVariantId": "B-040-NE",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.08,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "254457955c914831",
+    "supplierVariantId": "B-040-BL",
+    "stock": 4990,
+    "stockLevel": "in-stock",
+    "price": 0.08,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  }
+]

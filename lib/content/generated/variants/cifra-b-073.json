@@ -1,0 +1,37 @@
+[
+  {
+    "contentKey": "81b386ace029f9b1",
+    "supplierVariantId": "B-073-BL",
+    "stock": 3601,
+    "stockLevel": "in-stock",
+    "price": 0.41,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "edbd2b69bddecc1a",
+    "supplierVariantId": "B-073-VE",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.41,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  }
+]

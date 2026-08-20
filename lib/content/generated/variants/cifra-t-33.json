@@ -1,0 +1,86 @@
+[
+  {
+    "contentKey": "48b92689334955b0",
+    "supplierVariantId": "T-33-VE",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 0.86,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      5
+    ]
+  },
+  {
+    "contentKey": "67d66772751cb1a5",
+    "supplierVariantId": "T-33-LI",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 0.86,
+    "color": {
+      "name": "Lilac",
+      "hex": "#C8A2C8"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "8acc4c067686dea0",
+    "supplierVariantId": "T-33-NE",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 0.86,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "910997acff83609a",
+    "supplierVariantId": "T-33-RO",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 0.86,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      4
+    ]
+  },
+  {
+    "contentKey": "9d9d35170ce67620",
+    "supplierVariantId": "T-33-AZ",
+    "stock": 5,
+    "stockLevel": "low",
+    "price": 0.86,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "abfa369024d6c4cb",
+    "supplierVariantId": "T-33-BL",
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "price": 0.86,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      1
+    ]
+  }
+]

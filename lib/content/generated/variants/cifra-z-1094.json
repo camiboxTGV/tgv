@@ -1,0 +1,62 @@
+[
+  {
+    "contentKey": "11d8cf94b0fc7631",
+    "supplierVariantId": "Z-1094-RO",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 2.43,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "ce72aea2d79ea213",
+    "supplierVariantId": "Z-1094-RY",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 2.43,
+    "color": {
+      "name": "Royal",
+      "hex": "#2D3192"
+    },
+    "imageRefs": [
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "da15378c044dffae",
+    "supplierVariantId": "Z-1094-PS",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 2.43,
+    "color": {
+      "name": "Pistachio",
+      "hex": "#93C572"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "ea2f5aa9fb48544b",
+    "supplierVariantId": "Z-1094-BL",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 2.43,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  }
+]

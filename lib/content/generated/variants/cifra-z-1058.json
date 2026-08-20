@@ -1,0 +1,31 @@
+[
+  {
+    "contentKey": "7f9f92e71f9148e7",
+    "supplierVariantId": "Z-1058-GR",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.2,
+    "color": {
+      "name": "Gray",
+      "hex": "#808080"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "d8a525b38e52827e",
+    "supplierVariantId": "Z-1058",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.2,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  }
+]

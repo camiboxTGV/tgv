@@ -1,0 +1,54 @@
+[
+  {
+    "contentKey": "ab06d8257bfbba27",
+    "supplierVariantId": "10934",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 2.43,
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "contentKey": "adeca091e1eccc02",
+    "supplierVariantId": "10934-FRA",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 2.43,
+    "color": {
+      "name": "France Flag"
+    },
+    "imageRefs": [
+      18
+    ]
+  },
+  {
+    "contentKey": "c123aea1bd0ff394",
+    "supplierVariantId": "10934-ESP",
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "price": 2.43,
+    "color": {
+      "name": "Spain Flag"
+    },
+    "imageRefs": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ]
+  }
+]

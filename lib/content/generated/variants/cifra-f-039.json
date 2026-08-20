@@ -1,0 +1,32 @@
+[
+  {
+    "contentKey": "6ee876027a63d370",
+    "supplierVariantId": "F-039-NE",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.22,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "e231b08f7feeae76",
+    "supplierVariantId": "F-039-PT",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.22,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "contentKey": "9854e59b13bcef5d",
+    "supplierVariantId": "T-151-AM",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 2.67,
+    "color": {
+      "name": "Yellow",
+      "hex": "#FFFF00"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "98d432ee529d6b06",
+    "supplierVariantId": "T-151-MA",
+    "stock": 714,
+    "stockLevel": "in-stock",
+    "price": 2.67,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "imageRefs": [
+      12,
+      13,
+      14,
+      15
+    ]
+  },
+  {
+    "contentKey": "a19bd3f8dd5dd312",
+    "supplierVariantId": "T-151-FU",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 2.67,
+    "color": {
+      "name": "Fuchsia",
+      "hex": "#FF00FF"
+    },
+    "imageRefs": [
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "a72a05a4b5601afd",
+    "supplierVariantId": "T-151-NE",
+    "stock": 1916,
+    "stockLevel": "in-stock",
+    "price": 2.67,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      16,
+      17,
+      18,
+      19
+    ]
+  },
+  {
+    "contentKey": "ad08094129ffa7f9",
+    "supplierVariantId": "T-151-BL",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 2.67,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+]

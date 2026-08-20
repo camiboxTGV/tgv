@@ -1,0 +1,136 @@
+[
+  {
+    "contentKey": "215f8ed158afde56",
+    "supplierVariantId": "87100-AZ",
+    "stock": 8000,
+    "stockLevel": "in-stock",
+    "price": 1.37,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "375ac98140e8c2f7",
+    "supplierVariantId": "87100-NE",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 1.37,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "contentKey": "375ac98140e8c2f7",
+    "supplierVariantId": "Z-871-NE",
+    "stock": 12,
+    "stockLevel": "in-stock",
+    "price": 1.39,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      18,
+      19,
+      20
+    ]
+  },
+  {
+    "contentKey": "4abf02c414687cfe",
+    "supplierVariantId": "87100-LI",
+    "stock": 4798,
+    "stockLevel": "in-stock",
+    "price": 1.37,
+    "color": {
+      "name": "Lilac",
+      "hex": "#C8A2C8"
+    },
+    "imageRefs": [
+      6
+    ]
+  },
+  {
+    "contentKey": "96c41267aa8d34fe",
+    "supplierVariantId": "87100-BL",
+    "stock": 15000,
+    "stockLevel": "in-stock",
+    "price": 1.37,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "c752fc3ba56b7d08",
+    "supplierVariantId": "87100-PT",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 1.37,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "imageRefs": [
+      11,
+      12,
+      13
+    ]
+  },
+  {
+    "contentKey": "cbbe3b72f69b1cd2",
+    "supplierVariantId": "87100-NE-MATE",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 1.37,
+    "imageRefs": [
+      10
+    ]
+  },
+  {
+    "contentKey": "f13b2fae6c394798",
+    "supplierVariantId": "87100-VE",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 1.37,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      15,
+      16,
+      17
+    ]
+  },
+  {
+    "contentKey": "f89c2ee36498bc27",
+    "supplierVariantId": "87100-RO",
+    "stock": 2450,
+    "stockLevel": "in-stock",
+    "price": 1.37,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      14
+    ]
+  }
+]

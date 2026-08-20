@@ -1,0 +1,53 @@
+[
+  {
+    "contentKey": "1c9ed3aed69d1eb1",
+    "supplierVariantId": "B-613-MA",
+    "stock": 4923,
+    "stockLevel": "in-stock",
+    "price": 0.83,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "9ab0d5acadc3e71e",
+    "supplierVariantId": "B-613-NE",
+    "stock": 6498,
+    "stockLevel": "in-stock",
+    "price": 0.83,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "e70ef6d54e36a0ce",
+    "supplierVariantId": "B-613-RO",
+    "stock": 2042,
+    "stockLevel": "in-stock",
+    "price": 0.83,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      8,
+      9,
+      10,
+      11
+    ]
+  }
+]

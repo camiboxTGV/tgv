@@ -1,0 +1,86 @@
+[
+  {
+    "contentKey": "12e2768ad7d06c5a",
+    "supplierVariantId": "C-430-LI",
+    "stock": 1,
+    "stockLevel": "low",
+    "price": 0.5,
+    "color": {
+      "name": "Lilac",
+      "hex": "#C8A2C8"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "15d1c6a7c10cfb6d",
+    "supplierVariantId": "C-430-NA",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.5,
+    "color": {
+      "name": "Orange",
+      "hex": "#FFA500"
+    },
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "3a7fd96d9917bc8e",
+    "supplierVariantId": "C-430-AM",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.5,
+    "color": {
+      "name": "Yellow",
+      "hex": "#FFFF00"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "a1d73761da4de406",
+    "supplierVariantId": "C-430-AZ",
+    "stock": 7942,
+    "stockLevel": "in-stock",
+    "price": 0.5,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "d6c7f5e25768ab7e",
+    "supplierVariantId": "C-430-VE",
+    "stock": 8000,
+    "stockLevel": "in-stock",
+    "price": 0.5,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      5
+    ]
+  },
+  {
+    "contentKey": "e37488b77b19b749",
+    "supplierVariantId": "C-430-RO",
+    "stock": 8000,
+    "stockLevel": "in-stock",
+    "price": 0.5,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      4
+    ]
+  }
+]

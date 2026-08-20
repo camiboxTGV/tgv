@@ -1,0 +1,47 @@
+[
+  {
+    "contentKey": "1a4245f48cde01f0",
+    "supplierVariantId": "Z-1801-RO",
+    "stock": 105,
+    "stockLevel": "in-stock",
+    "price": 1.49,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "3a4c5b8582b78ebb",
+    "supplierVariantId": "Z-1801-COCO",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 1.49,
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "contentKey": "5614f78ac044e2aa",
+    "supplierVariantId": "Z-1801-VE",
+    "stock": 188,
+    "stockLevel": "in-stock",
+    "price": 1.49,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      9
+    ]
+  }
+]

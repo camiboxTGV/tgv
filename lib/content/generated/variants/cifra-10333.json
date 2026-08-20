@@ -1,0 +1,104 @@
+[
+  {
+    "contentKey": "1b83272e23825aed",
+    "supplierVariantId": "10333-XS-BL",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 2.34,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "size": "XS",
+    "imageRefs": [
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "contentKey": "6c006697e401bccf",
+    "supplierVariantId": "10333-L-BL",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 2.34,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "size": "L",
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "76f00015d716b073",
+    "supplierVariantId": "10333-M-BL",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 2.34,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "size": "M",
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "7971193b36b2ea69",
+    "supplierVariantId": "10333-XXL-BL",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 2.34,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      15,
+      16,
+      17
+    ]
+  },
+  {
+    "contentKey": "d6ad7df385c5436e",
+    "supplierVariantId": "10333-XL-BL",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 2.34,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "size": "XL",
+    "imageRefs": [
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "e3b2ebe9130d6469",
+    "supplierVariantId": "10333-S-BL",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 2.34,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "size": "S",
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  }
+]

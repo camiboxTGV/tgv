@@ -1,0 +1,35 @@
+[
+  {
+    "contentKey": "c1c6a243a400e242",
+    "supplierVariantId": "D-024-NE",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 0.38,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "c72b4e8080b192fc",
+    "supplierVariantId": "D-024-PI",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 0.38,
+    "color": {
+      "name": "Stone",
+      "hex": "#8B8C7A"
+    },
+    "imageRefs": [
+      4,
+      5,
+      6
+    ]
+  }
+]

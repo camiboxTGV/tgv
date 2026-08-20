@@ -1,0 +1,44 @@
+[
+  {
+    "contentKey": "7a7e4f5e794ea7fa",
+    "supplierVariantId": "T-410",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.52,
+    "color": {
+      "name": "Brown",
+      "hex": "#800000"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "a33423e86f87e573",
+    "supplierVariantId": "T-410-NE",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.52,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "ec1f3dff121df5a6",
+    "supplierVariantId": "T-410-BU",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.52,
+    "color": {
+      "name": "Bordeaux",
+      "hex": "#5F021F"
+    },
+    "imageRefs": [
+      1
+    ]
+  }
+]

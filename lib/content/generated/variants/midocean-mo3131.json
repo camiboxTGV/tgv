@@ -28,8 +28,8 @@
   {
     "contentKey": "b085b5dfa32ed02e",
     "supplierVariantId": "MO3131-02",
-    "stock": 0,
-    "stockLevel": "out-of-stock",
+    "stock": 10000,
+    "stockLevel": "in-stock",
     "price": 0.9,
     "color": {
       "name": "Burgundy"
@@ -41,8 +41,8 @@
   {
     "contentKey": "f6deeee73abe6dbc",
     "supplierVariantId": "MO3131-85",
-    "stock": 0,
-    "stockLevel": "out-of-stock",
+    "stock": 20000,
+    "stockLevel": "in-stock",
     "price": 0.9,
     "color": {
       "name": "French Navy"

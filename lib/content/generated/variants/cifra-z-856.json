@@ -1,0 +1,77 @@
+[
+  {
+    "contentKey": "543598ed3c81c9aa",
+    "supplierVariantId": "Z-856-BL",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.65,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "73083c4e6ea603aa",
+    "supplierVariantId": "Z-856-NA",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 0.65,
+    "color": {
+      "name": "Orange",
+      "hex": "#FFA500"
+    },
+    "imageRefs": [
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "d7bf4f40c485ed09",
+    "supplierVariantId": "Z-856-PS",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 0.65,
+    "color": {
+      "name": "Pistachio",
+      "hex": "#93C572"
+    },
+    "imageRefs": [
+      3,
+      4
+    ]
+  },
+  {
+    "contentKey": "df167344e26d914b",
+    "supplierVariantId": "Z-856-RS",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 0.65,
+    "color": {
+      "name": "Pink",
+      "hex": "#FF1493"
+    },
+    "imageRefs": [
+      5,
+      6
+    ]
+  },
+  {
+    "contentKey": "fee86febfcbe97b8",
+    "supplierVariantId": "Z-856-RY",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 0.65,
+    "color": {
+      "name": "Royal",
+      "hex": "#2D3192"
+    },
+    "imageRefs": [
+      7,
+      8,
+      9
+    ]
+  }
+]

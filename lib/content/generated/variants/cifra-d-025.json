@@ -1,0 +1,105 @@
+[
+  {
+    "contentKey": "150114c94e9a4b3c",
+    "supplierVariantId": "D-025-RO",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.12,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      12,
+      13
+    ]
+  },
+  {
+    "contentKey": "5d7bcb0dc4609999",
+    "supplierVariantId": "D-025-CAT",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.12,
+    "color": {
+      "name": "Catalan flag"
+    },
+    "imageRefs": [
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "63b8aac37b80b860",
+    "supplierVariantId": "D-025-ESP",
+    "stock": 1758,
+    "stockLevel": "in-stock",
+    "price": 0.12,
+    "color": {
+      "name": "Spain Flag"
+    },
+    "imageRefs": [
+      8,
+      9
+    ]
+  },
+  {
+    "contentKey": "8ab5b6f97d9d8fe6",
+    "supplierVariantId": "D-025-AZ",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.12,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      2,
+      3
+    ]
+  },
+  {
+    "contentKey": "dffa9dfc016844d5",
+    "supplierVariantId": "D-025-BL",
+    "stock": 10000,
+    "stockLevel": "in-stock",
+    "price": 0.12,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "e0ce4db16ceb4859",
+    "supplierVariantId": "D-025-FU",
+    "stock": 6642,
+    "stockLevel": "in-stock",
+    "price": 0.12,
+    "color": {
+      "name": "Fuchsia",
+      "hex": "#FF00FF"
+    },
+    "imageRefs": [
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "e7a23f136be7a5f6",
+    "supplierVariantId": "D-025-AM",
+    "stock": 15000,
+    "stockLevel": "in-stock",
+    "price": 0.12,
+    "color": {
+      "name": "Yellow",
+      "hex": "#FFFF00"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  }
+]

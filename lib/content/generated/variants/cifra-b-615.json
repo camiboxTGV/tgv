@@ -1,0 +1,66 @@
+[
+  {
+    "contentKey": "2f489c12a6d5e0a7",
+    "supplierVariantId": "B-615-MA",
+    "stock": 1461,
+    "stockLevel": "in-stock",
+    "price": 0.9,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "8fb372b04b6ba0fc",
+    "supplierVariantId": "B-615-RO",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 0.9,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "a38f0ab23e4d20cd",
+    "supplierVariantId": "B-615-CR",
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "price": 0.9,
+    "color": {
+      "name": "Beige",
+      "hex": "#C2B280"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "b3ae640026a5489c",
+    "supplierVariantId": "B-615-NE",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 0.9,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  }
+]
