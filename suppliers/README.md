@@ -3,7 +3,7 @@
 Every supplier is isolated by `supplierId` and `supplierSku`. Product slugs, variants, reports,
 and downloaded image paths use that pair, so two suppliers may safely use the same SKU.
 
-The enabled production suppliers are Macma and midocean. Their API clients, payload types,
+The enabled production suppliers are Macma, midocean, and Cifra. Their API clients, payload types,
 category and decoration mappings, fixtures, and tests live in separate supplier directories;
 only the shared adapter contract and sync orchestration are common.
 
@@ -63,3 +63,13 @@ App Hosting rollout path filters do not ignore `lib/content/generated/**`.
 
 The fixture adapter is intentionally disabled. It exists only for local pipeline work and must not
 be enabled in a real catalog.
+
+### Cifra
+
+Cifra uses `CIFRA_API_TOKEN`; `CIFRA_API_BASE` defaults to
+`https://api.cifrashop.com` and `CIFRA_API_LANGUAGE` defaults to `en`. The typed
+client under `suppliers/cifra/fetch.ts` covers the public JSON/CSV catalog,
+confidential JSON/CSV tariff, novelties JSON/CSV, quantity-break prices, and
+web-order creation. Catalog and inventory syncs use the confidential tariff and
+price-range feeds. Order creation defaults to `commit: false`; production callers
+must explicitly opt into committing an order.

@@ -1,5 +1,5 @@
 import type { NextConfig } from "next";
-import { supplierImageRemotePatterns } from "./suppliers/suppliers";
+import { supplierImageRemotePatterns } from "./suppliers/image-sources";
 
 const nextConfig: NextConfig = {
   images: {

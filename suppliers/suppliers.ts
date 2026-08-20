@@ -1,11 +1,11 @@
 import type { SupplierAdapter } from "./_shared/adapter.ts"
-
-export interface SupplierImageSource {
-  protocol: "https"
-  hostname: string
-  port: string
-  pathnamePrefix: `/${string}`
-}
+import { supplierImageSources } from "./image-sources.ts"
+import type { SupplierImageSource } from "./image-sources.ts"
+export {
+  isSupplierImageUrlAllowed,
+  supplierImageRemotePatterns,
+} from "./image-sources.ts"
+export type { SupplierImageSource } from "./image-sources.ts"
 
 interface SupplierModule {
   adapter: SupplierAdapter
@@ -26,7 +26,7 @@ export const supplierDefinitions = [
     displayName: "Fixtures (pipeline proof)",
     enabled: false,
     allowProductsWithoutImages: true,
-    imageSources: [],
+    imageSources: supplierImageSources.fixtures,
     loadAdapter: () => import("./_fixtures/adapter.ts"),
   },
   {
@@ -34,14 +34,7 @@ export const supplierDefinitions = [
     displayName: "Macma",
     enabled: true,
     allowProductsWithoutImages: false,
-    imageSources: [
-      {
-        protocol: "https",
-        hostname: "macma.ro",
-        port: "",
-        pathnamePrefix: "/products/",
-      },
-    ],
+    imageSources: supplierImageSources.macma,
     loadAdapter: () => import("./macma/adapter.ts"),
   },
   {
@@ -49,49 +42,21 @@ export const supplierDefinitions = [
     displayName: "midocean",
     enabled: true,
     allowProductsWithoutImages: false,
-    imageSources: [
-      {
-        protocol: "https",
-        hostname: "cdn1.midocean.com",
-        port: "",
-        pathnamePrefix: "/image/",
-      },
-    ],
+    imageSources: supplierImageSources.midocean,
     loadAdapter: () => import("./midocean/adapter.ts"),
+  },
+  {
+    id: "cifra",
+    displayName: "Cifra",
+    enabled: true,
+    allowProductsWithoutImages: false,
+    imageSources: supplierImageSources.cifra,
+    loadAdapter: () => import("./cifra/adapter.ts"),
   },
 ] as const satisfies readonly SupplierDefinition[]
 
-export const supplierImageRemotePatterns = supplierDefinitions.flatMap((supplier) =>
-  supplier.imageSources.map((source) => ({
-    protocol: source.protocol,
-    hostname: source.hostname,
-    port: source.port,
-    pathname: `${source.pathnamePrefix}**`,
-  })),
-)
-
 export function getSupplierDefinition(id: string): SupplierDefinition | undefined {
   return supplierDefinitions.find((supplier) => supplier.id === id)
-}
-
-export function isSupplierImageUrlAllowed(supplierId: string, value: string): boolean {
-  const definition = getSupplierDefinition(supplierId)
-  if (!definition) return false
-
-  let url: URL
-  try {
-    url = new URL(value)
-  } catch {
-    return false
-  }
-
-  return definition.imageSources.some(
-    (source) =>
-      url.protocol === `${source.protocol}:` &&
-      url.hostname === source.hostname &&
-      url.port === source.port &&
-      url.pathname.startsWith(source.pathnamePrefix),
-  )
 }
 
 export function assertSupplierDefinitions(): void {

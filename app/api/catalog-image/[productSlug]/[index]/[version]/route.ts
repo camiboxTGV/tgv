@@ -1,6 +1,6 @@
 import sharp from "sharp"
 import { getCatalogImageSource } from "@/lib/content/catalog.server"
-import { isSupplierImageUrlAllowed } from "@/suppliers/suppliers"
+import { isSupplierImageUrlAllowed } from "@/suppliers/image-sources"
 
 export const runtime = "nodejs"
 

@@ -79,6 +79,12 @@ test("supplier definitions generate the same strict image allowlist used by Next
       port: "",
       pathname: "/image/**",
     },
+    {
+      protocol: "https",
+      hostname: "www.publicatalogue.com",
+      port: "",
+      pathname: "/image/cache/data/**",
+    },
   ])
   assert.equal(isSupplierImageUrlAllowed("macma", "https://macma.ro/products/a.jpg"), true)
   assert.equal(isSupplierImageUrlAllowed("macma", "http://macma.ro/products/a.jpg"), false)
@@ -95,6 +101,20 @@ test("supplier definitions generate the same strict image allowlist used by Next
     isSupplierImageUrlAllowed(
       "midocean",
       "https://cdn1.midocean.com/document/ar1249-green.pdf",
+    ),
+    false,
+  )
+  assert.equal(
+    isSupplierImageUrlAllowed(
+      "cifra",
+      "https://www.publicatalogue.com/image/cache/data/10010-N-500x500.jpg",
+    ),
+    true,
+  )
+  assert.equal(
+    isSupplierImageUrlAllowed(
+      "cifra",
+      "https://www.publicatalogue.com/image/catalog/private.jpg",
     ),
     false,
   )

@@ -76,6 +76,7 @@ jobs:
         env:
           MACMA_API_BASE: ${{ secrets.MACMA_API_BASE }}
           MIDOCEAN_API_KEY: ${{ secrets.MIDOCEAN_API_KEY }}
+          CIFRA_API_TOKEN: ${{ secrets.CIFRA_API_TOKEN }}
           MODE: ${{ steps.mode.outputs.mode }}
         run: |
           set -euo pipefail
@@ -91,6 +92,10 @@ jobs:
             echo "::error::Repository secret MIDOCEAN_API_KEY is missing."
             exit 1
           fi
+          if [[ -z "$CIFRA_API_TOKEN" ]]; then
+            echo "::error::Repository secret CIFRA_API_TOKEN is missing."
+            exit 1
+          fi
           if [[ "$MODE" != "inventory" && "$MODE" != "full" ]]; then
             echo "::error::Invalid sync mode: $MODE"
             exit 1
@@ -101,6 +106,7 @@ jobs:
         env:
           MACMA_API_BASE: ${{ secrets.MACMA_API_BASE }}
           MIDOCEAN_API_KEY: ${{ secrets.MIDOCEAN_API_KEY }}
+          CIFRA_API_TOKEN: ${{ secrets.CIFRA_API_TOKEN }}
           MODE: ${{ steps.mode.outputs.mode }}
           FORCE: ${{ inputs.force }}
         run: |
