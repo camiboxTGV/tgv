@@ -2,8 +2,8 @@
   {
     "contentKey": "0b76d8fe77f40a61",
     "supplierVariantId": "S04021-BG-XL",
-    "stock": 0,
-    "stockLevel": "out-of-stock",
+    "stock": 50,
+    "stockLevel": "in-stock",
     "price": 15.99,
     "color": {
       "name": "Burgundy"
@@ -16,8 +16,8 @@
   {
     "contentKey": "0ce52ef32b72c574",
     "supplierVariantId": "S04021-DC-M",
-    "stock": 0,
-    "stockLevel": "out-of-stock",
+    "stock": 110,
+    "stockLevel": "in-stock",
     "price": 15.99,
     "color": {
       "name": "Dark Chocolate"
@@ -30,8 +30,8 @@
   {
     "contentKey": "0d23221cb12bd344",
     "supplierVariantId": "S04021-DC-XXL",
-    "stock": 0,
-    "stockLevel": "out-of-stock",
+    "stock": 50,
+    "stockLevel": "in-stock",
     "price": 15.99,
     "color": {
       "name": "Dark Chocolate"
@@ -58,8 +58,8 @@
   {
     "contentKey": "1c3591201da93b08",
     "supplierVariantId": "S04021-DC-L",
-    "stock": 0,
-    "stockLevel": "out-of-stock",
+    "stock": 70,
+    "stockLevel": "in-stock",
     "price": 15.99,
     "color": {
       "name": "Dark Chocolate"
@@ -72,7 +72,7 @@
   {
     "contentKey": "1d1927899ccfce0e",
     "supplierVariantId": "S04021-BK-M",
-    "stock": 5333,
+    "stock": 5336,
     "stockLevel": "in-stock",
     "price": 15.99,
     "color": {
@@ -114,8 +114,8 @@
   {
     "contentKey": "26361676383a7113",
     "supplierVariantId": "S04021-DC-S",
-    "stock": 0,
-    "stockLevel": "out-of-stock",
+    "stock": 80,
+    "stockLevel": "in-stock",
     "price": 15.99,
     "color": {
       "name": "Dark Chocolate"
@@ -184,8 +184,8 @@
   {
     "contentKey": "30eabb91231ea7ae",
     "supplierVariantId": "S04021-BG-XXL",
-    "stock": 0,
-    "stockLevel": "out-of-stock",
+    "stock": 50,
+    "stockLevel": "in-stock",
     "price": 15.99,
     "color": {
       "name": "Burgundy"
@@ -212,8 +212,8 @@
   {
     "contentKey": "31fc19ffd8e78513",
     "supplierVariantId": "S04021-BG-L",
-    "stock": 0,
-    "stockLevel": "out-of-stock",
+    "stock": 80,
+    "stockLevel": "in-stock",
     "price": 15.99,
     "color": {
       "name": "Burgundy"
@@ -226,7 +226,7 @@
   {
     "contentKey": "3c2937c502574c42",
     "supplierVariantId": "S04021-FG-XL",
-    "stock": 30,
+    "stock": 25,
     "stockLevel": "in-stock",
     "price": 15.99,
     "color": {
@@ -240,8 +240,8 @@
   {
     "contentKey": "3d84d80b9bc44ca4",
     "supplierVariantId": "S04021-BG-M",
-    "stock": 0,
-    "stockLevel": "out-of-stock",
+    "stock": 110,
+    "stockLevel": "in-stock",
     "price": 15.99,
     "color": {
       "name": "Burgundy"
@@ -254,7 +254,7 @@
   {
     "contentKey": "49f836642185c1c6",
     "supplierVariantId": "S04021-BK-L",
-    "stock": 3479,
+    "stock": 3480,
     "stockLevel": "in-stock",
     "price": 15.99,
     "color": {
@@ -338,7 +338,7 @@
   {
     "contentKey": "65d41fc2c7eec846",
     "supplierVariantId": "S04021-AR-S",
-    "stock": 96,
+    "stock": 66,
     "stockLevel": "in-stock",
     "price": 15.99,
     "color": {
@@ -380,7 +380,7 @@
   {
     "contentKey": "6b4de1ee4ede05ed",
     "supplierVariantId": "S04021-FG-S",
-    "stock": 50,
+    "stock": 46,
     "stockLevel": "in-stock",
     "price": 15.99,
     "color": {
@@ -450,7 +450,7 @@
   {
     "contentKey": "755f57350ba9efd7",
     "supplierVariantId": "S04021-FG-M",
-    "stock": 70,
+    "stock": 65,
     "stockLevel": "in-stock",
     "price": 15.99,
     "color": {
@@ -464,7 +464,7 @@
   {
     "contentKey": "8388d49392d8a98e",
     "supplierVariantId": "S04021-BK-XXL",
-    "stock": 173,
+    "stock": 178,
     "stockLevel": "in-stock",
     "price": 15.99,
     "color": {
@@ -492,8 +492,8 @@
   {
     "contentKey": "9630a733ac9ea8cc",
     "supplierVariantId": "S04021-FG-XXL",
-    "stock": 10,
-    "stockLevel": "in-stock",
+    "stock": 5,
+    "stockLevel": "low",
     "price": 15.99,
     "color": {
       "name": "Forest Green"
@@ -506,7 +506,7 @@
   {
     "contentKey": "a616beb892f0ae60",
     "supplierVariantId": "S04021-BK-S",
-    "stock": 2343,
+    "stock": 2315,
     "stockLevel": "in-stock",
     "price": 15.99,
     "color": {
@@ -520,8 +520,8 @@
   {
     "contentKey": "a833e1d48c2f20ff",
     "supplierVariantId": "S04021-BG-S",
-    "stock": 0,
-    "stockLevel": "out-of-stock",
+    "stock": 80,
+    "stockLevel": "in-stock",
     "price": 15.99,
     "color": {
       "name": "Burgundy"
@@ -534,7 +534,7 @@
   {
     "contentKey": "a9ed879175394ff8",
     "supplierVariantId": "S04021-AR-XL",
-    "stock": 25,
+    "stock": 10,
     "stockLevel": "in-stock",
     "price": 15.99,
     "color": {
@@ -562,7 +562,7 @@
   {
     "contentKey": "b48c3f940d0db581",
     "supplierVariantId": "S04021-FG-L",
-    "stock": 50,
+    "stock": 33,
     "stockLevel": "in-stock",
     "price": 15.99,
     "color": {
@@ -576,7 +576,7 @@
   {
     "contentKey": "bd6ce95e54a6b0c2",
     "supplierVariantId": "S04021-BK-XL",
-    "stock": 200,
+    "stock": 205,
     "stockLevel": "in-stock",
     "price": 15.99,
     "color": {
@@ -590,7 +590,7 @@
   {
     "contentKey": "c06847fb82db39e0",
     "supplierVariantId": "S04021-FN-S",
-    "stock": 387,
+    "stock": 347,
     "stockLevel": "in-stock",
     "price": 15.99,
     "color": {
@@ -744,8 +744,8 @@
   {
     "contentKey": "f86bdc6e94811bf6",
     "supplierVariantId": "S04021-DC-XL",
-    "stock": 0,
-    "stockLevel": "out-of-stock",
+    "stock": 50,
+    "stockLevel": "in-stock",
     "price": 15.99,
     "color": {
       "name": "Dark Chocolate"
