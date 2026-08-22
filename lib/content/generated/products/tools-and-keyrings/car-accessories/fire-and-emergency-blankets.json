@@ -50,14 +50,14 @@
     ],
     "price": 10.99,
     "priceFrom": false,
-    "stock": 42,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo6386-05.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6386-05b.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6386-05-detail.jpg"
     ],
-    "fetchedAt": "2026-08-21T03:59:11.826Z",
+    "fetchedAt": "2026-08-22T03:55:30.512Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -272,7 +272,7 @@
     ],
     "price": 5.86,
     "priceFrom": false,
-    "stock": 1198,
+    "stock": 1647,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo8373-05.jpg",
@@ -281,7 +281,7 @@
       "https://cdn1.midocean.com/image/700X700/mo8373-05-top.jpg",
       "https://cdn1.midocean.com/image/700X700/mo8373-05-ambiant.jpg"
     ],
-    "fetchedAt": "2026-08-21T03:59:11.826Z",
+    "fetchedAt": "2026-08-22T03:55:30.512Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

@@ -163,7 +163,7 @@
   {
     "contentKey": "2005f0f31015db0d",
     "supplierVariantId": "ST2300-WHI-XL",
-    "stock": 4644,
+    "stock": 4548,
     "stockLevel": "in-stock",
     "price": 3.09,
     "color": {
@@ -223,7 +223,7 @@
   {
     "contentKey": "2a1c5e61e8f52482",
     "supplierVariantId": "ST2300-BLM-L",
-    "stock": 864,
+    "stock": 768,
     "stockLevel": "in-stock",
     "price": 3.77,
     "color": {
@@ -266,8 +266,8 @@
   {
     "contentKey": "2d5fffbb595626c3",
     "supplierVariantId": "ST2300-DBY-L",
-    "stock": 96,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 3.77,
     "color": {
       "name": "Deep Berry",
@@ -353,7 +353,7 @@
   {
     "contentKey": "341c62d7cd3b600c",
     "supplierVariantId": "ST2300-BLM-XXL",
-    "stock": 288,
+    "stock": 192,
     "stockLevel": "in-stock",
     "price": 3.77,
     "color": {
@@ -397,7 +397,7 @@
   {
     "contentKey": "3cc8bb70260781c5",
     "supplierVariantId": "ST2300-BLM-XL",
-    "stock": 480,
+    "stock": 384,
     "stockLevel": "in-stock",
     "price": 3.77,
     "color": {
@@ -440,7 +440,7 @@
   {
     "contentKey": "446446cac8ea549d",
     "supplierVariantId": "ST2300-BLM-M",
-    "stock": 1152,
+    "stock": 1056,
     "stockLevel": "in-stock",
     "price": 3.77,
     "color": {
@@ -735,7 +735,7 @@
   {
     "contentKey": "77a9ab45c020c693",
     "supplierVariantId": "ST2300-NAV-XXL",
-    "stock": 672,
+    "stock": 576,
     "stockLevel": "in-stock",
     "price": 3.77,
     "color": {
@@ -939,7 +939,7 @@
   {
     "contentKey": "a0ae353140ce5345",
     "supplierVariantId": "ST2300-WHI-XXL",
-    "stock": 2129,
+    "stock": 2033,
     "stockLevel": "in-stock",
     "price": 3.09,
     "color": {
@@ -1013,7 +1013,7 @@
   {
     "contentKey": "ae6c9c8b0842a12f",
     "supplierVariantId": "ST2300-NAV-L",
-    "stock": 1248,
+    "stock": 1152,
     "stockLevel": "in-stock",
     "price": 3.77,
     "color": {
@@ -1191,7 +1191,7 @@
   {
     "contentKey": "da6c140e5c11eddd",
     "supplierVariantId": "ST2300-WHI-S",
-    "stock": 1753,
+    "stock": 1369,
     "stockLevel": "in-stock",
     "price": 3.09,
     "color": {
@@ -1311,7 +1311,7 @@
   {
     "contentKey": "ff9b766ef7d83e2e",
     "supplierVariantId": "ST2300-DBY-M",
-    "stock": 2592,
+    "stock": 2496,
     "stockLevel": "in-stock",
     "price": 3.77,
     "color": {

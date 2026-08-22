@@ -46,7 +46,7 @@
   {
     "contentKey": "2fb4830c879ec582",
     "supplierVariantId": "ST9050-MAB-L",
-    "stock": 48,
+    "stock": 24,
     "stockLevel": "in-stock",
     "price": 9.41,
     "color": {
@@ -165,7 +165,7 @@
   {
     "contentKey": "784ffa51cb65e4db",
     "supplierVariantId": "ST9050-MAB-M",
-    "stock": 216,
+    "stock": 192,
     "stockLevel": "in-stock",
     "price": 9.41,
     "color": {
@@ -312,8 +312,8 @@
   {
     "contentKey": "eb4b98e8e2f564cb",
     "supplierVariantId": "ST9050-MAB-XL",
-    "stock": 24,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 9.41,
     "color": {
       "name": "Marina Blue",
