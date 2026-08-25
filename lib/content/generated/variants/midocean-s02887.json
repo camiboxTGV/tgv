@@ -30,8 +30,8 @@
   {
     "contentKey": "34b1957b403ddfee",
     "supplierVariantId": "S02887-RB-XL",
-    "stock": 10,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 12.84,
     "color": {
       "name": "Royal Blue"
@@ -72,8 +72,8 @@
   {
     "contentKey": "4a904ff2b4c8a042",
     "supplierVariantId": "S02887-RB-M",
-    "stock": 11,
-    "stockLevel": "in-stock",
+    "stock": 1,
+    "stockLevel": "low",
     "price": 12.84,
     "color": {
       "name": "Royal Blue"
@@ -100,8 +100,8 @@
   {
     "contentKey": "69ff362ca1d31314",
     "supplierVariantId": "S02887-RB-XXL",
-    "stock": 15,
-    "stockLevel": "in-stock",
+    "stock": 5,
+    "stockLevel": "low",
     "price": 12.84,
     "color": {
       "name": "Royal Blue"

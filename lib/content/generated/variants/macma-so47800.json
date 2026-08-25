@@ -42,7 +42,7 @@
   {
     "contentKey": "3a49addec004a7ed",
     "supplierVariantId": "SO47800BL-M",
-    "stock": 306,
+    "stock": 256,
     "stockLevel": "in-stock",
     "price": 12.75,
     "color": {
@@ -62,7 +62,7 @@
   {
     "contentKey": "3e2d71079744249d",
     "supplierVariantId": "SO47800BL-L",
-    "stock": 203,
+    "stock": 103,
     "stockLevel": "in-stock",
     "price": 12.75,
     "color": {
@@ -102,7 +102,7 @@
   {
     "contentKey": "4bc523ddd7b7f1d9",
     "supplierVariantId": "SO47800BL-S",
-    "stock": 59,
+    "stock": 25,
     "stockLevel": "in-stock",
     "price": 12.75,
     "color": {
@@ -142,8 +142,8 @@
   {
     "contentKey": "6b22dee89e798ddf",
     "supplierVariantId": "SO47800BL-XL",
-    "stock": 103,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 12.75,
     "color": {
       "name": "Black",
@@ -218,8 +218,8 @@
   {
     "contentKey": "f30ac00ffbdc3d6c",
     "supplierVariantId": "SO47800BL-2XL",
-    "stock": 53,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 12.75,
     "color": {
       "name": "Black",

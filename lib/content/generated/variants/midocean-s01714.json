@@ -100,8 +100,8 @@
   {
     "contentKey": "1aaa8e490245c9ec",
     "supplierVariantId": "S01714-WH-M",
-    "stock": 10,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 11.67,
     "color": {
       "name": "White"
@@ -296,7 +296,7 @@
   {
     "contentKey": "50df35b86c330a55",
     "supplierVariantId": "S01714-BK-M",
-    "stock": 4288,
+    "stock": 4287,
     "stockLevel": "in-stock",
     "price": 13.73,
     "color": {
@@ -394,7 +394,7 @@
   {
     "contentKey": "828caff14f5d3935",
     "supplierVariantId": "S01714-FN-XS",
-    "stock": 1119,
+    "stock": 1110,
     "stockLevel": "in-stock",
     "price": 13.73,
     "color": {
@@ -506,7 +506,7 @@
   {
     "contentKey": "a85b46d141ff2993",
     "supplierVariantId": "S01714-RD-XXL",
-    "stock": 248,
+    "stock": 247,
     "stockLevel": "in-stock",
     "price": 13.73,
     "color": {
@@ -520,7 +520,7 @@
   {
     "contentKey": "ac934d724299ac0f",
     "supplierVariantId": "S01714-FN-S",
-    "stock": 628,
+    "stock": 621,
     "stockLevel": "in-stock",
     "price": 13.73,
     "color": {
@@ -576,7 +576,7 @@
   {
     "contentKey": "b82dac50e2bbf9ba",
     "supplierVariantId": "S01714-WH-XL",
-    "stock": 7,
+    "stock": 2,
     "stockLevel": "low",
     "price": 11.67,
     "color": {
@@ -674,7 +674,7 @@
   {
     "contentKey": "e79f922c731e8f58",
     "supplierVariantId": "S01714-FN-M",
-    "stock": 6100,
+    "stock": 6093,
     "stockLevel": "in-stock",
     "price": 13.73,
     "color": {
@@ -702,7 +702,7 @@
   {
     "contentKey": "ef3622ebc2eb6997",
     "supplierVariantId": "S01714-FN-L",
-    "stock": 5186,
+    "stock": 5184,
     "stockLevel": "in-stock",
     "price": 13.73,
     "color": {
@@ -730,7 +730,7 @@
   {
     "contentKey": "f62c29056a0fc12c",
     "supplierVariantId": "S01714-KG-L",
-    "stock": 94,
+    "stock": 34,
     "stockLevel": "in-stock",
     "price": 13.73,
     "color": {
@@ -758,7 +758,7 @@
   {
     "contentKey": "fa7df42ded35e2d3",
     "supplierVariantId": "S01714-BK-XL",
-    "stock": 3392,
+    "stock": 3391,
     "stockLevel": "in-stock",
     "price": 13.73,
     "color": {

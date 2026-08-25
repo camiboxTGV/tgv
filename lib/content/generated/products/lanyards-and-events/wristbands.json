@@ -1375,15 +1375,15 @@
     ],
     "price": 0.41,
     "priceFrom": false,
-    "stock": 0,
-    "stockLevel": "out-of-stock",
+    "stock": 5000,
+    "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/10989-MR-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10989-MR-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/10989-VE-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10989-VE-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-08-25T03:58:32.356Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -2227,7 +2227,7 @@
     ],
     "price": 0.05,
     "priceFrom": false,
-    "stock": 137659,
+    "stock": 137559,
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/C-005-AM-500x500.jpg",
@@ -2256,7 +2256,7 @@
       "https://www.publicatalogue.com/image/cache/data/C-005-VE-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/C-005-VE-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-08-25T03:58:32.356Z",
     "variantCount": 12,
     "colorCount": 11,
     "sizeCount": 0,
@@ -2493,7 +2493,7 @@
     ],
     "price": 0.08,
     "priceFrom": false,
-    "stock": 45062,
+    "stock": 44812,
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/C-005-ESP-500x500.jpg",
@@ -2503,7 +2503,7 @@
       "https://www.publicatalogue.com/image/cache/data/C-005-ESP-VE-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/C-005-ESP-VE-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-08-25T03:58:32.356Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -2802,7 +2802,7 @@
     ],
     "price": 0.08,
     "priceFrom": false,
-    "stock": 104963,
+    "stock": 104022,
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/C-439-AM-500x500.jpg",
@@ -2836,7 +2836,7 @@
       "https://www.publicatalogue.com/image/cache/data/details/C-439-VE-FL-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/C-439-VE-FL-02-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-08-25T03:58:32.356Z",
     "variantCount": 10,
     "colorCount": 9,
     "sizeCount": 0,
@@ -4638,7 +4638,7 @@
     ],
     "price": 0.21,
     "priceFrom": false,
-    "stock": 148905,
+    "stock": 148743,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo6706-03.jpg",
@@ -4651,7 +4651,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6706-38.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6706-48.jpg"
     ],
-    "fetchedAt": "2026-08-24T04:03:36.785Z",
+    "fetchedAt": "2026-08-25T03:58:28.655Z",
     "variantCount": 9,
     "colorCount": 9,
     "sizeCount": 0,
@@ -4769,7 +4769,7 @@
     ],
     "price": 0.15,
     "priceFrom": false,
-    "stock": 951580,
+    "stock": 943045,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo8913-10.jpg",
@@ -4781,7 +4781,7 @@
       "https://cdn1.midocean.com/image/700X700/mo8913-08.jpg",
       "https://cdn1.midocean.com/image/700X700/mo8913-38.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:10.287Z",
+    "fetchedAt": "2026-08-25T03:58:28.655Z",
     "variantCount": 8,
     "colorCount": 8,
     "sizeCount": 0,
@@ -4898,7 +4898,7 @@
     ],
     "price": 0.36,
     "priceFrom": false,
-    "stock": 296278,
+    "stock": 295669,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo8942-03.jpg",
@@ -4916,7 +4916,7 @@
       "https://cdn1.midocean.com/image/700X700/mo8942-03-back.jpg",
       "https://cdn1.midocean.com/image/700X700/mo8942-03-detail.jpg"
     ],
-    "fetchedAt": "2026-08-24T04:03:36.785Z",
+    "fetchedAt": "2026-08-25T03:58:28.655Z",
     "variantCount": 12,
     "colorCount": 12,
     "sizeCount": 0,
