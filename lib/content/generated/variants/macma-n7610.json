@@ -32,7 +32,7 @@
   {
     "contentKey": "0d22349a5d483cc4",
     "supplierVariantId": "N7610-W002-XS",
-    "stock": 144,
+    "stock": 360,
     "stockLevel": "in-stock",
     "price": 5.21,
     "color": {
@@ -47,7 +47,7 @@
   {
     "contentKey": "12e8e45b38c2dcf4",
     "supplierVariantId": "N7610-T001-L",
-    "stock": 360,
+    "stock": 288,
     "stockLevel": "in-stock",
     "price": 5.21,
     "color": {
@@ -107,7 +107,7 @@
   {
     "contentKey": "21c6736f6eee6492",
     "supplierVariantId": "N7610-T001-S",
-    "stock": 288,
+    "stock": 216,
     "stockLevel": "in-stock",
     "price": 5.21,
     "color": {
@@ -207,8 +207,8 @@
   {
     "contentKey": "3fa9d7087c7d6aa0",
     "supplierVariantId": "N7610-W002-XXL",
-    "stock": 144,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 5.21,
     "color": {
       "name": "White",
@@ -281,7 +281,7 @@
   {
     "contentKey": "519091479717ea5d",
     "supplierVariantId": "N7610-W002-M",
-    "stock": 720,
+    "stock": 1080,
     "stockLevel": "in-stock",
     "price": 5.21,
     "color": {
@@ -296,8 +296,8 @@
   {
     "contentKey": "5d294c95fdef4fe6",
     "supplierVariantId": "N7610-W002-XL",
-    "stock": 432,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 5.21,
     "color": {
       "name": "White",
@@ -326,7 +326,7 @@
   {
     "contentKey": "6d766aefd6495d6c",
     "supplierVariantId": "N7610-B001-S",
-    "stock": 1080,
+    "stock": 1512,
     "stockLevel": "in-stock",
     "price": 5.21,
     "color": {
@@ -341,7 +341,7 @@
   {
     "contentKey": "862088f57987eb77",
     "supplierVariantId": "N7610-W002-L",
-    "stock": 936,
+    "stock": 432,
     "stockLevel": "in-stock",
     "price": 5.21,
     "color": {
@@ -371,7 +371,7 @@
   {
     "contentKey": "949e974b633e9ec3",
     "supplierVariantId": "N7610-B001-XL",
-    "stock": 216,
+    "stock": 144,
     "stockLevel": "in-stock",
     "price": 5.21,
     "color": {
@@ -416,7 +416,7 @@
   {
     "contentKey": "a73c8da2b55b9846",
     "supplierVariantId": "N7610-B009-L",
-    "stock": 576,
+    "stock": 504,
     "stockLevel": "in-stock",
     "price": 5.21,
     "color": {
@@ -504,7 +504,7 @@
   {
     "contentKey": "c8dc0c7b46a63215",
     "supplierVariantId": "N7610-B001-M",
-    "stock": 1368,
+    "stock": 1872,
     "stockLevel": "in-stock",
     "price": 5.21,
     "color": {
@@ -577,7 +577,7 @@
   {
     "contentKey": "d8662e3952ef212b",
     "supplierVariantId": "N7610-W002-S",
-    "stock": 864,
+    "stock": 1224,
     "stockLevel": "in-stock",
     "price": 5.21,
     "color": {

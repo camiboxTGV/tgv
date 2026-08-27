@@ -2,7 +2,7 @@
   {
     "contentKey": "03e040a7a28f9175",
     "supplierVariantId": "MO2107-16",
-    "stock": 4857,
+    "stock": 4119,
     "stockLevel": "in-stock",
     "price": 4.16,
     "color": {
@@ -80,8 +80,8 @@
   {
     "contentKey": "a2d6af83bbd6678d",
     "supplierVariantId": "MO2107-05",
-    "stock": 78,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 4.16,
     "color": {
       "name": "Red"
@@ -93,7 +93,7 @@
   {
     "contentKey": "ab0d5f3999f9674c",
     "supplierVariantId": "MO2107-38",
-    "stock": 3147,
+    "stock": 3047,
     "stockLevel": "in-stock",
     "price": 4.16,
     "color": {
@@ -106,8 +106,8 @@
   {
     "contentKey": "c581ad364313c1bb",
     "supplierVariantId": "MO2107-04",
-    "stock": 0,
-    "stockLevel": "out-of-stock",
+    "stock": 1,
+    "stockLevel": "low",
     "price": 4.16,
     "color": {
       "name": "Blue"
@@ -119,7 +119,7 @@
   {
     "contentKey": "ccd6602b1dc941a1",
     "supplierVariantId": "MO2107-85",
-    "stock": 3871,
+    "stock": 2660,
     "stockLevel": "in-stock",
     "price": 4.16,
     "color": {
@@ -132,8 +132,8 @@
   {
     "contentKey": "f2bd230ee269ebe0",
     "supplierVariantId": "MO2107-09",
-    "stock": 23,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 4.16,
     "color": {
       "name": "Green"

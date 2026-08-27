@@ -2,8 +2,8 @@
   {
     "contentKey": "0ff1afaa92b5b5a4",
     "supplierVariantId": "MO9532-38",
-    "stock": 50,
-    "stockLevel": "in-stock",
+    "stock": 3,
+    "stockLevel": "low",
     "price": 1.37,
     "color": {
       "name": "Fuchsia"
@@ -41,8 +41,8 @@
   {
     "contentKey": "4fff2e49b97f234c",
     "supplierVariantId": "MO9532-06",
-    "stock": 1,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 1.37,
     "color": {
       "name": "White"
@@ -54,7 +54,7 @@
   {
     "contentKey": "55b1365e66e9604f",
     "supplierVariantId": "MO9532-37",
-    "stock": 4488,
+    "stock": 3355,
     "stockLevel": "in-stock",
     "price": 1.37,
     "color": {

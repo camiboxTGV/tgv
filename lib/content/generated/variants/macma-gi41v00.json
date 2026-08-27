@@ -49,7 +49,7 @@
   {
     "contentKey": "5ade1a53ddf83c10",
     "supplierVariantId": "GI41V00RO-XL",
-    "stock": 1030,
+    "stock": 1026,
     "stockLevel": "in-stock",
     "price": 1.83,
     "color": {
@@ -65,7 +65,7 @@
   {
     "contentKey": "60ce1c21c792d93a",
     "supplierVariantId": "GI41V00RE-M",
-    "stock": 560,
+    "stock": 559,
     "stockLevel": "in-stock",
     "price": 1.5,
     "color": {
@@ -112,7 +112,7 @@
   {
     "contentKey": "9b99fe44ec8971cc",
     "supplierVariantId": "GI41V00RE-2XL",
-    "stock": 415,
+    "stock": 409,
     "stockLevel": "in-stock",
     "price": 1.5,
     "color": {
@@ -143,8 +143,8 @@
   {
     "contentKey": "9f067286d9f450b5",
     "supplierVariantId": "GI41V00HE-XL",
-    "stock": 1,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 1.5,
     "color": {
       "name": "Heliconia",
@@ -159,7 +159,7 @@
   {
     "contentKey": "a530c71def2484b6",
     "supplierVariantId": "GI41V00RE-L",
-    "stock": 4568,
+    "stock": 4564,
     "stockLevel": "in-stock",
     "price": 1.5,
     "color": {
@@ -255,7 +255,7 @@
   {
     "contentKey": "fb4555de489601a6",
     "supplierVariantId": "GI41V00RO-S",
-    "stock": 938,
+    "stock": 936,
     "stockLevel": "in-stock",
     "price": 1.83,
     "color": {

@@ -25,13 +25,13 @@
     ],
     "price": 0.66,
     "priceFrom": false,
-    "stock": 2001,
+    "stock": 1001,
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/Z-039-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/Z-039-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-08-27T14:09:14.901Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,
@@ -118,7 +118,7 @@
     ],
     "price": 7.49,
     "priceFrom": false,
-    "stock": 2384,
+    "stock": 2337,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/2008106_0.jpg",
@@ -132,7 +132,7 @@
       "https://macma.ro/products/jpg/M/2008106_9.jpg",
       "https://macma.ro/products/jpg/M/2008106_box.jpg"
     ],
-    "fetchedAt": "2026-08-25T03:58:53.336Z",
+    "fetchedAt": "2026-08-27T14:09:33.216Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -590,7 +590,7 @@
     ],
     "price": 2.82,
     "priceFrom": false,
-    "stock": 2618,
+    "stock": 2617,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/3498403_0.jpg",
@@ -602,7 +602,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/3498403_lifestyle_1.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/3498403_lifestyle_2.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:42.738Z",
+    "fetchedAt": "2026-08-27T14:09:33.216Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -775,7 +775,7 @@
     ],
     "price": 14.42,
     "priceFrom": false,
-    "stock": 1398,
+    "stock": 1395,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/3524903.jpg",
@@ -786,7 +786,7 @@
       "https://macma.ro/products/jpg/M/3524903_4.jpg",
       "https://macma.ro/products/jpg/M/3524903_5.jpg"
     ],
-    "fetchedAt": "2026-08-25T03:58:53.336Z",
+    "fetchedAt": "2026-08-27T14:09:33.216Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -868,8 +868,8 @@
     ],
     "price": 5.65,
     "priceFrom": false,
-    "stock": 1,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "images": [
       "https://macma.ro/products/jpg/M/3538403_1.jpg",
       "https://macma.ro/products/jpg/M/3538403_2.jpg",
@@ -879,7 +879,7 @@
       "https://macma.ro/products/jpg/M/3538403_6.jpg",
       "https://macma.ro/products/jpg/M/3538403_7.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:42.738Z",
+    "fetchedAt": "2026-08-27T14:09:33.216Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1044,7 +1044,7 @@
     ],
     "price": 3.13,
     "priceFrom": false,
-    "stock": 612,
+    "stock": 412,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/4039406_0.jpg",
@@ -1057,7 +1057,7 @@
       "https://macma.ro/products/jpg/M/4039406_box.jpg",
       "https://macma.ro/products/jpg/M/4039406_print.jpg"
     ],
-    "fetchedAt": "2026-08-25T03:58:53.336Z",
+    "fetchedAt": "2026-08-27T14:09:33.216Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1242,8 +1242,8 @@
     ],
     "price": 0.26,
     "priceFrom": false,
-    "stock": 6946,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "images": [
       "https://macma.ro/products/jpg/M/5046406_0.jpg",
       "https://macma.ro/products/jpg/M/5046406_1.jpg",
@@ -1254,7 +1254,7 @@
       "https://macma.ro/products/jpg/M/5046403_2.jpg",
       "https://macma.ro/products/jpg/M/5046403_3.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:42.738Z",
+    "fetchedAt": "2026-08-27T14:09:33.216Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 1,
@@ -1612,7 +1612,7 @@
     ],
     "price": 6.82,
     "priceFrom": false,
-    "stock": 793,
+    "stock": 791,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/6142907_0.jpg",
@@ -1624,7 +1624,7 @@
       "https://macma.ro/products/jpg/M/6142907_6.jpg",
       "https://macma.ro/products/jpg/M/6142907_7.jpg"
     ],
-    "fetchedAt": "2026-08-25T03:58:53.336Z",
+    "fetchedAt": "2026-08-27T14:09:33.216Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1801,7 +1801,7 @@
     ],
     "price": 0.81,
     "priceFrom": false,
-    "stock": 52684,
+    "stock": 51682,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/6312505_0.jpg",
@@ -1823,7 +1823,7 @@
       "https://macma.ro/products/jpg/M/6312503_2.jpg",
       "https://macma.ro/products/jpg/M/6312503_3.jpg"
     ],
-    "fetchedAt": "2026-08-25T03:58:53.336Z",
+    "fetchedAt": "2026-08-27T14:09:33.216Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -1922,7 +1922,7 @@
     ],
     "price": 6.38,
     "priceFrom": false,
-    "stock": 5537,
+    "stock": 5486,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/6323101_group.jpg",
@@ -1932,7 +1932,7 @@
       "https://macma.ro/products/jpg/M/6323101_4.jpg",
       "https://macma.ro/products/jpg/M/6323101_box.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:42.738Z",
+    "fetchedAt": "2026-08-27T14:09:33.216Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2012,7 +2012,7 @@
     ],
     "price": 2.67,
     "priceFrom": false,
-    "stock": 6839,
+    "stock": 6838,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/6353303_0.jpg",
@@ -2021,7 +2021,7 @@
       "https://macma.ro/products/jpg/M/6353303_3.jpg",
       "https://macma.ro/products/jpg/M/6353303_box.jpg"
     ],
-    "fetchedAt": "2026-08-25T03:58:53.336Z",
+    "fetchedAt": "2026-08-27T14:09:33.216Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2207,7 +2207,7 @@
     ],
     "price": 1.99,
     "priceFrom": false,
-    "stock": 7854,
+    "stock": 7754,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/6454377_group.jpg",
@@ -2215,7 +2215,7 @@
       "https://macma.ro/products/jpg/M/6454377_2.jpg",
       "https://macma.ro/products/jpg/M/6454377_3.jpg"
     ],
-    "fetchedAt": "2026-08-25T03:58:53.336Z",
+    "fetchedAt": "2026-08-27T14:09:33.216Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2306,7 +2306,7 @@
     ],
     "price": 11.06,
     "priceFrom": false,
-    "stock": 2544,
+    "stock": 2543,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/6545944_0.jpg",
@@ -2316,7 +2316,7 @@
       "https://macma.ro/products/jpg/M/6545944_4.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/6545944_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-25T03:58:53.336Z",
+    "fetchedAt": "2026-08-27T14:09:33.216Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2407,7 +2407,7 @@
     ],
     "price": 4.13,
     "priceFrom": false,
-    "stock": 2692,
+    "stock": 2452,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/6548903_1.jpg",
@@ -2415,7 +2415,7 @@
       "https://macma.ro/products/jpg/M/6548903_3.jpg",
       "https://macma.ro/products/jpg/M/6548903_4.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:42.738Z",
+    "fetchedAt": "2026-08-27T14:09:33.216Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2573,12 +2573,12 @@
     ],
     "price": 0.75,
     "priceFrom": false,
-    "stock": 21256,
+    "stock": 18805,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/other/7077404_1.jpg"
     ],
-    "fetchedAt": "2026-08-25T03:58:53.336Z",
+    "fetchedAt": "2026-08-27T14:09:33.216Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2747,7 +2747,7 @@
     ],
     "price": 0.3,
     "priceFrom": false,
-    "stock": 59626,
+    "stock": 53376,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/7385466_0.jpg",
@@ -2757,7 +2757,7 @@
       "https://macma.ro/products/jpg/M/7385404_1.jpg",
       "https://macma.ro/products/jpg/M/7385404_2.jpg"
     ],
-    "fetchedAt": "2026-08-25T03:58:53.336Z",
+    "fetchedAt": "2026-08-27T14:09:33.216Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -2848,7 +2848,7 @@
     ],
     "price": 4.3,
     "priceFrom": false,
-    "stock": 12176,
+    "stock": 11636,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/7401203_group.jpg",
@@ -2865,7 +2865,7 @@
       "https://macma.ro/products/jpg/M/7401206_3.jpg",
       "https://macma.ro/products/jpg/M/7401206_box.jpg"
     ],
-    "fetchedAt": "2026-08-25T03:58:53.336Z",
+    "fetchedAt": "2026-08-27T14:09:33.216Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -2949,7 +2949,7 @@
     ],
     "price": 0.34,
     "priceFrom": false,
-    "stock": 9004,
+    "stock": 11004,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/7434013.jpg",
@@ -2959,7 +2959,7 @@
       "https://macma.ro/products/jpg/M/7434013_3.jpg",
       "https://macma.ro/products/jpg/M/7434013_4.jpg"
     ],
-    "fetchedAt": "2026-08-25T03:58:53.336Z",
+    "fetchedAt": "2026-08-27T14:09:33.216Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3145,7 +3145,7 @@
     ],
     "price": 0.72,
     "priceFrom": false,
-    "stock": 4661,
+    "stock": 4461,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/7479203_1.jpg",
@@ -3153,7 +3153,7 @@
       "https://macma.ro/products/jpg/M/7479203_3.jpg",
       "https://macma.ro/products/jpg/M/7479203_4.jpg"
     ],
-    "fetchedAt": "2026-08-25T03:58:53.336Z",
+    "fetchedAt": "2026-08-27T14:09:33.216Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3235,7 +3235,7 @@
     ],
     "price": 21,
     "priceFrom": false,
-    "stock": 1911,
+    "stock": 1910,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/7498777_1.jpg",
@@ -3248,7 +3248,7 @@
       "https://macma.ro/products/jpg/M/7498777_8.jpg",
       "https://macma.ro/products/jpg/M/7498777_9.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:42.738Z",
+    "fetchedAt": "2026-08-27T14:09:33.216Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3399,7 +3399,7 @@
     ],
     "price": 2.76,
     "priceFrom": false,
-    "stock": 7636,
+    "stock": 7633,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/7537307_1.jpg",
@@ -3410,7 +3410,7 @@
       "https://macma.ro/products/jpg/M/7537307_6_box.jpg",
       "https://macma.ro/products/jpg/M/7537307_7_box.jpg"
     ],
-    "fetchedAt": "2026-08-25T03:58:53.336Z",
+    "fetchedAt": "2026-08-27T14:09:33.216Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3495,7 +3495,7 @@
     ],
     "price": 3.64,
     "priceFrom": false,
-    "stock": 5664,
+    "stock": 5554,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/7543977_2.jpg",
@@ -3511,7 +3511,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/7543977_lifestyle_5.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/7543977_lifestyle_6.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:42.738Z",
+    "fetchedAt": "2026-08-27T14:09:33.216Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3587,7 +3587,7 @@
     ],
     "price": 11.9,
     "priceFrom": false,
-    "stock": 1871,
+    "stock": 1870,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/7548644_0.jpg",
@@ -3597,7 +3597,7 @@
       "https://macma.ro/products/jpg/M/7548644_5.jpg",
       "https://macma.ro/products/jpg/M/7548644_6.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:42.738Z",
+    "fetchedAt": "2026-08-27T14:09:33.216Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3672,7 +3672,7 @@
     ],
     "price": 2.98,
     "priceFrom": false,
-    "stock": 4475,
+    "stock": 4474,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/7550003_1.jpg",
@@ -3682,7 +3682,7 @@
       "https://macma.ro/products/jpg/M/7550003_5.jpg",
       "https://macma.ro/products/jpg/M/7550003_6.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:42.738Z",
+    "fetchedAt": "2026-08-27T14:09:33.216Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3763,13 +3763,13 @@
     ],
     "price": 0.51,
     "priceFrom": false,
-    "stock": 14527,
+    "stock": 12427,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/7800306_1.jpg",
       "https://macma.ro/products/jpg/M/7800306_2.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:42.738Z",
+    "fetchedAt": "2026-08-27T14:09:33.216Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -4056,14 +4056,14 @@
     ],
     "price": 4.04,
     "priceFrom": false,
-    "stock": 3770,
+    "stock": 3719,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/9118603_0.jpg",
       "https://macma.ro/products/jpg/M/9118603_1.jpg",
       "https://macma.ro/products/jpg/M/9118603_2.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:42.738Z",
+    "fetchedAt": "2026-08-27T14:09:33.216Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -4147,7 +4147,7 @@
     ],
     "price": 1.65,
     "priceFrom": false,
-    "stock": 37899,
+    "stock": 38963,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/9134403_0.jpg",
@@ -4178,7 +4178,7 @@
       "https://macma.ro/products/jpg/M/9134406_3.jpg",
       "https://macma.ro/products/jpg/M/9134406_4.jpg"
     ],
-    "fetchedAt": "2026-08-25T03:58:53.336Z",
+    "fetchedAt": "2026-08-27T14:09:33.216Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -4458,7 +4458,7 @@
     ],
     "price": 1.75,
     "priceFrom": false,
-    "stock": 3348,
+    "stock": 3591,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/9493803_group.jpg",
@@ -4474,7 +4474,7 @@
       "https://macma.ro/products/jpg/M/9493805_3.jpg",
       "https://macma.ro/products/jpg/M/9493805_4.jpg"
     ],
-    "fetchedAt": "2026-08-25T03:58:53.336Z",
+    "fetchedAt": "2026-08-27T14:09:33.216Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -4664,7 +4664,7 @@
     ],
     "price": 3.18,
     "priceFrom": false,
-    "stock": 8134,
+    "stock": 8133,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/9547203_1.jpg",
@@ -4674,7 +4674,7 @@
       "https://macma.ro/products/jpg/M/9547203_5.jpg",
       "https://macma.ro/products/jpg/M/9547203_6.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:42.738Z",
+    "fetchedAt": "2026-08-27T14:09:33.216Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -4739,7 +4739,7 @@
     ],
     "price": 18.05,
     "priceFrom": false,
-    "stock": 1907,
+    "stock": 1787,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/PIERRE/b1100600aj3_0.jpg",
@@ -4752,7 +4752,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/b1100600aj3_g_0.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/b1100600aj3_h_0.jpg"
     ],
-    "fetchedAt": "2026-08-25T03:58:53.336Z",
+    "fetchedAt": "2026-08-27T14:09:33.216Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -4823,7 +4823,7 @@
     ],
     "price": 3.79,
     "priceFrom": false,
-    "stock": 676,
+    "stock": 644,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f0700100aj3_0.jpg",
@@ -4833,7 +4833,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f0700100aj3_d_0.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f0700100aj3_e_0.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:42.738Z",
+    "fetchedAt": "2026-08-27T14:09:33.216Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -4904,7 +4904,7 @@
     ],
     "price": 19.72,
     "priceFrom": false,
-    "stock": 3853,
+    "stock": 2850,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f3524900aj3_0.jpg",
@@ -4914,7 +4914,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f3524900aj3_d_0.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f3524900aj3_e_0.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:42.738Z",
+    "fetchedAt": "2026-08-27T14:09:33.216Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -5136,7 +5136,7 @@
     ],
     "price": 16.75,
     "priceFrom": false,
-    "stock": 2160,
+    "stock": 1575,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5600600aj3.jpg",
@@ -5148,7 +5148,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5600600aj3_f.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f5600600aj3_g.jpg"
     ],
-    "fetchedAt": "2026-08-25T03:58:53.336Z",
+    "fetchedAt": "2026-08-27T14:09:33.216Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -5213,7 +5213,7 @@
     ],
     "price": 5.09,
     "priceFrom": false,
-    "stock": 963,
+    "stock": 962,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f7606000aj3_1.jpg",
@@ -5222,7 +5222,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f7606000aj3_4.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f7606000aj3_5.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:42.738Z",
+    "fetchedAt": "2026-08-27T14:09:33.216Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -5299,7 +5299,7 @@
     ],
     "price": 1.47,
     "priceFrom": false,
-    "stock": 23064,
+    "stock": 21537,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/it3441-03.jpg",
@@ -5307,7 +5307,7 @@
       "https://cdn1.midocean.com/image/700X700/it3441-03-print.jpg",
       "https://cdn1.midocean.com/image/700X700/it3441-03-box.jpg"
     ],
-    "fetchedAt": "2026-08-25T03:58:28.655Z",
+    "fetchedAt": "2026-08-27T14:09:09.643Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -5412,7 +5412,7 @@
     ],
     "price": 2.89,
     "priceFrom": false,
-    "stock": 4044,
+    "stock": 3994,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/kc1050-17.jpg",
@@ -5422,7 +5422,7 @@
       "https://cdn1.midocean.com/image/700X700/kc1050-17-ambiant.jpg",
       "https://cdn1.midocean.com/image/700X700/kc1050-17-box.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:10.287Z",
+    "fetchedAt": "2026-08-27T14:09:09.643Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -5533,7 +5533,7 @@
     ],
     "price": 2.24,
     "priceFrom": false,
-    "stock": 5447,
+    "stock": 5329,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/kc2206-16.jpg",
@@ -5543,7 +5543,7 @@
       "https://cdn1.midocean.com/image/700X700/kc2206-16-print.jpg",
       "https://cdn1.midocean.com/image/700X700/kc2206-16-ambiant.jpg"
     ],
-    "fetchedAt": "2026-08-25T03:58:28.655Z",
+    "fetchedAt": "2026-08-27T14:09:09.643Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -5657,13 +5657,13 @@
     ],
     "price": 0.69,
     "priceFrom": false,
-    "stock": 8361,
+    "stock": 8078,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/kc2225-17.jpg",
       "https://cdn1.midocean.com/image/700X700/kc2225-17-print.jpg"
     ],
-    "fetchedAt": "2026-08-24T04:03:36.785Z",
+    "fetchedAt": "2026-08-27T14:09:09.643Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -5749,7 +5749,7 @@
     ],
     "price": 6.86,
     "priceFrom": false,
-    "stock": 1559,
+    "stock": 1557,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/kc2231-01.jpg",
@@ -5757,7 +5757,7 @@
       "https://cdn1.midocean.com/image/700X700/kc2231-01b.jpg",
       "https://cdn1.midocean.com/image/700X700/kc2231-01-ambiant.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:10.287Z",
+    "fetchedAt": "2026-08-27T14:09:09.643Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -5871,7 +5871,7 @@
     ],
     "price": 2.84,
     "priceFrom": false,
-    "stock": 7246,
+    "stock": 7195,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2171-03.jpg",
@@ -5883,7 +5883,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2171-03-picture3.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2171-03-picture7.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:10.287Z",
+    "fetchedAt": "2026-08-27T14:09:09.643Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -6004,7 +6004,7 @@
     ],
     "price": 1.27,
     "priceFrom": false,
-    "stock": 8468,
+    "stock": 8377,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2472-13.jpg",
@@ -6013,7 +6013,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2472-13-open.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2472-13-print.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:10.287Z",
+    "fetchedAt": "2026-08-27T14:09:09.643Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -6137,7 +6137,7 @@
     ],
     "price": 5.38,
     "priceFrom": false,
-    "stock": 99,
+    "stock": 14,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2535-15.jpg",
@@ -6149,7 +6149,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2535-15-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2535-15-box.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:10.287Z",
+    "fetchedAt": "2026-08-27T14:09:09.643Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -6265,7 +6265,7 @@
     ],
     "price": 2.78,
     "priceFrom": false,
-    "stock": 2154,
+    "stock": 4824,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2536-04.jpg",
@@ -6276,7 +6276,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2536-04-print.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2536-04-detail.jpg"
     ],
-    "fetchedAt": "2026-08-25T03:58:28.655Z",
+    "fetchedAt": "2026-08-27T14:09:09.643Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -6375,7 +6375,7 @@
     ],
     "price": 1.73,
     "priceFrom": false,
-    "stock": 12458,
+    "stock": 11661,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2624-13.jpg",
@@ -6385,7 +6385,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2624-13-picture2.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2624-13-picture7.jpg"
     ],
-    "fetchedAt": "2026-08-24T04:03:36.785Z",
+    "fetchedAt": "2026-08-27T14:09:09.643Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -6484,7 +6484,7 @@
     ],
     "price": 1.34,
     "priceFrom": false,
-    "stock": 10125,
+    "stock": 10123,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2625-13.jpg",
@@ -6495,7 +6495,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2625-13-picture1.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2625-13-picture5.jpg"
     ],
-    "fetchedAt": "2026-08-25T03:58:28.655Z",
+    "fetchedAt": "2026-08-27T14:09:09.643Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -6599,7 +6599,7 @@
     ],
     "price": 2.09,
     "priceFrom": false,
-    "stock": 11496,
+    "stock": 11464,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2642-03.jpg",
@@ -6608,7 +6608,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2642-03-picture1.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2642-03-picture2.jpg"
     ],
-    "fetchedAt": "2026-08-25T03:58:28.655Z",
+    "fetchedAt": "2026-08-27T14:09:09.643Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -6706,7 +6706,7 @@
     ],
     "price": 3.19,
     "priceFrom": false,
-    "stock": 10859,
+    "stock": 6705,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2654-03.jpg",
@@ -6717,7 +6717,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2654-03-picture2.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2654-03-picture3.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:10.287Z",
+    "fetchedAt": "2026-08-27T14:09:09.643Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -6812,7 +6812,7 @@
     ],
     "price": 9.58,
     "priceFrom": false,
-    "stock": 2945,
+    "stock": 2940,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2715-18.jpg",
@@ -6821,7 +6821,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2715-18-open.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2715-18-print.jpg"
     ],
-    "fetchedAt": "2026-08-25T03:58:28.655Z",
+    "fetchedAt": "2026-08-27T14:09:09.643Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -6897,7 +6897,7 @@
     ],
     "price": 0.47,
     "priceFrom": false,
-    "stock": 40418,
+    "stock": 35160,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2815-40.jpg",
@@ -6905,7 +6905,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2815-40-side.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2815-40-print.jpg"
     ],
-    "fetchedAt": "2026-08-25T03:58:28.655Z",
+    "fetchedAt": "2026-08-27T14:09:09.643Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -7010,15 +7010,15 @@
     ],
     "price": 1.38,
     "priceFrom": false,
-    "stock": 0,
-    "stockLevel": "out-of-stock",
+    "stock": 17843,
+    "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo3161-03.jpg",
       "https://cdn1.midocean.com/image/700X700/mo3161-85.jpg",
       "https://cdn1.midocean.com/image/700X700/mo3161-03-back.jpg",
       "https://cdn1.midocean.com/image/700X700/mo3161-03-open.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:10.287Z",
+    "fetchedAt": "2026-08-27T14:09:09.643Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -7104,7 +7104,7 @@
     ],
     "price": 3.02,
     "priceFrom": false,
-    "stock": 6735,
+    "stock": 6733,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo3166-03.jpg",
@@ -7113,7 +7113,7 @@
       "https://cdn1.midocean.com/image/700X700/mo3166-03-picture1.jpg",
       "https://cdn1.midocean.com/image/700X700/mo3166-03-picture2.jpg"
     ],
-    "fetchedAt": "2026-08-25T03:58:28.655Z",
+    "fetchedAt": "2026-08-27T14:09:09.643Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -7205,7 +7205,7 @@
     ],
     "price": 1.73,
     "priceFrom": false,
-    "stock": 6148,
+    "stock": 5948,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo6200-40.jpg",
@@ -7215,7 +7215,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6200-40-print.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6200-40-ambiant.jpg"
     ],
-    "fetchedAt": "2026-08-25T03:58:28.655Z",
+    "fetchedAt": "2026-08-27T14:09:09.643Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -7317,7 +7317,7 @@
     ],
     "price": 1.03,
     "priceFrom": false,
-    "stock": 41606,
+    "stock": 41105,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo6418-13.jpg",
@@ -7326,7 +7326,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6418-13-top.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6418-13-detail.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:10.287Z",
+    "fetchedAt": "2026-08-27T14:09:09.643Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -7439,7 +7439,7 @@
     ],
     "price": 1.03,
     "priceFrom": false,
-    "stock": 31686,
+    "stock": 31685,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo6556-13.jpg",
@@ -7449,7 +7449,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6556-13-print.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6556-13-detail.jpg"
     ],
-    "fetchedAt": "2026-08-25T03:58:28.655Z",
+    "fetchedAt": "2026-08-27T14:09:09.643Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -7569,13 +7569,13 @@
     ],
     "price": 5.2,
     "priceFrom": false,
-    "stock": 5279,
+    "stock": 9132,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo7243-03.jpg",
       "https://cdn1.midocean.com/image/700X700/mo7243-03-back.jpg"
     ],
-    "fetchedAt": "2026-08-25T03:58:28.655Z",
+    "fetchedAt": "2026-08-27T14:09:09.643Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -7655,7 +7655,7 @@
     ],
     "price": 3.04,
     "priceFrom": false,
-    "stock": 26299,
+    "stock": 25990,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo8048-16.jpg",
@@ -7666,7 +7666,7 @@
       "https://cdn1.midocean.com/image/700X700/mo8048-16-ambiant.jpg",
       "https://cdn1.midocean.com/image/700X700/mo8048-16-box.jpg"
     ],
-    "fetchedAt": "2026-08-25T03:58:28.655Z",
+    "fetchedAt": "2026-08-27T14:09:09.643Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -7793,7 +7793,7 @@
     ],
     "price": 0.89,
     "priceFrom": false,
-    "stock": 9369,
+    "stock": 8408,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo8352-16.jpg",
@@ -7802,7 +7802,7 @@
       "https://cdn1.midocean.com/image/700X700/mo8352-16-ambiant.jpg",
       "https://cdn1.midocean.com/image/700X700/mo8352-16-box.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:10.287Z",
+    "fetchedAt": "2026-08-27T14:09:09.643Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -7896,14 +7896,14 @@
     ],
     "price": 1.59,
     "priceFrom": false,
-    "stock": 0,
-    "stockLevel": "out-of-stock",
+    "stock": 1798,
+    "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo8354-16.jpg",
       "https://cdn1.midocean.com/image/700X700/mo8354-16-print.jpg",
       "https://cdn1.midocean.com/image/700X700/mo8354-16-ambiant.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:10.287Z",
+    "fetchedAt": "2026-08-27T14:09:09.643Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -8009,7 +8009,7 @@
     ],
     "price": 0.27,
     "priceFrom": false,
-    "stock": 242367,
+    "stock": 239231,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo8718-03.jpg",
@@ -8017,7 +8017,7 @@
       "https://cdn1.midocean.com/image/700X700/mo8718-37.jpg",
       "https://cdn1.midocean.com/image/700X700/mo8718-03a.jpg"
     ],
-    "fetchedAt": "2026-08-25T03:58:28.655Z",
+    "fetchedAt": "2026-08-27T14:09:09.643Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -8108,13 +8108,13 @@
     ],
     "price": 0.33,
     "priceFrom": false,
-    "stock": 47132,
+    "stock": 46522,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo8736-03.jpg",
       "https://cdn1.midocean.com/image/700X700/mo8736-03a.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:10.287Z",
+    "fetchedAt": "2026-08-27T14:09:09.643Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -8236,7 +8236,7 @@
     ],
     "price": 2.93,
     "priceFrom": false,
-    "stock": 7326,
+    "stock": 7205,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo9107-03.jpg",
@@ -8246,7 +8246,7 @@
       "https://cdn1.midocean.com/image/700X700/mo9107-03-print.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9107-03-ambiant.jpg"
     ],
-    "fetchedAt": "2026-08-25T03:58:28.655Z",
+    "fetchedAt": "2026-08-27T14:09:09.643Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -8351,14 +8351,14 @@
     ],
     "price": 0.39,
     "priceFrom": false,
-    "stock": 52291,
+    "stock": 51747,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo9233-03.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9233-04.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9233-03a.jpg"
     ],
-    "fetchedAt": "2026-08-25T03:58:28.655Z",
+    "fetchedAt": "2026-08-27T14:09:09.643Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -8449,14 +8449,14 @@
     ],
     "price": 0.27,
     "priceFrom": false,
-    "stock": 56374,
+    "stock": 53935,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo9501-04.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9501-05.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9501-04a.jpg"
     ],
-    "fetchedAt": "2026-08-25T03:58:28.655Z",
+    "fetchedAt": "2026-08-27T14:09:09.643Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -8588,7 +8588,7 @@
     ],
     "price": 0.84,
     "priceFrom": false,
-    "stock": 52397,
+    "stock": 50540,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo9508-03.jpg",
@@ -8597,7 +8597,7 @@
       "https://cdn1.midocean.com/image/700X700/mo9508-03a.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9508-03-box.jpg"
     ],
-    "fetchedAt": "2026-08-25T03:58:28.655Z",
+    "fetchedAt": "2026-08-27T14:09:09.643Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -8707,7 +8707,7 @@
     ],
     "price": 1.2,
     "priceFrom": false,
-    "stock": 18340,
+    "stock": 18465,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo9751-06.jpg",
@@ -8717,7 +8717,7 @@
       "https://cdn1.midocean.com/image/700X700/mo9751-06-ambiant.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9751-06-detail.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:10.287Z",
+    "fetchedAt": "2026-08-27T14:09:09.643Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -8827,7 +8827,7 @@
     ],
     "price": 0.33,
     "priceFrom": false,
-    "stock": 29017,
+    "stock": 27058,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo9752-06.jpg",
@@ -8837,7 +8837,7 @@
       "https://cdn1.midocean.com/image/700X700/mo9752-06-print.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9752-06-ambiant.jpg"
     ],
-    "fetchedAt": "2026-08-25T03:58:28.655Z",
+    "fetchedAt": "2026-08-27T14:09:09.643Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

@@ -2,8 +2,8 @@
   {
     "contentKey": "0e12b8665ba4d05b",
     "supplierVariantId": "SO03106BL-M",
-    "stock": 1,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 20.54,
     "color": {
       "name": "Black",
@@ -14,8 +14,8 @@
   {
     "contentKey": "666285d9d4100216",
     "supplierVariantId": "SO03106BL-S",
-    "stock": 4,
-    "stockLevel": "low",
+    "stock": 29,
+    "stockLevel": "in-stock",
     "price": 20.54,
     "color": {
       "name": "Black",
@@ -38,7 +38,7 @@
   {
     "contentKey": "fca6f4eb5b148fa1",
     "supplierVariantId": "SO03106BL-XL",
-    "stock": 63,
+    "stock": 62,
     "stockLevel": "in-stock",
     "price": 20.54,
     "color": {
