@@ -1724,8 +1724,8 @@
     ],
     "price": 0.96,
     "priceFrom": false,
-    "stock": 11421,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2960-03.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2960-03-back.jpg",
@@ -1734,7 +1734,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2960-03-print.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2960-03-box.jpg"
     ],
-    "fetchedAt": "2026-08-27T14:09:09.643Z",
+    "fetchedAt": "2026-08-29T10:01:05.341Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
