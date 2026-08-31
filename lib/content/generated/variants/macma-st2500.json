@@ -47,7 +47,7 @@
   {
     "contentKey": "1f9a54abcc775444",
     "supplierVariantId": "ST2500-BLO-L",
-    "stock": 2880,
+    "stock": 2784,
     "stockLevel": "in-stock",
     "price": 4.9,
     "color": {
@@ -62,7 +62,7 @@
   {
     "contentKey": "21ff364d491fa8b2",
     "supplierVariantId": "ST2500-WHI-S",
-    "stock": 480,
+    "stock": 288,
     "stockLevel": "in-stock",
     "price": 3.9,
     "color": {
@@ -92,7 +92,7 @@
   {
     "contentKey": "2dd737ce3102094b",
     "supplierVariantId": "ST2500-WHI-L",
-    "stock": 1536,
+    "stock": 1248,
     "stockLevel": "in-stock",
     "price": 3.9,
     "color": {
@@ -122,8 +122,8 @@
   {
     "contentKey": "362a6f2b01181912",
     "supplierVariantId": "ST2500-WHI-3XL",
-    "stock": 264,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 4.89,
     "color": {
       "name": "White",
@@ -136,7 +136,7 @@
   {
     "contentKey": "362a6f2b01181912",
     "supplierVariantId": "ST2500-WHI-XXL",
-    "stock": 672,
+    "stock": 288,
     "stockLevel": "in-stock",
     "price": 3.9,
     "color": {
@@ -329,7 +329,7 @@
   {
     "contentKey": "9b65f5d09e2e3860",
     "supplierVariantId": "ST2500-WHI-M",
-    "stock": 1632,
+    "stock": 1344,
     "stockLevel": "in-stock",
     "price": 3.9,
     "color": {
@@ -402,7 +402,7 @@
   {
     "contentKey": "ae9aa034657fad2a",
     "supplierVariantId": "ST2500-BLO-3XL",
-    "stock": 312,
+    "stock": 288,
     "stockLevel": "in-stock",
     "price": 6.12,
     "color": {
@@ -416,7 +416,7 @@
   {
     "contentKey": "ae9aa034657fad2a",
     "supplierVariantId": "ST2500-BLO-XXL",
-    "stock": 1344,
+    "stock": 1248,
     "stockLevel": "in-stock",
     "price": 4.9,
     "color": {
@@ -445,7 +445,7 @@
   {
     "contentKey": "b7eca2c6144a4989",
     "supplierVariantId": "ST2500-BLO-XL",
-    "stock": 2688,
+    "stock": 2592,
     "stockLevel": "in-stock",
     "price": 4.9,
     "color": {
@@ -505,7 +505,7 @@
   {
     "contentKey": "d9b8fef88296334c",
     "supplierVariantId": "ST2500-WHI-XL",
-    "stock": 768,
+    "stock": 384,
     "stockLevel": "in-stock",
     "price": 3.9,
     "color": {

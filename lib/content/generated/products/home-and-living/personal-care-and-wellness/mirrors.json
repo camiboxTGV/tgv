@@ -58,14 +58,14 @@
     ],
     "price": 1.55,
     "priceFrom": false,
-    "stock": 190,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/kc2204-17.jpg",
       "https://cdn1.midocean.com/image/700X700/kc2204-17-print.jpg",
       "https://cdn1.midocean.com/image/700X700/kc2204-17-box.jpg"
     ],
-    "fetchedAt": "2026-08-29T10:01:05.341Z",
+    "fetchedAt": "2026-08-31T09:41:05.330Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -293,12 +293,12 @@
     ],
     "price": 0.27,
     "priceFrom": false,
-    "stock": 46998,
+    "stock": 46996,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/kc2466-26.jpg"
     ],
-    "fetchedAt": "2026-08-29T10:01:05.341Z",
+    "fetchedAt": "2026-08-31T09:41:05.330Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -492,13 +492,13 @@
     ],
     "price": 0.72,
     "priceFrom": false,
-    "stock": 12378,
+    "stock": 12375,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/kc5720-06.jpg",
       "https://cdn1.midocean.com/image/700X700/kc5720-06-back.jpg"
     ],
-    "fetchedAt": "2026-08-29T10:01:05.341Z",
+    "fetchedAt": "2026-08-31T09:41:05.330Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -608,7 +608,7 @@
     ],
     "price": 0.72,
     "priceFrom": false,
-    "stock": 21224,
+    "stock": 21221,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2841-03.jpg",
@@ -619,7 +619,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2841-03-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2841-03-box.jpg"
     ],
-    "fetchedAt": "2026-08-27T14:09:09.643Z",
+    "fetchedAt": "2026-08-31T09:41:05.330Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -856,7 +856,7 @@
     ],
     "price": 1.8,
     "priceFrom": false,
-    "stock": 11233,
+    "stock": 10681,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo7520-03.jpg",
@@ -865,7 +865,7 @@
       "https://cdn1.midocean.com/image/700X700/mo7520-03b.jpg",
       "https://cdn1.midocean.com/image/700X700/mo7520-03-box.jpg"
     ],
-    "fetchedAt": "2026-08-28T15:19:05.551Z",
+    "fetchedAt": "2026-08-31T09:41:05.330Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
