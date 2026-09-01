@@ -991,7 +991,7 @@
   {
     "contentKey": "a35c0a8829e5fdfc",
     "supplierVariantId": "BO471508",
-    "stock": 21,
+    "stock": 20,
     "stockLevel": "in-stock",
     "price": 10.01,
     "color": {
@@ -1008,8 +1008,8 @@
   {
     "contentKey": "a504e8be76b02b9a",
     "supplierVariantId": "BO471509",
-    "stock": 1,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 10.01,
     "color": {
       "name": "Heather Grey",

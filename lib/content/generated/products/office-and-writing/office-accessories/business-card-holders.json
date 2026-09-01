@@ -2503,13 +2503,13 @@
     ],
     "price": 0.83,
     "priceFrom": false,
-    "stock": 2119,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/B-454-VE-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/B-454-VE-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-01T08:36:50.093Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3413,14 +3413,14 @@
     ],
     "price": 1.24,
     "priceFrom": false,
-    "stock": 291,
+    "stock": 261,
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/B-623-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/B-623-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/B-623-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-01T08:36:50.093Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,
@@ -5725,7 +5725,7 @@
     ],
     "price": 25.97,
     "priceFrom": false,
-    "stock": 47,
+    "stock": 547,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/2063703_group.jpg",
@@ -5733,7 +5733,7 @@
       "https://macma.ro/products/jpg/M/2063703_2.jpg",
       "https://macma.ro/products/jpg/M/2063703_3.jpg"
     ],
-    "fetchedAt": "2026-08-28T15:19:27.445Z",
+    "fetchedAt": "2026-09-01T08:37:03.524Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -6202,7 +6202,7 @@
     ],
     "price": 2.69,
     "priceFrom": false,
-    "stock": 4441,
+    "stock": 4381,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/2850203_group.jpg",
@@ -6213,7 +6213,7 @@
       "https://macma.ro/products/jpg/M/2850203_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/2850203_lifestyle_6.jpg"
     ],
-    "fetchedAt": "2026-08-28T15:19:27.445Z",
+    "fetchedAt": "2026-09-01T08:37:03.524Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
