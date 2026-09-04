@@ -2,8 +2,8 @@
   {
     "contentKey": "0dea01749d9418ba",
     "supplierVariantId": "T-671-M-MA",
-    "stock": 0,
-    "stockLevel": "out-of-stock",
+    "stock": 4,
+    "stockLevel": "low",
     "price": 8.39,
     "color": {
       "name": "Marine",
@@ -18,8 +18,8 @@
   {
     "contentKey": "39d249680e9f1a9b",
     "supplierVariantId": "T-671-L-MA",
-    "stock": 3,
-    "stockLevel": "low",
+    "stock": 10,
+    "stockLevel": "in-stock",
     "price": 8.39,
     "color": {
       "name": "Marine",
@@ -49,7 +49,7 @@
   {
     "contentKey": "87c5de8b618ab8f3",
     "supplierVariantId": "T-671-S-MA",
-    "stock": 65,
+    "stock": 70,
     "stockLevel": "in-stock",
     "price": 8.39,
     "color": {
