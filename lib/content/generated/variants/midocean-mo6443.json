@@ -2,7 +2,7 @@
   {
     "contentKey": "17f41314c590bd5d",
     "supplierVariantId": "MO6443-05",
-    "stock": 2522,
+    "stock": 4022,
     "stockLevel": "in-stock",
     "price": 3.37,
     "color": {
@@ -15,8 +15,8 @@
   {
     "contentKey": "1f2c1cf88601cc77",
     "supplierVariantId": "MO6443-04",
-    "stock": 0,
-    "stockLevel": "out-of-stock",
+    "stock": 2,
+    "stockLevel": "low",
     "price": 3.37,
     "color": {
       "name": "Blue"
@@ -41,8 +41,8 @@
   {
     "contentKey": "f61f5342e50123c5",
     "supplierVariantId": "MO6443-12",
-    "stock": 570,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 3.37,
     "color": {
       "name": "Turquoise"

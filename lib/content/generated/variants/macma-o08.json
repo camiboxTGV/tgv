@@ -2,8 +2,8 @@
   {
     "contentKey": "03304440621d14ce",
     "supplierVariantId": "BO080110",
-    "stock": 50,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 7.88,
     "color": {
       "name": "White",
@@ -19,8 +19,8 @@
   {
     "contentKey": "03304440621d14ce",
     "supplierVariantId": "BO080111",
-    "stock": 0,
-    "stockLevel": "out-of-stock",
+    "stock": 50,
+    "stockLevel": "in-stock",
     "price": 9.46,
     "color": {
       "name": "White",
@@ -53,7 +53,7 @@
   {
     "contentKey": "0cbb3ce3f0371674",
     "supplierVariantId": "BO080411",
-    "stock": 824,
+    "stock": 724,
     "stockLevel": "in-stock",
     "price": 10.13,
     "color": {
@@ -87,7 +87,7 @@
   {
     "contentKey": "12d063fe63149af9",
     "supplierVariantId": "BO080108",
-    "stock": 300,
+    "stock": 500,
     "stockLevel": "in-stock",
     "price": 7.88,
     "color": {
@@ -122,7 +122,7 @@
   {
     "contentKey": "27df571770917d3f",
     "supplierVariantId": "BO080608",
-    "stock": 550,
+    "stock": 800,
     "stockLevel": "in-stock",
     "price": 8.42,
     "color": {
@@ -176,7 +176,7 @@
   {
     "contentKey": "38b88c2498b1e068",
     "supplierVariantId": "BO081509",
-    "stock": 1250,
+    "stock": 1150,
     "stockLevel": "in-stock",
     "price": 8.42,
     "color": {
@@ -194,7 +194,7 @@
   {
     "contentKey": "3a5c46fb7666b2c0",
     "supplierVariantId": "BO080310",
-    "stock": 1300,
+    "stock": 1250,
     "stockLevel": "in-stock",
     "price": 8.42,
     "color": {
@@ -211,7 +211,7 @@
   {
     "contentKey": "3a5c46fb7666b2c0",
     "supplierVariantId": "BO080311",
-    "stock": 741,
+    "stock": 691,
     "stockLevel": "in-stock",
     "price": 10.13,
     "color": {
@@ -228,7 +228,7 @@
   {
     "contentKey": "3a5c46fb7666b2c0",
     "supplierVariantId": "BO080312",
-    "stock": 280,
+    "stock": 230,
     "stockLevel": "in-stock",
     "price": 10.13,
     "color": {
@@ -296,7 +296,7 @@
   {
     "contentKey": "4ca740d2b7c28c3e",
     "supplierVariantId": "BO080107",
-    "stock": 550,
+    "stock": 700,
     "stockLevel": "in-stock",
     "price": 7.88,
     "color": {
@@ -314,7 +314,7 @@
   {
     "contentKey": "51312d47f25e1541",
     "supplierVariantId": "BO080609",
-    "stock": 600,
+    "stock": 800,
     "stockLevel": "in-stock",
     "price": 8.42,
     "color": {
@@ -368,7 +368,7 @@
   {
     "contentKey": "6d9eafb2c0a115d8",
     "supplierVariantId": "BO081506",
-    "stock": 650,
+    "stock": 600,
     "stockLevel": "in-stock",
     "price": 8.42,
     "color": {
@@ -404,7 +404,7 @@
   {
     "contentKey": "771b1fcc26a06ad2",
     "supplierVariantId": "BO081510",
-    "stock": 700,
+    "stock": 650,
     "stockLevel": "in-stock",
     "price": 8.42,
     "color": {
@@ -455,7 +455,7 @@
   {
     "contentKey": "813c71e5c24385a2",
     "supplierVariantId": "BO080408",
-    "stock": 3216,
+    "stock": 3366,
     "stockLevel": "in-stock",
     "price": 8.42,
     "color": {
@@ -473,7 +473,7 @@
   {
     "contentKey": "8a425847d1bd973f",
     "supplierVariantId": "BO080106",
-    "stock": 200,
+    "stock": 400,
     "stockLevel": "in-stock",
     "price": 7.88,
     "color": {
@@ -491,7 +491,7 @@
   {
     "contentKey": "9687a7f8f7a1a3d0",
     "supplierVariantId": "BO080407",
-    "stock": 2256,
+    "stock": 2706,
     "stockLevel": "in-stock",
     "price": 8.42,
     "color": {
@@ -509,7 +509,7 @@
   {
     "contentKey": "a376663defd003e4",
     "supplierVariantId": "BO080113",
-    "stock": 427,
+    "stock": 377,
     "stockLevel": "in-stock",
     "price": 7.88,
     "color": {
@@ -579,7 +579,7 @@
   {
     "contentKey": "b0ede9a8fb177a45",
     "supplierVariantId": "BO080706",
-    "stock": 550,
+    "stock": 500,
     "stockLevel": "in-stock",
     "price": 8.42,
     "color": {
@@ -596,7 +596,7 @@
   {
     "contentKey": "bba70266f93ed724",
     "supplierVariantId": "BO081507",
-    "stock": 2100,
+    "stock": 2000,
     "stockLevel": "in-stock",
     "price": 8.42,
     "color": {
@@ -614,7 +614,7 @@
   {
     "contentKey": "bbaa5c6f1b258c05",
     "supplierVariantId": "BO080710",
-    "stock": 200,
+    "stock": 400,
     "stockLevel": "in-stock",
     "price": 8.42,
     "color": {
@@ -679,7 +679,7 @@
   {
     "contentKey": "c815f7f7b685e0d4",
     "supplierVariantId": "BO080511",
-    "stock": 370,
+    "stock": 320,
     "stockLevel": "in-stock",
     "price": 10.13,
     "color": {

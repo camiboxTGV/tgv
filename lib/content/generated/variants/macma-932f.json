@@ -34,7 +34,7 @@
   {
     "contentKey": "2dd3409bebe65ced",
     "supplierVariantId": "JZ932F.03.4",
-    "stock": 332,
+    "stock": 331,
     "stockLevel": "in-stock",
     "price": 17.65,
     "color": {
@@ -49,7 +49,7 @@
   {
     "contentKey": "360bc5c563707d5f",
     "supplierVariantId": "JZ932F.03.1",
-    "stock": 111,
+    "stock": 99,
     "stockLevel": "in-stock",
     "price": 17.65,
     "color": {
@@ -64,7 +64,7 @@
   {
     "contentKey": "39946efedbf344bf",
     "supplierVariantId": "JZ932F.03.3",
-    "stock": 571,
+    "stock": 560,
     "stockLevel": "in-stock",
     "price": 17.65,
     "color": {
@@ -166,7 +166,7 @@
   {
     "contentKey": "4456960ae6b49845",
     "supplierVariantId": "JZ932F.50.4",
-    "stock": 263,
+    "stock": 251,
     "stockLevel": "in-stock",
     "price": 17.65,
     "color": {
@@ -211,7 +211,7 @@
   {
     "contentKey": "558c625745824fb7",
     "supplierVariantId": "JZ932F.24.3",
-    "stock": 1021,
+    "stock": 1009,
     "stockLevel": "in-stock",
     "price": 17.65,
     "color": {
@@ -228,7 +228,7 @@
   {
     "contentKey": "6bc5b5c8ff40ed14",
     "supplierVariantId": "JZ932F.04.4",
-    "stock": 71,
+    "stock": 42,
     "stockLevel": "in-stock",
     "price": 17.65,
     "color": {
@@ -243,8 +243,8 @@
   {
     "contentKey": "6e171fd74fdee097",
     "supplierVariantId": "JZ932F.04.3",
-    "stock": 47,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 17.65,
     "color": {
       "name": "Navy",
@@ -301,7 +301,7 @@
   {
     "contentKey": "6fb7ca77e0d47dbb",
     "supplierVariantId": "JZ932F.03.7",
-    "stock": 51,
+    "stock": 39,
     "stockLevel": "in-stock",
     "price": 17.65,
     "color": {
@@ -343,7 +343,7 @@
   {
     "contentKey": "6fc34233685ccdcb",
     "supplierVariantId": "JZ932F.01.2",
-    "stock": 1258,
+    "stock": 1110,
     "stockLevel": "in-stock",
     "price": 17.65,
     "color": {
@@ -373,8 +373,8 @@
   {
     "contentKey": "869cb6da92cb83ea",
     "supplierVariantId": "JZ932F.04.2",
-    "stock": 21,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 17.65,
     "color": {
       "name": "Navy",
@@ -388,7 +388,7 @@
   {
     "contentKey": "8eda36e538c0c07b",
     "supplierVariantId": "JZ932F.01.0",
-    "stock": 401,
+    "stock": 389,
     "stockLevel": "in-stock",
     "price": 17.65,
     "color": {
@@ -420,7 +420,7 @@
   {
     "contentKey": "9beda766be882e70",
     "supplierVariantId": "JZ932F.01.1",
-    "stock": 1042,
+    "stock": 943,
     "stockLevel": "in-stock",
     "price": 17.65,
     "color": {
@@ -465,7 +465,7 @@
   {
     "contentKey": "b1b5fa359d5a387e",
     "supplierVariantId": "JZ932F.01.3",
-    "stock": 478,
+    "stock": 330,
     "stockLevel": "in-stock",
     "price": 17.65,
     "color": {
@@ -512,7 +512,7 @@
   {
     "contentKey": "badb6aa783080c30",
     "supplierVariantId": "JZ932F.24.7",
-    "stock": 118,
+    "stock": 106,
     "stockLevel": "in-stock",
     "price": 17.65,
     "color": {
@@ -528,7 +528,7 @@
   {
     "contentKey": "badb6aa783080c30",
     "supplierVariantId": "JZ932F.24.8",
-    "stock": 343,
+    "stock": 341,
     "stockLevel": "in-stock",
     "price": 17.65,
     "color": {
@@ -745,7 +745,7 @@
   {
     "contentKey": "e557eedd46f1beaf",
     "supplierVariantId": "JZ932F.24.0",
-    "stock": 321,
+    "stock": 309,
     "stockLevel": "in-stock",
     "price": 17.65,
     "color": {
@@ -762,7 +762,7 @@
   {
     "contentKey": "eff323fbe4ff9b12",
     "supplierVariantId": "JZ932F.01.5",
-    "stock": 209,
+    "stock": 121,
     "stockLevel": "in-stock",
     "price": 17.65,
     "color": {
@@ -790,7 +790,7 @@
   {
     "contentKey": "eff323fbe4ff9b12",
     "supplierVariantId": "JZ932F.01.7",
-    "stock": 218,
+    "stock": 206,
     "stockLevel": "in-stock",
     "price": 17.65,
     "color": {
@@ -804,7 +804,7 @@
   {
     "contentKey": "eff323fbe4ff9b12",
     "supplierVariantId": "JZ932F.01.8",
-    "stock": 59,
+    "stock": 47,
     "stockLevel": "in-stock",
     "price": 17.65,
     "color": {
@@ -818,7 +818,7 @@
   {
     "contentKey": "eff323fbe4ff9b12",
     "supplierVariantId": "JZ932F.01.9",
-    "stock": 97,
+    "stock": 85,
     "stockLevel": "in-stock",
     "price": 17.65,
     "color": {
@@ -832,7 +832,7 @@
   {
     "contentKey": "f03deda6c4674f45",
     "supplierVariantId": "JZ932F.04.0",
-    "stock": 59,
+    "stock": 47,
     "stockLevel": "in-stock",
     "price": 17.65,
     "color": {
@@ -847,7 +847,7 @@
   {
     "contentKey": "fb9de00acf0f86e6",
     "supplierVariantId": "JZ932F.01.4",
-    "stock": 292,
+    "stock": 133,
     "stockLevel": "in-stock",
     "price": 17.65,
     "color": {
