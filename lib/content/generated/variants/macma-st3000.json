@@ -73,7 +73,7 @@
   {
     "contentKey": "0d075e927ea8dbb9",
     "supplierVariantId": "ST3000-ORA-XL",
-    "stock": 288,
+    "stock": 240,
     "stockLevel": "in-stock",
     "price": 8,
     "color": {
@@ -118,7 +118,7 @@
   {
     "contentKey": "11cfd43e43e52432",
     "supplierVariantId": "ST3000-BLO-XL",
-    "stock": 2928,
+    "stock": 2784,
     "stockLevel": "in-stock",
     "price": 8,
     "color": {
@@ -178,7 +178,7 @@
   {
     "contentKey": "1bdf541a639e35a9",
     "supplierVariantId": "ST3000-NAV-M",
-    "stock": 912,
+    "stock": 816,
     "stockLevel": "in-stock",
     "price": 8,
     "color": {
@@ -442,7 +442,7 @@
   {
     "contentKey": "580ab0f7dbf94d3a",
     "supplierVariantId": "ST3000-SRE-4XL",
-    "stock": 72,
+    "stock": 48,
     "stockLevel": "in-stock",
     "price": 8.8,
     "color": {
@@ -456,8 +456,8 @@
   {
     "contentKey": "580ab0f7dbf94d3a",
     "supplierVariantId": "ST3000-SRE-5XL",
-    "stock": 24,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 8.8,
     "color": {
       "name": "Scarlet Red",
@@ -484,7 +484,7 @@
   {
     "contentKey": "5c01b274c7f8d3ae",
     "supplierVariantId": "ST3000-NAV-L",
-    "stock": 960,
+    "stock": 864,
     "stockLevel": "in-stock",
     "price": 8,
     "color": {
@@ -499,7 +499,7 @@
   {
     "contentKey": "5faf4d5492feebbf",
     "supplierVariantId": "ST3000-BLO-L",
-    "stock": 2736,
+    "stock": 2688,
     "stockLevel": "in-stock",
     "price": 8,
     "color": {
@@ -629,7 +629,7 @@
   {
     "contentKey": "84bbb992fb8d4592",
     "supplierVariantId": "ST3000-BLO-XXL",
-    "stock": 2256,
+    "stock": 2208,
     "stockLevel": "in-stock",
     "price": 8,
     "color": {
@@ -658,7 +658,7 @@
   {
     "contentKey": "8fc2e8783e1d3074",
     "supplierVariantId": "ST3000-WHI-M",
-    "stock": 1536,
+    "stock": 1392,
     "stockLevel": "in-stock",
     "price": 6.88,
     "color": {
@@ -673,7 +673,7 @@
   {
     "contentKey": "90bf00471ddcd0df",
     "supplierVariantId": "ST3000-BLO-M",
-    "stock": 2352,
+    "stock": 2208,
     "stockLevel": "in-stock",
     "price": 8,
     "color": {
@@ -702,7 +702,7 @@
   {
     "contentKey": "9913180bef5135b9",
     "supplierVariantId": "ST3000-BLO-S",
-    "stock": 912,
+    "stock": 816,
     "stockLevel": "in-stock",
     "price": 8,
     "color": {
@@ -747,7 +747,7 @@
   {
     "contentKey": "9b333158cd66f356",
     "supplierVariantId": "ST3000-LBL-M",
-    "stock": 240,
+    "stock": 144,
     "stockLevel": "in-stock",
     "price": 8,
     "color": {
@@ -852,7 +852,7 @@
   {
     "contentKey": "b24c6ac9b28842b8",
     "supplierVariantId": "ST3000-OCB-XXL",
-    "stock": 384,
+    "stock": 336,
     "stockLevel": "in-stock",
     "price": 8,
     "color": {
@@ -982,7 +982,7 @@
   {
     "contentKey": "bf0c5edaceb00545",
     "supplierVariantId": "ST3000-LBL-L",
-    "stock": 336,
+    "stock": 288,
     "stockLevel": "in-stock",
     "price": 8,
     "color": {
@@ -1112,7 +1112,7 @@
   {
     "contentKey": "d3fbe8adc111ef56",
     "supplierVariantId": "ST3000-LBL-XXL",
-    "stock": 480,
+    "stock": 432,
     "stockLevel": "in-stock",
     "price": 8,
     "color": {
@@ -1257,7 +1257,7 @@
   {
     "contentKey": "f610a9c7e7244422",
     "supplierVariantId": "ST3000-BLM-M",
-    "stock": 1104,
+    "stock": 1056,
     "stockLevel": "in-stock",
     "price": 8,
     "color": {

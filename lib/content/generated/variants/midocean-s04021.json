@@ -324,7 +324,7 @@
   {
     "contentKey": "6112fbb00362738a",
     "supplierVariantId": "S04021-AR-L",
-    "stock": 35,
+    "stock": 55,
     "stockLevel": "in-stock",
     "price": 15.99,
     "color": {
@@ -352,7 +352,7 @@
   {
     "contentKey": "6687dcb91f29b190",
     "supplierVariantId": "S04021-FN-M",
-    "stock": 582,
+    "stock": 579,
     "stockLevel": "in-stock",
     "price": 15.99,
     "color": {
@@ -492,8 +492,8 @@
   {
     "contentKey": "9630a733ac9ea8cc",
     "supplierVariantId": "S04021-FG-XXL",
-    "stock": 5,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 15.99,
     "color": {
       "name": "Forest Green"
@@ -548,7 +548,7 @@
   {
     "contentKey": "b33bfb02f1d7b629",
     "supplierVariantId": "S04021-FN-L",
-    "stock": 405,
+    "stock": 404,
     "stockLevel": "in-stock",
     "price": 15.99,
     "color": {
@@ -660,7 +660,7 @@
   {
     "contentKey": "de6a1aedbf9e1826",
     "supplierVariantId": "S04021-AR-M",
-    "stock": 49,
+    "stock": 69,
     "stockLevel": "in-stock",
     "price": 15.99,
     "color": {

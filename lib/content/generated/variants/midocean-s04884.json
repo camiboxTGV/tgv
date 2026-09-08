@@ -30,7 +30,7 @@
   {
     "contentKey": "2c58369ec5783672",
     "supplierVariantId": "S04884-GY-S",
-    "stock": 9,
+    "stock": 8,
     "stockLevel": "low",
     "price": 34.79,
     "color": {
@@ -58,8 +58,8 @@
   {
     "contentKey": "7da7b9427b8a2778",
     "supplierVariantId": "S04884-GY-XL",
-    "stock": 10,
-    "stockLevel": "in-stock",
+    "stock": 8,
+    "stockLevel": "low",
     "price": 34.79,
     "color": {
       "name": "Grey Melange 2"
@@ -72,8 +72,8 @@
   {
     "contentKey": "831ab4d2f2f1e83d",
     "supplierVariantId": "S04884-BK-L",
-    "stock": 1,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 34.79,
     "color": {
       "name": "Black"
@@ -86,7 +86,7 @@
   {
     "contentKey": "85a4a5ee8eefa569",
     "supplierVariantId": "S04884-GY-M",
-    "stock": 9,
+    "stock": 7,
     "stockLevel": "low",
     "price": 34.79,
     "color": {
@@ -114,7 +114,7 @@
   {
     "contentKey": "aceb7ad94b1eedbb",
     "supplierVariantId": "S04884-GY-3XL",
-    "stock": 20,
+    "stock": 19,
     "stockLevel": "in-stock",
     "price": 40.01,
     "color": {
@@ -128,7 +128,7 @@
   {
     "contentKey": "b04b4652a8751bdd",
     "supplierVariantId": "S04884-GY-XXL",
-    "stock": 20,
+    "stock": 19,
     "stockLevel": "in-stock",
     "price": 34.79,
     "color": {
@@ -184,7 +184,7 @@
   {
     "contentKey": "feee34db3faf531e",
     "supplierVariantId": "S04884-GY-L",
-    "stock": 9,
+    "stock": 5,
     "stockLevel": "low",
     "price": 34.79,
     "color": {

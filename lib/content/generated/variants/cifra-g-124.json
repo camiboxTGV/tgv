@@ -92,8 +92,8 @@
   {
     "contentKey": "b0498d6cac601636",
     "supplierVariantId": "G-124-RO",
-    "stock": 532,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 2.49,
     "color": {
       "name": "Red",
@@ -107,7 +107,7 @@
   {
     "contentKey": "be740ff0841dd227",
     "supplierVariantId": "G-124-FU",
-    "stock": 687,
+    "stock": 677,
     "stockLevel": "in-stock",
     "price": 2.49,
     "color": {
@@ -152,7 +152,7 @@
   {
     "contentKey": "edde10f2090c7708",
     "supplierVariantId": "G-124-AZ/MED",
-    "stock": 1872,
+    "stock": 1862,
     "stockLevel": "in-stock",
     "price": 2.49,
     "imageRefs": [
