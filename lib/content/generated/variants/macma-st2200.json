@@ -152,8 +152,8 @@
   {
     "contentKey": "16100201cf867c27",
     "supplierVariantId": "ST2200-DBY-2XS",
-    "stock": 48,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 2.67,
     "color": {
       "name": "Deep Berry",
@@ -257,7 +257,7 @@
   {
     "contentKey": "1fb2c2b9f5a4de3a",
     "supplierVariantId": "ST2200-YEL-XS",
-    "stock": 576,
+    "stock": 480,
     "stockLevel": "in-stock",
     "price": 2.67,
     "color": {
@@ -572,7 +572,7 @@
   {
     "contentKey": "514ec14daef9dce2",
     "supplierVariantId": "ST2200-KEG-3XS",
-    "stock": 480,
+    "stock": 432,
     "stockLevel": "in-stock",
     "price": 2.67,
     "color": {
@@ -617,7 +617,7 @@
   {
     "contentKey": "562d8ba51c360624",
     "supplierVariantId": "ST2200-GLD-S",
-    "stock": 672,
+    "stock": 576,
     "stockLevel": "in-stock",
     "price": 2.67,
     "color": {
@@ -632,7 +632,7 @@
   {
     "contentKey": "576d672e641e7f18",
     "supplierVariantId": "ST2200-WHI-M",
-    "stock": 5165,
+    "stock": 5135,
     "stockLevel": "in-stock",
     "price": 2.39,
     "color": {
@@ -947,7 +947,7 @@
   {
     "contentKey": "7b4a10c4092e0067",
     "supplierVariantId": "ST2200-BLO-3XS",
-    "stock": 1536,
+    "stock": 1488,
     "stockLevel": "in-stock",
     "price": 2.67,
     "color": {
@@ -1112,7 +1112,7 @@
   {
     "contentKey": "8b9586a866048a27",
     "supplierVariantId": "ST2200-WHI-L",
-    "stock": 5115,
+    "stock": 5082,
     "stockLevel": "in-stock",
     "price": 2.39,
     "color": {
@@ -1517,7 +1517,7 @@
   {
     "contentKey": "bae4e0398233a483",
     "supplierVariantId": "ST2200-LBL-XS",
-    "stock": 768,
+    "stock": 672,
     "stockLevel": "in-stock",
     "price": 2.67,
     "color": {
@@ -1817,7 +1817,7 @@
   {
     "contentKey": "ded9fc694dab280f",
     "supplierVariantId": "ST2200-SLG-3XS",
-    "stock": 144,
+    "stock": 96,
     "stockLevel": "in-stock",
     "price": 2.67,
     "color": {
@@ -1907,8 +1907,8 @@
   {
     "contentKey": "e681d1abd51ed322",
     "supplierVariantId": "ST2200-GLD-XS",
-    "stock": 96,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 2.67,
     "color": {
       "name": "Gold",
@@ -2072,7 +2072,7 @@
   {
     "contentKey": "f2ed16d9b05e191c",
     "supplierVariantId": "ST2200-YEL-L",
-    "stock": 4032,
+    "stock": 3840,
     "stockLevel": "in-stock",
     "price": 2.67,
     "color": {
