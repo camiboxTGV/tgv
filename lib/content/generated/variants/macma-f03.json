@@ -31,7 +31,7 @@
   {
     "contentKey": "00500341abba60ef",
     "supplierVariantId": "F030111",
-    "stock": 100,
+    "stock": 96,
     "stockLevel": "in-stock",
     "price": 3.67,
     "color": {
@@ -188,7 +188,7 @@
   {
     "contentKey": "1b1ca025d17f33e6",
     "supplierVariantId": "F030311",
-    "stock": 33,
+    "stock": 30,
     "stockLevel": "in-stock",
     "price": 4.33,
     "color": {
@@ -260,8 +260,8 @@
   {
     "contentKey": "225b472e064fa05e",
     "supplierVariantId": "F030109",
-    "stock": 11,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 2.78,
     "color": {
       "name": "White",
@@ -275,7 +275,7 @@
   {
     "contentKey": "2cb4aa2e84e95796",
     "supplierVariantId": "F030107",
-    "stock": 792,
+    "stock": 793,
     "stockLevel": "in-stock",
     "price": 2.78,
     "color": {
@@ -334,7 +334,7 @@
   {
     "contentKey": "30820dfceb98831d",
     "supplierVariantId": "F030411",
-    "stock": 1921,
+    "stock": 1915,
     "stockLevel": "in-stock",
     "price": 4.33,
     "color": {
@@ -348,7 +348,7 @@
   {
     "contentKey": "30820dfceb98831d",
     "supplierVariantId": "F030412",
-    "stock": 342,
+    "stock": 340,
     "stockLevel": "in-stock",
     "price": 4.33,
     "color": {
@@ -419,8 +419,8 @@
   {
     "contentKey": "4096b0b7a5caa4b6",
     "supplierVariantId": "F032311",
-    "stock": 4,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 4.33,
     "color": {
       "name": "Light Graphite",
@@ -478,7 +478,7 @@
   {
     "contentKey": "5588980a8a4e90ee",
     "supplierVariantId": "F030308",
-    "stock": 8359,
+    "stock": 8358,
     "stockLevel": "in-stock",
     "price": 3.33,
     "color": {
@@ -493,7 +493,7 @@
   {
     "contentKey": "59b32f8877bb0940",
     "supplierVariantId": "F030609",
-    "stock": 268,
+    "stock": 264,
     "stockLevel": "in-stock",
     "price": 3.33,
     "color": {
@@ -583,7 +583,7 @@
   {
     "contentKey": "87101445adc8bf58",
     "supplierVariantId": "F032308",
-    "stock": 231,
+    "stock": 223,
     "stockLevel": "in-stock",
     "price": 3.33,
     "color": {
@@ -613,7 +613,7 @@
   {
     "contentKey": "8d9b256c5cc0d8aa",
     "supplierVariantId": "F030307",
-    "stock": 4868,
+    "stock": 4866,
     "stockLevel": "in-stock",
     "price": 3.33,
     "color": {
@@ -759,7 +759,7 @@
   {
     "contentKey": "bc9748f3ca3914f0",
     "supplierVariantId": "F030108",
-    "stock": 10800,
+    "stock": 10808,
     "stockLevel": "in-stock",
     "price": 2.78,
     "color": {
@@ -905,7 +905,7 @@
   {
     "contentKey": "d5b0a536445e6b06",
     "supplierVariantId": "F033908",
-    "stock": 1894,
+    "stock": 1893,
     "stockLevel": "in-stock",
     "price": 3.33,
     "color": {

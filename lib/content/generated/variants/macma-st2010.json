@@ -300,7 +300,7 @@
   {
     "contentKey": "523acda337b8d8f3",
     "supplierVariantId": "ST2010-BLO-XL",
-    "stock": 5000,
+    "stock": 1632,
     "stockLevel": "in-stock",
     "price": 3.22,
     "color": {
@@ -315,8 +315,8 @@
   {
     "contentKey": "584ff38f66ef52f0",
     "supplierVariantId": "ST2010-BLO-M",
-    "stock": 3744,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 3.22,
     "color": {
       "name": "Black Opal",
@@ -669,8 +669,8 @@
   {
     "contentKey": "e08c3144b28b440b",
     "supplierVariantId": "ST2010-BLO-L",
-    "stock": 4512,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 3.22,
     "color": {
       "name": "Black Opal",

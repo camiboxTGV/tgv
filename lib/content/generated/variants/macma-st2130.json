@@ -249,7 +249,7 @@
   {
     "contentKey": "9da21c680741b5a2",
     "supplierVariantId": "ST2130-WHI-XL",
-    "stock": 864,
+    "stock": 768,
     "stockLevel": "in-stock",
     "price": 5.63,
     "color": {
@@ -264,7 +264,7 @@
   {
     "contentKey": "b0c71c26cd21edcd",
     "supplierVariantId": "ST2130-GYH-S",
-    "stock": 288,
+    "stock": 192,
     "stockLevel": "in-stock",
     "price": 7.23,
     "color": {
@@ -279,8 +279,8 @@
   {
     "contentKey": "b14622db4437ef78",
     "supplierVariantId": "ST2130-WHI-L",
-    "stock": 192,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 5.63,
     "color": {
       "name": "White",

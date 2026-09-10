@@ -47,7 +47,7 @@
   {
     "contentKey": "09ab416ab08bb456",
     "supplierVariantId": "ST2100-NAV-M",
-    "stock": 4415,
+    "stock": 4223,
     "stockLevel": "in-stock",
     "price": 3.64,
     "color": {
@@ -77,7 +77,7 @@
   {
     "contentKey": "0dc2e9cae89a75a7",
     "supplierVariantId": "ST2100-BRR-3XL",
-    "stock": 757,
+    "stock": 733,
     "stockLevel": "in-stock",
     "price": 4.63,
     "color": {
@@ -133,8 +133,8 @@
   {
     "contentKey": "1023b706a9bea8cf",
     "supplierVariantId": "ST2100-BLM-S",
-    "stock": 96,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 3.64,
     "color": {
       "name": "Blue Midnight",
@@ -238,7 +238,7 @@
   {
     "contentKey": "1b9cb0bf26798670",
     "supplierVariantId": "ST2100-BOD-S",
-    "stock": 1056,
+    "stock": 864,
     "stockLevel": "in-stock",
     "price": 3.64,
     "color": {
@@ -283,7 +283,7 @@
   {
     "contentKey": "25dff28b94d96219",
     "supplierVariantId": "ST2100-SLG-S",
-    "stock": 4299,
+    "stock": 3723,
     "stockLevel": "in-stock",
     "price": 3.64,
     "color": {
@@ -298,7 +298,7 @@
   {
     "contentKey": "263e2dcc643b079d",
     "supplierVariantId": "ST2100-BOD-3XL",
-    "stock": 192,
+    "stock": 168,
     "stockLevel": "in-stock",
     "price": 4.63,
     "color": {
@@ -340,8 +340,8 @@
   {
     "contentKey": "263e2dcc643b079d",
     "supplierVariantId": "ST2100-BOD-XXL",
-    "stock": 192,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 3.64,
     "color": {
       "name": "Bordeaux",
@@ -384,7 +384,7 @@
   {
     "contentKey": "2c20fa5e3752426b",
     "supplierVariantId": "ST2100-WHI-3XL",
-    "stock": 2923,
+    "stock": 2683,
     "stockLevel": "in-stock",
     "price": 3.94,
     "color": {
@@ -426,7 +426,7 @@
   {
     "contentKey": "2c20fa5e3752426b",
     "supplierVariantId": "ST2100-WHI-XXL",
-    "stock": 9130,
+    "stock": 8938,
     "stockLevel": "in-stock",
     "price": 3.07,
     "color": {
@@ -743,7 +743,7 @@
   {
     "contentKey": "4a066dc45faf7e04",
     "supplierVariantId": "ST2100-KEG-XL",
-    "stock": 547,
+    "stock": 451,
     "stockLevel": "in-stock",
     "price": 3.64,
     "color": {
@@ -773,7 +773,7 @@
   {
     "contentKey": "4d4086807a715dfc",
     "supplierVariantId": "ST2100-SLG-3XL",
-    "stock": 1824,
+    "stock": 1608,
     "stockLevel": "in-stock",
     "price": 4.63,
     "color": {
@@ -871,7 +871,7 @@
   {
     "contentKey": "4d987fb0a9c837cb",
     "supplierVariantId": "ST2100-NAV-XXL",
-    "stock": 3933,
+    "stock": 3837,
     "stockLevel": "in-stock",
     "price": 3.64,
     "color": {
@@ -945,7 +945,7 @@
   {
     "contentKey": "5dbe0bc7f9b86dee",
     "supplierVariantId": "ST2100-NAV-L",
-    "stock": 5281,
+    "stock": 5185,
     "stockLevel": "in-stock",
     "price": 3.64,
     "color": {
@@ -960,7 +960,7 @@
   {
     "contentKey": "6260e4f1aa40e0e9",
     "supplierVariantId": "ST2100-WHI-S",
-    "stock": 4043,
+    "stock": 3947,
     "stockLevel": "in-stock",
     "price": 3.07,
     "color": {
@@ -1091,7 +1091,7 @@
   {
     "contentKey": "6d2c6ac24c19c4f9",
     "supplierVariantId": "ST2100-BOD-M",
-    "stock": 288,
+    "stock": 96,
     "stockLevel": "in-stock",
     "price": 3.64,
     "color": {
@@ -1121,7 +1121,7 @@
   {
     "contentKey": "6edec4994890a2e8",
     "supplierVariantId": "ST2100-GYH-XL",
-    "stock": 7526,
+    "stock": 7430,
     "stockLevel": "in-stock",
     "price": 3.64,
     "color": {
@@ -1474,7 +1474,7 @@
   {
     "contentKey": "9a599421a9ca5572",
     "supplierVariantId": "ST2100-SRE-XXL",
-    "stock": 797,
+    "stock": 701,
     "stockLevel": "in-stock",
     "price": 3.64,
     "color": {
@@ -1574,7 +1574,7 @@
   {
     "contentKey": "ab0780f410ac2e78",
     "supplierVariantId": "ST2100-BLO-XS",
-    "stock": 720,
+    "stock": 624,
     "stockLevel": "in-stock",
     "price": 3.64,
     "color": {
@@ -1604,7 +1604,7 @@
   {
     "contentKey": "ae5e89a6178e3eb6",
     "supplierVariantId": "ST2100-SRE-M",
-    "stock": 3290,
+    "stock": 3194,
     "stockLevel": "in-stock",
     "price": 3.64,
     "color": {
@@ -1649,7 +1649,7 @@
   {
     "contentKey": "c49a8d022088fe8f",
     "supplierVariantId": "ST2100-BOG-3XL",
-    "stock": 648,
+    "stock": 600,
     "stockLevel": "in-stock",
     "price": 4.63,
     "color": {
@@ -1792,7 +1792,7 @@
   {
     "contentKey": "db59e9a4bef4dd06",
     "supplierVariantId": "ST2100-GYH-XXL",
-    "stock": 3777,
+    "stock": 3681,
     "stockLevel": "in-stock",
     "price": 3.64,
     "color": {
@@ -1907,8 +1907,8 @@
   {
     "contentKey": "e9145cb053f88c01",
     "supplierVariantId": "ST2100-BOD-XL",
-    "stock": 96,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 3.64,
     "color": {
       "name": "Bordeaux",
@@ -1967,7 +1967,7 @@
   {
     "contentKey": "ee1444fa46ef4844",
     "supplierVariantId": "ST2100-SLG-M",
-    "stock": 8808,
+    "stock": 8616,
     "stockLevel": "in-stock",
     "price": 3.64,
     "color": {

@@ -90,7 +90,7 @@
   {
     "contentKey": "1227b1754e35647d",
     "supplierVariantId": "ST7000-WHI-XL",
-    "stock": 3330,
+    "stock": 3282,
     "stockLevel": "in-stock",
     "price": 4.25,
     "color": {
@@ -120,7 +120,7 @@
   {
     "contentKey": "181c263bda56d06d",
     "supplierVariantId": "ST7000-SRE-M",
-    "stock": 1392,
+    "stock": 1344,
     "stockLevel": "in-stock",
     "price": 4.75,
     "color": {
@@ -135,7 +135,7 @@
   {
     "contentKey": "1996cdc924c3fe3e",
     "supplierVariantId": "ST7000-SRE-XL",
-    "stock": 1776,
+    "stock": 1728,
     "stockLevel": "in-stock",
     "price": 4.75,
     "color": {
@@ -180,7 +180,7 @@
   {
     "contentKey": "1f27d1457a39f1f6",
     "supplierVariantId": "ST7000-BLO-XL",
-    "stock": 2305,
+    "stock": 2161,
     "stockLevel": "in-stock",
     "price": 4.75,
     "color": {
@@ -311,7 +311,7 @@
   {
     "contentKey": "2e1980b7752b2586",
     "supplierVariantId": "ST7000-BLO-L",
-    "stock": 3051,
+    "stock": 2859,
     "stockLevel": "in-stock",
     "price": 4.75,
     "color": {
@@ -326,7 +326,7 @@
   {
     "contentKey": "2e4036adb2485448",
     "supplierVariantId": "ST7000-BLO-S",
-    "stock": 2177,
+    "stock": 2129,
     "stockLevel": "in-stock",
     "price": 4.75,
     "color": {
@@ -341,7 +341,7 @@
   {
     "contentKey": "3756ec4d984c305e",
     "supplierVariantId": "ST7000-WHI-L",
-    "stock": 1382,
+    "stock": 1286,
     "stockLevel": "in-stock",
     "price": 4.25,
     "color": {
@@ -400,7 +400,7 @@
   {
     "contentKey": "4139e8e8547b7f43",
     "supplierVariantId": "ST7000-SLG-XXL",
-    "stock": 144,
+    "stock": 96,
     "stockLevel": "in-stock",
     "price": 4.75,
     "color": {
@@ -414,7 +414,7 @@
   {
     "contentKey": "4834f0f6d5699ddf",
     "supplierVariantId": "ST7000-BLM-XL",
-    "stock": 384,
+    "stock": 336,
     "stockLevel": "in-stock",
     "price": 4.75,
     "color": {
@@ -459,7 +459,7 @@
   {
     "contentKey": "4f0f406438d36b46",
     "supplierVariantId": "ST7000-SLG-XL",
-    "stock": 336,
+    "stock": 288,
     "stockLevel": "in-stock",
     "price": 4.75,
     "color": {
@@ -519,7 +519,7 @@
   {
     "contentKey": "5ca12eb87f579cd4",
     "supplierVariantId": "ST7000-WHI-3XL",
-    "stock": 1754,
+    "stock": 1730,
     "stockLevel": "in-stock",
     "price": 5.1,
     "color": {
@@ -533,8 +533,8 @@
   {
     "contentKey": "5ca12eb87f579cd4",
     "supplierVariantId": "ST7000-WHI-4XL",
-    "stock": 24,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 5.1,
     "color": {
       "name": "White",
@@ -561,7 +561,7 @@
   {
     "contentKey": "5ca12eb87f579cd4",
     "supplierVariantId": "ST7000-WHI-XXL",
-    "stock": 2410,
+    "stock": 2362,
     "stockLevel": "in-stock",
     "price": 4.25,
     "color": {
@@ -753,7 +753,7 @@
   {
     "contentKey": "77f6a8eb93bec9d1",
     "supplierVariantId": "ST7000-BLM-M",
-    "stock": 336,
+    "stock": 288,
     "stockLevel": "in-stock",
     "price": 4.75,
     "color": {
@@ -1002,7 +1002,7 @@
   {
     "contentKey": "a71ab124621e8198",
     "supplierVariantId": "ST7000-BLM-L",
-    "stock": 288,
+    "stock": 192,
     "stockLevel": "in-stock",
     "price": 4.75,
     "color": {
@@ -1017,7 +1017,7 @@
   {
     "contentKey": "aae86120aa9651f8",
     "supplierVariantId": "ST7000-BLO-M",
-    "stock": 2966,
+    "stock": 2870,
     "stockLevel": "in-stock",
     "price": 4.75,
     "color": {
@@ -1047,7 +1047,7 @@
   {
     "contentKey": "b179f804ecfc81ab",
     "supplierVariantId": "ST7000-WHI-M",
-    "stock": 1371,
+    "stock": 1323,
     "stockLevel": "in-stock",
     "price": 4.25,
     "color": {
@@ -1122,7 +1122,7 @@
   {
     "contentKey": "c4c3b6c2905e83bb",
     "supplierVariantId": "ST7000-SLG-L",
-    "stock": 384,
+    "stock": 336,
     "stockLevel": "in-stock",
     "price": 4.75,
     "color": {
@@ -1224,7 +1224,7 @@
   {
     "contentKey": "cf8a5dc9839c04dc",
     "supplierVariantId": "ST7000-GYH-XXL",
-    "stock": 2688,
+    "stock": 2640,
     "stockLevel": "in-stock",
     "price": 5.19,
     "color": {
@@ -1352,7 +1352,7 @@
   {
     "contentKey": "e691491ef8e6cec6",
     "supplierVariantId": "ST7000-WHI-S",
-    "stock": 1001,
+    "stock": 953,
     "stockLevel": "in-stock",
     "price": 4.25,
     "color": {
@@ -1442,7 +1442,7 @@
   {
     "contentKey": "f1935ad1f969f069",
     "supplierVariantId": "ST7000-SRE-L",
-    "stock": 1872,
+    "stock": 1824,
     "stockLevel": "in-stock",
     "price": 4.75,
     "color": {
@@ -1499,7 +1499,7 @@
   {
     "contentKey": "f8981f6354588ec9",
     "supplierVariantId": "ST7000-BLO-4XL",
-    "stock": 72,
+    "stock": 48,
     "stockLevel": "in-stock",
     "price": 5.67,
     "color": {
@@ -1527,7 +1527,7 @@
   {
     "contentKey": "f8981f6354588ec9",
     "supplierVariantId": "ST7000-BLO-XXL",
-    "stock": 97,
+    "stock": 49,
     "stockLevel": "in-stock",
     "price": 4.75,
     "color": {
