@@ -21,7 +21,7 @@
   {
     "contentKey": "0527c80424db0030",
     "supplierVariantId": "GI8800CB-S",
-    "stock": 31,
+    "stock": 29,
     "stockLevel": "in-stock",
     "price": 5.19,
     "color": {
@@ -76,7 +76,7 @@
   {
     "contentKey": "08e0c713e307c1c2",
     "supplierVariantId": "GI8800DH-L",
-    "stock": 648,
+    "stock": 646,
     "stockLevel": "in-stock",
     "price": 5.19,
     "color": {
@@ -95,7 +95,7 @@
   {
     "contentKey": "0a118482718bbf58",
     "supplierVariantId": "GI8800DH-M",
-    "stock": 1147,
+    "stock": 1145,
     "stockLevel": "in-stock",
     "price": 5.19,
     "color": {
@@ -114,7 +114,7 @@
   {
     "contentKey": "0b06f5dc81af56f2",
     "supplierVariantId": "GI8800WH-XL",
-    "stock": 748,
+    "stock": 730,
     "stockLevel": "in-stock",
     "price": 4.07,
     "color": {
@@ -133,7 +133,7 @@
   {
     "contentKey": "0eed7f3ec1e02c4c",
     "supplierVariantId": "GI8800RO-S",
-    "stock": 467,
+    "stock": 463,
     "stockLevel": "in-stock",
     "price": 5.19,
     "color": {
@@ -152,7 +152,7 @@
   {
     "contentKey": "11c9da69604c71a2",
     "supplierVariantId": "GI8800BL-S",
-    "stock": 1059,
+    "stock": 1058,
     "stockLevel": "in-stock",
     "price": 5.19,
     "color": {
@@ -171,7 +171,7 @@
   {
     "contentKey": "12c69c55665b640e",
     "supplierVariantId": "GI8800PU-S",
-    "stock": 3020,
+    "stock": 2974,
     "stockLevel": "in-stock",
     "price": 5.19,
     "color": {
@@ -228,7 +228,7 @@
   {
     "contentKey": "1a72b82c23bfe19d",
     "supplierVariantId": "GI8800SP-L",
-    "stock": 1083,
+    "stock": 1082,
     "stockLevel": "in-stock",
     "price": 5.19,
     "color": {
@@ -266,7 +266,7 @@
   {
     "contentKey": "1ee89984541edfd9",
     "supplierVariantId": "GI8800PU-L",
-    "stock": 477,
+    "stock": 467,
     "stockLevel": "in-stock",
     "price": 5.19,
     "color": {
@@ -285,7 +285,7 @@
   {
     "contentKey": "221c72df24e1e415",
     "supplierVariantId": "GI8800BL-L",
-    "stock": 703,
+    "stock": 700,
     "stockLevel": "in-stock",
     "price": 5.19,
     "color": {
@@ -304,7 +304,7 @@
   {
     "contentKey": "22ad9d0ad7920e58",
     "supplierVariantId": "GI8800NV-S",
-    "stock": 630,
+    "stock": 628,
     "stockLevel": "in-stock",
     "price": 5.19,
     "color": {
@@ -360,7 +360,7 @@
   {
     "contentKey": "2c8a16a42619c83e",
     "supplierVariantId": "GI8800RO-XL",
-    "stock": 749,
+    "stock": 747,
     "stockLevel": "in-stock",
     "price": 5.19,
     "color": {
@@ -433,7 +433,7 @@
   {
     "contentKey": "382ceea3fc212d72",
     "supplierVariantId": "GI8800LB-L",
-    "stock": 300,
+    "stock": 294,
     "stockLevel": "in-stock",
     "price": 5.19,
     "color": {
@@ -525,7 +525,7 @@
   {
     "contentKey": "56a59f42fda7f9ca",
     "supplierVariantId": "GI8800RO-L",
-    "stock": 3861,
+    "stock": 3859,
     "stockLevel": "in-stock",
     "price": 5.19,
     "color": {
@@ -563,7 +563,7 @@
   {
     "contentKey": "6a44217c88935a43",
     "supplierVariantId": "GI8800SA-L",
-    "stock": 2419,
+    "stock": 2383,
     "stockLevel": "in-stock",
     "price": 5.19,
     "color": {
@@ -637,7 +637,7 @@
   {
     "contentKey": "7037bc6af5b0a170",
     "supplierVariantId": "GI8800PU-XL",
-    "stock": 392,
+    "stock": 382,
     "stockLevel": "in-stock",
     "price": 5.19,
     "color": {
@@ -656,7 +656,7 @@
   {
     "contentKey": "7505891a75624803",
     "supplierVariantId": "GI8800NV-2XL",
-    "stock": 2145,
+    "stock": 2137,
     "stockLevel": "in-stock",
     "price": 5.19,
     "color": {
@@ -673,7 +673,7 @@
   {
     "contentKey": "7505891a75624803",
     "supplierVariantId": "GI8800NV-3XL",
-    "stock": 2684,
+    "stock": 2680,
     "stockLevel": "in-stock",
     "price": 6.75,
     "color": {
@@ -709,7 +709,7 @@
   {
     "contentKey": "794e73aa3e0a3d8a",
     "supplierVariantId": "GI8800LB-M",
-    "stock": 112,
+    "stock": 104,
     "stockLevel": "in-stock",
     "price": 5.19,
     "color": {
@@ -747,8 +747,8 @@
   {
     "contentKey": "7e1fa7b92362158a",
     "supplierVariantId": "GI8800WH-L",
-    "stock": 2,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 4.07,
     "color": {
       "name": "White",
@@ -928,7 +928,7 @@
   {
     "contentKey": "a5c679f3f77e6db9",
     "supplierVariantId": "GI8800NV-XL",
-    "stock": 1172,
+    "stock": 1170,
     "stockLevel": "in-stock",
     "price": 5.19,
     "color": {
@@ -946,7 +946,7 @@
   {
     "contentKey": "b51c5e2bf14bfbb5",
     "supplierVariantId": "GI8800WH-2XL",
-    "stock": 379,
+    "stock": 374,
     "stockLevel": "in-stock",
     "price": 4.07,
     "color": {
@@ -964,7 +964,7 @@
   {
     "contentKey": "b51c5e2bf14bfbb5",
     "supplierVariantId": "GI8800WH-3XL",
-    "stock": 148,
+    "stock": 135,
     "stockLevel": "in-stock",
     "price": 5.34,
     "color": {
@@ -1069,7 +1069,7 @@
   {
     "contentKey": "bd376ba3a86651c3",
     "supplierVariantId": "GI8800PU-2XL",
-    "stock": 224,
+    "stock": 219,
     "stockLevel": "in-stock",
     "price": 5.19,
     "color": {
@@ -1105,7 +1105,7 @@
   {
     "contentKey": "beaeede4bd6663e0",
     "supplierVariantId": "GI8800RO-M",
-    "stock": 369,
+    "stock": 367,
     "stockLevel": "in-stock",
     "price": 5.19,
     "color": {
@@ -1124,7 +1124,7 @@
   {
     "contentKey": "c0018403c67295ce",
     "supplierVariantId": "GI8800RE-2XL",
-    "stock": 72,
+    "stock": 70,
     "stockLevel": "in-stock",
     "price": 5.19,
     "color": {
@@ -1234,7 +1234,7 @@
   {
     "contentKey": "caea63332593ceab",
     "supplierVariantId": "GI8800GO-L",
-    "stock": 527,
+    "stock": 491,
     "stockLevel": "in-stock",
     "price": 5.19,
     "color": {
@@ -1272,7 +1272,7 @@
   {
     "contentKey": "d8ce223d278ad6e7",
     "supplierVariantId": "GI8800PU-M",
-    "stock": 364,
+    "stock": 349,
     "stockLevel": "in-stock",
     "price": 5.19,
     "color": {
@@ -1329,7 +1329,7 @@
   {
     "contentKey": "e774766a02391036",
     "supplierVariantId": "GI8800WH-M",
-    "stock": 40,
+    "stock": 1768,
     "stockLevel": "in-stock",
     "price": 4.07,
     "color": {
@@ -1348,7 +1348,7 @@
   {
     "contentKey": "e905eac5646da7df",
     "supplierVariantId": "GI8800RE-L",
-    "stock": 921,
+    "stock": 914,
     "stockLevel": "in-stock",
     "price": 5.19,
     "color": {
@@ -1367,7 +1367,7 @@
   {
     "contentKey": "e98b335a49723f31",
     "supplierVariantId": "GI8800NV-L",
-    "stock": 1175,
+    "stock": 1170,
     "stockLevel": "in-stock",
     "price": 5.19,
     "color": {
@@ -1439,7 +1439,7 @@
   {
     "contentKey": "f360c8ee09727d9a",
     "supplierVariantId": "GI8800BL-3XL",
-    "stock": 2269,
+    "stock": 2267,
     "stockLevel": "in-stock",
     "price": 6.75,
     "color": {
@@ -1457,7 +1457,7 @@
   {
     "contentKey": "fed16664c95f3c15",
     "supplierVariantId": "GI8800BL-M",
-    "stock": 1286,
+    "stock": 1276,
     "stockLevel": "in-stock",
     "price": 5.19,
     "color": {
