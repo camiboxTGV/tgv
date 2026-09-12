@@ -326,8 +326,8 @@
   {
     "contentKey": "4dcb0b9cf0350d81",
     "supplierVariantId": "BO461509",
-    "stock": 11,
-    "stockLevel": "in-stock",
+    "stock": 9,
+    "stockLevel": "low",
     "price": 8,
     "color": {
       "name": "Heather Grey",
@@ -426,8 +426,8 @@
   {
     "contentKey": "716384f379e1d6a0",
     "supplierVariantId": "BO461508",
-    "stock": 2,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 8,
     "color": {
       "name": "Heather Grey",
@@ -524,7 +524,7 @@
   {
     "contentKey": "8994cf8378d084ff",
     "supplierVariantId": "BO462307",
-    "stock": 22,
+    "stock": 20,
     "stockLevel": "in-stock",
     "price": 8,
     "color": {
@@ -540,8 +540,8 @@
   {
     "contentKey": "8cfeace523e90ce0",
     "supplierVariantId": "BO461006",
-    "stock": 2,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 8,
     "color": {
       "name": "Pumpkin Orange",
@@ -935,7 +935,7 @@
   {
     "contentKey": "dfc0544ad3e11c33",
     "supplierVariantId": "BO461008",
-    "stock": 4,
+    "stock": 2,
     "stockLevel": "low",
     "price": 8,
     "color": {

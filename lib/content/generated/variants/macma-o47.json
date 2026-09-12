@@ -991,7 +991,7 @@
   {
     "contentKey": "a35c0a8829e5fdfc",
     "supplierVariantId": "BO471508",
-    "stock": 20,
+    "stock": 18,
     "stockLevel": "in-stock",
     "price": 10.01,
     "color": {
@@ -1059,8 +1059,8 @@
   {
     "contentKey": "b325909e72001c6d",
     "supplierVariantId": "BO472309",
-    "stock": 2,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 10.01,
     "color": {
       "name": "Anthracite",
@@ -1323,7 +1323,7 @@
   {
     "contentKey": "ea666f3ac021d2f5",
     "supplierVariantId": "BO472307",
-    "stock": 12,
+    "stock": 10,
     "stockLevel": "in-stock",
     "price": 10.01,
     "color": {
@@ -1339,8 +1339,8 @@
   {
     "contentKey": "eb949f1aef5920b6",
     "supplierVariantId": "BO470709",
-    "stock": 10,
-    "stockLevel": "in-stock",
+    "stock": 9,
+    "stockLevel": "low",
     "price": 10.01,
     "color": {
       "name": "Royal Blue",
