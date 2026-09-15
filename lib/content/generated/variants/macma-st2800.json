@@ -46,8 +46,8 @@
   {
     "contentKey": "246464c9e0ec1b0a",
     "supplierVariantId": "ST2800-WHI-XXL",
-    "stock": 192,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 2.94,
     "color": {
       "name": "White",
@@ -75,8 +75,8 @@
   {
     "contentKey": "6c7e4cba8238404a",
     "supplierVariantId": "ST2800-WHI-L",
-    "stock": 192,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 2.94,
     "color": {
       "name": "White",
@@ -90,7 +90,7 @@
   {
     "contentKey": "7222f4da3af03bb9",
     "supplierVariantId": "ST2800-WHI-XL",
-    "stock": 384,
+    "stock": 192,
     "stockLevel": "in-stock",
     "price": 2.94,
     "color": {

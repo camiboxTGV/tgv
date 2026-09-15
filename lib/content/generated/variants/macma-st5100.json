@@ -92,8 +92,8 @@
   {
     "contentKey": "205f0afa1f1cdd3d",
     "supplierVariantId": "ST5100-BLO-L",
-    "stock": 24,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 14.65,
     "color": {
       "name": "Black Opal",
@@ -107,8 +107,8 @@
   {
     "contentKey": "40f1b1325669e0e8",
     "supplierVariantId": "ST5100-BLO-M",
-    "stock": 24,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 14.65,
     "color": {
       "name": "Black Opal",
@@ -122,7 +122,7 @@
   {
     "contentKey": "6025641b43f91755",
     "supplierVariantId": "ST5100-BLO-S",
-    "stock": 240,
+    "stock": 216,
     "stockLevel": "in-stock",
     "price": 14.65,
     "color": {
@@ -179,7 +179,7 @@
   {
     "contentKey": "dad27666846f0705",
     "supplierVariantId": "ST5100-BLO-XL",
-    "stock": 264,
+    "stock": 240,
     "stockLevel": "in-stock",
     "price": 14.65,
     "color": {
