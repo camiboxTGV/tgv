@@ -47,7 +47,7 @@
   {
     "contentKey": "04f95b72f4c115fa",
     "supplierVariantId": "ST2000-KIW-M",
-    "stock": 4842,
+    "stock": 4888,
     "stockLevel": "in-stock",
     "price": 3.04,
     "color": {
@@ -266,7 +266,7 @@
   {
     "contentKey": "103d9e7560c164aa",
     "supplierVariantId": "ST2000-SLG-3XL",
-    "stock": 552,
+    "stock": 528,
     "stockLevel": "in-stock",
     "price": 3.94,
     "color": {
@@ -596,7 +596,7 @@
   {
     "contentKey": "1c89b616105582d5",
     "supplierVariantId": "ST2000-BLO-5XL",
-    "stock": 2904,
+    "stock": 2880,
     "stockLevel": "in-stock",
     "price": 3.94,
     "color": {
@@ -911,7 +911,7 @@
   {
     "contentKey": "295557cbbe5a9142",
     "supplierVariantId": "ST2000-KIW-XL",
-    "stock": 3868,
+    "stock": 3914,
     "stockLevel": "in-stock",
     "price": 3.04,
     "color": {
@@ -941,7 +941,7 @@
   {
     "contentKey": "2ad153ff1e8df482",
     "supplierVariantId": "ST2000-BOD-S",
-    "stock": 2112,
+    "stock": 1920,
     "stockLevel": "in-stock",
     "price": 3.04,
     "color": {
@@ -1091,7 +1091,7 @@
   {
     "contentKey": "3bf6ce7382a2bd02",
     "supplierVariantId": "ST2000-KEG-XL",
-    "stock": 4766,
+    "stock": 4670,
     "stockLevel": "in-stock",
     "price": 3.04,
     "color": {
@@ -1206,8 +1206,8 @@
   {
     "contentKey": "417d79fd88ca5a7c",
     "supplierVariantId": "ST2000-BOD-2XS",
-    "stock": 96,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 3.04,
     "color": {
       "name": "Bordeaux",
@@ -1234,7 +1234,7 @@
   {
     "contentKey": "417d79fd88ca5a7c",
     "supplierVariantId": "ST2000-BOD-4XL",
-    "stock": 96,
+    "stock": 48,
     "stockLevel": "in-stock",
     "price": 3.94,
     "color": {
@@ -1506,7 +1506,7 @@
   {
     "contentKey": "4d1e4319c9f194c2",
     "supplierVariantId": "ST2000-WHI-M",
-    "stock": 10227,
+    "stock": 10197,
     "stockLevel": "in-stock",
     "price": 2.88,
     "color": {
@@ -1521,7 +1521,7 @@
   {
     "contentKey": "4d48b3d46a19cde4",
     "supplierVariantId": "ST2000-BLM-XS",
-    "stock": 336,
+    "stock": 240,
     "stockLevel": "in-stock",
     "price": 3.04,
     "color": {
@@ -1856,7 +1856,7 @@
   {
     "contentKey": "5d16e538988f17a0",
     "supplierVariantId": "ST2000-MAB-XXL",
-    "stock": 1248,
+    "stock": 1152,
     "stockLevel": "in-stock",
     "price": 3.04,
     "color": {
@@ -1885,7 +1885,7 @@
   {
     "contentKey": "62823a8ed89b7e12",
     "supplierVariantId": "ST2000-SRE-S",
-    "stock": 6416,
+    "stock": 6342,
     "stockLevel": "in-stock",
     "price": 3.04,
     "color": {
@@ -1960,7 +1960,7 @@
   {
     "contentKey": "662a57d5ae0b361b",
     "supplierVariantId": "ST2000-BLO-XS",
-    "stock": 7702,
+    "stock": 7654,
     "stockLevel": "in-stock",
     "price": 3.04,
     "color": {
@@ -1975,7 +1975,7 @@
   {
     "contentKey": "677022a97c184280",
     "supplierVariantId": "ST2000-WHI-XL",
-    "stock": 10199,
+    "stock": 10169,
     "stockLevel": "in-stock",
     "price": 2.88,
     "color": {
@@ -2650,7 +2650,7 @@
   {
     "contentKey": "83cbbf6bd02eef5b",
     "supplierVariantId": "ST2000-BRR-XXL",
-    "stock": 8750,
+    "stock": 8654,
     "stockLevel": "in-stock",
     "price": 3.04,
     "color": {
@@ -2739,7 +2739,7 @@
   {
     "contentKey": "8d172f6a53972e74",
     "supplierVariantId": "ST2000-BOG-XL",
-    "stock": 10081,
+    "stock": 10065,
     "stockLevel": "in-stock",
     "price": 3.04,
     "color": {
@@ -2814,7 +2814,7 @@
   {
     "contentKey": "94cc10a5c5930382",
     "supplierVariantId": "ST2000-BOD-L",
-    "stock": 2688,
+    "stock": 2592,
     "stockLevel": "in-stock",
     "price": 3.04,
     "color": {
@@ -2919,7 +2919,7 @@
   {
     "contentKey": "a143404a6d5158ff",
     "supplierVariantId": "ST2000-WHI-S",
-    "stock": 10064,
+    "stock": 10034,
     "stockLevel": "in-stock",
     "price": 2.88,
     "color": {
@@ -3036,7 +3036,7 @@
   {
     "contentKey": "aa26937e0c07fee6",
     "supplierVariantId": "ST2000-SRE-2XS",
-    "stock": 2784,
+    "stock": 2736,
     "stockLevel": "in-stock",
     "price": 3.04,
     "color": {
@@ -3305,7 +3305,7 @@
   {
     "contentKey": "b56811da3c7e1860",
     "supplierVariantId": "ST2000-KEG-M",
-    "stock": 5320,
+    "stock": 5224,
     "stockLevel": "in-stock",
     "price": 3.04,
     "color": {
@@ -3380,7 +3380,7 @@
   {
     "contentKey": "beb2c27520698819",
     "supplierVariantId": "ST2000-NAV-XS",
-    "stock": 1440,
+    "stock": 1392,
     "stockLevel": "in-stock",
     "price": 3.04,
     "color": {
@@ -3455,7 +3455,7 @@
   {
     "contentKey": "c45b8bf78778d4f0",
     "supplierVariantId": "ST2000-WHI-L",
-    "stock": 10220,
+    "stock": 10190,
     "stockLevel": "in-stock",
     "price": 2.88,
     "color": {
@@ -3485,7 +3485,7 @@
   {
     "contentKey": "c779bd087df7c6eb",
     "supplierVariantId": "ST2000-BOD-XS",
-    "stock": 432,
+    "stock": 336,
     "stockLevel": "in-stock",
     "price": 3.04,
     "color": {
@@ -3544,7 +3544,7 @@
   {
     "contentKey": "cc72eb45e86ce4d4",
     "supplierVariantId": "ST2000-NAV-3XL",
-    "stock": 2544,
+    "stock": 2496,
     "stockLevel": "in-stock",
     "price": 3.94,
     "color": {
@@ -3558,7 +3558,7 @@
   {
     "contentKey": "cc72eb45e86ce4d4",
     "supplierVariantId": "ST2000-NAV-4XL",
-    "stock": 744,
+    "stock": 720,
     "stockLevel": "in-stock",
     "price": 3.94,
     "color": {
@@ -3572,7 +3572,7 @@
   {
     "contentKey": "cc72eb45e86ce4d4",
     "supplierVariantId": "ST2000-NAV-5XL",
-    "stock": 480,
+    "stock": 432,
     "stockLevel": "in-stock",
     "price": 3.94,
     "color": {
@@ -3586,7 +3586,7 @@
   {
     "contentKey": "cc72eb45e86ce4d4",
     "supplierVariantId": "ST2000-NAV-XXL",
-    "stock": 5669,
+    "stock": 5573,
     "stockLevel": "in-stock",
     "price": 3.04,
     "color": {
@@ -3847,7 +3847,7 @@
   {
     "contentKey": "dacc584ed83b8d30",
     "supplierVariantId": "ST2000-WHI-XS",
-    "stock": 5083,
+    "stock": 5035,
     "stockLevel": "in-stock",
     "price": 2.88,
     "color": {
@@ -3892,7 +3892,7 @@
   {
     "contentKey": "e193ba4753f8517b",
     "supplierVariantId": "ST2000-BRR-S",
-    "stock": 9569,
+    "stock": 9666,
     "stockLevel": "in-stock",
     "price": 3.04,
     "color": {
@@ -4012,7 +4012,7 @@
   {
     "contentKey": "f181535a4ccf773a",
     "supplierVariantId": "ST2000-BOD-M",
-    "stock": 4032,
+    "stock": 3936,
     "stockLevel": "in-stock",
     "price": 3.04,
     "color": {
@@ -4071,7 +4071,7 @@
   {
     "contentKey": "f61e9f38d5e07a11",
     "supplierVariantId": "ST2000-WHI-3XL",
-    "stock": 4202,
+    "stock": 4199,
     "stockLevel": "in-stock",
     "price": 3.25,
     "color": {
@@ -4113,7 +4113,7 @@
   {
     "contentKey": "f61e9f38d5e07a11",
     "supplierVariantId": "ST2000-WHI-XXL",
-    "stock": 10172,
+    "stock": 10152,
     "stockLevel": "in-stock",
     "price": 2.88,
     "color": {
@@ -4157,7 +4157,7 @@
   {
     "contentKey": "fb0db0f2eefc7e04",
     "supplierVariantId": "ST2000-SUN-L",
-    "stock": 1900,
+    "stock": 1804,
     "stockLevel": "in-stock",
     "price": 3.04,
     "color": {
@@ -4172,7 +4172,7 @@
   {
     "contentKey": "fb4ed9453596e1ab",
     "supplierVariantId": "ST2000-KIW-L",
-    "stock": 6761,
+    "stock": 6807,
     "stockLevel": "in-stock",
     "price": 3.04,
     "color": {

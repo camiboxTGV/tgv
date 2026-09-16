@@ -35,7 +35,7 @@
   {
     "contentKey": "13f98729104bdfcd",
     "supplierVariantId": "SO00583AG-18/23M",
-    "stock": 412,
+    "stock": 405,
     "stockLevel": "in-stock",
     "price": 3.71,
     "color": {
@@ -71,7 +71,7 @@
   {
     "contentKey": "21985710fbc5b36e",
     "supplierVariantId": "SO00583FN-12/18M",
-    "stock": 175,
+    "stock": 174,
     "stockLevel": "in-stock",
     "price": 3.71,
     "color": {
@@ -104,8 +104,8 @@
   {
     "contentKey": "321f2d686e0fe510",
     "supplierVariantId": "SO00583WH-18/23M",
-    "stock": 12,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 3.71,
     "color": {
       "name": "White",
@@ -122,7 +122,7 @@
   {
     "contentKey": "3cc788db630813e6",
     "supplierVariantId": "SO00583AG-6/12M",
-    "stock": 1078,
+    "stock": 1072,
     "stockLevel": "in-stock",
     "price": 3.71,
     "color": {
@@ -140,7 +140,7 @@
   {
     "contentKey": "46888d9c0fa05587",
     "supplierVariantId": "SO00583GM-12/18M",
-    "stock": 1070,
+    "stock": 1060,
     "stockLevel": "in-stock",
     "price": 3.71,
     "color": {
@@ -155,7 +155,7 @@
   {
     "contentKey": "4753a63d89bfcddc",
     "supplierVariantId": "SO00583GM-6/12M",
-    "stock": 893,
+    "stock": 882,
     "stockLevel": "in-stock",
     "price": 3.71,
     "color": {
@@ -188,7 +188,7 @@
   {
     "contentKey": "4eedf65cadd0ee21",
     "supplierVariantId": "SO00583OP-12/18M",
-    "stock": 257,
+    "stock": 227,
     "stockLevel": "in-stock",
     "price": 3.71,
     "color": {
@@ -206,7 +206,7 @@
   {
     "contentKey": "58dd0d8ad386ec0f",
     "supplierVariantId": "SO00583WH-3/6M",
-    "stock": 4217,
+    "stock": 3357,
     "stockLevel": "in-stock",
     "price": 3.71,
     "color": {
@@ -242,7 +242,7 @@
   {
     "contentKey": "64dc1370883cdbcd",
     "supplierVariantId": "SO00583WH-12/18M",
-    "stock": 3334,
+    "stock": 2765,
     "stockLevel": "in-stock",
     "price": 3.71,
     "color": {
@@ -260,7 +260,7 @@
   {
     "contentKey": "7229bca6b99b09f1",
     "supplierVariantId": "SO00583GM-18/23M",
-    "stock": 868,
+    "stock": 768,
     "stockLevel": "in-stock",
     "price": 3.71,
     "color": {
@@ -275,7 +275,7 @@
   {
     "contentKey": "75d7be211c70517b",
     "supplierVariantId": "SO00583WH-6/12M",
-    "stock": 3913,
+    "stock": 3145,
     "stockLevel": "in-stock",
     "price": 3.71,
     "color": {
@@ -326,7 +326,7 @@
   {
     "contentKey": "974b73153a79b180",
     "supplierVariantId": "SO00583BL-3/6M",
-    "stock": 1306,
+    "stock": 1305,
     "stockLevel": "in-stock",
     "price": 3.71,
     "color": {
@@ -362,7 +362,7 @@
   {
     "contentKey": "ad40af503973431a",
     "supplierVariantId": "SO00583AG-12/18M",
-    "stock": 791,
+    "stock": 785,
     "stockLevel": "in-stock",
     "price": 3.71,
     "color": {
@@ -398,8 +398,8 @@
   {
     "contentKey": "b3ea5a0c7361602d",
     "supplierVariantId": "SO00583OP-3/6M",
-    "stock": 37,
-    "stockLevel": "in-stock",
+    "stock": 6,
+    "stockLevel": "low",
     "price": 3.71,
     "color": {
       "name": "Orchid Pink",
@@ -416,8 +416,8 @@
   {
     "contentKey": "b81b642333e8e05e",
     "supplierVariantId": "SO00583AG-3/6M",
-    "stock": 17,
-    "stockLevel": "in-stock",
+    "stock": 7,
+    "stockLevel": "low",
     "price": 3.71,
     "color": {
       "name": "Apple Green",
@@ -434,7 +434,7 @@
   {
     "contentKey": "c964400e3e04dbd4",
     "supplierVariantId": "SO00583AQ-3/6M",
-    "stock": 802,
+    "stock": 800,
     "stockLevel": "in-stock",
     "price": 3.71,
     "color": {
@@ -470,7 +470,7 @@
   {
     "contentKey": "dc57dc92283fe2d1",
     "supplierVariantId": "SO00583GM-3/6M",
-    "stock": 83,
+    "stock": 52,
     "stockLevel": "in-stock",
     "price": 3.71,
     "color": {
@@ -521,7 +521,7 @@
   {
     "contentKey": "f7dae61f222f4f09",
     "supplierVariantId": "SO00583AQ-12/18M",
-    "stock": 706,
+    "stock": 705,
     "stockLevel": "in-stock",
     "price": 3.71,
     "color": {
