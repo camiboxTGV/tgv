@@ -46,7 +46,7 @@
   {
     "contentKey": "0abad4d0ad173aef",
     "supplierVariantId": "F011011",
-    "stock": 36,
+    "stock": 144,
     "stockLevel": "in-stock",
     "price": 3.28,
     "color": {
@@ -75,7 +75,7 @@
   {
     "contentKey": "1c5bc83f200705f4",
     "supplierVariantId": "F010107",
-    "stock": 37384,
+    "stock": 37144,
     "stockLevel": "in-stock",
     "price": 2.07,
     "color": {
@@ -105,7 +105,7 @@
   {
     "contentKey": "2787a202b3439eb2",
     "supplierVariantId": "F012108",
-    "stock": 1920,
+    "stock": 1680,
     "stockLevel": "in-stock",
     "price": 2.66,
     "color": {
@@ -120,8 +120,8 @@
   {
     "contentKey": "279671e2c0c648d3",
     "supplierVariantId": "F012107",
-    "stock": 240,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 2.66,
     "color": {
       "name": "Azure",
@@ -163,7 +163,7 @@
   {
     "contentKey": "36ca35460907fd8d",
     "supplierVariantId": "F011511",
-    "stock": 1404,
+    "stock": 1368,
     "stockLevel": "in-stock",
     "price": 3.28,
     "color": {
@@ -221,7 +221,7 @@
   {
     "contentKey": "42524cd60ee8aa6a",
     "supplierVariantId": "F010707",
-    "stock": 5160,
+    "stock": 4920,
     "stockLevel": "in-stock",
     "price": 2.66,
     "color": {
@@ -295,7 +295,7 @@
   {
     "contentKey": "5ac2a0ad60ca34c8",
     "supplierVariantId": "F010710",
-    "stock": 2268,
+    "stock": 2052,
     "stockLevel": "in-stock",
     "price": 2.66,
     "color": {
@@ -338,7 +338,7 @@
   {
     "contentKey": "5e104cb1238b91ce",
     "supplierVariantId": "F010709",
-    "stock": 6720,
+    "stock": 6480,
     "stockLevel": "in-stock",
     "price": 2.66,
     "color": {
@@ -368,7 +368,7 @@
   {
     "contentKey": "6cf8e13686d818e3",
     "supplierVariantId": "F010109",
-    "stock": 26945,
+    "stock": 24905,
     "stockLevel": "in-stock",
     "price": 2.07,
     "color": {
@@ -383,7 +383,7 @@
   {
     "contentKey": "6e536a0b2ea014e6",
     "supplierVariantId": "F010307",
-    "stock": 41668,
+    "stock": 41395,
     "stockLevel": "in-stock",
     "price": 2.66,
     "color": {
@@ -398,7 +398,7 @@
   {
     "contentKey": "6fe21ebf77605f19",
     "supplierVariantId": "F010308",
-    "stock": 72485,
+    "stock": 72215,
     "stockLevel": "in-stock",
     "price": 2.66,
     "color": {
@@ -413,7 +413,7 @@
   {
     "contentKey": "73e0c2a2849b478a",
     "supplierVariantId": "F010708",
-    "stock": 11880,
+    "stock": 11640,
     "stockLevel": "in-stock",
     "price": 2.66,
     "color": {
@@ -428,7 +428,7 @@
   {
     "contentKey": "7afdbed8dee9c7fa",
     "supplierVariantId": "F010106",
-    "stock": 25158,
+    "stock": 24918,
     "stockLevel": "in-stock",
     "price": 2.07,
     "color": {
@@ -443,7 +443,7 @@
   {
     "contentKey": "7b9637fcc4450e63",
     "supplierVariantId": "F010409",
-    "stock": 9842,
+    "stock": 9785,
     "stockLevel": "in-stock",
     "price": 2.66,
     "color": {
@@ -458,7 +458,7 @@
   {
     "contentKey": "83f5b0487aa4d6b1",
     "supplierVariantId": "F010410",
-    "stock": 3736,
+    "stock": 3680,
     "stockLevel": "in-stock",
     "price": 2.66,
     "color": {
@@ -544,7 +544,7 @@
   {
     "contentKey": "9857a80213b9ae2f",
     "supplierVariantId": "F010407",
-    "stock": 13727,
+    "stock": 13560,
     "stockLevel": "in-stock",
     "price": 2.66,
     "color": {
@@ -602,7 +602,7 @@
   {
     "contentKey": "a47b799adb562e47",
     "supplierVariantId": "F011509",
-    "stock": 41569,
+    "stock": 41329,
     "stockLevel": "in-stock",
     "price": 2.66,
     "color": {
@@ -617,7 +617,7 @@
   {
     "contentKey": "a5ad2c5841d05550",
     "supplierVariantId": "F011507",
-    "stock": 22913,
+    "stock": 22793,
     "stockLevel": "in-stock",
     "price": 2.66,
     "color": {
@@ -660,7 +660,7 @@
   {
     "contentKey": "b1d520ff831efda9",
     "supplierVariantId": "F010310",
-    "stock": 54741,
+    "stock": 54495,
     "stockLevel": "in-stock",
     "price": 2.66,
     "color": {
@@ -716,7 +716,7 @@
   {
     "contentKey": "b515f3466b4bdf3b",
     "supplierVariantId": "F010309",
-    "stock": 56434,
+    "stock": 56284,
     "stockLevel": "in-stock",
     "price": 2.66,
     "color": {
@@ -746,7 +746,7 @@
   {
     "contentKey": "b972e032df5e04ab",
     "supplierVariantId": "F010306",
-    "stock": 12916,
+    "stock": 12796,
     "stockLevel": "in-stock",
     "price": 2.66,
     "color": {
@@ -761,8 +761,8 @@
   {
     "contentKey": "bc96004c97a549c7",
     "supplierVariantId": "F012106",
-    "stock": 240,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 2.66,
     "color": {
       "name": "Azure",
@@ -791,7 +791,7 @@
   {
     "contentKey": "bdd9bb2f330e0f17",
     "supplierVariantId": "F011508",
-    "stock": 38507,
+    "stock": 38387,
     "stockLevel": "in-stock",
     "price": 2.66,
     "color": {
@@ -806,7 +806,7 @@
   {
     "contentKey": "c167734339174ac4",
     "supplierVariantId": "F010408",
-    "stock": 25339,
+    "stock": 25320,
     "stockLevel": "in-stock",
     "price": 2.66,
     "color": {
@@ -939,7 +939,7 @@
   {
     "contentKey": "e8cf33ab4175b82d",
     "supplierVariantId": "F010108",
-    "stock": 55647,
+    "stock": 55407,
     "stockLevel": "in-stock",
     "price": 2.07,
     "color": {
@@ -954,7 +954,7 @@
   {
     "contentKey": "fbe001974a7ef306",
     "supplierVariantId": "F010110",
-    "stock": 46779,
+    "stock": 46670,
     "stockLevel": "in-stock",
     "price": 2.07,
     "color": {
@@ -968,7 +968,7 @@
   {
     "contentKey": "fbe001974a7ef306",
     "supplierVariantId": "F010111",
-    "stock": 3477,
+    "stock": 2397,
     "stockLevel": "in-stock",
     "price": 2.63,
     "color": {
