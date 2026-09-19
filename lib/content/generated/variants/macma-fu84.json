@@ -121,8 +121,8 @@
   {
     "contentKey": "2235a4e235d349e9",
     "supplierVariantId": "FU842810",
-    "stock": 6,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 17.59,
     "color": {
       "name": "Fuchsia",
@@ -327,7 +327,7 @@
   {
     "contentKey": "989a57a6137eabcd",
     "supplierVariantId": "FU842809",
-    "stock": 17,
+    "stock": 16,
     "stockLevel": "in-stock",
     "price": 17.59,
     "color": {

@@ -65,8 +65,8 @@
   {
     "contentKey": "3fa1c05cbf08d802",
     "supplierVariantId": "2526108",
-    "stock": 99,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 1.29,
     "color": {
       "name": "Yellow",
@@ -107,7 +107,7 @@
   {
     "contentKey": "5dea5e9430d48f8e",
     "supplierVariantId": "2526110",
-    "stock": 2416,
+    "stock": 5916,
     "stockLevel": "in-stock",
     "price": 1.29,
     "color": {
@@ -128,7 +128,7 @@
   {
     "contentKey": "7b2033a312e5d73b",
     "supplierVariantId": "2526104",
-    "stock": 4016,
+    "stock": 11643,
     "stockLevel": "in-stock",
     "price": 1.29,
     "color": {
@@ -149,7 +149,7 @@
   {
     "contentKey": "93683194b3fb92ab",
     "supplierVariantId": "2526112",
-    "stock": 109,
+    "stock": 3209,
     "stockLevel": "in-stock",
     "price": 1.29,
     "color": {
@@ -170,7 +170,7 @@
   {
     "contentKey": "cea1b71f96ce962c",
     "supplierVariantId": "2526109",
-    "stock": 310,
+    "stock": 13086,
     "stockLevel": "in-stock",
     "price": 1.29,
     "color": {
@@ -231,7 +231,7 @@
   {
     "contentKey": "f852e1941a7871eb",
     "supplierVariantId": "2526103",
-    "stock": 17905,
+    "stock": 17813,
     "stockLevel": "in-stock",
     "price": 1.29,
     "color": {
