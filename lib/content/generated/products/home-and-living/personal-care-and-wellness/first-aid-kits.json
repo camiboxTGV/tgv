@@ -581,8 +581,8 @@
     ],
     "price": 7.22,
     "priceFrom": false,
-    "stock": 2,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/10230-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10230-03-500x500.jpg",
@@ -590,7 +590,7 @@
       "https://www.publicatalogue.com/image/cache/data/details/10230-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10230-05-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-19T08:01:30.231Z",
+    "fetchedAt": "2026-09-22T08:30:00.132Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,
@@ -1260,14 +1260,14 @@
     ],
     "price": 0.99,
     "priceFrom": false,
-    "stock": 1227,
+    "stock": 5000,
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/10718-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10718-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10718-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-05T07:38:18.012Z",
+    "fetchedAt": "2026-09-22T08:30:00.132Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,

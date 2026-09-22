@@ -137,8 +137,8 @@
   {
     "contentKey": "108fab0028b5b1ac",
     "supplierVariantId": "ST2200-BRR-3XS",
-    "stock": 48,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 2.67,
     "color": {
       "name": "Bright Royal",
@@ -182,7 +182,7 @@
   {
     "contentKey": "18b0bbd77d1539c2",
     "supplierVariantId": "ST2200-SRE-3XS",
-    "stock": 144,
+    "stock": 96,
     "stockLevel": "in-stock",
     "price": 2.67,
     "color": {
@@ -242,7 +242,7 @@
   {
     "contentKey": "1f08c71d8cdb452f",
     "supplierVariantId": "ST2200-BRR-2XS",
-    "stock": 240,
+    "stock": 192,
     "stockLevel": "in-stock",
     "price": 2.67,
     "color": {
@@ -287,7 +287,7 @@
   {
     "contentKey": "21be14f87a780eec",
     "supplierVariantId": "ST2200-OCB-3XS",
-    "stock": 432,
+    "stock": 384,
     "stockLevel": "in-stock",
     "price": 2.67,
     "color": {
@@ -347,8 +347,8 @@
   {
     "contentKey": "2b270eea73aafb1a",
     "supplierVariantId": "ST2200-DBY-XL",
-    "stock": 288,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 2.67,
     "color": {
       "name": "Deep Berry",
@@ -362,7 +362,7 @@
   {
     "contentKey": "2dbbd8a9189c4c9d",
     "supplierVariantId": "ST2200-BRR-XS",
-    "stock": 960,
+    "stock": 768,
     "stockLevel": "in-stock",
     "price": 2.67,
     "color": {
@@ -467,7 +467,7 @@
   {
     "contentKey": "41e2d869e0359f9f",
     "supplierVariantId": "ST2200-NAV-2XS",
-    "stock": 240,
+    "stock": 192,
     "stockLevel": "in-stock",
     "price": 2.67,
     "color": {
@@ -482,7 +482,7 @@
   {
     "contentKey": "4589b2611d7972ca",
     "supplierVariantId": "ST2200-ORA-S",
-    "stock": 3840,
+    "stock": 3744,
     "stockLevel": "in-stock",
     "price": 2.67,
     "color": {
@@ -752,7 +752,7 @@
   {
     "contentKey": "67010472785473c8",
     "supplierVariantId": "ST2200-BRR-S",
-    "stock": 3648,
+    "stock": 3552,
     "stockLevel": "in-stock",
     "price": 2.67,
     "color": {
@@ -767,7 +767,7 @@
   {
     "contentKey": "67d98892d4bec4f5",
     "supplierVariantId": "ST2200-BRR-L",
-    "stock": 3648,
+    "stock": 3456,
     "stockLevel": "in-stock",
     "price": 2.67,
     "color": {
@@ -842,7 +842,7 @@
   {
     "contentKey": "6d218c58d875f5f9",
     "supplierVariantId": "ST2200-NAV-XS",
-    "stock": 768,
+    "stock": 672,
     "stockLevel": "in-stock",
     "price": 2.67,
     "color": {
@@ -872,7 +872,7 @@
   {
     "contentKey": "6ee083910b86106d",
     "supplierVariantId": "ST2200-OCB-M",
-    "stock": 2016,
+    "stock": 1920,
     "stockLevel": "in-stock",
     "price": 2.67,
     "color": {
@@ -947,7 +947,7 @@
   {
     "contentKey": "7b4a10c4092e0067",
     "supplierVariantId": "ST2200-BLO-3XS",
-    "stock": 1440,
+    "stock": 1392,
     "stockLevel": "in-stock",
     "price": 2.67,
     "color": {
@@ -977,7 +977,7 @@
   {
     "contentKey": "7ddab8e5ec74f8cb",
     "supplierVariantId": "ST2200-DBY-L",
-    "stock": 576,
+    "stock": 384,
     "stockLevel": "in-stock",
     "price": 2.67,
     "color": {
@@ -992,7 +992,7 @@
   {
     "contentKey": "7f4a7940178618bc",
     "supplierVariantId": "ST2200-BRR-XL",
-    "stock": 3264,
+    "stock": 3168,
     "stockLevel": "in-stock",
     "price": 2.67,
     "color": {
@@ -1022,7 +1022,7 @@
   {
     "contentKey": "81c507f5a1ae7054",
     "supplierVariantId": "ST2200-NAV-XL",
-    "stock": 864,
+    "stock": 768,
     "stockLevel": "in-stock",
     "price": 2.67,
     "color": {
@@ -1037,7 +1037,7 @@
   {
     "contentKey": "8416532dcdcaaeb9",
     "supplierVariantId": "ST2200-BOG-2XS",
-    "stock": 288,
+    "stock": 240,
     "stockLevel": "in-stock",
     "price": 2.67,
     "color": {
@@ -1082,7 +1082,7 @@
   {
     "contentKey": "893d6b10da0cbfbc",
     "supplierVariantId": "ST2200-OCB-S",
-    "stock": 1056,
+    "stock": 960,
     "stockLevel": "in-stock",
     "price": 2.67,
     "color": {
@@ -1112,7 +1112,7 @@
   {
     "contentKey": "8b9586a866048a27",
     "supplierVariantId": "ST2200-WHI-L",
-    "stock": 5062,
+    "stock": 5084,
     "stockLevel": "in-stock",
     "price": 2.39,
     "color": {
@@ -1142,7 +1142,7 @@
   {
     "contentKey": "8f7fc4fb6d38fb7c",
     "supplierVariantId": "ST2200-SRE-XS",
-    "stock": 1632,
+    "stock": 1536,
     "stockLevel": "in-stock",
     "price": 2.67,
     "color": {
@@ -1157,7 +1157,7 @@
   {
     "contentKey": "95c08bdd7d1c9d3b",
     "supplierVariantId": "ST2200-OCB-2XS",
-    "stock": 480,
+    "stock": 432,
     "stockLevel": "in-stock",
     "price": 2.67,
     "color": {
@@ -1232,7 +1232,7 @@
   {
     "contentKey": "9cfaf685231491b1",
     "supplierVariantId": "ST2200-ORA-2XS",
-    "stock": 528,
+    "stock": 480,
     "stockLevel": "in-stock",
     "price": 2.67,
     "color": {
@@ -1277,7 +1277,7 @@
   {
     "contentKey": "a2c8e2a049852bc1",
     "supplierVariantId": "ST2200-BRR-M",
-    "stock": 4608,
+    "stock": 4512,
     "stockLevel": "in-stock",
     "price": 2.67,
     "color": {
@@ -1457,7 +1457,7 @@
   {
     "contentKey": "b90c7a8d660a49de",
     "supplierVariantId": "ST2200-WHI-3XS",
-    "stock": 3984,
+    "stock": 3936,
     "stockLevel": "in-stock",
     "price": 2.39,
     "color": {
@@ -1472,7 +1472,7 @@
   {
     "contentKey": "ba47d218283bd9b5",
     "supplierVariantId": "ST2200-BOD-2XS",
-    "stock": 144,
+    "stock": 96,
     "stockLevel": "in-stock",
     "price": 2.67,
     "color": {
@@ -1502,7 +1502,7 @@
   {
     "contentKey": "ba93a3d39170cbc0",
     "supplierVariantId": "ST2200-DBY-S",
-    "stock": 1248,
+    "stock": 1152,
     "stockLevel": "in-stock",
     "price": 2.67,
     "color": {
@@ -1517,7 +1517,7 @@
   {
     "contentKey": "bae4e0398233a483",
     "supplierVariantId": "ST2200-LBL-XS",
-    "stock": 672,
+    "stock": 576,
     "stockLevel": "in-stock",
     "price": 2.67,
     "color": {
@@ -1532,7 +1532,7 @@
   {
     "contentKey": "bc3ce47b0e7e31d4",
     "supplierVariantId": "ST2200-OCB-XL",
-    "stock": 288,
+    "stock": 192,
     "stockLevel": "in-stock",
     "price": 2.67,
     "color": {
@@ -1577,7 +1577,7 @@
   {
     "contentKey": "bf0404cec750bf0d",
     "supplierVariantId": "ST2200-BLO-2XS",
-    "stock": 1488,
+    "stock": 1440,
     "stockLevel": "in-stock",
     "price": 2.67,
     "color": {
@@ -1652,7 +1652,7 @@
   {
     "contentKey": "c82d564e92b3a692",
     "supplierVariantId": "ST2200-BOG-3XS",
-    "stock": 384,
+    "stock": 336,
     "stockLevel": "in-stock",
     "price": 2.67,
     "color": {
@@ -1697,7 +1697,7 @@
   {
     "contentKey": "ccb01e9ed99960e8",
     "supplierVariantId": "ST2200-GYH-2XS",
-    "stock": 816,
+    "stock": 768,
     "stockLevel": "in-stock",
     "price": 2.67,
     "color": {
@@ -1802,7 +1802,7 @@
   {
     "contentKey": "dd1c26ec0306d850",
     "supplierVariantId": "ST2200-ORA-M",
-    "stock": 3744,
+    "stock": 3648,
     "stockLevel": "in-stock",
     "price": 2.67,
     "color": {
@@ -1832,7 +1832,7 @@
   {
     "contentKey": "e0aec188b1cf2efa",
     "supplierVariantId": "ST2200-DBY-M",
-    "stock": 1152,
+    "stock": 960,
     "stockLevel": "in-stock",
     "price": 2.67,
     "color": {
@@ -1922,7 +1922,7 @@
   {
     "contentKey": "e830ea232b0e7360",
     "supplierVariantId": "ST2200-SRE-S",
-    "stock": 2976,
+    "stock": 2784,
     "stockLevel": "in-stock",
     "price": 2.67,
     "color": {
@@ -1967,7 +1967,7 @@
   {
     "contentKey": "e9363797d78df073",
     "supplierVariantId": "ST2200-LBL-2XS",
-    "stock": 528,
+    "stock": 480,
     "stockLevel": "in-stock",
     "price": 2.67,
     "color": {
@@ -1997,7 +1997,7 @@
   {
     "contentKey": "ecc63d956a51b379",
     "supplierVariantId": "ST2200-BLO-XS",
-    "stock": 4224,
+    "stock": 4032,
     "stockLevel": "in-stock",
     "price": 2.67,
     "color": {
@@ -2027,7 +2027,7 @@
   {
     "contentKey": "ef9d24f89a70d633",
     "supplierVariantId": "ST2200-ORA-XS",
-    "stock": 1440,
+    "stock": 1344,
     "stockLevel": "in-stock",
     "price": 2.67,
     "color": {
@@ -2087,7 +2087,7 @@
   {
     "contentKey": "f312692e08e94f8a",
     "supplierVariantId": "ST2200-WHI-S",
-    "stock": 5000,
+    "stock": 5016,
     "stockLevel": "in-stock",
     "price": 2.39,
     "color": {
@@ -2117,7 +2117,7 @@
   {
     "contentKey": "f63164a4b3dab855",
     "supplierVariantId": "ST2200-KEG-XL",
-    "stock": 1920,
+    "stock": 1824,
     "stockLevel": "in-stock",
     "price": 2.67,
     "color": {
@@ -2132,7 +2132,7 @@
   {
     "contentKey": "f79417dba5916ee5",
     "supplierVariantId": "ST2200-YEL-M",
-    "stock": 4128,
+    "stock": 4032,
     "stockLevel": "in-stock",
     "price": 2.67,
     "color": {
@@ -2162,7 +2162,7 @@
   {
     "contentKey": "fae9e71b9b75301a",
     "supplierVariantId": "ST2200-SRE-2XS",
-    "stock": 768,
+    "stock": 720,
     "stockLevel": "in-stock",
     "price": 2.67,
     "color": {

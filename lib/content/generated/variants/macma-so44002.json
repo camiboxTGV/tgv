@@ -51,8 +51,8 @@
   {
     "contentKey": "1f439a1cc7ac27e4",
     "supplierVariantId": "SO44002NV-2XL",
-    "stock": 144,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 18.41,
     "color": {
       "name": "Navy",
@@ -66,7 +66,7 @@
   {
     "contentKey": "1f439a1cc7ac27e4",
     "supplierVariantId": "SO44002NV-3XL",
-    "stock": 203,
+    "stock": 122,
     "stockLevel": "in-stock",
     "price": 22.96,
     "color": {
@@ -81,7 +81,7 @@
   {
     "contentKey": "1f439a1cc7ac27e4",
     "supplierVariantId": "SO44002NV-4XL",
-    "stock": 253,
+    "stock": 207,
     "stockLevel": "in-stock",
     "price": 22.96,
     "color": {
@@ -191,7 +191,7 @@
   {
     "contentKey": "34bfb5a429f67265",
     "supplierVariantId": "SO44002RO-XL",
-    "stock": 509,
+    "stock": 489,
     "stockLevel": "in-stock",
     "price": 18.41,
     "color": {
@@ -257,7 +257,7 @@
   {
     "contentKey": "6f4eeb384311a496",
     "supplierVariantId": "SO44002FO-XL",
-    "stock": 970,
+    "stock": 964,
     "stockLevel": "in-stock",
     "price": 18.41,
     "color": {
@@ -273,7 +273,7 @@
   {
     "contentKey": "76e86245ce17be50",
     "supplierVariantId": "SO44002FO-2XL",
-    "stock": 817,
+    "stock": 811,
     "stockLevel": "in-stock",
     "price": 18.41,
     "color": {
@@ -288,7 +288,7 @@
   {
     "contentKey": "7991b22c66b46ced",
     "supplierVariantId": "SO44002CHG-M",
-    "stock": 139,
+    "stock": 129,
     "stockLevel": "in-stock",
     "price": 18.41,
     "color": {
@@ -321,7 +321,7 @@
   {
     "contentKey": "9166d2ec39032b6a",
     "supplierVariantId": "SO44002NV-XL",
-    "stock": 476,
+    "stock": 106,
     "stockLevel": "in-stock",
     "price": 18.41,
     "color": {
@@ -337,7 +337,7 @@
   {
     "contentKey": "91d1464884a335af",
     "supplierVariantId": "SO44002BL-L",
-    "stock": 1711,
+    "stock": 1701,
     "stockLevel": "in-stock",
     "price": 18.41,
     "color": {
@@ -386,7 +386,7 @@
   {
     "contentKey": "a55edddb13c2e8b1",
     "supplierVariantId": "SO44002BL-2XL",
-    "stock": 794,
+    "stock": 780,
     "stockLevel": "in-stock",
     "price": 18.41,
     "color": {
@@ -401,7 +401,7 @@
   {
     "contentKey": "a55edddb13c2e8b1",
     "supplierVariantId": "SO44002BL-3XL",
-    "stock": 451,
+    "stock": 440,
     "stockLevel": "in-stock",
     "price": 22.96,
     "color": {
@@ -508,7 +508,7 @@
   {
     "contentKey": "be383705fd9518be",
     "supplierVariantId": "SO44002NV-M",
-    "stock": 864,
+    "stock": 433,
     "stockLevel": "in-stock",
     "price": 18.41,
     "color": {
@@ -539,7 +539,7 @@
   {
     "contentKey": "cd6bfae44555c860",
     "supplierVariantId": "SO44002NV-L",
-    "stock": 969,
+    "stock": 537,
     "stockLevel": "in-stock",
     "price": 18.41,
     "color": {
@@ -572,7 +572,7 @@
   {
     "contentKey": "e4c951ff5efc92b7",
     "supplierVariantId": "SO44002BL-XL",
-    "stock": 1859,
+    "stock": 1849,
     "stockLevel": "in-stock",
     "price": 18.41,
     "color": {
@@ -605,7 +605,7 @@
   {
     "contentKey": "e576fdb1b1ee14e9",
     "supplierVariantId": "SO44002NV-S",
-    "stock": 872,
+    "stock": 580,
     "stockLevel": "in-stock",
     "price": 18.41,
     "color": {
@@ -654,7 +654,7 @@
   {
     "contentKey": "f6c7c37e503ab3ab",
     "supplierVariantId": "SO44002RO-2XL",
-    "stock": 390,
+    "stock": 370,
     "stockLevel": "in-stock",
     "price": 18.41,
     "color": {
@@ -670,7 +670,7 @@
   {
     "contentKey": "f6c7c37e503ab3ab",
     "supplierVariantId": "SO44002RO-3XL",
-    "stock": 280,
+    "stock": 270,
     "stockLevel": "in-stock",
     "price": 22.96,
     "color": {
@@ -686,7 +686,7 @@
   {
     "contentKey": "f6c7c37e503ab3ab",
     "supplierVariantId": "SO44002RO-4XL",
-    "stock": 208,
+    "stock": 206,
     "stockLevel": "in-stock",
     "price": 21.36,
     "color": {

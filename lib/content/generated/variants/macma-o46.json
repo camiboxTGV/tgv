@@ -68,8 +68,8 @@
   {
     "contentKey": "0e0ec5a97e96a9c9",
     "supplierVariantId": "BO462311",
-    "stock": 1,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 8,
     "color": {
       "name": "Anthracite",
@@ -524,7 +524,7 @@
   {
     "contentKey": "8994cf8378d084ff",
     "supplierVariantId": "BO462307",
-    "stock": 20,
+    "stock": 19,
     "stockLevel": "in-stock",
     "price": 8,
     "color": {
