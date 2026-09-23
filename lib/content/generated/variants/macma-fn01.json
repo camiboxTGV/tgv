@@ -48,8 +48,8 @@
   {
     "contentKey": "0de64329ef9e4720",
     "supplierVariantId": "FN010410",
-    "stock": 1,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 6.03,
     "color": {
       "name": "Navy",
@@ -117,7 +117,7 @@
   {
     "contentKey": "175e4e11398c60a4",
     "supplierVariantId": "FN010409",
-    "stock": 676,
+    "stock": 675,
     "stockLevel": "in-stock",
     "price": 6.03,
     "color": {
@@ -134,7 +134,7 @@
   {
     "contentKey": "17fd91878ce167c2",
     "supplierVariantId": "FN010109",
-    "stock": 1552,
+    "stock": 1551,
     "stockLevel": "in-stock",
     "price": 6.03,
     "color": {
@@ -320,7 +320,7 @@
   {
     "contentKey": "352bcf745c34ae7a",
     "supplierVariantId": "FN010809",
-    "stock": 605,
+    "stock": 601,
     "stockLevel": "in-stock",
     "price": 6.03,
     "color": {
@@ -370,7 +370,7 @@
   {
     "contentKey": "3b7c09e158159569",
     "supplierVariantId": "FN010313",
-    "stock": 68,
+    "stock": 66,
     "stockLevel": "in-stock",
     "price": 6.03,
     "color": {
@@ -696,7 +696,7 @@
   {
     "contentKey": "82e6a58b8640af89",
     "supplierVariantId": "FN010810",
-    "stock": 389,
+    "stock": 387,
     "stockLevel": "in-stock",
     "price": 6.03,
     "color": {
@@ -1038,7 +1038,7 @@
   {
     "contentKey": "ca7c1d7954765098",
     "supplierVariantId": "FN010107",
-    "stock": 980,
+    "stock": 979,
     "stockLevel": "in-stock",
     "price": 6.03,
     "color": {
@@ -1110,7 +1110,7 @@
   {
     "contentKey": "d0f75d576a3f5a13",
     "supplierVariantId": "FN011210",
-    "stock": 599,
+    "stock": 598,
     "stockLevel": "in-stock",
     "price": 6.03,
     "color": {
@@ -1147,7 +1147,7 @@
   {
     "contentKey": "d43e73169505cf15",
     "supplierVariantId": "FN010309",
-    "stock": 844,
+    "stock": 843,
     "stockLevel": "in-stock",
     "price": 6.03,
     "color": {
@@ -1300,7 +1300,7 @@
   {
     "contentKey": "df945daeb8f1d105",
     "supplierVariantId": "FN010108",
-    "stock": 2722,
+    "stock": 2721,
     "stockLevel": "in-stock",
     "price": 6.03,
     "color": {
@@ -1480,7 +1480,7 @@
   {
     "contentKey": "f1098f22bba4bd99",
     "supplierVariantId": "FN011410",
-    "stock": 280,
+    "stock": 278,
     "stockLevel": "in-stock",
     "price": 6.03,
     "color": {

@@ -90,7 +90,7 @@
   {
     "contentKey": "0de4dd09bc233cbb",
     "supplierVariantId": "ST2600-KIW-XL",
-    "stock": 384,
+    "stock": 288,
     "stockLevel": "in-stock",
     "price": 3.04,
     "color": {
@@ -608,7 +608,7 @@
   {
     "contentKey": "45439f471b095bba",
     "supplierVariantId": "ST2600-NAV-M",
-    "stock": 1440,
+    "stock": 1344,
     "stockLevel": "in-stock",
     "price": 3.04,
     "color": {
@@ -668,7 +668,7 @@
   {
     "contentKey": "470674ecc2718ac3",
     "supplierVariantId": "ST2600-KIW-S",
-    "stock": 1056,
+    "stock": 576,
     "stockLevel": "in-stock",
     "price": 3.04,
     "color": {
@@ -1269,7 +1269,7 @@
   {
     "contentKey": "72b8ceadf10133a1",
     "supplierVariantId": "ST2600-NAV-L",
-    "stock": 1056,
+    "stock": 960,
     "stockLevel": "in-stock",
     "price": 3.04,
     "color": {
@@ -1741,7 +1741,7 @@
   {
     "contentKey": "931a5eea53b666ae",
     "supplierVariantId": "ST2600-SPK-XXL",
-    "stock": 576,
+    "stock": 552,
     "stockLevel": "in-stock",
     "price": 3.04,
     "color": {
@@ -1830,7 +1830,7 @@
   {
     "contentKey": "9f9141de8d5d2f84",
     "supplierVariantId": "ST2600-KIW-M",
-    "stock": 1632,
+    "stock": 864,
     "stockLevel": "in-stock",
     "price": 3.04,
     "color": {
@@ -2448,7 +2448,7 @@
   {
     "contentKey": "c59c8f4f5d3f16ec",
     "supplierVariantId": "ST2600-WHI-XXL",
-    "stock": 4057,
+    "stock": 3961,
     "stockLevel": "in-stock",
     "price": 2.88,
     "color": {
@@ -2621,7 +2621,7 @@
   {
     "contentKey": "cf58dd7cba56fe31",
     "supplierVariantId": "ST2600-BLO-XS",
-    "stock": 2928,
+    "stock": 2880,
     "stockLevel": "in-stock",
     "price": 3.04,
     "color": {
@@ -2725,7 +2725,7 @@
   {
     "contentKey": "d7ac9db5444c4587",
     "supplierVariantId": "ST2600-SPK-S",
-    "stock": 672,
+    "stock": 768,
     "stockLevel": "in-stock",
     "price": 3.04,
     "color": {
@@ -2860,8 +2860,8 @@
   {
     "contentKey": "e7beec6bbe69fa0c",
     "supplierVariantId": "ST2600-KIW-L",
-    "stock": 288,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 3.04,
     "color": {
       "name": "Kiwi Green",
@@ -3053,7 +3053,7 @@
   {
     "contentKey": "fabd54e5ad75f5bf",
     "supplierVariantId": "ST2600-GYH-L",
-    "stock": 192,
+    "stock": 96,
     "stockLevel": "in-stock",
     "price": 3.04,
     "color": {
