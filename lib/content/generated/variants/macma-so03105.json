@@ -2,8 +2,8 @@
   {
     "contentKey": "1816eb6f45b87919",
     "supplierVariantId": "SO03105BL-XL",
-    "stock": 10,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 20.54,
     "color": {
       "name": "Black",
@@ -14,7 +14,7 @@
   {
     "contentKey": "7922af0ed38c2f7c",
     "supplierVariantId": "SO03105BL-S",
-    "stock": 184,
+    "stock": 164,
     "stockLevel": "in-stock",
     "price": 20.54,
     "color": {
@@ -26,8 +26,8 @@
   {
     "contentKey": "a9d4d5b4126c6a55",
     "supplierVariantId": "SO03105BL-L",
-    "stock": 106,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 20.54,
     "color": {
       "name": "Black",
@@ -38,7 +38,7 @@
   {
     "contentKey": "ac44c81bd8636f42",
     "supplierVariantId": "SO03105BL-M",
-    "stock": 236,
+    "stock": 216,
     "stockLevel": "in-stock",
     "price": 20.54,
     "color": {
@@ -50,8 +50,8 @@
   {
     "contentKey": "f2001ad1d28d2b23",
     "supplierVariantId": "SO03105BL-2XL",
-    "stock": 16,
-    "stockLevel": "in-stock",
+    "stock": 5,
+    "stockLevel": "low",
     "price": 20.54,
     "color": {
       "name": "Black",
