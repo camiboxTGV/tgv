@@ -114,7 +114,7 @@
   {
     "contentKey": "1cbb0811b4b47502",
     "supplierVariantId": "S01183-RD-4XL",
-    "stock": 78,
+    "stock": 48,
     "stockLevel": "in-stock",
     "price": 2.64,
     "color": {
@@ -296,7 +296,7 @@
   {
     "contentKey": "84b89f888a3afb5d",
     "supplierVariantId": "S01183-RD-XXL",
-    "stock": 280,
+    "stock": 230,
     "stockLevel": "in-stock",
     "price": 2.64,
     "color": {
@@ -492,8 +492,8 @@
   {
     "contentKey": "d850dcda38115b85",
     "supplierVariantId": "S01183-RD-3XL",
-    "stock": 46,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 2.64,
     "color": {
       "name": "Red"
@@ -534,8 +534,8 @@
   {
     "contentKey": "e7037878e054699a",
     "supplierVariantId": "S01183-RD-XL",
-    "stock": 11,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 2.64,
     "color": {
       "name": "Red"

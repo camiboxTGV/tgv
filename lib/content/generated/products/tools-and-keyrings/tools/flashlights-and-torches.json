@@ -376,8 +376,8 @@
     ],
     "price": 1.95,
     "priceFrom": false,
-    "stock": 7,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/Z-304-N-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/Z-304-N-05-500x500.jpg",
@@ -386,7 +386,7 @@
       "https://www.publicatalogue.com/image/cache/data/details/Z-304-N-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/Z-304-N-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-25T08:46:57.987Z",
+    "fetchedAt": "2026-09-26T08:33:26.451Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -474,7 +474,7 @@
     ],
     "price": 4,
     "priceFrom": false,
-    "stock": 228,
+    "stock": 227,
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/Z-862-500x500.jpg",
@@ -489,7 +489,7 @@
       "https://www.publicatalogue.com/image/cache/data/details/Z-862-08-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/Z-862-09-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-24T08:24:48.822Z",
+    "fetchedAt": "2026-09-26T08:33:26.451Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,
@@ -2055,14 +2055,14 @@
     ],
     "price": 4.15,
     "priceFrom": false,
-    "stock": 10471,
+    "stock": 10470,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/kc6860-03.jpg",
       "https://cdn1.midocean.com/image/700X700/kc6860-03-back.jpg",
       "https://cdn1.midocean.com/image/700X700/kc6860-03-print.jpg"
     ],
-    "fetchedAt": "2026-09-25T08:46:53.461Z",
+    "fetchedAt": "2026-09-26T08:33:23.778Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2147,14 +2147,14 @@
     ],
     "price": 4.08,
     "priceFrom": false,
-    "stock": 1993,
+    "stock": 301,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/kc7130-16.jpg",
       "https://cdn1.midocean.com/image/700X700/kc7130-16-back.jpg",
       "https://cdn1.midocean.com/image/700X700/kc7130-16-box.jpg"
     ],
-    "fetchedAt": "2026-09-24T08:24:44.584Z",
+    "fetchedAt": "2026-09-26T08:33:23.778Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2248,7 +2248,7 @@
     ],
     "price": 3.56,
     "priceFrom": false,
-    "stock": 560,
+    "stock": 557,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2137-40.jpg",
@@ -2263,7 +2263,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2137-40-picture5.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2137-40-picture7.jpg"
     ],
-    "fetchedAt": "2026-09-24T08:24:44.584Z",
+    "fetchedAt": "2026-09-26T08:33:23.778Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2570,7 +2570,7 @@
     ],
     "price": 2.93,
     "priceFrom": false,
-    "stock": 15214,
+    "stock": 14802,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2428-03.jpg",
@@ -2584,7 +2584,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2428-03-picture4.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2428-03-picture7.jpg"
     ],
-    "fetchedAt": "2026-09-25T08:46:53.461Z",
+    "fetchedAt": "2026-09-26T08:33:23.778Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2997,7 +2997,7 @@
     ],
     "price": 4.02,
     "priceFrom": false,
-    "stock": 14704,
+    "stock": 15776,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2724-03.jpg",
@@ -3010,7 +3010,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2724-03-box.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2724-03-picture1.jpg"
     ],
-    "fetchedAt": "2026-09-25T08:46:53.461Z",
+    "fetchedAt": "2026-09-26T08:33:23.778Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -3134,7 +3134,7 @@
     ],
     "price": 11.28,
     "priceFrom": true,
-    "stock": 31232,
+    "stock": 31031,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2746-03.jpg",
@@ -3149,7 +3149,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2746-03-picture4.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2746-03-picture7.jpg"
     ],
-    "fetchedAt": "2026-09-25T08:46:53.461Z",
+    "fetchedAt": "2026-09-26T08:33:23.778Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -3251,7 +3251,7 @@
     ],
     "price": 2.63,
     "priceFrom": false,
-    "stock": 14771,
+    "stock": 14702,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2786-03.jpg",
@@ -3265,7 +3265,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2786-03-picture1.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2786-03-picture6.jpg"
     ],
-    "fetchedAt": "2026-09-25T08:46:53.461Z",
+    "fetchedAt": "2026-09-26T08:33:23.778Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -3465,7 +3465,7 @@
     ],
     "price": 2.84,
     "priceFrom": false,
-    "stock": 12640,
+    "stock": 12659,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2991-03.jpg",
@@ -3478,7 +3478,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2991-03-picture5.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2991-03-picture6.jpg"
     ],
-    "fetchedAt": "2026-09-25T08:46:53.461Z",
+    "fetchedAt": "2026-09-26T08:33:23.778Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -3876,7 +3876,7 @@
     ],
     "price": 8.75,
     "priceFrom": false,
-    "stock": 2666,
+    "stock": 2665,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo6591-03.jpg",
@@ -3888,7 +3888,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6591-03-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6936-03-box.jpg"
     ],
-    "fetchedAt": "2026-09-24T08:24:44.584Z",
+    "fetchedAt": "2026-09-26T08:33:23.778Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -4178,7 +4178,7 @@
     ],
     "price": 4.56,
     "priceFrom": false,
-    "stock": 7157,
+    "stock": 7067,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo8559-18.jpg",
@@ -4186,7 +4186,7 @@
       "https://cdn1.midocean.com/image/700X700/mo8559-18c.jpg",
       "https://cdn1.midocean.com/image/700X700/mo8559-18-print.jpg"
     ],
-    "fetchedAt": "2026-09-23T08:32:07.190Z",
+    "fetchedAt": "2026-09-26T08:33:23.778Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
