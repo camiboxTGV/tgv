@@ -504,8 +504,8 @@
   {
     "contentKey": "3b8bab1ab118ce14",
     "supplierVariantId": "ST2600-BOD-S",
-    "stock": 96,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 3.04,
     "color": {
       "name": "Bordeaux",
@@ -786,7 +786,7 @@
   {
     "contentKey": "50fc66ff6e0cbcff",
     "supplierVariantId": "ST2600-SRE-XL",
-    "stock": 1536,
+    "stock": 1440,
     "stockLevel": "in-stock",
     "price": 3.04,
     "color": {
@@ -1037,7 +1037,7 @@
   {
     "contentKey": "628bdd17036e80b0",
     "supplierVariantId": "ST2600-NAT-S",
-    "stock": 1056,
+    "stock": 960,
     "stockLevel": "in-stock",
     "price": 3.04,
     "color": {
@@ -1269,7 +1269,7 @@
   {
     "contentKey": "72b8ceadf10133a1",
     "supplierVariantId": "ST2600-NAV-L",
-    "stock": 960,
+    "stock": 864,
     "stockLevel": "in-stock",
     "price": 3.04,
     "color": {
@@ -1434,7 +1434,7 @@
   {
     "contentKey": "82e3416c3bfb456b",
     "supplierVariantId": "ST2600-DCH-M",
-    "stock": 864,
+    "stock": 768,
     "stockLevel": "in-stock",
     "price": 3.04,
     "color": {
@@ -2226,7 +2226,7 @@
   {
     "contentKey": "b65fd0562d2dfaf9",
     "supplierVariantId": "ST2600-BLI-L",
-    "stock": 384,
+    "stock": 288,
     "stockLevel": "in-stock",
     "price": 3.04,
     "color": {
@@ -2434,7 +2434,7 @@
   {
     "contentKey": "c59c8f4f5d3f16ec",
     "supplierVariantId": "ST2600-WHI-3XL",
-    "stock": 648,
+    "stock": 624,
     "stockLevel": "in-stock",
     "price": 3.25,
     "color": {
@@ -2448,7 +2448,7 @@
   {
     "contentKey": "c59c8f4f5d3f16ec",
     "supplierVariantId": "ST2600-WHI-XXL",
-    "stock": 3961,
+    "stock": 3937,
     "stockLevel": "in-stock",
     "price": 2.88,
     "color": {
@@ -2462,7 +2462,7 @@
   {
     "contentKey": "c86aae60608c986e",
     "supplierVariantId": "ST2600-SRE-L",
-    "stock": 2784,
+    "stock": 2592,
     "stockLevel": "in-stock",
     "price": 3.04,
     "color": {
@@ -2563,7 +2563,7 @@
   {
     "contentKey": "ce2d46b8a5abd71a",
     "supplierVariantId": "ST2600-NAV-S",
-    "stock": 672,
+    "stock": 576,
     "stockLevel": "in-stock",
     "price": 3.04,
     "color": {
@@ -2696,7 +2696,7 @@
   {
     "contentKey": "d5387d82969150b5",
     "supplierVariantId": "ST2600-SRE-XS",
-    "stock": 672,
+    "stock": 624,
     "stockLevel": "in-stock",
     "price": 3.04,
     "color": {
@@ -3053,8 +3053,8 @@
   {
     "contentKey": "fabd54e5ad75f5bf",
     "supplierVariantId": "ST2600-GYH-L",
-    "stock": 96,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 3.04,
     "color": {
       "name": "Grey Heather",
