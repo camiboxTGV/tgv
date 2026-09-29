@@ -5,6 +5,7 @@ import type {
   SupplierPersonalizationMethod,
 } from "./catalog.ts"
 import { flattenTree } from "./categories.ts"
+import { supplierDefinitions } from "../../suppliers/suppliers.ts"
 
 export type CatalogSyncValidationMode = "full" | "inventory"
 
@@ -13,6 +14,7 @@ export interface CatalogSyncValidationOptions {
   mode: CatalogSyncValidationMode
   now?: Date
   maxFullSyncAgeMs?: number
+  requiredSupplierIds?: readonly string[]
 }
 
 export interface CatalogSyncValidationResult {
@@ -217,6 +219,41 @@ async function validateFullSyncFiles(
 
   const indexTotal = Object.values(index.counts).reduce((sum, count) => sum + count, 0)
   assert(indexTotal === productCount, "Generated index total does not match generated product files.")
+
+  const requiredSupplierIds = options.requiredSupplierIds ?? supplierDefinitions
+    .filter((supplier) => supplier.enabled)
+    .map((supplier) => supplier.id)
+  assert(requiredSupplierIds.length > 0, "No required catalog suppliers are configured.")
+  assert(
+    new Set(requiredSupplierIds).size === requiredSupplierIds.length,
+    "Required catalog supplier ids contain duplicates.",
+  )
+
+  for (const supplierId of requiredSupplierIds) {
+    const generatedCount = supplierProductCounts.get(supplierId) ?? 0
+    assert(
+      generatedCount > 0,
+      `Enabled supplier "${supplierId}" produced no generated products.`,
+    )
+    const supplierReport = report.suppliers[supplierId]
+    assert(
+      supplierReport?.ok === true,
+      `Enabled supplier "${supplierId}" is missing or unsuccessful in the sync report.`,
+    )
+    assert(
+      Number.isInteger(supplierReport.normalized) && supplierReport.normalized > 0,
+      `Enabled supplier "${supplierId}" has no successful normalized output.`,
+    )
+    assert(
+      supplierReport.normalized === generatedCount,
+      `Enabled supplier "${supplierId}" report total does not match generated products.`,
+    )
+    const lastCount = last.suppliers?.[supplierId]
+    assert(
+      lastCount === generatedCount,
+      `Enabled supplier "${supplierId}" is missing or mismatched in last-sync.`,
+    )
+  }
 
   for (const [supplierId, generatedCount] of supplierProductCounts) {
     const supplierReport = report.suppliers[supplierId]

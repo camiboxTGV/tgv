@@ -8,11 +8,17 @@ import { validateGeneratedCatalog } from "./catalog-sync-validation.ts"
 
 const NOW = new Date("2026-08-14T15:00:00.000Z")
 const RAN_AT = "2026-08-14T14:59:00.000Z"
+const REQUIRED_SUPPLIERS = ["macma"] as const
 
 test("full catalog validation accepts exact F38 methods and matching reports", async () => {
   const root = await fixtureRoot([f38Product()])
   try {
-    const result = await validateGeneratedCatalog({ repoRoot: root, mode: "full", now: NOW })
+    const result = await validateGeneratedCatalog({
+      repoRoot: root,
+      mode: "full",
+      now: NOW,
+      requiredSupplierIds: REQUIRED_SUPPLIERS,
+    })
     assert.deepEqual(result.f38Codes, ["DC", "DT", "DW", "S2"])
     assert.equal(result.macmaMethods, 4)
   } finally {
@@ -27,7 +33,7 @@ test("full catalog validation rejects legacy Macma data before it can be publish
   const root = await fixtureRoot([product])
   try {
     await assert.rejects(
-      validateGeneratedCatalog({ repoRoot: root, mode: "full", now: NOW }),
+      validateGeneratedCatalog({ repoRoot: root, mode: "full", now: NOW, requiredSupplierIds: REQUIRED_SUPPLIERS }),
       /no exact Macma personalization data/,
     )
   } finally {
@@ -55,7 +61,7 @@ test("catalog validation rejects products without a numeric stock total", async 
   const root = await fixtureRoot([product as CatalogProduct])
   try {
     await assert.rejects(
-      validateGeneratedCatalog({ repoRoot: root, mode: "full", now: NOW }),
+      validateGeneratedCatalog({ repoRoot: root, mode: "full", now: NOW, requiredSupplierIds: REQUIRED_SUPPLIERS }),
       /invalid numeric stock/,
     )
   } finally {
@@ -69,7 +75,7 @@ test("catalog validation rejects stock labels that disagree with the numeric tot
   const root = await fixtureRoot([product])
   try {
     await assert.rejects(
-      validateGeneratedCatalog({ repoRoot: root, mode: "full", now: NOW }),
+      validateGeneratedCatalog({ repoRoot: root, mode: "full", now: NOW, requiredSupplierIds: REQUIRED_SUPPLIERS }),
       /stock level does not match/,
     )
   } finally {
@@ -86,7 +92,7 @@ test("catalog validation rejects duplicate product specification keys", async ()
   const root = await fixtureRoot([product])
   try {
     await assert.rejects(
-      validateGeneratedCatalog({ repoRoot: root, mode: "full", now: NOW }),
+      validateGeneratedCatalog({ repoRoot: root, mode: "full", now: NOW, requiredSupplierIds: REQUIRED_SUPPLIERS }),
       /duplicate specification key/,
     )
   } finally {
@@ -104,7 +110,7 @@ test("catalog validation rejects non-leaf and project categories", async () => {
     const root = await fixtureRoot([product])
     try {
       await assert.rejects(
-        validateGeneratedCatalog({ repoRoot: root, mode: "full", now: NOW }),
+        validateGeneratedCatalog({ repoRoot: root, mode: "full", now: NOW, requiredSupplierIds: REQUIRED_SUPPLIERS }),
         /is not an existing product leaf/,
       )
     } finally {
@@ -116,8 +122,25 @@ test("catalog validation rejects non-leaf and project categories", async () => {
 test("full catalog validation reconciles every generated supplier", async () => {
   const root = await fixtureRoot([f38Product(), midoceanProduct()])
   try {
-    const result = await validateGeneratedCatalog({ repoRoot: root, mode: "full", now: NOW })
+    const result = await validateGeneratedCatalog({ repoRoot: root, mode: "full", now: NOW, requiredSupplierIds: REQUIRED_SUPPLIERS })
     assert.equal(result.products, 2)
+  } finally {
+    await rm(root, { recursive: true, force: true })
+  }
+})
+
+test("full catalog validation requires positive output from every enabled supplier", async () => {
+  const root = await fixtureRoot([f38Product()])
+  try {
+    await assert.rejects(
+      validateGeneratedCatalog({
+        repoRoot: root,
+        mode: "full",
+        now: NOW,
+        requiredSupplierIds: ["macma", "bluecollection"],
+      }),
+      /Enabled supplier "bluecollection" produced no generated products/,
+    )
   } finally {
     await rm(root, { recursive: true, force: true })
   }
@@ -131,7 +154,7 @@ test("full catalog validation requires every generated supplier report to succee
     const root = await fixtureRoot([f38Product(), midoceanProduct()], options)
     try {
       await assert.rejects(
-        validateGeneratedCatalog({ repoRoot: root, mode: "full", now: NOW }),
+        validateGeneratedCatalog({ repoRoot: root, mode: "full", now: NOW, requiredSupplierIds: REQUIRED_SUPPLIERS }),
         /Supplier "midocean" is missing or unsuccessful/,
       )
     } finally {
@@ -146,7 +169,7 @@ test("full catalog validation rejects per-supplier report count mismatches", asy
   })
   try {
     await assert.rejects(
-      validateGeneratedCatalog({ repoRoot: root, mode: "full", now: NOW }),
+      validateGeneratedCatalog({ repoRoot: root, mode: "full", now: NOW, requiredSupplierIds: REQUIRED_SUPPLIERS }),
       /Supplier "midocean" report total does not match generated products/,
     )
   } finally {
@@ -160,7 +183,7 @@ test("full catalog validation rejects per-supplier last-sync count mismatches", 
   })
   try {
     await assert.rejects(
-      validateGeneratedCatalog({ repoRoot: root, mode: "full", now: NOW }),
+      validateGeneratedCatalog({ repoRoot: root, mode: "full", now: NOW, requiredSupplierIds: REQUIRED_SUPPLIERS }),
       /Last-sync supplier "midocean" total does not match generated products/,
     )
   } finally {

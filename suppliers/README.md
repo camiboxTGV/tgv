@@ -3,9 +3,9 @@
 Every supplier is isolated by `supplierId` and `supplierSku`. Product slugs, variants, reports,
 and downloaded image paths use that pair, so two suppliers may safely use the same SKU.
 
-The enabled production suppliers are Macma, midocean, and Cifra. Their API clients, payload types,
-category and decoration mappings, fixtures, and tests live in separate supplier directories;
-only the shared adapter contract and sync orchestration are common.
+The enabled production suppliers are Macma, midocean, Cifra, and Blue Collection. Their API clients,
+payload types, category and decoration mappings, fixtures, and tests live in separate supplier
+directories; only the shared adapter contract and sync orchestration are common.
 
 To add a supplier:
 
@@ -47,11 +47,12 @@ when deployable catalog JSON changes, and Firebase App Hosting then deploys that
 configured live branch.
 
 Before publishing, the workflow validates every enabled supplier's API credentials, generated
-totals, unique supplier SKUs, Macma's exact personalization payload, and the F38 S2/DC/DT/DW
-regression canary. It then runs the test suite and a production build. Automated commits are restricted to
-`lib/content/generated/**`; if the build changes any other tracked source, or the target branch
-advances while the sync is running, the job fails instead of publishing data produced from stale
-code. Each run writes a GitHub step summary and retains its sync log and reports for 14 days.
+totals, unique supplier SKUs, positive output for every enabled supplier, Macma's exact
+personalization payload, and the F38 S2/DC/DT/DW regression canary. It then runs the test suite and
+a production build. Automated commits are restricted to `lib/content/generated/**`; if the build
+changes any other tracked source, or the target branch advances while the sync is running, the job
+fails instead of publishing data produced from stale code. Each run writes a GitHub step summary
+and retains its sync log and reports for 14 days.
 
 After deploying supplier-adapter or personalization-mapping changes, manually run `full` once from
 `main` with the deletion-guard bypass disabled. Daily inventory mode deliberately does not rewrite
@@ -73,3 +74,13 @@ confidential JSON/CSV tariff, novelties JSON/CSV, quantity-break prices, and
 web-order creation. Catalog and inventory syncs use the confidential tariff and
 price-range feeds. Order creation defaults to `commit: false`; production callers
 must explicitly opt into committing an order.
+
+### Blue Collection
+
+Blue Collection uses `BLUECOLLECTION_USERNAME` and the generated
+`BLUECOLLECTION_PASSWORD`; `BLUECOLLECTION_API_BASE` defaults to
+`https://developers.bluecollection.eu`. Access and refresh tokens stay in memory and are renewed
+from their JWT expiry timestamps. Full syncs combine `/api/products-index/` with the dedicated
+stock feed, group colour variants into stable product families, exclude supplier catalogues and
+display cases, and quarantine every unseen category tuple. The adapter keeps the supplier's exact
+marking methods and sizes while mapping only compatible methods into TGV calculator families.

@@ -1,12 +1,14 @@
 /**
  * MidOcean category_level1/category_level2/category_level3 -> TGV leaf map.
  *
- * Snapshot source: products API 2.0, English, 2026-08-15.
- * Coverage: 240 normalized taxonomy tuples across 15,290 variants.
+ * Baseline snapshot source: products API 2.0, English, 2026-08-15.
+ * Coverage: 240 normalized taxonomy tuples across 15,290 variants, plus
+ * reviewed tuples added as the supplier taxonomy evolves.
  *
  * MidOcean publishes the taxonomy on each variant. All three levels are part
  * of the key, including an empty level 3. This is deliberately fail-closed:
- * a new supplier tuple must be reviewed before it can enter the catalogue.
+ * a new supplier tuple is quarantined for review instead of entering the
+ * catalogue or aborting the complete supplier sync.
  */
 
 export interface MidoceanCategoryInput {
@@ -81,6 +83,7 @@ export const MIDOCEAN_CATEGORY_MAP: Readonly<Record<string, string>> = Object.fr
   "clothing & wearables\u001ft-shirts\u001f": "apparel-and-wearables/t-shirts",
   "clothing & wearables\u001ft-shirts\u001flong sleeves": "apparel-and-wearables/t-shirts",
   "clothing & wearables\u001ft-shirts\u001fshort sleeves": "apparel-and-wearables/t-shirts",
+  "clothing & wearables\u001ftextile accessories\u001f": "apparel-and-wearables/textile-accessories",
   "clothing & wearables\u001ftextile categories\u001ft-shirts": "apparel-and-wearables/t-shirts",
   "drink & lunchware\u001fbottles\u001fdouble wall bottles": "drinkware/bottles/thermal-and-vacuum-flasks",
   "drink & lunchware\u001fbottles\u001fglass bottles": "drinkware/bottles/water-bottles",
@@ -276,17 +279,17 @@ export const MIDOCEAN_CATEGORY_MAP: Readonly<Record<string, string>> = Object.fr
 /** Lower-camel alias for adapters that prefer value-style imports. */
 export const midoceanCategoryMap = MIDOCEAN_CATEGORY_MAP
 
-export function mapMidoceanCategory(input: MidoceanCategoryInput): string
+export function mapMidoceanCategory(input: MidoceanCategoryInput): string | null
 export function mapMidoceanCategory(
   categoryLevel1: string,
   categoryLevel2: string,
   categoryLevel3?: string,
-): string
+): string | null
 export function mapMidoceanCategory(
   inputOrCategoryLevel1: MidoceanCategoryInput | string,
   categoryLevel2?: string,
   categoryLevel3 = "",
-): string {
+): string | null {
   const input = typeof inputOrCategoryLevel1 === "string"
     ? {
         categoryLevel1: inputOrCategoryLevel1,
@@ -300,14 +303,5 @@ export function mapMidoceanCategory(
     input.categoryLevel2,
     input.categoryLevel3 ?? "",
   )
-  const mapped = MIDOCEAN_CATEGORY_MAP[key]
-  if (mapped) return mapped
-
-  throw new Error(
-    `Unknown MidOcean category tuple: ${JSON.stringify({
-      categoryLevel1: input.categoryLevel1,
-      categoryLevel2: input.categoryLevel2,
-      categoryLevel3: input.categoryLevel3 ?? "",
-    })}`,
-  )
+  return MIDOCEAN_CATEGORY_MAP[key] ?? null
 }

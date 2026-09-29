@@ -53,6 +53,14 @@ export const supplierDefinitions = [
     imageSources: supplierImageSources.cifra,
     loadAdapter: () => import("./cifra/adapter.ts"),
   },
+  {
+    id: "bluecollection",
+    displayName: "Blue Collection",
+    enabled: true,
+    allowProductsWithoutImages: false,
+    imageSources: supplierImageSources.bluecollection,
+    loadAdapter: () => import("./bluecollection/adapter.ts"),
+  },
 ] as const satisfies readonly SupplierDefinition[]
 
 export function getSupplierDefinition(id: string): SupplierDefinition | undefined {

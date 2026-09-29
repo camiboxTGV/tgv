@@ -31,6 +31,14 @@ export const supplierImageSources = {
       pathnamePrefix: "/image/cache/data/",
     },
   ],
+  bluecollection: [
+    {
+      protocol: "https",
+      hostname: "bluecollection.eu",
+      port: "",
+      pathnamePrefix: "/assets/img/",
+    },
+  ],
 } as const satisfies Readonly<Record<string, readonly SupplierImageSource[]>>
 
 export const supplierImageRemotePatterns = Object.values(supplierImageSources).flatMap(

@@ -1,7 +1,10 @@
 import assert from "node:assert/strict"
-import { readFile } from "node:fs/promises"
+import { mkdtemp, readFile, rm } from "node:fs/promises"
+import { tmpdir } from "node:os"
+import { join } from "node:path"
 import test from "node:test"
 import { categoryTree, flattenTree } from "../../lib/content/categories.ts"
+import { runSync } from "../_shared/orchestrator.ts"
 import {
   MIDOCEAN_CATEGORY_MAP,
   mapMidoceanCategory,
@@ -173,7 +176,7 @@ function fixtureCatalogFeeds(): MidoceanCatalogFeeds {
   }
 }
 
-test("midocean category tuples normalize exactly and unknown values fail closed", () => {
+test("midocean category tuples normalize exactly and unknown values stay unclassified", () => {
   assert.equal(
     mapMidoceanCategory("  technology ", " POWER BANKS ", " low capacity ≥2.000 "),
     "electronics/power-and-charging/power-banks",
@@ -185,10 +188,98 @@ test("midocean category tuples normalize exactly and unknown values fail closed"
     }),
     "bags/backpacks/drawstring-bags",
   )
-  assert.throws(
-    () => mapMidoceanCategory("Technology", "Future category", "Unreviewed"),
-    /Unknown MidOcean category tuple/,
+  assert.equal(
+    mapMidoceanCategory("Clothing & wearables", "Textile Accessories", ""),
+    "apparel-and-wearables/textile-accessories",
   )
+  assert.equal(
+    mapMidoceanCategory("Technology", "Future category", "Unreviewed"),
+    null,
+  )
+})
+
+test("midocean quarantines a product with an unreviewed variant category", () => {
+  const feeds = fixtureCatalogFeeds()
+  const unreviewed = feeds.products[0]?.variants[0]
+  assert.ok(unreviewed)
+  unreviewed.category_level2 = "Future category"
+  unreviewed.category_level3 = "Unreviewed"
+
+  const [product] = buildMidoceanProducts(feeds)
+  assert.ok(product)
+  assert.equal(
+    product.supplierCategory,
+    JSON.stringify({
+      categoryLevel1: "Technology",
+      categoryLevel2: "Future category",
+      categoryLevel3: "Unreviewed",
+    }),
+  )
+  assert.equal(adapter.mapCategory(product), null)
+})
+
+test("midocean sync publishes reviewed products while queueing unreviewed tuples", async () => {
+  const [reviewed] = buildMidoceanProducts(fixtureCatalogFeeds())
+  assert.ok(reviewed)
+
+  const unreviewedFeeds = fixtureCatalogFeeds()
+  const unreviewedVariant = unreviewedFeeds.products[0]?.variants[0]
+  assert.ok(unreviewedVariant)
+  unreviewedVariant.category_level2 = "Future category"
+  unreviewedVariant.category_level3 = "Unreviewed"
+  const [unreviewed] = buildMidoceanProducts(unreviewedFeeds)
+  assert.ok(unreviewed)
+  unreviewed.supplierSku = "MO-UNREVIEWED"
+  unreviewed.name = "Unreviewed taxonomy product"
+  unreviewed.supplierVariantIds = unreviewed.supplierVariantIds?.map((id) => `UNREVIEWED-${id}`)
+  unreviewed.variants = unreviewed.variants?.map((variant) => ({
+    ...variant,
+    supplierVariantId: `UNREVIEWED-${variant.supplierVariantId}`,
+  }))
+
+  const categoryTuple = JSON.stringify({
+    categoryLevel1: "Technology",
+    categoryLevel2: "Future category",
+    categoryLevel3: "Unreviewed",
+  })
+  const repoRoot = await mkdtemp(join(tmpdir(), "tgv-midocean-quarantine-"))
+  try {
+    const report = await runSync({
+      repoRoot,
+      adapters: [{ ...adapter, fetchAll: async () => [reviewed, unreviewed] }],
+      skipImages: true,
+    })
+
+    assert.equal(report.success, true)
+    assert.equal(report.totalProducts, 1)
+    assert.equal(report.totalUnclassified, 1)
+    assert.equal(report.suppliers.midocean?.normalized, 1)
+    assert.equal(report.suppliers.midocean?.unclassified, 1)
+    assert.deepEqual(report.suppliers.midocean?.newUnmappedCategories, [
+      { category: categoryTuple, count: 1 },
+    ])
+
+    const published = JSON.parse(
+      await readFile(
+        join(
+          repoRoot,
+          "lib/content/generated/products/electronics/power-and-charging/power-banks.json",
+        ),
+        "utf8",
+      ),
+    ) as Array<{ supplierSku: string }>
+    assert.deepEqual(published.map(({ supplierSku }) => supplierSku), ["MO-FIXTURE"])
+
+    const queued = JSON.parse(
+      await readFile(join(repoRoot, "lib/content/generated/unclassified.json"), "utf8"),
+    ) as Array<{ supplierSku: string; category: string }>
+    assert.deepEqual(
+      queued.map(({ supplierSku, category }) => ({ supplierSku, category })),
+      [{ supplierSku: "MO-UNREVIEWED", category: "unclassified" }],
+    )
+  } finally {
+    await rm(repoRoot, { recursive: true, force: true })
+  }
 })
 
 test("midocean decimal parsing accepts EU feed values without changing decimal points", () => {
@@ -305,7 +396,7 @@ test("midocean refuses an empty or dangerously incomplete first catalog price fe
   )
 })
 
-test("midocean taxonomy TSV exhaustively matches the fail-closed product-leaf map", async () => {
+test("midocean taxonomy baseline remains covered by the reviewed product-leaf map", async () => {
   const contents = await readFile(new URL("./categories-seen.tsv", import.meta.url), "utf8")
   const [header, ...rows] = contents.trimEnd().split("\n")
   assert.equal(
@@ -333,5 +424,7 @@ test("midocean taxonomy TSV exhaustively matches the fail-closed product-leaf ma
 
   assert.equal(rows.length, 240)
   assert.equal(variants, 15_290)
-  assert.deepEqual(seenKeys, new Set(Object.keys(MIDOCEAN_CATEGORY_MAP)))
+  for (const [key, leaf] of Object.entries(MIDOCEAN_CATEGORY_MAP)) {
+    assert.equal(productLeaves.has(leaf), true, `${key} maps to non-product leaf ${leaf}`)
+  }
 })

@@ -10,6 +10,9 @@ This repo ships to **Firebase App Hosting**. Pushing to `main` triggers an autom
    - Repo → Settings → Secrets and variables → Actions
    - `MACMA_API_BASE`: `https://macma.ro/api/v2/<token>/en` (no trailing slash)
    - `MIDOCEAN_API_KEY`: the midocean gateway API key
+   - `CIFRA_API_TOKEN`: the Cifra confidential catalog token
+   - `BLUECOLLECTION_USERNAME`: the Blue Collection developer login
+   - `BLUECOLLECTION_PASSWORD`: the generated Blue Collection API password
    - These are used only by the `Catalog data sync` workflow; Firebase never sees them.
 
 2. **Confirm the Firebase backend** is linked to `main` on this repo.
@@ -59,6 +62,9 @@ This repo ships to **Firebase App Hosting**. Pushing to `main` triggers an autom
 |---|---|---|
 | `MACMA_API_BASE` | GitHub repo secrets | `.github/workflows/sync-catalog.yml` |
 | `MIDOCEAN_API_KEY` | GitHub repo secrets | `.github/workflows/sync-catalog.yml` |
+| `CIFRA_API_TOKEN` | GitHub repo secrets | `.github/workflows/sync-catalog.yml` |
+| `BLUECOLLECTION_USERNAME` | GitHub repo secrets | `.github/workflows/sync-catalog.yml` |
+| `BLUECOLLECTION_PASSWORD` | GitHub repo secrets | `.github/workflows/sync-catalog.yml` |
 | (none currently) | Firebase App Hosting | — |
 
 The workflow summary and generated sync report are the source of truth for current per-supplier

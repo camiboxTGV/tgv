@@ -170,16 +170,24 @@ function categoryTuple(variant: MidoceanVariant): SupplierCategoryTuple {
 }
 
 function chooseProductCategory(product: MidoceanProduct): SupplierCategoryTuple {
-  const counts = new Map<string, { tuple: SupplierCategoryTuple; count: number }>()
+  const counts = new Map<
+    string,
+    { tuple: SupplierCategoryTuple; count: number; mapped: boolean }
+  >()
   for (const variant of product.variants) {
     const tuple = categoryTuple(variant)
-    // Validate every variant path, even if another path wins for its product master.
-    mapMidoceanCategory(tuple)
     const key = encodeCategory(tuple)
     const prior = counts.get(key)
-    counts.set(key, { tuple, count: (prior?.count ?? 0) + 1 })
+    counts.set(key, {
+      tuple,
+      count: (prior?.count ?? 0) + 1,
+      mapped: mapMidoceanCategory(tuple) !== null,
+    })
   }
   const selected = [...counts.values()].sort((a, b) => {
+    // Any unreviewed tuple quarantines the product so it cannot be published
+    // under a category inferred from only some of its variants.
+    if (a.mapped !== b.mapped) return a.mapped ? 1 : -1
     const aGeneric = a.tuple.categoryLevel2.toLowerCase() === "brands" ? 1 : 0
     const bGeneric = b.tuple.categoryLevel2.toLowerCase() === "brands" ? 1 : 0
     return aGeneric - bGeneric || b.count - a.count ||

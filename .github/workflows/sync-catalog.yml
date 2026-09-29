@@ -77,6 +77,8 @@ jobs:
           MACMA_API_BASE: ${{ secrets.MACMA_API_BASE }}
           MIDOCEAN_API_KEY: ${{ secrets.MIDOCEAN_API_KEY }}
           CIFRA_API_TOKEN: ${{ secrets.CIFRA_API_TOKEN }}
+          BLUECOLLECTION_USERNAME: ${{ secrets.BLUECOLLECTION_USERNAME }}
+          BLUECOLLECTION_PASSWORD: ${{ secrets.BLUECOLLECTION_PASSWORD }}
           MODE: ${{ steps.mode.outputs.mode }}
         run: |
           set -euo pipefail
@@ -96,6 +98,14 @@ jobs:
             echo "::error::Repository secret CIFRA_API_TOKEN is missing."
             exit 1
           fi
+          if [[ -z "$BLUECOLLECTION_USERNAME" ]]; then
+            echo "::error::Repository secret BLUECOLLECTION_USERNAME is missing."
+            exit 1
+          fi
+          if [[ -z "$BLUECOLLECTION_PASSWORD" ]]; then
+            echo "::error::Repository secret BLUECOLLECTION_PASSWORD is missing."
+            exit 1
+          fi
           if [[ "$MODE" != "inventory" && "$MODE" != "full" ]]; then
             echo "::error::Invalid sync mode: $MODE"
             exit 1
@@ -107,6 +117,8 @@ jobs:
           MACMA_API_BASE: ${{ secrets.MACMA_API_BASE }}
           MIDOCEAN_API_KEY: ${{ secrets.MIDOCEAN_API_KEY }}
           CIFRA_API_TOKEN: ${{ secrets.CIFRA_API_TOKEN }}
+          BLUECOLLECTION_USERNAME: ${{ secrets.BLUECOLLECTION_USERNAME }}
+          BLUECOLLECTION_PASSWORD: ${{ secrets.BLUECOLLECTION_PASSWORD }}
           MODE: ${{ steps.mode.outputs.mode }}
           FORCE: ${{ inputs.force }}
         run: |

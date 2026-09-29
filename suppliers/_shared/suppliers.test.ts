@@ -85,6 +85,12 @@ test("supplier definitions generate the same strict image allowlist used by Next
       port: "",
       pathname: "/image/cache/data/**",
     },
+    {
+      protocol: "https",
+      hostname: "bluecollection.eu",
+      port: "",
+      pathname: "/assets/img/**",
+    },
   ])
   assert.equal(isSupplierImageUrlAllowed("macma", "https://macma.ro/products/a.jpg"), true)
   assert.equal(isSupplierImageUrlAllowed("macma", "http://macma.ro/products/a.jpg"), false)
@@ -115,6 +121,20 @@ test("supplier definitions generate the same strict image allowlist used by Next
     isSupplierImageUrlAllowed(
       "cifra",
       "https://www.publicatalogue.com/image/catalog/private.jpg",
+    ),
+    false,
+  )
+  assert.equal(
+    isSupplierImageUrlAllowed(
+      "bluecollection",
+      "https://bluecollection.eu/assets/img/16262-05.jpg",
+    ),
+    true,
+  )
+  assert.equal(
+    isSupplierImageUrlAllowed(
+      "bluecollection",
+      "https://bluecollection.eu/assets/marking_area/16262-05_U3_M01.jpg",
     ),
     false,
   )
