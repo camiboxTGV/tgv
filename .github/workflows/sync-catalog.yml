@@ -7,6 +7,7 @@ on:
     paths:
       - "suppliers/**"
       - "lib/content/catalog.ts"
+      - "lib/content/catalog-colors.ts"
       - "lib/content/catalog-sync-validation.ts"
       - "scripts/sync-catalog.ts"
       - "scripts/verify-generated-catalog.ts"

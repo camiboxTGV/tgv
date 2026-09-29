@@ -49,6 +49,7 @@ const COLOUR_TERMS: ReadonlyArray<readonly [string, string]> = [
   ["peach", "#FDBA74"],
   ["terracotta", "#C65D3B"],
   ["neon coral", "#FB7185"],
+  ["coral", "#FF7F50"],
   ["orange", "#F97316"],
   ["ochre", "#CA8A04"],
   ["pale yellow", "#FEF08A"],

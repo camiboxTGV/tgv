@@ -25,6 +25,11 @@ test("catalog colour backgrounds never collapse unknown supplier colours to grey
   assert.notEqual(first, catalogColourBackground("Another supplier colour"))
 })
 
+test("catalog colour backgrounds include the reviewed coral swatch", () => {
+  assert.equal(catalogColourBackground("Coral"), "#FF7F50")
+  assert.equal(catalogColourBackground("Neon Coral"), "#FB7185")
+})
+
 test("every tracked midocean colour has a reviewed semantic background", () => {
   const names = new Set<string>()
   const walk = (directory: string): void => {
