@@ -80,7 +80,8 @@ must explicitly opt into committing an order.
 Blue Collection uses `BLUECOLLECTION_USERNAME` and the generated
 `BLUECOLLECTION_PASSWORD`; `BLUECOLLECTION_API_BASE` defaults to
 `https://developers.bluecollection.eu`. Access and refresh tokens stay in memory and are renewed
-from their JWT expiry timestamps. Full syncs combine `/api/products-index/` with the dedicated
+from their JWT expiry timestamps. Production syncs validate both credentials before making API
+requests. Full syncs combine `/api/products-index/` with the dedicated
 stock feed, group colour variants into stable product families, exclude supplier catalogues and
 display cases, and quarantine every unseen category tuple. The adapter keeps the supplier's exact
 marking methods and sizes while mapping only compatible methods into TGV calculator families.
