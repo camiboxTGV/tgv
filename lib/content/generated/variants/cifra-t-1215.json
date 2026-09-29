@@ -2,7 +2,7 @@
   {
     "contentKey": "281aa1adc3226e8c",
     "supplierVariantId": "T-1215-L-NE",
-    "stock": 857,
+    "stock": 835,
     "stockLevel": "in-stock",
     "price": 3.63,
     "color": {
@@ -12,7 +12,8 @@
     "size": "L",
     "imageRefs": [
       0,
-      1
+      1,
+      2
     ]
   },
   {
@@ -27,8 +28,9 @@
     },
     "size": "XL",
     "imageRefs": [
-      6,
-      7
+      9,
+      10,
+      11
     ]
   },
   {
@@ -43,14 +45,15 @@
     },
     "size": "S",
     "imageRefs": [
-      4,
-      5
+      6,
+      7,
+      8
     ]
   },
   {
     "contentKey": "b28c1c0c71b60de1",
     "supplierVariantId": "T-1215-XXL-NE",
-    "stock": 927,
+    "stock": 922,
     "stockLevel": "in-stock",
     "price": 3.63,
     "color": {
@@ -59,14 +62,15 @@
     },
     "size": "XXL",
     "imageRefs": [
-      8,
-      9
+      12,
+      13,
+      14
     ]
   },
   {
     "contentKey": "cd5502ad54696013",
     "supplierVariantId": "T-1215-M-NE",
-    "stock": 110,
+    "stock": 105,
     "stockLevel": "in-stock",
     "price": 3.63,
     "color": {
@@ -75,8 +79,9 @@
     },
     "size": "M",
     "imageRefs": [
-      2,
-      3
+      3,
+      4,
+      5
     ]
   }
 ]

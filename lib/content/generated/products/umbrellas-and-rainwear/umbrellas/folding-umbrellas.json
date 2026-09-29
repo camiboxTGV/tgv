@@ -1,5 +1,828 @@
 [
   {
+    "slug": "bluecollection-37044",
+    "name": "Folding umbrella REGO",
+    "category": "umbrellas-and-rainwear/umbrellas/folding-umbrellas",
+    "summary": "REGO is a folded compact umbrella which fits in every bag. The umbrella is folded “in three” with an automatic up-down opening mechanism. REGO is equipped with a cover and a strap. The umbrella is made of 190T Pongee ...",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [
+      "textile-transfer",
+      "uv-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "C1",
+        "label": "DTF",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "50.00 x 60.00 mm",
+          "70.00 x 40.00 mm"
+        ]
+      },
+      {
+        "code": "C2",
+        "label": "DTF",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "150.00 x 100.00 mm",
+          "150.00 x 40.00 mm"
+        ]
+      },
+      {
+        "code": "C3",
+        "label": "DTF",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "200.00 x 120.00 mm"
+        ]
+      },
+      {
+        "code": "D1",
+        "label": "Doming",
+        "labelRo": "Doming",
+        "printSizes": [
+          "19.00"
+        ]
+      },
+      {
+        "code": "F1",
+        "label": "Screen printing heat transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "150.00 x 40.00 mm"
+        ]
+      },
+      {
+        "code": "F2",
+        "label": "Screen printing heat transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "200.00 x 120.00 mm"
+        ]
+      },
+      {
+        "code": "S1",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "200.00 x 120.00 mm"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "150.00 x 40.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "37044",
+    "supplierVariantIds": [
+      "37044-02",
+      "37044-06",
+      "37044-11"
+    ],
+    "price": 12.18,
+    "priceFrom": false,
+    "stock": 16793,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/37044-02.jpg",
+      "https://bluecollection.eu/assets/img/37044-06.jpg",
+      "https://bluecollection.eu/assets/img/37044-11.jpg",
+      "https://bluecollection.eu/assets/img/37044-02_d.jpg",
+      "https://bluecollection.eu/assets/img/37044-02_e.jpg",
+      "https://bluecollection.eu/assets/img/37044-02_eb.jpg",
+      "https://bluecollection.eu/assets/img/37044-02_ep.jpg",
+      "https://bluecollection.eu/assets/img/37044-02_ep_LOGO.jpg",
+      "https://bluecollection.eu/assets/img/37044-02_er.jpg",
+      "https://bluecollection.eu/assets/img/37044-02_f.jpg",
+      "https://bluecollection.eu/assets/img/37044-02_g.jpg",
+      "https://bluecollection.eu/assets/img/37044-02_l.jpg",
+      "https://bluecollection.eu/assets/img/37044-02_zd_doming.jpg",
+      "https://bluecollection.eu/assets/img/37044-02_zd_doming2.jpg",
+      "https://bluecollection.eu/assets/img/37044-02_zddoming.jpg",
+      "https://bluecollection.eu/assets/img/37044-02_zddoming2.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/37044.html",
+    "variantCount": 3,
+    "colorCount": 3,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      },
+      {
+        "name": "Burgundy"
+      },
+      {
+        "name": "Navy blue"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "980 × 540 mm · 980 × 550 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "polyester pongee, metal, plastic"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "36 pcs",
+        "valueRo": "36 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 339,
+    "descriptionLong": "REGO is a folded compact umbrella which fits in every bag. The umbrella is folded “in three” with an automatic up-down opening mechanism. REGO is equipped with a cover and a strap. The umbrella is made of 190T Pongee polyester.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "bluecollection-37054",
+    "name": "Folding umbrella HOST",
+    "category": "umbrellas-and-rainwear/umbrellas/folding-umbrellas",
+    "summary": "Automatic folding umbrella HOST with a cover made of 190T polyester pongee. The bamboo handle is very comfortable to hold.",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "B2",
+        "label": "Sublimation",
+        "labelRo": "Sublimare",
+        "printSizes": [
+          "200.00 x 120.00 mm"
+        ]
+      },
+      {
+        "code": "C1",
+        "label": "DTF",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "50.00 x 60.00 mm",
+          "60.00 x 50.00 mm"
+        ]
+      },
+      {
+        "code": "C2",
+        "label": "DTF",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "150.00 x 100.00 mm",
+          "160.00 x 60.00 mm"
+        ]
+      },
+      {
+        "code": "C3",
+        "label": "DTF",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "200.00 x 120.00 mm"
+        ]
+      },
+      {
+        "code": "F2",
+        "label": "Screen printing heat transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "160.00 x 60.00 mm",
+          "200.00 x 120.00 mm"
+        ]
+      },
+      {
+        "code": "S1",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "200.00 x 120.00 mm"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "160.00 x 60.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "37054",
+    "supplierVariantIds": [
+      "37054-01",
+      "37054-02",
+      "37054-06"
+    ],
+    "price": 15,
+    "priceFrom": false,
+    "stock": 2637,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/37054-06.jpg",
+      "https://bluecollection.eu/assets/img/37054-01.jpg",
+      "https://bluecollection.eu/assets/img/37054-02.jpg",
+      "https://bluecollection.eu/assets/img/37054-06_d.jpg",
+      "https://bluecollection.eu/assets/img/37054-06_e.jpg",
+      "https://bluecollection.eu/assets/img/37054-06_e_LOGO.jpg",
+      "https://bluecollection.eu/assets/img/37054-06_er.jpg",
+      "https://bluecollection.eu/assets/img/37054-06_ers.jpg",
+      "https://bluecollection.eu/assets/img/37054-06_f.jpg",
+      "https://bluecollection.eu/assets/img/37054-06_op.jpg",
+      "https://bluecollection.eu/assets/img/37054-06_zs.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/37054.html",
+    "variantCount": 3,
+    "colorCount": 3,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      },
+      {
+        "name": "Navy blue"
+      },
+      {
+        "name": "White"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "960 × 565 mm · 950 × 550 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "polyester pongee, fiber glass, metal, bamboo"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "40 pcs",
+        "valueRo": "40 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 370,
+    "descriptionLong": "Automatic folding umbrella HOST with a cover made of 190T polyester pongee. The bamboo handle is very comfortable to hold.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "bluecollection-37059",
+    "name": "Folding umbrella FANTO",
+    "category": "umbrellas-and-rainwear/umbrellas/folding-umbrellas",
+    "summary": "The FANTO folding umbrella has a handle that allows it to be easily attached, for example, to a bag. Made fof 190T Pongee polyester. The diameter of unfolded canopy is 105 cm and the length of the folded umbrella is 5...",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "C1",
+        "label": "DTF",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "50.00 x 60.00 mm",
+          "60.00 x 50.00 mm"
+        ]
+      },
+      {
+        "code": "C2",
+        "label": "DTF",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "150.00 x 100.00 mm",
+          "200.00 x 50.00 mm"
+        ]
+      },
+      {
+        "code": "C3",
+        "label": "DTF",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "200.00 x 150.00 mm",
+          "240.00 x 50.00 mm"
+        ]
+      },
+      {
+        "code": "F2",
+        "label": "Screen printing heat transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "200.00 x 150.00 mm",
+          "240.00 x 50.00 mm"
+        ]
+      },
+      {
+        "code": "S1",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "200.00 x 150.00 mm"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "240.00 x 50.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "37059",
+    "supplierVariantIds": [
+      "37059-02"
+    ],
+    "price": 16.26,
+    "priceFrom": false,
+    "stock": 966,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/37059-02.jpg",
+      "https://bluecollection.eu/assets/img/37059-02_d.jpg",
+      "https://bluecollection.eu/assets/img/37059-02_dtf1.jpg",
+      "https://bluecollection.eu/assets/img/37059-02_dtf2.jpg",
+      "https://bluecollection.eu/assets/img/37059-02_ep.jpg",
+      "https://bluecollection.eu/assets/img/37059-02_ep_LOGO.jpg",
+      "https://bluecollection.eu/assets/img/37059-02_f.jpg",
+      "https://bluecollection.eu/assets/img/37059-02_g.jpg",
+      "https://bluecollection.eu/assets/img/37059-02_zd2.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/37059.html",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "1050 × 750 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "polyester pongee, metal, plastic"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "30 pcs",
+        "valueRo": "30 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 425,
+    "descriptionLong": "The FANTO folding umbrella has a handle that allows it to be easily attached, for example, to a bag. Made fof 190T Pongee polyester. The diameter of unfolded canopy is 105 cm and the length of the folded umbrella is 54 cm.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "bluecollection-37061",
+    "name": "Folding umbrella ADIA",
+    "category": "umbrellas-and-rainwear/umbrellas/folding-umbrellas",
+    "summary": "ADIA is a classic, foldable umbrella with a wooden handle. It is easy to store and comfortable to use. Perfect as a practical promotional gift.",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
+    "personalizations": [
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "C1",
+        "label": "DTF",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "50.00 x 60.00 mm",
+          "70.00 x 40.00 mm"
+        ]
+      },
+      {
+        "code": "C2",
+        "label": "DTF",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "150.00 x 100.00 mm",
+          "150.00 x 40.00 mm"
+        ]
+      },
+      {
+        "code": "C3",
+        "label": "DTF",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "200.00 x 120.00 mm"
+        ]
+      },
+      {
+        "code": "F1",
+        "label": "Screen printing heat transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "150.00 x 40.00 mm"
+        ]
+      },
+      {
+        "code": "F2",
+        "label": "Screen printing heat transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "200.00 x 120.00 mm"
+        ]
+      },
+      {
+        "code": "S1",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "200.00 x 120.00 mm"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "150.00 x 40.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "37061",
+    "supplierVariantIds": [
+      "37061-02",
+      "37061-06"
+    ],
+    "price": 9.36,
+    "priceFrom": false,
+    "stock": 1521,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/37061-02.jpg",
+      "https://bluecollection.eu/assets/img/37061-06.jpg",
+      "https://bluecollection.eu/assets/img/37061-02_d.jpg",
+      "https://bluecollection.eu/assets/img/37061-02_ep.jpg",
+      "https://bluecollection.eu/assets/img/37061-02_ep_LOGO.jpg",
+      "https://bluecollection.eu/assets/img/37061-02_f.jpg",
+      "https://bluecollection.eu/assets/img/37061-02_l.jpg",
+      "https://bluecollection.eu/assets/img/37061-02_m.jpg",
+      "https://bluecollection.eu/assets/img/37061-02_o.jpg",
+      "https://bluecollection.eu/assets/img/37061-02_zs.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/37061.html",
+    "variantCount": 2,
+    "colorCount": 2,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      },
+      {
+        "name": "Navy blue"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "970 × 580 mm · 970 × 600 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "polyester pongee, metal, wood"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "60 pcs",
+        "valueRo": "60 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 281,
+    "descriptionLong": "ADIA is a classic, foldable umbrella with a wooden handle. It is easy to store and comfortable to use. Perfect as a practical promotional gift.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "bluecollection-37063",
+    "name": "Folding umbrella RALO",
+    "category": "umbrellas-and-rainwear/umbrellas/folding-umbrellas",
+    "summary": "The RALO umbrella is a stylish and convenient all-weather solution. Thanks to its automatic opening and closing mechanism, it unfolds with the touch of a button on the wooden handle. The canopy made of durable 190T rP...",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "C1",
+        "label": "DTF",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "50.00 x 60.00 mm",
+          "70.00 x 40.00 mm"
+        ]
+      },
+      {
+        "code": "C2",
+        "label": "DTF",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "150.00 x 100.00 mm",
+          "150.00 x 40.00 mm"
+        ]
+      },
+      {
+        "code": "C3",
+        "label": "DTF",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "200.00 x 120.00 mm"
+        ]
+      },
+      {
+        "code": "F1",
+        "label": "Screen printing heat transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "150.00 x 40.00 mm"
+        ]
+      },
+      {
+        "code": "F2",
+        "label": "Screen printing heat transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "200.00 x 120.00 mm"
+        ]
+      },
+      {
+        "code": "S1",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "200.00 x 120.00 mm"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "150.00 x 40.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "37063",
+    "supplierVariantIds": [
+      "37063-02"
+    ],
+    "price": 12.49,
+    "priceFrom": false,
+    "stock": 900,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/37063-02.jpg",
+      "https://bluecollection.eu/assets/img/37063-02_d.jpg",
+      "https://bluecollection.eu/assets/img/37063-02_ep.jpg",
+      "https://bluecollection.eu/assets/img/37063-02_f.jpg",
+      "https://bluecollection.eu/assets/img/37063-02_g.jpg",
+      "https://bluecollection.eu/assets/img/37063-02_h.jpg",
+      "https://bluecollection.eu/assets/img/37063-02_l.jpg",
+      "https://bluecollection.eu/assets/img/37063-02_m.jpg",
+      "https://bluecollection.eu/assets/img/37063-02_n.jpg",
+      "https://bluecollection.eu/assets/img/37063-02_o.jpg",
+      "https://bluecollection.eu/assets/img/37063-02_op.jpg",
+      "https://bluecollection.eu/assets/img/37063-02_zd.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/37063.html",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "970 × 540 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "rPET polyester, fiber glass, metal, wood"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "36 pcs",
+        "valueRo": "36 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 352,
+    "descriptionLong": "The RALO umbrella is a stylish and convenient all-weather solution. Thanks to its automatic opening and closing mechanism, it unfolds with the touch of a button on the wooden handle. The canopy made of durable 190T rPET polyester material effectively protects against rain, while the metal and fibreglass frame increases wind resistance. This is complemented by a wooden button on the closing strap, which adds an original touch to the umbrella. The possibility of labelling makes RALO a great choice as an elegant advertising gadget.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "bluecollection-37066",
+    "name": "MINIK folding umbrella",
+    "category": "umbrellas-and-rainwear/umbrellas/folding-umbrellas",
+    "summary": "The MINIK umbrella is a folding model that opens and closes manually, ideal for carrying around in a bag, rucksack or car on a daily basis. Its compact size means it’s easy to keep to hand when the weather changes dur...",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
+    "personalizations": [
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "C1",
+        "label": "DTF",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "60.00 x 50.00 mm"
+        ]
+      },
+      {
+        "code": "C2",
+        "label": "DTF",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "150.00 x 100.00 mm",
+          "150.00 x 50.00 mm"
+        ]
+      },
+      {
+        "code": "C3",
+        "label": "DTF",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "200.00 x 120.00 mm"
+        ]
+      },
+      {
+        "code": "F2",
+        "label": "Screen printing heat transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "150.00 x 50.00 mm",
+          "200.00 x 120.00 mm"
+        ]
+      },
+      {
+        "code": "S1",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "200.00 x 120.00 mm"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "150.00 x 50.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "37066",
+    "supplierVariantIds": [
+      "37066-02"
+    ],
+    "price": 11.74,
+    "priceFrom": false,
+    "stock": 2978,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/37066-02.jpg",
+      "https://bluecollection.eu/assets/img/37066-02_zs2.jpg",
+      "https://bluecollection.eu/assets/img/37066-02_op.jpg",
+      "https://bluecollection.eu/assets/img/37066-02_d.jpg",
+      "https://bluecollection.eu/assets/img/37066-02_ep.jpg",
+      "https://bluecollection.eu/assets/img/37066-02_er.jpg",
+      "https://bluecollection.eu/assets/img/37066-02_f.jpg",
+      "https://bluecollection.eu/assets/img/37066-02_g.jpg",
+      "https://bluecollection.eu/assets/img/37066-02_l.jpg",
+      "https://bluecollection.eu/assets/img/37066-02_o.jpg",
+      "https://bluecollection.eu/assets/img/37066-02_zs1.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/37066.html",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "55 × 235 × 0 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "polyester pongee"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "60 pcs",
+        "valueRo": "60 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 214,
+    "descriptionLong": "The MINIK umbrella is a folding model that opens and closes manually, ideal for carrying around in a bag, rucksack or car on a daily basis. Its compact size means it’s easy to keep to hand when the weather changes during the day. The original ring-style handle design sets it apart from classic folding umbrellas. The MINIK is ideal as a promotional item for urban, travel and event campaigns, as well as for staff kits.",
+    "hasVariantDetail": false
+  },
+  {
     "slug": "macma-40476",
     "name": "Reverse umbrella",
     "category": "umbrellas-and-rainwear/umbrellas/folding-umbrellas",
@@ -70,6 +893,7 @@
       "https://macma.ro/products/jpg/M/4047610_4.jpg",
       "https://macma.ro/products/jpg/M/4047610_5.jpg",
       "https://macma.ro/products/jpg/M/4047610_6.jpg",
+      "https://macma.ro/products/jpg/M/lifestyle/4047610_lifestyle_4.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/4047610_lifestyle_7.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/4047610_lifestyle_8.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/4047610_lifestyle_9.jpg",
@@ -77,7 +901,7 @@
       "https://macma.ro/products/jpg/M/4047629_1.jpg",
       "https://macma.ro/products/jpg/M/4047629_2.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -190,7 +1014,7 @@
       "https://macma.ro/products/jpg/M/4074744_0.jpg",
       "https://macma.ro/products/jpg/M/4074744_1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -277,7 +1101,7 @@
     ],
     "price": 11.58,
     "priceFrom": false,
-    "stock": 495,
+    "stock": 493,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/40870mc_0.jpg",
@@ -299,7 +1123,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/40870mc_lifestyle_8.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/40870mc_lifestyle_9.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -419,7 +1243,7 @@
       "https://macma.ro/products/jpg/M/4088506_3.jpg",
       "https://macma.ro/products/jpg/M/4088506_4.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -533,7 +1357,7 @@
       "https://macma.ro/products/jpg/M/4094005_5.jpg",
       "https://macma.ro/products/jpg/M/4094005_6.jpg"
     ],
-    "fetchedAt": "2026-09-10T08:05:55.823Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -665,7 +1489,7 @@
       "https://macma.ro/products/jpg/M/4139110_2.jpg",
       "https://macma.ro/products/jpg/M/4139110_3.jpg"
     ],
-    "fetchedAt": "2026-09-24T08:24:51.499Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 8,
     "colorCount": 8,
     "sizeCount": 0,
@@ -818,7 +1642,7 @@
       "https://macma.ro/products/jpg/M/4241608_4.jpg",
       "https://macma.ro/products/jpg/M/4241608_5.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -925,7 +1749,7 @@
     ],
     "price": 4.55,
     "priceFrom": false,
-    "stock": 15749,
+    "stock": 15744,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/4243603_0.jpg",
@@ -949,7 +1773,7 @@
       "https://macma.ro/products/jpg/M/4243607_2.jpg",
       "https://macma.ro/products/jpg/M/4243607_3.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -1067,7 +1891,7 @@
       "https://macma.ro/products/jpg/M/4247609_1.jpg",
       "https://macma.ro/products/jpg/M/4247609_2.jpg"
     ],
-    "fetchedAt": "2026-09-18T08:12:41.882Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -1166,7 +1990,7 @@
     ],
     "price": 7.62,
     "priceFrom": false,
-    "stock": 22276,
+    "stock": 22271,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/4322305_0.jpg",
@@ -1208,7 +2032,7 @@
       "https://macma.ro/products/jpg/M/4322307_4.jpg",
       "https://macma.ro/products/jpg/M/4322307_5.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -1323,7 +2147,7 @@
       "https://macma.ro/products/jpg/M/4329812_1.jpg",
       "https://macma.ro/products/jpg/M/4329812_2.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -1414,7 +2238,7 @@
     ],
     "price": 13.4,
     "priceFrom": false,
-    "stock": 1163,
+    "stock": 1143,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/4345203_0.jpg",
@@ -1424,7 +2248,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/4345203_lifestyle_4.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/4345203_lifestyle_5.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1518,7 +2342,7 @@
       "https://macma.ro/products/jpg/M/4345303_1.jpg",
       "https://macma.ro/products/jpg/M/4345303_2.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1607,7 +2431,7 @@
     ],
     "price": 8.16,
     "priceFrom": false,
-    "stock": 16535,
+    "stock": 16294,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/4351804_0.jpg",
@@ -1624,7 +2448,7 @@
       "https://macma.ro/products/jpg/M/4351807_2.jpg",
       "https://macma.ro/products/jpg/M/4351807_3.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -1732,7 +2556,7 @@
       "https://macma.ro/products/jpg/M/4358444_2.jpg",
       "https://macma.ro/products/jpg/M/4358444_3.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -1828,7 +2652,7 @@
     ],
     "price": 5.12,
     "priceFrom": false,
-    "stock": 14093,
+    "stock": 14043,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/4359603_0.jpg",
@@ -1855,7 +2679,7 @@
       "https://macma.ro/products/jpg/M/4359611_2.jpg",
       "https://macma.ro/products/jpg/M/4359611_3.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -1980,7 +2804,7 @@
       "https://macma.ro/products/jpg/M/4391007_2.jpg",
       "https://macma.ro/products/jpg/M/4391007_3.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -2081,9 +2905,10 @@
       "https://macma.ro/products/jpg/M/4392303_0.jpg",
       "https://macma.ro/products/jpg/M/4392303_1.jpg",
       "https://macma.ro/products/jpg/M/4392303_2.jpg",
-      "https://macma.ro/products/jpg/M/4392303_3.jpg"
+      "https://macma.ro/products/jpg/M/4392303_3.jpg",
+      "https://macma.ro/products/jpg/M/lifestyle/4392303_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2178,7 +3003,7 @@
       "https://macma.ro/products/jpg/M/4392403_2.jpg",
       "https://macma.ro/products/jpg/M/4392403_3.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2280,7 +3105,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/4425703_lifestyle_3.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/4425703_lifestyle_4.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:42.738Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2376,7 +3201,7 @@
       "https://macma.ro/products/jpg/M/4508505_0.jpg",
       "https://macma.ro/products/jpg/M/4508505_1.jpg"
     ],
-    "fetchedAt": "2026-09-12T07:53:31.242Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -2474,7 +3299,7 @@
     ],
     "price": 3.19,
     "priceFrom": false,
-    "stock": 34317,
+    "stock": 33918,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/4508644_0.jpg",
@@ -2494,7 +3319,7 @@
       "https://macma.ro/products/jpg/M/4508608_0.jpg",
       "https://macma.ro/products/jpg/M/4508608_1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 8,
     "colorCount": 8,
     "sizeCount": 0,
@@ -2624,7 +3449,7 @@
     ],
     "price": 3.22,
     "priceFrom": false,
-    "stock": 161851,
+    "stock": 161335,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/4513144_0.jpg",
@@ -2713,7 +3538,7 @@
       "https://macma.ro/products/jpg/M/4513199_3.jpg",
       "https://macma.ro/products/jpg/M/4513199_4.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 16,
     "colorCount": 16,
     "sizeCount": 0,
@@ -2863,7 +3688,7 @@
     ],
     "price": 5.82,
     "priceFrom": false,
-    "stock": 9184,
+    "stock": 9182,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/4518744_0.jpg",
@@ -2893,7 +3718,7 @@
       "https://macma.ro/products/jpg/M/4518799_4.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/4518799_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -3006,7 +3831,7 @@
     ],
     "price": 2.58,
     "priceFrom": false,
-    "stock": 89145,
+    "stock": 88683,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/4518844_0.jpg",
@@ -3055,7 +3880,7 @@
       "https://macma.ro/products/jpg/M/4518806_1.jpg",
       "https://macma.ro/products/jpg/M/4518806_2.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 15,
     "colorCount": 15,
     "sizeCount": 0,
@@ -3198,14 +4023,14 @@
     ],
     "price": 6.19,
     "priceFrom": false,
-    "stock": 1017,
+    "stock": 1007,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/4519344_0.jpg",
       "https://macma.ro/products/jpg/M/4519344_1.jpg",
       "https://macma.ro/products/jpg/M/4519344_2.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3298,7 +4123,7 @@
     ],
     "price": 7.14,
     "priceFrom": false,
-    "stock": 9232,
+    "stock": 9231,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/4519704_0.jpg",
@@ -3330,7 +4155,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/4519701_lifestyle_6.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/4519701_lifestyle_7.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 7,
     "colorCount": 7,
     "sizeCount": 0,
@@ -3472,7 +4297,7 @@
       "https://macma.ro/products/jpg/M/4520009_1.jpg",
       "https://macma.ro/products/jpg/M/4520009_2.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 7,
     "colorCount": 7,
     "sizeCount": 0,
@@ -3585,7 +4410,7 @@
     ],
     "price": 5.24,
     "priceFrom": false,
-    "stock": 14269,
+    "stock": 14158,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/4520203_0.jpg",
@@ -3603,7 +4428,7 @@
       "https://macma.ro/products/jpg/M/4520244_2.jpg",
       "https://macma.ro/products/jpg/M/4520244_3.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -3725,7 +4550,7 @@
       "https://macma.ro/products/jpg/M/4526404_2.jpg",
       "https://macma.ro/products/jpg/M/4526404_3.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -3808,17 +4633,13 @@
         "code": "DT",
         "label": "Digital transfer",
         "labelRo": "Transfer digital",
-        "printSizes": [
-          "200 mm x 150 mm"
-        ]
+        "printSizes": []
       },
       {
         "code": "S2",
         "label": "Transfer screen printing",
         "labelRo": "Serigrafie prin transfer",
-        "printSizes": [
-          "200 mm x 150 mm"
-        ]
+        "printSizes": []
       }
     ],
     "supplierId": "macma",
@@ -3867,7 +4688,7 @@
       "https://macma.ro/products/jpg/M/4537709_5_lifestyle.jpg",
       "https://macma.ro/products/jpg/M/4537709_6_lifestyle.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -3948,17 +4769,13 @@
         "code": "DT",
         "label": "Digital transfer",
         "labelRo": "Transfer digital",
-        "printSizes": [
-          "200 mm x 150 mm"
-        ]
+        "printSizes": []
       },
       {
         "code": "S2",
         "label": "Transfer screen printing",
         "labelRo": "Serigrafie prin transfer",
-        "printSizes": [
-          "200 mm x 150 mm"
-        ]
+        "printSizes": []
       }
     ],
     "supplierId": "macma",
@@ -3974,9 +4791,10 @@
       "https://macma.ro/products/jpg/M/4542144_0.jpg",
       "https://macma.ro/products/jpg/M/4542144_1.jpg",
       "https://macma.ro/products/jpg/M/4542144_2.jpg",
-      "https://macma.ro/products/jpg/M/4542144_3.jpg"
+      "https://macma.ro/products/jpg/M/4542144_3.jpg",
+      "https://macma.ro/products/jpg/M/lifestyle/4542144_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-09-16T08:33:19.558Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -4041,17 +4859,13 @@
         "code": "DT",
         "label": "Digital transfer",
         "labelRo": "Transfer digital",
-        "printSizes": [
-          "200 mm x 150 mm"
-        ]
+        "printSizes": []
       },
       {
         "code": "S2",
         "label": "Transfer screen printing",
         "labelRo": "Serigrafie prin transfer",
-        "printSizes": [
-          "200 mm x 150 mm"
-        ]
+        "printSizes": []
       }
     ],
     "supplierId": "macma",
@@ -4067,9 +4881,10 @@
       "https://macma.ro/products/jpg/M/4542244_0.jpg",
       "https://macma.ro/products/jpg/M/4542244_1.jpg",
       "https://macma.ro/products/jpg/M/4542244_2.jpg",
-      "https://macma.ro/products/jpg/M/4542244_3.jpg"
+      "https://macma.ro/products/jpg/M/4542244_3.jpg",
+      "https://macma.ro/products/jpg/M/lifestyle/4542244_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-09-24T08:24:51.499Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -4134,17 +4949,13 @@
         "code": "DT",
         "label": "Digital transfer",
         "labelRo": "Transfer digital",
-        "printSizes": [
-          "200 mm x 150 mm"
-        ]
+        "printSizes": []
       },
       {
         "code": "S2",
         "label": "Transfer screen printing",
         "labelRo": "Serigrafie prin transfer",
-        "printSizes": [
-          "200 mm x 150 mm"
-        ]
+        "printSizes": []
       }
     ],
     "supplierId": "macma",
@@ -4182,7 +4993,7 @@
       "https://macma.ro/products/jpg/M/4559699_2.jpg",
       "https://macma.ro/products/jpg/M/4559699_3_lifestyle.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -4298,7 +5109,7 @@
       "https://macma.ro/products/jpg/M/4744705_5.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/4744705_lifestyle_4.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -4407,7 +5218,7 @@
     ],
     "price": 8.28,
     "priceFrom": false,
-    "stock": 22982,
+    "stock": 22978,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f0107500aj3_1.jpg",
@@ -4422,7 +5233,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f0107502aj3_b.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f0107502aj3_c.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 1,
@@ -4529,7 +5340,7 @@
       "https://macma.ro/products/jpg/M/f12003_4.jpg",
       "https://macma.ro/products/jpg/M/f12003_5.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -4624,7 +5435,7 @@
       "https://macma.ro/products/jpg/M/f22503_2.jpg",
       "https://macma.ro/products/jpg/M/f22503_3.jpg"
     ],
-    "fetchedAt": "2026-09-22T08:30:04.753Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -4722,9 +5533,10 @@
       "https://macma.ro/products/jpg/M/f25103_1.jpg",
       "https://macma.ro/products/jpg/M/f25103_2.jpg",
       "https://macma.ro/products/jpg/M/f25103_3.jpg",
-      "https://macma.ro/products/jpg/M/f25103_4.jpg"
+      "https://macma.ro/products/jpg/M/f25103_4.jpg",
+      "https://macma.ro/products/jpg/M/lifestyle/f25103_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-09-22T08:30:04.753Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -4837,7 +5649,7 @@
     ],
     "price": 7.71,
     "priceFrom": false,
-    "stock": 9828,
+    "stock": 9827,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2476-03.jpg",
@@ -4851,7 +5663,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2476-03-picture6.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2476-03-picture7.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -4986,7 +5798,7 @@
     ],
     "price": 8.42,
     "priceFrom": false,
-    "stock": 29324,
+    "stock": 29273,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2692-03.jpg",
@@ -5005,7 +5817,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2692-03-picture5.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2692-03-picture6.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 7,
     "colorCount": 7,
     "sizeCount": 0,
@@ -5158,7 +5970,7 @@
       "https://cdn1.midocean.com/image/700X700/mo3219-01-top.jpg",
       "https://cdn1.midocean.com/image/700X700/mo3219-01-picture1.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:10.287Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 7,
     "colorCount": 7,
     "sizeCount": 0,
@@ -5206,6 +6018,12 @@
         "value": "CN"
       },
       {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "6601 9100"
+      },
+      {
         "key": "outer-carton",
         "label": "Outer carton",
         "labelRo": "Bax exterior",
@@ -5214,7 +6032,7 @@
     ],
     "brand": "midocean",
     "weightGrams": 400,
-    "descriptionLong": "21'''' auto open/close foldable umbrella in 190T polyester. Windproof. Fibreglass and metal ribs. Schima wooden handle with elastic strap. Includes matching pouch.",
+    "descriptionLong": "21'' auto open/close foldable umbrella in 190T polyester. Windproof. Fibreglass and metal ribs. Schima wooden handle with elastic strap. Includes matching pouch.",
     "hasVariantDetail": true
   },
   {
@@ -5285,7 +6103,7 @@
     ],
     "price": 10.7,
     "priceFrom": false,
-    "stock": 10260,
+    "stock": 10247,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo6265-03.jpg",
@@ -5297,7 +6115,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6265-03-open.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6265-03-ambiant.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -5438,7 +6256,7 @@
     ],
     "price": 10.62,
     "priceFrom": false,
-    "stock": 11155,
+    "stock": 11140,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo6745-03.jpg",
@@ -5452,7 +6270,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6745-03-top.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6745-03-open.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -5579,7 +6397,7 @@
     ],
     "price": 4.34,
     "priceFrom": false,
-    "stock": 22231,
+    "stock": 17680,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo7210-03.jpg",
@@ -5587,7 +6405,7 @@
       "https://cdn1.midocean.com/image/700X700/mo7210-04.jpg",
       "https://cdn1.midocean.com/image/700X700/mo7210-05.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -5725,7 +6543,7 @@
       "https://cdn1.midocean.com/image/700X700/mo8584-03-print.jpg",
       "https://cdn1.midocean.com/image/700X700/mo8584-03-detail.jpg"
     ],
-    "fetchedAt": "2026-09-26T08:33:23.778Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -5853,7 +6671,7 @@
     ],
     "price": 8.78,
     "priceFrom": false,
-    "stock": 15362,
+    "stock": 15262,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo9092-03.jpg",
@@ -5865,7 +6683,7 @@
       "https://cdn1.midocean.com/image/700X700/mo9092-03-top.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9092-03d.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -6012,7 +6830,7 @@
       "https://cdn1.midocean.com/image/700X700/mo9604-06.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9604-03a.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,

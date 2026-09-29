@@ -42,6 +42,20 @@
     ]
   },
   {
+    "contentKey": "1006ee29b5711c39",
+    "supplierVariantId": "S11386-WH-XL",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 2.37,
+    "color": {
+      "name": "White"
+    },
+    "size": "XL",
+    "imageRefs": [
+      9
+    ]
+  },
+  {
     "contentKey": "15341fe70c86b770",
     "supplierVariantId": "S11386-DB-XL",
     "stock": 5,
@@ -66,7 +80,7 @@
     },
     "size": "XXL",
     "imageRefs": [
-      9
+      10
     ]
   },
   {
@@ -80,7 +94,7 @@
     },
     "size": "XXL",
     "imageRefs": [
-      8
+      9
     ]
   },
   {
@@ -140,6 +154,20 @@
     ]
   },
   {
+    "contentKey": "45984fdbf71a3714",
+    "supplierVariantId": "S11386-AL-XXL",
+    "stock": 10,
+    "stockLevel": "in-stock",
+    "price": 2.99,
+    "color": {
+      "name": "Atoll Blue"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
     "contentKey": "484b4931a8c68493",
     "supplierVariantId": "S11386-GM-S",
     "stock": 37,
@@ -151,6 +179,20 @@
     "size": "S",
     "imageRefs": [
       3
+    ]
+  },
+  {
+    "contentKey": "4a7454c01c4190ba",
+    "supplierVariantId": "S11386-AL-XL",
+    "stock": 22,
+    "stockLevel": "in-stock",
+    "price": 2.99,
+    "color": {
+      "name": "Atoll Blue"
+    },
+    "size": "XL",
+    "imageRefs": [
+      0
     ]
   },
   {
@@ -168,6 +210,20 @@
     ]
   },
   {
+    "contentKey": "5adbfb7d42a46269",
+    "supplierVariantId": "S11386-RD-XXL",
+    "stock": 32,
+    "stockLevel": "in-stock",
+    "price": 2.99,
+    "color": {
+      "name": "Red"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      8
+    ]
+  },
+  {
     "contentKey": "5b7eeb5e9b7c2880",
     "supplierVariantId": "S11386-RB-XXL",
     "stock": 42,
@@ -182,6 +238,20 @@
     ]
   },
   {
+    "contentKey": "606137e4932f9ba4",
+    "supplierVariantId": "S11386-RD-XL",
+    "stock": 24,
+    "stockLevel": "in-stock",
+    "price": 2.99,
+    "color": {
+      "name": "Red"
+    },
+    "size": "XL",
+    "imageRefs": [
+      8
+    ]
+  },
+  {
     "contentKey": "799dfbe7ee4ee6e4",
     "supplierVariantId": "S11386-SK-L",
     "stock": 0,
@@ -192,7 +262,7 @@
     },
     "size": "L",
     "imageRefs": [
-      9
+      10
     ]
   },
   {
@@ -262,7 +332,7 @@
     },
     "size": "M",
     "imageRefs": [
-      9
+      10
     ]
   },
   {
@@ -276,7 +346,7 @@
     },
     "size": "L",
     "imageRefs": [
-      8
+      9
     ]
   },
   {
@@ -322,6 +392,34 @@
     ]
   },
   {
+    "contentKey": "cb5ceb118c692bce",
+    "supplierVariantId": "S11386-NY-S",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 2.99,
+    "color": {
+      "name": "Navy"
+    },
+    "size": "S",
+    "imageRefs": [
+      5
+    ]
+  },
+  {
+    "contentKey": "d292dfe51913adbe",
+    "supplierVariantId": "S11386-RD-M",
+    "stock": 2,
+    "stockLevel": "low",
+    "price": 2.99,
+    "color": {
+      "name": "Red"
+    },
+    "size": "M",
+    "imageRefs": [
+      8
+    ]
+  },
+  {
     "contentKey": "d5b0b329d65a2652",
     "supplierVariantId": "S11386-GM-XL",
     "stock": 95,
@@ -333,6 +431,20 @@
     "size": "XL",
     "imageRefs": [
       3
+    ]
+  },
+  {
+    "contentKey": "d6c246a26df65ff1",
+    "supplierVariantId": "S11386-RD-S",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 2.99,
+    "color": {
+      "name": "Red"
+    },
+    "size": "S",
+    "imageRefs": [
+      8
     ]
   },
   {
@@ -388,7 +500,7 @@
     },
     "size": "XL",
     "imageRefs": [
-      9
+      10
     ]
   },
   {
@@ -402,7 +514,7 @@
     },
     "size": "S",
     "imageRefs": [
-      9
+      10
     ]
   },
   {
@@ -431,6 +543,20 @@
     "size": "XXL",
     "imageRefs": [
       3
+    ]
+  },
+  {
+    "contentKey": "f514e8e05a3cfc49",
+    "supplierVariantId": "S11386-RD-L",
+    "stock": 21,
+    "stockLevel": "in-stock",
+    "price": 2.99,
+    "color": {
+      "name": "Red"
+    },
+    "size": "L",
+    "imageRefs": [
+      8
     ]
   }
 ]

@@ -66,7 +66,7 @@
       "https://cdn1.midocean.com/image/700X700/mo3137-03-picture1.jpg",
       "https://cdn1.midocean.com/image/700X700/mo3137-03-picture2.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -94,6 +94,12 @@
         "label": "Country of origin",
         "labelRo": "Țara de origine",
         "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "4202 9211"
       },
       {
         "key": "outer-carton",

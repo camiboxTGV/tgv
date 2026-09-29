@@ -14,6 +14,20 @@
     ]
   },
   {
+    "contentKey": "01cc50f5c69a7ca1",
+    "supplierVariantId": "S13251-OR-XL",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 18.68,
+    "color": {
+      "name": "Orange"
+    },
+    "size": "XL",
+    "imageRefs": [
+      8
+    ]
+  },
+  {
     "contentKey": "0293c4e69fca899f",
     "supplierVariantId": "S13251-RB-XL",
     "stock": 48,
@@ -58,7 +72,7 @@
   {
     "contentKey": "31e99423ffb1e0d3",
     "supplierVariantId": "S13251-RD-M",
-    "stock": 92,
+    "stock": 80,
     "stockLevel": "in-stock",
     "price": 18.68,
     "color": {
@@ -98,10 +112,24 @@
     ]
   },
   {
+    "contentKey": "39397594ea58979b",
+    "supplierVariantId": "S13251-OR-S",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 18.68,
+    "color": {
+      "name": "Orange"
+    },
+    "size": "S",
+    "imageRefs": [
+      8
+    ]
+  },
+  {
     "contentKey": "39f686949c6623f8",
     "supplierVariantId": "S13251-RD-S",
-    "stock": 16,
-    "stockLevel": "in-stock",
+    "stock": 7,
+    "stockLevel": "low",
     "price": 18.68,
     "color": {
       "name": "Red"
@@ -128,7 +156,7 @@
   {
     "contentKey": "48c983d72d84e02c",
     "supplierVariantId": "S13251-NY-S",
-    "stock": 68,
+    "stock": 62,
     "stockLevel": "in-stock",
     "price": 18.68,
     "color": {
@@ -137,6 +165,20 @@
     "size": "S",
     "imageRefs": [
       2
+    ]
+  },
+  {
+    "contentKey": "4eb5dd18b8699494",
+    "supplierVariantId": "S13251-KG-L",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 18.68,
+    "color": {
+      "name": "Kelly Green"
+    },
+    "size": "L",
+    "imageRefs": [
+      7
     ]
   },
   {
@@ -226,7 +268,7 @@
   {
     "contentKey": "6d1f557b7b5ca2c9",
     "supplierVariantId": "S13251-RD-XS",
-    "stock": 21,
+    "stock": 18,
     "stockLevel": "in-stock",
     "price": 18.68,
     "color": {
@@ -268,7 +310,7 @@
   {
     "contentKey": "785638eb24257cc7",
     "supplierVariantId": "S13251-NY-M",
-    "stock": 123,
+    "stock": 107,
     "stockLevel": "in-stock",
     "price": 18.68,
     "color": {
@@ -333,6 +375,20 @@
     "size": "XL",
     "imageRefs": [
       7
+    ]
+  },
+  {
+    "contentKey": "91fc384b8e39d890",
+    "supplierVariantId": "S13251-SK-S",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 18.68,
+    "color": {
+      "name": "Sky Blue"
+    },
+    "size": "S",
+    "imageRefs": [
+      6
     ]
   },
   {
@@ -588,6 +644,20 @@
     ]
   },
   {
+    "contentKey": "f0131a7e26e5d70b",
+    "supplierVariantId": "S13251-GM-XL",
+    "stock": 6,
+    "stockLevel": "low",
+    "price": 18.68,
+    "color": {
+      "name": "Grey Melange"
+    },
+    "size": "XL",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
     "contentKey": "fa5dc27e5efcf50b",
     "supplierVariantId": "S13251-RD-L",
     "stock": 25,
@@ -618,7 +688,7 @@
   {
     "contentKey": "fdcdfc9f7d649f01",
     "supplierVariantId": "S13251-NY-L",
-    "stock": 109,
+    "stock": 101,
     "stockLevel": "in-stock",
     "price": 18.68,
     "color": {

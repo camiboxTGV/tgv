@@ -1,0 +1,50 @@
+[
+  {
+    "contentKey": "9781a5a8df462246",
+    "supplierVariantId": "PD-38-RO",
+    "stock": 105,
+    "stockLevel": "in-stock",
+    "price": 6.49,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "d817ef587bfc988b",
+    "supplierVariantId": "PD-38-AZ",
+    "stock": 102,
+    "stockLevel": "in-stock",
+    "price": 6.49,
+    "color": {
+      "name": "Blue",
+      "hex": "#4169E1"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "fcb7a7f786254e35",
+    "supplierVariantId": "PD-38-VE",
+    "stock": 101,
+    "stockLevel": "in-stock",
+    "price": 6.49,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  }
+]

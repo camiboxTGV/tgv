@@ -6,7 +6,8 @@
     "stockLevel": "in-stock",
     "price": 0.5,
     "imageRefs": [
-      1
+      2,
+      3
     ]
   },
   {
@@ -20,7 +21,8 @@
       "hex": "#000000"
     },
     "imageRefs": [
-      2
+      4,
+      5
     ]
   },
   {
@@ -34,7 +36,8 @@
       "hex": "#FFFFFF"
     },
     "imageRefs": [
-      0
+      0,
+      1
     ]
   },
   {
@@ -48,7 +51,8 @@
       "hex": "#C0C0C0"
     },
     "imageRefs": [
-      3
+      6,
+      7
     ]
   }
 ]

@@ -1,5 +1,128 @@
 [
   {
+    "slug": "bluecollection-20155",
+    "name": "Mini garden tools set FLOWER",
+    "category": "outdoor-and-leisure/outdoor-gear/gardening-tools",
+    "summary": "The set of mini gardening tools includes a rake, shovel and skewer for easy planting. The whole set is packed in a non-woven bag for easy storage. A perfect gift for amateur gardeners.",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "textile-transfer",
+      "fiber-laser",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "C1",
+        "label": "DTF",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "50.00 x 60.00 mm"
+        ]
+      },
+      {
+        "code": "C2",
+        "label": "DTF",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "100.00 x 150.00 mm"
+        ]
+      },
+      {
+        "code": "C3",
+        "label": "DTF",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "100.00 x 170.00 mm"
+        ]
+      },
+      {
+        "code": "F1",
+        "label": "Screen printing heat transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "100.00 x 170.00 mm"
+        ]
+      },
+      {
+        "code": "G5",
+        "label": "Laser engraving",
+        "labelRo": "Gravură laser",
+        "printSizes": [
+          "30.00 x 7.00 mm"
+        ]
+      },
+      {
+        "code": "N2",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "30.00 x 5.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "20155",
+    "supplierVariantIds": [
+      "20155-17"
+    ],
+    "price": 3.13,
+    "priceFrom": false,
+    "stock": 4586,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/20155-17.jpg",
+      "https://bluecollection.eu/assets/img/20155-17_d.jpg",
+      "https://bluecollection.eu/assets/img/20155-17_ep.jpg",
+      "https://bluecollection.eu/assets/img/20155-17_ep_LOGO.jpg",
+      "https://bluecollection.eu/assets/img/20155-17_l.jpg",
+      "https://bluecollection.eu/assets/img/20155-17_m.jpg",
+      "https://bluecollection.eu/assets/img/20155-17_o.jpg",
+      "https://bluecollection.eu/assets/img/20155-17_op.jpg",
+      "https://bluecollection.eu/assets/img/20155-17_znzg.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/20155.html",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Natural"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "140 × 240 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "metal, wood"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "80 pcs",
+        "valueRo": "80 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 2,
+    "descriptionLong": "The set of mini gardening tools includes a rake, shovel and skewer for easy planting. The whole set is packed in a non-woven bag for easy storage. A perfect gift for amateur gardeners.",
+    "hasVariantDetail": false
+  },
+  {
     "slug": "midocean-mo2130",
     "name": "PAINTHOUSE",
     "category": "outdoor-and-leisure/outdoor-gear/gardening-tools",
@@ -62,8 +185,8 @@
     ],
     "price": 2.07,
     "priceFrom": false,
-    "stock": 937,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2130-40.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2130-40-back.jpg",
@@ -74,7 +197,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2130-40-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2130-40-picture1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -195,7 +318,7 @@
     ],
     "price": 3.82,
     "priceFrom": false,
-    "stock": 7083,
+    "stock": 7068,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2153-03.jpg",
@@ -207,7 +330,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2153-03-box.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2153-03-picture7.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -311,7 +434,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2161-13-top.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2161-13-detail.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -414,7 +537,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2216-13-print.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2216-13-detail.jpg"
     ],
-    "fetchedAt": "2026-09-26T08:33:23.778Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -518,7 +641,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2217-13-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2217-13-picture2.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -624,7 +747,7 @@
     ],
     "price": 1.19,
     "priceFrom": false,
-    "stock": 6799,
+    "stock": 6725,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2218-40.jpg",
@@ -632,7 +755,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2218-40-open.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2218-40-print.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -745,7 +868,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2219-40-side.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2219-40-open.jpg"
     ],
-    "fetchedAt": "2026-09-26T08:33:23.778Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -866,7 +989,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2223-99-print.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2223-99-picture2.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -987,7 +1110,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2358-06-picture1.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2358-06-picture6.jpg"
     ],
-    "fetchedAt": "2026-09-24T08:24:44.584Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1103,7 +1226,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2410-13-picture1.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2410-13-picture3.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1219,7 +1342,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2411-13-picture1.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2411-13-picture3.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1327,7 +1450,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2702-06-picture3.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2702-06-picture6.jpg"
     ],
-    "fetchedAt": "2026-09-21T08:53:17.637Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1431,7 +1554,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2852-06-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2852-06-box.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1536,7 +1659,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2853-06-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2853-06-box.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1641,7 +1764,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2854-06-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2854-06-box.jpg"
     ],
-    "fetchedAt": "2026-09-26T08:33:23.778Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1748,7 +1871,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6145-40d.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6145-40-print.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1864,7 +1987,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6146-40-print.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6146-40-detail.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1971,7 +2094,7 @@
     ],
     "price": 1.19,
     "priceFrom": false,
-    "stock": 24660,
+    "stock": 24629,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo6147-40.jpg",
@@ -1980,7 +2103,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6147-40-print.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6147-40-detail.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2095,7 +2218,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6148-40-top.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6148-40-detail.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2203,7 +2326,7 @@
     ],
     "price": 3.17,
     "priceFrom": false,
-    "stock": 19750,
+    "stock": 19727,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo6228-13.jpg",
@@ -2216,7 +2339,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6228-13-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6228-13-box.jpg"
     ],
-    "fetchedAt": "2026-09-26T08:33:23.778Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2341,7 +2464,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6408-40-picture1.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6408-40-picture2.jpg"
     ],
-    "fetchedAt": "2026-09-26T08:33:23.778Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2454,7 +2577,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6497-16-top.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6497-16-open.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:10.287Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2558,7 +2681,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6499-13-open.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6499-13-print.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:10.287Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2662,7 +2785,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6500-13-open.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6500-13-detail.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2757,7 +2880,7 @@
     ],
     "price": 0.98,
     "priceFrom": false,
-    "stock": 24619,
+    "stock": 24219,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo6501-13.jpg",
@@ -2765,7 +2888,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6501-13-top.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6501-13-print.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2860,7 +2983,7 @@
     ],
     "price": 0.98,
     "priceFrom": false,
-    "stock": 43575,
+    "stock": 43555,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo6502-13.jpg",
@@ -2868,7 +2991,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6502-13-top.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6502-13-print.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2981,7 +3104,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6506-40-top.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6506-40-open.jpg"
     ],
-    "fetchedAt": "2026-09-26T08:33:23.778Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3075,7 +3198,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6886-13-back.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6886-13-side.jpg"
     ],
-    "fetchedAt": "2026-09-23T08:32:07.190Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3171,7 +3294,7 @@
     ],
     "price": 1.23,
     "priceFrom": false,
-    "stock": 7403,
+    "stock": 7402,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo6908-13.jpg",
@@ -3179,7 +3302,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6908-13-side.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6908-13-top.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3275,7 +3398,7 @@
     ],
     "price": 1.23,
     "priceFrom": false,
-    "stock": 15160,
+    "stock": 15145,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo6909-13.jpg",
@@ -3284,7 +3407,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6909-13-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6909-13-box.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3389,7 +3512,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6910-13-top.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6910-13-box.jpg"
     ],
-    "fetchedAt": "2026-09-25T08:46:53.461Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3494,7 +3617,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6926-13-ambiant.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6926-13-detail.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3591,7 +3714,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6927-13-open.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6927-13-detail.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3642,102 +3765,6 @@
     "brand": "midocean",
     "weightGrams": 3,
     "descriptionLong": "Herb Seedsticks® with chives, basil and parsley seeds. Made in EU.",
-    "hasVariantDetail": false
-  },
-  {
-    "slug": "midocean-mo6928",
-    "name": "FRESA KIT",
-    "category": "outdoor-and-leisure/outdoor-gear/gardening-tools",
-    "summary": "Strawberry growing kit",
-    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
-    "personalizations": [
-      "pad-screen"
-    ],
-    "supplierPersonalizations": [
-      {
-        "code": "DL",
-        "label": "Digital label",
-        "labelRo": "Etichetă digitală",
-        "printSizes": [
-          "40 × 40 mm"
-        ]
-      },
-      {
-        "code": "P4",
-        "label": "Pad printing",
-        "labelRo": "Tampografie",
-        "printSizes": [
-          "40 × 40 mm"
-        ]
-      }
-    ],
-    "supplierId": "midocean",
-    "supplierSku": "MO6928",
-    "supplierVariantIds": [
-      "MO6928-13"
-    ],
-    "price": 1.95,
-    "priceFrom": false,
-    "stock": 0,
-    "stockLevel": "out-of-stock",
-    "images": [
-      "https://cdn1.midocean.com/image/700X700/mo6928-13.jpg",
-      "https://cdn1.midocean.com/image/700X700/mo6928-13-back.jpg",
-      "https://cdn1.midocean.com/image/700X700/mo6928-13-side.jpg",
-      "https://cdn1.midocean.com/image/700X700/mo6928-13-top.jpg",
-      "https://cdn1.midocean.com/image/700X700/mo6928-13-detail.jpg"
-    ],
-    "fetchedAt": "2026-08-23T04:04:10.287Z",
-    "variantCount": 1,
-    "colorCount": 1,
-    "sizeCount": 0,
-    "colorSwatches": [
-      {
-        "name": "Beige"
-      }
-    ],
-    "availableSizes": [],
-    "specifications": [
-      {
-        "key": "dimensions",
-        "label": "Dimensions",
-        "labelRo": "Dimensiuni",
-        "value": "11,5 X 21 X 2,5 CM"
-      },
-      {
-        "key": "material",
-        "label": "Material",
-        "labelRo": "Material",
-        "value": "Paper"
-      },
-      {
-        "key": "country-of-origin",
-        "label": "Country of origin",
-        "labelRo": "Țara de origine",
-        "value": "NL"
-      },
-      {
-        "key": "commodity-code",
-        "label": "Commodity code",
-        "labelRo": "Cod tarifar",
-        "value": "1209 9999"
-      },
-      {
-        "key": "outer-carton",
-        "label": "Outer carton",
-        "labelRo": "Bax exterior",
-        "value": "120"
-      },
-      {
-        "key": "packaging-after-printing",
-        "label": "Packaging after printing",
-        "labelRo": "Ambalare după personalizare",
-        "value": "No Polybag"
-      }
-    ],
-    "brand": "midocean",
-    "weightGrams": 75,
-    "descriptionLong": "Strawberry growing kit including garden compost in a paper packaging. Made in EU.",
     "hasVariantDetail": false
   },
   {
@@ -3805,7 +3832,7 @@
     ],
     "price": 2.34,
     "priceFrom": false,
-    "stock": 12533,
+    "stock": 12523,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo8532-40.jpg",
@@ -3816,7 +3843,7 @@
       "https://cdn1.midocean.com/image/700X700/mo8532-40-ambiant.jpg",
       "https://cdn1.midocean.com/image/700X700/mo8532-40-box.jpg"
     ],
-    "fetchedAt": "2026-09-24T08:24:44.584Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3913,14 +3940,14 @@
     ],
     "price": 3.71,
     "priceFrom": false,
-    "stock": 14222,
+    "stock": 14221,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo9337-40.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9337-40a.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9337-40b.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -4029,7 +4056,7 @@
       "https://cdn1.midocean.com/image/700X700/mo9545-13b.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9545-13-top.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -4124,7 +4151,7 @@
     ],
     "price": 1.47,
     "priceFrom": false,
-    "stock": 9730,
+    "stock": 9670,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo9546-13.jpg",
@@ -4132,7 +4159,7 @@
       "https://cdn1.midocean.com/image/700X700/mo9546-13b.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9546-13-top.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

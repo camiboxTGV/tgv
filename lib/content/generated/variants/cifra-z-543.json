@@ -10,11 +10,11 @@
       "hex": "#000000"
     },
     "imageRefs": [
-      15,
-      16,
-      17,
-      18,
-      19
+      20,
+      21,
+      22,
+      23,
+      24
     ]
   },
   {
@@ -68,6 +68,24 @@
     ]
   },
   {
+    "contentKey": "8a08be91e2525c84",
+    "supplierVariantId": "Z-543-MR",
+    "stock": 25,
+    "stockLevel": "in-stock",
+    "price": 7.22,
+    "color": {
+      "name": "Brown",
+      "hex": "#800000"
+    },
+    "imageRefs": [
+      15,
+      16,
+      17,
+      18,
+      19
+    ]
+  },
+  {
     "contentKey": "915ca06a53627e13",
     "supplierVariantId": "Z-543-RO",
     "stock": 0,
@@ -78,11 +96,11 @@
       "hex": "#FF0000"
     },
     "imageRefs": [
-      20,
-      21,
-      22,
-      23,
-      24
+      25,
+      26,
+      27,
+      28,
+      29
     ]
   }
 ]

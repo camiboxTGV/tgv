@@ -10,15 +10,15 @@
       "hex": "#cc0000"
     },
     "imageRefs": [
-      14,
       15,
-      16
+      16,
+      17
     ]
   },
   {
     "contentKey": "47af8cd564965305",
     "supplierVariantId": "6254306",
-    "stock": 15872,
+    "stock": 15852,
     "stockLevel": "in-stock",
     "price": 1.23,
     "color": {
@@ -33,7 +33,8 @@
       7,
       8,
       9,
-      10
+      10,
+      11
     ]
   },
   {
@@ -63,9 +64,9 @@
       "hex": "#000000"
     },
     "imageRefs": [
-      11,
       12,
-      13
+      13,
+      14
     ]
   }
 ]

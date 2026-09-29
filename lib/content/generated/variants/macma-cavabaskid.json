@@ -1,5 +1,20 @@
 [
   {
+    "contentKey": "1a79dd32f827b903",
+    "supplierVariantId": "CAVABASVM06",
+    "stock": 1978,
+    "stockLevel": "in-stock",
+    "price": 1.88,
+    "color": {
+      "name": "Apple Green",
+      "hex": "#91b352"
+    },
+    "size": "6/8",
+    "imageRefs": [
+      4
+    ]
+  },
+  {
     "contentKey": "1bab6f6c8faf0349",
     "supplierVariantId": "CAVABASRJ06",
     "stock": 744,
@@ -11,7 +26,142 @@
     },
     "size": "6/8",
     "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "26a8511d08cfeb2e",
+    "supplierVariantId": "CAVABASNJ06",
+    "stock": 962,
+    "stockLevel": "in-stock",
+    "price": 1.88,
+    "color": {
+      "name": "Party Orange",
+      "hex": "#c5541c"
+    },
+    "size": "6/8",
+    "imageRefs": [
       1
+    ]
+  },
+  {
+    "contentKey": "2b66be193c91c823",
+    "supplierVariantId": "CAVABASRJ04",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 1.88,
+    "color": {
+      "name": "Lotto Red",
+      "hex": "#891627"
+    },
+    "size": "4/5",
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "4cc6a7c8c6dfd1a2",
+    "supplierVariantId": "CAVABASNJ10",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 1.88,
+    "color": {
+      "name": "Party Orange",
+      "hex": "#c5541c"
+    },
+    "size": "10/12",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "4e64cd5034435f5b",
+    "supplierVariantId": "CAVABASRY04",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 1.88,
+    "color": {
+      "name": "Royal Blue",
+      "hex": "#1c5e98"
+    },
+    "size": "4/5",
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "5d94ebaa137e9a4a",
+    "supplierVariantId": "CAVABASRY06",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 1.88,
+    "color": {
+      "name": "Royal Blue",
+      "hex": "#1c5e98"
+    },
+    "size": "6/8",
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "5f38fac58fb4d782",
+    "supplierVariantId": "CAVABASVM10",
+    "stock": 1996,
+    "stockLevel": "in-stock",
+    "price": 1.88,
+    "color": {
+      "name": "Apple Green",
+      "hex": "#91b352"
+    },
+    "size": "10/12",
+    "imageRefs": [
+      4
+    ]
+  },
+  {
+    "contentKey": "778b6e0810471189",
+    "supplierVariantId": "CAVABASRJ10",
+    "stock": 1236,
+    "stockLevel": "in-stock",
+    "price": 1.88,
+    "color": {
+      "name": "Lotto Red",
+      "hex": "#891627"
+    },
+    "size": "10/12",
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "78cebeb670c9e9e4",
+    "supplierVariantId": "CAVABASNJ04",
+    "stock": 1551,
+    "stockLevel": "in-stock",
+    "price": 1.88,
+    "color": {
+      "name": "Party Orange",
+      "hex": "#c5541c"
+    },
+    "size": "4/5",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "84220f1934ac58fb",
+    "supplierVariantId": "CAVABASBL06",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 1.68,
+    "color": {
+      "name": "White",
+      "hex": "#ffffff"
+    },
+    "size": "6/8",
+    "imageRefs": [
+      0
     ]
   },
   {
@@ -27,6 +177,51 @@
     "size": "10/12",
     "imageRefs": [
       0
+    ]
+  },
+  {
+    "contentKey": "af21fbcddf12c756",
+    "supplierVariantId": "CAVABASBL04",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 1.68,
+    "color": {
+      "name": "White",
+      "hex": "#ffffff"
+    },
+    "size": "4/5",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "c4f3a6f0979dbd4d",
+    "supplierVariantId": "CAVABASRY10",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 1.88,
+    "color": {
+      "name": "Royal Blue",
+      "hex": "#1c5e98"
+    },
+    "size": "10/12",
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "cc654ad6a36d9665",
+    "supplierVariantId": "CAVABASVM04",
+    "stock": 2000,
+    "stockLevel": "in-stock",
+    "price": 1.88,
+    "color": {
+      "name": "Apple Green",
+      "hex": "#91b352"
+    },
+    "size": "4/5",
+    "imageRefs": [
+      4
     ]
   }
 ]

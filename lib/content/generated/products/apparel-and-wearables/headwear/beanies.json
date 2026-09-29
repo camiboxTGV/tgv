@@ -29,7 +29,7 @@
       "https://www.publicatalogue.com/image/cache/data/10612-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10612-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-18T08:12:40.028Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,
@@ -80,6 +80,12 @@
         "labelRo": "Unități per palet",
         "value": "3600 pcs",
         "valueRo": "3600 buc."
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "XMAS:30"
       }
     ],
     "weightGrams": 20,
@@ -116,10 +122,10 @@
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/10632-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10632-01-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10632-02-500x500.jpg"
+      "https://www.publicatalogue.com/image/cache/data/details/10632-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10632-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -169,10 +175,104 @@
         "labelRo": "Greutate netă cutie",
         "value": "7.2 kg",
         "valueRo": "7.2 kg"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "XMAS:30"
       }
     ],
     "weightGrams": 8,
     "descriptionLong": "Funny Santa Claus hat for your pets.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "cifra-11115",
+    "name": "PACK OF CHRISTMAS HATS (3 PCS) “KIRAN”",
+    "category": "apparel-and-wearables/headwear/beanies",
+    "summary": "This set of 3 knitted Christmas hats is the ideal accessory to fill winter celebrations with fun, warmth and festive spirit. They feature classic and cheerful designs inspired by traditional holiday sweaters.Made of 1...",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "BORDADO",
+        "label": "Embroidery",
+        "labelRo": "Broderie",
+        "printSizes": [
+          "60x25 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "11115",
+    "supplierVariantIds": [
+      "11115"
+    ],
+    "price": 3.88,
+    "priceFrom": false,
+    "stock": 1000,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/11115-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11115-10-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11115-09-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11115-08-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11115-06-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11115-07-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11115-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11115-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11115-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11115-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11115-01-500x500.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
+    "variantCount": 1,
+    "colorCount": 0,
+    "sizeCount": 0,
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "100% recycled polyester"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "50,0 x 30,0 x 38,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "9 kg",
+        "valueRo": "9 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "8 kg",
+        "valueRo": "8 kg"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "XMAS:31"
+      }
+    ],
+    "descriptionLong": "This set of 3 knitted Christmas hats is the ideal accessory to fill winter celebrations with fun, warmth and festive spirit. They feature classic and cheerful designs inspired by traditional holiday sweaters.Made of 100% polyester, a lightweight fabric that feels soft and excellent for heat retention.The set includes three different models with geometric snowflakes patterns, Santa faces and a tender holiday reindeer.Each hat is topped with a colorful pompom at the top that enhances its festive style. Features a bent bottom edge that provides a comfortable, firm and adaptable fit.They are sold in a convenient pack that contains all 3 pieces.",
     "hasVariantDetail": false
   },
   {
@@ -216,7 +316,7 @@
       "https://www.publicatalogue.com/image/cache/data/T-429-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-429-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-22T08:30:00.132Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -279,6 +379,12 @@
         "label": "EAN",
         "labelRo": "EAN",
         "value": "8436534317093"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "XMAS:30"
       }
     ],
     "weightGrams": 17,
@@ -326,7 +432,7 @@
       "https://www.publicatalogue.com/image/cache/data/details/T-434-RO-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-434-RO-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -391,6 +497,12 @@
         "labelRo": "Unități per palet",
         "value": "1000 pcs",
         "valueRo": "1000 buc."
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "XMAS:30"
       }
     ],
     "weightGrams": 19,
@@ -450,7 +562,7 @@
       "https://www.publicatalogue.com/image/cache/data/T-435-NA-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-435-VE-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-19T08:01:30.231Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -533,6 +645,12 @@
         "label": "EAN",
         "labelRo": "EAN",
         "value": "8436534317369 · 8436534317345 · 8436534317352 · 8436534317376 · 8436534317338"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "XMAS:30"
       }
     ],
     "weightGrams": 20,
@@ -580,7 +698,7 @@
       "https://www.publicatalogue.com/image/cache/data/T-435-RO-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-435-RO-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-15T08:38:34.923Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -643,6 +761,12 @@
         "label": "EAN",
         "labelRo": "EAN",
         "value": "8436534317321"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "XMAS:30"
       }
     ],
     "weightGrams": 20,
@@ -681,7 +805,7 @@
       "https://www.publicatalogue.com/image/cache/data/T-437-VE-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-437-VE-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -798,7 +922,7 @@
     ],
     "price": 1.88,
     "priceFrom": false,
-    "stock": 16680,
+    "stock": 16530,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2350-03.jpg",
@@ -807,7 +931,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2350-03-back.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2350-03-detail.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -928,7 +1052,7 @@
     ],
     "price": 2.93,
     "priceFrom": false,
-    "stock": 16423,
+    "stock": 16422,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2359-03.jpg",
@@ -941,7 +1065,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2359-03-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2359-03-picture1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -1063,7 +1187,7 @@
     ],
     "price": 5.34,
     "priceFrom": false,
-    "stock": 4658,
+    "stock": 4657,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2688-03.jpg",
@@ -1077,7 +1201,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2688-03-picture4.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2688-03-picture7.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -1195,7 +1319,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2700-03-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2700-03-picture1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -1283,7 +1407,7 @@
     ],
     "price": 1.79,
     "priceFrom": false,
-    "stock": 43585,
+    "stock": 43361,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2705-03.jpg",
@@ -1294,7 +1418,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2705-15.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2705-03-detail.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -1414,7 +1538,7 @@
     ],
     "price": 2.47,
     "priceFrom": false,
-    "stock": 7761,
+    "stock": 7760,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo3221-03.jpg",
@@ -1422,7 +1546,7 @@
       "https://cdn1.midocean.com/image/700X700/mo3221-03-back.jpg",
       "https://cdn1.midocean.com/image/700X700/mo3221-03-top.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -1453,6 +1577,12 @@
         "label": "Country of origin",
         "labelRo": "Țara de origine",
         "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "6505 0090"
       },
       {
         "key": "outer-carton",
@@ -1544,7 +1674,7 @@
     ],
     "price": 2.17,
     "priceFrom": false,
-    "stock": 50990,
+    "stock": 50987,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo6645-03.jpg",
@@ -1562,7 +1692,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6645-03-top.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6645-03-detail.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 11,
     "colorCount": 11,
     "sizeCount": 0,
@@ -1684,7 +1814,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6651-03-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6651-03-box.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1764,7 +1894,7 @@
     ],
     "price": 2.01,
     "priceFrom": false,
-    "stock": 24701,
+    "stock": 24699,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo9964-03.jpg",
@@ -1772,7 +1902,7 @@
       "https://cdn1.midocean.com/image/700X700/mo9964-04.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9964-03-detail.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -1858,7 +1988,7 @@
     ],
     "price": 2.54,
     "priceFrom": false,
-    "stock": 40669,
+    "stock": 40643,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo9965-03.jpg",
@@ -1867,7 +1997,7 @@
       "https://cdn1.midocean.com/image/700X700/mo9965-04.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9965-03-detail.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,

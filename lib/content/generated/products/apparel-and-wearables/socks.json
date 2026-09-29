@@ -1,5 +1,109 @@
 [
   {
+    "slug": "bluecollection-08122",
+    "name": "Socks set FELIZ",
+    "category": "apparel-and-wearables/socks",
+    "summary": "FELIZ is a proposal of a unique Christmas gift. A set of two pairs of socks with a Christmas motif will make the lovers of fashionable colourful accessories happy. Socks made of elastic material made of cotton, polyes...",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "N1",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "40.00 x 40.00 mm"
+        ]
+      },
+      {
+        "code": "N2",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "50.00 x 12.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "08122",
+    "supplierVariantIds": [
+      "08122-04",
+      "08122-06",
+      "08122-09"
+    ],
+    "price": 13.59,
+    "priceFrom": false,
+    "stock": 3467,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/08122-09.jpg",
+      "https://bluecollection.eu/assets/img/08122-04.jpg",
+      "https://bluecollection.eu/assets/img/08122-06.jpg",
+      "https://bluecollection.eu/assets/img/08122-09_d.jpg",
+      "https://bluecollection.eu/assets/img/08122-09_e.jpg",
+      "https://bluecollection.eu/assets/img/08122-09_l.jpg",
+      "https://bluecollection.eu/assets/img/08122-09_m.jpg",
+      "https://bluecollection.eu/assets/img/08122-09_n.jpg",
+      "https://bluecollection.eu/assets/img/08122-09_o.jpg",
+      "https://bluecollection.eu/assets/img/08122-09_ob.jpg",
+      "https://bluecollection.eu/assets/img/08122-09_oop.jpg",
+      "https://bluecollection.eu/assets/img/08122-09_oot.jpg",
+      "https://bluecollection.eu/assets/img/08122-09_oot_LOGO.jpg",
+      "https://bluecollection.eu/assets/img/08122-09_op.jpg",
+      "https://bluecollection.eu/assets/img/08122-09_ot.jpg",
+      "https://bluecollection.eu/assets/img/08122-09_zn.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/08122.html",
+    "variantCount": 3,
+    "colorCount": 3,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Brown"
+      },
+      {
+        "name": "Navy blue"
+      },
+      {
+        "name": "Red"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "90.00 × 145.00 × 60.00 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "cotton, polyester, elastane"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "72 pcs",
+        "valueRo": "72 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 81,
+    "descriptionLong": "FELIZ is a proposal of a unique Christmas gift. A set of two pairs of socks with a Christmas motif will make the lovers of fashionable colourful accessories happy. Socks made of elastic material made of cotton, polyester and elastane in a universal size designed to fit any foot. Ideal for both women and men. Packed in a box with a decorative bow and a card for a logo or a greeting card. Project made especially for the BLUE COLLECTION catalogue.",
+    "hasVariantDetail": true
+  },
+  {
     "slug": "midocean-mo3100",
     "name": "FUNNY M",
     "category": "apparel-and-wearables/socks",
@@ -45,7 +149,7 @@
     ],
     "price": 1.49,
     "priceFrom": false,
-    "stock": 26395,
+    "stock": 26394,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo3100-03.jpg",
@@ -58,7 +162,7 @@
       "https://cdn1.midocean.com/image/700X700/mo3100-03-open.jpg",
       "https://cdn1.midocean.com/image/700X700/mo3100-03-picture1.jpg"
     ],
-    "fetchedAt": "2026-09-26T08:33:23.778Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -163,7 +267,7 @@
     ],
     "price": 1.49,
     "priceFrom": false,
-    "stock": 32798,
+    "stock": 32793,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo3101-03.jpg",
@@ -176,7 +280,7 @@
       "https://cdn1.midocean.com/image/700X700/mo3101-03-open.jpg",
       "https://cdn1.midocean.com/image/700X700/mo3101-03-picture1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,

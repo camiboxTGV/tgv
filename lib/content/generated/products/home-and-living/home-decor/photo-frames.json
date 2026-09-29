@@ -28,13 +28,13 @@
     "images": [
       "https://www.publicatalogue.com/image/cache/data/Z-1709-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/Z-1709-06-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/Z-1709-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/Z-1709-04-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/Z-1709-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/Z-1709-03-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/Z-1709-05-500x500.jpg"
+      "https://www.publicatalogue.com/image/cache/data/details/Z-1709-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/Z-1709-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/Z-1709-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-23T08:32:11.036Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,
@@ -75,7 +75,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "325"
+        "value": "GENERAL:325"
       }
     ],
     "weightGrams": 207,

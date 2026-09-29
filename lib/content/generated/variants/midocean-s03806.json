@@ -140,6 +140,20 @@
     ]
   },
   {
+    "contentKey": "2dfb905ae9a183e7",
+    "supplierVariantId": "S03806-IR-M",
+    "stock": 256,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Azure"
+    },
+    "size": "M",
+    "imageRefs": [
+      9
+    ]
+  },
+  {
     "contentKey": "2e6ccaa756b376e9",
     "supplierVariantId": "S03806-FN-XXL",
     "stock": 228,
@@ -151,20 +165,6 @@
     "size": "XXL",
     "imageRefs": [
       4
-    ]
-  },
-  {
-    "contentKey": "304828e153405d85",
-    "supplierVariantId": "S03806-IR-XXL",
-    "stock": 48,
-    "stockLevel": "in-stock",
-    "price": 6.51,
-    "color": {
-      "name": "Iris"
-    },
-    "size": "XXL",
-    "imageRefs": [
-      9
     ]
   },
   {
@@ -221,6 +221,20 @@
     "size": "XL",
     "imageRefs": [
       7
+    ]
+  },
+  {
+    "contentKey": "41434ab2a2f1081f",
+    "supplierVariantId": "S03806-IR-XL",
+    "stock": 124,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Azure"
+    },
+    "size": "XL",
+    "imageRefs": [
+      9
     ]
   },
   {
@@ -422,7 +436,7 @@
   {
     "contentKey": "7111cd332e1770e2",
     "supplierVariantId": "S03806-WW-XL",
-    "stock": 1991,
+    "stock": 1990,
     "stockLevel": "in-stock",
     "price": 6.51,
     "color": {
@@ -490,20 +504,6 @@
     ]
   },
   {
-    "contentKey": "891da83f0b652607",
-    "supplierVariantId": "S03806-IR-S",
-    "stock": 112,
-    "stockLevel": "in-stock",
-    "price": 6.51,
-    "color": {
-      "name": "Iris"
-    },
-    "size": "S",
-    "imageRefs": [
-      9
-    ]
-  },
-  {
     "contentKey": "893516ff24e35a4f",
     "supplierVariantId": "S03806-BT-XXL",
     "stock": 50,
@@ -534,7 +534,7 @@
   {
     "contentKey": "8ba05bc732f6e723",
     "supplierVariantId": "S03806-WH-M",
-    "stock": 5044,
+    "stock": 5034,
     "stockLevel": "in-stock",
     "price": 5.79,
     "color": {
@@ -602,15 +602,15 @@
     ]
   },
   {
-    "contentKey": "a9640f3a2685d5aa",
-    "supplierVariantId": "S03806-IR-M",
-    "stock": 256,
+    "contentKey": "a8e47d4711f7ce98",
+    "supplierVariantId": "S03806-IR-S",
+    "stock": 112,
     "stockLevel": "in-stock",
     "price": 6.51,
     "color": {
-      "name": "Iris"
+      "name": "Azure"
     },
-    "size": "M",
+    "size": "S",
     "imageRefs": [
       9
     ]
@@ -674,7 +674,7 @@
   {
     "contentKey": "bee8d5ad23d323c5",
     "supplierVariantId": "S03806-WH-L",
-    "stock": 13958,
+    "stock": 13957,
     "stockLevel": "in-stock",
     "price": 5.79,
     "color": {
@@ -716,7 +716,7 @@
   {
     "contentKey": "c3ee67ac352069fd",
     "supplierVariantId": "S03806-WH-S",
-    "stock": 3150,
+    "stock": 3149,
     "stockLevel": "in-stock",
     "price": 5.79,
     "color": {
@@ -730,7 +730,7 @@
   {
     "contentKey": "c951967b04481518",
     "supplierVariantId": "S03806-FN-L",
-    "stock": 838,
+    "stock": 837,
     "stockLevel": "in-stock",
     "price": 6.51,
     "color": {
@@ -770,15 +770,15 @@
     ]
   },
   {
-    "contentKey": "d187cb60859d3210",
-    "supplierVariantId": "S03806-IR-XL",
-    "stock": 124,
+    "contentKey": "ce6bcd4b28a7f9cd",
+    "supplierVariantId": "S03806-IR-L",
+    "stock": 274,
     "stockLevel": "in-stock",
     "price": 6.51,
     "color": {
-      "name": "Iris"
+      "name": "Azure"
     },
-    "size": "XL",
+    "size": "L",
     "imageRefs": [
       9
     ]
@@ -809,6 +809,20 @@
     "size": "S",
     "imageRefs": [
       13
+    ]
+  },
+  {
+    "contentKey": "d87e43069ce8ec11",
+    "supplierVariantId": "S03806-IR-XXL",
+    "stock": 48,
+    "stockLevel": "in-stock",
+    "price": 6.51,
+    "color": {
+      "name": "Azure"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      9
     ]
   },
   {
@@ -963,20 +977,6 @@
     "size": "L",
     "imageRefs": [
       13
-    ]
-  },
-  {
-    "contentKey": "ff1ae561a9c9b478",
-    "supplierVariantId": "S03806-IR-L",
-    "stock": 274,
-    "stockLevel": "in-stock",
-    "price": 6.51,
-    "color": {
-      "name": "Iris"
-    },
-    "size": "L",
-    "imageRefs": [
-      9
     ]
   }
 ]

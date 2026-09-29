@@ -1,5 +1,752 @@
 [
   {
+    "slug": "bluecollection-02005",
+    "name": "Battery AA",
+    "category": "unclassified",
+    "summary": "Standard AA battery.",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [],
+    "supplierPersonalizations": [],
+    "supplierId": "bluecollection",
+    "supplierSku": "02005",
+    "supplierVariantIds": [
+      "02005"
+    ],
+    "price": 0.55,
+    "priceFrom": false,
+    "stock": 2728,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/02005.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/02005.html",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Multicolour"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "metal"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "400 pcs",
+        "valueRo": "400 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 16,
+    "descriptionLong": "Standard AA battery.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "bluecollection-02006",
+    "name": "Battery AAA",
+    "category": "unclassified",
+    "summary": "Standard AAA battery.",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
+    "personalizations": [],
+    "supplierPersonalizations": [],
+    "supplierId": "bluecollection",
+    "supplierSku": "02006",
+    "supplierVariantIds": [
+      "02006"
+    ],
+    "price": 0.59,
+    "priceFrom": false,
+    "stock": 13757,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/02006.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/02006.html",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Multicolour"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "metal"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1200 pcs",
+        "valueRo": "1200 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 8,
+    "descriptionLong": "Standard AAA battery.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "bluecollection-09126",
+    "name": "Rechargeable batteries AAA 450 mAh",
+    "category": "unclassified",
+    "summary": "AAA 450 mAh rechargeable battery pack is a product designed especially for users of electronic devices. The batteries are powered via the USB type C port, which means that no dedicated battery charger is required. The...",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "N2",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "38.00 x 10.00 mm",
+          "50.00 x 60.00 mm"
+        ]
+      },
+      {
+        "code": "U1",
+        "label": "UV printing",
+        "labelRo": "Imprimare UV",
+        "printSizes": [
+          "38.00 x 10.00 mm",
+          "70.00 x 75.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "09126",
+    "supplierVariantIds": [
+      "09126"
+    ],
+    "price": 10.93,
+    "priceFrom": false,
+    "stock": 610,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/09126.jpg",
+      "https://bluecollection.eu/assets/img/09126_d.jpg",
+      "https://bluecollection.eu/assets/img/09126_e.jpg",
+      "https://bluecollection.eu/assets/img/09126_ep.jpg",
+      "https://bluecollection.eu/assets/img/09126_ep_LOGO.jpg",
+      "https://bluecollection.eu/assets/img/09126_et.jpg",
+      "https://bluecollection.eu/assets/img/09126_f.jpg",
+      "https://bluecollection.eu/assets/img/09126_g.jpg",
+      "https://bluecollection.eu/assets/img/09126_l.jpg",
+      "https://bluecollection.eu/assets/img/09126_o.jpg",
+      "https://bluecollection.eu/assets/img/09126_op.jpg",
+      "https://bluecollection.eu/assets/img/09126_ot.jpg",
+      "https://bluecollection.eu/assets/img/09126_zn.jpg",
+      "https://bluecollection.eu/assets/img/09126_zuv.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/09126.html",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Transparent"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "47.00 × 28.00 × 14.00 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "plastic"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "125 pcs",
+        "valueRo": "125 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 37,
+    "capacity": "450 mAh",
+    "descriptionLong": "AAA 450 mAh rechargeable battery pack is a product designed especially for users of electronic devices. The batteries are powered via the USB type C port, which means that no dedicated battery charger is required. The set includes a double USB-C cable that allows you to power two batteries at the same time. Thanks to the LED indicator on the battery, you know the current charge status. AAA 450 mAh rechargeable battery pack is an environmentally friendly solution - you can recharge the batteries up to 1200 times, thus avoiding the consumption of 1200 ordinary batteries. Full charge: 1 hour",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "bluecollection-20037",
+    "name": "Garbage bag holder INU",
+    "category": "unclassified",
+    "summary": "Case with bags for dogs INU contains 15 pieces of black bag packed in a bone-shaped case. The case is made of a combination of plastic and wheat straw. The case can be attached with a clip hook to lanyard, belt or bac...",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "N2",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "25.00 x 15.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "20037",
+    "supplierVariantIds": [
+      "20037"
+    ],
+    "price": 1.44,
+    "priceFrom": false,
+    "stock": 2326,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/20037.jpg",
+      "https://bluecollection.eu/assets/img/20037_d.jpg",
+      "https://bluecollection.eu/assets/img/20037_e.jpg",
+      "https://bluecollection.eu/assets/img/20037_et_LOGO.jpg",
+      "https://bluecollection.eu/assets/img/20037_zn.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/20037.html",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Natural"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "83.00 × 46.00 × 40.00 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "wheat straw plastic"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "250 pcs",
+        "valueRo": "250 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 38,
+    "descriptionLong": "Case with bags for dogs INU contains 15 pieces of black bag packed in a bone-shaped case. The case is made of a combination of plastic and wheat straw. The case can be attached with a clip hook to lanyard, belt or backpack.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "bluecollection-20053",
+    "name": "Pet bottle MAX 500 ml",
+    "category": "unclassified",
+    "summary": "The MAX dog bottle is a perfect gadget for pet lovers. The bottle will be useful during a walk or a longer trip, during which we can easily provide water for the dog. It is enough to press harder on the bottle to pour...",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "N3",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "50.00 x 10.00 mm",
+          "50.00 x 30.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "20053",
+    "supplierVariantIds": [
+      "20053"
+    ],
+    "price": 3.91,
+    "priceFrom": false,
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/20053.jpg",
+      "https://bluecollection.eu/assets/img/20053_d.jpg",
+      "https://bluecollection.eu/assets/img/20053_eb.jpg",
+      "https://bluecollection.eu/assets/img/20053_ep.jpg",
+      "https://bluecollection.eu/assets/img/20053_et.jpg",
+      "https://bluecollection.eu/assets/img/20053_l.jpg",
+      "https://bluecollection.eu/assets/img/20053_zn.jpg",
+      "https://bluecollection.eu/assets/img/20053_zn1.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/20053.html",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Blue"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "50.00 × 200.00 × 52.00 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "plastic"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "120 pcs",
+        "valueRo": "120 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 71,
+    "capacity": "500 ml",
+    "descriptionLong": "The MAX dog bottle is a perfect gadget for pet lovers. The bottle will be useful during a walk or a longer trip, during which we can easily provide water for the dog. It is enough to press harder on the bottle to pour water into the bowl. Made of PP plastic. 500 ml bottle capacity.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "bluecollection-20059",
+    "name": "Dog frisbee RINGO",
+    "category": "unclassified",
+    "summary": "Frisbee for the dog RINGO is a great gadget for owners of pets. Perfect when we want the dog to get more exercise. The stiffened rope and the material inside make a coherent whole.",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
+    "personalizations": [
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "C1",
+        "label": "DTF",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "35.00 x 35.00 mm"
+        ]
+      },
+      {
+        "code": "F1",
+        "label": "Screen printing heat transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "35.00 x 35.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "20059",
+    "supplierVariantIds": [
+      "20059-02",
+      "20059-03"
+    ],
+    "price": 2.52,
+    "priceFrom": false,
+    "stock": 9730,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/20059-02.jpg",
+      "https://bluecollection.eu/assets/img/20059-03.jpg",
+      "https://bluecollection.eu/assets/img/20059-02_d.jpg",
+      "https://bluecollection.eu/assets/img/20059-02_ep.jpg",
+      "https://bluecollection.eu/assets/img/20059-02_l.jpg",
+      "https://bluecollection.eu/assets/img/20059-02_m.jpg",
+      "https://bluecollection.eu/assets/img/20059-02_zts.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/20059.html",
+    "variantCount": 2,
+    "colorCount": 2,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      },
+      {
+        "name": "Blue"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "185 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "polyester"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "150 pcs",
+        "valueRo": "150 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 75,
+    "descriptionLong": "Frisbee for the dog RINGO is a great gadget for owners of pets. Perfect when we want the dog to get more exercise. The stiffened rope and the material inside make a coherent whole.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "bluecollection-51026",
+    "name": "Massager MASU",
+    "category": "unclassified",
+    "summary": "The MASU massager is a lightweight, wooden massager that provides effective and comfortable massage at any time. Its compact size makes it perfect for travel, offering relaxation wherever you go. With its durable wood...",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
+    "personalizations": [
+      "co2",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G5",
+        "label": "Laser engraving",
+        "labelRo": "Gravură laser",
+        "printSizes": [
+          "70.00 x 10.00 mm"
+        ]
+      },
+      {
+        "code": "N2",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "90.00 x 10.00 mm",
+          "90.00 x 45.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "51026",
+    "supplierVariantIds": [
+      "51026-17"
+    ],
+    "price": 3.13,
+    "priceFrom": false,
+    "stock": 2527,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/51026-17.jpg",
+      "https://bluecollection.eu/assets/img/51026-17_d.jpg",
+      "https://bluecollection.eu/assets/img/51026-17_ep.jpg",
+      "https://bluecollection.eu/assets/img/51026-17_f.jpg",
+      "https://bluecollection.eu/assets/img/51026-17_l.jpg",
+      "https://bluecollection.eu/assets/img/51026-17_m.jpg",
+      "https://bluecollection.eu/assets/img/51026-17_n.jpg",
+      "https://bluecollection.eu/assets/img/51026-17_o.jpg",
+      "https://bluecollection.eu/assets/img/51026-17_ot.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/51026.html",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Natural"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "80.00 × 150.00 × 17.00 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "wood"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "100 pcs",
+        "valueRo": "100 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 80,
+    "descriptionLong": "The MASU massager is a lightweight, wooden massager that provides effective and comfortable massage at any time. Its compact size makes it perfect for travel, offering relaxation wherever you go. With its durable wooden construction, it's gentle on the skin and easy to use. An excellent promotional gadget that ensures comfort and relaxation in daily care.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "bluecollection-51027",
+    "name": "Face roller BELLEZA",
+    "category": "unclassified",
+    "summary": "The BELLEZA roller is a jade massage tool with a wooden handle, perfect for daily facial skincare. It helps improve circulation, reduce puffiness, and smooth the skin, giving it a healthy and radiant appearance. Thank...",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [
+      "textile-transfer",
+      "fiber-laser",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "F1",
+        "label": "Screen printing heat transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "50.00 x 110.00 mm"
+        ]
+      },
+      {
+        "code": "G5",
+        "label": "Laser engraving",
+        "labelRo": "Gravură laser",
+        "printSizes": [
+          "50.00 x 5.00 mm"
+        ]
+      },
+      {
+        "code": "N2",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "40.00 x 90.00 mm",
+          "60.00 x 5.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "51027",
+    "supplierVariantIds": [
+      "51027-16"
+    ],
+    "price": 2.98,
+    "priceFrom": false,
+    "stock": 2792,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/51027-16.jpg",
+      "https://bluecollection.eu/assets/img/51027-16_d.jpg",
+      "https://bluecollection.eu/assets/img/51027-16_ep.jpg",
+      "https://bluecollection.eu/assets/img/51027-16_ep_LOGO.jpg",
+      "https://bluecollection.eu/assets/img/51027-16_l.jpg",
+      "https://bluecollection.eu/assets/img/51027-16_m.jpg",
+      "https://bluecollection.eu/assets/img/51027-16_o.jpg",
+      "https://bluecollection.eu/assets/img/51027-16_p.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/51027.html",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Olive"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "63 × 132 × 24.00 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "stone, wood, metal"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "150 pcs",
+        "valueRo": "150 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 55,
+    "descriptionLong": "The BELLEZA roller is a jade massage tool with a wooden handle, perfect for daily facial skincare. It helps improve circulation, reduce puffiness, and smooth the skin, giving it a healthy and radiant appearance. Thanks to the natural jade, the roller has a soothing and relaxing effect. Its elegant design makes BELLEZA an excellent choice for a gift or promotional gadget, ideal for personalization.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "bluecollection-51030",
+    "name": "Guasha stone ZEN",
+    "category": "unclassified",
+    "summary": "The ZEN guasha stone is a natural facial massage tool that stimulates circulation, relieves muscle tension, and improves skin firmness. Regular use supports daily skincare routines, especially when combined with facia...",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "C1",
+        "label": "DTF",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "60.00 x 50.00 mm"
+        ]
+      },
+      {
+        "code": "C2",
+        "label": "DTF",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "60.00 x 60.00 mm"
+        ]
+      },
+      {
+        "code": "F1",
+        "label": "Screen printing heat transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "60.00 x 60.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "51030",
+    "supplierVariantIds": [
+      "51030-01"
+    ],
+    "price": 10.49,
+    "priceFrom": false,
+    "stock": 1701,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/51030-01.jpg",
+      "https://bluecollection.eu/assets/img/51030-01_d.jpg",
+      "https://bluecollection.eu/assets/img/51030-01_ep.jpg",
+      "https://bluecollection.eu/assets/img/51030-01_et.jpg",
+      "https://bluecollection.eu/assets/img/51030-01_l.jpg",
+      "https://bluecollection.eu/assets/img/51030-01_m.jpg",
+      "https://bluecollection.eu/assets/img/51030-01_o.jpg",
+      "https://bluecollection.eu/assets/img/51030-01_op.jpg",
+      "https://bluecollection.eu/assets/img/51030-01_zd.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/51030.html",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "White"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "50 × 80 × 6 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "stone"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "200 pcs",
+        "valueRo": "200 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 48,
+    "descriptionLong": "The ZEN guasha stone is a natural facial massage tool that stimulates circulation, relieves muscle tension, and improves skin firmness. Regular use supports daily skincare routines, especially when combined with facial oil or serum. ZEN reflects the growing self-care trend, offering a simple and effective way to relax. Aesthetic, practical, and ideal as a wellness or beauty promotional item.",
+    "hasVariantDetail": false
+  },
+  {
     "slug": "macma-50671",
     "name": "Bicoloured sunglasses with mirrored lenses",
     "category": "unclassified",
@@ -30,7 +777,7 @@
     ],
     "price": 0.96,
     "priceFrom": false,
-    "stock": 47538,
+    "stock": 47438,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/5067106_0.jpg",
@@ -86,7 +833,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/5067108_lifestyle_7.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/5067108_lifestyle_9.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 8,
     "colorCount": 8,
     "sizeCount": 0,
@@ -194,7 +941,7 @@
     ],
     "price": 1.23,
     "priceFrom": false,
-    "stock": 15586,
+    "stock": 15546,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/5093313_0.jpg",
@@ -208,7 +955,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/5093313_lifestyle_3.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/5093313_lifestyle_4.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -321,7 +1068,7 @@
       "https://macma.ro/products/jpg/M/5104105_0.jpg",
       "https://macma.ro/products/jpg/M/5104105_1.jpg"
     ],
-    "fetchedAt": "2026-09-25T08:47:00.110Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -450,7 +1197,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/5246508_lifestyle_1.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/5246508_lifestyle_2.jpg"
     ],
-    "fetchedAt": "2026-09-25T08:47:00.110Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -549,7 +1296,7 @@
       "https://macma.ro/products/jpg/M/5262513_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/5262513_lifestyle_13.jpg"
     ],
-    "fetchedAt": "2026-09-23T08:32:14.374Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -642,7 +1389,7 @@
       "https://macma.ro/products/jpg/M/5389424_2.jpg",
       "https://macma.ro/products/jpg/M/5389424_3.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -726,7 +1473,7 @@
     ],
     "price": 1.34,
     "priceFrom": false,
-    "stock": 14896,
+    "stock": 14846,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/5392103_0.jpg",
@@ -735,7 +1482,7 @@
       "https://macma.ro/products/jpg/M/5392103_3.jpg",
       "https://macma.ro/products/jpg/M/5392103_box.jpg"
     ],
-    "fetchedAt": "2026-09-25T08:47:00.110Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -845,7 +1592,7 @@
       "https://macma.ro/products/jpg/M/5507010_2.jpg",
       "https://macma.ro/products/jpg/M/5507010_3.jpg"
     ],
-    "fetchedAt": "2026-09-11T08:01:23.725Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -951,7 +1698,7 @@
       "https://macma.ro/products/jpg/M/5510444_1.jpg",
       "https://macma.ro/products/jpg/M/5510444_2.jpg"
     ],
-    "fetchedAt": "2026-09-24T08:24:51.499Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1049,7 +1796,7 @@
       "https://macma.ro/products/jpg/M/5525498_4.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/5525498_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-08-25T03:58:53.336Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1144,7 +1891,7 @@
       "https://macma.ro/products/jpg/M/55255mc_1.jpg",
       "https://macma.ro/products/jpg/M/55255mc_2.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:42.738Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1238,7 +1985,7 @@
       "https://macma.ro/products/jpg/M/5525608_1.jpg",
       "https://macma.ro/products/jpg/M/5525608_2.jpg"
     ],
-    "fetchedAt": "2026-08-25T03:58:53.336Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1334,7 +2081,7 @@
       "https://macma.ro/products/jpg/M/55257mc_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/55257mc_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1429,7 +2176,7 @@
       "https://macma.ro/products/jpg/M/55258mc_1.jpg",
       "https://macma.ro/products/jpg/M/55258mc_2.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1499,9 +2246,7 @@
         "code": "T2",
         "label": "Pad printing 2",
         "labelRo": "Tampografie 2",
-        "printSizes": [
-          "30 mm x 6 mm"
-        ]
+        "printSizes": []
       }
     ],
     "supplierId": "macma",
@@ -1511,7 +2256,7 @@
     ],
     "price": 2.7,
     "priceFrom": false,
-    "stock": 3963,
+    "stock": 3960,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/5539003_0.jpg",
@@ -1523,7 +2268,7 @@
       "https://macma.ro/products/jpg/M/5539003_6_box.jpg",
       "https://macma.ro/products/jpg/M/5539003_7.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1587,9 +2332,7 @@
         "code": "T2",
         "label": "Pad printing 2",
         "labelRo": "Tampografie 2",
-        "printSizes": [
-          "35 mm x 10 mm"
-        ]
+        "printSizes": []
       }
     ],
     "supplierId": "macma",
@@ -1627,7 +2370,7 @@
       "https://macma.ro/products/jpg/M/5546166_2.jpg",
       "https://macma.ro/products/jpg/M/5546166_3.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -1740,7 +2483,7 @@
       "https://macma.ro/products/jpg/M/5861310_1.jpg",
       "https://macma.ro/products/jpg/M/5861310_2.jpg"
     ],
-    "fetchedAt": "2026-09-12T07:53:31.242Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -1844,7 +2587,7 @@
     ],
     "price": 0.57,
     "priceFrom": false,
-    "stock": 47864,
+    "stock": 47859,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/5875806_0.jpg",
@@ -1893,7 +2636,7 @@
       "https://macma.ro/products/jpg/M/5875812_2_print.jpg",
       "https://macma.ro/products/jpg/M/5875812_box.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 9,
     "colorCount": 9,
     "sizeCount": 0,
@@ -2007,7 +2750,7 @@
     ],
     "price": 1.37,
     "priceFrom": false,
-    "stock": 24784,
+    "stock": 24684,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/7152203_0.jpg",
@@ -2025,7 +2768,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/7152206_lifestyle_3.jpg",
       "https://macma.ro/products/jpg/M/7152206_print.jpg"
     ],
-    "fetchedAt": "2026-09-23T08:32:14.374Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -2127,7 +2870,7 @@
       "https://macma.ro/products/jpg/M/7375724_1.jpg",
       "https://macma.ro/products/jpg/M/7375724_2.jpg"
     ],
-    "fetchedAt": "2026-09-05T07:39:06.240Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2169,13 +2912,6 @@
         "labelRo": "Cutie interioară",
         "value": "25 pcs",
         "valueRo": "25 buc."
-      },
-      {
-        "key": "export-carton",
-        "label": "Export carton",
-        "labelRo": "Cutie export",
-        "value": "50 pcs",
-        "valueRo": "50 buc."
       }
     ],
     "brand": "M-Collection",
@@ -2197,9 +2933,7 @@
         "code": "T2",
         "label": "Pad printing 2",
         "labelRo": "Tampografie 2",
-        "printSizes": [
-          "40 mm x 8 mm"
-        ]
+        "printSizes": []
       }
     ],
     "supplierId": "macma",
@@ -2217,7 +2951,7 @@
     ],
     "price": 0.62,
     "priceFrom": false,
-    "stock": 19919,
+    "stock": 19799,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/7565503_1.jpg",
@@ -2248,7 +2982,7 @@
       "https://macma.ro/products/jpg/M/7565524_2.jpg",
       "https://macma.ro/products/jpg/M/7565524_3.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 9,
     "colorCount": 9,
     "sizeCount": 0,
@@ -2367,7 +3101,7 @@
       "https://macma.ro/products/jpg/M/other/8880504_2.jpg",
       "https://macma.ro/products/jpg/M/other/8880504_3.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:42.738Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -2465,7 +3199,7 @@
       "https://macma.ro/products/jpg/M/9879413_1.jpg",
       "https://macma.ro/products/jpg/M/9879413_2.jpg"
     ],
-    "fetchedAt": "2026-09-24T08:24:51.499Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -2559,7 +3293,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/cabernet-white_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/cabernet-black_1.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:42.738Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 1,
@@ -2651,7 +3385,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/coffee-white_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/coffee-black_1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 1,
@@ -2730,7 +3464,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f1504800aj3_h.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/f1504800aj3_i.jpg"
     ],
-    "fetchedAt": "2026-09-22T08:30:04.753Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2814,9 +3548,10 @@
       "https://macma.ro/products/jpg/M/f24003_5.jpg",
       "https://macma.ro/products/jpg/M/f24003_6.jpg",
       "https://macma.ro/products/jpg/M/f24003_7.jpg",
+      "https://macma.ro/products/jpg/M/lifestyle/f24003_lifestyle_1.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/f24003_lifestyle_2.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:42.738Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2873,72 +3608,6 @@
     "hasVariantDetail": false
   },
   {
-    "slug": "macma-grvabow",
-    "name": "Cooking Hat",
-    "category": "unclassified",
-    "summary": "Cooking hat made of 65% polyester and 35% cotton. Ventilation mesh on top, velcro closure. Grammage 200 g/m2 twill fabric.",
-    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
-    "personalizations": [],
-    "supplierPersonalizations": [],
-    "supplierId": "macma",
-    "supplierSku": "GRVABOW",
-    "supplierVariantIds": [
-      "GRVABOWNG01"
-    ],
-    "price": 1.88,
-    "priceFrom": false,
-    "stock": 0,
-    "stockLevel": "out-of-stock",
-    "images": [
-      "https://macma.ro/products/jpg/TEXTIL/VALENTO/bower-black_1.jpg"
-    ],
-    "fetchedAt": "2026-08-27T14:09:33.216Z",
-    "variantCount": 1,
-    "colorCount": 1,
-    "sizeCount": 1,
-    "colorSwatches": [
-      {
-        "name": "Black",
-        "hex": "#343331"
-      }
-    ],
-    "availableSizes": [
-      "Adult"
-    ],
-    "specifications": [
-      {
-        "key": "country-of-origin",
-        "label": "Country of origin",
-        "labelRo": "Țara de origine",
-        "value": "CN"
-      },
-      {
-        "key": "customs-tariff",
-        "label": "Customs tariff code",
-        "labelRo": "Cod tarifar vamal",
-        "value": "65050090"
-      },
-      {
-        "key": "inner-carton",
-        "label": "Inner carton",
-        "labelRo": "Cutie interioară",
-        "value": "20 pcs",
-        "valueRo": "20 buc."
-      },
-      {
-        "key": "export-carton",
-        "label": "Export carton",
-        "labelRo": "Cutie export",
-        "value": "300 pcs",
-        "valueRo": "300 buc."
-      }
-    ],
-    "brand": "Valento",
-    "weightGrams": 90,
-    "descriptionLong": "Cooking hat made of 65% polyester and 35% cotton. Ventilation mesh on top, velcro closure. Grammage 200 g/m2 twill fabric.",
-    "hasVariantDetail": false
-  },
-  {
     "slug": "macma-grvaspi",
     "name": "Cooking Hat",
     "category": "unclassified",
@@ -2958,7 +3627,7 @@
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/spinner-black_1.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:42.738Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,

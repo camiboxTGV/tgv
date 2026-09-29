@@ -10,8 +10,8 @@
       "hex": "#00FF00"
     },
     "imageRefs": [
-      10,
-      11
+      11,
+      12
     ]
   },
   {
@@ -25,8 +25,8 @@
       "hex": "#FFA500"
     },
     "imageRefs": [
-      4,
-      5
+      5,
+      6
     ]
   },
   {
@@ -40,8 +40,8 @@
       "hex": "#000000"
     },
     "imageRefs": [
-      6,
-      7
+      7,
+      8
     ]
   },
   {
@@ -55,8 +55,8 @@
       "hex": "#FF0000"
     },
     "imageRefs": [
-      8,
-      9
+      9,
+      10
     ]
   },
   {
@@ -87,6 +87,20 @@
     "imageRefs": [
       2,
       3
+    ]
+  },
+  {
+    "contentKey": "efcff8732ca36a27",
+    "supplierVariantId": "61700-FU",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 2.15,
+    "color": {
+      "name": "Fuchsia",
+      "hex": "#FF00FF"
+    },
+    "imageRefs": [
+      4
     ]
   }
 ]

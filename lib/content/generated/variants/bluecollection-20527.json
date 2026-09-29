@@ -1,0 +1,41 @@
+[
+  {
+    "contentKey": "549407a628ca81da",
+    "supplierVariantId": "20527-03",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 1.35,
+    "color": {
+      "name": "Blue"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "6f61574ba418592a",
+    "supplierVariantId": "20527-01",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 1.35,
+    "color": {
+      "name": "White"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "9b1d43c8218c6dad",
+    "supplierVariantId": "20527-04",
+    "stock": 876,
+    "stockLevel": "in-stock",
+    "price": 1.35,
+    "color": {
+      "name": "Red"
+    },
+    "imageRefs": [
+      0
+    ]
+  }
+]

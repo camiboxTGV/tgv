@@ -1,0 +1,41 @@
+[
+  {
+    "contentKey": "0225d5af368a3143",
+    "supplierVariantId": "37054-06",
+    "stock": 1602,
+    "stockLevel": "in-stock",
+    "price": 15,
+    "color": {
+      "name": "Navy blue"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "1a0e6bf8f6f73c80",
+    "supplierVariantId": "37054-01",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 15,
+    "color": {
+      "name": "White"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "85f3e077dcf1504c",
+    "supplierVariantId": "37054-02",
+    "stock": 1035,
+    "stockLevel": "in-stock",
+    "price": 15,
+    "color": {
+      "name": "Black"
+    },
+    "imageRefs": [
+      2
+    ]
+  }
+]

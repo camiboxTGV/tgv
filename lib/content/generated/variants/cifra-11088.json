@@ -1,0 +1,40 @@
+[
+  {
+    "contentKey": "629b018e82ed85b4",
+    "supplierVariantId": "11088-VE",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 2.91,
+    "color": {
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "contentKey": "d9bbb5d44b9cd659",
+    "supplierVariantId": "11088-BL",
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "price": 2.91,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  }
+]

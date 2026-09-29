@@ -1,5 +1,2144 @@
 [
   {
+    "slug": "bluecollection-09150",
+    "name": "SIMPLE 10,000 mAh Power Bank",
+    "category": "electronics/power-and-charging/power-banks",
+    "summary": "SIMPLE is a practical power bank with a capacity of 10,000 mAh. The simple casing with rounded edges is well suited to logo branding, whilst the LEDs on the front indicate the charge level. The model features two USB-...",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "N2",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "40.00 x 90.00 mm"
+        ]
+      },
+      {
+        "code": "N3",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "40.00 x 90.00 mm"
+        ]
+      },
+      {
+        "code": "U1",
+        "label": "UV printing",
+        "labelRo": "Imprimare UV",
+        "printSizes": [
+          "55.00 x 110.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "09150",
+    "supplierVariantIds": [
+      "09150-01",
+      "09150-02"
+    ],
+    "price": 22.84,
+    "priceFrom": false,
+    "stock": 9352,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/09150-02.jpg",
+      "https://bluecollection.eu/assets/img/09150-01.jpg",
+      "https://bluecollection.eu/assets/img/09150-02_d.jpg",
+      "https://bluecollection.eu/assets/img/09150-02_ep.jpg",
+      "https://bluecollection.eu/assets/img/09150-02_l.jpg",
+      "https://bluecollection.eu/assets/img/09150-02_m.jpg",
+      "https://bluecollection.eu/assets/img/09150-02_o.jpg",
+      "https://bluecollection.eu/assets/img/09150-02_op.jpg",
+      "https://bluecollection.eu/assets/img/09150-02_zn1.jpg",
+      "https://bluecollection.eu/assets/img/09150-02_zn2.jpg",
+      "https://bluecollection.eu/assets/img/09150-02_zuvzn.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/09150.html",
+    "variantCount": 2,
+    "colorCount": 2,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      },
+      {
+        "name": "White"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "68.00 × 140.00 × 16.00 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "plastic"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 235,
+    "capacity": "10000 mAh",
+    "descriptionLong": "SIMPLE is a practical power bank with a capacity of 10,000 mAh. The simple casing with rounded edges is well suited to logo branding, whilst the LEDs on the front indicate the charge level. The model features two USB-A outputs and two input ports: micro USB and USB-C. A charging cable is not included in the pack.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "bluecollection-45001",
+    "name": "Solar powerbank SONNEN 10 000 mAh",
+    "category": "electronics/power-and-charging/power-banks",
+    "summary": "SONNEN is a power bank made of ecological bamboo originating from cultivatio It is equipped with a solar panel that allows it to be charged using solar energy. Its large capacity of 10,000 mAh guarantees a large reser...",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
+    "personalizations": [
+      "co2",
+      "pad-screen",
+      "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G5",
+        "label": "Laser engraving",
+        "labelRo": "Gravură laser",
+        "printSizes": [
+          "20.00 x 50.00 mm",
+          "50.00 x 40.00 mm"
+        ]
+      },
+      {
+        "code": "N2",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "45.00 x 90.00 mm"
+        ]
+      },
+      {
+        "code": "N3",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "15.00 x 40.00 mm",
+          "50.00 x 40.00 mm"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "120.00 x 50.00 mm"
+        ]
+      },
+      {
+        "code": "U1",
+        "label": "UV printing",
+        "labelRo": "Imprimare UV",
+        "printSizes": [
+          "60.00 x 140.00 mm",
+          "60.00 x 20.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "45001",
+    "supplierVariantIds": [
+      "45001"
+    ],
+    "price": 42.29,
+    "priceFrom": false,
+    "stock": 13,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/45001.jpg",
+      "https://bluecollection.eu/assets/img/45001_d.jpg",
+      "https://bluecollection.eu/assets/img/45001_eh.jpg",
+      "https://bluecollection.eu/assets/img/45001_ep.jpg",
+      "https://bluecollection.eu/assets/img/45001_f.jpg",
+      "https://bluecollection.eu/assets/img/45001_g.jpg",
+      "https://bluecollection.eu/assets/img/45001_l.jpg",
+      "https://bluecollection.eu/assets/img/45001_o.jpg",
+      "https://bluecollection.eu/assets/img/45001_oo.jpg",
+      "https://bluecollection.eu/assets/img/45001_op.jpg",
+      "https://bluecollection.eu/assets/img/45001_zg.jpg",
+      "https://bluecollection.eu/assets/img/45001_zn.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/45001.html",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Brown"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "73.00 × 155.00 × 20.00 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "bamboo, plastic"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "40 pcs",
+        "valueRo": "40 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 295,
+    "capacity": "10000 mAh",
+    "descriptionLong": "SONNEN is a power bank made of ecological bamboo originating from cultivatio It is equipped with a solar panel that allows it to be charged using solar energy. Its large capacity of 10,000 mAh guarantees a large reserve of energy for mobile devices, and its ecological appearance corresponds with eco trends. The power bank has a LED battery charge indicator. The set includes a USB cable for charging the power bank. The product complies with the relevant EU directives, has the CE mark and has a 1-year warranty. Specifications: input (micro USB and USB type C) 5V / 2A (max), USB output 5V / 2A (max), lithium-polymer battery.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "bluecollection-45078",
+    "name": "Powerbank VIRA 4000 mAh",
+    "category": "electronics/power-and-charging/power-banks",
+    "summary": "A power bank for enthusiasts of ecological products. The casing has been replaced by a natural wooden material. It has a USB port and a battery charge indicator. Standard micro USB charging cable and user’s manual inc...",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [
+      "fiber-laser",
+      "pad-screen",
+      "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G2",
+        "label": "Laser engraving",
+        "labelRo": "Gravură laser",
+        "printSizes": [
+          "50.00 x 10.00 mm"
+        ]
+      },
+      {
+        "code": "G5",
+        "label": "Laser engraving",
+        "labelRo": "Gravură laser",
+        "printSizes": [
+          "50.00 x 40.00 mm"
+        ]
+      },
+      {
+        "code": "N3",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "90.00 x 45.00 mm"
+        ]
+      },
+      {
+        "code": "U1",
+        "label": "UV printing",
+        "labelRo": "Imprimare UV",
+        "printSizes": [
+          "110.00 x 50.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "45078",
+    "supplierVariantIds": [
+      "45078-09"
+    ],
+    "price": 22.56,
+    "priceFrom": false,
+    "stock": 8,
+    "stockLevel": "low",
+    "images": [
+      "https://bluecollection.eu/assets/img/45078-09.jpg",
+      "https://bluecollection.eu/assets/img/45078-09_d.jpg",
+      "https://bluecollection.eu/assets/img/45078-09_e.jpg",
+      "https://bluecollection.eu/assets/img/45078-09_f.jpg",
+      "https://bluecollection.eu/assets/img/45078-09_i.jpg",
+      "https://bluecollection.eu/assets/img/45078-09_zg.jpg",
+      "https://bluecollection.eu/assets/img/45078-09_zgznzuv.jpg",
+      "https://bluecollection.eu/assets/img/45078-09_zuv.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/45078.html",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Brown"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "125.00 × 66.00 × 11.00 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "wood, metal"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "60 pcs",
+        "valueRo": "60 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 155,
+    "capacity": "4000 mAh",
+    "descriptionLong": "A power bank for enthusiasts of ecological products. The casing has been replaced by a natural wooden material. It has a USB port and a battery charge indicator. Standard micro USB charging cable and user’s manual included. The product complies with relevant European Union Directives, has a CE marking and a 1-year guarantee. Technical specifications: - input: 5 V/1.5 A (micro USB port) – output: 5 V/1.5 A- battery capacity: 4000 mAh.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "bluecollection-45111",
+    "name": "Powerbank DOUBLE 8000 mAh",
+    "category": "electronics/power-and-charging/power-banks",
+    "summary": "The DOUBLE power bank with the capacity of 8000 mAh has the possibility of wireless charging and simultaneous wired charging of two other devices (via micro USB and C-type USB). The power bank itself can also be charg...",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "N2",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "70.00 x 60.00 mm"
+        ]
+      },
+      {
+        "code": "U1",
+        "label": "UV printing",
+        "labelRo": "Imprimare UV",
+        "printSizes": [
+          "50.00 x 20.00 mm",
+          "70.00 x 140.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "45111",
+    "supplierVariantIds": [
+      "45111-01",
+      "45111-02"
+    ],
+    "price": 35.71,
+    "priceFrom": false,
+    "stock": 371,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/45111-01.jpg",
+      "https://bluecollection.eu/assets/img/45111-02.jpg",
+      "https://bluecollection.eu/assets/img/45111-01_d.jpg",
+      "https://bluecollection.eu/assets/img/45111-01_e.jpg",
+      "https://bluecollection.eu/assets/img/45111-01_f.jpg",
+      "https://bluecollection.eu/assets/img/45111-01_g.jpg",
+      "https://bluecollection.eu/assets/img/45111-01_h.jpg",
+      "https://bluecollection.eu/assets/img/45111-01_i.jpg",
+      "https://bluecollection.eu/assets/img/45111-01_j.jpg",
+      "https://bluecollection.eu/assets/img/45111-01_o.jpg",
+      "https://bluecollection.eu/assets/img/45111-01_zuvzn.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/45111.html",
+    "variantCount": 2,
+    "colorCount": 2,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      },
+      {
+        "name": "White"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "73.00 × 135.00 × 19.00 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "plastic, rubberised plastic - soft touch finish"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "34 pcs",
+        "valueRo": "34 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 279,
+    "capacity": "8000 mAh",
+    "descriptionLong": "The DOUBLE power bank with the capacity of 8000 mAh has the possibility of wireless charging and simultaneous wired charging of two other devices (via micro USB and C-type USB). The power bank itself can also be charged wirelessly. The product complies with relevant European Union Directives, has a CE marking and a 1-year guarantee. Micro USB charging cable included. Technical specifications: - input: 5V/2.1A, - output: 5V/2.1A, - wireless reception 5V/750mA, - wireless output 5V/1A, - lithium-polymer battery, - overheat, overload and overvoltage protection\r\nNOTE: Please wait approx. 1 min after connecting the device in order to stabilize the electromagnetic field.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "bluecollection-45118",
+    "name": "Powerbank SILVA 8000 mAh",
+    "category": "electronics/power-and-charging/power-banks",
+    "summary": "SILVA is an environmentally friendly power bank with a capacity of 8000 mAh. It was closed in a housing made of 100% bamboo. Standard micro USB charging cable included. The product complies with all the relevant Europ...",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "N2",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "45.00 x 90.00 mm"
+        ]
+      },
+      {
+        "code": "N3",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "90.00 x 45.00 mm"
+        ]
+      },
+      {
+        "code": "U1",
+        "label": "UV printing",
+        "labelRo": "Imprimare UV",
+        "printSizes": [
+          "110.00 x 50.00 mm",
+          "115.00 x 70.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "45118",
+    "supplierVariantIds": [
+      "45118"
+    ],
+    "price": 29.76,
+    "priceFrom": false,
+    "stock": 1994,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/45118.jpg",
+      "https://bluecollection.eu/assets/img/45118_d.jpg",
+      "https://bluecollection.eu/assets/img/45118_e.jpg",
+      "https://bluecollection.eu/assets/img/45118_ep.jpg",
+      "https://bluecollection.eu/assets/img/45118_f.jpg",
+      "https://bluecollection.eu/assets/img/45118_g.jpg",
+      "https://bluecollection.eu/assets/img/45118_h.jpg",
+      "https://bluecollection.eu/assets/img/45118_i.jpg",
+      "https://bluecollection.eu/assets/img/45118_l.jpg",
+      "https://bluecollection.eu/assets/img/45118_o.jpg",
+      "https://bluecollection.eu/assets/img/45118_p.jpg",
+      "https://bluecollection.eu/assets/img/45118_znzuvzg.jpg",
+      "https://bluecollection.eu/assets/img/45118_zuv.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/45118.html",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Brown"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "128.00 × 70.00 × 17.00 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "bamboo"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 199,
+    "capacity": "8000 mAh",
+    "descriptionLong": "SILVA is an environmentally friendly power bank with a capacity of 8000 mAh. It was closed in a housing made of 100% bamboo. Standard micro USB charging cable included. The product complies with all the relevant European Union directives, has the CE mark and 1 year warranty. Technical data: input (micro USB and USB type C) 5V / 2A, output USB 5V / 2A, ion-polymer battery.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "bluecollection-45120",
+    "name": "Powerbank STAND 10 000 mAh",
+    "category": "electronics/power-and-charging/power-banks",
+    "summary": "The STAND power bank is distinguished by a very practical function of a phone stand. In addition, it has a built-in 5W wireless charger. With both these features, you can watch a movie on your phone while charging its...",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "N3",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "45.00 x 20.00 mm"
+        ]
+      },
+      {
+        "code": "U1",
+        "label": "UV printing",
+        "labelRo": "Imprimare UV",
+        "printSizes": [
+          "50.00 x 45.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "45120",
+    "supplierVariantIds": [
+      "45120-01"
+    ],
+    "price": 37.27,
+    "priceFrom": false,
+    "stock": 1836,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/45120-01.jpg",
+      "https://bluecollection.eu/assets/img/45120-01_d.jpg",
+      "https://bluecollection.eu/assets/img/45120-01_d_LOGO.jpg",
+      "https://bluecollection.eu/assets/img/45120-01_e.jpg",
+      "https://bluecollection.eu/assets/img/45120-01_et.jpg",
+      "https://bluecollection.eu/assets/img/45120-01_f.jpg",
+      "https://bluecollection.eu/assets/img/45120-01_g.jpg",
+      "https://bluecollection.eu/assets/img/45120-01_l.jpg",
+      "https://bluecollection.eu/assets/img/45120-01_o.jpg",
+      "https://bluecollection.eu/assets/img/45120-01_op.jpg",
+      "https://bluecollection.eu/assets/img/45120-01_zn.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/45120.html",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "White"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "70.00 × 140.00 × 15.00 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "plastic"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 230,
+    "capacity": "10000 mAh",
+    "descriptionLong": "The STAND power bank is distinguished by a very practical function of a phone stand. In addition, it has a built-in 5W wireless charger. With both these features, you can watch a movie on your phone while charging its battery without any cables! The power bank is also equipped with a digital display that shows the current battery level and the type of charging. Standard micro USB charging cable included. The product complies with the relevant EU directives, has the CE mark and has a 1-year warranty. Specifications: input (micro USB and USB type C) 5V / 2A, USB output 5V / 2.1A (max), lithium-polymer battery",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "bluecollection-45122",
+    "name": "Powerbank SOL 10 000 mAh",
+    "category": "electronics/power-and-charging/power-banks",
+    "summary": "Power bank SOL has a solar panel and a large capacity of 10,000 mAh, which is enough for a few charges of your phone. The LEDs show the current battery level. It is equipped with a dual flashlight with four light mode...",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
+    "personalizations": [
+      "uv-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "D1",
+        "label": "Doming",
+        "labelRo": "Doming",
+        "printSizes": [
+          "20.00 x 20.00 mm"
+        ]
+      },
+      {
+        "code": "D2",
+        "label": "Doming",
+        "labelRo": "Doming",
+        "printSizes": [
+          "30.00 x 20.00 mm"
+        ]
+      },
+      {
+        "code": "N2",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "45.00 x 90.00 mm"
+        ]
+      },
+      {
+        "code": "N3",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "30.00 x 22.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "45122",
+    "supplierVariantIds": [
+      "45122-02"
+    ],
+    "price": 35.09,
+    "priceFrom": false,
+    "stock": 4591,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/45122-02.jpg",
+      "https://bluecollection.eu/assets/img/45122-02_d.jpg",
+      "https://bluecollection.eu/assets/img/45122-02_d_LOGO.jpg",
+      "https://bluecollection.eu/assets/img/45122-02_e.jpg",
+      "https://bluecollection.eu/assets/img/45122-02_f.jpg",
+      "https://bluecollection.eu/assets/img/45122-02_g.jpg",
+      "https://bluecollection.eu/assets/img/45122-02_h.jpg",
+      "https://bluecollection.eu/assets/img/45122-02_i.jpg",
+      "https://bluecollection.eu/assets/img/45122-02_l.jpg",
+      "https://bluecollection.eu/assets/img/45122-02_o.jpg",
+      "https://bluecollection.eu/assets/img/45122-02_op.jpg",
+      "https://bluecollection.eu/assets/img/45122-02_zn.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/45122.html",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "76.00 × 157.00 × 17.00 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "plastic"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "40 pcs",
+        "valueRo": "40 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 322,
+    "capacity": "10000 mAh",
+    "descriptionLong": "Power bank SOL has a solar panel and a large capacity of 10,000 mAh, which is enough for a few charges of your phone. The LEDs show the current battery level. It is equipped with a dual flashlight with four light modes and a built-in compass. Standard micro USB charging cable included. The product complies with the relevant EU directives, has a CE mark and a 1-year warranty. Specifications: input (micro USB and USB type C) 5V / 2A, 2 USB outputs 5V / 2.1A (max), lithium-polymer battery.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "bluecollection-45126",
+    "name": "Powerbank NARAMA 10000 mAh",
+    "category": "electronics/power-and-charging/power-banks",
+    "summary": "The NARAMA power bank with a capacity of 10,000 mAh is a modern gadget with an inductive charging function for wirelessly powering compatible devices. Finished with textile on one side and plain on the other, with spa...",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [
+      "co2",
+      "pad-screen",
+      "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G5",
+        "label": "Laser engraving",
+        "labelRo": "Gravură laser",
+        "printSizes": [
+          "40.00 x 50.00 mm"
+        ]
+      },
+      {
+        "code": "N2",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "50.00 x 60.00 mm"
+        ]
+      },
+      {
+        "code": "U1",
+        "label": "UV printing",
+        "labelRo": "Imprimare UV",
+        "printSizes": [
+          "60.00 x 140.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "45126",
+    "supplierVariantIds": [
+      "45126-02"
+    ],
+    "price": 39.16,
+    "priceFrom": false,
+    "stock": 695,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/45126-02.jpg",
+      "https://bluecollection.eu/assets/img/45126-02_d.jpg",
+      "https://bluecollection.eu/assets/img/45126-02_d_LOGO.jpg",
+      "https://bluecollection.eu/assets/img/45126-02_ep.jpg",
+      "https://bluecollection.eu/assets/img/45126-02_et.jpg",
+      "https://bluecollection.eu/assets/img/45126-02_f.jpg",
+      "https://bluecollection.eu/assets/img/45126-02_g.jpg",
+      "https://bluecollection.eu/assets/img/45126-02_l.jpg",
+      "https://bluecollection.eu/assets/img/45126-02_m.jpg",
+      "https://bluecollection.eu/assets/img/45126-02_o.jpg",
+      "https://bluecollection.eu/assets/img/45126-02_op.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/45126.html",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "72.00 × 150.00 × 18.50 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "plastic, rubberised plastic - soft touch finish"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "40 pcs",
+        "valueRo": "40 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 259,
+    "capacity": "10000 mAh",
+    "descriptionLong": "The NARAMA power bank with a capacity of 10,000 mAh is a modern gadget with an inductive charging function for wirelessly powering compatible devices. Finished with textile on one side and plain on the other, with space for branding, it works perfectly as an aesthetically pleasing advertising medium. By choosing engraving, you get the effect of an illuminated logo - the subtle white LED light makes the branding stand out and attracts attention. The device is equipped with a single USB port and supports fast charging technology (2.1 A) for efficient energy replenishment.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "bluecollection-45127",
+    "name": "Powerbank BORRA 10000 mAh",
+    "category": "electronics/power-and-charging/power-banks",
+    "summary": "Bamboo Power Bank BORRA 10000 mAh - an ecological reference to nature with wireless charging. The rounded corners and modern design will make you love using this device. The brilliant marking surface adds unique style...",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "co2",
+      "pad-screen",
+      "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G5",
+        "label": "Laser engraving",
+        "labelRo": "Gravură laser",
+        "printSizes": [
+          "50.00 x 40.00 mm"
+        ]
+      },
+      {
+        "code": "N2",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "50.00 x 60.00 mm"
+        ]
+      },
+      {
+        "code": "N3",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "50.00 x 60.00 mm",
+          "60.00 x 50.00 mm"
+        ]
+      },
+      {
+        "code": "U1",
+        "label": "UV printing",
+        "labelRo": "Imprimare UV",
+        "printSizes": [
+          "50.00 x 120.00 mm",
+          "50.00 x 50.00 mm",
+          "55.00 x 130.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "45127",
+    "supplierVariantIds": [
+      "45127-17"
+    ],
+    "price": 41.98,
+    "priceFrom": false,
+    "stock": 66,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/45127-17.jpg",
+      "https://bluecollection.eu/assets/img/45127-17_d.jpg",
+      "https://bluecollection.eu/assets/img/45127-17_ep.jpg",
+      "https://bluecollection.eu/assets/img/45127-17_et.jpg",
+      "https://bluecollection.eu/assets/img/45127-17_f.jpg",
+      "https://bluecollection.eu/assets/img/45127-17_g.jpg",
+      "https://bluecollection.eu/assets/img/45127-17_l.jpg",
+      "https://bluecollection.eu/assets/img/45127-17_m.jpg",
+      "https://bluecollection.eu/assets/img/45127-17_o.jpg",
+      "https://bluecollection.eu/assets/img/45127-17_op.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/45127.html",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Natural"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "71.00 × 145.00 × 18.00 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "bamboo"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 262,
+    "capacity": "10000 mAh",
+    "descriptionLong": "Bamboo Power Bank BORRA 10000 mAh - an ecological reference to nature with wireless charging. The rounded corners and modern design will make you love using this device. The brilliant marking surface adds unique style, and the full mobility guarantees energy for your devices at 10w, wherever you are. Environmentally friendly alternative. Charging cable not included.Specifications: input (USB Type C) 5V/2A, output (2 xUSB A) 5V/2.1A (max), lithium polymer battery.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "bluecollection-45128",
+    "name": "Powerbank RONI 10000 mAh",
+    "category": "electronics/power-and-charging/power-banks",
+    "summary": "The RONI power bank combines subtle white with a strong bamboo accent, creating not only a practical device but, above all, a stylish promotional gadget. With a high capacity of 10,000 mAh, it will provide multiple ch...",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
+    "personalizations": [
+      "co2",
+      "pad-screen",
+      "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G5",
+        "label": "Laser engraving",
+        "labelRo": "Gravură laser",
+        "printSizes": [
+          "50.00 x 40.00 mm"
+        ]
+      },
+      {
+        "code": "N3",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "50.00 x 45.00 mm",
+          "50.00 x 60.00 mm"
+        ]
+      },
+      {
+        "code": "U1",
+        "label": "UV printing",
+        "labelRo": "Imprimare UV",
+        "printSizes": [
+          "40.00 x 110.00 mm",
+          "45.00 x 50.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "45128",
+    "supplierVariantIds": [
+      "45128-01"
+    ],
+    "price": 36.02,
+    "priceFrom": false,
+    "stock": 1464,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/45128-01.jpg",
+      "https://bluecollection.eu/assets/img/45128-01_d.jpg",
+      "https://bluecollection.eu/assets/img/45128-01_ep.jpg",
+      "https://bluecollection.eu/assets/img/45128-01_et.jpg",
+      "https://bluecollection.eu/assets/img/45128-01_f.jpg",
+      "https://bluecollection.eu/assets/img/45128-01_g.jpg",
+      "https://bluecollection.eu/assets/img/45128-01_l.jpg",
+      "https://bluecollection.eu/assets/img/45128-01_m.jpg",
+      "https://bluecollection.eu/assets/img/45128-01_o.jpg",
+      "https://bluecollection.eu/assets/img/45128-01_op.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/45128.html",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "White"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "71.00 × 150.00 × 18 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "bamboo, plastic"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "40 pcs",
+        "valueRo": "40 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 275,
+    "capacity": "10000 mAh",
+    "descriptionLong": "The RONI power bank combines subtle white with a strong bamboo accent, creating not only a practical device but, above all, a stylish promotional gadget. With a high capacity of 10,000 mAh, it will provide multiple charges for your devices, adapting to your needs. Wireless and cable charging options give you the choice you prefer. Technical specifications such as powerful 2 x USB A 5V/2.1A outputs, a USB C 5V/2A input and a lithium polymer battery guarantee efficient and safe charging. RONI is synonymous with power in a beautiful form. A device you can count on in every situation. The power bank does not come with a cable.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "bluecollection-45129",
+    "name": "Powerbank rPET REPPO 10000 mAh",
+    "category": "electronics/power-and-charging/power-banks",
+    "summary": "The rPET REPPO power bank with a capacity of 10000 mAh is made of material recycled from four 1-litre bottles and hemp fibres. The product has the ability to charge via 4 ports: 2 x USB-A, 1 x USB-C, 1 x microUSB. Spe...",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [
+      "textile-transfer",
+      "pad-screen",
+      "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "C1",
+        "label": "DTF",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "50.00 x 60.00 mm"
+        ]
+      },
+      {
+        "code": "C2",
+        "label": "DTF",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "50.00 x 110.00 mm"
+        ]
+      },
+      {
+        "code": "F1",
+        "label": "Screen printing heat transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "50.00 x 110.00 mm"
+        ]
+      },
+      {
+        "code": "N3",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "50.00 x 80.00 mm"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "50.00 x 110.00 mm"
+        ]
+      },
+      {
+        "code": "U1",
+        "label": "UV printing",
+        "labelRo": "Imprimare UV",
+        "printSizes": [
+          "55.00 x 70.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "45129",
+    "supplierVariantIds": [
+      "45129-17"
+    ],
+    "price": 29.76,
+    "priceFrom": false,
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/45129-17.jpg",
+      "https://bluecollection.eu/assets/img/45129-17_d.jpg",
+      "https://bluecollection.eu/assets/img/45129-17_ep.jpg",
+      "https://bluecollection.eu/assets/img/45129-17_et.jpg",
+      "https://bluecollection.eu/assets/img/45129-17_f.jpg",
+      "https://bluecollection.eu/assets/img/45129-17_g.jpg",
+      "https://bluecollection.eu/assets/img/45129-17_l.jpg",
+      "https://bluecollection.eu/assets/img/45129-17_m.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/45129.html",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Natural"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "148.00 × 75.00 × 19.00 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "recycled plastic, hemp fiber"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 265,
+    "capacity": "10000 mAh",
+    "descriptionLong": "The rPET REPPO power bank with a capacity of 10000 mAh is made of material recycled from four 1-litre bottles and hemp fibres. The product has the ability to charge via 4 ports: 2 x USB-A, 1 x USB-C, 1 x microUSB. Specifications: - input: 5V/2A, - output: 5V/2A. Four-stage charge indicator. Product complies with the relevant European Union directives, CE mark and 1 year warranty. MicroUSB charging cable included. Packaged in a recycled cardboard box with printing using soya-based ink.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "bluecollection-45130",
+    "name": "Powerbank MING 8000 mAh USB-C",
+    "category": "electronics/power-and-charging/power-banks",
+    "summary": "MING is a brilliant promotional gadget! The 8000 mAh rubberised power bank with illuminated logo (after engraving) stands out strongly from other products in this category. Simply shake the power bank to create the il...",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "co2"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G5",
+        "label": "Laser engraving",
+        "labelRo": "Gravură laser",
+        "printSizes": [
+          "55.00 x 35.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "45130",
+    "supplierVariantIds": [
+      "45130-01",
+      "45130-03",
+      "45130-04"
+    ],
+    "price": 34.78,
+    "priceFrom": false,
+    "stock": 1413,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/45130-01.jpg",
+      "https://bluecollection.eu/assets/img/45130-03.jpg",
+      "https://bluecollection.eu/assets/img/45130-04.jpg",
+      "https://bluecollection.eu/assets/img/45130-01_d.jpg",
+      "https://bluecollection.eu/assets/img/45130-01_e.jpg",
+      "https://bluecollection.eu/assets/img/45130-01_ep.jpg",
+      "https://bluecollection.eu/assets/img/45130-01_et.jpg",
+      "https://bluecollection.eu/assets/img/45130-01_f.jpg",
+      "https://bluecollection.eu/assets/img/45130-01_g.jpg",
+      "https://bluecollection.eu/assets/img/45130-01_h.jpg",
+      "https://bluecollection.eu/assets/img/45130-01_l.jpg",
+      "https://bluecollection.eu/assets/img/45130-01_o.jpg",
+      "https://bluecollection.eu/assets/img/45130-01_op.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/45130.html",
+    "variantCount": 3,
+    "colorCount": 3,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Blue"
+      },
+      {
+        "name": "Red"
+      },
+      {
+        "name": "White"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "70.00 × 137.00 × 15.00 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "plastic, rubberised plastic - soft touch finish"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 199,
+    "capacity": "8000 mAh",
+    "descriptionLong": "MING is a brilliant promotional gadget! The 8000 mAh rubberised power bank with illuminated logo (after engraving) stands out strongly from other products in this category. Simply shake the power bank to create the illuminated logo effect. It is capable of charging two devices simultaneously. The product complies with the relevant European Union directives, is CE marked and comes with a 1 year guarantee. Charging cable with micro USB tip included. Technical data: - input: 5V/1.5A (micro USB and USB-C port)- outputs: 5V/2A (USB ports)- lithium polymer battery",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "bluecollection-45131",
+    "name": "Powerbank VELOCE 10000 mAh",
+    "category": "electronics/power-and-charging/power-banks",
+    "summary": "The VELOCE Power Bank in an elegant matte black colour is your mobile power source with a capacity of 10000 mAh for reliable support in any situation. Thanks to the 5W magnetic wireless charging function, you are alwa...",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
+    "personalizations": [
+      "co2",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G5",
+        "label": "Laser engraving",
+        "labelRo": "Gravură laser",
+        "printSizes": [
+          "40.00 x 50.00 mm"
+        ]
+      },
+      {
+        "code": "N2",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "45.00 x 90.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "45131",
+    "supplierVariantIds": [
+      "45131-02"
+    ],
+    "price": 36.02,
+    "priceFrom": false,
+    "stock": 599,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/45131-02.jpg",
+      "https://bluecollection.eu/assets/img/45131-02_d.jpg",
+      "https://bluecollection.eu/assets/img/45131-02_d_LOGO.jpg",
+      "https://bluecollection.eu/assets/img/45131-02_ep.jpg",
+      "https://bluecollection.eu/assets/img/45131-02_et.jpg",
+      "https://bluecollection.eu/assets/img/45131-02_f.jpg",
+      "https://bluecollection.eu/assets/img/45131-02_g.jpg",
+      "https://bluecollection.eu/assets/img/45131-02_h.jpg",
+      "https://bluecollection.eu/assets/img/45131-02_i.jpg",
+      "https://bluecollection.eu/assets/img/45131-02_j.jpg",
+      "https://bluecollection.eu/assets/img/45131-02_l.jpg",
+      "https://bluecollection.eu/assets/img/45131-02_m.jpg",
+      "https://bluecollection.eu/assets/img/45131-02_o.jpg",
+      "https://bluecollection.eu/assets/img/45131-02_op.jpg",
+      "https://bluecollection.eu/assets/img/45131-02_zg1.jpg",
+      "https://bluecollection.eu/assets/img/45131-02_zg2.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/45131.html",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "69.00 × 109.00 × 21 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "plastic, rubberised plastic - soft touch finish"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 226,
+    "capacity": "10000 mAh",
+    "descriptionLong": "The VELOCE Power Bank in an elegant matte black colour is your mobile power source with a capacity of 10000 mAh for reliable support in any situation. Thanks to the 5W magnetic wireless charging function, you are always assured that your device is charged. The Type-C output allows fast charging of compatible devices, making VELOCE an indispensable travel companion. Additionally, take advantage of the branding service to place your client's illuminated logo on the power bank, giving it a unique personalised touch. VELOCE is a combination of modernity, performance and style that makes you always ready for any challenge. Choose reliability and elegance - choose VELOCE.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "bluecollection-45132",
+    "name": "Powerbank PRESTI 5000 mAh 18W",
+    "category": "electronics/power-and-charging/power-banks",
+    "summary": "Discover our new 5000mAh PRESTI power bank, which combines advanced technology with practical design. With its compact size and lightweight design, it is convenient to carry and ideal for everyday use. It supports wir...",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "N3",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "40.00 x 60.00 mm"
+        ]
+      },
+      {
+        "code": "U1",
+        "label": "UV printing",
+        "labelRo": "Imprimare UV",
+        "printSizes": [
+          "50.00 x 80.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "45132",
+    "supplierVariantIds": [
+      "45132-01"
+    ],
+    "price": 31.32,
+    "priceFrom": false,
+    "stock": 2592,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/45132-01.jpg",
+      "https://bluecollection.eu/assets/img/45132-01_d.jpg",
+      "https://bluecollection.eu/assets/img/45132-01_d_LOGO.jpg",
+      "https://bluecollection.eu/assets/img/45132-01_ep.jpg",
+      "https://bluecollection.eu/assets/img/45132-01_et.jpg",
+      "https://bluecollection.eu/assets/img/45132-01_f.jpg",
+      "https://bluecollection.eu/assets/img/45132-01_g.jpg",
+      "https://bluecollection.eu/assets/img/45132-01_h.jpg",
+      "https://bluecollection.eu/assets/img/45132-01_i.jpg",
+      "https://bluecollection.eu/assets/img/45132-01_j.jpg",
+      "https://bluecollection.eu/assets/img/45132-01_l.jpg",
+      "https://bluecollection.eu/assets/img/45132-01_m.jpg",
+      "https://bluecollection.eu/assets/img/45132-01_o.jpg",
+      "https://bluecollection.eu/assets/img/45132-01_zOS.jpg",
+      "https://bluecollection.eu/assets/img/45132-01_znzuv.jpg",
+      "https://bluecollection.eu/assets/img/45132-01_zoss.jpg",
+      "https://bluecollection.eu/assets/img/45132-01_zoss2.jpg",
+      "https://bluecollection.eu/assets/img/45132-01_zuv.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/45132.html",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "White"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "95.00 × 64.00 × 15.00 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "plastic"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 162,
+    "capacity": "5000 mAh",
+    "descriptionLong": "Discover our new 5000mAh PRESTI power bank, which combines advanced technology with practical design. With its compact size and lightweight design, it is convenient to carry and ideal for everyday use. It supports wireless inductive charging, eliminating the need for cables. Magnets precisely adhere to the back of the phone for optimal positioning and charging performance. It is small, lightweight and pleasant to the touch, making it ideal for carrying in a pocket or bag. With an output power of 18W, it will quickly charge your devices. Enjoy the convenience and efficiency offered by our PRESTI power bank, the perfect companion for travel and everyday use.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "bluecollection-45134",
+    "name": "Powerbank MING-PRO 10000 mAh",
+    "category": "electronics/power-and-charging/power-banks",
+    "summary": "The MING-PRO power bank with a capacity of 10,000 mAh is a practical and modern solution for charging mobile devices. Equipped with micro USB, USB-C and two USB-A ports, it allows you to conveniently connect several d...",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
+    "personalizations": [
+      "co2"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G5",
+        "label": "Laser engraving",
+        "labelRo": "Gravură laser",
+        "printSizes": [
+          "55.00 x 35.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "45134",
+    "supplierVariantIds": [
+      "45134-01",
+      "45134-03",
+      "45134-04"
+    ],
+    "price": 37.27,
+    "priceFrom": false,
+    "stock": 2946,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/45134-03.jpg",
+      "https://bluecollection.eu/assets/img/45134-01.jpg",
+      "https://bluecollection.eu/assets/img/45134-04.jpg",
+      "https://bluecollection.eu/assets/img/45134-03_d.jpg",
+      "https://bluecollection.eu/assets/img/45134-03_ep.jpg",
+      "https://bluecollection.eu/assets/img/45134-03_et.jpg",
+      "https://bluecollection.eu/assets/img/45134-03_l.jpg",
+      "https://bluecollection.eu/assets/img/45134-03_m.jpg",
+      "https://bluecollection.eu/assets/img/45134-03_o.jpg",
+      "https://bluecollection.eu/assets/img/45134-03_oh.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/45134.html",
+    "variantCount": 3,
+    "colorCount": 3,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Blue"
+      },
+      {
+        "name": "Red"
+      },
+      {
+        "name": "White"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "70 × 140 × 15 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "plastic, rubberised plastic - soft touch finish"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 229,
+    "capacity": "10000 mAh",
+    "descriptionLong": "The MING-PRO power bank with a capacity of 10,000 mAh is a practical and modern solution for charging mobile devices. Equipped with micro USB, USB-C and two USB-A ports, it allows you to conveniently connect several devices at the same time. The built-in display shows the current battery charge level, making it easy to control the power bank's operation. An additional feature is the LED backlight, which becomes visible after logo branding - giving the gadget a unique personalised touch. The slim design makes it easy to fit into a bag or backpack. Thanks to the MING-PRO marking service, it is a functional advertising medium that combines practicality with modern design.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "bluecollection-45135",
+    "name": "Powerbank NUBLIS 10000 mAh",
+    "category": "electronics/power-and-charging/power-banks",
+    "summary": "The NUBLIS power bank with a capacity of 10,000 mAh is a multifunctional gadget that combines modern technology and attractive design. It supports fast wired and Qi Wireless charging, and with its USB-C and USB-A port...",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [
+      "co2",
+      "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G5",
+        "label": "Laser engraving",
+        "labelRo": "Gravură laser",
+        "printSizes": [
+          "45.00 x 45.00 mm"
+        ]
+      },
+      {
+        "code": "U1",
+        "label": "UV printing",
+        "labelRo": "Imprimare UV",
+        "printSizes": [
+          "45.00 x 80.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "45135",
+    "supplierVariantIds": [
+      "45135-01"
+    ],
+    "price": 42.29,
+    "priceFrom": false,
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/45135-01.jpg",
+      "https://bluecollection.eu/assets/img/45135-01_d.jpg",
+      "https://bluecollection.eu/assets/img/45135-01_ep.jpg",
+      "https://bluecollection.eu/assets/img/45135-01_et.jpg",
+      "https://bluecollection.eu/assets/img/45135-01_f.jpg",
+      "https://bluecollection.eu/assets/img/45135-01_l.jpg",
+      "https://bluecollection.eu/assets/img/45135-01_m.jpg",
+      "https://bluecollection.eu/assets/img/45135-01_o.jpg",
+      "https://bluecollection.eu/assets/img/45135-01_op.jpg",
+      "https://bluecollection.eu/assets/img/45135-01_zg.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/45135.html",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "White"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "70 × 125 × 15 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "plastic"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 229,
+    "capacity": "10000 mAh",
+    "descriptionLong": "The NUBLIS power bank with a capacity of 10,000 mAh is a multifunctional gadget that combines modern technology and attractive design. It supports fast wired and Qi Wireless charging, and with its USB-C and USB-A ports, it allows you to power several devices simultaneously. An indicator in the form of LEDs allows you to easily check the battery charge level. The power bank also features a stand function so that the phone can be conveniently positioned vertically while charging. Thanks to its magnetic attachment, it is ideally suited to phones equipped with the MagSafe function. A highlight is the illuminated logo (light up logo), which remains visible even while charging, giving the device a unique advertising character. NUBLIS is a practical gift with branding capabilities and is ideal as a prestigious corporate gift.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "bluecollection-45136",
+    "name": "Powerbank ZYNTRA 5000 mAh 20W",
+    "category": "electronics/power-and-charging/power-banks",
+    "summary": "With a capacity of 5,000 mAh and 20 watts of power, the ZYNTRA power bank is a compact device that combines several modern functions. It supports fast wired and wireless charging, including inductive charging of your ...",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "fiber-laser",
+      "pad-screen",
+      "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Laser engraving",
+        "labelRo": "Gravură laser",
+        "printSizes": [
+          "25.00",
+          "50.00 x 15.00 mm",
+          "50.00 x 25.00 mm"
+        ]
+      },
+      {
+        "code": "N2",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "55.00 x 70.00 mm"
+        ]
+      },
+      {
+        "code": "U2",
+        "label": "UV printing",
+        "labelRo": "Imprimare UV",
+        "printSizes": [
+          "25.00"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "45136",
+    "supplierVariantIds": [
+      "45136-00"
+    ],
+    "price": 37.27,
+    "priceFrom": false,
+    "stock": 374,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/45136-00.jpg",
+      "https://bluecollection.eu/assets/img/45136-00_d.jpg",
+      "https://bluecollection.eu/assets/img/45136-00_ep.jpg",
+      "https://bluecollection.eu/assets/img/45136-00_et.jpg",
+      "https://bluecollection.eu/assets/img/45136-00_f.jpg",
+      "https://bluecollection.eu/assets/img/45136-00_g.jpg",
+      "https://bluecollection.eu/assets/img/45136-00_h.jpg",
+      "https://bluecollection.eu/assets/img/45136-00_l.jpg",
+      "https://bluecollection.eu/assets/img/45136-00_m.jpg",
+      "https://bluecollection.eu/assets/img/45136-00_o.jpg",
+      "https://bluecollection.eu/assets/img/45136-00_op.jpg",
+      "https://bluecollection.eu/assets/img/45136-00_zg.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/45136.html",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Silver"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "67 × 103 × 7 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "aluminium"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "60 pcs",
+        "valueRo": "60 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 131,
+    "capacity": "5000 mAh",
+    "descriptionLong": "With a capacity of 5,000 mAh and 20 watts of power, the ZYNTRA power bank is a compact device that combines several modern functions. It supports fast wired and wireless charging, including inductive charging of your watch. Thanks to MagSafe technology, it holds the phone stably and the built-in stand also acts as a holder, making it easy to use the device while charging. Equipped with a USB-C port, it enables fast powering of various smartphone models. As an added bonus, there is a practical lanyard integrated into the USB-C - USB-C cable, making it easy to carry and allowing you to charge your devices anywhere. ZYNTRA is a multifunctional advertising gadget with branding capabilities that is perfect for work and travel.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "bluecollection-45137",
+    "name": "Powerbank MAGION 10000 mAh 22,5W",
+    "category": "electronics/power-and-charging/power-banks",
+    "summary": "The 10,000 mAh MAGION power bank is a reliable source of energy on the go and at work. It supports the fast charging function with a power of 22.5 W and Power Delivery technology, thanks to which it will efficiently c...",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "N2",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "80.00 x 30.00 mm",
+          "90.00 x 30.00 mm"
+        ]
+      },
+      {
+        "code": "U1",
+        "label": "UV printing",
+        "labelRo": "Imprimare UV",
+        "printSizes": [
+          "120.00 x 35.00 mm",
+          "90.00 x 50.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "45137",
+    "supplierVariantIds": [
+      "45137-02"
+    ],
+    "price": 21.62,
+    "priceFrom": false,
+    "stock": 184,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/45137-02.jpg",
+      "https://bluecollection.eu/assets/img/45137-02_d.jpg",
+      "https://bluecollection.eu/assets/img/45137-02_ep.jpg",
+      "https://bluecollection.eu/assets/img/45137-02_et.jpg",
+      "https://bluecollection.eu/assets/img/45137-02_l.jpg",
+      "https://bluecollection.eu/assets/img/45137-02_m.jpg",
+      "https://bluecollection.eu/assets/img/45137-02_n.jpg",
+      "https://bluecollection.eu/assets/img/45137-02_o.jpg",
+      "https://bluecollection.eu/assets/img/45137-02_oh.jpg",
+      "https://bluecollection.eu/assets/img/45137-02_zn.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/45137.html",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "70 × 138 × 12 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "plastic"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "38 pcs",
+        "valueRo": "38 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 232,
+    "capacity": "10000 mAh",
+    "descriptionLong": "The 10,000 mAh MAGION power bank is a reliable source of energy on the go and at work. It supports the fast charging function with a power of 22.5 W and Power Delivery technology, thanks to which it will efficiently charge smartphones and other mobile devices. It is equipped with practical micro USB, USB-C and two USB-A ports, allowing you to charge several devices simultaneously. The slim, modern form makes it fit easily into a bag or backpack. Thanks to the branding service, the power bank can be branded with your company logo, becoming a functional and at the same time attractive advertising gadget.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "bluecollection-45138",
+    "name": "Powerbank LUMERO 10000 mAh 22,5W",
+    "category": "electronics/power-and-charging/power-banks",
+    "summary": "The LUMERO is a practical and modern power bank with a capacity of 10,000 mAh and a fast charging function (up to 22.5 W). Thanks to the integrated cable with USB-C and Lightning plugs, you can charge most devices wit...",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "N2",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "40.00 x 90.00 mm"
+        ]
+      },
+      {
+        "code": "N3",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "35.00 x 40.00 mm"
+        ]
+      },
+      {
+        "code": "U2",
+        "label": "UV printing",
+        "labelRo": "Imprimare UV",
+        "printSizes": [
+          "50.00 x 50.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "45138",
+    "supplierVariantIds": [
+      "45138-02"
+    ],
+    "price": 34.15,
+    "priceFrom": false,
+    "stock": 69,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/45138-02.jpg",
+      "https://bluecollection.eu/assets/img/45138-02_d.jpg",
+      "https://bluecollection.eu/assets/img/45138-02_ep.jpg",
+      "https://bluecollection.eu/assets/img/45138-02_et.jpg",
+      "https://bluecollection.eu/assets/img/45138-02_f.jpg",
+      "https://bluecollection.eu/assets/img/45138-02_l.jpg",
+      "https://bluecollection.eu/assets/img/45138-02_m.jpg",
+      "https://bluecollection.eu/assets/img/45138-02_o.jpg",
+      "https://bluecollection.eu/assets/img/45138-02_oh.jpg",
+      "https://bluecollection.eu/assets/img/45138-02_zuv.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/45138.html",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "62 × 67 × 20 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "plastic"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "48 pcs",
+        "valueRo": "48 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 184,
+    "capacity": "10000 mAh",
+    "descriptionLong": "The LUMERO is a practical and modern power bank with a capacity of 10,000 mAh and a fast charging function (up to 22.5 W). Thanks to the integrated cable with USB-C and Lightning plugs, you can charge most devices without having to carry additional cables. Energy can be controlled via an easy-to-read LED display, which shows the current charge level. Built-in Power Delivery (PD) technology enables efficient and fast charging. Power supply via USB, 3A input, 3A output.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "bluecollection-45139",
+    "name": "Powerbank ZIPPY 4500 mAh 20W",
+    "category": "electronics/power-and-charging/power-banks",
+    "summary": "The ZIPPY power bank with a capacity of 4500 mAh is a compact and practical solution for charging mobile devices. Thanks to its compact dimensions, it can be connected directly to the phone from below and can be used ...",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
+    "personalizations": [
+      "co2",
+      "pad-screen",
+      "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G3",
+        "label": "Laser engraving",
+        "labelRo": "Gravură laser",
+        "printSizes": [
+          "35.00 x 20.00 mm"
+        ]
+      },
+      {
+        "code": "N3",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "60.00 x 25.00 mm"
+        ]
+      },
+      {
+        "code": "U1",
+        "label": "UV printing",
+        "labelRo": "Imprimare UV",
+        "printSizes": [
+          "60.00 x 25.00 mm",
+          "65.00 x 30.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "45139",
+    "supplierVariantIds": [
+      "45139-02"
+    ],
+    "price": 31.02,
+    "priceFrom": false,
+    "stock": 556,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/45139-02.jpg",
+      "https://bluecollection.eu/assets/img/45139-02_d.jpg",
+      "https://bluecollection.eu/assets/img/45139-02_eh.jpg",
+      "https://bluecollection.eu/assets/img/45139-02_es.jpg",
+      "https://bluecollection.eu/assets/img/45139-02_f.jpg",
+      "https://bluecollection.eu/assets/img/45139-02_g.jpg",
+      "https://bluecollection.eu/assets/img/45139-02_l.jpg",
+      "https://bluecollection.eu/assets/img/45139-02_m.jpg",
+      "https://bluecollection.eu/assets/img/45139-02_zn.jpg",
+      "https://bluecollection.eu/assets/img/45139-02_o.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/45139.html",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "80 × 38 × 27 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "plastic"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "80 pcs",
+        "valueRo": "80 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 127,
+    "capacity": "4500 mAh",
+    "descriptionLong": "The ZIPPY power bank with a capacity of 4500 mAh is a compact and practical solution for charging mobile devices. Thanks to its compact dimensions, it can be connected directly to the phone from below and can be used comfortably while charging. It supports fast charging, and the USB-C and Lightning ports ensure universal use and compatibility with various smartphone models. LEDs indicate the current power level, making it easy to check the battery status. An additional feature is the illuminated logo (light up logo), which makes the marking stand out impressively even when the power bank is in operation. ZIPPY is a handy advertising gadget, combining modern design with functionality.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "bluecollection-45140",
+    "name": "Powerbank solarny SOLBAM 5000 mAh",
+    "category": "electronics/power-and-charging/power-banks",
+    "summary": "Power bank SOLBAM 5000 mAh features a bamboo casing and a built-in solar panel. It is equipped with USB-A and USB-C ports, an on/off button and LED indicators showing the power level. When engraving is selected, the L...",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
+    "personalizations": [
+      "co2"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G5",
+        "label": "Laser engraving",
+        "labelRo": "Gravură laser",
+        "printSizes": [
+          "60.00 x 30.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "45140",
+    "supplierVariantIds": [
+      "45140-17"
+    ],
+    "price": 31.29,
+    "priceFrom": false,
+    "stock": 1142,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/45140-17.jpg",
+      "https://bluecollection.eu/assets/img/45140-17_ep.jpg",
+      "https://bluecollection.eu/assets/img/45140-17_g.jpg",
+      "https://bluecollection.eu/assets/img/45140-17_d.jpg",
+      "https://bluecollection.eu/assets/img/45140-17_et.jpg",
+      "https://bluecollection.eu/assets/img/45140-17_f.jpg",
+      "https://bluecollection.eu/assets/img/45140-17_l.jpg",
+      "https://bluecollection.eu/assets/img/45140-17_m.jpg",
+      "https://bluecollection.eu/assets/img/45140-17_op.jpg",
+      "https://bluecollection.eu/assets/img/45140-17_zg.jpg",
+      "https://bluecollection.eu/assets/img/45140-17_o.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/45140.html",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Beige"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "67 × 123 × 15 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "bamboo"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "50 pcs",
+        "valueRo": "50 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 164,
+    "capacity": "5000 mAh",
+    "descriptionLong": "Power bank SOLBAM 5000 mAh features a bamboo casing and a built-in solar panel. It is equipped with USB-A and USB-C ports, an on/off button and LED indicators showing the power level. When engraving is selected, the Light Up Logo option is available – the plate for logo illumination is supplied separately, and the engraving is made on the underside of the attached bottom cover, preventing scratches and ensuring a clean visual effect. The cable is not included in the set.",
+    "hasVariantDetail": false
+  },
+  {
     "slug": "cifra-10970",
     "name": "POWER BANK “RACING”",
     "category": "electronics/power-and-charging/power-banks",
@@ -29,13 +2168,13 @@
     "stockLevel": "out-of-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/10970-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10970-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10970-04-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10970-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10970-05-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10970-02-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10970-01-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10970-04-500x500.jpg"
+      "https://www.publicatalogue.com/image/cache/data/details/10970-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,
@@ -84,12 +2223,131 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "327"
+        "value": "GENERAL:327 XMAS:208"
       }
     ],
     "weightGrams": 240,
     "descriptionLong": "10.000 mAh power bank with an exterior coating designed for laser engraving, so your logo will glow with a white light.Micro USB and Type-C input.Each unit comes in an individual box.Includes a Micro USB charging cable.",
     "hasVariantDetail": false
+  },
+  {
+    "slug": "cifra-11207",
+    "name": "MAGNETIC POWER BANK “SECRET”",
+    "category": "electronics/power-and-charging/power-banks",
+    "summary": "This next-generation magnetic portable charger combines exceptional power with an ultra-compact design, providing the ultimate solution to keep your devices charged quickly, conveniently and safely.Equipped with a pow...",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "E",
+        "label": "Cifra decoration code E",
+        "labelRo": "Cod personalizare Cifra E",
+        "printSizes": [
+          "30x30 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "11207",
+    "supplierVariantIds": [
+      "11207-BL",
+      "11207-MA",
+      "11207-NE"
+    ],
+    "price": 13.78,
+    "priceFrom": false,
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/11207-BL-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11207-BL-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11207-BL-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11207-BL-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11207-BL-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11207-BL-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/11207-MA-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11207-MA-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11207-MA-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11207-MA-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11207-MA-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11207-MA-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/11207-NE-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11207-NE-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11207-NE-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11207-NE-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11207-NE-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11207-NE-03-500x500.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
+    "variantCount": 3,
+    "colorCount": 3,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Marine",
+        "hex": "#00008B"
+      },
+      {
+        "name": "White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "6.4 × 9.5 × 1.9 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "ABS"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "28,0 x 23,0 x 27,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "9.2 kg",
+        "valueRo": "9.2 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "8.2 kg",
+        "valueRo": "8.2 kg"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "XMAS:207"
+      }
+    ],
+    "descriptionLong": "This next-generation magnetic portable charger combines exceptional power with an ultra-compact design, providing the ultimate solution to keep your devices charged quickly, conveniently and safely.Equipped with a powerful magnetic system that ensures a secure and reliable attachment to the back of your smartphone, preventing it from slipping or falling while charging.Features a 10,000 mAh battery, providing multiple full charges for your smartphone and other everyday essential devices.Incorporates magnetic alignment technology, delivering ultra-fast 15 W wireless charging simply by attaching your device to the battery pack.Includes a USB-C output port with 20 W Power Delivery (PD) technology, capable of charging your devices via cable at the highest possible speed. Supplied with a USB-C charging cable.Designed with an intelligent protection circuit that provides complete protection against overcharging, overcurrent, overvoltage, short circuits and overheating.Each item is individually boxed (8.9 x 15.5 x 2.5 cm).",
+    "hasVariantDetail": true
   },
   {
     "slug": "macma-20123",
@@ -135,7 +2393,7 @@
       "https://macma.ro/products/jpg/M/2012307_7.jpg",
       "https://macma.ro/products/jpg/M/2012307_box.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -233,7 +2491,7 @@
       "https://macma.ro/products/jpg/M/2034606_box.jpg",
       "https://macma.ro/products/jpg/M/2034606_print.jpg"
     ],
-    "fetchedAt": "2026-09-24T08:24:51.499Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -346,7 +2604,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/2048603_lifestyle_3.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/2048603_lifestyle_4.jpg"
     ],
-    "fetchedAt": "2026-09-17T08:37:15.824Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -443,7 +2701,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/2051806_lifestyle_1.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/2051806_lifestyle_2.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -551,7 +2809,7 @@
       "https://macma.ro/products/jpg/M/2075209_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/2075209_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:42.738Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -654,7 +2912,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/2355903_lifestyle_1.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/2355903_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -754,7 +3012,7 @@
       "https://macma.ro/products/jpg/M/3082303_8.jpg",
       "https://macma.ro/products/jpg/M/3082303_box.jpg"
     ],
-    "fetchedAt": "2026-09-05T07:39:06.240Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -855,7 +3113,7 @@
       "https://macma.ro/products/jpg/M/3082403_8.jpg",
       "https://macma.ro/products/jpg/M/3082403_box.jpg"
     ],
-    "fetchedAt": "2026-09-25T08:47:00.110Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -942,7 +3200,7 @@
     ],
     "price": 12.81,
     "priceFrom": false,
-    "stock": 3526,
+    "stock": 3466,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/3118406_1.jpg",
@@ -951,7 +3209,7 @@
       "https://macma.ro/products/jpg/M/3118406_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/3118406_lifestyle_2.jpg"
     ],
-    "fetchedAt": "2026-09-22T08:30:04.753Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1050,7 +3308,7 @@
       "https://macma.ro/products/jpg/M/3147313_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/3147313_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1137,7 +3395,7 @@
     ],
     "price": 19.69,
     "priceFrom": false,
-    "stock": 2248,
+    "stock": 2228,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/3149806_0.jpg",
@@ -1146,7 +3404,7 @@
       "https://macma.ro/products/jpg/M/3149806_3.jpg",
       "https://macma.ro/products/jpg/M/3149806_box.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1244,7 +3502,7 @@
       "https://macma.ro/products/jpg/M/3256313_5.jpg",
       "https://macma.ro/products/jpg/M/3256313_box.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1341,7 +3599,7 @@
       "https://macma.ro/products/jpg/M/3319013_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/3319013_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1433,7 +3691,7 @@
       "https://macma.ro/products/jpg/M/3365703_6.jpg",
       "https://macma.ro/products/jpg/M/3365703_7.jpg"
     ],
-    "fetchedAt": "2026-09-18T08:12:41.882Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1532,7 +3790,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/3389903_lifestyle_7.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/3389903_lifestyle_8.jpg"
     ],
-    "fetchedAt": "2026-08-28T15:19:27.445Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1634,7 +3892,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/3390977_lifestyle_3.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/3390977_lifestyle_4.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:42.738Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1726,7 +3984,7 @@
       "https://macma.ro/products/jpg/M/3394913_7.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/3394913_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1834,9 +4092,10 @@
       "https://macma.ro/products/jpg/M/3395807_5.jpg",
       "https://macma.ro/products/jpg/M/3395807_6.jpg",
       "https://macma.ro/products/jpg/M/3395807_7.jpg",
-      "https://macma.ro/products/jpg/M/3395807_8.jpg"
+      "https://macma.ro/products/jpg/M/3395807_8.jpg",
+      "https://macma.ro/products/jpg/M/lifestyle/3395807_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -1939,7 +4198,7 @@
       "https://macma.ro/products/jpg/M/3396913_7.jpg",
       "https://macma.ro/products/jpg/M/3396913_8.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2029,7 +4288,7 @@
     ],
     "price": 9.33,
     "priceFrom": false,
-    "stock": 3390,
+    "stock": 3389,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/3450307.jpg",
@@ -2053,7 +4312,7 @@
       "https://macma.ro/products/jpg/M/3450304_2.jpg",
       "https://macma.ro/products/jpg/M/3450304_3.jpg"
     ],
-    "fetchedAt": "2026-09-25T08:47:00.110Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -2135,9 +4394,7 @@
         "code": "CG3",
         "label": "CO₂ engraving 3",
         "labelRo": "Gravură CO₂ 3",
-        "printSizes": [
-          "50 mm x 40 mm"
-        ]
+        "printSizes": []
       }
     ],
     "supplierId": "macma",
@@ -2157,7 +4414,7 @@
       "https://macma.ro/products/jpg/M/3539103_5.jpg",
       "https://macma.ro/products/jpg/M/3539103_6.jpg"
     ],
-    "fetchedAt": "2026-09-24T08:24:51.499Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2221,9 +4478,7 @@
         "code": "T3",
         "label": "Pad printing 3",
         "labelRo": "Tampografie 3",
-        "printSizes": [
-          "40 mm x 40 mm"
-        ]
+        "printSizes": []
       }
     ],
     "supplierId": "macma",
@@ -2245,7 +4500,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/3543503_lifestyle_1.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/3543503_lifestyle_2.jpg"
     ],
-    "fetchedAt": "2026-09-22T08:30:04.753Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2309,9 +4564,7 @@
         "code": "CG3",
         "label": "CO₂ engraving 3",
         "labelRo": "Gravură CO₂ 3",
-        "printSizes": [
-          "50 mm x 20 mm"
-        ]
+        "printSizes": []
       }
     ],
     "supplierId": "macma",
@@ -2332,7 +4585,7 @@
       "https://macma.ro/products/jpg/M/3543603_6.jpg",
       "https://macma.ro/products/jpg/M/3543603_7.jpg"
     ],
-    "fetchedAt": "2026-09-24T08:24:51.499Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2396,9 +4649,7 @@
         "code": "T3",
         "label": "Pad printing 3",
         "labelRo": "Tampografie 3",
-        "printSizes": [
-          "40 mm x 40 mm"
-        ]
+        "printSizes": []
       }
     ],
     "supplierId": "macma",
@@ -2413,7 +4664,7 @@
     ],
     "price": 9.3,
     "priceFrom": false,
-    "stock": 13008,
+    "stock": 12008,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/3549403_1.jpg",
@@ -2447,7 +4698,7 @@
       "https://macma.ro/products/jpg/M/3549411_4.jpg",
       "https://macma.ro/products/jpg/M/3549411_5.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -2553,7 +4804,7 @@
       "https://macma.ro/products/jpg/M/4063803_7.jpg",
       "https://macma.ro/products/jpg/M/4063803_box.jpg"
     ],
-    "fetchedAt": "2026-09-19T08:01:33.274Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2671,7 +4922,7 @@
       "https://macma.ro/products/jpg/M/4302907_2.jpg",
       "https://macma.ro/products/jpg/M/4302907_box.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -2798,7 +5049,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2185-03-picture6.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2185-03-picture7.jpg"
     ],
-    "fetchedAt": "2026-09-26T08:33:23.778Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2928,7 +5179,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2279-03-box.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2279-03-picture1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -3049,7 +5300,7 @@
     ],
     "price": 9.62,
     "priceFrom": false,
-    "stock": 13804,
+    "stock": 13644,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2340-03.jpg",
@@ -3063,7 +5314,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2340-03-box.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2340-03-picture4.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -3178,7 +5429,7 @@
     ],
     "price": 5.92,
     "priceFrom": false,
-    "stock": 801,
+    "stock": 1031,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2342-40.jpg",
@@ -3189,7 +5440,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2342-40-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2342-40-box.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3301,7 +5552,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2374-03-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2374-03-box.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -3428,7 +5679,7 @@
     ],
     "price": 12.53,
     "priceFrom": false,
-    "stock": 18445,
+    "stock": 18460,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2442-04.jpg",
@@ -3445,7 +5696,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2442-04-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2442-04-picture6.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 7,
     "colorCount": 7,
     "sizeCount": 0,
@@ -3571,7 +5822,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2510-03-box.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2510-03-picture2.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3694,7 +5945,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2602-03-picture5.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2602-03-picture7.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -3806,7 +6057,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2777-03-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2777-03-picture7.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -3928,7 +6179,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2943-03-picture5.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2943-03-picture6.jpg"
     ],
-    "fetchedAt": "2026-08-27T14:09:09.643Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -4052,7 +6303,7 @@
     ],
     "price": 16.25,
     "priceFrom": false,
-    "stock": 5669,
+    "stock": 5488,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2957-03.jpg",
@@ -4065,7 +6316,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2957-03-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2957-03-picture1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -4189,7 +6440,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2967-03-picture6.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2967-03-picture7.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -4293,7 +6544,7 @@
       "https://cdn1.midocean.com/image/700X700/mo3144-03-picture1.jpg",
       "https://cdn1.midocean.com/image/700X700/mo3144-03-picture2.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:10.287Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -4320,13 +6571,19 @@
         "key": "material",
         "label": "Material",
         "labelRo": "Material",
-        "value": "Aluminium"
+        "value": "Recycled Aluminium"
       },
       {
         "key": "country-of-origin",
         "label": "Country of origin",
         "labelRo": "Țara de origine",
         "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "8507 6000"
       },
       {
         "key": "outer-carton",
@@ -4449,7 +6706,7 @@
       "https://cdn1.midocean.com/image/700X700/mo3177-03-picture1.jpg",
       "https://cdn1.midocean.com/image/700X700/mo3177-03-picture2.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -4473,13 +6730,19 @@
         "key": "material",
         "label": "Material",
         "labelRo": "Material",
-        "value": "Aluminium"
+        "value": "PU"
       },
       {
         "key": "country-of-origin",
         "label": "Country of origin",
         "labelRo": "Țara de origine",
         "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "8507 6000"
       },
       {
         "key": "outer-carton",
@@ -4567,7 +6830,7 @@
       "https://cdn1.midocean.com/image/700X700/mo3178-03-picture1.jpg",
       "https://cdn1.midocean.com/image/700X700/mo3178-03-picture2.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -4588,13 +6851,19 @@
         "key": "material",
         "label": "Material",
         "labelRo": "Material",
-        "value": "Aluminium"
+        "value": "Recycled Aluminium"
       },
       {
         "key": "country-of-origin",
         "label": "Country of origin",
         "labelRo": "Țara de origine",
         "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "8507 6000"
       },
       {
         "key": "outer-carton",
@@ -4612,7 +6881,7 @@
     "slug": "midocean-mo3179",
     "name": "CORE",
     "category": "electronics/power-and-charging/power-banks",
-    "summary": "Magnetic powerbank 5000mAh 15W",
+    "summary": "Magnetic power bank 5000mAh 15W",
     "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
     "personalizations": [
       "fiber-laser",
@@ -4684,7 +6953,7 @@
       "https://cdn1.midocean.com/image/700X700/mo3179-03-picture1.jpg",
       "https://cdn1.midocean.com/image/700X700/mo3179-03-picture2.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:10.287Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -4711,7 +6980,7 @@
         "key": "material",
         "label": "Material",
         "labelRo": "Material",
-        "value": "Aluminium"
+        "value": "Recycled Aluminium"
       },
       {
         "key": "country-of-origin",
@@ -4791,14 +7060,14 @@
     ],
     "price": 3.16,
     "priceFrom": false,
-    "stock": 15306,
+    "stock": 15105,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo5001-06.jpg",
       "https://cdn1.midocean.com/image/700X700/mo5001-06-back.jpg",
       "https://cdn1.midocean.com/image/700X700/mo5001-06-box.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -4915,7 +7184,7 @@
     ],
     "price": 9.96,
     "priceFrom": false,
-    "stock": 5468,
+    "stock": 5368,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo6509-40.jpg",
@@ -4926,7 +7195,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6509-40-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6509-40-box.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -5035,7 +7304,7 @@
     ],
     "price": 11.61,
     "priceFrom": false,
-    "stock": 30015,
+    "stock": 30007,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo6770-03.jpg",
@@ -5050,7 +7319,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6770-03-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6770-03-box.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 7,
     "colorCount": 7,
     "sizeCount": 0,
@@ -5173,7 +7442,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6814-40-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6814-40-box.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -5270,7 +7539,7 @@
     ],
     "price": 14.7,
     "priceFrom": false,
-    "stock": 3344,
+    "stock": 3343,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo6815-40.jpg",
@@ -5280,7 +7549,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6815-40-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6815-40-box.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -5385,7 +7654,7 @@
     ],
     "price": 6.44,
     "priceFrom": false,
-    "stock": 28313,
+    "stock": 28213,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo6825-03.jpg",
@@ -5402,7 +7671,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6825-03-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6825-03-box.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 9,
     "colorCount": 9,
     "sizeCount": 0,
@@ -5546,7 +7815,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6841-03-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6841-03-box.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -5664,7 +7933,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6844-13-box.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6844-13-picture1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -5778,7 +8047,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6863-03-ambiant.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6863-03-box.jpg"
     ],
-    "fetchedAt": "2026-09-26T08:33:23.778Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -5886,7 +8155,7 @@
     ],
     "price": 11.74,
     "priceFrom": false,
-    "stock": 10797,
+    "stock": 10697,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo6874-03.jpg",
@@ -5899,7 +8168,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6874-03-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6874-03-box.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -6015,15 +8284,15 @@
     ],
     "price": 10.61,
     "priceFrom": false,
-    "stock": 56,
+    "stock": 55,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo6949-03.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6949-03-print.jpg",
-      "https://cdn1.midocean.com/image/700X700/mo6949-03-detail.jpg",
-      "https://cdn1.midocean.com/image/700X700/mo6949-03-box.jpg"
+      "https://cdn1.midocean.com/image/700X700/mo6949-03-ambiant.jpg",
+      "https://cdn1.midocean.com/image/700X700/mo6949-03-detail.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -6123,7 +8392,7 @@
     ],
     "price": 4.26,
     "priceFrom": false,
-    "stock": 42350,
+    "stock": 41735,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo8735-03.jpg",
@@ -6134,7 +8403,7 @@
       "https://cdn1.midocean.com/image/700X700/mo8735-03-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo8735-03-box.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -6262,7 +8531,7 @@
       "https://cdn1.midocean.com/image/700X700/mo8839-03b.jpg",
       "https://cdn1.midocean.com/image/700X700/mo8839-03-box.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -6369,7 +8638,7 @@
     ],
     "price": 10.95,
     "priceFrom": false,
-    "stock": 13250,
+    "stock": 13225,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo9051-03.jpg",
@@ -6380,7 +8649,7 @@
       "https://cdn1.midocean.com/image/700X700/mo9051-03d.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9051-03-box.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -6491,7 +8760,7 @@
       "https://cdn1.midocean.com/image/700X700/mo9075-03-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9075-03-box.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -6592,7 +8861,7 @@
       "https://cdn1.midocean.com/image/700X700/mo9238-03-ambiant.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9238-03-box.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -6717,7 +8986,7 @@
       "https://cdn1.midocean.com/image/700X700/mo9498-03-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9498-03-box.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -6832,7 +9101,7 @@
       "https://cdn1.midocean.com/image/700X700/mo9662-40-ambiant.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9662-40-box.jpg"
     ],
-    "fetchedAt": "2026-09-23T08:32:07.190Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -6945,7 +9214,7 @@
       "https://cdn1.midocean.com/image/700X700/mo9663-40-open.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9663-40-box.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -7059,7 +9328,7 @@
       "https://cdn1.midocean.com/image/700X700/mo9673-40-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9673-40-box.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

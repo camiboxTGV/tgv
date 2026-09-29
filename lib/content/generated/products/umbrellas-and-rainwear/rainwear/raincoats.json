@@ -1,5 +1,181 @@
 [
   {
+    "slug": "bluecollection-20168",
+    "name": "Raincoat PLUVO",
+    "category": "umbrellas-and-rainwear/rainwear/raincoats",
+    "summary": "The PLUVO mackintosh is a lightweight and practical solution for rainy days. It has a hood with an adjustable drawcord for extra protection and a plastic press-stud fastening for quick donning. Comfortable and functio...",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "S2",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "100.00 x 150.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "20168",
+    "supplierVariantIds": [
+      "20168-03",
+      "20168-12",
+      "20168-19"
+    ],
+    "price": 3.42,
+    "priceFrom": false,
+    "stock": 1682,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/20168-12.jpg",
+      "https://bluecollection.eu/assets/img/20168-03.jpg",
+      "https://bluecollection.eu/assets/img/20168-19.jpg",
+      "https://bluecollection.eu/assets/img/20168-12_ep.jpg",
+      "https://bluecollection.eu/assets/img/20168-12_l.jpg",
+      "https://bluecollection.eu/assets/img/20168-12_m.jpg",
+      "https://bluecollection.eu/assets/img/20168-12_o.jpg",
+      "https://bluecollection.eu/assets/img/20168-12_zs.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/20168.html",
+    "variantCount": 3,
+    "colorCount": 3,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Blue"
+      },
+      {
+        "name": "Transparent"
+      },
+      {
+        "name": "Yellow"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "700 × 1200 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "plastic"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "100 pcs",
+        "valueRo": "100 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 143,
+    "descriptionLong": "The PLUVO mackintosh is a lightweight and practical solution for rainy days. It has a hood with an adjustable drawcord for extra protection and a plastic press-stud fastening for quick donning. Comfortable and functional, it will prove its worth in any bad weather.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "bluecollection-37200",
+    "name": "Rain poncho FLUXY",
+    "category": "umbrellas-and-rainwear/rainwear/raincoats",
+    "summary": "The FLUXY rain poncho is packaged in a plastic box for easy storage. Thanks to its small size, it will fit into any rucksack or handbag. Can be attached to a belt loop with a plastic holder.",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "N2",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "20.00 x 25.00 mm",
+          "35.00"
+        ]
+      },
+      {
+        "code": "U1",
+        "label": "UV printing",
+        "labelRo": "Imprimare UV",
+        "printSizes": [
+          "40.00"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "37200",
+    "supplierVariantIds": [
+      "37200-01"
+    ],
+    "price": 1.52,
+    "priceFrom": false,
+    "stock": 5690,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/37200-01.jpg",
+      "https://bluecollection.eu/assets/img/37200-01_d.jpg",
+      "https://bluecollection.eu/assets/img/37200-01_e.jpg",
+      "https://bluecollection.eu/assets/img/37200-01_f.jpg",
+      "https://bluecollection.eu/assets/img/37200-01_o.jpg",
+      "https://bluecollection.eu/assets/img/37200-01_znzuv.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/37200.html",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "White"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "120 × 90 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "plastic"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "200 pcs",
+        "valueRo": "200 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 36,
+    "descriptionLong": "The FLUXY rain poncho is packaged in a plastic box for easy storage. Thanks to its small size, it will fit into any rucksack or handbag. Can be attached to a belt loop with a plastic holder.",
+    "hasVariantDetail": false
+  },
+  {
     "slug": "cifra-10417",
     "name": "AUTOMATIC UMBRELLA \"SPLASH\"",
     "category": "umbrellas-and-rainwear/rainwear/raincoats",
@@ -49,18 +225,21 @@
     "images": [
       "https://www.publicatalogue.com/image/cache/data/10417-BL-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10417-BL-01-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10417-BL-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10417-BL-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10417-BL-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10417-BL-04-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/10417-MA-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10417-MA-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10417-MA-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10417-MA-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10417-MA-05-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10417-MA-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/10417-PI-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10417-PI-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10417-PI-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10417-PI-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10417-PI-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10417-PI-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -130,7 +309,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "637"
+        "value": "GENERAL:637"
       }
     ],
     "weightGrams": 380,
@@ -169,19 +348,22 @@
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/10418-MA-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10418-MA-05-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10418-MA-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10418-MA-01-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10418-MA-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10418-MA-04-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/10418-NE-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10418-NE-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10418-NE-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10418-NE-04-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10418-NE-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10418-NE-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/10418-PI-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10418-PI-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10418-PI-05-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10418-PI-02-500x500.jpg"
+      "https://www.publicatalogue.com/image/cache/data/details/10418-PI-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10418-PI-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10418-PI-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -251,7 +433,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "634"
+        "value": "GENERAL:634 XMAS:312"
       }
     ],
     "weightGrams": 640,
@@ -301,30 +483,30 @@
     "images": [
       "https://www.publicatalogue.com/image/cache/data/10640-GR-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10640-GR-05-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10640-GR-04-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10640-GR-03-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10640-GR-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10640-GR-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10640-GR-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10640-GR-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/10640-RO-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10640-RO-02-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10640-RO-03-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10640-RO-01-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10640-RO-05-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10640-RO-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10640-RO-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10640-RO-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10640-RO-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10640-RO-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/10640-RY-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10640-RY-01-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10640-RY-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10640-RY-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10640-RY-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10640-RY-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10640-RY-05-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10640-RY-04-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/10640-VE-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10640-VE-05-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10640-VE-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10640-VE-04-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10640-VE-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10640-VE-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10640-VE-01-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10640-VE-04-500x500.jpg"
+      "https://www.publicatalogue.com/image/cache/data/details/10640-VE-05-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -391,7 +573,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "636"
+        "value": "GENERAL:636 XMAS:312"
       }
     ],
     "descriptionLong": "When opened, it reaches a diameter of 120 cm, providing wide and effective protection against heavy rain.It features an elegant design with a black outer canopy and a strikingly colourful inner lining.The metal shaft, top tip and Velcro fastening strap are all colour-matched in the same shade.It is equipped with a quick one-touch opening system that can be operated with a single hand.",
@@ -428,19 +610,19 @@
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/10765-MA-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10765-MA-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10765-MA-05-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10765-MA-04-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10765-MA-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10765-MA-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10765-MA-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10765-MA-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/10765-NE-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10765-NE-02-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10765-NE-05-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10765-NE-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10765-NE-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10765-NE-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10765-NE-05-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10765-NE-04-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-27T14:09:14.901Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -499,7 +681,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "633"
+        "value": "GENERAL:633 XMAS:314"
       }
     ],
     "weightGrams": 900,
@@ -548,31 +730,31 @@
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/10969-AM-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10969-AM-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10969-AM-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10969-AM-04-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10969-AM-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10969-AM-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10969-AM-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/10969-BL-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10969-BL-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10969-BL-04-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10969-BL-03-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10969-BL-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10969-BL-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10969-BL-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10969-BL-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10969-BL-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/10969-RO-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10969-RO-02-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10969-RO-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10969-RO-04-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10969-RO-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10969-RO-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10969-RO-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10969-RO-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10969-RO-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/10969-RY-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10969-RY-04-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10969-RY-05-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10969-RY-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10969-RY-05-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10969-RY-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10969-RY-04-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10969-RY-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-10T08:05:50.690Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -639,7 +821,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "639"
+        "value": "GENERAL:639 XMAS:316"
       }
     ],
     "weightGrams": 140,
@@ -688,35 +870,35 @@
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/10971-AM-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10971-AM-05-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10971-AM-04-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10971-AM-03-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10971-AM-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10971-AM-06-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10971-AM-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10971-AM-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10971-AM-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10971-AM-05-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10971-AM-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/10971-AZ-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10971-AZ-03-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10971-AZ-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10971-AZ-05-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10971-AZ-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10971-AZ-06-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10971-AZ-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10971-AZ-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10971-AZ-04-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/10971-BL-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10971-BL-01-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10971-BL-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10971-BL-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10971-BL-06-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10971-BL-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10971-BL-04-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10971-BL-05-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10971-BL-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/10971-RO-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10971-RO-06-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10971-RO-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10971-RO-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10971-RO-04-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10971-RO-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10971-RO-06-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10971-RO-03-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10971-RO-02-500x500.jpg"
+      "https://www.publicatalogue.com/image/cache/data/details/10971-RO-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -783,11 +965,369 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "638"
+        "value": "GENERAL:638 XMAS:316"
       }
     ],
     "weightGrams": 48,
     "descriptionLong": "Lightweight and foldable raincoat-poncho, ideal for unexpected rain. It comes in a handy rPet drawstring bag, making it easy to carry and store (bag dimensions: 12 x 15 cm).",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "cifra-11111",
+    "name": "MINI FOLDABLE UMBRELLA “LUZZIA”",
+    "category": "umbrellas-and-rainwear/rainwear/raincoats",
+    "summary": "Thanks to its compact size, this mini pocket umbrella can be carried comfortably wherever you go. Ideal for keeping in your handbag, car, or simply carrying by hand, as it includes a wrist strap and a protective stora...",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G",
+        "label": "Cifra decoration code G",
+        "labelRo": "Cod personalizare Cifra G",
+        "printSizes": [
+          "180x80 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "11111",
+    "supplierVariantIds": [
+      "11111-CR",
+      "11111-MA",
+      "11111-NE"
+    ],
+    "price": 3.63,
+    "priceFrom": false,
+    "stock": 6000,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/11111-CR-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11111-CR-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11111-CR-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11111-CR-06-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11111-CR-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11111-CR-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11111-CR-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/11111-MA-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11111-MA-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11111-MA-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11111-MA-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11111-MA-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11111-MA-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11111-MA-06-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/11111-NE-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11111-NE-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11111-NE-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11111-NE-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11111-NE-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11111-NE-06-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11111-NE-02-500x500.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
+    "variantCount": 3,
+    "colorCount": 3,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Beige",
+        "hex": "#C2B280"
+      },
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Marine",
+        "hex": "#00008B"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "90 × 0 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Polyester and ABS"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "43,0 x 21,0 x 27,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "10.5 kg",
+        "valueRo": "10.5 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "9.5 kg",
+        "valueRo": "9.5 kg"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "XMAS:311"
+      }
+    ],
+    "weightGrams": 190,
+    "descriptionLong": "Thanks to its compact size, this mini pocket umbrella can be carried comfortably wherever you go. Ideal for keeping in your handbag, car, or simply carrying by hand, as it includes a wrist strap and a protective storage sleeve (9 × 17 cm).Its high-performance black coating provides complete blackout and effective sun protection. The lightweight, compact and durable design blocks UV rays and helps reduce heat build-up, lowering the temperature felt under the umbrella by approximately 6 to 13°C.Closed size: 17 cm (length).",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "cifra-11124",
+    "name": "UMBRELLA WITH REFLECTIVE STRIPE “LUMOS”",
+    "category": "umbrellas-and-rainwear/rainwear/raincoats",
+    "summary": "This transparent automatic umbrella combines a modern and minimalist style with road safety features, ideal for walking with full visibility on the rainiest days.Made of a waterproof plastic material that allows you t...",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "H",
+        "label": "Cifra decoration code H",
+        "labelRo": "Cod personalizare Cifra H",
+        "printSizes": [
+          "250x100 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "11124",
+    "supplierVariantIds": [
+      "11124"
+    ],
+    "price": 3.86,
+    "priceFrom": false,
+    "stock": 1974,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/11124-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11124-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11124-11-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11124-10-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11124-09-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11124-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11124-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11124-03-500x500.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
+    "variantCount": 1,
+    "colorCount": 0,
+    "sizeCount": 0,
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "90 × 0 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "PVC, ABS AND ALUMINIUM"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "83,0 x 21,0 x 24,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "12.1 kg",
+        "valueRo": "12.1 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "11 kg",
+        "valueRo": "11 kg"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "XMAS:315"
+      }
+    ],
+    "weightGrams": 288,
+    "descriptionLong": "This transparent automatic umbrella combines a modern and minimalist style with road safety features, ideal for walking with full visibility on the rainiest days.Made of a waterproof plastic material that allows you to see the road and surroundings perfectly while protecting yourself from rain.Incorporates a reflective gray strip throughout the lower contour that increases visibility and safety of the pedestrian in low light conditions.It has a classic stick-shaped fist in metallic grey finish, designed to provide a comfortable grip and easy hanging.It has an open diameter of 90 cm, with a quick button opening system that can be activated instantly with one hand.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "cifra-11173",
+    "name": "AUTOMATIC UMBRELLA \"CARDIFF\"",
+    "category": "umbrellas-and-rainwear/rainwear/raincoats",
+    "summary": "This automatic umbrella stands out for its functional design and high visibility, combining lightweight materials with a sturdy structure for effective daily protection.Incorporates a grey stripe throughout the contou...",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G",
+        "label": "Cifra decoration code G",
+        "labelRo": "Cod personalizare Cifra G",
+        "printSizes": [
+          "250x80 mm"
+        ]
+      },
+      {
+        "code": "DTF",
+        "label": "Direct-to-film transfer",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "250x80 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "11173",
+    "supplierVariantIds": [
+      "11173-BL",
+      "11173-NE",
+      "11173-RO",
+      "11173-RY",
+      "11173-VE"
+    ],
+    "price": 4.29,
+    "priceFrom": false,
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/11173-BL-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11173-BL-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11173-BL-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11173-BL-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11173-BL-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11173-BL-06-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11173-BL-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/11173-NE-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11173-NE-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11173-NE-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11173-NE-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11173-NE-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11173-NE-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11173-NE-06-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/11173-RO-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11173-RO-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11173-RO-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11173-RO-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11173-RO-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11173-RO-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11173-RO-06-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/11173-RY-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11173-RY-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11173-RY-06-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11173-RY-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11173-RY-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11173-RY-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11173-RY-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/11173-VE-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11173-VE-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11173-VE-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11173-VE-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11173-VE-06-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11173-VE-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11173-VE-01-500x500.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
+    "variantCount": 5,
+    "colorCount": 5,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      },
+      {
+        "name": "Green",
+        "hex": "#00FF00"
+      },
+      {
+        "name": "Red",
+        "hex": "#FF0000"
+      },
+      {
+        "name": "Royal",
+        "hex": "#2D3192"
+      },
+      {
+        "name": "White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "105 × 0 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Polyester"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "10 pcs",
+        "valueRo": "10 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "102,0 x 20,0 x 25,0 cm"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "XMAS:313"
+      }
+    ],
+    "descriptionLong": "This automatic umbrella stands out for its functional design and high visibility, combining lightweight materials with a sturdy structure for effective daily protection.Incorporates a grey stripe throughout the contour that improves user visibility and safety on dark or rainy days.Has a straight handle made of soft-touch EVA foam that provides a comfortable, ergonomic and non-slip grip.It offers an open diameter of 105 cm, the ideal size to protect a person in a complete way without being bulky (closed 80.5 cm).Integrated quick release system with a button on the handle for instant one-handed activation.",
     "hasVariantDetail": true
   },
   {
@@ -830,16 +1370,16 @@
       "https://www.publicatalogue.com/image/cache/data/details/C-003-FU-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/C-003-FU-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/C-003-RO-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/C-003-RO-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/C-003-RO-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/C-003-RO-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/C-003-RY-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/C-003-RY-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/C-003-RY-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/C-003-VE-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/C-003-VE-02-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/C-003-VE-01-500x500.jpg"
+      "https://www.publicatalogue.com/image/cache/data/details/C-003-VE-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/C-003-VE-02-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-25T03:58:32.356Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -917,7 +1457,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "638"
+        "value": "GENERAL:638"
       }
     ],
     "weightGrams": 27,
@@ -962,7 +1502,7 @@
       "https://www.publicatalogue.com/image/cache/data/E-049-BL-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/E-049-BL-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -1032,7 +1572,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "729"
+        "value": "GENERAL:729"
       }
     ],
     "weightGrams": 49,
@@ -1103,39 +1643,39 @@
       "https://www.publicatalogue.com/image/cache/data/details/RP-036-BL-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-036-BL-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/RP-036-GR-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/RP-036-GR-03-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/RP-036-GR-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-036-GR-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-036-GR-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-036-GR-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/RP-036-LI-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/RP-036-LI-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-036-LI-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-036-LI-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-036-LI-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/RP-036-MA-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-036-MA-03-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/RP-036-MA-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-036-MA-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-036-MA-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/RP-036-NA-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-036-NA-03-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/RP-036-NA-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-036-NA-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-036-NA-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/RP-036-NE-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-036-NE-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-036-NE-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-036-NE-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/RP-036-RO-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/RP-036-RO-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-036-RO-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-036-RO-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-036-RO-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/RP-036-RY-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-036-RY-03-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/RP-036-RY-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-036-RY-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-036-RY-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/RP-036-VE-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/RP-036-VE-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-036-VE-03-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/RP-036-VE-01-500x500.jpg"
+      "https://www.publicatalogue.com/image/cache/data/details/RP-036-VE-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-036-VE-02-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-15T08:38:34.923Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 10,
     "colorCount": 10,
     "sizeCount": 0,
@@ -1239,7 +1779,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "635 · 635,661"
+        "value": "GENERAL:635 · 635,661"
       }
     ],
     "weightGrams": 425,
@@ -1290,12 +1830,12 @@
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/RP-039-GR-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/RP-039-GR-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-039-GR-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-039-GR-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-039-GR-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/RP-039-LI-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/RP-039-LI-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-039-LI-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-039-LI-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/RP-039-NE-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-039-NE-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-039-NE-01-500x500.jpg",
@@ -1303,13 +1843,13 @@
       "https://www.publicatalogue.com/image/cache/data/details/RP-039-RO-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-039-RO-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/RP-039-RY-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/RP-039-RY-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-039-RY-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-039-RY-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/RP-039-VE-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-039-VE-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-039-VE-02-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-15T08:38:34.923Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -1397,7 +1937,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "636"
+        "value": "GENERAL:636"
       }
     ],
     "weightGrams": 200,
@@ -1420,7 +1960,8 @@
         "label": "Cifra decoration code G",
         "labelRo": "Cod personalizare Cifra G",
         "printSizes": [
-          "180x100 mm"
+          "180x100 mm",
+          "250x150 mm"
         ]
       },
       {
@@ -1428,7 +1969,8 @@
         "label": "Direct-to-film transfer",
         "labelRo": "Transfer DTF",
         "printSizes": [
-          "180x100 mm"
+          "180x100 mm",
+          "250x150 mm"
         ]
       }
     ],
@@ -1447,16 +1989,16 @@
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/RP-064-AZ-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/RP-064-AZ-01-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/RP-064-AZ-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-064-AZ-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-064-AZ-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-064-AZ-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/RP-064-GR-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-064-GR-03-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/RP-064-GR-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-064-GR-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-064-GR-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/RP-064-NE-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/RP-064-NE-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-064-NE-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-064-NE-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-064-NE-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/RP-064-RO-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-064-RO-02-500x500.jpg",
@@ -1468,7 +2010,7 @@
       "https://www.publicatalogue.com/image/cache/data/details/RP-064-VE-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-064-VE-03-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -1546,7 +2088,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "636"
+        "value": "GENERAL:636"
       }
     ],
     "weightGrams": 300,
@@ -1602,8 +2144,8 @@
       "https://www.publicatalogue.com/image/cache/data/RP-066-AZ-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-066-AZ-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/RP-066-GR-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/RP-066-GR-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-066-GR-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-066-GR-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/RP-066-LI-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-066-LI-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/RP-066-MA-500x500.jpg",
@@ -1619,7 +2161,7 @@
       "https://www.publicatalogue.com/image/cache/data/RP-066-VE-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-066-VE-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:44.113Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 9,
     "colorCount": 9,
     "sizeCount": 0,
@@ -1713,7 +2255,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "637"
+        "value": "GENERAL:637"
       }
     ],
     "weightGrams": 310,
@@ -1751,9 +2293,10 @@
     "images": [
       "https://www.publicatalogue.com/image/cache/data/RP-068-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-068-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-068-08-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-068-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,
@@ -1815,7 +2358,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "637"
+        "value": "GENERAL:637 XMAS:315"
       }
     ],
     "weightGrams": 345,
@@ -1873,24 +2416,27 @@
     "images": [
       "https://www.publicatalogue.com/image/cache/data/RP-069-GR-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-069-GR-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-069-GR-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-069-GR-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-069-GR-05-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-069-GR-04-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/RP-069-GR-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-069-GR-06-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/RP-069-MA-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-069-MA-06-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-069-MA-03-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/RP-069-MA-04-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/RP-069-MA-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-069-MA-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-069-MA-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-069-MA-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-069-MA-04-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/RP-069-NE-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-069-NE-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-069-NE-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-069-NE-04-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-069-NE-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-069-NE-01-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/RP-069-NE-04-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/RP-069-NE-03-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/RP-069-NE-05-500x500.jpg"
+      "https://www.publicatalogue.com/image/cache/data/details/RP-069-NE-06-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -1960,7 +2506,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "634"
+        "value": "GENERAL:634"
       }
     ],
     "weightGrams": 572,
@@ -1997,7 +2543,7 @@
     ],
     "price": 0.67,
     "priceFrom": false,
-    "stock": 71686,
+    "stock": 71606,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/4097866_group.jpg",
@@ -2008,7 +2554,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/4097866_lifestyle_5.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/4097866_lifestyle_6.jpg"
     ],
-    "fetchedAt": "2026-09-25T08:47:00.110Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -2094,7 +2640,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/4188266_lifestyle_5.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/4188266_lifestyle_6.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -2180,7 +2726,7 @@
     ],
     "price": 0.87,
     "priceFrom": false,
-    "stock": 27359,
+    "stock": 27208,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/4378805_1.jpg",
@@ -2197,6 +2743,7 @@
       "https://macma.ro/products/jpg/M/4378804_5.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/4378804_lifestyle_1.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/4378804_lifestyle_10.jpg",
+      "https://macma.ro/products/jpg/M/lifestyle/4378804_lifestyle_11.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/4378804_lifestyle_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/4378804_lifestyle_3.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/4378804_lifestyle_4.jpg",
@@ -2208,7 +2755,7 @@
       "https://macma.ro/products/jpg/M/4378809_4.jpg",
       "https://macma.ro/products/jpg/M/4378809_5.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -2302,14 +2849,14 @@
     ],
     "price": 3.77,
     "priceFrom": false,
-    "stock": 274,
+    "stock": 264,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/4910166_0.jpg",
       "https://macma.ro/products/jpg/M/4910166_1.jpg",
       "https://macma.ro/products/jpg/M/4910166_3.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -2410,7 +2957,7 @@
       "https://macma.ro/products/jpg/M/4920549_3.jpg",
       "https://macma.ro/products/jpg/M/4920549_4.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 1,
@@ -2501,7 +3048,7 @@
       "https://macma.ro/products/jpg/M/4921866_3.jpg",
       "https://macma.ro/products/jpg/M/4921866_4.jpg"
     ],
-    "fetchedAt": "2026-09-22T08:30:04.753Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -2597,7 +3144,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/5267144_lifestyle_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/5267144_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2681,7 +3228,7 @@
     ],
     "price": 2.96,
     "priceFrom": false,
-    "stock": 38917,
+    "stock": 38914,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/it0971-04.jpg",
@@ -2689,7 +3236,7 @@
       "https://cdn1.midocean.com/image/700X700/it0971-06.jpg",
       "https://cdn1.midocean.com/image/700X700/it0971-04-ambiant.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -2782,7 +3329,7 @@
     ],
     "price": 0.41,
     "priceFrom": false,
-    "stock": 227266,
+    "stock": 227264,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/it0972-22.jpg",
@@ -2794,7 +3341,7 @@
       "https://cdn1.midocean.com/image/700X700/it0972-22-open.jpg",
       "https://cdn1.midocean.com/image/700X700/it0972-22-print.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -2889,7 +3436,7 @@
     ],
     "price": 3.13,
     "priceFrom": false,
-    "stock": 15809,
+    "stock": 15464,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/kc5101-08.jpg",
@@ -2899,7 +3446,7 @@
       "https://cdn1.midocean.com/image/700X700/kc5101-08-print.jpg",
       "https://cdn1.midocean.com/image/700X700/kc5101-08-ambiant.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -2962,82 +3509,6 @@
     "hasVariantDetail": true
   },
   {
-    "slug": "midocean-mo2128",
-    "name": "PONCHIE",
-    "category": "umbrellas-and-rainwear/rainwear/raincoats",
-    "summary": "PEVA kid rain coat with hood",
-    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
-    "personalizations": [],
-    "supplierPersonalizations": [],
-    "supplierId": "midocean",
-    "supplierSku": "MO2128",
-    "supplierVariantIds": [
-      "MO2128-06"
-    ],
-    "price": 1.68,
-    "priceFrom": false,
-    "stock": 0,
-    "stockLevel": "out-of-stock",
-    "images": [
-      "https://cdn1.midocean.com/image/700X700/mo2128-06.jpg",
-      "https://cdn1.midocean.com/image/700X700/mo2128-06-back.jpg",
-      "https://cdn1.midocean.com/image/700X700/mo2128-06-open.jpg",
-      "https://cdn1.midocean.com/image/700X700/mo2128-06-detail.jpg"
-    ],
-    "fetchedAt": "2026-09-01T08:36:43.410Z",
-    "variantCount": 1,
-    "colorCount": 1,
-    "sizeCount": 0,
-    "colorSwatches": [
-      {
-        "name": "White"
-      }
-    ],
-    "availableSizes": [],
-    "specifications": [
-      {
-        "key": "dimensions",
-        "label": "Dimensions",
-        "labelRo": "Dimensiuni",
-        "value": "87X79CM"
-      },
-      {
-        "key": "material",
-        "label": "Material",
-        "labelRo": "Material",
-        "value": "EVA"
-      },
-      {
-        "key": "country-of-origin",
-        "label": "Country of origin",
-        "labelRo": "Țara de origine",
-        "value": "CN"
-      },
-      {
-        "key": "commodity-code",
-        "label": "Commodity code",
-        "labelRo": "Cod tarifar",
-        "value": "3926 2000"
-      },
-      {
-        "key": "outer-carton",
-        "label": "Outer carton",
-        "labelRo": "Bax exterior",
-        "value": "50"
-      },
-      {
-        "key": "packaging-after-printing",
-        "label": "Packaging after printing",
-        "labelRo": "Ambalare după personalizare",
-        "value": "No Polybag"
-      }
-    ],
-    "brand": "midocean",
-    "weightGrams": 200,
-    "descriptionLong": "PEVA kids (2-5 years old) raincoat with hood. Press-stud fastening.",
-    "hasVariantDetail": false
-  },
-  {
     "slug": "midocean-mo7421",
     "name": "NIMBUS",
     "category": "umbrellas-and-rainwear/rainwear/raincoats",
@@ -3068,7 +3539,7 @@
     ],
     "price": 0.9,
     "priceFrom": false,
-    "stock": 81816,
+    "stock": 81265,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo7421-03.jpg",
@@ -3078,7 +3549,7 @@
       "https://cdn1.midocean.com/image/700X700/mo7421-48.jpg",
       "https://cdn1.midocean.com/image/700X700/mo7421-10.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -3184,14 +3655,14 @@
     ],
     "price": 0.98,
     "priceFrom": false,
-    "stock": 13393,
+    "stock": 13390,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo9993-22.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9993-22-back.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9993-22-open.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

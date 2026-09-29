@@ -1,5 +1,120 @@
 [
   {
+    "slug": "bluecollection-51028",
+    "name": "Cork mirror SARI",
+    "category": "home-and-living/personal-care-and-wellness/mirrors",
+    "summary": "Discover the SARI pocket mirror. The hexagon-shaped cork casing gives the mirror a modern, eco-friendly feel, setting it apart from other accessories. You can place SARI on a flat surface and conveniently touch up you...",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
+    "personalizations": [
+      "textile-transfer",
+      "fiber-laser",
+      "pad-screen",
+      "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "C1",
+        "label": "DTF",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "40.00 x 60.00 mm"
+        ]
+      },
+      {
+        "code": "F1",
+        "label": "Screen printing heat transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "40.00 x 60.00 mm"
+        ]
+      },
+      {
+        "code": "G5",
+        "label": "Laser engraving",
+        "labelRo": "Gravură laser",
+        "printSizes": [
+          "40.00 x 40.00 mm"
+        ]
+      },
+      {
+        "code": "N2",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "50.00 x 50.00 mm"
+        ]
+      },
+      {
+        "code": "U1",
+        "label": "UV printing",
+        "labelRo": "Imprimare UV",
+        "printSizes": [
+          "40.00 x 60.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "51028",
+    "supplierVariantIds": [
+      "51028-17"
+    ],
+    "price": 3.54,
+    "priceFrom": false,
+    "stock": 2985,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/51028-17.jpg",
+      "https://bluecollection.eu/assets/img/51028-17_d.jpg",
+      "https://bluecollection.eu/assets/img/51028-17_d_LOGO.jpg",
+      "https://bluecollection.eu/assets/img/51028-17_f.jpg",
+      "https://bluecollection.eu/assets/img/51028-17_l.jpg",
+      "https://bluecollection.eu/assets/img/51028-17_m.jpg",
+      "https://bluecollection.eu/assets/img/51028-17_o.jpg",
+      "https://bluecollection.eu/assets/img/51028-17_zuv.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/51028.html",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Natural"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "89.00 × 89.00 × 7 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "cork, metal"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "200 pcs",
+        "valueRo": "200 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 47,
+    "descriptionLong": "Discover the SARI pocket mirror. The hexagon-shaped cork casing gives the mirror a modern, eco-friendly feel, setting it apart from other accessories. You can place SARI on a flat surface and conveniently touch up your make-up or appearance wherever you are. The compact size makes the SARI mirror fit into any handbag.",
+    "hasVariantDetail": false
+  },
+  {
     "slug": "midocean-kc2204",
     "name": "GUAPAS",
     "category": "home-and-living/personal-care-and-wellness/mirrors",
@@ -65,7 +180,7 @@
       "https://cdn1.midocean.com/image/700X700/kc2204-17-print.jpg",
       "https://cdn1.midocean.com/image/700X700/kc2204-17-box.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -191,7 +306,7 @@
       "https://cdn1.midocean.com/image/700X700/kc2226-16-back.jpg",
       "https://cdn1.midocean.com/image/700X700/kc2226-16-box.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -293,12 +408,12 @@
     ],
     "price": 0.27,
     "priceFrom": false,
-    "stock": 30004,
+    "stock": 29994,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/kc2466-26.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -383,7 +498,7 @@
     ],
     "price": 0.69,
     "priceFrom": false,
-    "stock": 39235,
+    "stock": 39205,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/kc2683-14.jpg",
@@ -391,7 +506,7 @@
       "https://cdn1.midocean.com/image/700X700/kc2683-14b.jpg",
       "https://cdn1.midocean.com/image/700X700/kc2683-14-ambiant.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -492,13 +607,13 @@
     ],
     "price": 0.72,
     "priceFrom": false,
-    "stock": 20495,
+    "stock": 20195,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/kc5720-06.jpg",
       "https://cdn1.midocean.com/image/700X700/kc5720-06-back.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -619,7 +734,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2841-03-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2841-03-box.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -759,7 +874,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6406-40-ambiant.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6406-40-detail.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -856,7 +971,7 @@
     ],
     "price": 1.8,
     "priceFrom": false,
-    "stock": 13567,
+    "stock": 11567,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo7520-03.jpg",
@@ -865,7 +980,7 @@
       "https://cdn1.midocean.com/image/700X700/mo7520-03b.jpg",
       "https://cdn1.midocean.com/image/700X700/mo7520-03-box.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -969,13 +1084,13 @@
     ],
     "price": 1.05,
     "priceFrom": false,
-    "stock": 26447,
+    "stock": 26397,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo8767-03.jpg",
       "https://cdn1.midocean.com/image/700X700/mo8767-03a.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1085,7 +1200,7 @@
       "https://cdn1.midocean.com/image/700X700/mo8980-05b.jpg",
       "https://cdn1.midocean.com/image/700X700/mo8980-05-box.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1188,7 +1303,7 @@
     ],
     "price": 1.55,
     "priceFrom": false,
-    "stock": 24224,
+    "stock": 23894,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo9008-03.jpg",
@@ -1196,7 +1311,7 @@
       "https://cdn1.midocean.com/image/700X700/mo9008-03a.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9008-03b.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -1309,7 +1424,7 @@
       "https://cdn1.midocean.com/image/700X700/mo9799-13-top.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9799-13-box.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

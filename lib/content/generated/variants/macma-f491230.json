@@ -1,0 +1,47 @@
+[
+  {
+    "contentKey": "4c55b921079bfa83",
+    "supplierVariantId": "F4912301AJ3",
+    "stock": 1507,
+    "stockLevel": "in-stock",
+    "price": 13.3,
+    "color": {
+      "name": "Blue",
+      "hex": "#104e8b"
+    },
+    "imageRefs": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "contentKey": "b60915c2a34dfea0",
+    "supplierVariantId": "F4912302AJ3",
+    "stock": 1863,
+    "stockLevel": "in-stock",
+    "price": 13.3,
+    "color": {
+      "name": "Dark Grey",
+      "hex": "#646464"
+    },
+    "imageRefs": [
+      5
+    ]
+  },
+  {
+    "contentKey": "dfa1877ee99bee7b",
+    "supplierVariantId": "F4912300AJ3",
+    "stock": 2282,
+    "stockLevel": "in-stock",
+    "price": 13.3,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      0
+    ]
+  }
+]

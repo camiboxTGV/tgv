@@ -1,5 +1,85 @@
 [
   {
+    "slug": "bluecollection-20099",
+    "name": "Coin bank DOM",
+    "category": "home-and-living/home-decor/money-boxes",
+    "summary": "Moneybox in the form of a house made of semi-transparent material. On the bottom there is a lockable opening allowing the savings to be taken out. Logo can be printed using a pad printing technique.",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "N3",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "50.00 x 20.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "20099",
+    "supplierVariantIds": [
+      "20099-19"
+    ],
+    "price": 2.67,
+    "priceFrom": false,
+    "stock": 2826,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/20099-19.jpg",
+      "https://bluecollection.eu/assets/img/20099-19_d.jpg",
+      "https://bluecollection.eu/assets/img/20099-19_d_LOGO.jpg",
+      "https://bluecollection.eu/assets/img/20099-19_e.jpg",
+      "https://bluecollection.eu/assets/img/20099-19_f.jpg",
+      "https://bluecollection.eu/assets/img/20099-19_g.jpg",
+      "https://bluecollection.eu/assets/img/20099-19_o.jpg",
+      "https://bluecollection.eu/assets/img/20099-19_zn.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/20099.html",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Transparent"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "102.00 × 89.00 × 86.00 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "plastic"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "100 pcs",
+        "valueRo": "100 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 127,
+    "descriptionLong": "Moneybox in the form of a house made of semi-transparent material. On the bottom there is a lockable opening allowing the savings to be taken out. Logo can be printed using a pad printing technique.",
+    "hasVariantDetail": false
+  },
+  {
     "slug": "macma-55465",
     "name": "Hippo money box",
     "category": "home-and-living/home-decor/money-boxes",
@@ -13,9 +93,7 @@
         "code": "T2",
         "label": "Pad printing 2",
         "labelRo": "Tampografie 2",
-        "printSizes": [
-          "30 mm x 20 mm"
-        ]
+        "printSizes": []
       }
     ],
     "supplierId": "macma",
@@ -52,7 +130,7 @@
       "https://macma.ro/products/jpg/M/5546509_3.jpg",
       "https://macma.ro/products/jpg/M/5546509_4.jpg"
     ],
-    "fetchedAt": "2026-09-25T08:47:00.110Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -141,7 +219,7 @@
     ],
     "price": 2.22,
     "priceFrom": false,
-    "stock": 17539,
+    "stock": 17474,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/5623505_0.jpg",
@@ -161,7 +239,7 @@
       "https://macma.ro/products/jpg/M/5623504_2.jpg",
       "https://macma.ro/products/jpg/M/5623504_box.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -262,7 +340,7 @@
       "https://macma.ro/products/jpg/M/58386mc_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/58386mc_lifestyle_2.jpg"
     ],
-    "fetchedAt": "2026-09-23T08:32:14.374Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

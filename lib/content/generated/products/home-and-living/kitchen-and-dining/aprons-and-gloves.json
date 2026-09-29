@@ -1,5 +1,127 @@
 [
   {
+    "slug": "bluecollection-20410",
+    "name": "Apron RICE",
+    "category": "home-and-living/kitchen-and-dining/aprons-and-gloves",
+    "summary": "The RICE apron is a great choice for a gift for any culinary lover. Made with 100% cotton with great care. It has adjustable neck strap and a front pocket. Grammage 170 gsm.",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "textile-transfer",
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "C1",
+        "label": "DTF",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "50.00 x 60.00 mm"
+        ]
+      },
+      {
+        "code": "C2",
+        "label": "DTF",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "150.00 x 100.00 mm"
+        ]
+      },
+      {
+        "code": "C3",
+        "label": "DTF",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "200.00 x 130.00 mm",
+          "200.00 x 250.00 mm"
+        ]
+      },
+      {
+        "code": "F2",
+        "label": "Screen printing heat transfer",
+        "labelRo": "Transfer serigrafic",
+        "printSizes": [
+          "200.00 x 130.00 mm",
+          "210.00 x 275.00 mm"
+        ]
+      },
+      {
+        "code": "S2",
+        "label": "Screen printing",
+        "labelRo": "Serigrafie",
+        "printSizes": [
+          "200.00 x 130.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "20410",
+    "supplierVariantIds": [
+      "20410"
+    ],
+    "price": 6.24,
+    "priceFrom": false,
+    "stock": 4629,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/20410.jpg",
+      "https://bluecollection.eu/assets/img/20410_d.jpg",
+      "https://bluecollection.eu/assets/img/20410_d_LOGO.jpg",
+      "https://bluecollection.eu/assets/img/20410_dtf1.jpg",
+      "https://bluecollection.eu/assets/img/20410_dtf2.jpg",
+      "https://bluecollection.eu/assets/img/20410_e.jpg",
+      "https://bluecollection.eu/assets/img/20410_l.jpg",
+      "https://bluecollection.eu/assets/img/20410_m.jpg",
+      "https://bluecollection.eu/assets/img/20410_zOS.jpg",
+      "https://bluecollection.eu/assets/img/20410_zc1.jpg",
+      "https://bluecollection.eu/assets/img/20410_zc2.jpg",
+      "https://bluecollection.eu/assets/img/20410_zn.jpg",
+      "https://bluecollection.eu/assets/img/20410_zoss.jpg",
+      "https://bluecollection.eu/assets/img/20410_zs.jpg",
+      "https://bluecollection.eu/assets/img/20410_ztt1.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/20410.html",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Natural"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "860 × 700 × 0.00 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "cotton"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "80 pcs",
+        "valueRo": "80 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 163,
+    "descriptionLong": "The RICE apron is a great choice for a gift for any culinary lover. Made with 100% cotton with great care. It has adjustable neck strap and a front pocket. Grammage 170 gsm.",
+    "hasVariantDetail": false
+  },
+  {
     "slug": "cifra-10092",
     "name": "JEANS APRON \"TEXAS\"",
     "category": "home-and-living/kitchen-and-dining/aprons-and-gloves",
@@ -40,7 +162,7 @@
       "https://www.publicatalogue.com/image/cache/data/10092-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10092-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:44.113Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,
@@ -95,7 +217,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "513"
+        "value": "GENERAL:513 XMAS:304"
       }
     ],
     "weightGrams": 140,
@@ -133,7 +255,7 @@
     "images": [
       "https://www.publicatalogue.com/image/cache/data/10093-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-11T08:01:22.004Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,
@@ -182,7 +304,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "513"
+        "value": "GENERAL:513"
       }
     ],
     "weightGrams": 123,
@@ -231,7 +353,7 @@
     ],
     "price": 2.73,
     "priceFrom": false,
-    "stock": 24719,
+    "stock": 24704,
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/10496-BL-500x500.jpg",
@@ -251,7 +373,7 @@
       "https://www.publicatalogue.com/image/cache/data/10496-VE-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10496-VE-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:44.113Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 8,
     "colorCount": 7,
     "sizeCount": 0,
@@ -343,7 +465,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "509"
+        "value": "GENERAL:509 XMAS:306"
       }
     ],
     "weightGrams": 140,
@@ -389,14 +511,14 @@
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/10792-AZ-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10792-AZ-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10792-AZ-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10792-AZ-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/10792-BU-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10792-BU-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10792-BU-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/10792-NE-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10792-NE-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10792-NE-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10792-NE-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/10792-PI-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10792-PI-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10792-PI-01-500x500.jpg",
@@ -404,7 +526,7 @@
       "https://www.publicatalogue.com/image/cache/data/details/10792-VE-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10792-VE-02-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -475,7 +597,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "509"
+        "value": "GENERAL:509 XMAS:306"
       }
     ],
     "weightGrams": 110,
@@ -508,12 +630,12 @@
     ],
     "price": 5.46,
     "priceFrom": false,
-    "stock": 5255,
+    "stock": 5240,
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/10810-NE-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:44.113Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -568,7 +690,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "508"
+        "value": "GENERAL:508 XMAS:304"
       }
     ],
     "weightGrams": 250,
@@ -614,14 +736,14 @@
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/10938-BL-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10938-BL-06-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10938-BL-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10938-BL-02-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10938-BL-04-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10938-BL-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10938-BL-06-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10938-BL-05-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10938-BL-03-500x500.jpg"
+      "https://www.publicatalogue.com/image/cache/data/details/10938-BL-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10938-BL-04-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -669,7 +791,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "304"
+        "value": "GENERAL:304 XMAS:131"
       }
     ],
     "weightGrams": 14,
@@ -706,16 +828,16 @@
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/10939-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10939-06-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10939-04-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10939-08-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10939-07-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10939-05-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10939-03-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10939-01-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10939-02-500x500.jpg"
+      "https://www.publicatalogue.com/image/cache/data/details/10939-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10939-07-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10939-06-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10939-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10939-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10939-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-22T08:30:00.132Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,
@@ -771,7 +893,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "305"
+        "value": "GENERAL:305 XMAS:131"
       }
     ],
     "weightGrams": 86,
@@ -815,7 +937,7 @@
       "https://www.publicatalogue.com/image/cache/data/10966-MA-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/10966-VE-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-26T08:33:26.451Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 4,
     "colorCount": 3,
     "sizeCount": 0,
@@ -878,7 +1000,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "515"
+        "value": "GENERAL:515 XMAS:307"
       }
     ],
     "weightGrams": 17,
@@ -916,7 +1038,7 @@
       "https://www.publicatalogue.com/image/cache/data/10967-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10967-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,
@@ -965,7 +1087,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "515,663"
+        "value": "GENERAL:515,663 XMAS:307"
       }
     ],
     "weightGrams": 17,
@@ -1002,7 +1124,7 @@
     "images": [
       "https://www.publicatalogue.com/image/cache/data/10968-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,
@@ -1051,7 +1173,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "515"
+        "value": "GENERAL:515 XMAS:307"
       }
     ],
     "weightGrams": 18,
@@ -1095,20 +1217,20 @@
     ],
     "price": 5.46,
     "priceFrom": false,
-    "stock": 4900,
+    "stock": 4885,
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/11013-CR-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/11013-CR-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/11013-CR-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/11013-MA-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/11013-MA-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/11013-MA-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11013-MA-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/11013-NE-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/11013-NE-01-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/11013-NE-02-500x500.jpg"
+      "https://www.publicatalogue.com/image/cache/data/details/11013-NE-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11013-NE-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:44.113Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -1171,7 +1293,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "507"
+        "value": "GENERAL:507 XMAS:305"
       }
     ],
     "weightGrams": 250,
@@ -1234,7 +1356,7 @@
       "https://www.publicatalogue.com/image/cache/data/T-068-RY-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-068-VE-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:44.113Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 9,
     "colorCount": 9,
     "sizeCount": 0,
@@ -1334,7 +1456,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "511"
+        "value": "GENERAL:511 XMAS:306"
       }
     ],
     "weightGrams": 120,
@@ -1380,7 +1502,7 @@
       "https://www.publicatalogue.com/image/cache/data/T-077-RO-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-077-RY-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -1464,7 +1586,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "301,529"
+        "value": "GENERAL:301,529 XMAS:130"
       }
     ],
     "weightGrams": 54,
@@ -1506,7 +1628,7 @@
       "https://www.publicatalogue.com/image/cache/data/T-079-NA-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-079-NE-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -1576,7 +1698,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "529"
+        "value": "GENERAL:529"
       }
     ],
     "weightGrams": 37,
@@ -1622,7 +1744,7 @@
       "https://www.publicatalogue.com/image/cache/data/T-082-NE-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-082-NE-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:44.113Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 3,
     "colorCount": 2,
     "sizeCount": 0,
@@ -1688,7 +1810,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "514"
+        "value": "GENERAL:514"
       }
     ],
     "weightGrams": 72,
@@ -1727,7 +1849,7 @@
       "https://www.publicatalogue.com/image/cache/data/T-180-BU-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-180-BU-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-23T08:32:11.036Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1782,7 +1904,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "512"
+        "value": "GENERAL:512"
       }
     ],
     "weightGrams": 63,
@@ -1824,7 +1946,7 @@
       "https://www.publicatalogue.com/image/cache/data/T-181-NE-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-181-NE-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -1883,7 +2005,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "512"
+        "value": "GENERAL:512"
       }
     ],
     "weightGrams": 112,
@@ -1925,7 +2047,7 @@
       "https://www.publicatalogue.com/image/cache/data/T-182-NE-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-182-NE-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-15T08:38:34.923Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -1984,7 +2106,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "512"
+        "value": "GENERAL:512"
       }
     ],
     "weightGrams": 119,
@@ -2030,7 +2152,7 @@
     "images": [
       "https://www.publicatalogue.com/image/cache/data/T-194-ESP-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:44.113Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2130,10 +2252,10 @@
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/T-198-NE-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-198-NE-02-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-198-NE-01-500x500.jpg"
+      "https://www.publicatalogue.com/image/cache/data/details/T-198-NE-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-198-NE-02-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2188,7 +2310,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "510"
+        "value": "GENERAL:510"
       }
     ],
     "weightGrams": 260,
@@ -2234,12 +2356,12 @@
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/T-295-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-295-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-295-04-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-295-03-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-295-02-500x500.jpg"
+      "https://www.publicatalogue.com/image/cache/data/details/T-295-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-295-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-24T08:24:48.822Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,
@@ -2288,7 +2410,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "513"
+        "value": "GENERAL:513"
       }
     ],
     "weightGrams": 175,
@@ -2349,7 +2471,7 @@
       "https://www.publicatalogue.com/image/cache/data/T-299-MR-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-299-NE-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 4,
     "colorCount": 3,
     "sizeCount": 0,
@@ -2425,7 +2547,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "511"
+        "value": "GENERAL:511"
       }
     ],
     "descriptionLong": "Double pocket and adjustable strap, presented in an individual bag.",
@@ -2471,13 +2593,13 @@
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/T-303-BE-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-303-BE-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-303-BE-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-303-BE-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-303-NE-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-303-NE-02-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-303-NE-01-500x500.jpg"
+      "https://www.publicatalogue.com/image/cache/data/details/T-303-NE-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-303-NE-02-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 2,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2538,7 +2660,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "510"
+        "value": "GENERAL:510"
       }
     ],
     "weightGrams": 95,
@@ -2576,7 +2698,7 @@
     ],
     "price": 0.75,
     "priceFrom": false,
-    "stock": 31164,
+    "stock": 30844,
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/T-409-500x500.jpg",
@@ -2586,7 +2708,7 @@
       "https://www.publicatalogue.com/image/cache/data/T-409-VE-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-409-VE-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:44.113Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 5,
     "colorCount": 4,
     "sizeCount": 0,
@@ -2666,7 +2788,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "528"
+        "value": "GENERAL:528 XMAS:309"
       }
     ],
     "weightGrams": 55,
@@ -2708,7 +2830,7 @@
       "https://www.publicatalogue.com/image/cache/data/T-410-BU-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-410-NE-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -2778,7 +2900,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "528"
+        "value": "GENERAL:528 XMAS:309"
       }
     ],
     "weightGrams": 26,
@@ -2821,7 +2943,7 @@
       "https://www.publicatalogue.com/image/cache/data/T-42-RO-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-42-RY-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:44.113Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -2895,7 +3017,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "453"
+        "value": "GENERAL:453"
       }
     ],
     "weightGrams": 56,
@@ -2953,7 +3075,7 @@
     ],
     "price": 10.36,
     "priceFrom": false,
-    "stock": 3078,
+    "stock": 3055,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2103-03.jpg",
@@ -2962,7 +3084,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2103-03-side.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2103-03-detail.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -3098,7 +3220,7 @@
     ],
     "price": 6.16,
     "priceFrom": false,
-    "stock": 22720,
+    "stock": 22515,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2249-02.jpg",
@@ -3119,7 +3241,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2249-02-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2249-02-picture3.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 9,
     "colorCount": 9,
     "sizeCount": 0,
@@ -3274,7 +3396,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2265-03-open.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2265-03-top.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -3422,7 +3544,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2349-02-picture5.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2349-02-picture6.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 9,
     "colorCount": 9,
     "sizeCount": 0,
@@ -3570,7 +3692,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2570-13-ambiant.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2570-13-detail.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3696,7 +3818,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2571-03-top.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2571-03-detail.jpg"
     ],
-    "fetchedAt": "2026-09-25T08:46:53.461Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -3827,7 +3949,7 @@
     ],
     "price": 5.24,
     "priceFrom": false,
-    "stock": 438,
+    "stock": 433,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2649-13.jpg",
@@ -3838,7 +3960,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2649-13-print.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2649-13-detail.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3979,7 +4101,7 @@
       "https://cdn1.midocean.com/image/700X700/mo3171-03-picture1.jpg",
       "https://cdn1.midocean.com/image/700X700/mo3171-03-picture2.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -4010,6 +4132,12 @@
         "label": "Country of origin",
         "labelRo": "Țara de origine",
         "value": "CN"
+      },
+      {
+        "key": "commodity-code",
+        "label": "Commodity code",
+        "labelRo": "Cod tarifar",
+        "value": "6211 4210"
       },
       {
         "key": "outer-carton",
@@ -4103,7 +4231,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6164-03-print.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6164-03-detail.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -4257,7 +4385,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6260-13-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6260-13-box.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -4406,7 +4534,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6261-03-ambiant.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6261-03-box.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -4540,7 +4668,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6262-13-ambiant.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6262-13-detail.jpg"
     ],
-    "fetchedAt": "2026-08-29T10:01:05.341Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -4661,7 +4789,7 @@
     ],
     "price": 4.47,
     "priceFrom": false,
-    "stock": 2798,
+    "stock": 2698,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo6263-03.jpg",
@@ -4669,7 +4797,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6263-03-open.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6263-03-ambiant.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -4795,7 +4923,7 @@
     ],
     "price": 9.8,
     "priceFrom": false,
-    "stock": 4675,
+    "stock": 4674,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo6264-04.jpg",
@@ -4807,7 +4935,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6264-04-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6264-04-box.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -4928,7 +5056,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6381-07-top.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6381-07-ambiant.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -5047,7 +5175,7 @@
     ],
     "price": 1.29,
     "priceFrom": false,
-    "stock": 46337,
+    "stock": 46226,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo6871-04.jpg",
@@ -5056,7 +5184,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6871-04-back.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6871-04-side.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -5168,7 +5296,7 @@
     ],
     "price": 2.39,
     "priceFrom": false,
-    "stock": 38635,
+    "stock": 38630,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo7244-09.jpg",
@@ -5180,7 +5308,7 @@
       "https://cdn1.midocean.com/image/700X700/mo7244-09-print.jpg",
       "https://cdn1.midocean.com/image/700X700/mo7244-09-ambiant.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -5323,7 +5451,7 @@
     ],
     "price": 2.4,
     "priceFrom": false,
-    "stock": 139982,
+    "stock": 139290,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo7251-03.jpg",
@@ -5343,7 +5471,7 @@
       "https://cdn1.midocean.com/image/700X700/mo7251-03-print.jpg",
       "https://cdn1.midocean.com/image/700X700/mo7251-03-ambiant.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 13,
     "colorCount": 13,
     "sizeCount": 0,
@@ -5497,14 +5625,14 @@
     ],
     "price": 2.76,
     "priceFrom": false,
-    "stock": 0,
-    "stockLevel": "out-of-stock",
+    "stock": 4,
+    "stockLevel": "low",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo8305-03.jpg",
       "https://cdn1.midocean.com/image/700X700/mo8305-03-back.jpg",
       "https://cdn1.midocean.com/image/700X700/mo8305-03-ambiant.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -5622,14 +5750,14 @@
     ],
     "price": 1.85,
     "priceFrom": false,
-    "stock": 4702,
+    "stock": 4701,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo8409-06.jpg",
       "https://cdn1.midocean.com/image/700X700/mo8409-06-back.jpg",
       "https://cdn1.midocean.com/image/700X700/mo8409-06b.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -5769,7 +5897,7 @@
     ],
     "price": 3.15,
     "priceFrom": false,
-    "stock": 56993,
+    "stock": 56958,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo8441-03.jpg",
@@ -5786,7 +5914,7 @@
       "https://cdn1.midocean.com/image/700X700/mo8441-03-print.jpg",
       "https://cdn1.midocean.com/image/700X700/mo8441-03-ambiant.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 11,
     "colorCount": 11,
     "sizeCount": 0,
@@ -5935,7 +6063,7 @@
       "https://cdn1.midocean.com/image/700X700/mo9237-03a.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9237-03b.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

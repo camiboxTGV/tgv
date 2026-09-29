@@ -1,0 +1,41 @@
+[
+  {
+    "contentKey": "5b178bc92d19a6b7",
+    "supplierVariantId": "02001-02",
+    "stock": 80858,
+    "stockLevel": "in-stock",
+    "price": 0.09,
+    "color": {
+      "name": "Black"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "64e2ff0421b854e0",
+    "supplierVariantId": "02001-04",
+    "stock": 2,
+    "stockLevel": "low",
+    "price": 0.09,
+    "color": {
+      "name": "Red"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "85c6e430e0e2346d",
+    "supplierVariantId": "02001-03",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.09,
+    "color": {
+      "name": "Blue"
+    },
+    "imageRefs": [
+      1
+    ]
+  }
+]

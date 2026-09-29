@@ -1,0 +1,45 @@
+[
+  {
+    "contentKey": "63da71f9689516f9",
+    "supplierVariantId": "11202-OR",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.66,
+    "color": {
+      "name": "Gold",
+      "hex": "#FFD700"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "contentKey": "8f119db8cfb39d09",
+    "supplierVariantId": "11202-PT",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.66,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "imageRefs": [
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "a8d335ca1f9f7f58",
+    "supplierVariantId": "11202-BR",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 0.66,
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  }
+]

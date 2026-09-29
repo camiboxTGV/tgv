@@ -1,5 +1,108 @@
 [
   {
+    "slug": "bluecollection-16552",
+    "name": "Salt and pepper grinder GRINO",
+    "category": "home-and-living/kitchen-and-dining/salt-and-pepper-mills",
+    "summary": "GRINO is a sturdy wooden salt or pepper grinder that is perfect both in the kitchen and on an elegant table. Made of high quality wood, it ensures comfortable use and precise grinding of spices. Its classic form and n...",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "fiber-laser",
+      "pad-screen",
+      "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "G5",
+        "label": "Laser engraving",
+        "labelRo": "Gravură laser",
+        "printSizes": [
+          "30.00 x 40.00 mm",
+          "30.00 x 60.00 mm"
+        ]
+      },
+      {
+        "code": "N3",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "25.00 x 30.00 mm",
+          "25.00 x 90.00 mm"
+        ]
+      },
+      {
+        "code": "U1",
+        "label": "UV printing",
+        "labelRo": "Imprimare UV",
+        "printSizes": [
+          "25.00 x 185.00 mm",
+          "25.00 x 45.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "16552",
+    "supplierVariantIds": [
+      "16552-09"
+    ],
+    "price": 12.53,
+    "priceFrom": false,
+    "stock": 2678,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/16552-09.jpg",
+      "https://bluecollection.eu/assets/img/16552-09_d.jpg",
+      "https://bluecollection.eu/assets/img/16552-09_eh.jpg",
+      "https://bluecollection.eu/assets/img/16552-09_ep.jpg",
+      "https://bluecollection.eu/assets/img/16552-09_es.jpg",
+      "https://bluecollection.eu/assets/img/16552-09_f.jpg",
+      "https://bluecollection.eu/assets/img/16552-09_l.jpg",
+      "https://bluecollection.eu/assets/img/16552-09_m.jpg",
+      "https://bluecollection.eu/assets/img/16552-09_n.jpg",
+      "https://bluecollection.eu/assets/img/16552-09_zu.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/16552.html",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Brown"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "55 × 215 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "wood, metal, ceramic"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "30 pcs",
+        "valueRo": "30 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 376,
+    "descriptionLong": "GRINO is a sturdy wooden salt or pepper grinder that is perfect both in the kitchen and on an elegant table. Made of high quality wood, it ensures comfortable use and precise grinding of spices. Its classic form and natural finish give it a timeless character that is easy to match with different interior styles. GRINO is also a great gift option - individually or as a set of two mills packed in a gift box with a salt and pepper motif. The product is available with the option of branding to create a practical and stylish corporate gadget.",
+    "hasVariantDetail": false
+  },
+  {
     "slug": "macma-80337",
     "name": "Electric salt and pepper mill",
     "category": "home-and-living/kitchen-and-dining/salt-and-pepper-mills",
@@ -32,7 +135,7 @@
       "https://macma.ro/products/jpg/M/8033703_3.jpg",
       "https://macma.ro/products/jpg/M/8033703_box.jpg"
     ],
-    "fetchedAt": "2026-09-25T08:47:00.110Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -120,7 +223,7 @@
       "https://macma.ro/products/jpg/M/8068907_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8068907_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -200,7 +303,7 @@
     ],
     "price": 14.57,
     "priceFrom": false,
-    "stock": 2121,
+    "stock": 1976,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/81563mc_group.jpg",
@@ -215,7 +318,7 @@
       "https://macma.ro/products/jpg/M/81563mc_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/81563mc_lifestyle_8.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -304,7 +407,7 @@
       "https://macma.ro/products/jpg/M/8158703_3.jpg",
       "https://macma.ro/products/jpg/M/8158703_box.jpg"
     ],
-    "fetchedAt": "2026-09-23T08:32:14.374Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -402,7 +505,7 @@
       "https://macma.ro/products/jpg/M/8268277_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/8268277_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-09-08T08:02:54.970Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -473,17 +576,13 @@
         "code": "G2",
         "label": "Engraving 2",
         "labelRo": "Gravură 2",
-        "printSizes": [
-          "30 mm x 30 mm"
-        ]
+        "printSizes": []
       },
       {
         "code": "T2",
         "label": "Pad printing 2",
         "labelRo": "Tampografie 2",
-        "printSizes": [
-          "30 mm x 30 mm"
-        ]
+        "printSizes": []
       }
     ],
     "supplierId": "macma",
@@ -502,7 +601,7 @@
       "https://macma.ro/products/jpg/M/8546013_4.jpg",
       "https://macma.ro/products/jpg/M/8546013_5.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -550,6 +649,86 @@
     "brand": "M-Collection",
     "weightGrams": 292,
     "descriptionLong": "High-quality manual spice grinder made of bamboo and stainless steel with durable ceramic mechanism.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "macma-h2202000aj3",
+    "name": "Salt and pepper mill set",
+    "category": "home-and-living/kitchen-and-dining/salt-and-pepper-mills",
+    "summary": "Vanilla Season elegant salt and pepper mill set with a wooden stand. The mills are designed in a combination of acacia wood and stainless steel, which creates their timeless design. The grinding stones are ceramic. Pa...",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [],
+    "supplierPersonalizations": [],
+    "supplierId": "macma",
+    "supplierSku": "H2202000AJ3",
+    "supplierVariantIds": [
+      "H2202000AJ3"
+    ],
+    "price": 24.39,
+    "priceFrom": false,
+    "stock": 1007,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://macma.ro/products/jpg/PSV/VANILLA/h2202000aj3.jpg",
+      "https://macma.ro/products/jpg/PSV/VANILLA/h2202000aj3_a.jpg",
+      "https://macma.ro/products/jpg/PSV/VANILLA/h2202000aj3_b.jpg",
+      "https://macma.ro/products/jpg/PSV/VANILLA/h2202000aj3_c.jpg",
+      "https://macma.ro/products/jpg/PSV/VANILLA/h2202000aj3_d.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Brown",
+        "hex": "#8b4513"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "142 x 195 x 66 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Stainless_steel, Wood"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "69120029"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "16 pcs",
+        "valueRo": "16 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "16 pcs",
+        "valueRo": "16 buc."
+      }
+    ],
+    "brand": "Vanilla Season",
+    "weightGrams": 51,
+    "descriptionLong": "Vanilla Season elegant salt and pepper mill set with a wooden stand. The mills are designed in a combination of acacia wood and stainless steel, which creates their timeless design. The grinding stones are ceramic. Packed in a gift box.",
     "hasVariantDetail": false
   }
 ]

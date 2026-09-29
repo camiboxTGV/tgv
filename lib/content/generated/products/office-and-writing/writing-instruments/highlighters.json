@@ -1,5 +1,387 @@
 [
   {
+    "slug": "bluecollection-19043",
+    "name": "Highlighter TRIANGLE",
+    "category": "office-and-writing/writing-instruments/highlighters",
+    "summary": "Triangle-shaped highlighter. Comfortable and useful. It has 3 colour endings: yellow, green and pink. Logo might be made by pad-printing on the highlighter's surface.",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "N1",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "40.00 x 25.00 mm"
+        ]
+      },
+      {
+        "code": "U1",
+        "label": "UV printing",
+        "labelRo": "Imprimare UV",
+        "printSizes": [
+          "35.00 x 30.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "19043",
+    "supplierVariantIds": [
+      "19043-01"
+    ],
+    "price": 1.05,
+    "priceFrom": false,
+    "stock": 56246,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/19043-01.jpg",
+      "https://bluecollection.eu/assets/img/19043-01_d.jpg",
+      "https://bluecollection.eu/assets/img/19043-01_ep.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/19043.html",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "White"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "90.00 × 80.00 × 12.00 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "plastic"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "500 pcs",
+        "valueRo": "500 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 23,
+    "descriptionLong": "Triangle-shaped highlighter. Comfortable and useful. It has 3 colour endings: yellow, green and pink. Logo might be made by pad-printing on the highlighter's surface.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "bluecollection-19491",
+    "name": "Ballpoint pen with highlighter FLUO",
+    "category": "office-and-writing/writing-instruments/highlighters",
+    "summary": "The FLUO ballpoint pen is a practical combination of a ballpoint pen and highlighter in one body. Equipped with a twist mechanism and a metal clip, it combines the convenience of writing with the ability to highlight ...",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "N0",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "60.00 x 5.00 mm"
+        ]
+      },
+      {
+        "code": "U0",
+        "label": "UV printing",
+        "labelRo": "Imprimare UV",
+        "printSizes": [
+          "70.00 x 6.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "19491",
+    "supplierVariantIds": [
+      "19491-02",
+      "19491-03",
+      "19491-05",
+      "19491-12"
+    ],
+    "price": 0.72,
+    "priceFrom": true,
+    "stock": 18779,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/19491-02.jpg",
+      "https://bluecollection.eu/assets/img/19491-03.jpg",
+      "https://bluecollection.eu/assets/img/19491-05.jpg",
+      "https://bluecollection.eu/assets/img/19491-12.jpg",
+      "https://bluecollection.eu/assets/img/19491-02_d.jpg",
+      "https://bluecollection.eu/assets/img/19491-02_e.jpg",
+      "https://bluecollection.eu/assets/img/19491-02_f.jpg",
+      "https://bluecollection.eu/assets/img/19491-02_g.jpg",
+      "https://bluecollection.eu/assets/img/19491-02_k.jpg",
+      "https://bluecollection.eu/assets/img/19491-02_l.jpg",
+      "https://bluecollection.eu/assets/img/19491-02_m.jpg",
+      "https://bluecollection.eu/assets/img/19491-02_n.jpg",
+      "https://bluecollection.eu/assets/img/19491-02_zn.jpg",
+      "https://bluecollection.eu/assets/img/19491-02_zuv.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/19491.html",
+    "variantCount": 4,
+    "colorCount": 4,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black"
+      },
+      {
+        "name": "Blue"
+      },
+      {
+        "name": "Green"
+      },
+      {
+        "name": "Yellow"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "12.00 × 144.00 × 0 mm · 12.00 × 146 × 0 mm · 12.00 × 144.00 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "plastic"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1000 pcs",
+        "valueRo": "1000 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 13,
+    "descriptionLong": "The FLUO ballpoint pen is a practical combination of a ballpoint pen and highlighter in one body. Equipped with a twist mechanism and a metal clip, it combines the convenience of writing with the ability to highlight notes. The crayon-like highlighter does not dry out and is always ready to use. The compact design makes FLUO suitable for the office, university and on the go.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "bluecollection-19667",
+    "name": "Ball pen with highlighter HILIG",
+    "category": "office-and-writing/writing-instruments/highlighters",
+    "summary": "HILIG are two useful gadgets in one. At the top of a traditional ballpoint pen, there is a brightly colored highlighter. The body of the ballpoint pen is covered with a rubber coating and is smooth and pleasant to tou...",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "N1",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "25.00 x 6.00 mm"
+        ]
+      },
+      {
+        "code": "U0",
+        "label": "UV printing",
+        "labelRo": "Imprimare UV",
+        "printSizes": [
+          "30.00 x 6.00 mm",
+          "60.00 x 6.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "19667",
+    "supplierVariantIds": [
+      "19667-07",
+      "19667-12",
+      "19667-13"
+    ],
+    "price": 0.9,
+    "priceFrom": false,
+    "stock": 52900,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/19667-12.jpg",
+      "https://bluecollection.eu/assets/img/19667-07.jpg",
+      "https://bluecollection.eu/assets/img/19667-13.jpg",
+      "https://bluecollection.eu/assets/img/19667-12_d.jpg",
+      "https://bluecollection.eu/assets/img/19667-12_d_LOGO.jpg",
+      "https://bluecollection.eu/assets/img/19667-12_e.jpg",
+      "https://bluecollection.eu/assets/img/19667-12_f.jpg",
+      "https://bluecollection.eu/assets/img/19667-12_g.jpg",
+      "https://bluecollection.eu/assets/img/19667-12_l.jpg",
+      "https://bluecollection.eu/assets/img/19667-12_zuvzn.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/19667.html",
+    "variantCount": 3,
+    "colorCount": 3,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Light green"
+      },
+      {
+        "name": "Orange"
+      },
+      {
+        "name": "Yellow"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "12.00 × 144.00 × 0.00 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "plastic, rubberised plastic - soft touch finish"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1000 pcs",
+        "valueRo": "1000 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 11,
+    "descriptionLong": "HILIG are two useful gadgets in one. At the top of a traditional ballpoint pen, there is a brightly colored highlighter. The body of the ballpoint pen is covered with a rubber coating and is smooth and pleasant to touch. Pen with a twist mechanism, blue ink refill.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "bluecollection-19675",
+    "name": "Highlighter SNAP",
+    "category": "office-and-writing/writing-instruments/highlighters",
+    "summary": "SNAP is a new type of highlighter in the form of an automatic pen. The highlighter is turned on and off by pressing the button on the top. The highlighter is additionally secured against drying out by a cap. The body ...",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
+    "personalizations": [
+      "pad-screen",
+      "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "N1",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "20.00 x 5.00 mm"
+        ]
+      },
+      {
+        "code": "U0",
+        "label": "UV printing",
+        "labelRo": "Imprimare UV",
+        "printSizes": [
+          "25.00 x 5.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "19675",
+    "supplierVariantIds": [
+      "19675-07"
+    ],
+    "price": 0.71,
+    "priceFrom": false,
+    "stock": 1077,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/19675-07.jpg",
+      "https://bluecollection.eu/assets/img/19675-07_d.jpg",
+      "https://bluecollection.eu/assets/img/19675-07_d_LOGO.jpg",
+      "https://bluecollection.eu/assets/img/19675-07_e.jpg",
+      "https://bluecollection.eu/assets/img/19675-07_f.jpg",
+      "https://bluecollection.eu/assets/img/19675-07_g.jpg",
+      "https://bluecollection.eu/assets/img/19675-07_l.jpg",
+      "https://bluecollection.eu/assets/img/19675-07_m.jpg",
+      "https://bluecollection.eu/assets/img/19675-07_zn.jpg",
+      "https://bluecollection.eu/assets/img/19675-07_zuv.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/19675.html",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Orange"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "152.00 × 13.00 × 0.00 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "plastic"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1000 pcs",
+        "valueRo": "1000 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 12,
+    "descriptionLong": "SNAP is a new type of highlighter in the form of an automatic pen. The highlighter is turned on and off by pressing the button on the top. The highlighter is additionally secured against drying out by a cap. The body is made of white plastic with a clip and tips matching the color of the highlighter.",
+    "hasVariantDetail": false
+  },
+  {
     "slug": "cifra-b-136",
     "name": "BOOKMARK \"IDEA\"",
     "category": "office-and-writing/writing-instruments/highlighters",
@@ -40,7 +422,7 @@
       "https://www.publicatalogue.com/image/cache/data/B-136-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/B-136-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,
@@ -89,7 +471,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "252"
+        "value": "GENERAL:252"
       }
     ],
     "weightGrams": 9,
@@ -135,11 +517,11 @@
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/B-137-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/B-137-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/B-137-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/B-137-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/B-137-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,
@@ -188,7 +570,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "252"
+        "value": "GENERAL:252"
       }
     ],
     "weightGrams": 17,
@@ -245,7 +627,7 @@
       "https://www.publicatalogue.com/image/cache/data/details/B-138-05-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/B-138-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,
@@ -294,7 +676,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "251"
+        "value": "GENERAL:251"
       }
     ],
     "weightGrams": 56,
@@ -331,13 +713,13 @@
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/B-347-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/B-347-02-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/B-347-04-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/B-347-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/B-347-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/B-347-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/B-347-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/B-347-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/B-347-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,
@@ -393,7 +775,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "252"
+        "value": "GENERAL:252"
       }
     ],
     "weightGrams": 58,
@@ -430,14 +812,14 @@
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/B-348-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/B-348-03-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/B-348-01-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/B-348-04-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/B-348-06-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/B-348-05-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/B-348-02-500x500.jpg"
+      "https://www.publicatalogue.com/image/cache/data/details/B-348-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/B-348-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/B-348-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/B-348-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/B-348-05-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,
@@ -499,7 +881,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "251"
+        "value": "GENERAL:251"
       }
     ],
     "weightGrams": 311,
@@ -536,12 +918,12 @@
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/B-349-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/B-349-02-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/B-349-04-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/B-349-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/B-349-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/B-349-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/B-349-03-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,
@@ -597,7 +979,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "251"
+        "value": "GENERAL:251"
       }
     ],
     "weightGrams": 150,
@@ -644,7 +1026,7 @@
     "images": [
       "https://www.publicatalogue.com/image/cache/data/B-377-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-15T08:38:34.923Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,
@@ -693,7 +1075,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "252"
+        "value": "GENERAL:252"
       }
     ],
     "weightGrams": 9,
@@ -739,11 +1121,11 @@
     "images": [
       "https://www.publicatalogue.com/image/cache/data/B-424-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/B-424-02-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/B-424-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/B-424-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/B-424-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/B-424-04-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,
@@ -792,7 +1174,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "251"
+        "value": "GENERAL:251"
       }
     ],
     "weightGrams": 110,
@@ -826,7 +1208,7 @@
     ],
     "price": 0.53,
     "priceFrom": false,
-    "stock": 44580,
+    "stock": 34580,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/1096529_0.jpg",
@@ -855,7 +1237,7 @@
       "https://macma.ro/products/jpg/M/1096524_3.jpg",
       "https://macma.ro/products/jpg/M/1096524_4.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -960,7 +1342,7 @@
       "https://macma.ro/products/jpg/M/1353503_3.jpg",
       "https://macma.ro/products/jpg/M/1353503_4.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1055,7 +1437,7 @@
       "https://macma.ro/products/jpg/M/1388306_2.jpg",
       "https://macma.ro/products/jpg/M/1388306_3.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1150,7 +1532,7 @@
       "https://macma.ro/products/jpg/M/1395208_2.jpg",
       "https://macma.ro/products/jpg/M/1395208_3.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1232,7 +1614,7 @@
     ],
     "price": 1.22,
     "priceFrom": false,
-    "stock": 7164,
+    "stock": 7163,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/15593mc_0.jpg",
@@ -1242,7 +1624,7 @@
       "https://macma.ro/products/jpg/M/15593mc_4_lifestyle.jpg",
       "https://macma.ro/products/jpg/M/15593mc_5_lifestyle.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1325,7 +1707,7 @@
     ],
     "price": 1.34,
     "priceFrom": false,
-    "stock": 25894,
+    "stock": 25886,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/1561608_0.jpg",
@@ -1348,7 +1730,7 @@
       "https://macma.ro/products/jpg/M/1561610_7_lifestyle.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/1561610_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -1446,7 +1828,7 @@
       "https://macma.ro/products/jpg/M/2348606_5.jpg",
       "https://macma.ro/products/jpg/M/2348606_7.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1545,7 +1927,7 @@
       "https://macma.ro/products/jpg/M/24721mc_8.jpg",
       "https://macma.ro/products/jpg/M/24721mc_9.jpg"
     ],
-    "fetchedAt": "2026-09-25T08:47:00.110Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1651,7 +2033,7 @@
       "https://cdn1.midocean.com/image/700X700/kc2520-99.jpg",
       "https://cdn1.midocean.com/image/700X700/kc2520-99-back.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1757,7 +2139,7 @@
     ],
     "price": 0.45,
     "priceFrom": false,
-    "stock": 66246,
+    "stock": 66144,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2427-70.jpg",
@@ -1768,7 +2150,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2427-70-ambiant.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2427-70-detail.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -1879,7 +2261,7 @@
     ],
     "price": 0.71,
     "priceFrom": false,
-    "stock": 18276,
+    "stock": 18076,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo2812-13.jpg",
@@ -1890,7 +2272,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2812-13-picture1.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2812-13-picture6.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2003,7 +2385,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6836-99-side.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6836-99-ambiant.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2098,13 +2480,13 @@
     ],
     "price": 0.45,
     "priceFrom": false,
-    "stock": 10054,
+    "stock": 9954,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo7440-08.jpg",
       "https://cdn1.midocean.com/image/700X700/mo7440-10.jpg"
     ],
-    "fetchedAt": "2026-09-25T08:46:53.461Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -2201,14 +2583,14 @@
     ],
     "price": 1.26,
     "priceFrom": false,
-    "stock": 111608,
+    "stock": 111583,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo7448-99.jpg",
       "https://cdn1.midocean.com/image/700X700/mo7448-99-back.jpg",
       "https://cdn1.midocean.com/image/700X700/mo7448-99-print.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2302,7 +2684,7 @@
     ],
     "price": 0.48,
     "priceFrom": false,
-    "stock": 118232,
+    "stock": 117832,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo7818-06.jpg",
@@ -2310,7 +2692,7 @@
       "https://cdn1.midocean.com/image/700X700/mo7818-06-print.jpg",
       "https://cdn1.midocean.com/image/700X700/mo7818-06-ambiant.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2404,13 +2786,13 @@
     ],
     "price": 1.13,
     "priceFrom": false,
-    "stock": 22526,
+    "stock": 22376,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo8783-06.jpg",
       "https://cdn1.midocean.com/image/700X700/mo8783-06a.jpg"
     ],
-    "fetchedAt": "2026-09-26T08:33:23.778Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2512,14 +2894,14 @@
     ],
     "price": 0.3,
     "priceFrom": false,
-    "stock": 27950,
+    "stock": 27750,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo9895-08.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9895-08-back.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9895-08-detail.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

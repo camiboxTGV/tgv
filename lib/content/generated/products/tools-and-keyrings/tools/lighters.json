@@ -39,10 +39,10 @@
     "images": [
       "https://www.publicatalogue.com/image/cache/data/10558-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10558-04-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10558-01-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10558-03-500x500.jpg"
+      "https://www.publicatalogue.com/image/cache/data/details/10558-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10558-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-18T08:12:40.028Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,
@@ -98,7 +98,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "162"
+        "value": "GENERAL:162"
       }
     ],
     "weightGrams": 5,
@@ -144,11 +144,11 @@
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/10559-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10559-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10559-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10559-01-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10559-03-500x500.jpg"
+      "https://www.publicatalogue.com/image/cache/data/details/10559-04-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,
@@ -204,7 +204,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "162"
+        "value": "GENERAL:162"
       }
     ],
     "weightGrams": 5,
@@ -262,23 +262,23 @@
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/11015-MA-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/11015-MA-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/11015-MA-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11015-MA-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/11015-MA-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/11015-NE-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/11015-NE-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/11015-NE-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/11015-NE-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11015-NE-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/11015-RO-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11015-RO-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/11015-RO-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/11015-RO-01-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/11015-RO-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/11015-VE-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/11015-VE-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/11015-VE-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11015-VE-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/11015-VE-02-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -338,7 +338,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "363"
+        "value": "GENERAL:363 XMAS:241"
       }
     ],
     "weightGrams": 15,
@@ -400,7 +400,7 @@
       "https://www.publicatalogue.com/image/cache/data/details/11068-NE-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/11068-NE-02-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -459,12 +459,100 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "363"
+        "value": "GENERAL:363 XMAS:241"
       }
     ],
     "weightGrams": 12,
     "descriptionLong": "PU keychain with a sophisticated finish and reinforced stitching, available in a rectangular shape (model 11015) or a round shape (model 11068).It features a central area ideal for laser marking with a mirror-gloss effect.",
     "hasVariantDetail": true
+  },
+  {
+    "slug": "cifra-11125",
+    "name": "SET OF PU KEYRINGS “SINTRA”",
+    "category": "tools-and-keyrings/tools/lighters",
+    "summary": "Rectangular PU keyring in pastel tones, lightweight and ideal for organizing keys with a touch of colour. It is sold assorted in bags of 6 pieces. Each keyring is individually bagged.",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "D",
+        "label": "Cifra decoration code D",
+        "labelRo": "Cod personalizare Cifra D",
+        "printSizes": [
+          "15x40 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "11125",
+    "supplierVariantIds": [
+      "11125"
+    ],
+    "price": 1.98,
+    "priceFrom": false,
+    "stock": 3000,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/11125-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11125-05-500x500.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
+    "variantCount": 1,
+    "colorCount": 0,
+    "sizeCount": 0,
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "2.7 × 9 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "PU"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "30,0 x 25,0 x 30,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "8 kg",
+        "valueRo": "8 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "7 kg",
+        "valueRo": "7 kg"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "XMAS:241"
+      }
+    ],
+    "weightGrams": 37,
+    "descriptionLong": "Rectangular PU keyring in pastel tones, lightweight and ideal for organizing keys with a touch of colour. It is sold assorted in bags of 6 pieces. Each keyring is individually bagged.",
+    "hasVariantDetail": false
   },
   {
     "slug": "cifra-b-013",
@@ -520,7 +608,7 @@
       "https://www.publicatalogue.com/image/cache/data/details/B-013-RO-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/B-013-RO-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:44.113Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -587,7 +675,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "162"
+        "value": "GENERAL:162"
       }
     ],
     "weightGrams": 9,
@@ -635,7 +723,7 @@
       "https://www.publicatalogue.com/image/cache/data/B-069-PT-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/B-069-PT-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -702,7 +790,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "380"
+        "value": "GENERAL:380"
       }
     ],
     "weightGrams": 17,
@@ -758,7 +846,7 @@
       "https://www.publicatalogue.com/image/cache/data/B-492-NE-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/B-492-NE-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -825,7 +913,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "368"
+        "value": "GENERAL:368 XMAS:241"
       }
     ],
     "weightGrams": 9,
@@ -880,8 +968,8 @@
       "https://www.publicatalogue.com/image/cache/data/details/LL-010-FRA-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/LL-010-FRA-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/LL-010-ITA-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/LL-010-ITA-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/LL-010-ITA-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/LL-010-ITA-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/LL-010-MA-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/LL-010-MA-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/LL-010-MA-01-500x500.jpg",
@@ -891,7 +979,7 @@
       "https://www.publicatalogue.com/image/cache/data/LL-010-VE-MILITAR-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/LL-010-VE-MILITAR-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 5,
     "colorCount": 4,
     "sizeCount": 0,
@@ -963,7 +1051,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "374"
+        "value": "GENERAL:374 XMAS:242"
       }
     ],
     "weightGrams": 8,
@@ -1009,10 +1097,10 @@
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/LL-010-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/LL-010-01-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/LL-010-02-500x500.jpg"
+      "https://www.publicatalogue.com/image/cache/data/details/LL-010-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/LL-010-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,
@@ -1074,7 +1162,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "374"
+        "value": "GENERAL:374 XMAS:242"
       }
     ],
     "weightGrams": 9,
@@ -1114,7 +1202,7 @@
       "https://www.publicatalogue.com/image/cache/data/details/P-006-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/P-006-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:44.113Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,
@@ -1163,7 +1251,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "389"
+        "value": "GENERAL:389"
       }
     ],
     "weightGrams": 12,
@@ -1200,11 +1288,11 @@
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/P-007-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/P-007-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/P-007-02-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/P-007-03-500x500.jpg"
+      "https://www.publicatalogue.com/image/cache/data/details/P-007-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/P-007-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,
@@ -1284,10 +1372,10 @@
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/Z-649-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/Z-649-02-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/Z-649-01-500x500.jpg"
+      "https://www.publicatalogue.com/image/cache/data/details/Z-649-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/Z-649-02-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,
@@ -1336,7 +1424,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "370"
+        "value": "GENERAL:370"
       }
     ],
     "weightGrams": 16,
@@ -1379,7 +1467,7 @@
     ],
     "price": 0.34,
     "priceFrom": false,
-    "stock": 342220,
+    "stock": 341576,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/9004608_0.jpg",
@@ -1396,7 +1484,7 @@
       "https://macma.ro/products/jpg/M/9004603_0.jpg",
       "https://macma.ro/products/jpg/M/9004603_1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -1432,7 +1520,7 @@
         "key": "dimensions",
         "label": "Dimensions",
         "labelRo": "Dimensiuni",
-        "value": "2,9 x 1,6 x 8,6 cm · 1 x 2,4 x 8 cm"
+        "value": "1 x 2,4 x 8 cm"
       },
       {
         "key": "materials",
@@ -1444,7 +1532,7 @@
         "key": "country-of-origin",
         "label": "Country of origin",
         "labelRo": "Țara de origine",
-        "value": "VN · CN"
+        "value": "CN"
       },
       {
         "key": "customs-tariff",
@@ -1468,7 +1556,7 @@
       }
     ],
     "brand": "M-Collection",
-    "weightGrams": 18,
+    "weightGrams": 19,
     "descriptionLong": "Electronic plastic lighter with flame regulation.",
     "hasVariantDetail": true
   },
@@ -1523,7 +1611,7 @@
       "https://macma.ro/products/jpg/M/9097604_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/9097604_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -1624,7 +1712,7 @@
       "https://macma.ro/products/jpg/M/9097706_3.jpg",
       "https://macma.ro/products/jpg/M/9097706_4.jpg"
     ],
-    "fetchedAt": "2026-09-22T08:30:04.753Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1716,7 +1804,7 @@
     ],
     "price": 0.32,
     "priceFrom": false,
-    "stock": 375368,
+    "stock": 375168,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/9110606_0.jpg",
@@ -1732,7 +1820,7 @@
       "https://macma.ro/products/jpg/M/9110604_1_print.jpg",
       "https://macma.ro/products/jpg/M/9110607_0.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -1844,7 +1932,7 @@
     ],
     "price": 0.2,
     "priceFrom": false,
-    "stock": 512112,
+    "stock": 511312,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/9110710_0.jpg",
@@ -1866,7 +1954,7 @@
       "https://macma.ro/products/jpg/M/9110704_1.jpg",
       "https://macma.ro/products/jpg/M/9110704_2.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -1974,7 +2062,7 @@
     ],
     "price": 0.49,
     "priceFrom": false,
-    "stock": 203996,
+    "stock": 203946,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/9139206_0.jpg",
@@ -1986,7 +2074,7 @@
       "https://macma.ro/products/jpg/M/9139203_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/9139203_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -2071,7 +2159,7 @@
     ],
     "price": 0.71,
     "priceFrom": false,
-    "stock": 100320,
+    "stock": 100178,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/9316703_0.jpg",
@@ -2081,7 +2169,7 @@
       "https://macma.ro/products/jpg/M/9316706_1.jpg",
       "https://macma.ro/products/jpg/M/9316706_2.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -2177,7 +2265,7 @@
     ],
     "price": 0.53,
     "priceFrom": false,
-    "stock": 1708704,
+    "stock": 1708254,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/9377703_0.jpg",
@@ -2185,6 +2273,7 @@
       "https://macma.ro/products/jpg/M/9377703_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/9377703_lifestyle_1.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/9377703_lifestyle_2.jpg",
+      "https://macma.ro/products/jpg/M/lifestyle/9377703_lifestyle_3.jpg",
       "https://macma.ro/products/jpg/M/9377712_0.jpg",
       "https://macma.ro/products/jpg/M/9377712_1.jpg",
       "https://macma.ro/products/jpg/M/9377712_2.jpg",
@@ -2222,7 +2311,7 @@
       "https://macma.ro/products/jpg/M/9377724_1.jpg",
       "https://macma.ro/products/jpg/M/9377724_2.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 13,
     "colorCount": 13,
     "sizeCount": 0,
@@ -2340,9 +2429,7 @@
         "code": "T1",
         "label": "Pad printing 1",
         "labelRo": "Tampografie 1",
-        "printSizes": [
-          "15 mm x 50 mm"
-        ]
+        "printSizes": []
       }
     ],
     "supplierId": "macma",
@@ -2357,7 +2444,7 @@
     ],
     "price": 0.3,
     "priceFrom": false,
-    "stock": 115230,
+    "stock": 114580,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/M/9526603.jpg",
@@ -2385,7 +2472,7 @@
       "https://macma.ro/products/jpg/M/9526609_1.jpg",
       "https://macma.ro/products/jpg/M/9526609_2.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -2513,7 +2600,7 @@
       "https://macma.ro/products/jpg/M/9755208_1.jpg",
       "https://macma.ro/products/jpg/M/9755208_2.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -2622,7 +2709,7 @@
       "https://macma.ro/products/jpg/M/9874198_box.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/9874198_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2704,7 +2791,7 @@
     ],
     "price": 14.46,
     "priceFrom": false,
-    "stock": 1446,
+    "stock": 1444,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/PSV/SCHWARZ/h6800200aj3_1.jpg",
@@ -2714,7 +2801,7 @@
       "https://macma.ro/products/jpg/PSV/SCHWARZ/h6800200aj3_5.jpg",
       "https://macma.ro/products/jpg/PSV/SCHWARZ/h6800200aj3_6.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2765,100 +2852,6 @@
     "hasVariantDetail": false
   },
   {
-    "slug": "macma-calbuco",
-    "name": "CALBUCO lighter with flashlight",
-    "category": "tools-and-keyrings/tools/lighters",
-    "summary": "Electrical rechargeable windproof Schwarzwolf lighter with a COB flashlight. The lighter works on the basis of electric discharge instead of a fame. The flashlight has a three different modes of lighting. It is charde...",
-    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
-    "personalizations": [
-      "pad-screen"
-    ],
-    "supplierPersonalizations": [
-      {
-        "code": "T3",
-        "label": "Pad printing 3",
-        "labelRo": "Tampografie 3",
-        "printSizes": [
-          "10 × 8"
-        ]
-      }
-    ],
-    "supplierId": "macma",
-    "supplierSku": "CALBUCO",
-    "supplierVariantIds": [
-      "H6800300AJ3"
-    ],
-    "price": 12.93,
-    "priceFrom": false,
-    "stock": 2361,
-    "stockLevel": "in-stock",
-    "images": [
-      "https://macma.ro/products/jpg/PSV/SCHWARZ/h6800300aj3_1.jpg",
-      "https://macma.ro/products/jpg/PSV/SCHWARZ/h6800300aj3_2.jpg",
-      "https://macma.ro/products/jpg/PSV/SCHWARZ/h6800300aj3_3.jpg",
-      "https://macma.ro/products/jpg/PSV/SCHWARZ/h6800300aj3_4.jpg",
-      "https://macma.ro/products/jpg/PSV/SCHWARZ/h6800300aj3_5.jpg",
-      "https://macma.ro/products/jpg/PSV/SCHWARZ/h6800300aj3_6.jpg",
-      "https://macma.ro/products/jpg/PSV/SCHWARZ/h6800300aj3_7.jpg",
-      "https://macma.ro/products/jpg/PSV/SCHWARZ/h6800300aj3_8.jpg",
-      "https://macma.ro/products/jpg/PSV/SCHWARZ/h6800300aj3_9.jpg"
-    ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
-    "variantCount": 1,
-    "colorCount": 1,
-    "sizeCount": 0,
-    "colorSwatches": [
-      {
-        "name": "Transparent",
-        "hex": "#ececec"
-      }
-    ],
-    "availableSizes": [],
-    "specifications": [
-      {
-        "key": "dimensions",
-        "label": "Dimensions",
-        "labelRo": "Dimensiuni",
-        "value": "74 × 18 × 50"
-      },
-      {
-        "key": "materials",
-        "label": "Materials",
-        "labelRo": "Materiale",
-        "value": "Metal, Plastic"
-      },
-      {
-        "key": "country-of-origin",
-        "label": "Country of origin",
-        "labelRo": "Țara de origine",
-        "value": "CN"
-      },
-      {
-        "key": "customs-tariff",
-        "label": "Customs tariff code",
-        "labelRo": "Cod tarifar vamal",
-        "value": "96138000"
-      },
-      {
-        "key": "inner-carton",
-        "label": "Inner carton",
-        "labelRo": "Cutie interioară",
-        "value": "100 pcs",
-        "valueRo": "100 buc."
-      },
-      {
-        "key": "export-carton",
-        "label": "Export carton",
-        "labelRo": "Cutie export",
-        "value": "100 pcs",
-        "valueRo": "100 buc."
-      }
-    ],
-    "brand": "Schwarzwolf",
-    "descriptionLong": "Electrical rechargeable windproof Schwarzwolf lighter with a COB flashlight. The lighter works on the basis of electric discharge instead of a fame. The flashlight has a three different modes of lighting. It is charded via a USB cable that is included in the package. The charging time of lighter is 1–2 hours and full lighter lasts approximately one week or after 100–200 sparks. Packed in a gift box.",
-    "hasVariantDetail": false
-  },
-  {
     "slug": "macma-h6800100ip3",
     "name": "Rechargable electric lighter",
     "category": "tools-and-keyrings/tools/lighters",
@@ -2894,7 +2887,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/h6800100ip3_5.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/h6800100ip3_6.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2951,11 +2944,105 @@
     "hasVariantDetail": false
   },
   {
-    "slug": "macma-smart",
+    "slug": "macma-h6800300aj3",
+    "name": "CALBUCO lighter with flashlight",
+    "category": "tools-and-keyrings/tools/lighters",
+    "summary": "Electrical rechargeable windproof Schwarzwolf lighter with a COB flashlight. The lighter works on the basis of electric discharge instead of a fame. The flashlight has a three different modes of lighting. It is charde...",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "T3",
+        "label": "Pad printing 3",
+        "labelRo": "Tampografie 3",
+        "printSizes": [
+          "10 × 8"
+        ]
+      }
+    ],
+    "supplierId": "macma",
+    "supplierSku": "H6800300AJ3",
+    "supplierVariantIds": [
+      "H6800300AJ3"
+    ],
+    "price": 12.93,
+    "priceFrom": false,
+    "stock": 2360,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://macma.ro/products/jpg/PSV/SCHWARZ/h6800300aj3_1.jpg",
+      "https://macma.ro/products/jpg/PSV/SCHWARZ/h6800300aj3_2.jpg",
+      "https://macma.ro/products/jpg/PSV/SCHWARZ/h6800300aj3_3.jpg",
+      "https://macma.ro/products/jpg/PSV/SCHWARZ/h6800300aj3_4.jpg",
+      "https://macma.ro/products/jpg/PSV/SCHWARZ/h6800300aj3_5.jpg",
+      "https://macma.ro/products/jpg/PSV/SCHWARZ/h6800300aj3_6.jpg",
+      "https://macma.ro/products/jpg/PSV/SCHWARZ/h6800300aj3_7.jpg",
+      "https://macma.ro/products/jpg/PSV/SCHWARZ/h6800300aj3_8.jpg",
+      "https://macma.ro/products/jpg/PSV/SCHWARZ/h6800300aj3_9.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Transparent",
+        "hex": "#ececec"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "74 × 18 × 50"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Metal, Plastic"
+      },
+      {
+        "key": "country-of-origin",
+        "label": "Country of origin",
+        "labelRo": "Țara de origine",
+        "value": "CN"
+      },
+      {
+        "key": "customs-tariff",
+        "label": "Customs tariff code",
+        "labelRo": "Cod tarifar vamal",
+        "value": "96138000"
+      },
+      {
+        "key": "inner-carton",
+        "label": "Inner carton",
+        "labelRo": "Cutie interioară",
+        "value": "100 pcs",
+        "valueRo": "100 buc."
+      },
+      {
+        "key": "export-carton",
+        "label": "Export carton",
+        "labelRo": "Cutie export",
+        "value": "100 pcs",
+        "valueRo": "100 buc."
+      }
+    ],
+    "brand": "Schwarzwolf",
+    "descriptionLong": "Electrical rechargeable windproof Schwarzwolf lighter with a COB flashlight. The lighter works on the basis of electric discharge instead of a fame. The flashlight has a three different modes of lighting. It is charded via a USB cable that is included in the package. The charging time of lighter is 1–2 hours and full lighter lasts approximately one week or after 100–200 sparks. Packed in a gift box.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "macma-h6802000ip3",
     "name": "SMART rechargeable lighter",
     "category": "tools-and-keyrings/tools/lighters",
     "summary": "Pierre Cardin rechargeable electric lighter in a gunmetal colour. The lighter has a smooth glossy surface and an elegant design. It is charged by USB cable, which is included in the package. The lighter has a battery ...",
-    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 60%, #4D4D4D 100%)",
     "personalizations": [
       "fiber-laser"
     ],
@@ -2970,7 +3057,7 @@
       }
     ],
     "supplierId": "macma",
-    "supplierSku": "SMART",
+    "supplierSku": "H6802000IP3",
     "supplierVariantIds": [
       "H6802000IP3"
     ],
@@ -2986,7 +3073,7 @@
       "https://macma.ro/products/jpg/PSV/PIERRE/h6802000ip3_5.jpg",
       "https://macma.ro/products/jpg/PSV/PIERRE/h6802000ip3_6.jpg"
     ],
-    "fetchedAt": "2026-09-12T07:53:31.242Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,

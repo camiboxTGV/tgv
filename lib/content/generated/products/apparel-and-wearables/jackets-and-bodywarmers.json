@@ -82,7 +82,7 @@
       "https://macma.ro/products/jpg/TEXTIL/RUSSEL/140f-azureblue_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/RUSSEL/140f-titanium_1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 38,
     "colorCount": 5,
     "sizeCount": 5,
@@ -242,7 +242,7 @@
       "https://macma.ro/products/jpg/TEXTIL/RUSSEL/140m-azureblue_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/RUSSEL/140m-titanium_1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 37,
     "colorCount": 5,
     "sizeCount": 5,
@@ -378,7 +378,7 @@
       "https://macma.ro/products/jpg/TEXTIL/RUSSEL/440f-irongrey_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/RUSSEL/440f-darkolive_1.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:42.738Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 16,
     "colorCount": 4,
     "sizeCount": 5,
@@ -522,7 +522,7 @@
       "https://macma.ro/products/jpg/TEXTIL/RUSSEL/440m-irongrey_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/RUSSEL/440m-darkolive_1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 28,
     "colorCount": 4,
     "sizeCount": 4,
@@ -690,7 +690,7 @@
       "https://macma.ro/products/jpg/TEXTIL/RUSSEL/441f-darkolive_model-2.jpg",
       "https://macma.ro/products/jpg/TEXTIL/RUSSEL/441f-darkolive_model-3.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 25,
     "colorCount": 4,
     "sizeCount": 5,
@@ -866,7 +866,7 @@
       "https://macma.ro/products/jpg/TEXTIL/RUSSEL/441m-darkolive_model-2.jpg",
       "https://macma.ro/products/jpg/TEXTIL/RUSSEL/441m-darkolive_model-3.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 26,
     "colorCount": 4,
     "sizeCount": 4,
@@ -1004,6 +1004,10 @@
       "BS021008",
       "BS021009",
       "BS021010",
+      "BS021306",
+      "BS021308",
+      "BS021309",
+      "BS021310",
       "BS022006",
       "BS022007",
       "BS022010",
@@ -1015,7 +1019,7 @@
     ],
     "price": 8.75,
     "priceFrom": false,
-    "stock": 18700,
+    "stock": 18769,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs02-white_1back.jpg",
@@ -1042,6 +1046,9 @@
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs02-orange_1back.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs02-orange_front.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs02-orange_side.jpg",
+      "https://macma.ro/products/jpg/TEXTIL/B&C/bs02-purple_1back.jpg",
+      "https://macma.ro/products/jpg/TEXTIL/B&C/bs02-purple_front.jpg",
+      "https://macma.ro/products/jpg/TEXTIL/B&C/bs02-purple_side.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs02-gold_1back.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs02-gold_front.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs02-gold_side.jpg",
@@ -1049,9 +1056,9 @@
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs02-atoll_front.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs02-atoll_side.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
-    "variantCount": 51,
-    "colorCount": 10,
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
+    "variantCount": 55,
+    "colorCount": 11,
     "sizeCount": 4,
     "colorSwatches": [
       {
@@ -1073,6 +1080,10 @@
       {
         "name": "Orange",
         "hex": "#e19d39"
+      },
+      {
+        "name": "Purple",
+        "hex": "#523879"
       },
       {
         "name": "Red",
@@ -1222,7 +1233,7 @@
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs25-darkgrey_1back.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs25-darkgrey_front.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 28,
     "colorCount": 5,
     "sizeCount": 4,
@@ -1354,7 +1365,7 @@
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs27-navy_front.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs27-navy_side.jpg"
     ],
-    "fetchedAt": "2026-09-16T08:33:19.558Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 11,
     "colorCount": 2,
     "sizeCount": 4,
@@ -1486,7 +1497,7 @@
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs31-red_1back_2.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs31-red_front.jpg"
     ],
-    "fetchedAt": "2026-09-25T08:47:00.110Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 17,
     "colorCount": 4,
     "sizeCount": 5,
@@ -1624,7 +1635,7 @@
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs60-azure_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs60-azure_2.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 18,
     "colorCount": 4,
     "sizeCount": 4,
@@ -1773,7 +1784,7 @@
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs61-azure_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs61-darkgrey_1.jpg"
     ],
-    "fetchedAt": "2026-09-01T08:37:03.524Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 30,
     "colorCount": 6,
     "sizeCount": 5,
@@ -1913,7 +1924,7 @@
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs66-royalblue_0.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs66-royalblue_x.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 32,
     "colorCount": 4,
     "sizeCount": 5,
@@ -2048,7 +2059,7 @@
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs67-red_front.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs67-red_side.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 21,
     "colorCount": 4,
     "sizeCount": 4,
@@ -2190,7 +2201,7 @@
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs69-darkgrey_front.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs69-atoll_front.jpg"
     ],
-    "fetchedAt": "2026-09-24T08:24:51.499Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 25,
     "colorCount": 6,
     "sizeCount": 4,
@@ -2347,7 +2358,7 @@
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs70-darkgrey_front.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs70-atoll_front.jpg"
     ],
-    "fetchedAt": "2026-09-25T08:47:00.110Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 32,
     "colorCount": 6,
     "sizeCount": 5,
@@ -2526,7 +2537,7 @@
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs78-darkgrey_front_2.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs78-darkgrey_side.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 29,
     "colorCount": 6,
     "sizeCount": 4,
@@ -2707,7 +2718,7 @@
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs79-darkgrey_front_2.jpg",
       "https://macma.ro/products/jpg/TEXTIL/B&C/bs79-darkgrey_side.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 32,
     "colorCount": 6,
     "sizeCount": 5,
@@ -2814,7 +2825,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/chvahar-orionnavyblue_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/chvahar-lottored_1.jpg"
     ],
-    "fetchedAt": "2026-09-17T08:37:15.824Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 4,
     "colorCount": 3,
     "sizeCount": 3,
@@ -2916,7 +2927,7 @@
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/chvamon-kamelbrown-black_1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -2948,13 +2959,6 @@
         "labelRo": "Cutie interioară",
         "value": "1 pcs",
         "valueRo": "1 buc."
-      },
-      {
-        "key": "export-carton",
-        "label": "Export carton",
-        "labelRo": "Cutie export",
-        "value": "20 pcs",
-        "valueRo": "20 buc."
       },
       {
         "key": "gender",
@@ -3126,7 +3130,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/reporter-bottlegreen_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/reporter-applegreen_1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 111,
     "colorCount": 18,
     "sizeCount": 5,
@@ -3287,26 +3291,29 @@
     "supplierId": "macma",
     "supplierSku": "CHVASAF",
     "supplierVariantIds": [
+      "CHVASAFNG23",
       "CHVASAFNG24"
     ],
     "price": 10.96,
     "priceFrom": false,
-    "stock": 1001,
+    "stock": 2002,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/chvasaf-black_1.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:42.738Z",
-    "variantCount": 1,
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
+    "variantCount": 2,
     "colorCount": 1,
-    "sizeCount": 0,
+    "sizeCount": 1,
     "colorSwatches": [
       {
         "name": "Black",
         "hex": "#343331"
       }
     ],
-    "availableSizes": [],
+    "availableSizes": [
+      "XL"
+    ],
     "specifications": [
       {
         "key": "dimensions",
@@ -3348,9 +3355,9 @@
       }
     ],
     "brand": "Valento",
-    "weightGrams": 438,
+    "weightGrams": 415,
     "descriptionLong": "65% polyester, 35% cotton. 200 grs/m2 twill fabric. Inside back mesh fabric. 9 front pockets. 2 back pockets. 40 units per box: 1 size, 1 color. Individual bag.",
-    "hasVariantDetail": false
+    "hasVariantDetail": true
   },
   {
     "slug": "macma-chvatun",
@@ -3473,7 +3480,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/tundra-bottlegreen_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/tundra-applegreen_1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 76,
     "colorCount": 14,
     "sizeCount": 4,
@@ -3617,27 +3624,105 @@
     "supplierId": "macma",
     "supplierSku": "CHVATUNKID",
     "supplierVariantIds": [
-      "CHVATUNAF03"
+      "CHVATUNAF03",
+      "CHVATUNAF04",
+      "CHVATUNAF06",
+      "CHVATUNAF10",
+      "CHVATUNBL03",
+      "CHVATUNBL04",
+      "CHVATUNBL06",
+      "CHVATUNBL10",
+      "CHVATUNGR03",
+      "CHVATUNGR04",
+      "CHVATUNGR06",
+      "CHVATUNGR10",
+      "CHVATUNMR03",
+      "CHVATUNMR04",
+      "CHVATUNMR06",
+      "CHVATUNMR10",
+      "CHVATUNNG03",
+      "CHVATUNNG04",
+      "CHVATUNNG06",
+      "CHVATUNNG10",
+      "CHVATUNNJ03",
+      "CHVATUNNJ04",
+      "CHVATUNNJ06",
+      "CHVATUNNJ10",
+      "CHVATUNRJ03",
+      "CHVATUNRJ04",
+      "CHVATUNRJ06",
+      "CHVATUNRJ10",
+      "CHVATUNRY03",
+      "CHVATUNRY04",
+      "CHVATUNRY06",
+      "CHVATUNRY10",
+      "CHVATUNVP03",
+      "CHVATUNVP04",
+      "CHVATUNVP06",
+      "CHVATUNVP10"
     ],
     "price": 12.18,
     "priceFrom": false,
-    "stock": 34,
+    "stock": 11737,
     "stockLevel": "in-stock",
     "images": [
-      "https://macma.ro/products/jpg/TEXTIL/VALENTO/tundra-neonyellow_1.jpg"
+      "https://macma.ro/products/jpg/TEXTIL/VALENTO/tundra-neonyellow_1.jpg",
+      "https://macma.ro/products/jpg/TEXTIL/VALENTO/tundra-white_1.jpg",
+      "https://macma.ro/products/jpg/TEXTIL/VALENTO/tundra-charcoalgrey_1.jpg",
+      "https://macma.ro/products/jpg/TEXTIL/VALENTO/tundra-orionnavyblue_1.jpg",
+      "https://macma.ro/products/jpg/TEXTIL/VALENTO/tundra-black_1.jpg",
+      "https://macma.ro/products/jpg/TEXTIL/VALENTO/tundra-partyorange_1.jpg",
+      "https://macma.ro/products/jpg/TEXTIL/VALENTO/tundra-lottored_1.jpg",
+      "https://macma.ro/products/jpg/TEXTIL/VALENTO/tundra-royalblue_1.jpg",
+      "https://macma.ro/products/jpg/TEXTIL/VALENTO/tundra-applegreen_1.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:42.738Z",
-    "variantCount": 1,
-    "colorCount": 1,
-    "sizeCount": 1,
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
+    "variantCount": 36,
+    "colorCount": 9,
+    "sizeCount": 4,
     "colorSwatches": [
+      {
+        "name": "Apple Green",
+        "hex": "#91b352"
+      },
+      {
+        "name": "Black",
+        "hex": "#343331"
+      },
+      {
+        "name": "Charcoal Grey",
+        "hex": "#4e4e50"
+      },
+      {
+        "name": "Lotto Red",
+        "hex": "#891627"
+      },
       {
         "name": "Neon Yellow",
         "hex": "#dedc18"
+      },
+      {
+        "name": "Orion Navy Blue",
+        "hex": "#12315a"
+      },
+      {
+        "name": "Party Orange",
+        "hex": "#c5541c"
+      },
+      {
+        "name": "Royal Blue",
+        "hex": "#1c5e98"
+      },
+      {
+        "name": "White",
+        "hex": "#ffffff"
       }
     ],
     "availableSizes": [
-      "3"
+      "10/12",
+      "3",
+      "4/5",
+      "6/8"
     ],
     "specifications": [
       {
@@ -3676,7 +3761,7 @@
     "brand": "Valento",
     "weightGrams": 250,
     "descriptionLong": "90% polyamide, 10% elastane. 350 grs/m2 3 layer softshell fabric. 2 zip pockets. Total front zip. 20 units per box: 1 size, 1 color. Individual bag.",
-    "hasVariantDetail": false
+    "hasVariantDetail": true
   },
   {
     "slug": "macma-chvawar",
@@ -3698,7 +3783,7 @@
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/chvawar-orionnavyblue_1.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:42.738Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -3724,13 +3809,6 @@
         "labelRo": "Cutie interioară",
         "value": "1 pcs",
         "valueRo": "1 buc."
-      },
-      {
-        "key": "export-carton",
-        "label": "Export carton",
-        "labelRo": "Cutie export",
-        "value": "20 pcs",
-        "valueRo": "20 buc."
       },
       {
         "key": "gender",
@@ -3785,7 +3863,7 @@
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/cqvachi-cementgrey_1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 2,
     "colorCount": 1,
     "sizeCount": 2,
@@ -3878,7 +3956,7 @@
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/cqvagal-orionnavyblue_1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -3910,13 +3988,6 @@
         "labelRo": "Cutie interioară",
         "value": "1 pcs",
         "valueRo": "1 buc."
-      },
-      {
-        "key": "export-carton",
-        "label": "Export carton",
-        "labelRo": "Cutie export",
-        "value": "20 pcs",
-        "valueRo": "20 buc."
       },
       {
         "key": "gender",
@@ -4058,7 +4129,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/horizon-bottlegreen_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/horizon-applegreen_1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 83,
     "colorCount": 15,
     "sizeCount": 4,
@@ -4256,7 +4327,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/islandia-royalblue_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/islandia-applegreen_1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 42,
     "colorCount": 8,
     "sizeCount": 4,
@@ -4365,7 +4436,7 @@
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/cqvasan-black_1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -4391,13 +4462,6 @@
         "labelRo": "Cutie interioară",
         "value": "1 pcs",
         "valueRo": "1 buc."
-      },
-      {
-        "key": "export-carton",
-        "label": "Export carton",
-        "labelRo": "Cutie export",
-        "value": "10 pcs",
-        "valueRo": "10 buc."
       },
       {
         "key": "gender",
@@ -4472,7 +4536,7 @@
       "https://macma.ro/products/jpg/TEXTIL/GILDAN/gilss800-orange_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/GILDAN/gilss800-safetygreen_a1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 17,
     "colorCount": 6,
     "sizeCount": 2,
@@ -4596,7 +4660,7 @@
       "https://macma.ro/products/jpg/TEXTIL/GILDAN/giss800-navy_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/GILDAN/giss800-orange_a1.jpg"
     ],
-    "fetchedAt": "2026-08-31T09:41:31.862Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 4,
     "colorCount": 3,
     "sizeCount": 1,
@@ -4724,7 +4788,7 @@
     ],
     "price": 29.82,
     "priceFrom": false,
-    "stock": 22586,
+    "stock": 22337,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/KARIBAN/ka6110-black_a1.jpg",
@@ -4743,7 +4807,7 @@
       "https://macma.ro/products/jpg/TEXTIL/KARIBAN/ka6110-white_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/KARIBAN/ka6110-white_b1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 49,
     "colorCount": 7,
     "sizeCount": 4,
@@ -4884,7 +4948,7 @@
     ],
     "price": 29.82,
     "priceFrom": false,
-    "stock": 11210,
+    "stock": 11055,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/KARIBAN/ka6111-black_a1.jpg",
@@ -4902,7 +4966,7 @@
       "https://macma.ro/products/jpg/TEXTIL/KARIBAN/ka6111-white_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/KARIBAN/ka6111-white_b1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 42,
     "colorCount": 7,
     "sizeCount": 5,
@@ -5031,7 +5095,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/pavapix-white_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/pavapix-dolphinblue_1.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:42.738Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 3,
     "colorCount": 2,
     "sizeCount": 2,
@@ -5139,7 +5203,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/boreal-black_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/boreal-royalblue_1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 9,
     "colorCount": 7,
     "sizeCount": 4,
@@ -5276,7 +5340,7 @@
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/manitoba-lottored_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/VALENTO/manitoba-royalblue_1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 27,
     "colorCount": 5,
     "sizeCount": 4,
@@ -5411,7 +5475,7 @@
     ],
     "price": 19.21,
     "priceFrom": false,
-    "stock": 9709,
+    "stock": 9708,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/RESULT/r206x-black_1.jpg",
@@ -5419,7 +5483,7 @@
       "https://macma.ro/products/jpg/TEXTIL/RESULT/r206x-red_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/RESULT/r206x-grey_1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 24,
     "colorCount": 4,
     "sizeCount": 4,
@@ -5554,7 +5618,7 @@
     ],
     "price": 14.73,
     "priceFrom": false,
-    "stock": 30679,
+    "stock": 30663,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/RESULT/r208x-black_1.jpg",
@@ -5562,7 +5626,7 @@
       "https://macma.ro/products/jpg/TEXTIL/RESULT/r208x-red_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/RESULT/r208x-bottlegreen_1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 28,
     "colorCount": 4,
     "sizeCount": 5,
@@ -5692,7 +5756,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra130-royalbluenavy_c1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra130-royalbluenavy_c2.jpg"
     ],
-    "fetchedAt": "2026-09-24T08:24:51.499Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 20,
     "colorCount": 3,
     "sizeCount": 4,
@@ -5806,7 +5870,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra132-royalbluenavy_c1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra132-royalbluenavy_c2.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 16,
     "colorCount": 3,
     "sizeCount": 5,
@@ -5913,7 +5977,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra147-navynavy_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra147-navynavy_c1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 14,
     "colorCount": 2,
     "sizeCount": 4,
@@ -6017,7 +6081,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra148-navynavy_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra148-navynavy_c1.jpg"
     ],
-    "fetchedAt": "2026-09-23T08:32:14.374Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 12,
     "colorCount": 2,
     "sizeCount": 4,
@@ -6135,7 +6199,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra150-navynavy_c2.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra150-navynavy_c3.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 18,
     "colorCount": 3,
     "sizeCount": 4,
@@ -6234,7 +6298,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra204-black_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra204-navy_b1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 11,
     "colorCount": 2,
     "sizeCount": 4,
@@ -6334,7 +6398,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra208-navygrey_back.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra208-navygrey_c1.jpg"
     ],
-    "fetchedAt": "2026-09-19T08:01:33.274Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 11,
     "colorCount": 2,
     "sizeCount": 4,
@@ -6423,7 +6487,7 @@
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra210-navymagma_a1.jpg"
     ],
-    "fetchedAt": "2026-09-25T08:47:00.110Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 6,
     "colorCount": 1,
     "sizeCount": 4,
@@ -6520,7 +6584,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra255-darkkhaki_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra255-navy_b1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 16,
     "colorCount": 3,
     "sizeCount": 4,
@@ -6625,7 +6689,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra301-navy_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra301-navy_b1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 14,
     "colorCount": 2,
     "sizeCount": 4,
@@ -6724,7 +6788,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra306-navy_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra306-navy_c1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 11,
     "colorCount": 2,
     "sizeCount": 5,
@@ -6826,7 +6890,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra610-navynavy_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra610-navynavy_c1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 12,
     "colorCount": 2,
     "sizeCount": 4,
@@ -6927,7 +6991,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra613-navynavy_a2.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra613-navynavy_b1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 12,
     "colorCount": 2,
     "sizeCount": 6,
@@ -7021,7 +7085,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra625-yellownavy_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra625-yellownavy_b1.jpg"
     ],
-    "fetchedAt": "2026-09-22T08:30:04.753Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 12,
     "colorCount": 2,
     "sizeCount": 4,
@@ -7179,7 +7243,7 @@
     ],
     "price": 2.73,
     "priceFrom": true,
-    "stock": 35346,
+    "stock": 35283,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra628-blackblack_a1.jpg",
@@ -7213,7 +7277,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra628-whitelightsteel_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra628-whitelightsteel_b1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 80,
     "colorCount": 15,
     "sizeCount": 4,
@@ -7431,7 +7495,7 @@
     ],
     "price": 5.59,
     "priceFrom": true,
-    "stock": 9188,
+    "stock": 9185,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra629-blackblack_a1.jpg",
@@ -7465,7 +7529,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra629-whitelightsteel_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra629-whitelightsteel_b1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 88,
     "colorCount": 15,
     "sizeCount": 4,
@@ -7618,7 +7682,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra650-classicredblack_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra650-navyblack_a1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 16,
     "colorCount": 3,
     "sizeCount": 4,
@@ -7734,7 +7798,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra654-sealgreyblack_a2.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra654-sealgreyblack_c1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 23,
     "colorCount": 3,
     "sizeCount": 5,
@@ -7833,7 +7897,7 @@
     ],
     "price": 17.19,
     "priceFrom": true,
-    "stock": 3754,
+    "stock": 3753,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra674-blacksealgrey_a1.jpg",
@@ -7841,7 +7905,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra674-sealgreyblack_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra674-sealgreyblack_a3.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 16,
     "colorCount": 3,
     "sizeCount": 4,
@@ -7955,7 +8019,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra680-oxfordblueoxfordblue_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra680-sealgreysealgrey_a1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 24,
     "colorCount": 4,
     "sizeCount": 4,
@@ -8078,7 +8142,7 @@
     ],
     "price": 17.19,
     "priceFrom": true,
-    "stock": 12732,
+    "stock": 12730,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra688-blackblack_a1.jpg",
@@ -8102,7 +8166,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra688-sealgreyblack_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra688-sealgreyblack_c1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 37,
     "colorCount": 5,
     "sizeCount": 5,
@@ -8252,7 +8316,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra689-sealgreyblack_b2.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra689-sealgreyblack_c1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 31,
     "colorCount": 5,
     "sizeCount": 5,
@@ -8358,7 +8422,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra701-blackblack_a4.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra701-blackblack_b1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 6,
     "colorCount": 1,
     "sizeCount": 4,
@@ -8443,7 +8507,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra702-blackblack_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra702-blackblack_a2.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 5,
     "colorCount": 1,
     "sizeCount": 5,
@@ -8522,7 +8586,7 @@
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra710-sealgreymarl_a1.jpg"
     ],
-    "fetchedAt": "2026-09-23T08:32:14.374Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 5,
     "colorCount": 1,
     "sizeCount": 3,
@@ -8623,7 +8687,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra806-navy_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra806-sealgreyblack_a1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 20,
     "colorCount": 3,
     "sizeCount": 5,
@@ -8728,7 +8792,7 @@
     ],
     "price": 11.47,
     "priceFrom": true,
-    "stock": 9250,
+    "stock": 9248,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra831-black_a1.jpg",
@@ -8752,7 +8816,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra831-sealgrey_b2.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra831-sealgrey_c1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 22,
     "colorCount": 4,
     "sizeCount": 4,
@@ -8866,7 +8930,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra832-navy_b2.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retra832-navy_c1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 12,
     "colorCount": 2,
     "sizeCount": 4,
@@ -8980,7 +9044,7 @@
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retrw297-royalbluenavy_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/REGATTA/retrw297-royalbluenavy_b1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 24,
     "colorCount": 4,
     "sizeCount": 4,
@@ -9105,7 +9169,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01170-navy_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01170-navy_c1.jpg"
     ],
-    "fetchedAt": "2026-09-25T08:47:00.110Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 9,
     "colorCount": 2,
     "sizeCount": 4,
@@ -9221,7 +9285,7 @@
     ],
     "price": 7.03,
     "priceFrom": true,
-    "stock": 12438,
+    "stock": 12409,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01171-blackdarkgrey_a1.jpg",
@@ -9240,7 +9304,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01171-royalblueneongold_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01171-royalblueneongold_c1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 18,
     "colorCount": 4,
     "sizeCount": 5,
@@ -9357,7 +9421,7 @@
     ],
     "price": 21.49,
     "priceFrom": true,
-    "stock": 7083,
+    "stock": 7073,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01193-black_a1.jpg",
@@ -9373,7 +9437,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01193-navy_c1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01193-navy_c2.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 10,
     "colorCount": 2,
     "sizeCount": 4,
@@ -9498,7 +9562,7 @@
     ],
     "price": 11.47,
     "priceFrom": true,
-    "stock": 4102,
+    "stock": 3989,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01194-army_a1.jpg",
@@ -9512,7 +9576,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01194-royalblue_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01194-royalblue_c1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 27,
     "colorCount": 6,
     "sizeCount": 4,
@@ -9655,7 +9719,7 @@
     ],
     "price": 11.47,
     "priceFrom": true,
-    "stock": 26729,
+    "stock": 26420,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01195-army_a1.jpg",
@@ -9677,7 +9741,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01195-royalblue_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01195-royalblue_c1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 28,
     "colorCount": 6,
     "sizeCount": 4,
@@ -9810,7 +9874,7 @@
     ],
     "price": 21.09,
     "priceFrom": true,
-    "stock": 38733,
+    "stock": 41032,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01436-black_a.jpg",
@@ -9830,7 +9894,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01436-navy_c.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01436-navy_c1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 18,
     "colorCount": 3,
     "sizeCount": 4,
@@ -9947,7 +10011,7 @@
     ],
     "price": 21.09,
     "priceFrom": false,
-    "stock": 15202,
+    "stock": 15195,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01437-black_a1.jpg",
@@ -9960,7 +10024,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01437-navy_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01437-navy_c1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 15,
     "colorCount": 3,
     "sizeCount": 4,
@@ -10115,7 +10179,7 @@
     ],
     "price": 5.59,
     "priceFrom": true,
-    "stock": 58416,
+    "stock": 58040,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01618-aqua_a1.jpg",
@@ -10149,7 +10213,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01618-white_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so01618-white_c1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 53,
     "colorCount": 10,
     "sizeCount": 5,
@@ -10298,7 +10362,7 @@
     ],
     "price": 7.16,
     "priceFrom": true,
-    "stock": 26083,
+    "stock": 26189,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so02109-black_a1.jpg",
@@ -10323,7 +10387,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so02109-royalblue_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so02109-royalblue_c1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 18,
     "colorCount": 7,
     "sizeCount": 5,
@@ -10465,7 +10529,7 @@
     ],
     "price": 12.78,
     "priceFrom": true,
-    "stock": 39519,
+    "stock": 39433,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so02887-black_a1.jpg",
@@ -10485,7 +10549,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so02887-royalblue_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so02887-royalblue_c1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 23,
     "colorCount": 4,
     "sizeCount": 4,
@@ -10611,7 +10675,7 @@
     ],
     "price": 12.78,
     "priceFrom": false,
-    "stock": 10551,
+    "stock": 10521,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so02888-black_a1.jpg",
@@ -10631,7 +10695,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so02888-royalblue_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so02888-royalblue_c1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 20,
     "colorCount": 4,
     "sizeCount": 4,
@@ -10726,7 +10790,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so03090-black_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so03090-black_c1.jpg"
     ],
-    "fetchedAt": "2026-09-19T08:01:33.274Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 2,
     "colorCount": 1,
     "sizeCount": 1,
@@ -10800,14 +10864,14 @@
     ],
     "price": 10.02,
     "priceFrom": false,
-    "stock": 258,
+    "stock": 257,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so03107-black_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so03107-black_b2.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so03107-black_c1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 2,
     "colorCount": 1,
     "sizeCount": 1,
@@ -10888,7 +10952,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so03826-black_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so03826-black_c1.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:42.738Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 2,
     "colorCount": 1,
     "sizeCount": 2,
@@ -10963,7 +11027,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so03828-black_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so03828-black_c1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 2,
     "colorCount": 1,
     "sizeCount": 0,
@@ -11045,7 +11109,7 @@
     ],
     "price": 21.57,
     "priceFrom": false,
-    "stock": 15179,
+    "stock": 15817,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so04041-armydarkarmy_a1.jpg",
@@ -11055,7 +11119,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so04041-shearbeigebeige_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so04041-shearbeigebeige_b1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 13,
     "colorCount": 3,
     "sizeCount": 4,
@@ -11209,7 +11273,7 @@
     ],
     "price": 5.59,
     "priceFrom": true,
-    "stock": 159944,
+    "stock": 159753,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so32000-atollblue_a.jpg",
@@ -11243,7 +11307,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so32000-white_b.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so32000-white_c.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 52,
     "colorCount": 10,
     "sizeCount": 5,
@@ -11397,7 +11461,7 @@
     ],
     "price": 2.73,
     "priceFrom": true,
-    "stock": 22995,
+    "stock": 22994,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so44001-black_a.jpg",
@@ -11413,7 +11477,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so44001-royalblue_a.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so44001-royalblue_b.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 23,
     "colorCount": 6,
     "sizeCount": 5,
@@ -11573,7 +11637,7 @@
     ],
     "price": 18.41,
     "priceFrom": true,
-    "stock": 23805,
+    "stock": 23792,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so44002-black_a.jpg",
@@ -11593,7 +11657,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so44002-royalblue_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so44002-royalblue_c1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 45,
     "colorCount": 7,
     "sizeCount": 4,
@@ -11726,7 +11790,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so46000-navy_b.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so46000-navy_c.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 5,
     "colorCount": 2,
     "sizeCount": 3,
@@ -11849,7 +11913,7 @@
     ],
     "price": 7.16,
     "priceFrom": true,
-    "stock": 31354,
+    "stock": 31273,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so46600-abyssblue_a1.jpg",
@@ -11885,7 +11949,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so46600-pepperred_c.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so46600-pepperred_c1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 26,
     "colorCount": 7,
     "sizeCount": 4,
@@ -12026,7 +12090,7 @@
     ],
     "price": 17.19,
     "priceFrom": true,
-    "stock": 25806,
+    "stock": 25662,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so46601-black_a.jpg",
@@ -12040,7 +12104,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so46601-royalblue_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so46601-royalblue_b.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 23,
     "colorCount": 4,
     "sizeCount": 4,
@@ -12176,7 +12240,7 @@
     ],
     "price": 27.22,
     "priceFrom": true,
-    "stock": 33030,
+    "stock": 32929,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so46602-black_a.jpg",
@@ -12198,7 +12262,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so46602-white_b.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so46602-white_c.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 30,
     "colorCount": 6,
     "sizeCount": 4,
@@ -12338,7 +12402,7 @@
     ],
     "price": 8.59,
     "priceFrom": true,
-    "stock": 3649,
+    "stock": 3626,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so46800-abyssblue_a.jpg",
@@ -12387,7 +12451,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so46800-royalblue_c.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so46800-royalblue_c1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 26,
     "colorCount": 8,
     "sizeCount": 4,
@@ -12527,7 +12591,7 @@
     ],
     "price": 14.33,
     "priceFrom": true,
-    "stock": 2928,
+    "stock": 2918,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so46801-black_a.jpg",
@@ -12541,7 +12605,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so46801-royalblue_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so46801-royalblue_b.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 18,
     "colorCount": 4,
     "sizeCount": 4,
@@ -12670,7 +12734,7 @@
     ],
     "price": 27.22,
     "priceFrom": true,
-    "stock": 4806,
+    "stock": 4780,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so46802-black_a.jpg",
@@ -12692,7 +12756,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so46802-white_b.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so46802-white_c.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 23,
     "colorCount": 6,
     "sizeCount": 4,
@@ -12813,7 +12877,7 @@
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so59000-navy_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/SOLS/so59000-navy_b1.jpg"
     ],
-    "fetchedAt": "2026-09-05T07:39:06.240Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 1,
@@ -12843,13 +12907,6 @@
         "key": "inner-carton",
         "label": "Inner carton",
         "labelRo": "Cutie interioară",
-        "value": "10 pcs",
-        "valueRo": "10 buc."
-      },
-      {
-        "key": "export-carton",
-        "label": "Export carton",
-        "labelRo": "Cutie export",
         "value": "10 pcs",
         "valueRo": "10 buc."
       },
@@ -12920,7 +12977,7 @@
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st5420-bluemidnight.jpg",
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st5420-blackopal.jpg"
     ],
-    "fetchedAt": "2026-09-25T08:47:00.110Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 16,
     "colorCount": 2,
     "sizeCount": 4,
@@ -13047,7 +13104,7 @@
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st5430-bluemidnight.jpg",
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st5430-blackopal.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 16,
     "colorCount": 2,
     "sizeCount": 4,
@@ -13183,7 +13240,7 @@
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st5440-blackopal.jpg",
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st5440-scarletred.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 24,
     "colorCount": 3,
     "sizeCount": 4,
@@ -13312,7 +13369,7 @@
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st5520-bluemidnight.jpg",
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st5520-blackopal.jpg"
     ],
-    "fetchedAt": "2026-09-05T07:39:06.240Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 14,
     "colorCount": 2,
     "sizeCount": 5,
@@ -13438,7 +13495,7 @@
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st5530-bluemidnight.jpg",
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st5530-blackopal.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 14,
     "colorCount": 2,
     "sizeCount": 5,
@@ -13572,7 +13629,7 @@
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st5540-blackopal.jpg",
       "https://macma.ro/products/jpg/TEXTIL/STEDMAN/st5540-scarletred.jpg"
     ],
-    "fetchedAt": "2026-09-25T08:47:00.110Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 21,
     "colorCount": 3,
     "sizeCount": 5,
@@ -13684,7 +13741,7 @@
       "https://macma.ro/products/jpg/TEXTIL/STARWORLD/sw800-deepnavy_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/STARWORLD/sw800-grey_1.jpg"
     ],
-    "fetchedAt": "2026-09-19T08:01:33.274Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 15,
     "colorCount": 3,
     "sizeCount": 4,
@@ -13783,7 +13840,7 @@
       "https://macma.ro/products/jpg/TEXTIL/STARWORLD/sw900-black_1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/STARWORLD/sw900-deepnavy_1.jpg"
     ],
-    "fetchedAt": "2026-09-24T08:24:51.499Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 10,
     "colorCount": 2,
     "sizeCount": 4,
@@ -13963,7 +14020,7 @@
     ],
     "price": 17.16,
     "priceFrom": false,
-    "stock": 16626,
+    "stock": 16509,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/DESTOWORK/wk607-beige_1.jpg",
@@ -13991,7 +14048,7 @@
       "https://macma.ro/products/jpg/TEXTIL/DESTOWORK/wk607-white_b1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/DESTOWORK/wk607-white_c1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 81,
     "colorCount": 10,
     "sizeCount": 5,
@@ -14130,9 +14187,10 @@
       "https://cdn1.midocean.com/image/700X700/s01170-bk.jpg",
       "https://cdn1.midocean.com/image/700X700/s01170-ny.jpg",
       "https://cdn1.midocean.com/image/700X700/s01170-bk-back.jpg",
-      "https://cdn1.midocean.com/image/700X700/s01170-bk-side.jpg"
+      "https://cdn1.midocean.com/image/700X700/s01170-bk-side.jpg",
+      "https://cdn1.midocean.com/image/700X700/s01170-bk-picture1.jpg"
     ],
-    "fetchedAt": "2026-09-25T08:46:53.461Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 10,
     "colorCount": 2,
     "sizeCount": 5,
@@ -14244,7 +14302,9 @@
       "S01171-GV-S",
       "S01171-GV-XL",
       "S01171-GV-XS",
-      "S01171-GV-XXL"
+      "S01171-GV-XXL",
+      "S01171-AD-3XL",
+      "S01171-AD-S"
     ],
     "price": 22.67,
     "priceFrom": true,
@@ -14254,15 +14314,19 @@
       "https://cdn1.midocean.com/image/700X700/s01171-dz.jpg",
       "https://cdn1.midocean.com/image/700X700/s01171-im.jpg",
       "https://cdn1.midocean.com/image/700X700/s01171-gv.jpg",
+      "https://cdn1.midocean.com/image/700X700/s01171-ad.jpg",
       "https://cdn1.midocean.com/image/700X700/s01171-dz-side.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
-    "variantCount": 21,
-    "colorCount": 3,
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
+    "variantCount": 23,
+    "colorCount": 4,
     "sizeCount": 7,
     "colorSwatches": [
       {
         "name": "Black/Dark Grey"
+      },
+      {
+        "name": "Camo/Royal Blue"
       },
       {
         "name": "Navy/Royal"
@@ -14372,9 +14436,11 @@
       "https://cdn1.midocean.com/image/700X700/s01193-bk.jpg",
       "https://cdn1.midocean.com/image/700X700/s01193-ny.jpg",
       "https://cdn1.midocean.com/image/700X700/s01193-bk-back.jpg",
-      "https://cdn1.midocean.com/image/700X700/s01193-bk-side.jpg"
+      "https://cdn1.midocean.com/image/700X700/s01193-bk-side.jpg",
+      "https://cdn1.midocean.com/image/700X700/s01193-bk-picture1.jpg",
+      "https://cdn1.midocean.com/image/700X700/s01193-bk-picture2.jpg"
     ],
-    "fetchedAt": "2026-09-25T08:46:53.461Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 12,
     "colorCount": 2,
     "sizeCount": 6,
@@ -14459,7 +14525,8 @@
         "labelRo": "Broderie",
         "printSizes": [
           "100 × 100 mm",
-          "230 × 280 mm"
+          "230 × 280 mm",
+          "80 × 80 mm"
         ]
       },
       {
@@ -14515,7 +14582,7 @@
       "https://cdn1.midocean.com/image/700X700/s01194-bk-back.jpg",
       "https://cdn1.midocean.com/image/700X700/s01194-bk-side.jpg"
     ],
-    "fetchedAt": "2026-09-25T08:46:53.461Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 25,
     "colorCount": 5,
     "sizeCount": 5,
@@ -14609,7 +14676,7 @@
         "printSizes": [
           "100 × 100 mm",
           "230 × 280 mm",
-          "90 × 90 mm"
+          "80 × 80 mm"
         ]
       },
       {
@@ -14619,7 +14686,7 @@
         "printSizes": [
           "100 × 100 mm",
           "230 × 280 mm",
-          "90 × 90 mm"
+          "80 × 80 mm"
         ]
       }
     ],
@@ -14672,7 +14739,7 @@
       "https://cdn1.midocean.com/image/700X700/s01195-bk-back.jpg",
       "https://cdn1.midocean.com/image/700X700/s01195-bk-side.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 32,
     "colorCount": 5,
     "sizeCount": 7,
@@ -14765,7 +14832,7 @@
         "labelRo": "Broderie",
         "printSizes": [
           "100 × 100 mm",
-          "230 × 250 mm",
+          "230 × 280 mm",
           "270 × 40 mm"
         ]
       }
@@ -14798,7 +14865,7 @@
     ],
     "price": 20.94,
     "priceFrom": true,
-    "stock": 41889,
+    "stock": 41852,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/s01436-bk.jpg",
@@ -14806,9 +14873,11 @@
       "https://cdn1.midocean.com/image/700X700/s01436-nl.jpg",
       "https://cdn1.midocean.com/image/700X700/s01436-ny.jpg",
       "https://cdn1.midocean.com/image/700X700/s01436-bk-back.jpg",
-      "https://cdn1.midocean.com/image/700X700/s01436-bk-side.jpg"
+      "https://cdn1.midocean.com/image/700X700/s01436-bk-side.jpg",
+      "https://cdn1.midocean.com/image/700X700/s01436-bk-picture1.jpg",
+      "https://cdn1.midocean.com/image/700X700/s01436-bk-picture2.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 22,
     "colorCount": 4,
     "sizeCount": 6,
@@ -14851,7 +14920,7 @@
         "key": "country-of-origin",
         "label": "Country of origin",
         "labelRo": "Țara de origine",
-        "value": "KH"
+        "value": "BD"
       },
       {
         "key": "commodity-code",
@@ -14923,16 +14992,19 @@
     ],
     "price": 20.94,
     "priceFrom": false,
-    "stock": 4490,
+    "stock": 4431,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/s01437-bk.jpg",
       "https://cdn1.midocean.com/image/700X700/s01437-mg.jpg",
       "https://cdn1.midocean.com/image/700X700/s01437-ny.jpg",
       "https://cdn1.midocean.com/image/700X700/s01437-bk-back.jpg",
-      "https://cdn1.midocean.com/image/700X700/s01437-bk-side.jpg"
+      "https://cdn1.midocean.com/image/700X700/s01437-bk-side.jpg",
+      "https://cdn1.midocean.com/image/700X700/s01437-bk-picture1.jpg",
+      "https://cdn1.midocean.com/image/700X700/s01437-bk-picture2.jpg",
+      "https://cdn1.midocean.com/image/700X700/s01437-bk-picture3.jpg"
     ],
-    "fetchedAt": "2026-09-26T08:33:23.778Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 15,
     "colorCount": 3,
     "sizeCount": 5,
@@ -15115,7 +15187,7 @@
       "https://cdn1.midocean.com/image/700X700/s01618-or.jpg",
       "https://cdn1.midocean.com/image/700X700/s01618-bk-side.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 70,
     "colorCount": 10,
     "sizeCount": 7,
@@ -15316,7 +15388,7 @@
       "https://cdn1.midocean.com/image/700X700/s02109-rd-back.jpg",
       "https://cdn1.midocean.com/image/700X700/s02109-rd-side.jpg"
     ],
-    "fetchedAt": "2026-09-26T08:33:23.778Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 64,
     "colorCount": 8,
     "sizeCount": 8,
@@ -15470,7 +15542,7 @@
       "https://cdn1.midocean.com/image/700X700/s02887-pe-back.jpg",
       "https://cdn1.midocean.com/image/700X700/s02887-pe-side.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 26,
     "colorCount": 4,
     "sizeCount": 7,
@@ -15605,7 +15677,7 @@
       "https://cdn1.midocean.com/image/700X700/s02888-pe-back.jpg",
       "https://cdn1.midocean.com/image/700X700/s02888-pe-side.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 20,
     "colorCount": 4,
     "sizeCount": 5,
@@ -15710,7 +15782,7 @@
     ],
     "price": 27.57,
     "priceFrom": true,
-    "stock": 3160,
+    "stock": 3162,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/s02889-bk.jpg",
@@ -15719,7 +15791,7 @@
       "https://cdn1.midocean.com/image/700X700/s02889-bk-side.jpg",
       "https://cdn1.midocean.com/image/700X700/s02889-bk-top.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 12,
     "colorCount": 2,
     "sizeCount": 6,
@@ -15756,7 +15828,7 @@
         "key": "country-of-origin",
         "label": "Country of origin",
         "labelRo": "Țara de origine",
-        "value": "BD"
+        "value": "CN"
       },
       {
         "key": "commodity-code",
@@ -15832,7 +15904,7 @@
       "https://cdn1.midocean.com/image/700X700/s02890-bk-side.jpg",
       "https://cdn1.midocean.com/image/700X700/s02890-bk-top.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 10,
     "colorCount": 2,
     "sizeCount": 5,
@@ -15868,7 +15940,7 @@
         "key": "country-of-origin",
         "label": "Country of origin",
         "labelRo": "Țara de origine",
-        "value": "BD"
+        "value": "CN"
       },
       {
         "key": "commodity-code",
@@ -15915,7 +15987,7 @@
         "printSizes": [
           "100 × 100 mm",
           "230 × 250 mm",
-          "55 × 55 mm"
+          "80 × 80 mm"
         ]
       }
     ],
@@ -15946,7 +16018,7 @@
       "https://cdn1.midocean.com/image/700X700/s02898-bk-side.jpg",
       "https://cdn1.midocean.com/image/700X700/s02898-bk-top.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 12,
     "colorCount": 2,
     "sizeCount": 6,
@@ -15983,13 +16055,13 @@
         "key": "country-of-origin",
         "label": "Country of origin",
         "labelRo": "Țara de origine",
-        "value": "BD"
+        "value": "CN"
       },
       {
         "key": "commodity-code",
         "label": "Commodity code",
         "labelRo": "Cod tarifar",
-        "value": "6201 4010"
+        "value": "6201 4090"
       },
       {
         "key": "inner-carton",
@@ -16059,7 +16131,7 @@
       "https://cdn1.midocean.com/image/700X700/s02899-bk-side.jpg",
       "https://cdn1.midocean.com/image/700X700/s02899-bk-top.jpg"
     ],
-    "fetchedAt": "2026-09-25T08:46:53.461Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 10,
     "colorCount": 2,
     "sizeCount": 5,
@@ -16095,7 +16167,7 @@
         "key": "country-of-origin",
         "label": "Country of origin",
         "labelRo": "Țara de origine",
-        "value": "BD"
+        "value": "CN"
       },
       {
         "key": "commodity-code",
@@ -16218,7 +16290,7 @@
     ],
     "price": 15.99,
     "priceFrom": true,
-    "stock": 158021,
+    "stock": 158009,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/s04020-ar.jpg",
@@ -16235,7 +16307,7 @@
       "https://cdn1.midocean.com/image/700X700/s04020-ar-back.jpg",
       "https://cdn1.midocean.com/image/700X700/s04020-ar-side.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 66,
     "colorCount": 11,
     "sizeCount": 6,
@@ -16333,7 +16405,7 @@
   },
   {
     "slug": "midocean-s04021",
-    "name": "STREAM BW WOMEN",
+    "name": "STREAM",
     "category": "apparel-and-wearables/jackets-and-bodywarmers",
     "summary": "STREAM WOMEN Bodywarmer",
     "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
@@ -16428,7 +16500,7 @@
       "https://cdn1.midocean.com/image/700X700/s04021-ar-back.jpg",
       "https://cdn1.midocean.com/image/700X700/s04021-ar-side.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 55,
     "colorCount": 11,
     "sizeCount": 5,
@@ -16540,7 +16612,7 @@
         "printSizes": [
           "100 × 100 mm",
           "230 × 280 mm",
-          "90 × 90 mm"
+          "80 × 80 mm"
         ]
       },
       {
@@ -16550,7 +16622,7 @@
         "printSizes": [
           "100 × 100 mm",
           "230 × 280 mm",
-          "90 × 90 mm"
+          "80 × 80 mm"
         ]
       }
     ],
@@ -16588,7 +16660,7 @@
     ],
     "price": 18.81,
     "priceFrom": true,
-    "stock": 1190,
+    "stock": 1183,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/s04447-bk.jpg",
@@ -16598,7 +16670,7 @@
       "https://cdn1.midocean.com/image/700X700/s04447-bk-back.jpg",
       "https://cdn1.midocean.com/image/700X700/s04447-bk-side.jpg"
     ],
-    "fetchedAt": "2026-09-25T08:46:53.461Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 28,
     "colorCount": 4,
     "sizeCount": 7,
@@ -16660,7 +16732,7 @@
         "key": "outer-carton",
         "label": "Outer carton",
         "labelRo": "Bax exterior",
-        "value": "10"
+        "value": "20"
       },
       {
         "key": "packaging-after-printing",
@@ -16745,7 +16817,7 @@
       "https://cdn1.midocean.com/image/700X700/s04448-bk-back.jpg",
       "https://cdn1.midocean.com/image/700X700/s04448-bk-side.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 24,
     "colorCount": 4,
     "sizeCount": 6,
@@ -16883,7 +16955,7 @@
     ],
     "price": 7.18,
     "priceFrom": false,
-    "stock": 6015,
+    "stock": 6016,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/s04758-bk.jpg",
@@ -16895,7 +16967,7 @@
       "https://cdn1.midocean.com/image/700X700/s04758-bk-back.jpg",
       "https://cdn1.midocean.com/image/700X700/s04758-bk-side.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 36,
     "colorCount": 6,
     "sizeCount": 6,
@@ -17012,6 +17084,7 @@
       "S32000-BK-XL",
       "S32000-BK-XS",
       "S32000-BK-XXL",
+      "S32000-DA-XXL",
       "S32000-FG-L",
       "S32000-FG-M",
       "S32000-FG-S",
@@ -17063,12 +17136,13 @@
       "S32000-WH-XXL"
     ],
     "price": 8.58,
-    "priceFrom": false,
-    "stock": 84808,
+    "priceFrom": true,
+    "stock": 84812,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/s32000-al.jpg",
       "https://cdn1.midocean.com/image/700X700/s32000-bk.jpg",
+      "https://cdn1.midocean.com/image/700X700/s32000-da.jpg",
       "https://cdn1.midocean.com/image/700X700/s32000-fg.jpg",
       "https://cdn1.midocean.com/image/700X700/s32000-go.jpg",
       "https://cdn1.midocean.com/image/700X700/s32000-nl.jpg",
@@ -17081,9 +17155,9 @@
       "https://cdn1.midocean.com/image/700X700/s32000-al-back.jpg",
       "https://cdn1.midocean.com/image/700X700/s32000-al-side.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
-    "variantCount": 61,
-    "colorCount": 11,
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
+    "variantCount": 62,
+    "colorCount": 12,
     "sizeCount": 6,
     "colorSwatches": [
       {
@@ -17091,6 +17165,9 @@
       },
       {
         "name": "Black"
+      },
+      {
+        "name": "Dark Purple"
       },
       {
         "name": "Forest Green"
@@ -17256,7 +17333,7 @@
     ],
     "price": 18.82,
     "priceFrom": true,
-    "stock": 22594,
+    "stock": 22593,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/s44002-bk.jpg",
@@ -17269,7 +17346,7 @@
       "https://cdn1.midocean.com/image/700X700/s44002-bk-back.jpg",
       "https://cdn1.midocean.com/image/700X700/s44002-bk-side.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 56,
     "colorCount": 7,
     "sizeCount": 8,
@@ -17462,7 +17539,7 @@
     ],
     "price": 23.67,
     "priceFrom": true,
-    "stock": 11823,
+    "stock": 11820,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/s46600-ab.jpg",
@@ -17478,7 +17555,7 @@
       "https://cdn1.midocean.com/image/700X700/s46600-ab-back.jpg",
       "https://cdn1.midocean.com/image/700X700/s46600-ab-side.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 70,
     "colorCount": 10,
     "sizeCount": 7,
@@ -17651,7 +17728,7 @@
     ],
     "price": 31.3,
     "priceFrom": true,
-    "stock": 9763,
+    "stock": 9753,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/s46602-bk.jpg",
@@ -17663,7 +17740,7 @@
       "https://cdn1.midocean.com/image/700X700/s46602-bk-back.jpg",
       "https://cdn1.midocean.com/image/700X700/s46602-bk-side.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 42,
     "colorCount": 6,
     "sizeCount": 7,
@@ -17760,9 +17837,9 @@
         "label": "Embroidery",
         "labelRo": "Broderie",
         "printSizes": [
+          "100 × 100 mm",
           "230 × 280 mm",
-          "85 × 100 mm",
-          "90 × 90 mm"
+          "80 × 80 mm"
         ]
       },
       {
@@ -17770,9 +17847,9 @@
         "label": "Screen transfer",
         "labelRo": "Transfer serigrafic",
         "printSizes": [
+          "100 × 100 mm",
           "230 × 280 mm",
-          "85 × 100 mm",
-          "90 × 90 mm"
+          "80 × 80 mm"
         ]
       }
     ],
@@ -17848,7 +17925,7 @@
       "https://cdn1.midocean.com/image/700X700/s46800-ab-back.jpg",
       "https://cdn1.midocean.com/image/700X700/s46800-ab-side.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 50,
     "colorCount": 10,
     "sizeCount": 5,
@@ -18019,7 +18096,7 @@
       "https://cdn1.midocean.com/image/700X700/s46802-bk-back.jpg",
       "https://cdn1.midocean.com/image/700X700/s46802-bk-side.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 30,
     "colorCount": 6,
     "sizeCount": 5,

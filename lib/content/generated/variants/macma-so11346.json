@@ -22,7 +22,7 @@
   {
     "contentKey": "06073b9297fd7992",
     "supplierVariantId": "SO11346WH-S",
-    "stock": 2404,
+    "stock": 2380,
     "stockLevel": "in-stock",
     "price": 6.01,
     "color": {
@@ -55,7 +55,7 @@
   {
     "contentKey": "0a62a096f99db090",
     "supplierVariantId": "SO11346RO-L",
-    "stock": 4115,
+    "stock": 4099,
     "stockLevel": "in-stock",
     "price": 6.14,
     "color": {
@@ -113,8 +113,8 @@
   {
     "contentKey": "0e568b7c713663c3",
     "supplierVariantId": "SO11346DG-S",
-    "stock": 41,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 6.14,
     "color": {
       "name": "Dark Grey",
@@ -133,7 +133,7 @@
   {
     "contentKey": "0f32102895ebf4fe",
     "supplierVariantId": "SO11346DG-L",
-    "stock": 1767,
+    "stock": 1606,
     "stockLevel": "in-stock",
     "price": 6.14,
     "color": {
@@ -153,7 +153,7 @@
   {
     "contentKey": "152edbf139fb9d3f",
     "supplierVariantId": "SO11346KL-M",
-    "stock": 1208,
+    "stock": 1158,
     "stockLevel": "in-stock",
     "price": 6.14,
     "color": {
@@ -206,7 +206,7 @@
   {
     "contentKey": "1ebe914b3f61aafb",
     "supplierVariantId": "SO11346WH-L",
-    "stock": 5616,
+    "stock": 5490,
     "stockLevel": "in-stock",
     "price": 6.01,
     "color": {
@@ -246,7 +246,7 @@
   {
     "contentKey": "2a0a94d9b4a8511f",
     "supplierVariantId": "SO11346GM-XL",
-    "stock": 72,
+    "stock": 68,
     "stockLevel": "in-stock",
     "price": 6.14,
     "color": {
@@ -266,7 +266,7 @@
   {
     "contentKey": "34f9091bd2f9d7fd",
     "supplierVariantId": "SO11346RE-L",
-    "stock": 5887,
+    "stock": 5877,
     "stockLevel": "in-stock",
     "price": 6.14,
     "color": {
@@ -286,7 +286,7 @@
   {
     "contentKey": "37f7e9cc0ed5fbdf",
     "supplierVariantId": "SO11346KL-2XL",
-    "stock": 247,
+    "stock": 245,
     "stockLevel": "in-stock",
     "price": 6.14,
     "color": {
@@ -364,7 +364,7 @@
   {
     "contentKey": "427942ae82b99c47",
     "supplierVariantId": "SO11346FN-M",
-    "stock": 10225,
+    "stock": 10151,
     "stockLevel": "in-stock",
     "price": 6.14,
     "color": {
@@ -384,7 +384,7 @@
   {
     "contentKey": "47a9ef6c77b753ca",
     "supplierVariantId": "SO11346AQ-L",
-    "stock": 51,
+    "stock": 50,
     "stockLevel": "in-stock",
     "price": 6.14,
     "color": {
@@ -442,7 +442,7 @@
   {
     "contentKey": "53d049c362f69733",
     "supplierVariantId": "SO11346WH-XL",
-    "stock": 3368,
+    "stock": 3321,
     "stockLevel": "in-stock",
     "price": 6.01,
     "color": {
@@ -515,7 +515,7 @@
   {
     "contentKey": "6e9f15aab57177d0",
     "supplierVariantId": "SO11346KL-L",
-    "stock": 258,
+    "stock": 208,
     "stockLevel": "in-stock",
     "price": 6.14,
     "color": {
@@ -535,7 +535,7 @@
   {
     "contentKey": "716e3f9805209713",
     "supplierVariantId": "SO11346SB-M",
-    "stock": 412,
+    "stock": 400,
     "stockLevel": "in-stock",
     "price": 6.14,
     "color": {
@@ -555,7 +555,7 @@
   {
     "contentKey": "722a11d93ee9a3b9",
     "supplierVariantId": "SO11346BL-S",
-    "stock": 7090,
+    "stock": 7070,
     "stockLevel": "in-stock",
     "price": 6.14,
     "color": {
@@ -613,7 +613,7 @@
   {
     "contentKey": "7699a6db66ce55d0",
     "supplierVariantId": "SO11346RE-M",
-    "stock": 4781,
+    "stock": 4766,
     "stockLevel": "in-stock",
     "price": 6.14,
     "color": {
@@ -633,7 +633,7 @@
   {
     "contentKey": "76d67e6a9ac4e1ea",
     "supplierVariantId": "SO11346RO-2XL",
-    "stock": 1013,
+    "stock": 1009,
     "stockLevel": "in-stock",
     "price": 6.14,
     "color": {
@@ -671,7 +671,7 @@
   {
     "contentKey": "78e470d39b655fc1",
     "supplierVariantId": "SO11346BL-L",
-    "stock": 30844,
+    "stock": 30813,
     "stockLevel": "in-stock",
     "price": 6.14,
     "color": {
@@ -691,7 +691,7 @@
   {
     "contentKey": "7e69b7328307f74c",
     "supplierVariantId": "SO11346BL-2XL",
-    "stock": 8408,
+    "stock": 8404,
     "stockLevel": "in-stock",
     "price": 6.14,
     "color": {
@@ -729,7 +729,7 @@
   {
     "contentKey": "7ed7953161f268a7",
     "supplierVariantId": "SO11346FN-XL",
-    "stock": 11060,
+    "stock": 11032,
     "stockLevel": "in-stock",
     "price": 6.14,
     "color": {
@@ -749,7 +749,7 @@
   {
     "contentKey": "80f2b05595dbcf46",
     "supplierVariantId": "SO11346RO-M",
-    "stock": 5006,
+    "stock": 4998,
     "stockLevel": "in-stock",
     "price": 6.14,
     "color": {
@@ -769,7 +769,7 @@
   {
     "contentKey": "8293d88e3f222910",
     "supplierVariantId": "SO11346RE-XL",
-    "stock": 3257,
+    "stock": 3252,
     "stockLevel": "in-stock",
     "price": 6.14,
     "color": {
@@ -789,7 +789,7 @@
   {
     "contentKey": "8a5604b5a606d6ab",
     "supplierVariantId": "SO11346FN-2XL",
-    "stock": 6535,
+    "stock": 6529,
     "stockLevel": "in-stock",
     "price": 6.14,
     "color": {
@@ -808,7 +808,7 @@
   {
     "contentKey": "8a5604b5a606d6ab",
     "supplierVariantId": "SO11346FN-3XL",
-    "stock": 1982,
+    "stock": 1975,
     "stockLevel": "in-stock",
     "price": 7.32,
     "color": {
@@ -827,7 +827,7 @@
   {
     "contentKey": "980470a84bf78806",
     "supplierVariantId": "SO11346DG-XL",
-    "stock": 1756,
+    "stock": 1645,
     "stockLevel": "in-stock",
     "price": 6.14,
     "color": {
@@ -847,7 +847,7 @@
   {
     "contentKey": "a7948023f85f38d7",
     "supplierVariantId": "SO11346FN-L",
-    "stock": 15074,
+    "stock": 15046,
     "stockLevel": "in-stock",
     "price": 6.14,
     "color": {
@@ -940,7 +940,7 @@
   {
     "contentKey": "bbfde7c3183547b6",
     "supplierVariantId": "SO11346SB-S",
-    "stock": 129,
+    "stock": 78,
     "stockLevel": "in-stock",
     "price": 6.14,
     "color": {
@@ -960,7 +960,7 @@
   {
     "contentKey": "bca0cefd725f1d3b",
     "supplierVariantId": "SO11346DG-M",
-    "stock": 1499,
+    "stock": 1287,
     "stockLevel": "in-stock",
     "price": 6.14,
     "color": {
@@ -992,7 +992,7 @@
   {
     "contentKey": "ce3ba2612d79465f",
     "supplierVariantId": "SO11346KL-XL",
-    "stock": 308,
+    "stock": 258,
     "stockLevel": "in-stock",
     "price": 6.14,
     "color": {
@@ -1012,7 +1012,7 @@
   {
     "contentKey": "d4ea389b7a16058c",
     "supplierVariantId": "SO11346WH-2XL",
-    "stock": 2702,
+    "stock": 2681,
     "stockLevel": "in-stock",
     "price": 6.01,
     "color": {
@@ -1050,7 +1050,7 @@
   {
     "contentKey": "d629a6a3d24af214",
     "supplierVariantId": "SO11346BL-M",
-    "stock": 25519,
+    "stock": 25494,
     "stockLevel": "in-stock",
     "price": 6.14,
     "color": {
@@ -1108,7 +1108,7 @@
   {
     "contentKey": "da0833295c43a47b",
     "supplierVariantId": "SO11346DG-2XL",
-    "stock": 1031,
+    "stock": 921,
     "stockLevel": "in-stock",
     "price": 6.14,
     "color": {
@@ -1146,7 +1146,7 @@
   {
     "contentKey": "dba6f7303389fe42",
     "supplierVariantId": "SO11346GM-M",
-    "stock": 911,
+    "stock": 909,
     "stockLevel": "in-stock",
     "price": 6.14,
     "color": {
@@ -1204,7 +1204,7 @@
   {
     "contentKey": "e734b8a6aab81c37",
     "supplierVariantId": "SO11346BL-XL",
-    "stock": 21282,
+    "stock": 21210,
     "stockLevel": "in-stock",
     "price": 6.14,
     "color": {
@@ -1244,7 +1244,7 @@
   {
     "contentKey": "f020342ab113f08b",
     "supplierVariantId": "SO11346RO-XL",
-    "stock": 1800,
+    "stock": 1788,
     "stockLevel": "in-stock",
     "price": 6.14,
     "color": {
@@ -1284,7 +1284,7 @@
   {
     "contentKey": "f1189bf140213e03",
     "supplierVariantId": "SO11346KL-S",
-    "stock": 173,
+    "stock": 73,
     "stockLevel": "in-stock",
     "price": 6.14,
     "color": {
@@ -1304,7 +1304,7 @@
   {
     "contentKey": "fa4ed4ecdd5a696d",
     "supplierVariantId": "SO11346GM-L",
-    "stock": 1224,
+    "stock": 1218,
     "stockLevel": "in-stock",
     "price": 6.14,
     "color": {
@@ -1324,7 +1324,7 @@
   {
     "contentKey": "fe8ba46e61c69bdc",
     "supplierVariantId": "SO11346WH-M",
-    "stock": 3262,
+    "stock": 3125,
     "stockLevel": "in-stock",
     "price": 6.01,
     "color": {

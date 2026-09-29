@@ -1,5 +1,105 @@
 [
   {
+    "slug": "bluecollection-17731",
+    "name": "Hand fan BREEZI",
+    "category": "lanyards-and-events/event-accessories/fans",
+    "summary": "The BREEZI handheld fan is a practical gadget for summer that provides a refreshing breeze where you need it most. You can use it in your hand or place it on your desk, making it useful whether you are at home, at wor...",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
+    "personalizations": [
+      "uv-transfer",
+      "pad-screen",
+      "uv-print"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "D1",
+        "label": "Doming",
+        "labelRo": "Doming",
+        "printSizes": [
+          "25.00"
+        ]
+      },
+      {
+        "code": "N2",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "25.00 x 30.00 mm"
+        ]
+      },
+      {
+        "code": "U1",
+        "label": "UV printing",
+        "labelRo": "Imprimare UV",
+        "printSizes": [
+          "20.00",
+          "30.00 x 20.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "17731",
+    "supplierVariantIds": [
+      "17731-01"
+    ],
+    "price": 7.98,
+    "priceFrom": false,
+    "stock": 6,
+    "stockLevel": "low",
+    "images": [
+      "https://bluecollection.eu/assets/img/17731-01.jpg",
+      "https://bluecollection.eu/assets/img/17731-01_d.jpg",
+      "https://bluecollection.eu/assets/img/17731-01_ep.jpg",
+      "https://bluecollection.eu/assets/img/17731-01_et.jpg",
+      "https://bluecollection.eu/assets/img/17731-01_l.jpg",
+      "https://bluecollection.eu/assets/img/17731-01_m.jpg",
+      "https://bluecollection.eu/assets/img/17731-01_n.jpg",
+      "https://bluecollection.eu/assets/img/17731-01_zu.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/17731.html",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "White"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "80 × 140 × 32 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "plastic"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "100 pcs",
+        "valueRo": "100 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 110,
+    "capacity": "400 mAh",
+    "descriptionLong": "The BREEZI handheld fan is a practical gadget for summer that provides a refreshing breeze where you need it most. You can use it in your hand or place it on your desk, making it useful whether you are at home, at work or on the move. Equipped with three cooling modes, it allows you to easily adjust the intensity of the fan to your own preference. Thanks to its 400 mAh battery, it runs for up to 1.5 hours without being plugged in and takes only about 60 minutes to fully charge via USB-C. The lightweight and handy design means that it will fit into a bag or backpack, becoming a reliable companion on hot days. In addition, the fan can be branded, making it an interesting advertising gadget for summer promotional campaigns.",
+    "hasVariantDetail": false
+  },
+  {
     "slug": "cifra-10010-n",
     "name": "FAN “NEW CELEBRACIÓN\"",
     "category": "lanyards-and-events/event-accessories/fans",
@@ -30,7 +130,7 @@
     "images": [
       "https://www.publicatalogue.com/image/cache/data/10010-N-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,
@@ -79,7 +179,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "168"
+        "value": "GENERAL:168"
       }
     ],
     "weightGrams": 30,
@@ -129,7 +229,7 @@
       "https://www.publicatalogue.com/image/cache/data/10687-LI-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/10687-NE-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -199,7 +299,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "170"
+        "value": "GENERAL:170 XMAS:254"
       }
     ],
     "weightGrams": 17,
@@ -250,7 +350,7 @@
       "https://www.publicatalogue.com/image/cache/data/10791-NE-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/10791-RS-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-17T08:37:12.610Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -313,7 +413,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "171"
+        "value": "GENERAL:171"
       }
     ],
     "weightGrams": 55,
@@ -369,10 +469,10 @@
     "images": [
       "https://www.publicatalogue.com/image/cache/data/11058-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/11058-03-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/11058-02-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/11058-01-500x500.jpg"
+      "https://www.publicatalogue.com/image/cache/data/details/11058-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11058-02-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,
@@ -421,7 +521,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "171"
+        "value": "GENERAL:171 XMAS:254"
       }
     ],
     "weightGrams": 54,
@@ -479,7 +579,7 @@
       "https://www.publicatalogue.com/image/cache/data/details/11064-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/11064-02-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,
@@ -528,7 +628,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "169"
+        "value": "GENERAL:169 XMAS:253"
       }
     ],
     "weightGrams": 40,
@@ -591,7 +691,7 @@
       "https://www.publicatalogue.com/image/cache/data/11071-RS-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/11071-RS-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -654,12 +754,103 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "170"
+        "value": "GENERAL:170 XMAS:254"
       }
     ],
     "weightGrams": 37,
     "descriptionLong": "Mini-size hand fan, ideal for party handbags or small bags.Perfect to carry in your bag thanks to its compact size, almost half the size of a standard hand fan.It is the ideal detail for any type of celebration.Each piece in an individual box.",
     "hasVariantDetail": true
+  },
+  {
+    "slug": "cifra-11076",
+    "name": "SELF-SUCTION STEAM IRON “FANTASTIC”",
+    "category": "lanyards-and-events/event-accessories/fans",
+    "summary": "Effective against stubborn creases and thick fabrics. Suitable for all types of garments, including the most delicate ones such as silk.Its suction technology removes dust instantly whilst smoothing out your clothes. ...",
+    "accent": "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "I",
+        "label": "Cifra decoration code I",
+        "labelRo": "Cod personalizare Cifra I",
+        "printSizes": [
+          "30x10 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "11076",
+    "supplierVariantIds": [
+      "11076"
+    ],
+    "price": 43.61,
+    "priceFrom": false,
+    "stock": 500,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/11076-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11076-12-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11076-11-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11076-10-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11076-09-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11076-08-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11076-07-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11076-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11076-06-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11076-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11076-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11076-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11076-01-500x500.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
+    "variantCount": 1,
+    "colorCount": 0,
+    "sizeCount": 0,
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "14 × 24 × 9 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "ABS and steel"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "54,5 x 42,5 x 30,5 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "11.7 kg",
+        "valueRo": "11.7 kg"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "XMAS:299"
+      }
+    ],
+    "descriptionLong": "Effective against stubborn creases and thick fabrics. Suitable for all types of garments, including the most delicate ones such as silk.Its suction technology removes dust instantly whilst smoothing out your clothes. The even distribution of steam allows it to penetrate the fibres, helping to refresh fabrics, provide hygienic care and eliminate unpleasant odours.Ceramic soleplate, ergonomic design with a 2.2 m long cable.Features an on/off button, intuitive controls and an indicator light.1100 W. Maximum suction: 4000 Pa. Heat-up time: 25 s. Maximum steam temperature: 130ºC. Maximum continuous steam output: 25 g/min. Automatic shut-off after 15 minutes of inactivity or if the water tank is empty.",
+    "hasVariantDetail": false
   },
   {
     "slug": "cifra-11084",
@@ -700,25 +891,25 @@
       "https://www.publicatalogue.com/image/cache/data/details/11084-BL-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/11084-BL-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/11084-CR-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/11084-CR-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/11084-CR-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11084-CR-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/11084-LI-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/11084-LI-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/11084-LI-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11084-LI-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/11084-NE-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/11084-NE-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/11084-NE-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/11084-RO-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/11084-RO-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/11084-RO-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11084-RO-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/11084-RY-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/11084-RY-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/11084-RY-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11084-RY-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/11084-VE-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/11084-VE-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/11084-VE-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 7,
     "colorCount": 7,
     "sizeCount": 0,
@@ -792,6 +983,12 @@
         "labelRo": "Greutate netă cutie",
         "value": "11 kg",
         "valueRo": "11 kg"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "XMAS:255"
       }
     ],
     "weightGrams": 36,
@@ -864,8 +1061,8 @@
       "https://www.publicatalogue.com/image/cache/data/details/11085-CR-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/11085-CR-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/11085-NE-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/11085-NE-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/11085-NE-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11085-NE-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/11085-RO-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/11085-RO-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/11085-RO-01-500x500.jpg",
@@ -873,7 +1070,7 @@
       "https://www.publicatalogue.com/image/cache/data/details/11085-RY-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/11085-RY-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -939,6 +1136,12 @@
         "labelRo": "Greutate netă cutie",
         "value": "13 kg",
         "valueRo": "13 kg"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "XMAS:255"
       }
     ],
     "weightGrams": 60,
@@ -1001,11 +1204,11 @@
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/11128-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/11128-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/11128-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11128-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/11128-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-25T08:46:57.987Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,
@@ -1049,6 +1252,12 @@
         "labelRo": "Greutate netă cutie",
         "value": "12 kg",
         "valueRo": "12 kg"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "XMAS:253"
       }
     ],
     "weightGrams": 44,
@@ -1111,7 +1320,7 @@
       "https://www.publicatalogue.com/image/cache/data/details/T-156-NE-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-156-VE-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -1181,7 +1390,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "172"
+        "value": "GENERAL:172"
       }
     ],
     "weightGrams": 44,
@@ -1261,7 +1470,7 @@
       "https://www.publicatalogue.com/image/cache/data/T-158-RY-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-158-VE-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-23T08:32:11.036Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 13,
     "colorCount": 12,
     "sizeCount": 0,
@@ -1367,7 +1576,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "172"
+        "value": "GENERAL:172"
       }
     ],
     "weightGrams": 52,
@@ -1424,7 +1633,7 @@
       "https://www.publicatalogue.com/image/cache/data/details/T-158-CO-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-158-CO-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1451,8 +1660,8 @@
         "key": "units-per-carton",
         "label": "Units per carton",
         "labelRo": "Unități per cutie",
-        "value": "25 pcs",
-        "valueRo": "25 buc."
+        "value": "10 pcs",
+        "valueRo": "10 buc."
       },
       {
         "key": "carton-dimensions",
@@ -1573,7 +1782,7 @@
       "https://www.publicatalogue.com/image/cache/data/T-160-RY-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-160-VE-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-24T08:24:48.822Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 13,
     "colorCount": 11,
     "sizeCount": 0,
@@ -1681,7 +1890,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "168"
+        "value": "GENERAL:168"
       }
     ],
     "weightGrams": 39,
@@ -1745,7 +1954,7 @@
     "images": [
       "https://www.publicatalogue.com/image/cache/data/T-160-CO-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1844,7 +2053,7 @@
     "images": [
       "https://www.publicatalogue.com/image/cache/data/T-161-MD-N-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-16T08:33:17.943Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,
@@ -1900,7 +2109,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "168"
+        "value": "GENERAL:168"
       }
     ],
     "weightGrams": 38,
@@ -1952,7 +2161,7 @@
     ],
     "price": 2.34,
     "priceFrom": false,
-    "stock": 12951,
+    "stock": 12911,
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/T-214-BL-500x500.jpg",
@@ -1960,7 +2169,7 @@
       "https://www.publicatalogue.com/image/cache/data/details/T-214-CR-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-214-CR-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:44.113Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -2026,7 +2235,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "171"
+        "value": "GENERAL:171 XMAS:254"
       }
     ],
     "weightGrams": 55,
@@ -2082,7 +2291,7 @@
       "https://www.publicatalogue.com/image/cache/data/T-228-RY-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-228-VE-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:44.113Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 10,
     "colorCount": 10,
     "sizeCount": 0,
@@ -2173,7 +2382,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "168"
+        "value": "GENERAL:168"
       }
     ],
     "weightGrams": 23,
@@ -2213,7 +2422,7 @@
       "https://www.publicatalogue.com/image/cache/data/details/T-236-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-236-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-18T08:12:40.028Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,
@@ -2269,7 +2478,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "171"
+        "value": "GENERAL:171"
       }
     ],
     "weightGrams": 50,
@@ -2332,7 +2541,7 @@
     "images": [
       "https://cdn1.midocean.com/image/700X700/it3491-06.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:10.287Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2443,7 +2652,7 @@
     ],
     "price": 0.78,
     "priceFrom": false,
-    "stock": 47147,
+    "stock": 47122,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/kc6733-03.jpg",
@@ -2455,7 +2664,7 @@
       "https://cdn1.midocean.com/image/700X700/kc6733-48.jpg",
       "https://cdn1.midocean.com/image/700X700/kc6733-03-box.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 7,
     "colorCount": 7,
     "sizeCount": 0,
@@ -2600,7 +2809,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2123-06-box.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2123-06-picture1.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:10.287Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2714,7 +2923,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2779-06-box.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2779-06-picture1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -2837,7 +3046,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2780-06-picture5.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2780-06-picture6.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -2954,7 +3163,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2883-03-picture1.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2883-03-picture6.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -3056,7 +3265,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6232-13-print.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6232-13-box.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3156,7 +3365,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6446-99-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6446-99-box.jpg"
     ],
-    "fetchedAt": "2026-09-26T08:33:23.778Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3256,7 +3465,7 @@
     ],
     "price": 0.86,
     "priceFrom": false,
-    "stock": 10348,
+    "stock": 10248,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo6828-03.jpg",
@@ -3273,7 +3482,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6828-03-side.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6828-03-open.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 10,
     "colorCount": 10,
     "sizeCount": 0,
@@ -3395,7 +3604,7 @@
       "https://cdn1.midocean.com/image/700X700/mo8376-06-print.jpg",
       "https://cdn1.midocean.com/image/700X700/mo8376-06-box.jpg"
     ],
-    "fetchedAt": "2026-09-25T08:46:53.461Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3502,7 +3711,7 @@
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo8895-06.jpg"
     ],
-    "fetchedAt": "2026-09-08T08:02:35.051Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3600,7 +3809,7 @@
     ],
     "price": 1.37,
     "priceFrom": false,
-    "stock": 78126,
+    "stock": 78044,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo9532-03.jpg",
@@ -3614,7 +3823,7 @@
       "https://cdn1.midocean.com/image/700X700/mo9532-03a.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9532-03-box.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 8,
     "colorCount": 8,
     "sizeCount": 0,

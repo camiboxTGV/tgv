@@ -2,7 +2,7 @@
   {
     "contentKey": "0a5843014c56dea8",
     "supplierVariantId": "MO2442-16",
-    "stock": 2793,
+    "stock": 2893,
     "stockLevel": "in-stock",
     "price": 12.53,
     "color": {
@@ -28,8 +28,8 @@
   {
     "contentKey": "3412a84c365a2056",
     "supplierVariantId": "MO2442-10",
-    "stock": 8,
-    "stockLevel": "low",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 12.53,
     "color": {
       "name": "Orange"
@@ -67,7 +67,7 @@
   {
     "contentKey": "d717de88fa8c8720",
     "supplierVariantId": "MO2442-03",
-    "stock": 7825,
+    "stock": 7748,
     "stockLevel": "in-stock",
     "price": 12.53,
     "color": {

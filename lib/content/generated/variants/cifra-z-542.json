@@ -1,5 +1,23 @@
 [
   {
+    "contentKey": "32ac1616ce46041a",
+    "supplierVariantId": "Z-542-MR",
+    "stock": 25,
+    "stockLevel": "in-stock",
+    "price": 8.06,
+    "color": {
+      "name": "Brown",
+      "hex": "#800000"
+    },
+    "imageRefs": [
+      20,
+      21,
+      22,
+      23,
+      24
+    ]
+  },
+  {
     "contentKey": "9b0a913775f398b3",
     "supplierVariantId": "Z-542-AZ-D",
     "stock": 2830,
@@ -24,11 +42,11 @@
       "hex": "#000000"
     },
     "imageRefs": [
-      15,
-      16,
-      17,
-      18,
-      19
+      25,
+      26,
+      27,
+      28,
+      29
     ]
   },
   {
@@ -47,6 +65,24 @@
       7,
       8,
       9
+    ]
+  },
+  {
+    "contentKey": "d96fc8c3d3b2e516",
+    "supplierVariantId": "Z-542-MA",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 8.06,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "imageRefs": [
+      15,
+      16,
+      17,
+      18,
+      19
     ]
   },
   {
@@ -78,11 +114,11 @@
       "hex": "#FF0000"
     },
     "imageRefs": [
-      20,
-      21,
-      22,
-      23,
-      24
+      30,
+      31,
+      32,
+      33,
+      34
     ]
   }
 ]

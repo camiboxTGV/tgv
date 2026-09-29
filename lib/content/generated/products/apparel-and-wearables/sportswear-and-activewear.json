@@ -38,11 +38,11 @@
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/10209-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10209-04-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10209-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10209-04-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10209-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-27T14:09:14.901Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,
@@ -104,7 +104,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "147"
+        "value": "GENERAL:147"
       }
     ],
     "weightGrams": 640,
@@ -141,11 +141,11 @@
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/10300-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10300-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10300-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10300-02-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10300-03-500x500.jpg"
+      "https://www.publicatalogue.com/image/cache/data/details/10300-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -206,7 +206,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "459"
+        "value": "GENERAL:459 XMAS:276"
       }
     ],
     "weightGrams": 38,
@@ -247,7 +247,7 @@
       "https://www.publicatalogue.com/image/cache/data/details/10301-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10301-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:44.113Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -315,7 +315,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "459"
+        "value": "GENERAL:459 XMAS:276"
       }
     ],
     "weightGrams": 48,
@@ -346,7 +346,8 @@
     "supplierVariantIds": [
       "10793-AZ",
       "10793-RO",
-      "10793-RS"
+      "10793-RS",
+      "10793-VE"
     ],
     "price": 1.5,
     "priceFrom": false,
@@ -358,16 +359,22 @@
       "https://www.publicatalogue.com/image/cache/data/10793-RO-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10793-RO-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/10793-RS-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10793-RS-01-500x500.jpg"
+      "https://www.publicatalogue.com/image/cache/data/details/10793-RS-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/10793-VE-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10793-VE-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:44.113Z",
-    "variantCount": 3,
-    "colorCount": 3,
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
+    "variantCount": 4,
+    "colorCount": 4,
     "sizeCount": 0,
     "colorSwatches": [
       {
         "name": "Blue",
         "hex": "#4169E1"
+      },
+      {
+        "name": "Green",
+        "hex": "#00FF00"
       },
       {
         "name": "Pink",
@@ -418,6 +425,12 @@
         "labelRo": "Greutate netă cutie",
         "value": "9.5 kg",
         "valueRo": "9.5 kg"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "XMAS:23"
       }
     ],
     "weightGrams": 95,
@@ -485,8 +498,8 @@
       "https://www.publicatalogue.com/image/cache/data/details/10955-S-NA-MA-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10955-S-NA-MA-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/10955-XL-NA-MA-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10955-XL-NA-MA-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10955-XL-NA-MA-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10955-XL-NA-MA-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/10955-XS-NA-MA-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10955-XS-NA-MA-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10955-XS-NA-MA-01-500x500.jpg",
@@ -494,7 +507,7 @@
       "https://www.publicatalogue.com/image/cache/data/details/10955-XXL-NA-MA-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10955-XXL-NA-MA-02-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-02T07:53:03.677Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 6,
     "colorCount": 0,
     "sizeCount": 0,
@@ -537,7 +550,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "615"
+        "value": "GENERAL:615 XMAS:331"
       }
     ],
     "descriptionLong": "Short-sleeved polo shirt with reflective stripes, made of 100% polyester, available in a wide variety of colors.Polyester 140 g/m²Size GuideSize XS: Chest width (measured from armpit to armpit) 48 cm x Length 63 cmSize S: Chest width (measured from armpit to armpit) 50 cm x Length 65 cmSize M: Chest width (measured from armpit to armpit) 52 cm x Length 70 cmSize L: Chest width (measured from armpit to armpit) 55 cm x Length 73 cm Size XL: Chest width (measured from armpit to armpit) 59 cm x Length 75 cmSize XXL: Chest width (measured from armpit to armpit) 61 cm x Length 77 cmSize 3XL, chest width (measured from armpit to armpit) 65 cm x 77 cm length.Size 4XL, chest width (measured from armpit to armpit) 69 cm x 78 cm length.",
@@ -593,7 +606,7 @@
       "https://www.publicatalogue.com/image/cache/data/details/10955-3XL-NA-MA-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10955-3XL-NA-MA-02-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,
@@ -636,7 +649,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "615"
+        "value": "GENERAL:615 XMAS:331"
       }
     ],
     "descriptionLong": "Short-sleeved polo shirt with reflective stripes, made of 100% polyester, available in a wide variety of colors.Polyester 140 g/m²Size GuideSize XS: Chest width (measured from armpit to armpit) 48 cm x Length 63 cmSize S: Chest width (measured from armpit to armpit) 50 cm x Length 65 cmSize M: Chest width (measured from armpit to armpit) 52 cm x Length 70 cmSize L: Chest width (measured from armpit to armpit) 55 cm x Length 73 cm Size XL: Chest width (measured from armpit to armpit) 59 cm x Length 75 cmSize XXL: Chest width (measured from armpit to armpit) 61 cm x Length 77 cmSize 3XL, chest width (measured from armpit to armpit) 65 cm x 77 cm length.SizeShort-sleeved polo shirt with reflective stripes, made of 100% polyester, available in a wide variety of colors.Polyester 140 g/m²Size GuideSize XS: Chest width (measured from armpit to armpit) 48 cm x Length 63 cmSize S: Chest width (measured from armpit to armpit) 50 cm x Length 65 cmSize M: Chest width (measured from armpit to armpit) 52 cm x Length 70 cmSize L: Chest width (measured from armpit to armpit) 55 cm x Length 73 cm Size XL: Chest width (measured from armpit to armpit) 59 cm x Length 75 cmSize XXL: Chest width (measured from armpit to armpit) 61 cm x Length 77 cmSize 3XL, chest width (measured from armpit to armpit) 65 cm x 77 cm length.Size 4XL, chest width (measured from armpit to armpit) 69 cm x 78 cm length.4XL, chest width (measured from armpit to armpit) 69 cm x 78 cm length.",
@@ -692,7 +705,7 @@
       "https://www.publicatalogue.com/image/cache/data/details/10955-4XL-NA-MA-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10955-4XL-NA-MA-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,
@@ -735,7 +748,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "615"
+        "value": "GENERAL:615 XMAS:331"
       }
     ],
     "descriptionLong": "Short-sleeved polo shirt with reflective stripes, made of 100% polyester, available in a wide variety of colors.Polyester 140 g/m²Size GuideSize XS: Chest width (measured from armpit to armpit) 48 cm x Length 63 cmSize S: Chest width (measured from armpit to armpit) 50 cm x Length 65 cmSize M: Chest width (measured from armpit to armpit) 52 cm x Length 70 cmSize L: Chest width (measured from armpit to armpit) 55 cm x Length 73 cm Size XL: Chest width (measured from armpit to armpit) 59 cm x Length 75 cmSize XXL: Chest width (measured from armpit to armpit) 61 cm x Length 77 cmSize 3XL, chest width (measured from armpit to armpit) 65 cm x 77 cm length.Size 4XL, chest width (measured from armpit to armpit) 69 cm x 78 cm length.",
@@ -788,13 +801,13 @@
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/11052-GR-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/11052-GR-04-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/11052-GR-06-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/11052-GR-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11052-GR-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11052-GR-04-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/11052-GR-01-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/11052-GR-05-500x500.jpg"
+      "https://www.publicatalogue.com/image/cache/data/details/11052-GR-03-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -849,12 +862,228 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "143"
+        "value": "GENERAL:143 XMAS:273"
       }
     ],
     "weightGrams": 515,
     "descriptionLong": "100% cotton bathrobe with a horizontal stripe design in grey tones. Soft, lightweight, and hooded, it is ideal for the pool, spa, or after a shower.It features two front pockets, a matching belt, and an inner hanging loop.Each bathrobe is presented in an individual bag.",
     "hasVariantDetail": false
+  },
+  {
+    "slug": "cifra-11112",
+    "name": "GIFT BAG \"XMAS LIGHTS\"",
+    "category": "apparel-and-wearables/sportswear-and-activewear",
+    "summary": "Reusable bag with a festive spirit, a sophisticated black background design with golden details. Its print shows a Christmas tree made of snowflakes, hanging holiday balls and a starry sky.Made of laminated non-woven ...",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "F",
+        "label": "Cifra decoration code F",
+        "labelRo": "Cod personalizare Cifra F",
+        "printSizes": [
+          "200x60 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "11112",
+    "supplierVariantIds": [
+      "11112-NE"
+    ],
+    "price": 0.66,
+    "priceFrom": false,
+    "stock": 5000,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/11112-NE-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11112-NE-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11112-NE-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11112-NE-01-500x500.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "43 × 33 × 11 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Laminated non woven"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "10 pcs",
+        "valueRo": "10 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "45,0 x 44,0 x 58,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "16.4 kg",
+        "valueRo": "16.4 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "15.4 kg",
+        "valueRo": "15.4 kg"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "XMAS:24"
+      }
+    ],
+    "weightGrams": 59,
+    "descriptionLong": "Reusable bag with a festive spirit, a sophisticated black background design with golden details. Its print shows a Christmas tree made of snowflakes, hanging holiday balls and a starry sky.Made of laminated non-woven fabric that provides strength and shine.",
+    "hasVariantDetail": false
+  },
+  {
+    "slug": "cifra-11183",
+    "name": "CHRISTMAS WINE BAG \"KAYLA\"",
+    "category": "apparel-and-wearables/sportswear-and-activewear",
+    "summary": "A gift bag for bottles featuring an elegant Christmas design. Designed to replace wrapping paper, it is ideal for promotional campaigns, hampers or corporate gifts.",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
+    "personalizations": [
+      "pad-screen",
+      "textile-transfer"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "F",
+        "label": "Cifra decoration code F",
+        "labelRo": "Cod personalizare Cifra F",
+        "printSizes": [
+          "100x60 mm"
+        ]
+      },
+      {
+        "code": "DTF",
+        "label": "Direct-to-film transfer",
+        "labelRo": "Transfer DTF",
+        "printSizes": [
+          "100x60 mm"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "11183",
+    "supplierVariantIds": [
+      "11183-MA",
+      "11183-RO",
+      "11183-VE"
+    ],
+    "price": 0.19,
+    "priceFrom": false,
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/11183-MA-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11183-MA-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11183-MA-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/11183-RO-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11183-RO-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11183-RO-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/11183-VE-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11183-VE-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11183-VE-02-500x500.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
+    "variantCount": 3,
+    "colorCount": 3,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Green",
+        "hex": "#00FF00"
+      },
+      {
+        "name": "Marine",
+        "hex": "#00008B"
+      },
+      {
+        "name": "Red",
+        "hex": "#FF0000"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "16 × 41 × 0 cm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "Gloss laminated non woven"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "10 pcs",
+        "valueRo": "10 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "51,0 x 36,0 x 51,0 cm"
+      },
+      {
+        "key": "gross-carton-weight",
+        "label": "Gross carton weight",
+        "labelRo": "Greutate brută cutie",
+        "value": "13.5 kg",
+        "valueRo": "13.5 kg"
+      },
+      {
+        "key": "net-carton-weight",
+        "label": "Net carton weight",
+        "labelRo": "Greutate netă cutie",
+        "value": "12.5 kg",
+        "valueRo": "12.5 kg"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "XMAS:25,341"
+      }
+    ],
+    "weightGrams": 13,
+    "descriptionLong": "A gift bag for bottles featuring an elegant Christmas design. Designed to replace wrapping paper, it is ideal for promotional campaigns, hampers or corporate gifts.",
+    "hasVariantDetail": true
   },
   {
     "slug": "cifra-pd-30",
@@ -886,7 +1115,7 @@
       "https://www.publicatalogue.com/image/cache/data/PD-30-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/PD-30-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:44.113Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,
@@ -935,7 +1164,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "631"
+        "value": "GENERAL:631 XMAS:34"
       }
     ],
     "weightGrams": 59,
@@ -975,7 +1204,7 @@
       "https://www.publicatalogue.com/image/cache/data/PD-37-VE-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/PD-37-VE-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:44.113Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -1034,11 +1263,99 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "630"
+        "value": "GENERAL:630 XMAS:34"
       }
     ],
     "weightGrams": 59,
     "descriptionLong": "Jacquard tie with reindeer motif. Celebrate the Christmas holidays with the most elegant motifs.Includes presentation case Z-402.",
+    "hasVariantDetail": true
+  },
+  {
+    "slug": "cifra-pd-38",
+    "name": "CHRISTMAS TIE \"COPITO\"",
+    "category": "apparel-and-wearables/sportswear-and-activewear",
+    "summary": "This classic tie combines an elegant aesthetic with a subtle winter motif, making it the ideal accessory for corporate events, Christmas celebrations or distinguished promotional gifts.Made of microfiber, a durable ma...",
+    "accent": "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
+    "personalizations": [],
+    "supplierPersonalizations": [
+      {
+        "code": "SE SIRVE SIN MARCAR",
+        "label": "Supplied without decoration",
+        "labelRo": "Livrat fără personalizare",
+        "printSizes": [
+          "se sirve sin marcar"
+        ]
+      }
+    ],
+    "supplierId": "cifra",
+    "supplierSku": "PD-38",
+    "supplierVariantIds": [
+      "PD-38-AZ",
+      "PD-38-RO",
+      "PD-38-VE"
+    ],
+    "price": 6.49,
+    "priceFrom": false,
+    "stock": 308,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://www.publicatalogue.com/image/cache/data/PD-38-AZ-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/PD-38-AZ-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/PD-38-AZ-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/PD-38-RO-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/PD-38-RO-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/PD-38-RO-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/PD-38-VE-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/PD-38-VE-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/PD-38-VE-03-500x500.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
+    "variantCount": 3,
+    "colorCount": 3,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "Blue",
+        "hex": "#4169E1"
+      },
+      {
+        "name": "Green",
+        "hex": "#00FF00"
+      },
+      {
+        "name": "Red",
+        "hex": "#FF0000"
+      }
+    ],
+    "availableSizes": [],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "8.4 × 155 × 0 cm"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "1 pcs",
+        "valueRo": "1 buc."
+      },
+      {
+        "key": "carton-dimensions",
+        "label": "Carton dimensions",
+        "labelRo": "Dimensiuni cutie",
+        "value": "0,0 x 0,0 x 0,0 cm"
+      },
+      {
+        "key": "catalog-pages",
+        "label": "Catalogue pages",
+        "labelRo": "Pagini catalog",
+        "value": "XMAS:34"
+      }
+    ],
+    "descriptionLong": "This classic tie combines an elegant aesthetic with a subtle winter motif, making it the ideal accessory for corporate events, Christmas celebrations or distinguished promotional gifts.Made of microfiber, a durable material that offers a sophisticated finish, silky smooth feel and excellent wrinkle resistance.Features a navy blue background with a snowflake pattern, bringing a festive touch.It has dimensions of 8.4 x 155 cm, a classic width and an optimal length that adapt perfectly to different types of knots.Each piece comes in a black cardboard box (served disassembled).",
     "hasVariantDetail": true
   },
   {
@@ -1080,12 +1397,13 @@
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/RP-036-ESP-N-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-036-ESP-N-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-036-ESP-N-05-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-036-ESP-N-04-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/RP-036-ESP-N-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-036-ESP-N-01-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/RP-036-ESP-N-03-500x500.jpg"
+      "https://www.publicatalogue.com/image/cache/data/details/RP-036-ESP-N-02-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,
@@ -1120,7 +1438,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "635"
+        "value": "GENERAL:635"
       }
     ],
     "descriptionLong": "Umbrella with a golf-style handle and windproof ribs, a system that prevents the umbrella from breaking in strong winds. Nylon fabric with a steel handle and EVA rubber grips for added comfort.",
@@ -1182,14 +1500,14 @@
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/RP-067-BL-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/RP-067-BL-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-067-BL-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-067-BL-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/RP-067-FU-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-067-FU-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-067-FU-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/RP-067-LI-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/RP-067-LI-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-067-LI-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-067-LI-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/RP-067-NA-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-067-NA-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-067-NA-01-500x500.jpg",
@@ -1197,14 +1515,14 @@
       "https://www.publicatalogue.com/image/cache/data/details/RP-067-NE-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-067-NE-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/RP-067-PS-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/RP-067-PS-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-067-PS-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-067-PS-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/RP-067-RO-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/RP-067-RO-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/RP-067-RO-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/RP-067-RO-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/RP-067-RY-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:44.113Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 8,
     "colorCount": 8,
     "sizeCount": 0,
@@ -1294,7 +1612,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "636,661 · 636"
+        "value": "636,661 · GENERAL:636"
       }
     ],
     "weightGrams": 315,
@@ -1332,7 +1650,7 @@
     "images": [
       "https://www.publicatalogue.com/image/cache/data/T-079-SUB-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-26T08:33:26.451Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,
@@ -1394,119 +1712,6 @@
     "weightGrams": 37,
     "descriptionLong": "2 front pockets",
     "hasVariantDetail": false
-  },
-  {
-    "slug": "cifra-t-1019",
-    "name": "KID LIGHT D&F T-SHIRT \"BAYGOR\"",
-    "category": "apparel-and-wearables/sportswear-and-activewear",
-    "summary": "Excellent basic T-shirts made of 100% technical polyester, with a wide variety of colors and being able to choose the same product in both adult and children's sizes. Fresh on the skin and ultra-fast drying.Polyester ...",
-    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
-    "personalizations": [
-      "pad-screen",
-      "textile-transfer"
-    ],
-    "supplierPersonalizations": [
-      {
-        "code": "F",
-        "label": "Cifra decoration code F",
-        "labelRo": "Cod personalizare Cifra F",
-        "printSizes": [
-          "80x80 mm"
-        ]
-      },
-      {
-        "code": "DTF",
-        "label": "Direct-to-film transfer",
-        "labelRo": "Transfer DTF",
-        "printSizes": [
-          "80x80 mm"
-        ]
-      },
-      {
-        "code": "BORDADO",
-        "label": "Embroidery",
-        "labelRo": "Broderie",
-        "printSizes": [
-          "80x80 mm"
-        ]
-      }
-    ],
-    "supplierId": "cifra",
-    "supplierSku": "T-1019",
-    "supplierVariantIds": [
-      "T-1019-12/14-FUR/NA",
-      "T-1019-2/3-FUR/NA",
-      "T-1019-4/6-FUR/NA",
-      "T-1019-8/10-FUR/NA"
-    ],
-    "price": 1.89,
-    "priceFrom": false,
-    "stock": 1657,
-    "stockLevel": "in-stock",
-    "images": [
-      "https://www.publicatalogue.com/image/cache/data/T-1019-12-14-FUR-NA-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1019-12-14-FUR-NA-01-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/T-1019-2-3-FUR-NA-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1019-2-3-FUR-NA-01-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/T-1019-4-6-FUR-NA-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1019-4-6-FUR-NA-01-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/T-1019-8-10-FUR-NA-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1019-8-10-FUR-NA-01-500x500.jpg"
-    ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
-    "variantCount": 4,
-    "colorCount": 0,
-    "sizeCount": 4,
-    "availableSizes": [
-      "2-3",
-      "4-6",
-      "8-10",
-      "12-14"
-    ],
-    "specifications": [
-      {
-        "key": "materials",
-        "label": "Materials",
-        "labelRo": "Materiale",
-        "value": "100% Polyester 135grs/m2"
-      },
-      {
-        "key": "units-per-carton",
-        "label": "Units per carton",
-        "labelRo": "Unități per cutie",
-        "value": "10 pcs",
-        "valueRo": "10 buc."
-      },
-      {
-        "key": "carton-dimensions",
-        "label": "Carton dimensions",
-        "labelRo": "Dimensiuni cutie",
-        "value": "43,0 x 30,0 x 28,0 cm · 43,0 x 29,0 x 28,0 cm"
-      },
-      {
-        "key": "gross-carton-weight",
-        "label": "Gross carton weight",
-        "labelRo": "Greutate brută cutie",
-        "value": "8 / 7 kg",
-        "valueRo": "8 / 7 kg"
-      },
-      {
-        "key": "net-carton-weight",
-        "label": "Net carton weight",
-        "labelRo": "Greutate netă cutie",
-        "value": "7 / 6 kg",
-        "valueRo": "7 / 6 kg"
-      },
-      {
-        "key": "catalog-pages",
-        "label": "Catalogue pages",
-        "labelRo": "Pagini catalog",
-        "value": "586"
-      }
-    ],
-    "weightGrams": 100,
-    "descriptionLong": "Excellent basic T-shirts made of 100% technical polyester, with a wide variety of colors and being able to choose the same product in both adult and children's sizes. Fresh on the skin and ultra-fast drying.Polyester 135 gr/m2For orders of more than 100 units of a single size consult commercials.",
-    "hasVariantDetail": true
   },
   {
     "slug": "cifra-t-1060",
@@ -1584,8 +1789,8 @@
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/T-1060-M-BL-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1060-M-BL-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1060-M-BL-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1060-M-BL-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1060-S-BL-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1060-S-BL-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1060-S-BL-01-500x500.jpg",
@@ -1596,23 +1801,23 @@
       "https://www.publicatalogue.com/image/cache/data/details/T-1060-XXL-BL-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1060-XXL-BL-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1065-L-NE-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1065-L-NE-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1065-L-NE-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1065-L-NE-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1065-M-NE-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1065-M-NE-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1065-M-NE-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1065-M-NE-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1065-S-NE-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1065-S-NE-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1065-S-NE-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1065-S-NE-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1065-XL-NE-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1065-XL-NE-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1065-XL-NE-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1065-XL-NE-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1065-XXL-NE-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1065-XXL-NE-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1065-XXL-NE-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1065-XXL-NE-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1067-L-AM-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1067-L-AM-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1067-L-AM-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1067-L-AM-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1067-M-AM-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1067-M-AM-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1067-M-AM-01-500x500.jpg",
@@ -1623,10 +1828,10 @@
       "https://www.publicatalogue.com/image/cache/data/details/T-1067-XL-AM-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1067-XL-AM-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1067-XXL-AM-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1067-XXL-AM-02-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1067-XXL-AM-01-500x500.jpg"
+      "https://www.publicatalogue.com/image/cache/data/details/T-1067-XXL-AM-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1067-XXL-AM-02-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-10T08:05:50.690Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 14,
     "colorCount": 3,
     "sizeCount": 5,
@@ -1695,7 +1900,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "595,655 · 595"
+        "value": "595,655 · GENERAL:595"
       }
     ],
     "weightGrams": 75,
@@ -1779,11 +1984,11 @@
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/T-1070-L-BL-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1070-L-BL-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1070-L-BL-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1070-L-BL-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1070-M-BL-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1070-M-BL-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1070-M-BL-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1070-M-BL-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1070-S-BL-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1070-S-BL-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1070-S-BL-02-500x500.jpg",
@@ -1791,17 +1996,17 @@
       "https://www.publicatalogue.com/image/cache/data/details/T-1075-L-NE-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1075-L-NE-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1075-M-NE-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1075-M-NE-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1075-M-NE-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1075-M-NE-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1075-S-NE-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1075-S-NE-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1075-S-NE-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1075-XL-NE-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1075-XL-NE-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1075-XL-NE-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1075-XL-NE-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1077-L-AM-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1077-L-AM-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1077-L-AM-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1077-L-AM-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1077-M-AM-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1077-M-AM-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1077-M-AM-01-500x500.jpg",
@@ -1818,7 +2023,7 @@
       "https://www.publicatalogue.com/image/cache/data/details/T-1078-S-RS-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1078-S-RS-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-21T08:53:23.532Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 13,
     "colorCount": 4,
     "sizeCount": 4,
@@ -1884,7 +2089,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "595,655 · 595"
+        "value": "595,655 · GENERAL:595"
       }
     ],
     "weightGrams": 60,
@@ -1933,42 +2138,42 @@
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/T-1090-L-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1090-L-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1090-L-05-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1090-L-03-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1090-L-04-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1090-L-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1090-L-06-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1090-L-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1090-L-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1090-L-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1090-L-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1090-M-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1090-M-06-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1090-M-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1090-M-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1090-M-04-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1090-M-03-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1090-M-06-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1090-M-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1090-M-05-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1090-S-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1090-S-05-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1090-S-04-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1090-S-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1090-S-06-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1090-S-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1090-S-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1090-S-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1090-S-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1090-S-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1090-S-04-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1090-XL-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1090-XL-04-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1090-XL-05-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1090-XL-01-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1090-XL-06-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1090-XL-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1090-XL-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1090-XL-05-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1090-XL-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1090-XL-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1090-XL-06-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1090-XL-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1090-XS-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1090-XS-04-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1090-XS-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1090-XS-03-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1090-XS-06-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1090-XS-05-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1090-XS-02-500x500.jpg"
+      "https://www.publicatalogue.com/image/cache/data/details/T-1090-XS-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1090-XS-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1090-XS-06-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1090-XS-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 5,
     "colorCount": 0,
     "sizeCount": 5,
@@ -2023,7 +2228,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "609"
+        "value": "GENERAL:609"
       }
     ],
     "weightGrams": 700,
@@ -2139,116 +2344,151 @@
     ],
     "price": 4.23,
     "priceFrom": false,
-    "stock": 9976,
+    "stock": 9973,
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/T-1100-L-BL-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1100-L-BL-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1100-L-BL-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1100-L-BL-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1100-M-BL-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1100-M-BL-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1100-M-BL-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1100-M-BL-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1100-M-BL-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1100-S-BL-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1100-S-BL-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1100-S-BL-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1100-S-BL-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1100-XL-BL-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1100-XL-BL-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1100-XL-BL-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1100-XL-BL-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1100-XXL-BL-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1100-XXL-BL-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1100-XXL-BL-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1100-XXL-BL-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1100-XXL-BL-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1101-L-MA-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1101-L-MA-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1101-L-MA-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1101-L-MA-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1101-M-MA-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1101-M-MA-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1101-M-MA-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1101-M-MA-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1101-S-MA-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1101-S-MA-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1101-S-MA-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1101-S-MA-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1101-XL-MA-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1101-XL-MA-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1101-XL-MA-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1101-XL-MA-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1101-XL-MA-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1101-XXL-MA-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1101-XXL-MA-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1101-XXL-MA-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1101-XXL-MA-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1102-L-BU-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1102-L-BU-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1102-L-BU-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1102-L-BU-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1102-L-BU-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1102-M-BU-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1102-M-BU-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1102-M-BU-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1102-M-BU-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1102-S-BU-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1102-S-BU-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1102-S-BU-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1102-S-BU-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1102-XL-BU-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1102-XL-BU-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1102-XL-BU-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1102-XL-BU-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1102-XXL-BU-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1102-XXL-BU-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1102-XXL-BU-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1102-XXL-BU-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1104-L-AZ-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1104-L-AZ-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1104-L-AZ-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1104-L-AZ-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1104-M-AZ-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1104-M-AZ-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1104-M-AZ-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1104-M-AZ-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1104-M-AZ-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1104-S-AZ-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1104-S-AZ-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1104-S-AZ-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1104-S-AZ-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1104-S-AZ-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1104-XL-AZ-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1104-XL-AZ-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1104-XL-AZ-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1104-XL-AZ-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1104-XXL-AZ-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1104-XXL-AZ-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1104-XXL-AZ-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1104-XXL-AZ-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1104-XXL-AZ-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1105-L-NE-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1105-L-NE-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1105-L-NE-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1105-L-NE-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1105-M-NE-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1105-M-NE-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1105-M-NE-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1105-M-NE-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1105-M-NE-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1105-S-NE-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1105-S-NE-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1105-S-NE-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1105-S-NE-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1105-S-NE-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1105-XL-NE-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1105-XL-NE-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1105-XL-NE-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1105-XL-NE-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1105-XL-NE-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1105-XXL-NE-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1105-XXL-NE-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1105-XXL-NE-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1105-XXL-NE-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1105-XXL-NE-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1106-L-VE-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1106-L-VE-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1106-L-VE-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1106-L-VE-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1106-L-VE-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1106-M-VE-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1106-M-VE-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1106-M-VE-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1106-M-VE-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1106-S-VE-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1106-S-VE-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1106-S-VE-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1106-S-VE-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1106-S-VE-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1106-XL-VE-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1106-XL-VE-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1106-XL-VE-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1106-XL-VE-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1106-XXL-VE-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1106-XXL-VE-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1106-XXL-VE-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1106-XXL-VE-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1109-L-MO-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1109-L-MO-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1109-L-MO-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1109-L-MO-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1109-M-MO-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1109-M-MO-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1109-M-MO-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1109-M-MO-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1109-M-MO-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1109-S-MO-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1109-S-MO-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1109-S-MO-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1109-S-MO-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1109-S-MO-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1109-XL-MO-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1109-XL-MO-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1109-XL-MO-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1109-XL-MO-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1109-XL-MO-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1109-XXL-MO-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1109-XXL-MO-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1109-XXL-MO-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1109-XXL-MO-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:44.113Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 35,
     "colorCount": 6,
     "sizeCount": 5,
@@ -2329,7 +2569,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "596,654 · 596"
+        "value": "596,654 · GENERAL:596"
       }
     ],
     "weightGrams": 132,
@@ -2380,16 +2620,21 @@
     "images": [
       "https://www.publicatalogue.com/image/cache/data/T-1211-L-MA-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1211-L-MA-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1211-L-MA-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1211-M-MA-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1211-M-MA-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1211-M-MA-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1211-S-MA-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1211-S-MA-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1211-S-MA-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1211-XL-MA-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1211-XL-MA-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1211-XL-MA-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1211-XXL-MA-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1211-XXL-MA-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1211-XXL-MA-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 5,
     "colorCount": 1,
     "sizeCount": 5,
@@ -2456,7 +2701,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "618"
+        "value": "GENERAL:618"
       }
     ],
     "weightGrams": 154,
@@ -2507,16 +2752,21 @@
     "images": [
       "https://www.publicatalogue.com/image/cache/data/T-1213-L-RO-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1213-L-RO-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1213-L-RO-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1213-M-RO-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1213-M-RO-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1213-M-RO-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1213-S-RO-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1213-S-RO-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1213-S-RO-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1213-XL-RO-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1213-XL-RO-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1213-XL-RO-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1213-XXL-RO-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1213-XXL-RO-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1213-XXL-RO-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-23T08:32:11.036Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 5,
     "colorCount": 1,
     "sizeCount": 5,
@@ -2583,7 +2833,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "618"
+        "value": "GENERAL:618"
       }
     ],
     "weightGrams": 154,
@@ -2633,17 +2883,22 @@
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/T-1214-L-RY-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1214-L-RY-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1214-L-RY-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1214-M-RY-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1214-M-RY-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1214-M-RY-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1214-S-RY-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1214-S-RY-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1214-S-RY-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1214-XL-RY-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1214-XL-RY-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1214-XL-RY-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1214-XXL-RY-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1214-XXL-RY-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1214-XXL-RY-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:44.113Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 5,
     "colorCount": 1,
     "sizeCount": 5,
@@ -2710,7 +2965,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "618"
+        "value": "GENERAL:618"
       }
     ],
     "weightGrams": 154,
@@ -2756,21 +3011,26 @@
     ],
     "price": 3.63,
     "priceFrom": false,
-    "stock": 3096,
+    "stock": 3064,
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/T-1215-L-NE-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1215-L-NE-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1215-L-NE-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1215-M-NE-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1215-M-NE-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1215-M-NE-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1215-S-NE-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1215-S-NE-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1215-S-NE-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1215-XL-NE-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1215-XL-NE-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1215-XL-NE-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1215-XXL-NE-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1215-XXL-NE-01-500x500.jpg"
+      "https://www.publicatalogue.com/image/cache/data/details/T-1215-XXL-NE-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1215-XXL-NE-02-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:44.113Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 5,
     "colorCount": 1,
     "sizeCount": 5,
@@ -2837,7 +3097,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "618"
+        "value": "GENERAL:618"
       }
     ],
     "weightGrams": 154,
@@ -2888,16 +3148,21 @@
     "images": [
       "https://www.publicatalogue.com/image/cache/data/T-1216-L-VE-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1216-L-VE-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1216-L-VE-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1216-M-VE-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1216-M-VE-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1216-M-VE-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1216-S-VE-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1216-S-VE-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1216-S-VE-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1216-XL-VE-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1216-XL-VE-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1216-XL-VE-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1216-XXL-VE-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1216-XXL-VE-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1216-XXL-VE-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:44.113Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 5,
     "colorCount": 1,
     "sizeCount": 5,
@@ -2964,7 +3229,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "618"
+        "value": "GENERAL:618"
       }
     ],
     "weightGrams": 154,
@@ -3010,16 +3275,26 @@
     ],
     "price": 3.63,
     "priceFrom": false,
-    "stock": 1131,
+    "stock": 1121,
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/T-1217-L-PS-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1217-L-PS-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1217-L-PS-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1217-M-PS-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1217-M-PS-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1217-M-PS-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1217-S-PS-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1217-S-PS-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1217-S-PS-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1217-XL-PS-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/T-1217-XXL-PS-500x500.jpg"
+      "https://www.publicatalogue.com/image/cache/data/details/T-1217-XL-PS-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1217-XL-PS-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/T-1217-XXL-PS-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1217-XXL-PS-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1217-XXL-PS-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-26T08:33:26.451Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 5,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3125,12 +3400,22 @@
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/T-1218-L-NA-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1218-L-NA-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1218-L-NA-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1218-M-NA-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1218-M-NA-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1218-M-NA-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1218-S-NA-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1218-S-NA-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1218-S-NA-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1218-XL-NA-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/T-1218-XXL-NA-500x500.jpg"
+      "https://www.publicatalogue.com/image/cache/data/details/T-1218-XL-NA-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1218-XL-NA-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/T-1218-XXL-NA-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1218-XXL-NA-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1218-XXL-NA-02-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-10T08:05:50.690Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 5,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3236,12 +3521,22 @@
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/T-1219-L-LI-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1219-L-LI-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1219-L-LI-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1219-M-LI-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1219-M-LI-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1219-M-LI-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1219-S-LI-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1219-S-LI-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1219-S-LI-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1219-XL-LI-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/T-1219-XXL-LI-500x500.jpg"
+      "https://www.publicatalogue.com/image/cache/data/details/T-1219-XL-LI-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1219-XL-LI-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/T-1219-XXL-LI-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1219-XXL-LI-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1219-XXL-LI-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 5,
     "colorCount": 1,
     "sizeCount": 0,
@@ -3356,28 +3651,29 @@
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/T-1300-BL-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1300-BL-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1300-BL-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1300-BL-01-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1300-BL-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1300-BU-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1300-BU-03-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1300-BU-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1300-BU-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1300-BU-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1300-CR-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1300-CR-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1300-MA-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1300-MA-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1300-MA-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1300-MA-03-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1300-MA-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1300-NE-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1300-NE-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1300-NE-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1300-NE-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1300-NE-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-1300-VE-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1300-VE-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-1300-VE-03-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-1300-VE-02-500x500.jpg"
+      "https://www.publicatalogue.com/image/cache/data/details/T-1300-VE-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-1300-VE-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-25T08:46:57.987Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 6,
     "colorCount": 6,
     "sizeCount": 0,
@@ -3465,7 +3761,7 @@
         "key": "catalog-pages",
         "label": "Catalogue pages",
         "labelRo": "Pagini catalog",
-        "value": "127,656 · 127"
+        "value": "127,656 · GENERAL:127"
       }
     ],
     "weightGrams": 45,
@@ -3552,22 +3848,22 @@
       "https://www.publicatalogue.com/image/cache/data/details/T-497-L-BL-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-497-M-BL-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-497-M-BL-01-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-497-M-BL-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-497-M-BL-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-497-M-BL-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-497-S-BL-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-497-S-BL-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-497-S-BL-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-497-S-BL-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-497-XL-BL-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-497-XL-BL-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-497-XL-BL-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-497-XL-BL-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-497-XL-BL-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-497-XXL-BL-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-497-XXL-BL-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-497-XXL-BL-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-497-XXL-BL-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-497-XXL-BL-03-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-17T08:37:12.610Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 5,
     "colorCount": 1,
     "sizeCount": 5,
@@ -3717,27 +4013,27 @@
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/T-498-L-BL-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-498-L-BL-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-498-L-BL-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-498-L-BL-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-498-L-BL-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-498-M-BL-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-498-M-BL-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-498-M-BL-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-498-M-BL-01-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-498-M-BL-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-498-S-BL-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-498-S-BL-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-498-S-BL-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-498-S-BL-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-498-S-BL-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-498-XL-BL-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-498-XL-BL-03-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-498-XL-BL-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-498-XL-BL-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-498-XL-BL-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-498-XXL-BL-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-498-XXL-BL-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-498-XXL-BL-03-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-498-XXL-BL-01-500x500.jpg"
+      "https://www.publicatalogue.com/image/cache/data/details/T-498-XXL-BL-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-498-XXL-BL-02-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 5,
     "colorCount": 1,
     "sizeCount": 5,
@@ -3874,27 +4170,27 @@
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/T-499-L-BL-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-499-L-BL-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-499-L-BL-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-499-L-BL-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-499-L-BL-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-499-M-BL-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-499-M-BL-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-499-M-BL-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-499-M-BL-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-499-M-BL-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-499-S-BL-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-499-S-BL-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-499-S-BL-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-499-S-BL-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-499-S-BL-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-499-XL-BL-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-499-XL-BL-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-499-XL-BL-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-499-XL-BL-03-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-499-XL-BL-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-499-XXL-BL-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-499-XXL-BL-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-499-XXL-BL-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-499-XXL-BL-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-499-XXL-BL-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-15T08:38:34.923Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 5,
     "colorCount": 1,
     "sizeCount": 5,
@@ -4037,27 +4333,27 @@
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/T-500-L-BL-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-500-L-BL-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-500-L-BL-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-500-L-BL-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-500-L-BL-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-500-M-BL-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-500-M-BL-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-500-M-BL-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-500-M-BL-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-500-M-BL-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-500-S-BL-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-500-S-BL-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-500-S-BL-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-500-S-BL-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-500-S-BL-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-500-XL-BL-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-500-XL-BL-01-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-500-XL-BL-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-500-XL-BL-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-500-XL-BL-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-500-XL-BL-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-500-XXL-BL-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-500-XXL-BL-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-500-XXL-BL-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-500-XXL-BL-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-500-XXL-BL-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-27T14:09:14.901Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 5,
     "colorCount": 1,
     "sizeCount": 5,
@@ -4218,11 +4514,11 @@
       "https://www.publicatalogue.com/image/cache/data/details/T-500-4-6-BL-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-500-4-6-BL-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-500-8-10-BL-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-500-8-10-BL-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-500-8-10-BL-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-500-8-10-BL-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-500-8-10-BL-02-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-25T08:46:57.987Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 4,
     "colorCount": 1,
     "sizeCount": 4,
@@ -4364,26 +4660,26 @@
     "images": [
       "https://www.publicatalogue.com/image/cache/data/T-507-L-GR-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-507-L-GR-02-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-507-L-GR-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-507-L-GR-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-507-L-GR-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-507-M-GR-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-507-M-GR-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-507-M-GR-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-507-M-GR-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-507-M-GR-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-507-S-GR-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-507-S-GR-03-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-507-S-GR-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-507-S-GR-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-507-S-GR-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-507-S-GR-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-507-XL-GR-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-507-XL-GR-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-507-XL-GR-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-507-XL-GR-01-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-507-XL-GR-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-507-XXL-GR-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/T-507-XXL-GR-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-507-XXL-GR-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/T-507-XXL-GR-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/T-507-XXL-GR-03-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:44.113Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 5,
     "colorCount": 1,
     "sizeCount": 5,
@@ -4493,7 +4789,7 @@
       "https://www.publicatalogue.com/image/cache/data/T-82-RY-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/T-83-FU-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -4584,19 +4880,19 @@
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/Z-514-ESP-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/Z-514-ESP-01-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/Z-514-ESP-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/Z-514-ESP-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/Z-514-ESP-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/Z-514-ESP-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/Z-514-FRA-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/Z-514-FRA-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/Z-514-FRA-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/Z-514-FRA-02-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/Z-514-FRA-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/Z-514-POR-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/Z-514-POR-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/Z-514-POR-01-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/Z-514-POR-03-500x500.jpg"
+      "https://www.publicatalogue.com/image/cache/data/details/Z-514-POR-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/Z-514-POR-02-500x500.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:13.259Z",
+    "fetchedAt": "2026-09-29T14:07:37.151Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -4834,7 +5130,7 @@
     ],
     "price": 3,
     "priceFrom": true,
-    "stock": 285180,
+    "stock": 282756,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/PROACT/pa438-aquablue_a1.jpg",
@@ -4898,7 +5194,7 @@
       "https://macma.ro/products/jpg/TEXTIL/PROACT/pa438-wine_a1.jpg",
       "https://macma.ro/products/jpg/TEXTIL/PROACT/pa438-wine_b1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 129,
     "colorCount": 23,
     "sizeCount": 5,
@@ -5205,7 +5501,7 @@
     ],
     "price": 2.73,
     "priceFrom": true,
-    "stock": 54264,
+    "stock": 54087,
     "stockLevel": "in-stock",
     "images": [
       "https://macma.ro/products/jpg/TEXTIL/PROACT/pa439-aquablue_a1.jpg",
@@ -5251,7 +5547,7 @@
       "https://macma.ro/products/jpg/TEXTIL/PROACT/pa439-white_a2.jpg",
       "https://macma.ro/products/jpg/TEXTIL/PROACT/pa439-wine_a1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:46.880Z",
+    "fetchedAt": "2026-09-29T14:07:51.245Z",
     "variantCount": 115,
     "colorCount": 24,
     "sizeCount": 5,
@@ -5486,7 +5782,7 @@
     ],
     "price": 3.69,
     "priceFrom": false,
-    "stock": 35481,
+    "stock": 35458,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/s00583-aq.jpg",
@@ -5496,9 +5792,10 @@
       "https://cdn1.midocean.com/image/700X700/s00583-fn.jpg",
       "https://cdn1.midocean.com/image/700X700/s00583-gm.jpg",
       "https://cdn1.midocean.com/image/700X700/s00583-ag.jpg",
-      "https://cdn1.midocean.com/image/700X700/s00583-aq-back.jpg"
+      "https://cdn1.midocean.com/image/700X700/s00583-aq-back.jpg",
+      "https://cdn1.midocean.com/image/700X700/s00583-aq-picture1.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 28,
     "colorCount": 7,
     "sizeCount": 4,
@@ -5645,7 +5942,7 @@
       "https://cdn1.midocean.com/image/700X700/s00589-bk-back.jpg",
       "https://cdn1.midocean.com/image/700X700/s00589-bk-side.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 24,
     "colorCount": 4,
     "sizeCount": 6,
@@ -5848,7 +6145,7 @@
     ],
     "price": 2.79,
     "priceFrom": true,
-    "stock": 62199,
+    "stock": 61987,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/s01166-ag.jpg",
@@ -5865,7 +6162,7 @@
       "https://cdn1.midocean.com/image/700X700/s01166-ag-back.jpg",
       "https://cdn1.midocean.com/image/700X700/s01166-ag-side.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 44,
     "colorCount": 11,
     "sizeCount": 4,
@@ -6069,7 +6366,7 @@
     ],
     "price": 2.13,
     "priceFrom": true,
-    "stock": 9320,
+    "stock": 9319,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/s01183-al.jpg",
@@ -6082,7 +6379,7 @@
       "https://cdn1.midocean.com/image/700X700/s01183-al-back.jpg",
       "https://cdn1.midocean.com/image/700X700/s01183-al-side.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 42,
     "colorCount": 7,
     "sizeCount": 6,
@@ -6276,7 +6573,7 @@
       "https://cdn1.midocean.com/image/700X700/s02947-db-back.jpg",
       "https://cdn1.midocean.com/image/700X700/s02947-db-side.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 30,
     "colorCount": 6,
     "sizeCount": 5,
@@ -6442,7 +6739,7 @@
       "https://cdn1.midocean.com/image/700X700/s02948-bk-back.jpg",
       "https://cdn1.midocean.com/image/700X700/s02948-bk-side.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:10.287Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 10,
     "colorCount": 2,
     "sizeCount": 5,
@@ -6636,7 +6933,7 @@
       "https://cdn1.midocean.com/image/700X700/s03576-wh.jpg",
       "https://cdn1.midocean.com/image/700X700/s03576-bk-back.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 40,
     "colorCount": 8,
     "sizeCount": 5,
@@ -6861,7 +7158,7 @@
       "https://cdn1.midocean.com/image/700X700/s03578-db-back.jpg",
       "https://cdn1.midocean.com/image/700X700/s03578-db-side.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 72,
     "colorCount": 12,
     "sizeCount": 6,
@@ -7147,7 +7444,7 @@
       "https://cdn1.midocean.com/image/700X700/s03580-db-back.jpg",
       "https://cdn1.midocean.com/image/700X700/s03580-db-side.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 102,
     "colorCount": 17,
     "sizeCount": 6,
@@ -7403,7 +7700,7 @@
       "https://cdn1.midocean.com/image/700X700/s04238-wh.jpg",
       "https://cdn1.midocean.com/image/700X700/s04238-bk-back.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 60,
     "colorCount": 10,
     "sizeCount": 6,
@@ -7618,7 +7915,7 @@
     ],
     "price": 7.54,
     "priceFrom": false,
-    "stock": 8724,
+    "stock": 8723,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/s04239-bk.jpg",
@@ -7633,7 +7930,7 @@
       "https://cdn1.midocean.com/image/700X700/s04239-wh.jpg",
       "https://cdn1.midocean.com/image/700X700/s04239-bk-back.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 60,
     "colorCount": 10,
     "sizeCount": 6,
@@ -7718,203 +8015,6 @@
     "brand": "Sol's",
     "weightGrams": 176,
     "descriptionLong": "SOL'S  COLUMBIA KIDS, 80% Cotton - 20% Grs Certified Recycled Polyester Round Neck,Set-In Sleeves,Cut And Sewn,1X1 Ribbed Cuffs, Neck And Bottom,Jersey Half Moon And Neck Tape Inside Collar,Relaxed Fit (1) Grey Melange : 73 % Cotton / 20 % Recycled Polyester / 7 % Viscose.. About Sizes Matching, Please Refer To The Size Chart In The Product Documentation Section.",
-    "hasVariantDetail": true
-  },
-  {
-    "slug": "midocean-s04461",
-    "name": "EXPLORER",
-    "category": "apparel-and-wearables/sportswear-and-activewear",
-    "summary": "Explorer T-shirt Unisex",
-    "accent": "linear-gradient(135deg, #FF6600 0%, #4D4D4D 100%)",
-    "personalizations": [
-      "pad-screen",
-      "uv-transfer"
-    ],
-    "supplierPersonalizations": [
-      {
-        "code": "E",
-        "label": "Embroidery",
-        "labelRo": "Broderie",
-        "printSizes": [
-          "100 × 100 mm",
-          "100 × 70 mm"
-        ]
-      },
-      {
-        "code": "ST1",
-        "label": "Screen printing",
-        "labelRo": "Serigrafie",
-        "printSizes": [
-          "100 × 100 mm",
-          "100 × 70 mm",
-          "280 × 400 mm"
-        ]
-      },
-      {
-        "code": "TDT",
-        "label": "Digital transfer",
-        "labelRo": "Transfer digital",
-        "printSizes": [
-          "100 × 100 mm",
-          "100 × 70 mm",
-          "280 × 400 mm"
-        ]
-      },
-      {
-        "code": "TR",
-        "label": "Transfer reflective",
-        "labelRo": "Transfer reflectorizant",
-        "printSizes": [
-          "100 × 100 mm",
-          "100 × 70 mm",
-          "280 × 400 mm"
-        ]
-      },
-      {
-        "code": "TT",
-        "label": "Screen transfer",
-        "labelRo": "Transfer serigrafic",
-        "printSizes": [
-          "100 × 100 mm",
-          "100 × 70 mm",
-          "280 × 400 mm"
-        ]
-      }
-    ],
-    "supplierId": "midocean",
-    "supplierSku": "S04461",
-    "supplierVariantIds": [
-      "S04461-RC-XS",
-      "S04461-RC-S",
-      "S04461-RC-M",
-      "S04461-RC-L",
-      "S04461-RC-XL",
-      "S04461-RC-XXL",
-      "S04461-RC-3XL",
-      "S04461-RH-XS",
-      "S04461-RH-S",
-      "S04461-RH-M",
-      "S04461-RH-L",
-      "S04461-RH-XL",
-      "S04461-RH-XXL",
-      "S04461-RH-3XL",
-      "S04461-RV-XS",
-      "S04461-RV-S",
-      "S04461-RV-M",
-      "S04461-RV-L",
-      "S04461-RV-XL",
-      "S04461-RV-XXL",
-      "S04461-RV-3XL",
-      "S04461-RN-XS",
-      "S04461-RN-S",
-      "S04461-RN-M",
-      "S04461-RN-L",
-      "S04461-RN-XL",
-      "S04461-RN-XXL",
-      "S04461-RN-3XL",
-      "S04461-RS-XS",
-      "S04461-RS-S",
-      "S04461-RS-M",
-      "S04461-RS-L",
-      "S04461-RS-XL",
-      "S04461-RS-XXL",
-      "S04461-RS-3XL",
-      "S04461-RY-XS",
-      "S04461-RY-S",
-      "S04461-RY-M",
-      "S04461-RY-L",
-      "S04461-RY-XL",
-      "S04461-RY-XXL",
-      "S04461-RY-3XL"
-    ],
-    "price": 2.21,
-    "priceFrom": true,
-    "stock": 136506,
-    "stockLevel": "in-stock",
-    "images": [
-      "https://cdn1.midocean.com/image/700X700/s04461-rc.jpg",
-      "https://cdn1.midocean.com/image/700X700/s04461-rh.jpg",
-      "https://cdn1.midocean.com/image/700X700/s04461-rv.jpg",
-      "https://cdn1.midocean.com/image/700X700/s04461-rn.jpg",
-      "https://cdn1.midocean.com/image/700X700/s04461-rs.jpg",
-      "https://cdn1.midocean.com/image/700X700/s04461-ry.jpg",
-      "https://cdn1.midocean.com/image/700X700/s04461-rc-back.jpg",
-      "https://cdn1.midocean.com/image/700X700/s04461-rc-side.jpg"
-    ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
-    "variantCount": 42,
-    "colorCount": 6,
-    "sizeCount": 7,
-    "colorSwatches": [
-      {
-        "name": "Recycled Black"
-      },
-      {
-        "name": "Recycled Grey Melange"
-      },
-      {
-        "name": "Recycled Navy"
-      },
-      {
-        "name": "Recycled Red"
-      },
-      {
-        "name": "Recycled Royal Blue"
-      },
-      {
-        "name": "Recycled White"
-      }
-    ],
-    "availableSizes": [
-      "XS",
-      "S",
-      "M",
-      "L",
-      "XL",
-      "XXL",
-      "3XL"
-    ],
-    "specifications": [
-      {
-        "key": "dimensions",
-        "label": "Dimensions",
-        "labelRo": "Dimensiuni",
-        "value": "56X39X33 CM"
-      },
-      {
-        "key": "material",
-        "label": "Material",
-        "labelRo": "Material",
-        "value": "Recycled Cotton"
-      },
-      {
-        "key": "country-of-origin",
-        "label": "Country of origin",
-        "labelRo": "Țara de origine",
-        "value": "BD"
-      },
-      {
-        "key": "commodity-code",
-        "label": "Commodity code",
-        "labelRo": "Cod tarifar",
-        "value": "6109 1000"
-      },
-      {
-        "key": "inner-carton",
-        "label": "Inner carton",
-        "labelRo": "Ambalaj interior",
-        "value": "10"
-      },
-      {
-        "key": "outer-carton",
-        "label": "Outer carton",
-        "labelRo": "Bax exterior",
-        "value": "100"
-      }
-    ],
-    "brand": "Sol's",
-    "weightGrams": 125,
-    "descriptionLong": "SOL'S EXPLORER, unisex t-shirt with recycled fabric, 60% recycled cotton - 40% recycled polyester, modern fit , ribbed round neck, neck tape, short sleeves tubular. About sizes matching, please refer to the size chart in the product documentation section.",
     "hasVariantDetail": true
   },
   {
@@ -8035,7 +8135,7 @@
       "https://cdn1.midocean.com/image/700X700/s04773-rb.jpg",
       "https://cdn1.midocean.com/image/700X700/s04773-aq-back.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 30,
     "colorCount": 5,
     "sizeCount": 6,
@@ -8222,7 +8322,7 @@
       "https://cdn1.midocean.com/image/700X700/s11344-al-back.jpg",
       "https://cdn1.midocean.com/image/700X700/s11344-al-side.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 45,
     "colorCount": 9,
     "sizeCount": 5,
@@ -8463,7 +8563,7 @@
     ],
     "price": 2.6,
     "priceFrom": true,
-    "stock": 100315,
+    "stock": 100046,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/s11770-aq.jpg",
@@ -8483,7 +8583,7 @@
       "https://cdn1.midocean.com/image/700X700/s11770-aq-back.jpg",
       "https://cdn1.midocean.com/image/700X700/s11770-aq-side.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 84,
     "colorCount": 14,
     "sizeCount": 6,
@@ -8800,7 +8900,7 @@
     ],
     "price": 1.82,
     "priceFrom": true,
-    "stock": 312145,
+    "stock": 311996,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/s11970-ag.jpg",
@@ -8830,7 +8930,7 @@
       "https://cdn1.midocean.com/image/700X700/s11970-ag-back.jpg",
       "https://cdn1.midocean.com/image/700X700/s11970-ag-side.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 144,
     "colorCount": 24,
     "sizeCount": 6,
@@ -9053,7 +9153,7 @@
       "https://cdn1.midocean.com/image/700X700/s13249-bk-back.jpg",
       "https://cdn1.midocean.com/image/700X700/s13249-bk-side.jpg"
     ],
-    "fetchedAt": "2026-08-23T04:04:10.287Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 11,
     "colorCount": 3,
     "sizeCount": 5,
@@ -9201,6 +9301,8 @@
       "S13255-BK-XL",
       "S13255-BK-XXL",
       "S13255-GM-L",
+      "S13255-GM-XL",
+      "S13255-GM-XXL",
       "S13255-GM-3XL",
       "S13255-GM-4XL",
       "S13255-KG-L",
@@ -9237,8 +9339,8 @@
       "https://cdn1.midocean.com/image/700X700/s13255-bk-back.jpg",
       "https://cdn1.midocean.com/image/700X700/s13255-bk-side.jpg"
     ],
-    "fetchedAt": "2026-09-15T08:38:30.254Z",
-    "variantCount": 23,
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
+    "variantCount": 25,
     "colorCount": 8,
     "sizeCount": 5,
     "colorSwatches": [
@@ -9389,7 +9491,7 @@
       "https://cdn1.midocean.com/image/700X700/s32300-bk-back.jpg",
       "https://cdn1.midocean.com/image/700X700/s32300-bk-side.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 27,
     "colorCount": 6,
     "sizeCount": 5,

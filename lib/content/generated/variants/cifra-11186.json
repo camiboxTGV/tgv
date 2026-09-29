@@ -1,0 +1,51 @@
+[
+  {
+    "contentKey": "17bae98b334e1df4",
+    "supplierVariantId": "11186-GR",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 4.75,
+    "color": {
+      "name": "Gray",
+      "hex": "#808080"
+    },
+    "imageRefs": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "contentKey": "2fd79aed40e73a2d",
+    "supplierVariantId": "11186-BU",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 4.75,
+    "color": {
+      "name": "Bordeaux",
+      "hex": "#5F021F"
+    },
+    "imageRefs": [
+      0,
+      1
+    ]
+  },
+  {
+    "contentKey": "9d3059769c9a47e8",
+    "supplierVariantId": "11186-MA",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 4.75,
+    "color": {
+      "name": "Marine",
+      "hex": "#00008B"
+    },
+    "imageRefs": [
+      8,
+      9
+    ]
+  }
+]

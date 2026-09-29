@@ -10,13 +10,14 @@
       "hex": "#00008B"
     },
     "imageRefs": [
-      1
+      2,
+      3
     ]
   },
   {
     "contentKey": "c54109cbb9c63b67",
     "supplierVariantId": "B-418-NE",
-    "stock": 2706,
+    "stock": 2306,
     "stockLevel": "in-stock",
     "price": 0.63,
     "color": {
@@ -24,7 +25,8 @@
       "hex": "#000000"
     },
     "imageRefs": [
-      2
+      4,
+      5
     ]
   },
   {
@@ -38,7 +40,8 @@
       "hex": "#FFFFFF"
     },
     "imageRefs": [
-      0
+      0,
+      1
     ]
   }
 ]

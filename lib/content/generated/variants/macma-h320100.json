@@ -1,0 +1,50 @@
+[
+  {
+    "contentKey": "562f79e0f2168fcc",
+    "supplierVariantId": "H3201000AJ3",
+    "stock": 8334,
+    "stockLevel": "in-stock",
+    "price": 2.61,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "imageRefs": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "contentKey": "b305a14f47227213",
+    "supplierVariantId": "H3201002AJ3",
+    "stock": 3589,
+    "stockLevel": "in-stock",
+    "price": 2.61,
+    "color": {
+      "name": "Blue",
+      "hex": "#104e8b"
+    },
+    "imageRefs": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "contentKey": "c0067b62964dd7f3",
+    "supplierVariantId": "H3201001AJ3",
+    "stock": 4818,
+    "stockLevel": "in-stock",
+    "price": 2.61,
+    "color": {
+      "name": "Red",
+      "hex": "#cc0000"
+    },
+    "imageRefs": [
+      3,
+      4,
+      5
+    ]
+  }
+]

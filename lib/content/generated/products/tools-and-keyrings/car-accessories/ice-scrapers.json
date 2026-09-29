@@ -1,5 +1,83 @@
 [
   {
+    "slug": "bluecollection-29051",
+    "name": "Ice scraper GLACE",
+    "category": "tools-and-keyrings/car-accessories/ice-scrapers",
+    "summary": "Ice scraper with 3 various endings – flat, rubber and serrated. Made of non-transparent plastic.",
+    "accent": "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
+    "personalizations": [
+      "pad-screen"
+    ],
+    "supplierPersonalizations": [
+      {
+        "code": "N2",
+        "label": "Pad printing",
+        "labelRo": "Tampografie",
+        "printSizes": [
+          "70.00 x 50.00 mm"
+        ]
+      }
+    ],
+    "supplierId": "bluecollection",
+    "supplierSku": "29051",
+    "supplierVariantIds": [
+      "29051-01"
+    ],
+    "price": 0.83,
+    "priceFrom": false,
+    "stock": 47297,
+    "stockLevel": "in-stock",
+    "images": [
+      "https://bluecollection.eu/assets/img/29051-01.jpg",
+      "https://bluecollection.eu/assets/img/29051-01_d.jpg",
+      "https://bluecollection.eu/assets/img/29051-01_e.jpg",
+      "https://bluecollection.eu/assets/img/29051-01_f.jpg",
+      "https://bluecollection.eu/assets/img/29051-01_l.jpg",
+      "https://bluecollection.eu/assets/img/29051-01_o.jpg"
+    ],
+    "fetchedAt": "2026-09-29T14:07:46.837Z",
+    "sourceUrl": "https://bluecollection.gifts/en/29051.html",
+    "variantCount": 1,
+    "colorCount": 1,
+    "sizeCount": 0,
+    "colorSwatches": [
+      {
+        "name": "White"
+      }
+    ],
+    "specifications": [
+      {
+        "key": "dimensions",
+        "label": "Dimensions",
+        "labelRo": "Dimensiuni",
+        "value": "119.00 × 109.00 × 3.00 mm"
+      },
+      {
+        "key": "materials",
+        "label": "Materials",
+        "labelRo": "Materiale",
+        "value": "plastic"
+      },
+      {
+        "key": "units-per-carton",
+        "label": "Units per carton",
+        "labelRo": "Unități per cutie",
+        "value": "500 pcs",
+        "valueRo": "500 buc."
+      },
+      {
+        "key": "warranty",
+        "label": "Warranty",
+        "labelRo": "Garanție",
+        "value": "12 months",
+        "valueRo": "12 luni"
+      }
+    ],
+    "weightGrams": 30,
+    "descriptionLong": "Ice scraper with 3 various endings – flat, rubber and serrated. Made of non-transparent plastic.",
+    "hasVariantDetail": false
+  },
+  {
     "slug": "midocean-kc1063",
     "name": "FINCLEY",
     "category": "tools-and-keyrings/car-accessories/ice-scrapers",
@@ -44,14 +122,14 @@
     ],
     "price": 0.38,
     "priceFrom": false,
-    "stock": 59319,
+    "stock": 58944,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/kc1063-06.jpg",
       "https://cdn1.midocean.com/image/700X700/kc1063-06-back.jpg",
       "https://cdn1.midocean.com/image/700X700/kc1063-06-print.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -181,7 +259,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2328-05-picture3.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2328-05-picture7.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -296,7 +374,7 @@
       "https://cdn1.midocean.com/image/700X700/mo7780-05-print.jpg",
       "https://cdn1.midocean.com/image/700X700/mo7780-05-ambiant.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -397,14 +475,14 @@
     ],
     "price": 0.96,
     "priceFrom": false,
-    "stock": 40488,
+    "stock": 40388,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo8945-04.jpg",
       "https://cdn1.midocean.com/image/700X700/mo8945-04a.jpg",
       "https://cdn1.midocean.com/image/700X700/mo8945-04c.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -509,7 +587,7 @@
     ],
     "price": 4.68,
     "priceFrom": false,
-    "stock": 4364,
+    "stock": 4363,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo9676-03.jpg",
@@ -518,7 +596,7 @@
       "https://cdn1.midocean.com/image/700X700/mo9676-03-open.jpg",
       "https://cdn1.midocean.com/image/700X700/mo9676-03-print.jpg"
     ],
-    "fetchedAt": "2026-09-29T09:46:40.130Z",
+    "fetchedAt": "2026-09-29T14:07:38.853Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
