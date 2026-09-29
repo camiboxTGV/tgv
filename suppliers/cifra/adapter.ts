@@ -29,6 +29,27 @@ const SUPPLIER_ID = "cifra"
 const DISPLAY_NAME = "Cifra"
 const MIN_PRICE_FEED_COVERAGE = 0.9
 
+export interface CifraBuildOptions {
+  minimumTariffEntries?: number
+  minimumPriceEntries?: number
+  minimumPublishedProducts?: number
+  minimumPriceCoverage?: number
+}
+
+interface ResolvedCifraBuildOptions {
+  minimumTariffEntries: number
+  minimumPriceEntries: number
+  minimumPublishedProducts: number
+  minimumPriceCoverage: number
+}
+
+const DEFAULT_SAFETY: ResolvedCifraBuildOptions = {
+  minimumTariffEntries: 5_000,
+  minimumPriceEntries: 5_000,
+  minimumPublishedProducts: 2_000,
+  minimumPriceCoverage: MIN_PRICE_FEED_COVERAGE,
+}
+
 interface PriceLookups {
   byModel: ReadonlyMap<string, number>
 }
@@ -58,8 +79,10 @@ export function parseCifraStock(value: unknown): number {
 
 export function buildCifraInventorySnapshot(
   feeds: CifraCatalogFeeds,
+  options: CifraBuildOptions = {},
 ): SupplierInventorySnapshot {
-  assertFeedSafety(feeds)
+  const safety = resolveSafetyOptions(options)
+  assertFeedSafety(feeds, safety)
   const prices = buildPriceLookups(feeds.prices)
   const priceMap = new Map<string, number>()
   const stockMap = new Map<string, number>()
@@ -79,8 +102,12 @@ export function buildCifraInventorySnapshot(
   }
 }
 
-export function buildCifraProducts(feeds: CifraCatalogFeeds): RawProduct[] {
-  assertFeedSafety(feeds)
+export function buildCifraProducts(
+  feeds: CifraCatalogFeeds,
+  options: CifraBuildOptions = {},
+): RawProduct[] {
+  const safety = resolveSafetyOptions(options)
+  assertFeedSafety(feeds, safety)
   const prices = buildPriceLookups(feeds.prices)
   const groups = new Map<string, CifraProduct[]>()
 
@@ -151,6 +178,13 @@ export function buildCifraProducts(feeds: CifraCatalogFeeds): RawProduct[] {
       variantCount: variants.length,
       variants,
     })
+  }
+
+  if (products.length < safety.minimumPublishedProducts) {
+    throw new Error(
+      `cifra publishable product count is unsafe: ${products.length}; ` +
+        `required at least ${safety.minimumPublishedProducts}`,
+    )
   }
 
   return products.sort((a, b) =>
@@ -240,17 +274,66 @@ function priceFor(row: CifraProduct, prices: PriceLookups): number {
   return parseCifraDecimal(row.confidential_price ?? row.price_pvp)
 }
 
-function assertFeedSafety(feeds: CifraCatalogFeeds): void {
+function assertFeedSafety(
+  feeds: CifraCatalogFeeds,
+  safety: ResolvedCifraBuildOptions,
+): void {
   if (feeds.tariff.length === 0) throw new Error("cifra product tariff is empty")
+  if (feeds.tariff.length < safety.minimumTariffEntries) {
+    throw new Error(
+      `cifra product tariff is unsafe: ${feeds.tariff.length}; ` +
+        `required at least ${safety.minimumTariffEntries}`,
+    )
+  }
+  if (feeds.prices.length < safety.minimumPriceEntries) {
+    throw new Error(
+      `cifra price feed is unsafe: ${feeds.prices.length}; ` +
+        `required at least ${safety.minimumPriceEntries}`,
+    )
+  }
   const eligible = feeds.tariff.filter((row) => row.model?.trim())
   const pricedModels = new Set(feeds.prices.map((entry) => entry.model?.trim()).filter(Boolean))
   const matched = eligible.filter((row) => pricedModels.has(row.model.trim())).length
   const coverage = eligible.length === 0 ? 0 : matched / eligible.length
-  if (coverage < MIN_PRICE_FEED_COVERAGE) {
+  if (coverage < safety.minimumPriceCoverage) {
     throw new Error(
-      `cifra price coverage is unsafe: ${matched}/${eligible.length} (${(coverage * 100).toFixed(1)}%); required 90%`,
+      `cifra price coverage is unsafe: ${matched}/${eligible.length} ` +
+        `(${(coverage * 100).toFixed(1)}%); required ` +
+        `${(safety.minimumPriceCoverage * 100).toFixed(0)}%`,
     )
   }
+}
+
+function resolveSafetyOptions(options: CifraBuildOptions): ResolvedCifraBuildOptions {
+  const resolved: ResolvedCifraBuildOptions = {
+    minimumTariffEntries:
+      options.minimumTariffEntries ?? DEFAULT_SAFETY.minimumTariffEntries,
+    minimumPriceEntries:
+      options.minimumPriceEntries ?? DEFAULT_SAFETY.minimumPriceEntries,
+    minimumPublishedProducts:
+      options.minimumPublishedProducts ?? DEFAULT_SAFETY.minimumPublishedProducts,
+    minimumPriceCoverage:
+      options.minimumPriceCoverage ?? DEFAULT_SAFETY.minimumPriceCoverage,
+  }
+  for (const key of [
+    "minimumTariffEntries",
+    "minimumPriceEntries",
+    "minimumPublishedProducts",
+  ] as const) {
+    if (!Number.isInteger(resolved[key]) || resolved[key] < 0) {
+      throw new Error(`cifra ${key} must be a non-negative integer`)
+    }
+  }
+  if (
+    !Number.isFinite(resolved.minimumPriceCoverage) ||
+    resolved.minimumPriceCoverage <= 0 ||
+    resolved.minimumPriceCoverage > 1
+  ) {
+    throw new Error(
+      "cifra minimumPriceCoverage must be finite, greater than 0, and at most 1",
+    )
+  }
+  return resolved
 }
 
 function rawVariant(row: CifraProduct, price: number): RawVariant | null {
@@ -305,7 +388,17 @@ function personalizationData(rows: readonly CifraProduct[]): {
 }
 
 function imageUrls(row: CifraProduct): string[] {
-  return distinct([row.image, ...(row.images ?? [])].filter(isCifraImageUrl))
+  const images: string[] = []
+  for (const value of [row.image, ...(row.images ?? [])]) {
+    if (value === undefined || value === null || (typeof value === "string" && !value.trim())) {
+      continue
+    }
+    if (!isCifraImageUrl(value)) {
+      throw new Error(`cifra product ${row.model || "(unknown)"} has an unapproved image URL`)
+    }
+    images.push(value)
+  }
+  return distinct(images)
 }
 
 function isCifraImageUrl(value: unknown): value is string {

@@ -13,6 +13,11 @@ import { mapCifraCategory } from "./category-mapping.ts"
 import type { CifraCatalogFeeds } from "./types.ts"
 
 const FETCHED_AT = "2026-08-19T10:00:00.000Z"
+const TEST_SAFETY = {
+  minimumTariffEntries: 1,
+  minimumPriceEntries: 1,
+  minimumPublishedProducts: 1,
+} as const
 
 function fixtureFeeds(): CifraCatalogFeeds {
   return {
@@ -88,7 +93,7 @@ function fixtureFeeds(): CifraCatalogFeeds {
 }
 
 test("Cifra transformation groups variants and preserves tariff detail", () => {
-  const [product] = buildCifraProducts(fixtureFeeds())
+  const [product] = buildCifraProducts(fixtureFeeds(), TEST_SAFETY)
   assert.ok(product)
   assert.equal(product.supplierId, "cifra")
   assert.equal(product.supplierSku, "10030")
@@ -145,7 +150,7 @@ test("Cifra transformation groups variants and preserves tariff detail", () => {
 })
 
 test("Cifra inventory uses the first quantity tier and exact model bindings", () => {
-  const snapshot = buildCifraInventorySnapshot(fixtureFeeds())
+  const snapshot = buildCifraInventorySnapshot(fixtureFeeds(), TEST_SAFETY)
   assert.equal(snapshot.fetchedAt, FETCHED_AT)
   assert.deepEqual(snapshot.prices, new Map([
     ["10030-MA-L", 2.8],
@@ -182,12 +187,12 @@ test("Cifra category mapping covers supplier aliases and fails closed", () => {
 test("Cifra refuses an empty or dangerously incomplete quantity-price feed", () => {
   const empty = fixtureFeeds()
   empty.tariff = []
-  assert.throws(() => buildCifraProducts(empty), /product tariff is empty/)
+  assert.throws(() => buildCifraProducts(empty, TEST_SAFETY), /product tariff is empty/)
 
   const partial = fixtureFeeds()
   partial.prices = [partial.prices[0]!]
   assert.throws(
-    () => buildCifraProducts(partial),
+    () => buildCifraProducts(partial, TEST_SAFETY),
     /price coverage is unsafe: 1\/2 \(50\.0%\); required 90%/,
   )
 })
@@ -195,10 +200,59 @@ test("Cifra refuses an empty or dangerously incomplete quantity-price feed", () 
 test("Cifra merges supplier root aliases that differ only by a trailing separator", () => {
   const feeds = fixtureFeeds()
   feeds.tariff[0]!.rootmodel = "10030-"
-  const [product] = buildCifraProducts(feeds)
+  const [product] = buildCifraProducts(feeds, TEST_SAFETY)
   assert.ok(product)
   assert.equal(product.supplierSku, "10030")
   assert.equal(product.variantCount, 2)
+})
+
+test("Cifra production safety floors reject implausibly small valid-looking feeds", () => {
+  const feeds = fixtureFeeds()
+  assert.throws(
+    () => buildCifraProducts(feeds),
+    /product tariff is unsafe: 2; required at least 5000/,
+  )
+  assert.throws(
+    () => buildCifraInventorySnapshot(feeds),
+    /product tariff is unsafe: 2; required at least 5000/,
+  )
+
+  assert.throws(
+    () => buildCifraProducts(feeds, {
+      ...TEST_SAFETY,
+      minimumPublishedProducts: 2,
+    }),
+    /publishable product count is unsafe: 1; required at least 2/,
+  )
+})
+
+test("Cifra safety overrides cannot disable the price-coverage guard", () => {
+  const feeds = fixtureFeeds()
+  feeds.prices = [feeds.prices[0]!]
+
+  assert.throws(
+    () => buildCifraProducts(feeds, {
+      ...TEST_SAFETY,
+      minimumPriceCoverage: Number.NaN,
+    }),
+    /minimumPriceCoverage must be finite/,
+  )
+  assert.throws(
+    () => buildCifraProducts(feeds, {
+      ...TEST_SAFETY,
+      minimumPriceCoverage: undefined,
+    }),
+    /price coverage is unsafe: 1\/2 \(50\.0%\); required 90%/,
+  )
+})
+
+test("Cifra rejects nonempty image URLs outside the approved supplier CDN", () => {
+  const feeds = fixtureFeeds()
+  feeds.tariff[0]!.images = ["https://untrusted.invalid/product.jpg"]
+  assert.throws(
+    () => buildCifraProducts(feeds, TEST_SAFETY),
+    /product 10030-MA-L has an unapproved image URL/,
+  )
 })
 
 test("Cifra taxonomy snapshot exhaustively maps every observed category to a product leaf", async () => {

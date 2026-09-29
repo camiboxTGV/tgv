@@ -34,19 +34,20 @@ export function mapCifraTechnique(
   materials: readonly string[],
 ): Personalization[] {
   const normalized = normalizeTechnique(code)
-  if (isNoDecoration(normalized) || /BORDAD|IMPORTACION|CONSULTAR/.test(normalized)) {
+  if (isNoDecoration(normalized) || /\bBORDA\w*\b|IMPORTACION|CONSULTAR/.test(normalized)) {
     return []
   }
   if (/DTF|TEXTIL|POLIESTER|VINILO|SUBL|\bSUB\w*/.test(normalized)) {
     return ["textile-transfer"]
   }
-  if (/L360|LCO|LASER|\bL(?:L|\d|\+|\/|$)/.test(normalized)) {
+  if (/L360|LC[O0][12]?|LASER|\bL(?:L|\d|\+|\/|$)/.test(normalized)) {
     return [isMetal(materials) ? "fiber-laser" : "co2"]
   }
-  if (/DIGI|CUATR|ADHESIVO|GOTA|RESIN/.test(normalized)) {
+  if (/DIGI|DGITAL|DIGTAL|DIIGTAL|CUATR|ADHESIVO|GOTA|RESIN/.test(normalized)) {
     return ["uv-transfer"]
   }
-  if (/[A-Z0-9]/.test(normalized)) return ["pad-screen"]
+  if (/SERIGRAF/.test(normalized)) return ["pad-screen"]
+  if (isKnownGenericDecoration(normalized)) return ["pad-screen"]
   return []
 }
 
@@ -63,7 +64,7 @@ function describeTechnique(code: string): {
       recognized: true,
     }
   }
-  if (/BORDAD/.test(normalized)) {
+  if (/\bBORDA\w*\b/.test(normalized)) {
     return { label: "Embroidery", labelRo: "Broderie", recognized: true }
   }
   if (/DTF/.test(normalized)) {
@@ -75,10 +76,10 @@ function describeTechnique(code: string): {
   if (/L360/.test(normalized)) {
     return { label: "360° laser engraving", labelRo: "Gravură laser 360°", recognized: true }
   }
-  if (/LCO|LASER|\bL(?:L|\d|\+|\/|$)/.test(normalized)) {
+  if (/LC[O0][12]?|LASER|\bL(?:L|\d|\+|\/|$)/.test(normalized)) {
     return { label: "Laser engraving", labelRo: "Gravură laser", recognized: true }
   }
-  if (/DIGI|CUATR/.test(normalized)) {
+  if (/DIGI|DGITAL|DIGTAL|DIIGTAL|CUATR/.test(normalized)) {
     return { label: "Digital printing", labelRo: "Imprimare digitală", recognized: true }
   }
   if (/VINILO/.test(normalized)) {
@@ -93,7 +94,7 @@ function describeTechnique(code: string): {
   if (/ADHESIVO/.test(normalized)) {
     return { label: "Printed adhesive", labelRo: "Autocolant imprimat", recognized: true }
   }
-  if (/^[A-Z0-9*+_ /().-]+$/.test(normalized)) {
+  if (isKnownGenericDecoration(normalized)) {
     return {
       label: `Cifra decoration code ${code}`,
       labelRo: `Cod personalizare Cifra ${code}`,
@@ -105,6 +106,95 @@ function describeTechnique(code: string): {
     labelRo: `Metodă Cifra ${code}`,
     recognized: false,
   }
+}
+
+const KNOWN_GENERIC_DECORATION_CODES = new Set([
+  "A",
+  "A (PACK)",
+  "A(UNIDAD)",
+  "B",
+  "B (UNIDAD)",
+  "B(POR UNIDAD)",
+  "B+B",
+  "B+D",
+  "B+E",
+  "C",
+  "C (1 COLOR)",
+  "C (1COLOR)",
+  "C (UNIDAD)",
+  "C(CAJA)",
+  "C(POR UNIDAD)",
+  "C(UNIDAD)",
+  "CONSULTAR",
+  "D",
+  "D (UNIDAD)",
+  "D (VARILLA)",
+  "D(1TINTA)",
+  "D(POR UNIDAD)",
+  "D(UNIDAD)",
+  "D(VARILLA)",
+  "D+B",
+  "D+D",
+  "D_PACK_5",
+  "E",
+  "E(1 TINTA)",
+  "E(SIN",
+  "E(UNIDAD)",
+  "E*",
+  "E* (1 COLOR)",
+  "E*(EMBOLSADO)",
+  "E+B",
+  "E+E",
+  "EB",
+  "E_1TINTA",
+  "E_E",
+  "F",
+  "F (1 COLOR)",
+  "F (BOLSA)",
+  "F (ELASTICO)",
+  "F(1 COLOR)",
+  "F(1COLOR)",
+  "F(POR PLANCHA)",
+  "F(UNIDAD)",
+  "F+B",
+  "F+F",
+  "F+F+F",
+  "F+F+F+F",
+  "F_1TINTA",
+  "G",
+  "G_D",
+  "H",
+  "I",
+  "IMPORTACION",
+  "LONA",
+  "METOPA",
+  "PAPEL MUPPY",
+  "PARASOLES",
+  "POLIPROPILENO",
+  "PVC 3 MM",
+  "R1",
+  "R2",
+  "R3",
+  "R4",
+  "R1+R1",
+  "SG1",
+  "SG2",
+  "SGA",
+  "SGC",
+  "SGN",
+  "SGP",
+  "SU",
+  "T",
+  "TARIFA ESPECIAL",
+  "TC",
+  "TDB",
+  "TRL",
+  "TSB",
+  "V",
+])
+
+function isKnownGenericDecoration(code: string): boolean {
+  return KNOWN_GENERIC_DECORATION_CODES.has(code)
 }
 
 function normalizeTechnique(code: string): string {

@@ -60,7 +60,7 @@ export interface CifraShippingAddress {
   address_1: string
   city: string
   zone: string
-  postcode?: string
+  postcode: string
   country: string
   telephone?: string
 }
@@ -88,6 +88,7 @@ export interface CifraCreatedOrderProduct {
 
 export interface CifraCreatedOrderData {
   order_id: number
+  client_reference?: string
   shipping_address: CifraShippingAddress & {
     lastname?: string
     address_2?: string
@@ -102,6 +103,42 @@ export interface CifraCreatedOrderData {
 export interface CifraCreateOrderResponse {
   message: string
   data: CifraCreatedOrderData
+}
+
+export interface CifraOrderDetailsProduct {
+  model: string
+  unit_price: string | number
+  total: string | number
+  quantity: number
+}
+
+export interface CifraOrderDetailsData {
+  order_id: number
+  order_no: string
+  client_reference: string
+  shipping_address: CifraShippingAddress & {
+    lastname: string
+    address_2: string
+    email: string
+    telephone: string
+  }
+  shipping_method: string
+  packages_count: string | number | null
+  products: CifraOrderDetailsProduct[]
+  total: string | number
+  date_added: string
+}
+
+export interface CifraOrderDetailsResponse {
+  data: CifraOrderDetailsData
+}
+
+export type CifraOrderDocumentType = "invoice" | "shipment"
+
+export interface CifraOrderDocument {
+  bytes: Uint8Array
+  contentType: string | null
+  contentDisposition: string | null
 }
 
 export interface CifraCatalogFeeds {

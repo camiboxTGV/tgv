@@ -14,6 +14,7 @@ This repo ships to **Firebase App Hosting**. Pushing to `main` triggers an autom
    - `BLUECOLLECTION_USERNAME`: the Blue Collection developer login
    - `BLUECOLLECTION_PASSWORD`: the generated Blue Collection API password
    - These are used only by the `Catalog data sync` workflow; Firebase never sees them.
+   - `CIFRA_ORDER_API_KEY` is a separate optional credential for direct order reads and is not used by catalog sync.
 
 2. **Confirm the Firebase backend** is linked to `main` on this repo.
    - Firebase console → App Hosting → your backend → Settings → Repository
