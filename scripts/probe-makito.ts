@@ -1,4 +1,9 @@
 import { createMakitoClientFromEnv } from "../suppliers/makito/fetch.ts"
+import {
+  adapter as makitoAdapter,
+  buildMakitoInventorySnapshot,
+  buildMakitoProducts,
+} from "../suppliers/makito/adapter.ts"
 
 function keysOf(records: readonly unknown[]): string[] {
   const keys = new Set<string>()
@@ -63,6 +68,20 @@ async function main(): Promise<void> {
     client.getPriceList(),
     client.getPrintConfig(),
   ])
+  const fetchedAt = client.fetchedAt()
+  const products = buildMakitoProducts({
+    catalog,
+    stock,
+    priceList: prices,
+    printConfig,
+    fetchedAt,
+  })
+  const inventory = buildMakitoInventorySnapshot({
+    catalog,
+    stock,
+    priceList: prices,
+    fetchedAt,
+  })
 
   const productRefs = new Set(
     catalog.products.map((product) => identifier(product.ref)).filter(isString),
@@ -109,81 +128,118 @@ async function main(): Promise<void> {
   const printTechniques = printAreaRecords.flatMap((area) =>
     Array.isArray(area.techniques) ? area.techniques : [],
   )
-  const scaleQuantities = prices.priceList.flatMap((entry) =>
-    entry.scales.map((scale) => String(scale.quantity)),
-  )
+  const builtVariantIds = products.flatMap((product) => product.supplierVariantIds ?? [])
+  const builtVariantIdSet = new Set(builtVariantIds)
+  const productsWithImages = products.filter((product) => product.images.length > 0).length
+  const productsWithMappedCategory = products.filter((product) =>
+    makitoAdapter.mapCategory(product) !== null
+  ).length
+  const builtVariantsWithPrice = builtVariantIds.filter((variantId) =>
+    inventory.prices.has(variantId)
+  ).length
+  const builtVariantsWithStockBinding = builtVariantIds.filter((variantId) =>
+    inventory.stock.has(variantId)
+  ).length
+  const percent = (covered: number, total: number) =>
+    total > 0 ? Number(((covered / total) * 100).toFixed(2)) : 0
 
   const summary = {
-    catalog: {
-      products: catalog.products.length,
-      sampledKeys: keysOf(catalog.products),
-      productsWithVariantsArray: catalog.products.filter((product) =>
-        Array.isArray(product.variants)
-      ).length,
-      variantRecords: variantRecords.length,
-      sampledVariantKeys: keysOf(variantRecords),
-      sampledCategoryKeys: keysOf(categoryRecords),
-      uniqueProductRefs: productRefs.size,
-      uniqueVariantIds: variantIds.size,
-      variantIdLengths: lengthHistogram(variantIds),
-      assetPathDepths: lengthHistogram(variantAssetSegments.map((segments) =>
-        "x".repeat(segments.length)
-      )),
-      assetSegmentEqualsVariantReference: variantRecords.filter((variant) => {
-        const expected = identifier(variant.variant_reference)
-        if (!expected) return false
-        return [variant.variant_image, variant.variant_thumbnail].some((value) =>
-          assetSegments(value).includes(expected)
-        )
-      }).length,
+    production: {
+      products: {
+        built: products.length,
+        sourceRecords: catalog.products.length,
+        coveragePercent: percent(products.length, catalog.products.length),
+        withImages: productsWithImages,
+        imageCoveragePercent: percent(productsWithImages, products.length),
+        withMappedCategory: productsWithMappedCategory,
+        mappedCategoryCoveragePercent: percent(productsWithMappedCategory, products.length),
+      },
+      variants: {
+        built: builtVariantIds.length,
+        uniqueBuilt: builtVariantIdSet.size,
+        sourceRecords: variantRecords.length,
+        coveragePercent: percent(builtVariantIds.length, variantRecords.length),
+        withInventoryPrice: builtVariantsWithPrice,
+        inventoryPriceCoveragePercent: percent(builtVariantsWithPrice, builtVariantIds.length),
+        withStockBinding: builtVariantsWithStockBinding,
+        stockBindingCoveragePercent: percent(
+          builtVariantsWithStockBinding,
+          builtVariantIds.length,
+        ),
+      },
+      inventory: {
+        priceBindings: inventory.prices.size,
+        stockBindings: inventory.stock.size,
+      },
+      imageCandidates: products.reduce((count, product) => count + product.images.length, 0),
     },
-    stock: {
-      records: stock.stocks.length,
-      sampledKeys: keysOf(stock.stocks),
-      uniqueMaterials: new Set(stockMaterials).size,
-      materialLengths: lengthHistogram(stockMaterials),
-      materialMatchesVariant: stockMaterials.filter((value) => variantIds.has(value)).length,
-      materialMatchesVariantWithoutLeadingZeroes: stockMaterials.filter((value) =>
-        variantIdsWithoutLeadingZeroes.has(stripLeadingZeroes(value))
-      ).length,
-      materialMatchesVariantAlphanumeric: stockMaterials.filter((value) =>
-        variantIdsAlphanumeric.has(alphanumeric(value))
-      ).length,
-      materialMatchesAssetSegment: Object.fromEntries(segmentSets.map((values, index) => [
-        String(index),
-        stockMaterials.filter((value) => values.has(value)).length,
-      ])),
-      materialMatchesProduct: stockMaterials.filter((value) => productRefs.has(value)).length,
-    },
-    prices: {
-      records: prices.priceList.length,
-      sampledKeys: keysOf(prices.priceList),
-      currencies: distinctLimited(prices.priceList.map((entry) => String(entry.currency ?? ""))),
-      baseQuantities: distinctLimited(
-        prices.priceList.map((entry) => String(entry.baseQuantity ?? "")),
-      ),
-      scaleQuantities: distinctLimited(scaleQuantities),
-      sampledScaleKeys: keysOf(prices.priceList.flatMap((entry) => entry.scales)),
-      uniqueMaterials: new Set(priceMaterials).size,
-      materialMatchesVariant: priceMaterials.filter((value) => variantIds.has(value)).length,
-      materialMatchesProduct: priceMaterials.filter((value) => productRefs.has(value)).length,
-    },
-    printConfig: {
-      products: printConfig.products.length,
-      sampledKeys: keysOf(printConfig.products),
-      uniqueIds: new Set(printConfigIds).size,
-      idMatchesVariant: printConfigIds.filter((value) => variantIds.has(value)).length,
-      idMatchesProduct: printConfigIds.filter((value) => productRefs.has(value)).length,
-      areas: printAreas.length,
-      sampledAreaKeys: keysOf(printAreaRecords),
-      sampledTechniqueKeys: keysOf(printTechniques),
-      techniqueContainerTypes: Object.fromEntries(
-        [...new Set(printAreaRecords.map((area) =>
-          Array.isArray(area.techniques) ? "array" : typeof area.techniques
-        ))].sort().map((type) => [type, printAreaRecords.filter((area) =>
-          (Array.isArray(area.techniques) ? "array" : typeof area.techniques) === type
-        ).length]),
-      ),
+    schema: {
+      catalog: {
+        products: catalog.products.length,
+        sampledKeys: keysOf(catalog.products),
+        productsWithVariantsArray: catalog.products.filter((product) =>
+          Array.isArray(product.variants)
+        ).length,
+        variantRecords: variantRecords.length,
+        sampledVariantKeys: keysOf(variantRecords),
+        sampledCategoryKeys: keysOf(categoryRecords),
+        uniqueProductRefs: productRefs.size,
+        uniqueVariantIds: variantIds.size,
+        variantIdLengths: lengthHistogram(variantIds),
+        assetPathDepths: lengthHistogram(variantAssetSegments.map((segments) =>
+          "x".repeat(segments.length)
+        )),
+        assetSegmentEqualsVariantReference: variantRecords.filter((variant) => {
+          const expected = identifier(variant.variant_reference)
+          if (!expected) return false
+          return [variant.variant_image, variant.variant_thumbnail].some((value) =>
+            assetSegments(value).includes(expected)
+          )
+        }).length,
+      },
+      stock: {
+        records: stock.stocks.length,
+        sampledKeys: keysOf(stock.stocks),
+        uniqueMaterials: new Set(stockMaterials).size,
+        materialLengths: lengthHistogram(stockMaterials),
+        materialMatchesVariant: stockMaterials.filter((value) => variantIds.has(value)).length,
+        materialMatchesVariantWithoutLeadingZeroes: stockMaterials.filter((value) =>
+          variantIdsWithoutLeadingZeroes.has(stripLeadingZeroes(value))
+        ).length,
+        materialMatchesVariantAlphanumeric: stockMaterials.filter((value) =>
+          variantIdsAlphanumeric.has(alphanumeric(value))
+        ).length,
+        materialMatchesAssetSegment: Object.fromEntries(segmentSets.map((values, index) => [
+          String(index),
+          stockMaterials.filter((value) => values.has(value)).length,
+        ])),
+        materialMatchesProduct: stockMaterials.filter((value) => productRefs.has(value)).length,
+      },
+      prices: {
+        records: prices.priceList.length,
+        sampledKeys: keysOf(prices.priceList),
+        sampledScaleKeys: keysOf(prices.priceList.flatMap((entry) => entry.scales)),
+        uniqueMaterials: new Set(priceMaterials).size,
+        materialMatchesVariant: priceMaterials.filter((value) => variantIds.has(value)).length,
+        materialMatchesProduct: priceMaterials.filter((value) => productRefs.has(value)).length,
+      },
+      printConfig: {
+        products: printConfig.products.length,
+        sampledKeys: keysOf(printConfig.products),
+        uniqueIds: new Set(printConfigIds).size,
+        idMatchesVariant: printConfigIds.filter((value) => variantIds.has(value)).length,
+        idMatchesProduct: printConfigIds.filter((value) => productRefs.has(value)).length,
+        areas: printAreas.length,
+        sampledAreaKeys: keysOf(printAreaRecords),
+        sampledTechniqueKeys: keysOf(printTechniques),
+        techniqueContainerTypes: Object.fromEntries(
+          distinctLimited(printAreaRecords.map((area) =>
+            Array.isArray(area.techniques) ? "array" : typeof area.techniques
+          )).map((type) => [type, printAreaRecords.filter((area) =>
+            (Array.isArray(area.techniques) ? "array" : typeof area.techniques) === type
+          ).length]),
+        ),
+      },
     },
   }
 
@@ -198,7 +254,7 @@ function isRecord(value: Record<string, unknown> | null): value is Record<string
   return value !== null
 }
 
-main().catch((error) => {
-  console.error(error instanceof Error ? error.message : "Makito probe failed")
+main().catch(() => {
+  console.error("Makito production probe failed")
   process.exit(1)
 })

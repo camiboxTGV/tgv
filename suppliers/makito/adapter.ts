@@ -14,6 +14,7 @@ import {
   mapMakitoCategory,
 } from "./category-mapping.ts"
 import {
+  fetchMakitoAssetFromEnv,
   loadMakitoCatalogFeeds,
   loadMakitoInventoryFeeds,
 } from "./fetch.ts"
@@ -29,6 +30,7 @@ import type {
   MakitoInventoryFeeds,
   MakitoNumericValue,
   MakitoPriceEntry,
+  MakitoPrintArea,
   MakitoPrintConfigProduct,
   MakitoPrintTechnique,
   MakitoStockEntry,
@@ -51,12 +53,9 @@ export type MakitoPriceResolver = (
 ) => MakitoResolvedPrice | null
 
 export interface MakitoBuildOptions {
-  /**
-   * Provide only after both the account's price-unit contract and the meaning
-   * of the price-list `material` key have been verified from a live sample.
-   */
+  /** Override the verified live-account price contract in isolated tests only. */
   priceResolver?: MakitoPriceResolver
-  /** Required only when product-bound prices must be expanded for inventory. */
+  /** Optional precomputed binding override used by isolated inventory tests. */
   productVariantIds?: ReadonlyMap<string, readonly string[]>
 }
 
@@ -79,7 +78,7 @@ interface ParsedVariant {
   colorName?: string
   colorHex?: string
   size?: string
-  images: string[]
+  sourceImages: string[]
 }
 
 interface ProductPrintConfig {
@@ -113,33 +112,27 @@ export function makitoIdentifier(value: unknown, label = "identifier"): string {
   throw new Error(`makito ${label} is invalid`)
 }
 
-/**
- * The public contract does not explain how amount relates to baseQuantity.
- * A base quantity of one makes that relationship explicit; every other shape
- * remains intentionally unresolved until it is verified against live data.
- */
+/** Resolve the verified Makito live-account EUR amount/base-quantity contract. */
 export function resolveUnambiguousMakitoPrice(
   entry: MakitoPriceEntry,
 ): UnitPrice | null {
   if (cleanText(entry.currency).toUpperCase() !== "EUR") return null
   const baseQuantity = parseMakitoDecimal(entry.baseQuantity)
-  if (baseQuantity !== 1) return null
+  if (!Number.isFinite(baseQuantity) || baseQuantity <= 0) return null
+  if (!Array.isArray(entry.scales) || entry.scales.length !== 1) return null
+  const scale = entry.scales[0]
+  if (!scale || parseMakitoDecimal(scale.quantity) !== 1) return null
+  const amount = parseMakitoDecimal(scale.amount)
+  if (!Number.isFinite(amount) || amount <= 0) return null
+  const unitPriceEur = amount / baseQuantity
+  if (!Number.isFinite(unitPriceEur) || unitPriceEur <= 0) return null
+  return { unitPriceEur, minimumQuantity: 1 }
+}
 
-  const tiers = entry.scales
-    .map((scale) => ({
-      quantity: parseMakitoDecimal(scale.quantity),
-      amount: parseMakitoDecimal(scale.amount),
-    }))
-    .filter((tier) =>
-      Number.isSafeInteger(tier.quantity) &&
-      tier.quantity > 0 &&
-      Number.isFinite(tier.amount) &&
-      tier.amount > 0
-    )
-    .sort((left, right) => left.quantity - right.quantity)
-  const first = tiers[0]
-  if (!first) return null
-  return { unitPriceEur: first.amount, minimumQuantity: first.quantity }
+/** Production resolver: live price-list `material` values bind to product refs. */
+export const resolveMakitoProductPrice: MakitoPriceResolver = (entry) => {
+  const resolved = resolveUnambiguousMakitoPrice(entry)
+  return resolved ? { ...resolved, binding: "product" } : null
 }
 
 export function isTrustedMakitoCatalogAssetUrl(value: unknown): value is string {
@@ -181,17 +174,23 @@ export function buildMakitoInventorySnapshot(
 ): SupplierInventorySnapshot {
   const prices = buildPriceIndex(feeds.priceList.priceList, options.priceResolver)
   const stock = buildStockIndex(feeds.stock.stocks, feeds.fetchedAt)
+  const productVariantIds = options.productVariantIds ??
+    buildProductVariantIndex(feeds.catalog.products)
+  const knownVariantIds = new Set(
+    [...productVariantIds.values()].flatMap((variantIds) => [...variantIds]),
+  )
   const inventoryPrices = new Map<string, number>()
   for (const [material, price] of prices.byVariant) {
+    if (!knownVariantIds.has(material)) continue
     inventoryPrices.set(material, price.unitPriceEur)
   }
   for (const [productRef, price] of prices.byProduct) {
-    const variantIds = options.productVariantIds?.get(productRef)
-    if (!variantIds?.length) {
-      throw new Error(
-        `makito product price ${productRef} cannot be expanded without verified product/variant bindings`,
-      )
+    if (knownVariantIds.has(productRef)) {
+      throw new Error("makito inventory price list contains a variant material as a product key")
     }
+    const variantIds = productVariantIds.get(productRef)
+    // Makito's price snapshot contains entries outside the general catalog.
+    if (!variantIds?.length) continue
     for (const variantId of variantIds) {
       const normalizedId = makitoIdentifier(variantId, "inventory variant id")
       const existing = inventoryPrices.get(normalizedId)
@@ -245,14 +244,26 @@ export function buildMakitoProducts(
       seenVariants.set(variant.id, productRef)
     }
 
-    const rawVariants = parsedVariants.map((variant) => {
-      const price = priceForVariant(prices, productRef, variant.id)
-      if (!price) {
-        throw new Error(
-          `makito material ${variant.id} has no verified EUR unit price; ` +
-            "the amount/baseQuantity contract must be verified before publishing",
-        )
-      }
+    const productScopedVariantKeys = parsedVariants.filter((variant) =>
+      prices.byProduct.has(variant.id)
+    )
+    if (productScopedVariantKeys.length > 0) {
+      throw new Error(
+        `makito product ${productRef} price list contains mixed or variant material keys`,
+      )
+    }
+
+    const variantPrices = parsedVariants.map((variant) =>
+      priceForVariant(prices, productRef, variant.id)
+    )
+    const matchedPriceCount = variantPrices.filter(Boolean).length
+    if (matchedPriceCount === 0) continue
+    if (matchedPriceCount !== parsedVariants.length) {
+      throw new Error(`makito product ${productRef} has a partial price binding`)
+    }
+
+    const rawVariants = parsedVariants.map((variant, index) => {
+      const price = variantPrices[index]!
       return {
         supplierVariantId: variant.id,
         colorName: variant.colorName,
@@ -260,7 +271,6 @@ export function buildMakitoProducts(
         size: variant.size,
         priceEur: price.unitPriceEur,
         stock: stock.get(variant.id) ?? 0,
-        images: variant.images.length ? variant.images : undefined,
       } satisfies RawVariant
     })
 
@@ -269,8 +279,8 @@ export function buildMakitoProducts(
     const materials = extractMaterialDescriptions(product)
     const images = distinct([
       ...extractProductImages(product),
-      ...rawVariants.flatMap((variant) => variant.images ?? []),
-    ])
+      ...parsedVariants.flatMap((variant) => variant.sourceImages),
+    ]).slice(0, 1)
     if (images.length === 0) continue
 
     const techniques = [
@@ -279,9 +289,7 @@ export function buildMakitoProducts(
     ]
     const personalizations = describeMakitoPersonalizations(techniques)
     const moq = Math.min(
-      ...parsedVariants.map((variant) =>
-        priceForVariant(prices, productRef, variant.id)!.minimumQuantity
-      ),
+      ...variantPrices.map((price) => price!.minimumQuantity),
     )
     const totalStock = safeStockTotal(rawVariants, productRef)
     const description = cleanRichText(product.description) || undefined
@@ -390,6 +398,11 @@ export function makitoProductSpecifications(
 export const adapter: SupplierAdapter = {
   id: SUPPLIER_ID,
   displayName: DISPLAY_NAME,
+  imageMirror: {
+    enabledWhenImagesSkipped: true,
+    maxProductImages: 1,
+    fetch: fetchMakitoAssetFromEnv,
+  },
 
   async fetchAll(): Promise<RawProduct[]> {
     return buildMakitoProducts(await loadMakitoCatalogFeeds())
@@ -414,21 +427,21 @@ export const adapter: SupplierAdapter = {
 
 function buildPriceIndex(
   entries: readonly MakitoPriceEntry[],
-  resolver: MakitoPriceResolver | undefined,
+  resolver: MakitoPriceResolver = resolveMakitoProductPrice,
 ): PriceIndex {
   if (!Array.isArray(entries)) throw new Error("makito price list is invalid")
-  if (!resolver) {
-    throw new Error(
-      "makito price semantics are not verified; configure an explicit price resolver before publishing",
-    )
-  }
   const byVariant = new Map<string, IndexedPrice>()
   const byProduct = new Map<string, IndexedPrice>()
+  let binding: MakitoResolvedPrice["binding"] | undefined
   for (const entry of entries) {
     const material = makitoIdentifier(entry.material, "price material")
     const resolved = resolver(entry)
     if (!resolved) continue
     assertResolvedPrice(resolved, material)
+    if (binding && binding !== resolved.binding) {
+      throw new Error("makito price list mixes product and variant binding scopes")
+    }
+    binding = resolved.binding
     const next: IndexedPrice = {
       material,
       unitPriceEur: resolved.unitPriceEur,
@@ -532,11 +545,9 @@ function parseProductVariants(
 ): ParsedVariant[] {
   const rawVariants = explicitVariantValues(product)
   const byId = new Map<string, ParsedVariant>()
-  const linkedImages = variantImageIndex(product.variant_image)
   for (const raw of rawVariants) {
     const parsed = parseVariant(raw, productRef)
-    const linked = linkedImages.get(parsed.id) ?? []
-    parsed.images = distinct([...parsed.images, ...linked])
+    if (!parsed) continue
     const existing = byId.get(parsed.id)
     if (existing && !sameVariant(existing, parsed)) {
       throw new Error(
@@ -550,6 +561,35 @@ function parseProductVariants(
   )
 }
 
+function buildProductVariantIndex(
+  products: readonly MakitoCatalogProduct[],
+): ReadonlyMap<string, readonly string[]> {
+  if (!Array.isArray(products)) throw new Error("makito catalog is invalid")
+  const result = new Map<string, readonly string[]>()
+  const seenProductRefs = new Set<string>()
+  const variantOwners = new Map<string, string>()
+  for (const product of products) {
+    const productRef = makitoIdentifier(product.ref, "product ref")
+    if (seenProductRefs.has(productRef)) {
+      throw new Error(`makito returned duplicate product ref ${productRef}`)
+    }
+    seenProductRefs.add(productRef)
+    const variantIds = parseProductVariants(product, productRef).map((variant) => variant.id)
+    if (variantIds.length === 0) continue
+    for (const variantId of variantIds) {
+      const owner = variantOwners.get(variantId)
+      if (owner && owner !== productRef) {
+        throw new Error(
+          `makito material ${variantId} is assigned to products ${owner} and ${productRef}`,
+        )
+      }
+      variantOwners.set(variantId, productRef)
+    }
+    result.set(productRef, variantIds)
+  }
+  return result
+}
+
 function explicitVariantValues(product: MakitoCatalogProduct): unknown[] {
   if (product.variants !== undefined && product.variants !== null) {
     if (!Array.isArray(product.variants)) {
@@ -560,36 +600,66 @@ function explicitVariantValues(product: MakitoCatalogProduct): unknown[] {
   return []
 }
 
-function parseVariant(value: unknown, productRef: string): ParsedVariant {
-  if (typeof value === "string" || typeof value === "number") {
-    return {
-      id: makitoIdentifier(value, `product ${productRef} material`),
-      images: [],
-    }
-  }
+function parseVariant(value: unknown, productRef: string): ParsedVariant | null {
+  // `variant_reference` is a web/catalog reference, never the stock material.
+  if (typeof value === "string" || typeof value === "number") return null
   const record = objectRecord(value, `makito product ${productRef} variant`)
-  const id = makitoIdentifier(
-    firstDefined(record.material, record.matnr),
-    `product ${productRef} material`,
-  )
+  const assets = [record.variant_image, record.variant_thumbnail]
+    .map((asset) => parseVariantAsset(asset, productRef))
+    .filter(isPresent)
+  if (assets.length === 0) return null
+  const materials = distinct(assets.map((asset) => asset.material))
+  if (materials.length !== 1) {
+    throw new Error(`makito product ${productRef} variant assets disagree on material`)
+  }
+  const id = materials[0]!
+  const explicitMaterial = firstDefined(record.material, record.matnr)
+  if (
+    explicitMaterial !== undefined &&
+    explicitMaterial !== null &&
+    makitoIdentifier(explicitMaterial, `product ${productRef} material`) !== id
+  ) {
+    throw new Error(`makito product ${productRef} variant material conflicts with its asset path`)
+  }
   const color = parseColor(record)
   const size = parseSize(record)
-  const images = extractAssetUrls([
-    record.image,
-    record.images,
-    record.img100,
-    record.img_min,
-    record.img_max,
-    record.main,
-    record.url,
-  ])
   return {
     id,
     colorName: color.name,
     colorHex: color.hex,
     size,
-    images,
+    sourceImages: distinct(assets.map((asset) => asset.url)),
   }
+}
+
+function parseVariantAsset(
+  value: unknown,
+  productRef: string,
+): { material: string; url: string } | null {
+  if (value === undefined || value === null || value === "") return null
+  if (!isTrustedMakitoCatalogAssetUrl(value)) return null
+  const url = new URL(value)
+  let decodedPath: string
+  try {
+    decodedPath = decodeURIComponent(url.pathname)
+  } catch {
+    return null
+  }
+  const segments = decodedPath.slice(CATALOG_ASSET_PREFIX.length).split("/")
+  if (segments.length !== 4) {
+    throw new Error(`makito product ${productRef} variant asset path is invalid`)
+  }
+  const [assetProductRef, material, type, filename] = segments
+  if (assetProductRef !== productRef) {
+    throw new Error(`makito product ${productRef} variant asset belongs to another product`)
+  }
+  if (!material || !/^\d{11}$/.test(material)) {
+    throw new Error(`makito product ${productRef} variant asset material is invalid`)
+  }
+  if ((type !== "principal" && type !== "thumbnail") || !filename) {
+    throw new Error(`makito product ${productRef} variant asset path is invalid`)
+  }
+  return { material, url: value }
 }
 
 function parseColor(variant: Record<string, unknown>): { name?: string; hex?: string } {
@@ -601,6 +671,7 @@ function parseColor(variant: Record<string, unknown>): { name?: string; hex?: st
     firstDefined(
       variant.colorTitle,
       variant.colourTitle,
+      variant.variant_name,
       color?.title,
       color?.name,
       color?.description,
@@ -610,11 +681,22 @@ function parseColor(variant: Record<string, unknown>): { name?: string; hex?: st
     ),
   )
   const code = localizedText(
-    firstDefined(variant.colorCode, variant.colourCode, color?.code),
+    firstDefined(
+      variant.colorCode,
+      variant.colourCode,
+      variant.variant_colorcode,
+      color?.code,
+    ),
   )
   const name = title || code
   const rawHex = cleanText(
-    firstDefined(variant.colorHex, color?.hex, color?.rgb, color?.hexadecimal),
+    firstDefined(
+      variant.colorHex,
+      variant.variant_colorhex,
+      color?.hex,
+      color?.rgb,
+      color?.hexadecimal,
+    ),
   )
   const normalizedHex = rawHex.replace(/^#/, "")
   const hex = /^[0-9a-f]{6}$/i.test(normalizedHex)
@@ -624,7 +706,7 @@ function parseColor(variant: Record<string, unknown>): { name?: string; hex?: st
 }
 
 function parseSize(variant: Record<string, unknown>): string | undefined {
-  const value = variant.size
+  const value = firstDefined(variant.size, variant.variant_size)
   const size = value && typeof value === "object" && !Array.isArray(value)
     ? value as Record<string, unknown>
     : null
@@ -648,34 +730,19 @@ function sameVariant(left: ParsedVariant, right: ParsedVariant): boolean {
     left.colorName === right.colorName &&
     left.colorHex === right.colorHex &&
     left.size === right.size &&
-    arraysEqual(left.images, right.images)
-}
-
-function variantImageIndex(value: unknown): ReadonlyMap<string, string[]> {
-  const result = new Map<string, string[]>()
-  if (!Array.isArray(value)) return result
-  for (const item of value) {
-    if (!item || typeof item !== "object" || Array.isArray(item)) continue
-    const record = item as Record<string, unknown>
-    const rawId = firstDefined(record.material, record.matnr, record.variantReference)
-    if (rawId === undefined || rawId === null) continue
-    const id = makitoIdentifier(rawId, "variant image material")
-    const urls = extractAssetUrls(item)
-    result.set(id, distinct([...(result.get(id) ?? []), ...urls]))
-  }
-  return result
+    arraysEqual(left.sourceImages, right.sourceImages)
 }
 
 function extractProductImages(product: MakitoCatalogProduct): string[] {
+  const record = product as Record<string, unknown>
   return extractAssetUrls([
     product.image,
-    product.variant_image,
-    product.images,
-    product.img_min,
-    product.img_max,
-    product.main,
-    product.url,
-  ])
+    record.images,
+    record.img_min,
+    record.img_max,
+    record.main,
+    record.url,
+  ]).slice(0, 1)
 }
 
 function extractAssetUrls(value: unknown, depth = 0): string[] {
@@ -750,6 +817,7 @@ function buildPrintConfigIndex(
   for (const product of products) {
     const record = product as Record<string, unknown>
     const rawRef = firstDefined(
+      product.id,
       product.productReference,
       record.ref,
       record.reference,
@@ -760,12 +828,47 @@ function buildPrintConfigIndex(
     const techniques = Array.isArray(product.techniques)
       ? product.techniques.flatMap(parsePrintTechnique)
       : []
+    const areaTechniques = Array.isArray(product.areas)
+      ? product.areas.flatMap(parsePrintAreaTechniques)
+      : []
     const existing = result.get(ref)
     result.set(ref, {
-      techniques: [...(existing?.techniques ?? []), ...techniques],
+      techniques: [
+        ...(existing?.techniques ?? []),
+        ...techniques,
+        ...areaTechniques,
+      ],
     })
   }
   return result
+}
+
+function parsePrintAreaTechniques(area: MakitoPrintArea): MakitoTechniqueInput[] {
+  const printSize = formatPrintArea(area)
+  if (typeof area.techniques === "string") {
+    const rawTechnique = cleanRichText(area.techniques)
+    if (!rawTechnique) return []
+    return [{
+      id: rawTechnique,
+      description: rawTechnique,
+      printSizes: printSize ? [printSize] : [],
+    }]
+  }
+  if (!Array.isArray(area.techniques)) return []
+  return area.techniques.flatMap((technique) =>
+    parsePrintTechnique(technique).map((parsed) => ({
+      ...parsed,
+      printSizes: distinct([...(parsed.printSizes ?? []), ...(printSize ? [printSize] : [])]),
+    }))
+  )
+}
+
+function formatPrintArea(area: MakitoPrintArea): string {
+  const width = positiveNumericText(area.width)
+  const height = positiveNumericText(area.height)
+  const position = cleanRichText(area.position)
+  const dimensions = width && height ? `${width} × ${height} mm` : ""
+  return [dimensions, position].filter(Boolean).join(" · ")
 }
 
 function parsePrintTechnique(technique: MakitoPrintTechnique): MakitoTechniqueInput[] {
@@ -843,6 +946,11 @@ function numericText(value: MakitoNumericValue | null | undefined): string {
   if (value === undefined || value === null) return ""
   const parsed = parseMakitoDecimal(value)
   return Number.isFinite(parsed) ? String(parsed) : ""
+}
+
+function positiveNumericText(value: MakitoNumericValue | null | undefined): string {
+  const text = numericText(value)
+  return text && Number(text) > 0 ? text : ""
 }
 
 function optionalIdentifier(value: MakitoIdentifier | null | undefined): string {
@@ -935,6 +1043,10 @@ function arraysEqual(left: readonly string[], right: readonly string[]): boolean
 
 function isNonEmpty(value: string | undefined): value is string {
   return Boolean(value)
+}
+
+function isPresent<T>(value: T | null | undefined): value is T {
+  return value !== null && value !== undefined
 }
 
 function sizeOrder(left: string, right: string): number {

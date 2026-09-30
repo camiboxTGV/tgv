@@ -30,6 +30,7 @@ export interface MakitoCatalogProduct extends Record<string, unknown> {
   categories?: unknown
   image?: unknown
   variant_image?: unknown
+  variant_thumbnail?: unknown
   variants?: unknown
 }
 
@@ -100,10 +101,22 @@ export interface MakitoPrintTechnique extends Record<string, unknown> {
   lines?: unknown
 }
 
+export interface MakitoPrintArea extends Record<string, unknown> {
+  id?: MakitoIdentifier | null
+  position?: string | null
+  width?: MakitoNumericValue | null
+  height?: MakitoNumericValue | null
+  image?: unknown
+  /** The live API returns the unstructured supplier technique label here. */
+  techniques?: string | MakitoPrintTechnique[] | null
+}
+
 export interface MakitoPrintConfigProduct extends Record<string, unknown> {
-  /** Product identity is undocumented, so the adapter must resolve it. */
+  /** Live product identity; it matches the catalog product `ref`. */
+  id?: MakitoIdentifier | null
+  /** Legacy/documentation alias retained for defensive compatibility. */
   productReference?: unknown
-  areas?: unknown[]
+  areas?: MakitoPrintArea[]
   positions?: unknown[]
   techniques?: MakitoPrintTechnique[]
 }
@@ -123,6 +136,7 @@ export interface MakitoCatalogFeeds {
 }
 
 export interface MakitoInventoryFeeds {
+  catalog: MakitoCatalogSnapshot
   stock: MakitoStockSnapshot
   priceList: MakitoPriceListSnapshot
   fetchedAt: string

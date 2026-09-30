@@ -42,7 +42,9 @@ concurrency:
 jobs:
   sync:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    # The first Makito mirror contains thousands of authenticated images and is
+    # deliberately paced by the supplier's 25 request/minute account bucket.
+    timeout-minutes: 300
     steps:
       - name: Checkout
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
@@ -85,6 +87,8 @@ jobs:
           CIFRA_API_TOKEN: ${{ secrets.CIFRA_API_TOKEN }}
           BLUECOLLECTION_USERNAME: ${{ secrets.BLUECOLLECTION_USERNAME }}
           BLUECOLLECTION_PASSWORD: ${{ secrets.BLUECOLLECTION_PASSWORD }}
+          MAKITO_CLIENT_ID: ${{ secrets.MAKITO_CLIENT_ID }}
+          MAKITO_CLIENT_SECRET: ${{ secrets.MAKITO_CLIENT_SECRET }}
           MODE: ${{ steps.mode.outputs.mode }}
         run: |
           set -euo pipefail
@@ -118,6 +122,14 @@ jobs:
           fi
           if [[ -z "$BLUECOLLECTION_PASSWORD" ]]; then
             echo "::error::Repository secret BLUECOLLECTION_PASSWORD is missing."
+            exit 1
+          fi
+          if [[ -z "$MAKITO_CLIENT_ID" ]]; then
+            echo "::error::Repository secret MAKITO_CLIENT_ID is missing."
+            exit 1
+          fi
+          if [[ -z "$MAKITO_CLIENT_SECRET" ]]; then
+            echo "::error::Repository secret MAKITO_CLIENT_SECRET is missing."
             exit 1
           fi
           if [[ "$MODE" != "inventory" && "$MODE" != "full" ]]; then
@@ -191,6 +203,8 @@ jobs:
           CIFRA_API_TOKEN: ${{ secrets.CIFRA_API_TOKEN }}
           BLUECOLLECTION_USERNAME: ${{ secrets.BLUECOLLECTION_USERNAME }}
           BLUECOLLECTION_PASSWORD: ${{ secrets.BLUECOLLECTION_PASSWORD }}
+          MAKITO_CLIENT_ID: ${{ secrets.MAKITO_CLIENT_ID }}
+          MAKITO_CLIENT_SECRET: ${{ secrets.MAKITO_CLIENT_SECRET }}
           MODE: ${{ steps.mode.outputs.mode }}
           FORCE: ${{ inputs.force }}
         run: |
@@ -225,10 +239,10 @@ jobs:
           unexpected="$({
             git diff --name-only
             git ls-files --others --exclude-standard
-          } | sort -u | grep -v '^lib/content/generated/' || true)"
+          } | sort -u | grep -Ev '^(lib/content/generated/|public/catalog/makito/)' || true)"
 
           if [[ -n "$unexpected" ]]; then
-            echo "::error::The catalog workflow changed files outside lib/content/generated/:"
+            echo "::error::The catalog workflow changed files outside its generated-data roots:"
             printf '%s\n' "$unexpected"
             exit 1
           fi
@@ -236,7 +250,7 @@ jobs:
       - name: Detect changes
         id: diff
         run: |
-          git add -A -- lib/content/generated
+          git add -A -- lib/content/generated public/catalog/makito
           if git diff --cached --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
           else

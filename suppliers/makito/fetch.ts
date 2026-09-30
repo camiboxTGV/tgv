@@ -8,6 +8,7 @@ import type {
   MakitoPriceEntry,
   MakitoPriceListSnapshot,
   MakitoPriceScale,
+  MakitoPrintArea,
   MakitoPrintConfigProduct,
   MakitoPrintConfigSnapshot,
   MakitoPrintPriceEntry,
@@ -623,11 +624,12 @@ export async function loadMakitoCatalogFeeds(
 export async function loadMakitoInventoryFeeds(
   client = getMakitoClientFromEnv(),
 ): Promise<MakitoInventoryFeeds> {
-  const [stock, priceList] = await Promise.all([
+  const [catalog, stock, priceList] = await Promise.all([
+    client.getCatalog(),
     client.getStock(),
     client.getPriceList(),
   ])
-  return { stock, priceList, fetchedAt: client.fetchedAt() }
+  return { catalog, stock, priceList, fetchedAt: client.fetchedAt() }
 }
 
 function normalizeBaseUrl(value: string): URL {
@@ -910,15 +912,49 @@ function assertPrintConfigSnapshot(value: unknown): MakitoPrintConfigSnapshot {
 
 function assertPrintConfigProduct(value: unknown, label: string): MakitoPrintConfigProduct {
   const product = objectRecord(value, label)
-  optionalArray(product, "areas", label)
+  if (product.id !== undefined && product.id !== null) {
+    assertIdentifier(product.id, `${label}.id`)
+  }
+  const areas = product.areas === undefined || product.areas === null
+    ? undefined
+    : arrayField(product, "areas", label).map((area, index) =>
+      assertPrintArea(area, `${label}.areas[${index}]`)
+    )
   optionalArray(product, "positions", label)
+  let techniques: MakitoPrintTechnique[] | undefined
   if (product.techniques !== undefined && product.techniques !== null) {
-    const techniques = arrayField(product, "techniques", label).map((technique, index) =>
+    techniques = arrayField(product, "techniques", label).map((technique, index) =>
       assertPrintTechnique(technique, `${label}.techniques[${index}]`)
     )
-    return { ...product, techniques }
   }
-  return product as MakitoPrintConfigProduct
+  return { ...product, areas, techniques } as MakitoPrintConfigProduct
+}
+
+function assertPrintArea(value: unknown, label: string): MakitoPrintArea {
+  const area = objectRecord(value, label)
+  if (area.id !== undefined && area.id !== null) {
+    assertIdentifier(area.id, `${label}.id`)
+  }
+  optionalString(area.position, `${label}.position`)
+  for (const field of ["width", "height"] as const) {
+    if (area[field] !== undefined && area[field] !== null) {
+      assertNumericValue(area[field], `${label}.${field}`)
+    }
+  }
+  if (
+    area.techniques !== undefined &&
+    area.techniques !== null &&
+    typeof area.techniques !== "string" &&
+    !Array.isArray(area.techniques)
+  ) {
+    throw new Error(`${label}.techniques is invalid`)
+  }
+  const techniques = Array.isArray(area.techniques)
+    ? area.techniques.map((technique, index) =>
+      assertPrintTechnique(technique, `${label}.techniques[${index}]`)
+    )
+    : area.techniques
+  return { ...area, techniques } as MakitoPrintArea
 }
 
 function assertPrintTechnique(value: unknown, label: string): MakitoPrintTechnique {

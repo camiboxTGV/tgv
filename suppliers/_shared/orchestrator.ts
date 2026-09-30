@@ -76,14 +76,21 @@ export async function runSync(opts: OrchestratorOptions): Promise<SyncReport> {
     )
   }
 
-  const manifest: ImageManifest = skipImages ? { entries: {} } : await loadManifest(repoRoot)
+  const usesImageManifest =
+    !skipImages ||
+    active.some((adapter) => adapter.imageMirror?.enabledWhenImagesSkipped === true)
+  const manifest: ImageManifest = usesImageManifest
+    ? await loadManifest(repoRoot)
+    : { entries: {} }
   const allProducts: CatalogProduct[] = []
   const allUnclassified: CatalogProduct[] = []
   const allVariants = new Map<string, ProductVariant[]>()
   const suppliersReport: Record<string, SupplierRunSummary> = {}
 
   const results = await Promise.all(
-    active.map((adapter) => runOneAdapter(adapter, repoRoot, manifest, !!skipImages)),
+    active.map((adapter) =>
+      runOneAdapter(adapter, repoRoot, manifest, !!skipImages, !!dryRun),
+    ),
   )
 
   for (const r of results) {
@@ -140,7 +147,9 @@ export async function runSync(opts: OrchestratorOptions): Promise<SyncReport> {
     const supplier = suppliersReport[supplierId]
     if (supplier) supplier.variantFilesWritten = count
   }
-  await saveManifest(repoRoot, manifest)
+  if (usesImageManifest) {
+    await saveManifest(repoRoot, manifest)
+  }
   await writeFileAtomic(
     join(repoRoot, LAST_SYNC_FILE),
     JSON.stringify(
@@ -164,6 +173,7 @@ async function runOneAdapter(
   repoRoot: string,
   manifest: ImageManifest,
   skipImages: boolean,
+  dryRun: boolean,
 ): Promise<{
   summary: SupplierRunSummary
   mapped: CatalogProduct[]
@@ -207,6 +217,9 @@ async function runOneAdapter(
 
   const unmappedCounts = new Map<string, number>()
   const unknownPersonalizationCounts = new Map<string, number>()
+  const mirrorImages =
+    !dryRun &&
+    (!skipImages || adapter.imageMirror?.enabledWhenImagesSkipped === true)
 
   for (const raw of raws) {
     if (!Number.isFinite(raw.supplierPriceEur) || raw.supplierPriceEur <= 0) {
@@ -224,14 +237,18 @@ async function runOneAdapter(
         )
       }
 
-      if (!skipImages && raw.images.length > 0) {
+      if (mirrorImages && raw.images.length > 0) {
+        const maximumImages = adapter.imageMirror?.maxProductImages
         const dl = await downloadProductImages({
           repoRoot,
           supplierId: raw.supplierId,
           supplierSku: raw.supplierSku,
-          sourceUrls: raw.images,
+          sourceUrls:
+            maximumImages === undefined
+              ? raw.images
+              : raw.images.slice(0, maximumImages),
           manifest,
-          skipDownload: skipImages,
+          fetchImage: adapter.imageMirror?.fetch,
         })
         result.product.images = dl.relPaths
         summary.images.downloaded += dl.downloaded
@@ -289,6 +306,15 @@ function assertAdapterContracts(adapters: SupplierAdapter[]): void {
     }
     if (definition.displayName !== adapter.displayName) {
       throw new Error(`Supplier adapter "${adapter.id}" does not match its definition.`)
+    }
+    const maximumImages = adapter.imageMirror?.maxProductImages
+    if (
+      maximumImages !== undefined &&
+      (!Number.isSafeInteger(maximumImages) || maximumImages <= 0)
+    ) {
+      throw new Error(
+        `Supplier adapter "${adapter.id}" has an invalid product image limit.`,
+      )
     }
   }
 }

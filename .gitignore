@@ -141,10 +141,11 @@ vite.config.ts.timestamp-*
 # Supplier raw-response caches (never committed)
 suppliers/**/cache/
 
-# Local product image downloads — products are served from supplier CDNs at
-# runtime via next.config.ts remotePatterns, so the local /public/catalog tree
-# is never used by the deployed site. Sync may write here when run without
-# --skip-images; never commit these binaries.
-public/catalog/
+# Local product image downloads stay ignored except for Makito's authenticated
+# assets. Makito cannot be fetched safely by browsers or independent runtime
+# instances, so its sync-owned static mirror is committed with the catalog.
+public/catalog/*
+!public/catalog/makito/
+!public/catalog/makito/**
 
 .gitnexus

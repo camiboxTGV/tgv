@@ -50,11 +50,26 @@ export interface RawProduct {
   capacity?: string
 }
 
+export type SupplierImageFetcher = (
+  sourceUrl: string,
+  signal: AbortSignal,
+) => Promise<Response>
+
+export interface SupplierImageMirrorOptions {
+  /** Mirror this supplier even when the sync was started with --skip-images. */
+  enabledWhenImagesSkipped?: boolean
+  /** Limit how many product-level source images are mirrored per product. */
+  maxProductImages?: number
+  /** Fetch protected image assets without exposing supplier credentials in URLs. */
+  fetch?: SupplierImageFetcher
+}
+
 export interface SupplierAdapter {
   id: string
   displayName: string
   fetchAll(): Promise<RawProduct[]>
   fetchInventory?(): Promise<SupplierInventorySnapshot>
+  imageMirror?: SupplierImageMirrorOptions
   mapCategory(raw: RawProduct): string | null
   mapPersonalizations(raw: RawProduct): Personalization[]
 }

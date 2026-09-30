@@ -8,6 +8,7 @@ import {
   isTrustedMakitoCatalogAssetUrl,
   makitoIdentifier,
   parseMakitoDecimal,
+  resolveMakitoProductPrice,
   resolveUnambiguousMakitoPrice,
   type MakitoBuildOptions,
   type MakitoPriceResolver,
@@ -21,11 +22,6 @@ import type {
 
 const FETCHED_AT = "2026-09-30T12:00:00.000Z"
 
-const VARIANT_PRICE_RESOLVER: MakitoPriceResolver = (entry) => {
-  const resolved = resolveUnambiguousMakitoPrice(entry)
-  return resolved ? { ...resolved, binding: "variant" } : null
-}
-
 function asset(path: string): string {
   return `https://apis.makito.es/catalog/assets/${path}`
 }
@@ -38,7 +34,7 @@ function price(
   return {
     material,
     currency: "EUR",
-    baseQuantity: "1",
+    baseQuantity: "1000",
     scales: [{ quantity: "1", amount }],
     ...overrides,
   }
@@ -67,30 +63,27 @@ function product(
     materialDescription: ["rPET"],
     variants: [
       {
-        material: 10001,
-        colorCode: "BL",
-        colorTitle: { en: "Blue", es: "Azul" },
+        variant_reference: "WEB-BL-S",
+        variant_colorcode: "BL",
+        variant_name: "Blue",
+        variant_size: "S",
         colorHex: "0057B8",
-        sizeCode: "S",
-        sizeTitle: { en: "S" },
-        image: asset("P-100/variant/10001-blue.jpg"),
+        variant_image: asset("P-100/10001000001/principal/10001-blue.jpg"),
+        variant_thumbnail: asset("P-100/10001000001/thumbnail/10001-blue.jpg"),
       },
       {
-        material: "10002",
-        color: { code: "RD", title: { en: "Red" }, hex: "#c8102e" },
-        size: { code: "M", title: { en: "M" } },
-        image: asset("P-100/variant/10002-red.jpg"),
+        variant_reference: "WEB-RD-M",
+        variant_colorcode: "RD",
+        variant_name: "Red",
+        variant_size: "M",
+        colorHex: "#c8102e",
+        variant_image: asset("P-100/10001000002/principal/10002-red.jpg"),
+        variant_thumbnail: asset("P-100/10001000002/thumbnail/10002-red.jpg"),
       },
     ],
     image: [
       { url: asset("P-100/product/main.jpg") },
       { url: "https://attacker.example/catalog/assets/stolen.jpg" },
-    ],
-    variant_image: [
-      {
-        material: "10002",
-        img_max: asset("P-100/variant/10002-detail.jpg"),
-      },
     ],
     ...overrides,
   }
@@ -100,10 +93,7 @@ function buildProducts(
   catalog: MakitoCatalogFeeds,
   options: MakitoBuildOptions = {},
 ) {
-  return buildMakitoProducts(catalog, {
-    priceResolver: VARIANT_PRICE_RESOLVER,
-    ...options,
-  })
+  return buildMakitoProducts(catalog, options)
 }
 
 function feeds(
@@ -113,11 +103,11 @@ function feeds(
     catalog: { products: [product()] },
     stock: {
       stocks: [
-        { material: 10001, quantity: "3", storageId: 1000 },
-        { material: "10001", quantity: 2, storageId: 2000 },
-        { material: "10002", quantity: "7", storageId: 1000 },
+        { material: 10001000001, quantity: "3", storageId: 1000 },
+        { material: "10001000001", quantity: 2, storageId: 2000 },
+        { material: "10001000002", quantity: "7", storageId: 1000 },
         {
-          material: "10002",
+          material: "10001000002",
           quantity: "40",
           storageId: 1000,
           availableDate: "2026-10-10T00:00:00Z",
@@ -126,31 +116,31 @@ function feeds(
     },
     priceList: {
       generatedAt: FETCHED_AT,
-      priceList: [price("10001", "2.50"), price("10002", "3.75")],
+      priceList: [price("P-100", "2500")],
     },
     printConfig: {
       generatedAt: FETCHED_AT,
       lang: "en",
       products: [
         {
-          productReference: "P-100",
+          id: "P-100",
           areas: [
             {
-              techniqueId: "NOT-LINKED",
+              id: "A1",
+              position: "Front",
               width: "100",
               height: "50",
+              techniques: "Screen printing",
+            },
+            {
+              id: "A2",
+              position: "Back",
+              width: "80",
+              height: "40",
+              techniques: "Supplier special finish",
             },
           ],
           positions: [],
-          techniques: [
-            {
-              id: "SC1",
-              description: "Screen printing",
-              maximumColors: "4",
-              printSizes: ["100 x 50 mm"],
-            },
-            { id: "CUSTOM", description: "Supplier special finish" },
-          ],
         },
       ],
     },
@@ -165,9 +155,9 @@ test("Makito builds stable product and material bindings without Cartesian print
   const raw = products[0]!
   assert.equal(raw.supplierId, "makito")
   assert.equal(raw.supplierSku, "P-100")
-  assert.deepEqual(raw.supplierVariantIds, ["10001", "10002"])
+  assert.deepEqual(raw.supplierVariantIds, ["10001000001", "10001000002"])
   assert.equal(raw.supplierPriceEur, 2.5)
-  assert.equal(raw.supplierPriceEurMax, 3.75)
+  assert.equal(raw.supplierPriceEurMax, 2.5)
   assert.equal(raw.originalCurrency, "EUR")
   assert.equal(raw.description, "A durable recycled & reusable tote.")
   assert.equal(raw.stock, 12)
@@ -189,38 +179,41 @@ test("Makito builds stable product and material bindings without Cartesian print
     })),
     [
       {
-        id: "10001",
+        id: "10001000001",
         price: 2.5,
         stock: 5,
         color: "Blue",
         hex: "#0057B8",
         size: "S",
-        images: [asset("P-100/variant/10001-blue.jpg")],
+        images: undefined,
       },
       {
-        id: "10002",
-        price: 3.75,
+        id: "10001000002",
+        price: 2.5,
         stock: 7,
         color: "Red",
         hex: "#C8102E",
         size: "M",
-        images: [
-          asset("P-100/variant/10002-red.jpg"),
-          asset("P-100/variant/10002-detail.jpg"),
-        ],
+        images: undefined,
       },
     ],
   )
-  assert.deepEqual(raw.rawPersonalizationCodes, ["CUSTOM", "SC1"])
+  assert.deepEqual(raw.rawPersonalizationCodes, [
+    "Screen printing",
+    "Supplier special finish",
+  ])
   assert.equal(
-    raw.supplierPersonalizations?.find((method) => method.code === "SC1")?.printSizes?.includes(
-      "100 x 50 mm",
+    raw.supplierPersonalizations?.find((method) => method.code === "Screen printing")
+      ?.printSizes?.includes(
+      "100 × 50 mm · Front",
     ),
     true,
   )
   assert.equal(
-    raw.supplierPersonalizations?.some((method) => method.code === "NOT-LINKED"),
-    false,
+    raw.supplierPersonalizations?.find((method) =>
+      method.code === "Supplier special finish"
+    )?.printSizes?.includes("80 × 40 mm · Back"),
+    true,
   )
   assert.equal(
     raw.specifications?.find((specification) => specification.key === "dimensions")?.value,
@@ -234,108 +227,127 @@ test("Makito builds stable product and material bindings without Cartesian print
   const normalized = normalize(raw, adapter)
   assert.equal(normalized.product?.category, "bags/shopping-bags/rpet-and-recycled-bags")
   assert.deepEqual(normalized.product?.personalizations, ["pad-screen"])
-  assert.deepEqual(normalized.unknownPersonalizationCodes, ["CUSTOM"])
+  assert.deepEqual(normalized.unknownPersonalizationCodes, ["Supplier special finish"])
 })
 
 test("Makito inventory sums current storage records and ignores future availability", () => {
   const full = feeds()
   const inventory: MakitoInventoryFeeds = {
+    catalog: full.catalog,
     stock: full.stock,
     priceList: full.priceList,
     fetchedAt: full.fetchedAt,
   }
-  const snapshot = buildMakitoInventorySnapshot(inventory, {
-    priceResolver: VARIANT_PRICE_RESOLVER,
+  const snapshot = buildMakitoInventorySnapshot(inventory)
+  assert.deepEqual([...snapshot.prices], [
+    ["10001000001", 2.5],
+    ["10001000002", 2.5],
+  ])
+  assert.deepEqual([...snapshot.stock], [
+    ["10001000001", 5],
+    ["10001000002", 7],
+  ])
+})
+
+test("Makito production prices are product-bound EUR amount/baseQuantity values", () => {
+  const entry = price("P-100", "2500", { baseQuantity: "1000" })
+  assert.deepEqual(resolveUnambiguousMakitoPrice(entry), {
+    unitPriceEur: 2.5,
+    minimumQuantity: 1,
   })
-  assert.deepEqual([...snapshot.prices], [["10001", 2.5], ["10002", 3.75]])
-  assert.deepEqual([...snapshot.stock], [["10001", 5], ["10002", 7]])
-})
-
-test("Makito refuses to guess amount/baseQuantity price semantics", () => {
-  const ambiguous = price("10001", "1000.00", {
-    baseQuantity: "5000",
-    scales: [{ quantity: "1", amount: "1000.00" }],
+  assert.deepEqual(resolveMakitoProductPrice(entry), {
+    unitPriceEur: 2.5,
+    minimumQuantity: 1,
+    binding: "product",
   })
-  assert.equal(resolveUnambiguousMakitoPrice(ambiguous), null)
-  assert.throws(
-    () => buildProducts(feeds({
-      priceList: {
-        priceList: [ambiguous, price("10002", "3.75")],
-      },
-    })),
-    /no verified EUR unit price/,
-  )
+  assert.equal(resolveUnambiguousMakitoPrice(price("P-100", "2500", {
+    baseQuantity: "0",
+  })), null)
+  assert.equal(resolveUnambiguousMakitoPrice(price("P-100", "2500", {
+    scales: [{ quantity: "2", amount: "2500" }],
+  })), null)
+  assert.equal(resolveUnambiguousMakitoPrice(price("P-100", "2500", {
+    scales: [
+      { quantity: "1", amount: "2500" },
+      { quantity: "10", amount: "2400" },
+    ],
+  })), null)
 })
 
-test("Makito requires a verified price unit and binding contract", () => {
-  assert.throws(
-    () => buildMakitoProducts(feeds()),
-    /price semantics are not verified/,
-  )
-})
-
-test("Makito accepts an explicitly supplied verified price resolver", () => {
+test("Makito skips products with no product price and ignores unrelated prices", () => {
+  const second = product({
+    ref: "P-200",
+    name: "Unpriced bag",
+    variants: [{
+      variant_reference: "WEB-200",
+      variant_image: asset("P-200/20001000001/principal/20001.jpg"),
+      variant_thumbnail: asset("P-200/20001000001/thumbnail/20001.jpg"),
+    }],
+    image: asset("P-200/product/main.jpg"),
+  })
   const catalog = feeds({
+    catalog: { products: [product(), second] },
     priceList: {
-      priceList: [
-        price("10001", "1000", { baseQuantity: "500" }),
-        price("10002", "1500", { baseQuantity: "500" }),
-      ],
+      priceList: [price("P-100", "2500"), price("UNRELATED", "9999")],
     },
   })
-  const products = buildMakitoProducts(catalog, {
-    priceResolver(entry) {
-      const amount = parseMakitoDecimal(entry.scales[0]?.amount)
-      const base = parseMakitoDecimal(entry.baseQuantity)
-      return {
-        unitPriceEur: amount / base,
-        minimumQuantity: 1,
-        binding: "variant",
-      }
-    },
-  })
-  assert.equal(products[0]?.supplierPriceEur, 2)
-  assert.equal(products[0]?.supplierPriceEurMax, 3)
-})
-
-test("Makito supports explicitly verified product-bound prices", () => {
-  const catalog = feeds({
-    priceList: {
-      priceList: [price("P-100", "2.90")],
-    },
-  })
-  const productPriceResolver: MakitoPriceResolver = (entry) => {
-    const resolved = resolveUnambiguousMakitoPrice(entry)
-    return resolved ? { ...resolved, binding: "product" } : null
-  }
-  const products = buildMakitoProducts(catalog, {
-    priceResolver: productPriceResolver,
-  })
-  assert.deepEqual(
-    products[0]?.variants?.map((variant) => variant.priceEur),
-    [2.9, 2.9],
-  )
+  assert.deepEqual(buildMakitoProducts(catalog).map((item) => item.supplierSku), ["P-100"])
 
   const inventory = buildMakitoInventorySnapshot({
+    catalog: catalog.catalog,
     stock: catalog.stock,
     priceList: catalog.priceList,
     fetchedAt: catalog.fetchedAt,
-  }, {
-    priceResolver: productPriceResolver,
-    productVariantIds: new Map([["P-100", ["10001", "10002"]]]),
   })
-  assert.deepEqual([...inventory.prices], [["10001", 2.9], ["10002", 2.9]])
+  assert.deepEqual([...inventory.prices], [
+    ["10001000001", 2.5],
+    ["10001000002", 2.5],
+  ])
+})
+
+test("Makito rejects partial and mixed custom price bindings", () => {
+  const variantResolver: MakitoPriceResolver = (entry) => ({
+    unitPriceEur: parseMakitoDecimal(entry.scales[0]?.amount),
+    minimumQuantity: 1,
+    binding: "variant",
+  })
+  const partial = feeds({
+    priceList: { priceList: [price("10001000001", "2.5", { baseQuantity: "1" })] },
+  })
   assert.throws(
-    () => buildMakitoInventorySnapshot({
-      stock: catalog.stock,
-      priceList: catalog.priceList,
-      fetchedAt: catalog.fetchedAt,
-    }, { priceResolver: productPriceResolver }),
-    /cannot be expanded without verified product\/variant bindings/,
+    () => buildMakitoProducts(partial, { priceResolver: variantResolver }),
+    /partial price binding/,
+  )
+
+  let call = 0
+  assert.throws(
+    () => buildMakitoProducts(feeds({
+      priceList: {
+        priceList: [price("P-100", "2500"), price("10001000001", "2.5")],
+      },
+    }), {
+      priceResolver(entry) {
+        call++
+        const resolved = resolveUnambiguousMakitoPrice(entry)
+        return resolved
+          ? { ...resolved, binding: call === 1 ? "product" : "variant" }
+          : null
+      },
+    }),
+    /mixes product and variant binding scopes/,
+  )
+
+  assert.throws(
+    () => buildMakitoProducts(feeds({
+      priceList: {
+        priceList: [price("P-100", "2500"), price("10001000001", "2500")],
+      },
+    })),
+    /mixed or variant material keys/,
   )
 })
 
-test("Makito never treats product composition or a generic object id as a variant", () => {
+test("Makito never treats composition, generic ids, or variant_reference as stock material", () => {
   assert.throws(
     () => buildProducts(feeds({
       catalog: {
@@ -347,10 +359,12 @@ test("Makito never treats product composition or a generic object id as a varian
   assert.throws(
     () => buildProducts(feeds({
       catalog: {
-        products: [product({ variants: [{ id: "10001" }] })],
+        products: [product({
+          variants: [{ id: "10001", variant_reference: "WEB-10001" }],
+        })],
       },
     })),
-    /product P-100 material is invalid/,
+    /no safely publishable products/,
   )
 })
 
@@ -360,14 +374,12 @@ test("Makito ignores unknown color and size object fields", () => {
       products: [product({
         variants: [
           {
-            material: "10001",
             color: { unknown: "Blue" },
             size: { unknown: "S" },
-            image: asset("P-100/variant/10001-blue.jpg"),
+            variant_image: asset("P-100/10001000001/principal/10001-blue.jpg"),
           },
           {
-            material: "10002",
-            image: asset("P-100/variant/10002-red.jpg"),
+            variant_image: asset("P-100/10001000002/principal/10002-red.jpg"),
           },
         ],
       })],
@@ -382,9 +394,8 @@ test("Makito detects duplicate conflicts before publishing", () => {
   const duplicatePrice = feeds({
     priceList: {
       priceList: [
-        price("10001", "2.50"),
-        price("10001", "2.60"),
-        price("10002", "3.75"),
+        price("P-100", "2500"),
+        price("P-100", "2600"),
       ],
     },
   })
@@ -392,7 +403,7 @@ test("Makito detects duplicate conflicts before publishing", () => {
 
   const conflictingStock = feeds()
   conflictingStock.stock.stocks.push({
-    material: 10001,
+    material: 10001000001,
     quantity: "99",
     storageId: 1000,
   })
@@ -405,12 +416,35 @@ test("Makito detects duplicate conflicts before publishing", () => {
         product({
           ref: "P-200",
           name: "Another bag",
-          variants: [{ material: "10001", image: asset("P-200/main.jpg") }],
+          variants: [{
+            variant_reference: "WEB-OTHER",
+            variant_image: asset("P-200/10001000001/principal/duplicate.jpg"),
+          }],
         }),
       ],
     },
   })
   assert.throws(() => buildProducts(duplicateMaterial), /assigned to products/)
+})
+
+test("Makito validates variant asset ownership and mirrors one protected product image", () => {
+  assert.throws(
+    () => buildProducts(feeds({
+      catalog: {
+        products: [product({
+          variants: [{
+            variant_image: asset("P-OTHER/10001000001/principal/wrong.jpg"),
+          }],
+        })],
+      },
+    })),
+    /belongs to another product/,
+  )
+  assert.equal(adapter.imageMirror?.enabledWhenImagesSkipped, true)
+  assert.equal(adapter.imageMirror?.maxProductImages, 1)
+  assert.equal(typeof adapter.imageMirror?.fetch, "function")
+  assert.equal(buildProducts(feeds())[0]?.images.length, 1)
+  assert.equal(buildProducts(feeds())[0]?.variants?.every((variant) => !variant.images), true)
 })
 
 test("Makito catalog assets are restricted to the exact protected HTTPS namespace", () => {

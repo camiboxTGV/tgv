@@ -130,7 +130,20 @@ function readFailureResponse(): {
 function validPayload(url: URL): unknown {
   if (url.pathname === "/catalog/files") {
     return {
-      products: [{ ref: 12345, name: "Recycled notebook", variants: { undocumented: true } }],
+      products: [{
+        ref: 12345,
+        name: "Recycled notebook",
+        variants: [{
+          variant_reference: "WEB-12345",
+          variant_colorcode: "01",
+          variant_name: "Blue",
+          variant_size: "M",
+          variant_image:
+            `${MAKITO_API_ORIGIN}/catalog/assets/12345/12345000001/principal/main.jpg`,
+          variant_thumbnail:
+            `${MAKITO_API_ORIGIN}/catalog/assets/12345/12345000001/thumbnail/thumb.jpg`,
+        }],
+      }],
     }
   }
   if (url.pathname === "/stock/files") {
@@ -152,10 +165,15 @@ function validPayload(url: URL): unknown {
       generatedAt: "2026-09-30T11:55:00Z",
       lang: "en",
       products: [{
-        undocumentedProductKey: 12345,
-        areas: [],
+        id: 12345,
+        areas: [{
+          id: "A1",
+          position: "Front",
+          width: "40",
+          height: "20",
+          techniques: "Pad printing",
+        }],
         positions: [],
-        techniques: [{ id: "100111", description: "Pad printing" }],
       }],
     }
   }
@@ -196,10 +214,12 @@ test("Makito full and inventory loaders authenticate once and request exact snap
   assert.equal(full.stock.stocks[0]?.material, "12345001")
   assert.equal(full.priceList.priceList[0]?.currency, "EUR")
   assert.equal(full.printConfig.products.length, 1)
+  assert.equal(full.printConfig.products[0]?.areas?.[0]?.techniques, "Pad printing")
   assert.equal(printPrices.printPriceList.length, 1)
   assert.equal(full.fetchedAt, "2026-09-30T12:00:00.000Z")
   assert.equal(inventory.stock.stocks.length, 1)
   assert.equal(inventory.priceList.priceList.length, 1)
+  assert.equal(inventory.catalog.products.length, 1)
 
   const logins = requests.filter(({ url }) => url.pathname === "/access/auth/login")
   assert.equal(logins.length, 1)
@@ -213,7 +233,7 @@ test("Makito full and inventory loaders authenticate once and request exact snap
   const protectedRequests = requests.filter(
     ({ url }) => url.pathname !== "/access/auth/login",
   )
-  assert.equal(protectedRequests.length, 7)
+  assert.equal(protectedRequests.length, 8)
   for (const request of protectedRequests) {
     assert.equal(request.headers.get("authorization"), "Bearer shared-test-token")
     assert.equal(request.init.body, undefined)
