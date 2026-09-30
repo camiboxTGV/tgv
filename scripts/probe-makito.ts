@@ -43,7 +43,9 @@ async function main(): Promise<void> {
   const variantRecords = variants.map(record).filter(isRecord)
   const variantIds = new Set(
     variantRecords
-      .map((variant) => identifier(variant.material ?? variant.matnr))
+      .map((variant) =>
+        identifier(variant.variant_reference ?? variant.material ?? variant.matnr)
+      )
       .filter(isString),
   )
   const priceMaterials = prices.priceList
@@ -52,6 +54,22 @@ async function main(): Promise<void> {
   const stockMaterials = stock.stocks
     .map((entry) => identifier(entry.material))
     .filter(isString)
+  const categoryRecords = catalog.products
+    .flatMap((product) => Array.isArray(product.categories) ? product.categories : [])
+    .map(record)
+    .filter(isRecord)
+  const printConfigIds = printConfig.products
+    .map((product) => identifier(product.id))
+    .filter(isString)
+  const printAreas = printConfig.products
+    .flatMap((product) => Array.isArray(product.areas) ? product.areas : [])
+  const printAreaRecords = printAreas.map(record).filter(isRecord)
+  const printTechniques = printAreaRecords.flatMap((area) =>
+    Array.isArray(area.techniques) ? area.techniques : [],
+  )
+  const scaleQuantities = prices.priceList.flatMap((entry) =>
+    entry.scales.map((scale) => String(scale.quantity)),
+  )
 
   const summary = {
     catalog: {
@@ -62,6 +80,7 @@ async function main(): Promise<void> {
       ).length,
       variantRecords: variantRecords.length,
       sampledVariantKeys: keysOf(variantRecords),
+      sampledCategoryKeys: keysOf(categoryRecords),
       uniqueProductRefs: productRefs.size,
       uniqueVariantIds: variantIds.size,
     },
@@ -79,6 +98,7 @@ async function main(): Promise<void> {
       baseQuantities: distinctLimited(
         prices.priceList.map((entry) => String(entry.baseQuantity ?? "")),
       ),
+      scaleQuantities: distinctLimited(scaleQuantities),
       sampledScaleKeys: keysOf(prices.priceList.flatMap((entry) => entry.scales)),
       uniqueMaterials: new Set(priceMaterials).size,
       materialMatchesVariant: priceMaterials.filter((value) => variantIds.has(value)).length,
@@ -87,6 +107,12 @@ async function main(): Promise<void> {
     printConfig: {
       products: printConfig.products.length,
       sampledKeys: keysOf(printConfig.products),
+      uniqueIds: new Set(printConfigIds).size,
+      idMatchesVariant: printConfigIds.filter((value) => variantIds.has(value)).length,
+      idMatchesProduct: printConfigIds.filter((value) => productRefs.has(value)).length,
+      areas: printAreas.length,
+      sampledAreaKeys: keysOf(printAreaRecords),
+      sampledTechniqueKeys: keysOf(printTechniques),
     },
   }
 
