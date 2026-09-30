@@ -185,7 +185,7 @@
   {
     "contentKey": "77e582a7fefa3c59",
     "supplierVariantId": "BO090408",
-    "stock": 1350,
+    "stock": 750,
     "stockLevel": "in-stock",
     "price": 8.42,
     "color": {
@@ -234,8 +234,8 @@
   {
     "contentKey": "80118aaf94432f6d",
     "supplierVariantId": "BO090413",
-    "stock": 400,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "price": 8.42,
     "color": {
       "name": "Navy",
@@ -319,7 +319,7 @@
   {
     "contentKey": "94158095e7194b8d",
     "supplierVariantId": "BO090410",
-    "stock": 275,
+    "stock": 175,
     "stockLevel": "in-stock",
     "price": 8.42,
     "color": {

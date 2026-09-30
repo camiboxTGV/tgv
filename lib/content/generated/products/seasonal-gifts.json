@@ -2394,7 +2394,7 @@
     ],
     "price": 1.65,
     "priceFrom": false,
-    "stock": 3983,
+    "stock": 3733,
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/10638-500x500.jpg",
@@ -2404,7 +2404,7 @@
       "https://www.publicatalogue.com/image/cache/data/details/10638-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10638-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:12:54.057Z",
+    "fetchedAt": "2026-09-30T09:39:09.518Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,
@@ -3343,7 +3343,7 @@
     ],
     "price": 8.58,
     "priceFrom": false,
-    "stock": 994,
+    "stock": 993,
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/10988-500x500.jpg",
@@ -3360,7 +3360,7 @@
       "https://www.publicatalogue.com/image/cache/data/details/10988-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10988-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:12:54.057Z",
+    "fetchedAt": "2026-09-30T09:39:09.518Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,
@@ -3649,7 +3649,7 @@
     ],
     "price": 0.4,
     "priceFrom": false,
-    "stock": 6836,
+    "stock": 6781,
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/11079-BL-500x500.jpg",
@@ -3657,7 +3657,7 @@
       "https://www.publicatalogue.com/image/cache/data/11079-NE-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/11079-NE-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:12:54.057Z",
+    "fetchedAt": "2026-09-30T09:39:09.518Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -4495,15 +4495,15 @@
     ],
     "price": 0.83,
     "priceFrom": false,
-    "stock": 397,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/B-250-CE-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/B-250-CE-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/B-250-RS-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/B-250-RS-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:12:54.057Z",
+    "fetchedAt": "2026-09-30T09:39:09.518Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -4595,12 +4595,12 @@
     ],
     "price": 0.83,
     "priceFrom": false,
-    "stock": 187,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/B-251-RS-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:12:54.057Z",
+    "fetchedAt": "2026-09-30T09:39:09.518Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -4689,13 +4689,13 @@
     ],
     "price": 0.83,
     "priceFrom": false,
-    "stock": 2684,
+    "stock": 1184,
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/B-252-CE-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/B-252-RS-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:12:54.057Z",
+    "fetchedAt": "2026-09-30T09:39:09.518Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -5139,15 +5139,15 @@
     ],
     "price": 0.38,
     "priceFrom": false,
-    "stock": 929,
-    "stockLevel": "in-stock",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/B-283-AZ-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/B-283-AZ-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/B-283-RS-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/B-283-RS-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:12:54.057Z",
+    "fetchedAt": "2026-09-30T09:39:09.518Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -8938,7 +8938,7 @@
     ],
     "price": 1.65,
     "priceFrom": false,
-    "stock": 37095,
+    "stock": 37092,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/cx1435-16.jpg",
@@ -8946,7 +8946,7 @@
       "https://cdn1.midocean.com/image/700X700/cx1435-16-side.jpg",
       "https://cdn1.midocean.com/image/700X700/cx1435-16-print.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:12:53.241Z",
+    "fetchedAt": "2026-09-30T09:39:05.176Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -9138,7 +9138,7 @@
     ],
     "price": 2.79,
     "priceFrom": false,
-    "stock": 44233,
+    "stock": 44230,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/cx1469-05.jpg",
@@ -9150,7 +9150,7 @@
       "https://cdn1.midocean.com/image/700X700/cx1469-05-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/cx1469-05-picture1.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:12:53.241Z",
+    "fetchedAt": "2026-09-30T09:39:05.176Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -9351,7 +9351,7 @@
     ],
     "price": 1.08,
     "priceFrom": false,
-    "stock": 217,
+    "stock": 212,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/cx1479-05.jpg",
@@ -9362,7 +9362,7 @@
       "https://cdn1.midocean.com/image/700X700/cx1479-05-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/cx1479-05-box.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:12:53.241Z",
+    "fetchedAt": "2026-09-30T09:39:05.176Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -9555,7 +9555,7 @@
     ],
     "price": 1.47,
     "priceFrom": false,
-    "stock": 8670,
+    "stock": 8560,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/cx1497-98.jpg",
@@ -9566,7 +9566,7 @@
       "https://cdn1.midocean.com/image/700X700/cx1497-98-ambiant.jpg",
       "https://cdn1.midocean.com/image/700X700/cx1497-98-detail.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:12:53.241Z",
+    "fetchedAt": "2026-09-30T09:39:05.176Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -9763,7 +9763,7 @@
     ],
     "price": 2.33,
     "priceFrom": false,
-    "stock": 14939,
+    "stock": 14937,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/cx1507-00.jpg",
@@ -9772,7 +9772,7 @@
       "https://cdn1.midocean.com/image/700X700/cx1507-00-print.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6974-40-box.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:12:53.241Z",
+    "fetchedAt": "2026-09-30T09:39:05.176Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -9884,7 +9884,7 @@
     ],
     "price": 0.32,
     "priceFrom": false,
-    "stock": 34966,
+    "stock": 34965,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/cx1519-13.jpg",
@@ -9892,7 +9892,7 @@
       "https://cdn1.midocean.com/image/700X700/cx1519-13-top.jpg",
       "https://cdn1.midocean.com/image/700X700/cx1519-13-print.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:12:53.241Z",
+    "fetchedAt": "2026-09-30T09:39:05.176Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -10247,7 +10247,7 @@
     ],
     "price": 5.14,
     "priceFrom": false,
-    "stock": 2825,
+    "stock": 2805,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/cx1524-22.jpg",
@@ -10258,7 +10258,7 @@
       "https://cdn1.midocean.com/image/700X700/cx1524-22-print.jpg",
       "https://cdn1.midocean.com/image/700X700/cx1524-22-detail.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:12:53.241Z",
+    "fetchedAt": "2026-09-30T09:39:05.176Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -10345,7 +10345,7 @@
     ],
     "price": 2.63,
     "priceFrom": false,
-    "stock": 4916,
+    "stock": 4915,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/cx1533-16.jpg",
@@ -10355,7 +10355,7 @@
       "https://cdn1.midocean.com/image/700X700/cx1533-16-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/cx1533-16-box.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:12:53.241Z",
+    "fetchedAt": "2026-09-30T09:39:05.176Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -10442,7 +10442,7 @@
     ],
     "price": 3.68,
     "priceFrom": false,
-    "stock": 1278,
+    "stock": 1275,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/cx1537-40.jpg",
@@ -10451,7 +10451,7 @@
       "https://cdn1.midocean.com/image/700X700/cx1537-40-print.jpg",
       "https://cdn1.midocean.com/image/700X700/cx1537-40-detail.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:12:53.241Z",
+    "fetchedAt": "2026-09-30T09:39:05.176Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -10564,7 +10564,7 @@
     ],
     "price": 3.19,
     "priceFrom": false,
-    "stock": 11888,
+    "stock": 11887,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/cx1543-85.jpg",
@@ -10575,7 +10575,7 @@
       "https://cdn1.midocean.com/image/700X700/cx1543-85-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/cx1543-85-picture5.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:12:53.241Z",
+    "fetchedAt": "2026-09-30T09:39:05.176Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -10865,7 +10865,7 @@
     ],
     "price": 0.74,
     "priceFrom": false,
-    "stock": 23063,
+    "stock": 23038,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/cx1562-06.jpg",
@@ -10875,7 +10875,7 @@
       "https://cdn1.midocean.com/image/700X700/cx1562-06-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/cx1562-06-picture2.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:12:53.241Z",
+    "fetchedAt": "2026-09-30T09:39:05.176Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -10954,7 +10954,7 @@
     ],
     "price": 0.84,
     "priceFrom": false,
-    "stock": 14700,
+    "stock": 14680,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/cx1563-06.jpg",
@@ -10964,7 +10964,7 @@
       "https://cdn1.midocean.com/image/700X700/cx1563-06-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/cx1563-06-picture7.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:12:53.241Z",
+    "fetchedAt": "2026-09-30T09:39:05.176Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -11076,7 +11076,7 @@
     ],
     "price": 0.22,
     "priceFrom": false,
-    "stock": 34338,
+    "stock": 34312,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/cx1564-05.jpg",
@@ -11087,7 +11087,7 @@
       "https://cdn1.midocean.com/image/700X700/cx1564-05-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/cx1564-05-picture3.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:12:53.241Z",
+    "fetchedAt": "2026-09-30T09:39:05.176Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -11545,7 +11545,7 @@
     ],
     "price": 3.06,
     "priceFrom": false,
-    "stock": 9288,
+    "stock": 9228,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/cx1568-05.jpg",
@@ -11556,7 +11556,7 @@
       "https://cdn1.midocean.com/image/700X700/cx1568-05-picture2.jpg",
       "https://cdn1.midocean.com/image/700X700/cx1568-05-picture7.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:12:53.241Z",
+    "fetchedAt": "2026-09-30T09:39:05.176Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -11962,7 +11962,7 @@
     ],
     "price": 0.35,
     "priceFrom": false,
-    "stock": 72069,
+    "stock": 72033,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/cx1584-05.jpg",
@@ -11973,7 +11973,7 @@
       "https://cdn1.midocean.com/image/700X700/cx1584-05-print.jpg",
       "https://cdn1.midocean.com/image/700X700/cx1584-05-picture1.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:12:53.241Z",
+    "fetchedAt": "2026-09-30T09:39:05.176Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -12056,7 +12056,7 @@
     ],
     "price": 0.69,
     "priceFrom": false,
-    "stock": 35752,
+    "stock": 35745,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/cx1587-99.jpg",
@@ -12065,7 +12065,7 @@
       "https://cdn1.midocean.com/image/700X700/cx1587-99-picture1.jpg",
       "https://cdn1.midocean.com/image/700X700/cx1587-99-picture2.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:12:53.241Z",
+    "fetchedAt": "2026-09-30T09:39:05.176Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -12144,7 +12144,7 @@
     ],
     "price": 3.87,
     "priceFrom": false,
-    "stock": 4363,
+    "stock": 4320,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/cx1593-40.jpg",
@@ -12155,7 +12155,7 @@
       "https://cdn1.midocean.com/image/700X700/cx1593-40-picture1.jpg",
       "https://cdn1.midocean.com/image/700X700/cx1593-40-picture2.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:12:53.241Z",
+    "fetchedAt": "2026-09-30T09:39:05.176Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -12253,7 +12253,7 @@
     ],
     "price": 1.62,
     "priceFrom": false,
-    "stock": 11760,
+    "stock": 11750,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/cx1594-13.jpg",
@@ -12262,7 +12262,7 @@
       "https://cdn1.midocean.com/image/700X700/cx1594-13-picture1.jpg",
       "https://cdn1.midocean.com/image/700X700/cx1594-13-picture2.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:12:53.241Z",
+    "fetchedAt": "2026-09-30T09:39:05.176Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -12354,7 +12354,7 @@
     ],
     "price": 3.29,
     "priceFrom": false,
-    "stock": 10586,
+    "stock": 10585,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/cx1595-05.jpg",
@@ -12365,7 +12365,7 @@
       "https://cdn1.midocean.com/image/700X700/cx1595-05-picture1.jpg",
       "https://cdn1.midocean.com/image/700X700/cx1595-05-picture2.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:12:53.241Z",
+    "fetchedAt": "2026-09-30T09:39:05.176Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -12469,7 +12469,7 @@
     ],
     "price": 3.55,
     "priceFrom": false,
-    "stock": 9219,
+    "stock": 9212,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/cx1596-05.jpg",
@@ -12481,7 +12481,7 @@
       "https://cdn1.midocean.com/image/700X700/cx1596-05-picture1.jpg",
       "https://cdn1.midocean.com/image/700X700/cx1596-05-picture2.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:12:53.241Z",
+    "fetchedAt": "2026-09-30T09:39:05.176Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -12564,7 +12564,7 @@
     ],
     "price": 0.57,
     "priceFrom": false,
-    "stock": 18906,
+    "stock": 18900,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/kc6636-06.jpg",
@@ -12574,7 +12574,7 @@
       "https://cdn1.midocean.com/image/700X700/kc6636-06-picture2.jpg",
       "https://cdn1.midocean.com/image/700X700/kc6636-06-picture3.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:12:53.241Z",
+    "fetchedAt": "2026-09-30T09:39:05.176Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -12795,7 +12795,7 @@
     ],
     "price": 1.77,
     "priceFrom": false,
-    "stock": 5712,
+    "stock": 5495,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/kc6640-99.jpg",
@@ -12803,7 +12803,7 @@
       "https://cdn1.midocean.com/image/700X700/kc6640-99-print.jpg",
       "https://cdn1.midocean.com/image/700X700/kc6640-99-ambiant.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:12:53.241Z",
+    "fetchedAt": "2026-09-30T09:39:05.176Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -12901,7 +12901,7 @@
     ],
     "price": 1.07,
     "priceFrom": false,
-    "stock": 44678,
+    "stock": 44086,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/kc6642-06.jpg",
@@ -12911,7 +12911,7 @@
       "https://cdn1.midocean.com/image/700X700/kc6642-05.jpg",
       "https://cdn1.midocean.com/image/700X700/kc6642-06-back.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:12:53.241Z",
+    "fetchedAt": "2026-09-30T09:39:05.176Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -13041,7 +13041,7 @@
     ],
     "price": 1.67,
     "priceFrom": false,
-    "stock": 3632,
+    "stock": 3528,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/kc7103-99.jpg",
@@ -13050,7 +13050,7 @@
       "https://cdn1.midocean.com/image/700X700/kc7103-99-print.jpg",
       "https://cdn1.midocean.com/image/700X700/kc7103-99-ambiant.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:12:53.241Z",
+    "fetchedAt": "2026-09-30T09:39:05.176Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -13267,7 +13267,7 @@
     ],
     "price": 0.86,
     "priceFrom": false,
-    "stock": 45491,
+    "stock": 44512,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo7232-04.jpg",
@@ -13276,7 +13276,7 @@
       "https://cdn1.midocean.com/image/700X700/mo7232-16.jpg",
       "https://cdn1.midocean.com/image/700X700/mo7232-03.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:12:53.241Z",
+    "fetchedAt": "2026-09-30T09:39:05.176Z",
     "variantCount": 5,
     "colorCount": 5,
     "sizeCount": 0,
@@ -13383,7 +13383,7 @@
     ],
     "price": 1.44,
     "priceFrom": false,
-    "stock": 18076,
+    "stock": 18068,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo7234-05.jpg",
@@ -13392,7 +13392,7 @@
       "https://cdn1.midocean.com/image/700X700/mo7234-05-print.jpg",
       "https://cdn1.midocean.com/image/700X700/mo7234-05-ambiant.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:12:53.241Z",
+    "fetchedAt": "2026-09-30T09:39:05.176Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
