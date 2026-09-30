@@ -25,6 +25,25 @@ function distinctLimited(values: Iterable<string>, limit = 25): string[] {
   return [...new Set(values)].sort().slice(0, limit)
 }
 
+function lengthHistogram(values: Iterable<string>): Record<string, number> {
+  const counts: Record<string, number> = {}
+  for (const value of values) {
+    const key = String(value.length)
+    counts[key] = (counts[key] ?? 0) + 1
+  }
+  return Object.fromEntries(
+    Object.entries(counts).sort(([left], [right]) => Number(left) - Number(right)),
+  )
+}
+
+function stripLeadingZeroes(value: string): string {
+  return value.replace(/^0+(?=.)/, "")
+}
+
+function alphanumeric(value: string): string {
+  return value.normalize("NFKC").replace(/[^a-z0-9]/gi, "").toUpperCase()
+}
+
 async function main(): Promise<void> {
   const client = createMakitoClientFromEnv()
   const [catalog, stock, prices, printConfig] = await Promise.all([
@@ -54,6 +73,10 @@ async function main(): Promise<void> {
   const stockMaterials = stock.stocks
     .map((entry) => identifier(entry.material))
     .filter(isString)
+  const variantIdsWithoutLeadingZeroes = new Set(
+    [...variantIds].map(stripLeadingZeroes),
+  )
+  const variantIdsAlphanumeric = new Set([...variantIds].map(alphanumeric))
   const categoryRecords = catalog.products
     .flatMap((product) => Array.isArray(product.categories) ? product.categories : [])
     .map(record)
@@ -83,12 +106,20 @@ async function main(): Promise<void> {
       sampledCategoryKeys: keysOf(categoryRecords),
       uniqueProductRefs: productRefs.size,
       uniqueVariantIds: variantIds.size,
+      variantIdLengths: lengthHistogram(variantIds),
     },
     stock: {
       records: stock.stocks.length,
       sampledKeys: keysOf(stock.stocks),
       uniqueMaterials: new Set(stockMaterials).size,
+      materialLengths: lengthHistogram(stockMaterials),
       materialMatchesVariant: stockMaterials.filter((value) => variantIds.has(value)).length,
+      materialMatchesVariantWithoutLeadingZeroes: stockMaterials.filter((value) =>
+        variantIdsWithoutLeadingZeroes.has(stripLeadingZeroes(value))
+      ).length,
+      materialMatchesVariantAlphanumeric: stockMaterials.filter((value) =>
+        variantIdsAlphanumeric.has(alphanumeric(value))
+      ).length,
       materialMatchesProduct: stockMaterials.filter((value) => productRefs.has(value)).length,
     },
     prices: {
@@ -113,6 +144,13 @@ async function main(): Promise<void> {
       areas: printAreas.length,
       sampledAreaKeys: keysOf(printAreaRecords),
       sampledTechniqueKeys: keysOf(printTechniques),
+      techniqueContainerTypes: Object.fromEntries(
+        [...new Set(printAreaRecords.map((area) =>
+          Array.isArray(area.techniques) ? "array" : typeof area.techniques
+        ))].sort().map((type) => [type, printAreaRecords.filter((area) =>
+          (Array.isArray(area.techniques) ? "array" : typeof area.techniques) === type
+        ).length]),
+      ),
     },
   }
 
