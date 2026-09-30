@@ -44,6 +44,17 @@ function alphanumeric(value: string): string {
   return value.normalize("NFKC").replace(/[^a-z0-9]/gi, "").toUpperCase()
 }
 
+function assetSegments(value: unknown): string[] {
+  if (typeof value !== "string") return []
+  try {
+    const url = new URL(value)
+    if (url.origin !== "https://apis.makito.es") return []
+    return url.pathname.split("/").filter(Boolean)
+  } catch {
+    return []
+  }
+}
+
 async function main(): Promise<void> {
   const client = createMakitoClientFromEnv()
   const [catalog, stock, prices, printConfig] = await Promise.all([
@@ -77,6 +88,14 @@ async function main(): Promise<void> {
     [...variantIds].map(stripLeadingZeroes),
   )
   const variantIdsAlphanumeric = new Set([...variantIds].map(alphanumeric))
+  const variantAssetSegments = variantRecords.flatMap((variant) => [
+    assetSegments(variant.variant_image),
+    assetSegments(variant.variant_thumbnail),
+  ]).filter((segments) => segments.length > 0)
+  const segmentSets = Array.from(
+    { length: Math.max(0, ...variantAssetSegments.map((segments) => segments.length)) },
+    (_, index) => new Set(variantAssetSegments.map((segments) => segments[index]).filter(isString)),
+  )
   const categoryRecords = catalog.products
     .flatMap((product) => Array.isArray(product.categories) ? product.categories : [])
     .map(record)
@@ -107,6 +126,16 @@ async function main(): Promise<void> {
       uniqueProductRefs: productRefs.size,
       uniqueVariantIds: variantIds.size,
       variantIdLengths: lengthHistogram(variantIds),
+      assetPathDepths: lengthHistogram(variantAssetSegments.map((segments) =>
+        "x".repeat(segments.length)
+      )),
+      assetSegmentEqualsVariantReference: variantRecords.filter((variant) => {
+        const expected = identifier(variant.variant_reference)
+        if (!expected) return false
+        return [variant.variant_image, variant.variant_thumbnail].some((value) =>
+          assetSegments(value).includes(expected)
+        )
+      }).length,
     },
     stock: {
       records: stock.stocks.length,
@@ -120,6 +149,10 @@ async function main(): Promise<void> {
       materialMatchesVariantAlphanumeric: stockMaterials.filter((value) =>
         variantIdsAlphanumeric.has(alphanumeric(value))
       ).length,
+      materialMatchesAssetSegment: Object.fromEntries(segmentSets.map((values, index) => [
+        String(index),
+        stockMaterials.filter((value) => values.has(value)).length,
+      ])),
       materialMatchesProduct: stockMaterials.filter((value) => productRefs.has(value)).length,
     },
     prices: {
