@@ -13,6 +13,7 @@ interface Props {
   productCount: number
   href?: string
   priority?: boolean
+  representativeImage?: string
 }
 
 export default function CategoryCard({
@@ -20,24 +21,29 @@ export default function CategoryCard({
   productCount,
   href,
   priority = false,
+  representativeImage,
 }: Readonly<Props>) {
   const { locale } = useLanguage()
   const ro = locale === "ro"
   const target = href ?? `/catalog/${category.slug}`
+  const image = representativeImage ?? category.image
+  const usesProductImage = Boolean(representativeImage)
   return (
     <Link
       href={target}
       className="group flex flex-col gap-3 overflow-hidden"
     >
-      <div className="relative overflow-hidden aspect-[4/3] rounded-2xl border border-[var(--border)]">
-        {category.image ? (
+      <div className="relative overflow-hidden aspect-[4/3] rounded-2xl border border-[var(--border)] bg-[var(--surface)]">
+        {image ? (
           <Image
-            src={category.image}
+            src={image}
             alt={category.name}
             fill
             loading={priority ? "eager" : "lazy"}
             sizes="(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw"
-            className="object-cover transition-transform duration-500 group-hover:scale-[1.04]"
+            className={usesProductImage
+              ? "object-contain p-4 transition-transform duration-500 group-hover:scale-[1.04]"
+              : "object-cover transition-transform duration-500 group-hover:scale-[1.04]"}
           />
         ) : (
           /* Inline style: data-driven gradient from CategoryNode.accent */

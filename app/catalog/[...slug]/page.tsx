@@ -10,6 +10,7 @@ import {
   allCategorySlugPaths,
   getCategoryByPath,
 } from "@/lib/content/catalog"
+import { pickCategoryImage } from "@/lib/content/category-images"
 import {
   allProducts,
   countProductsUnder,
@@ -441,15 +442,26 @@ function SubcategoryGrid({
   return (
     <section className="mx-auto px-6 lg:px-8 py-12 lg:py-16 max-w-6xl">
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-        {subcategories.map((child, index) => (
-          <CategoryCard
-            key={child.slug}
-            category={child}
-            href={`/catalog/${[...parentPath, child.slug].join("/")}`}
-            productCount={countProductsUnder(child, parentPath)}
-            priority={index < 3}
-          />
-        ))}
+        {subcategories.map((child, index) => {
+          const childPath = [...parentPath, child.slug]
+          const representativeImage = child.image
+            ? undefined
+            : pickCategoryImage(
+                undefined,
+                getProductsByCategoryPath(childPath),
+              )
+
+          return (
+            <CategoryCard
+              key={child.slug}
+              category={child}
+              href={`/catalog/${childPath.join("/")}`}
+              productCount={countProductsUnder(child, parentPath)}
+              priority={index < 3}
+              representativeImage={representativeImage}
+            />
+          )
+        })}
       </div>
     </section>
   )
