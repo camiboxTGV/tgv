@@ -1,6 +1,11 @@
 name: Probe Makito feed
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/probe-makito.yml"
   workflow_dispatch:
 
 permissions:
