@@ -376,7 +376,7 @@ Location, founding year, contact email, and phone need to be filled in before pr
 <!-- gitnexus:start -->
 # GitNexus — Code Intelligence
 
-This project is indexed by GitNexus as **tgv-contact-cta** (2848 symbols, 5375 relationships, 247 execution flows). Use the GitNexus MCP tools to understand code, assess impact, and navigate safely.
+This project is indexed by GitNexus as **tgv-contact-cta** (3907 symbols, 7533 relationships, 300 execution flows). Use the GitNexus MCP tools to understand code, assess impact, and navigate safely.
 
 > If any GitNexus tool warns the index is stale, run `npx gitnexus analyze` in terminal first.
 

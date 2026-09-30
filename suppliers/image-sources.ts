@@ -31,6 +31,14 @@ export const supplierImageSources = {
       pathnamePrefix: "/ProductImages/Large/",
     },
   ],
+  makito: [
+    {
+      protocol: "https",
+      hostname: "apis.makito.es",
+      port: "",
+      pathnamePrefix: "/catalog/assets/",
+    },
+  ],
   cifra: [
     {
       protocol: "https",
@@ -73,6 +81,8 @@ export function isSupplierImageUrlAllowed(supplierId: string, value: string): bo
 
   return sources.some(
     (source) =>
+      url.username === "" &&
+      url.password === "" &&
       url.protocol === `${source.protocol}:` &&
       url.hostname === source.hostname &&
       url.port === source.port &&

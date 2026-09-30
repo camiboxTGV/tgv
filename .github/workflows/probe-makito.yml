@@ -1,0 +1,42 @@
+name: Probe Makito feed
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: catalog-data-sync-xdconnects
+  cancel-in-progress: false
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Setup Node.js
+        uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
+        with:
+          node-version: "24"
+
+      - name: Validate configuration
+        shell: bash
+        env:
+          MAKITO_CLIENT_ID: ${{ secrets.MAKITO_CLIENT_ID }}
+          MAKITO_CLIENT_SECRET: ${{ secrets.MAKITO_CLIENT_SECRET }}
+        run: |
+          set -euo pipefail
+          if [[ -z "$MAKITO_CLIENT_ID" || -z "$MAKITO_CLIENT_SECRET" ]]; then
+            echo "::error::MAKITO_CLIENT_ID and MAKITO_CLIENT_SECRET repository secrets are required."
+            exit 1
+          fi
+
+      - name: Inspect feed contracts
+        env:
+          MAKITO_CLIENT_ID: ${{ secrets.MAKITO_CLIENT_ID }}
+          MAKITO_CLIENT_SECRET: ${{ secrets.MAKITO_CLIENT_SECRET }}
+        run: node --experimental-strip-types scripts/probe-makito.ts

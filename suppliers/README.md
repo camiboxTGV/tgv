@@ -6,6 +6,7 @@ and downloaded image paths use that pair, so two suppliers may safely use the sa
 The enabled production suppliers are Macma, midocean, XD Connects, Cifra, and Blue Collection.
 Their API clients, payload types, category and decoration mappings, fixtures, and tests live in
 separate supplier directories; only the shared adapter contract and sync orchestration are common.
+Makito is implemented and registered, but remains disabled behind the activation gates below.
 
 To add a supplier:
 
@@ -16,7 +17,9 @@ To add a supplier:
    `supplierPersonalizations`; keep `personalizations` only for compatible TGV calculator families.
 2. Add one entry to `suppliers/suppliers.ts`. Declare the exact HTTPS image hosts and path
    prefixes used by the feed; the same list configures Next.js and validates sync input.
-3. Add the supplier's API credentials to `.env.local` and the catalog workflow secrets.
+3. Add the supplier's API credentials to `.env.local` and the catalog workflow secrets. Suppliers
+   with authenticated image assets also need a reviewed storage/proxy design that does not expose
+   secrets or violate an account-wide request limit.
 4. Test only that supplier without writing:
    `npm run sync:catalog -- --mode=full --supplier=<id> --dry-run --skip-images`.
 5. Run `npm test`, then run the unfiltered
@@ -42,9 +45,10 @@ The catalog has two intentionally separate refresh modes:
   supplier photo URLs are still refreshed and remain the deployed image source.
 
 The GitHub Actions workflow runs inventory mode at 03:17 UTC Monday-Saturday and full mode at the
-same time on Sunday. Its global FIFO concurrency queue prevents overlapping writers and preserves
-every pending run. A commit is created only when deployable catalog JSON changes, and Firebase App
-Hosting then deploys that commit from its configured live branch.
+same time on Sunday. Its global FIFO concurrency queue prevents overlapping writers, avoids
+competing for account-wide supplier quotas, and preserves every pending run. A commit is created
+only when deployable catalog JSON changes, and Firebase App Hosting then deploys that commit from
+its configured live branch.
 
 Before publishing, the workflow validates every enabled supplier's API credentials, generated
 totals, unique supplier SKUs, positive output for every enabled supplier, Macma's exact
@@ -94,6 +98,34 @@ binding. The adapter retains zero-stock and outlet variants, current stock only,
 exact default decoration codes, positions, and print sizes. The combined feed contains complete
 details for only the default decoration option, so other codes listed by the supplier are not
 invented as selectable methods.
+
+### Makito
+
+Makito uses `MAKITO_CLIENT_ID` and `MAKITO_CLIENT_SECRET` to obtain a bearer token. Keep local
+values in `.env.local`. Do not add workflow or runtime copies until the activation review below is
+complete.
+
+The client can read Makito's whole-file catalog, stock, price, print-price and print-configuration
+JSON snapshots. Inventory syncs read only the snapshots needed to update existing price and stock
+bindings. Stable supplier references and material IDs are retained as strings, and exact supplier
+technique identifiers remain visible even when they do not map to a TGV calculator family.
+
+Makito's request limit is an account-wide token bucket with capacity 100 and a refill rate of 25
+requests per minute. The client throttles one process and retries bounded transient failures, but
+separate App Hosting instances and the GitHub runner cannot share that in-memory state.
+
+Makito catalog assets are authenticated. The same-origin image route contains a hardened,
+allowlisted authenticated fetch path, but it is not production-enabled: a cache miss would share
+the supplier account bucket, and process-local limiting cannot coordinate across instances or
+deployments. Mirror the assets to durable storage before activation, or add a genuinely shared
+limiter and preferably quota-isolated runtime credentials.
+
+Pricing is also activation-gated. Makito's public docs show `amount`, `baseQuantity`, and quantity
+scales but do not define their arithmetic or state whether price-list `material` identifies a
+product or variant. The adapter therefore refuses to publish a guessed price. Validate a live
+snapshot and obtain supplier confirmation, configure an explicit resolver/binding, solve protected
+asset delivery, then enable the registry entry and perform a reviewed dry run. Until then, builds
+and scheduled syncs do not contact Makito.
 
 ### Blue Collection
 

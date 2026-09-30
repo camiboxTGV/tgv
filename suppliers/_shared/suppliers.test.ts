@@ -87,6 +87,12 @@ test("supplier definitions generate the same strict image allowlist used by Next
     },
     {
       protocol: "https",
+      hostname: "apis.makito.es",
+      port: "",
+      pathname: "/catalog/assets/**",
+    },
+    {
+      protocol: "https",
       hostname: "www.publicatalogue.com",
       port: "",
       pathname: "/image/cache/data/**",
@@ -127,6 +133,55 @@ test("supplier definitions generate the same strict image allowlist used by Next
     isSupplierImageUrlAllowed(
       "xdconnects",
       "https://static.xdconnects.com/ProductDecorationImages/100804-001.png",
+    ),
+    false,
+  )
+  assert.equal(
+    isSupplierImageUrlAllowed(
+      "makito",
+      "https://apis.makito.es/catalog/assets/15246/principal/5246-W.jpg",
+    ),
+    true,
+  )
+  assert.equal(
+    isSupplierImageUrlAllowed(
+      "makito",
+      "https://apis.makito.es/catalog/assets/15246/15246003000/principal/5246-003-P.jpg",
+    ),
+    true,
+  )
+  assert.equal(
+    isSupplierImageUrlAllowed(
+      "makito",
+      "http://apis.makito.es/catalog/assets/15246/principal/5246-W.jpg",
+    ),
+    false,
+  )
+  assert.equal(
+    isSupplierImageUrlAllowed(
+      "makito",
+      "https://other.test/catalog/assets/15246/principal/5246-W.jpg",
+    ),
+    false,
+  )
+  assert.equal(
+    isSupplierImageUrlAllowed(
+      "makito",
+      "https://user:password@apis.makito.es/catalog/assets/15246/principal/5246-W.jpg",
+    ),
+    false,
+  )
+  assert.equal(
+    isSupplierImageUrlAllowed(
+      "makito",
+      "https://apis.makito.es/catalog/assets-private/15246/principal/5246-W.jpg",
+    ),
+    false,
+  )
+  assert.equal(
+    isSupplierImageUrlAllowed(
+      "makito",
+      "https://apis.makito.es/print-config/assets/15246/front.jpg",
     ),
     false,
   )

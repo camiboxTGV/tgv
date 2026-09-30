@@ -54,6 +54,14 @@ export const supplierDefinitions = [
     loadAdapter: () => import("./xdconnects/adapter.ts"),
   },
   {
+    id: "makito",
+    displayName: "Makito",
+    enabled: false,
+    allowProductsWithoutImages: false,
+    imageSources: supplierImageSources.makito,
+    loadAdapter: () => import("./makito/adapter.ts"),
+  },
+  {
     id: "cifra",
     displayName: "Cifra",
     enabled: true,

@@ -1,13 +1,18 @@
 import sharp from "sharp"
 import { getCatalogImageSource } from "@/lib/content/catalog.server"
+import { fetchPublicSupplierImage } from "@/suppliers/_shared/image-fetch"
+import {
+  cancelResponseBody,
+  readBoundedImageResponse,
+} from "@/suppliers/_shared/image-response"
 import { isSupplierImageUrlAllowed } from "@/suppliers/image-sources"
+import { fetchMakitoAssetFromEnv } from "@/suppliers/makito/fetch"
 
 export const runtime = "nodejs"
 
 const MAX_SOURCE_BYTES = 25 * 1024 * 1024
 const FETCH_TIMEOUT_MS = 20_000
 const FETCH_ATTEMPTS = 3
-const FETCH_RETRY_BASE_DELAY_MS = 250
 
 interface RouteContext {
   params: Promise<{
@@ -38,23 +43,23 @@ export async function GET(request: Request, context: RouteContext): Promise<Resp
   const controller = new AbortController()
   const timeout = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS)
   try {
-    const upstream = await fetchSupplierImage(source.sourceUrl, controller.signal)
-    if (!upstream.ok) return imageError(502, `supplier returned HTTP ${upstream.status}`)
+    const upstream = await fetchSupplierImage(
+      source.supplierId,
+      source.sourceUrl,
+      controller.signal,
+    )
+    if (!upstream.ok) {
+      await cancelResponseBody(upstream)
+      return imageError(502, `supplier returned HTTP ${upstream.status}`)
+    }
 
     const contentType = upstream.headers.get("content-type")?.toLowerCase() ?? ""
     if (!contentType.startsWith("image/")) {
+      await cancelResponseBody(upstream)
       return imageError(502, "supplier returned a non-image response")
     }
 
-    const declaredLength = Number(upstream.headers.get("content-length") ?? "0")
-    if (declaredLength > MAX_SOURCE_BYTES) {
-      return imageError(502, "supplier image exceeds the size limit")
-    }
-
-    const sourceBytes = Buffer.from(await upstream.arrayBuffer())
-    if (sourceBytes.length === 0 || sourceBytes.length > MAX_SOURCE_BYTES) {
-      return imageError(502, "supplier image has an invalid size")
-    }
+    const sourceBytes = await readBoundedImageResponse(upstream, MAX_SOURCE_BYTES)
 
     const output = await sharp(sourceBytes, {
       failOn: "error",
@@ -77,51 +82,15 @@ export async function GET(request: Request, context: RouteContext): Promise<Resp
   }
 }
 
-async function fetchSupplierImage(sourceUrl: string, signal: AbortSignal): Promise<Response> {
-  let lastError: unknown
-
-  for (let attempt = 1; attempt <= FETCH_ATTEMPTS; attempt += 1) {
-    try {
-      const response = await fetch(sourceUrl, {
-        redirect: "error",
-        signal,
-        headers: { "User-Agent": "TGV-Media-Catalog-Image/1.0" },
-      })
-      if (response.ok || !isRetryableStatus(response.status) || attempt === FETCH_ATTEMPTS) {
-        return response
-      }
-    } catch (error) {
-      lastError = error
-      if (signal.aborted || attempt === FETCH_ATTEMPTS) throw error
-    }
-
-    await waitForRetry(FETCH_RETRY_BASE_DELAY_MS * 2 ** (attempt - 1), signal)
+async function fetchSupplierImage(
+  supplierId: string,
+  sourceUrl: string,
+  signal: AbortSignal,
+): Promise<Response> {
+  if (supplierId === "makito") {
+    return fetchMakitoAssetFromEnv(sourceUrl, signal)
   }
-
-  throw lastError instanceof Error ? lastError : new Error("supplier image fetch failed")
-}
-
-function isRetryableStatus(status: number): boolean {
-  return status === 408 || status === 425 || status === 429 || status >= 500
-}
-
-function waitForRetry(delayMs: number, signal: AbortSignal): Promise<void> {
-  return new Promise((resolve, reject) => {
-    if (signal.aborted) {
-      reject(signal.reason)
-      return
-    }
-
-    const onAbort = () => {
-      clearTimeout(timer)
-      reject(signal.reason)
-    }
-    const timer = setTimeout(() => {
-      signal.removeEventListener("abort", onAbort)
-      resolve()
-    }, delayMs)
-    signal.addEventListener("abort", onAbort, { once: true })
-  })
+  return fetchPublicSupplierImage(sourceUrl, signal, { attempts: FETCH_ATTEMPTS })
 }
 
 function imageHeaders(etag: string): Headers {
