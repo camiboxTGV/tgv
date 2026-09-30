@@ -1,10 +1,11 @@
-import type { OfferItem } from "@/lib/offer/storage"
+import type { OfferItem } from "../offer/storage.ts"
 import {
   DEADLINE_PRESET_LABELS,
   QUANTITY_BUCKET_LABELS,
   type ContactPayload,
-} from "@/lib/contact/types"
-import type { RenderedEmail } from "@/lib/email/smtp"
+} from "../contact/types.ts"
+import { getPriceDisclosure } from "../pricing/disclosure.ts"
+import type { RenderedEmail } from "./smtp.ts"
 
 export interface AttachmentSummary {
   filename: string
@@ -174,6 +175,7 @@ function row(label: string, value: string): string {
 }
 
 function renderProductsTable(items: OfferItem[]): string {
+  const priceDisclosure = getPriceDisclosure("en")
   let total = 0
   let hasAnyPrice = false
   const rows = items
@@ -201,7 +203,7 @@ function renderProductsTable(items: OfferItem[]): string {
 
   const totalRow = hasAnyPrice
     ? `<tr>
-        <td colspan="4" style="padding:12px;font-size:13px;color:${TEXT_MUTED};text-align:right;text-transform:uppercase;letter-spacing:0.08em;">Indicative total (ex. VAT)</td>
+        <td colspan="4" style="padding:12px;font-size:13px;color:${TEXT_MUTED};text-align:right;text-transform:uppercase;letter-spacing:0.08em;">${escapeHtml(priceDisclosure.emailSubtotalLabel)}</td>
         <td style="padding:12px;font-size:14px;color:${TEXT_PRIMARY};font-weight:700;text-align:right;">${formatPrice(total)}</td>
        </tr>`
     : ""
@@ -219,13 +221,15 @@ function renderProductsTable(items: OfferItem[]): string {
       </thead>
       <tbody>${rows}${totalRow}</tbody>
     </table>
-    <p style="margin:8px 0 0;font-size:11px;color:${TEXT_MUTED};">Prices are indicative snapshots captured when the customer built the offer. Final quote is issued manually.</p>`
+    <p style="margin:8px 0 0;font-size:11px;color:${TEXT_MUTED};">Prices are indicative snapshots captured when the customer built the offer. Final quote is issued manually.</p>
+    <p style="margin:8px 0 0;padding:10px 12px;border-left:3px solid ${BRAND_ORANGE};background:${SURFACE_SOFT};font-size:12px;font-weight:600;line-height:1.5;color:${TEXT_PRIMARY};">${escapeHtml(priceDisclosure.internalQuoteReminder)}</p>`
 }
 
 function renderText(
   payload: ContactPayload,
   attachments: AttachmentSummary[],
 ): string {
+  const priceDisclosure = getPriceDisclosure("en")
   const hasProducts = payload.selectedProducts.length > 0
   const qty = quantityText(payload)
   const lines: string[] = []
@@ -267,8 +271,10 @@ function renderText(
     }
     if (hasAnyPrice) {
       lines.push("")
-      lines.push(`Indicative total (ex. VAT): ${formatPrice(total)}`)
+      lines.push(`${priceDisclosure.emailSubtotalLabel}: ${formatPrice(total)}`)
     }
+    lines.push("")
+    lines.push(priceDisclosure.internalQuoteReminder)
     lines.push("")
   }
 

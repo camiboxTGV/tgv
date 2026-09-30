@@ -6,6 +6,7 @@ import { useOffer } from "@/components/OfferProvider"
 import DecorationEstimator from "@/components/pricing/DecorationEstimator"
 import { getCategoryBySlugPath, getTopCategories } from "@/lib/content/catalog"
 import { lineKey, serializeForUrl } from "@/lib/offer/storage"
+import { getPriceDisclosure } from "@/lib/pricing/disclosure"
 import { useLanguage } from "@/components/LanguageProvider"
 
 export default function OfferPage() {
@@ -14,6 +15,7 @@ export default function OfferPage() {
   const router = useRouter()
   const { locale } = useLanguage()
   const ro = locale === "ro"
+  const priceDisclosure = getPriceDisclosure(locale)
 
   const goToBrief = () => {
     const encoded = serializeForUrl(items)
@@ -46,6 +48,15 @@ export default function OfferPage() {
         <EmptyState locale={locale} />
       ) : (
         <section className="mx-auto px-6 lg:px-8 pb-24 max-w-4xl">
+          <aside className="mb-6 rounded-2xl border border-[var(--brand-orange)]/25 bg-[var(--surface-soft)] p-5">
+            <p className="text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange)]">
+              {ro ? "Cum se finalizează prețul" : "How final pricing works"}
+            </p>
+            <p className="mt-2 text-sm leading-relaxed text-[var(--text-soft)]">
+              {priceDisclosure.detailed}
+            </p>
+          </aside>
+
           <ul className="flex flex-col gap-3">
             {items.map((item) => {
               const category = getCategoryBySlugPath(item.category)

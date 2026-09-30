@@ -2,6 +2,7 @@
 
 import { useCallback, useMemo, useState } from "react"
 import AddToOfferButton from "@/components/AddToOfferButton"
+import PriceScopeNotice from "@/components/pricing/PriceScopeNotice"
 import ProductGallery from "@/components/ProductGallery"
 import StockBadge from "@/components/StockBadge"
 import VariantPicker from "@/components/VariantPicker"
@@ -200,6 +201,10 @@ export default function ProductDetail({
                   {ro ? `Preț actualizat la ${asOf}. Orientativ — oferta finală se confirmă la cerere.` : `Price as of ${asOf}. Indicative — final quote on request.`}
                 </p>
               ) : null}
+              <PriceScopeNotice
+                variant="detailed"
+                className="rounded-xl border border-[var(--border-soft)] bg-[var(--surface-soft)] px-3 py-2.5 text-xs leading-relaxed text-[var(--text-soft)]"
+              />
             </div>
 
             <div className="flex flex-wrap gap-2 border-y border-[var(--border-soft)] py-4">

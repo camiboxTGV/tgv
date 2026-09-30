@@ -5,6 +5,7 @@ import { useRouter } from "next/navigation"
 import type { SearchResponse, SearchResult } from "@/lib/search/types"
 import { SEARCH_RESULT_LIMIT } from "@/lib/search/fuseConfig"
 import { useLanguage } from "@/components/LanguageProvider"
+import { getPriceDisclosure } from "@/lib/pricing/disclosure"
 
 type Status = "idle" | "loading" | "ready" | "error"
 
@@ -40,6 +41,7 @@ function highlight(
 
 export default function SearchBox({ className, onNavigate }: SearchBoxProps) {
   const { locale } = useLanguage()
+  const priceDisclosure = getPriceDisclosure(locale)
   const router = useRouter()
   const [query, setQuery] = useState("")
   const [results, setResults] = useState<SearchResult[]>([])
@@ -249,6 +251,11 @@ export default function SearchBox({ className, onNavigate }: SearchBoxProps) {
               </li>
             ))}
           </ul>
+          {status === "ready" && results.length > 0 && (
+            <p className="border-t border-[var(--border-soft)] px-4 py-2 text-[10px] leading-relaxed text-[var(--text-muted)]">
+              {priceDisclosure.compact}
+            </p>
+          )}
           {status === "ready" && total > results.length && (
             <button
               type="button"

@@ -8,11 +8,12 @@ import {
 } from "@/lib/content/catalog"
 import { countProductsUnder } from "@/lib/content/catalog.server"
 import LocalizedText from "@/components/LocalizedText"
+import PriceScopeNotice from "@/components/pricing/PriceScopeNotice"
 
 export const metadata: Metadata = {
   title: "Catalog — TGV-Media",
   description:
-    "Browse personalizable products by category. Prices shown are indicative and exclude VAT; final quotes via the contact form.",
+    "Browse personalizable products by category. Displayed prices exclude VAT and supplier transport/import, which is confirmed in the final quote.",
 }
 
 const PERSONALIZATIONS: Personalization[] = [
@@ -37,10 +38,16 @@ export default function CatalogPage() {
           <LocalizedText en="Browse personalizable " ro="Descoperă produse " />
           <span className="text-[var(--brand-orange)]"><LocalizedText en="products" ro="personalizabile" /></span>.
         </h1>
-        <p className="mt-6 max-w-2xl text-lg text-[var(--text-soft)] leading-relaxed">
+        <div className="mt-6 max-w-3xl rounded-2xl border border-[var(--border-soft)] bg-[var(--surface)] p-5">
+          <PriceScopeNotice
+            variant="detailed"
+            className="text-sm leading-relaxed text-[var(--text-soft)]"
+          />
+        </div>
+        <p className="mt-4 max-w-2xl text-base text-[var(--text-soft)] leading-relaxed">
           <LocalizedText
-            en="Prices shown are indicative and exclude VAT. Add products to your offer and we'll come back with a final quote, sample plan and timeline."
-            ro="Prețurile afișate sunt orientative și nu includ TVA. Adaugă produsele în ofertă, iar noi revenim cu prețul final, planul de mostre și calendarul."
+            en="Add products to your offer and we'll come back with the final price, sample plan and timeline."
+            ro="Adaugă produsele în ofertă, iar noi revenim cu prețul final, planul de mostre și calendarul."
           />
         </p>
       </section>

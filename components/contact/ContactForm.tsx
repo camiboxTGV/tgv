@@ -7,6 +7,7 @@ import ChipGroup from "@/components/contact/ChipGroup"
 import FileDropZone from "@/components/contact/FileDropZone"
 import { useOffer } from "@/components/OfferProvider"
 import { useLanguage } from "@/components/LanguageProvider"
+import { getPriceDisclosure } from "@/lib/pricing/disclosure"
 import { deserializeFromUrl, lineKey, type OfferItem } from "@/lib/offer/storage"
 import {
   ACCEPT_FILES_ATTR,
@@ -87,6 +88,7 @@ function errorMessage(code: string): string {
 export default function ContactForm() {
   const { locale } = useLanguage()
   const ro = locale === "ro"
+  const priceDisclosure = getPriceDisclosure(locale)
   const searchParams = useSearchParams()
   const { items: offerItems, clear } = useOffer()
   const [state, setState] = useState<FormState>(initial)
@@ -238,6 +240,7 @@ export default function ContactForm() {
     return (
       <SuccessCard
         hadSelection={selectedProducts.length > 0}
+        locale={locale}
         onClearOffer={clear}
       />
     )
@@ -250,7 +253,7 @@ export default function ContactForm() {
       className="flex flex-col gap-10 p-6 lg:p-10 bg-[var(--surface)] border border-[var(--border)] rounded-3xl"
     >
       {selectedProducts.length > 0 && (
-        <SelectedProductsPanel items={selectedProducts} />
+        <SelectedProductsPanel items={selectedProducts} locale={locale} />
       )}
 
       <FieldGroup label={ro ? "Despre tine" : "About you"}>
@@ -377,6 +380,14 @@ export default function ContactForm() {
       </FieldGroup>
 
       <div className="flex flex-col gap-4 pt-2">
+        {hasSelectedProducts ? (
+          <div
+            role="note"
+            className="rounded-xl border border-[var(--brand-orange)]/30 bg-[var(--brand-orange)]/5 px-4 py-3 text-sm leading-relaxed text-[var(--text-soft)]"
+          >
+            {priceDisclosure.detailed}
+          </div>
+        ) : null}
         {submitError && (
           <div
             role="alert"
@@ -543,18 +554,27 @@ function DeadlinePicker({
   )
 }
 
-function SelectedProductsPanel({ items }: { items: OfferItem[] }) {
+function SelectedProductsPanel({
+  items,
+  locale,
+}: {
+  items: OfferItem[]
+  locale: "ro" | "en"
+}) {
+  const ro = locale === "ro"
+  const priceDisclosure = getPriceDisclosure(locale)
+
   return (
     <div className="flex flex-col gap-3 p-5 bg-[var(--surface-soft)] border border-[var(--border-soft)] rounded-2xl">
       <div className="flex items-center justify-between gap-3">
         <h3 className="text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange)]">
-          Selected products ({items.length})
+          {ro ? "Produse selectate" : "Selected products"} ({items.length})
         </h3>
         <Link
           href="/offer"
           className="text-xs font-medium text-[var(--text-soft)] hover:text-[var(--brand-orange)] transition-colors"
         >
-          Edit selection →
+          {ro ? "Editează selecția" : "Edit selection"} →
         </Link>
       </div>
       <div className="flex flex-wrap gap-2">
@@ -581,17 +601,25 @@ function SelectedProductsPanel({ items }: { items: OfferItem[] }) {
           )
         })}
       </div>
+      <p className="rounded-xl border border-[var(--border-soft)] bg-[var(--surface)] px-3 py-2 text-xs leading-relaxed text-[var(--text-muted)]">
+        {priceDisclosure.compact}
+      </p>
     </div>
   )
 }
 
 function SuccessCard({
   hadSelection,
+  locale,
   onClearOffer,
 }: {
   hadSelection: boolean
+  locale: "ro" | "en"
   onClearOffer: () => void
 }) {
+  const ro = locale === "ro"
+  const priceDisclosure = getPriceDisclosure(locale)
+
   return (
     <div className="flex flex-col items-start gap-6 p-8 lg:p-12 bg-[var(--surface)] border border-[var(--border)] rounded-3xl">
       <span
@@ -614,19 +642,25 @@ function SuccessCard({
       </span>
       <div className="flex flex-col gap-2">
         <h2 className="text-3xl sm:text-4xl font-[family-name:var(--font-outfit)] font-semibold text-[var(--brand-black)]">
-          Brief received.
+          {ro ? "Am primit brieful." : "Brief received."}
         </h2>
         <p className="text-base lg:text-lg text-[var(--text-soft)] leading-relaxed">
-          Thank you. A member of our production team will review your brief and
-          come back within 1 business day with a quote and a sample plan.
+          {ro
+            ? "Mulțumim. Un membru al echipei de producție va analiza brieful și va reveni în cel mult o zi lucrătoare cu oferta și planul de mostre."
+            : "Thank you. A member of our production team will review your brief and come back within 1 business day with a quote and a sample plan."}
         </p>
+        {hadSelection ? (
+          <p className="text-sm leading-relaxed text-[var(--text-muted)]">
+            {priceDisclosure.detailed}
+          </p>
+        ) : null}
       </div>
       <div className="flex flex-col sm:flex-row gap-3 pt-2">
         <Link
           href="/"
           className="inline-flex items-center justify-center gap-2 px-6 py-3 text-sm font-semibold text-white bg-[var(--brand-orange)] rounded-full hover:scale-[1.02] transition-transform"
         >
-          <span>Back to homepage</span>
+          <span>{ro ? "Înapoi la pagina principală" : "Back to homepage"}</span>
           <span aria-hidden="true">→</span>
         </Link>
         {hadSelection && (
@@ -635,7 +669,7 @@ function SuccessCard({
             onClick={onClearOffer}
             className="inline-flex items-center justify-center px-6 py-3 text-sm font-medium text-[var(--text-soft)] hover:text-[var(--brand-black)] bg-transparent transition-colors"
           >
-            Clear my offer
+            {ro ? "Golește oferta" : "Clear my offer"}
           </button>
         )}
       </div>

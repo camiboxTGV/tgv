@@ -2,6 +2,7 @@ import type { Metadata } from "next"
 import Image from "next/image"
 import Link from "next/link"
 import LocalizedText from "@/components/LocalizedText"
+import PriceScopeNotice from "@/components/pricing/PriceScopeNotice"
 import SearchSortSelect from "@/components/SearchSortSelect"
 import StockBadge from "@/components/StockBadge"
 import { searchCatalog } from "@/lib/search/catalogSearch.server"
@@ -88,6 +89,10 @@ function ResultCard({ result }: Readonly<{ result: SearchResult }>) {
               <LocalizedText en="ex. VAT" ro="fără TVA" />
             </span>
           </div>
+          <PriceScopeNotice
+            variant="shippingOnly"
+            className="text-[11px] leading-relaxed text-[var(--text-muted)]"
+          />
         </div>
       </Link>
     </article>

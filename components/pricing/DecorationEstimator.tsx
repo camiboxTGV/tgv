@@ -19,6 +19,7 @@ import {
   type TextileFormat,
   type UvFormat,
 } from "@/lib/pricing/calculator"
+import { getPriceDisclosure } from "@/lib/pricing/disclosure"
 import { useLanguage } from "@/components/LanguageProvider"
 
 interface Props {
@@ -38,6 +39,7 @@ export default function DecorationEstimator({
 }: Readonly<Props>) {
   const { locale } = useLanguage()
   const ro = locale === "ro"
+  const priceDisclosure = getPriceDisclosure(locale)
   const available = methods
   const [options, setOptions] = useState<DecorationOptions>(() => ({
     ...DEFAULT_DECORATION_OPTIONS,
@@ -267,8 +269,14 @@ export default function DecorationEstimator({
             {estimate.billableQuantity !== null && estimate.billableQuantity > quantity ? (
               <ResultRow label={ro ? "Cantitate minimă facturată" : "Minimum billed quantity"} value={`${estimate.billableQuantity} ${ro ? "buc." : "units"}`} />
             ) : null}
+            {productSubtotal !== null ? (
+              <ResultRow
+                label={priceDisclosure.pendingLabel}
+                value={priceDisclosure.pendingValue}
+              />
+            ) : null}
             <ResultRow
-              label={estimatedTotal === null ? (ro ? "Estimare personalizare" : "Decoration estimate") : (ro ? "Total orientativ" : "Indicative total")}
+              label={productSubtotal === null ? (ro ? "Estimare personalizare" : "Decoration estimate") : priceDisclosure.subtotalLabel}
               value={formatEuro(estimatedTotal ?? estimate.decorationTotal ?? 0)}
               strong
               divided
@@ -288,9 +296,15 @@ export default function DecorationEstimator({
           </div>
         )}
         <p className="mt-3 text-xs leading-relaxed text-[var(--text-muted)]">
-          {ro
-            ? "EUR, fără TVA. Estimarea este orientativă și se bazează pe grila de tarife furnizată; grafica, materialul, poziționarea și fezabilitatea se confirmă în oferta finală."
-            : "EUR, excluding VAT. This is an indicative estimate based on the supplied rate sheet; artwork, substrate, positioning, and production feasibility are confirmed in the final quote."}
+          {productSubtotal !== null
+            ? `${priceDisclosure.detailed} ${
+                ro
+                  ? "Subtotalul este orientativ și se bazează pe grila de tarife furnizată; grafica, materialul, poziționarea și fezabilitatea se confirmă în oferta finală."
+                  : "The subtotal is indicative and based on the supplied rate sheet; artwork, substrate, positioning, and production feasibility are confirmed in the final quote."
+              }`
+            : ro
+              ? "Estimare orientativă doar pentru personalizare, în EUR, fără TVA. Grafica, materialul, poziționarea și fezabilitatea se confirmă în oferta finală."
+              : "Indicative decoration-only estimate in EUR, excluding VAT. Artwork, substrate, positioning, and production feasibility are confirmed in the final quote."}
         </p>
       </div>
     </div>

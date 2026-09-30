@@ -1,6 +1,7 @@
 import Image from "next/image"
 import Link from "next/link"
 import AddToOfferButton from "@/components/AddToOfferButton"
+import PriceScopeNotice from "@/components/pricing/PriceScopeNotice"
 import StockBadge from "@/components/StockBadge"
 import {
   PERSONALIZATION_LABELS,
@@ -81,14 +82,19 @@ export default function ProductCard({ product, priority = false }: Readonly<Prop
           </p>
         </div>
 
-        <div className="flex items-baseline gap-2">
-          {product.priceFrom ? (
-            <span className="text-xs text-[var(--text-muted)]">from</span>
-          ) : null}
-          <span className="text-lg font-[family-name:var(--font-outfit)] font-semibold text-[var(--brand-black)]">
-            {formatPrice(product.price)}
-          </span>
-          <span className="text-xs text-[var(--text-muted)]">ex. VAT</span>
+        <div className="flex flex-col gap-1">
+          <div className="flex items-baseline gap-2">
+            {product.priceFrom ? (
+              <span className="text-xs text-[var(--text-muted)]">from</span>
+            ) : null}
+            <span className="text-lg font-[family-name:var(--font-outfit)] font-semibold text-[var(--brand-black)]">
+              {formatPrice(product.price)}
+            </span>
+          </div>
+          <PriceScopeNotice
+            variant="compact"
+            className="text-[11px] leading-snug text-[var(--text-muted)]"
+          />
         </div>
 
         <VariantSummary
