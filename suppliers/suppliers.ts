@@ -46,6 +46,14 @@ export const supplierDefinitions = [
     loadAdapter: () => import("./midocean/adapter.ts"),
   },
   {
+    id: "xdconnects",
+    displayName: "XD Connects",
+    enabled: true,
+    allowProductsWithoutImages: false,
+    imageSources: supplierImageSources.xdconnects,
+    loadAdapter: () => import("./xdconnects/adapter.ts"),
+  },
+  {
     id: "cifra",
     displayName: "Cifra",
     enabled: true,

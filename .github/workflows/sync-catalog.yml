@@ -29,16 +29,20 @@ on:
         default: false
 
 permissions:
+  actions: read
   contents: write
 
 concurrency:
-  group: catalog-data-sync-${{ github.ref }}
+  # The XD feed permits one download per account every 15 minutes, regardless
+  # of branch. Keep every catalog run in one global queue.
+  group: catalog-data-sync-xdconnects
   cancel-in-progress: false
+  queue: max
 
 jobs:
   sync:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 45
     steps:
       - name: Checkout
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
@@ -77,6 +81,7 @@ jobs:
         env:
           MACMA_API_BASE: ${{ secrets.MACMA_API_BASE }}
           MIDOCEAN_API_KEY: ${{ secrets.MIDOCEAN_API_KEY }}
+          XDCONNECTS_FEED_URL: ${{ secrets.XDCONNECTS_FEED_URL }}
           CIFRA_API_TOKEN: ${{ secrets.CIFRA_API_TOKEN }}
           BLUECOLLECTION_USERNAME: ${{ secrets.BLUECOLLECTION_USERNAME }}
           BLUECOLLECTION_PASSWORD: ${{ secrets.BLUECOLLECTION_PASSWORD }}
@@ -93,6 +98,14 @@ jobs:
           fi
           if [[ -z "$MIDOCEAN_API_KEY" ]]; then
             echo "::error::Repository secret MIDOCEAN_API_KEY is missing."
+            exit 1
+          fi
+          if [[ -z "$XDCONNECTS_FEED_URL" ]]; then
+            echo "::error::Repository secret XDCONNECTS_FEED_URL is missing."
+            exit 1
+          fi
+          if [[ "$XDCONNECTS_FEED_URL" != https://feeds.xindao.com/Feeds/Download/* ]]; then
+            echo "::error::XDCONNECTS_FEED_URL must be an XD Connects HTTPS feed URL."
             exit 1
           fi
           if [[ -z "$CIFRA_API_TOKEN" ]]; then
@@ -112,11 +125,69 @@ jobs:
             exit 1
           fi
 
+      - name: Enforce XD Connects download interval
+        shell: bash
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          latest_epoch=0
+
+          consider_timestamp() {
+            local candidate="$1"
+            if [[ -z "$candidate" ]]; then
+              return
+            fi
+
+            local candidate_epoch
+            candidate_epoch="$(date -d "$candidate" +%s)"
+            if (( candidate_epoch > latest_epoch )); then
+              latest_epoch="$candidate_epoch"
+            fi
+          }
+
+          previous_updated="$(
+            gh api --method GET \
+              "repos/${GITHUB_REPOSITORY}/actions/workflows/sync-catalog.yml/runs" \
+              -f status=completed \
+              -f per_page=100 \
+              --jq "(.workflow_runs | map(select(.id != ${GITHUB_RUN_ID} and .status == \"completed\")) | max_by(.updated_at) | .updated_at) // empty"
+          )"
+          consider_timestamp "$previous_updated"
+
+          # A GitHub rerun keeps the same run id, so the query above deliberately
+          # cannot see its previous attempt. Include that attempt explicitly.
+          if (( GITHUB_RUN_ATTEMPT > 1 )); then
+            previous_attempt="$((GITHUB_RUN_ATTEMPT - 1))"
+            previous_attempt_updated="$(
+              gh api --method GET \
+                "repos/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}/attempts/${previous_attempt}" \
+                --jq '.updated_at // empty'
+            )"
+            if [[ -z "$previous_attempt_updated" ]]; then
+              echo "::error::Could not determine when the previous workflow attempt completed."
+              exit 1
+            fi
+            consider_timestamp "$previous_attempt_updated"
+          fi
+
+          if (( latest_epoch == 0 )); then
+            exit 0
+          fi
+
+          wait_seconds="$((latest_epoch + 900 - $(date -u +%s)))"
+          if (( wait_seconds > 0 )); then
+            echo "Waiting ${wait_seconds}s to respect the XD Connects download interval."
+            sleep "$wait_seconds"
+          fi
+
       - name: Run ${{ steps.mode.outputs.mode }} sync
         shell: bash
         env:
           MACMA_API_BASE: ${{ secrets.MACMA_API_BASE }}
           MIDOCEAN_API_KEY: ${{ secrets.MIDOCEAN_API_KEY }}
+          XDCONNECTS_FEED_URL: ${{ secrets.XDCONNECTS_FEED_URL }}
+          XDCONNECTS_RON_PER_EUR: ${{ vars.XDCONNECTS_RON_PER_EUR }}
           CIFRA_API_TOKEN: ${{ secrets.CIFRA_API_TOKEN }}
           BLUECOLLECTION_USERNAME: ${{ secrets.BLUECOLLECTION_USERNAME }}
           BLUECOLLECTION_PASSWORD: ${{ secrets.BLUECOLLECTION_PASSWORD }}

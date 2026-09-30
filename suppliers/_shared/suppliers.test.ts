@@ -81,6 +81,12 @@ test("supplier definitions generate the same strict image allowlist used by Next
     },
     {
       protocol: "https",
+      hostname: "static.xdconnects.com",
+      port: "",
+      pathname: "/ProductImages/Large/**",
+    },
+    {
+      protocol: "https",
       hostname: "www.publicatalogue.com",
       port: "",
       pathname: "/image/cache/data/**",
@@ -107,6 +113,20 @@ test("supplier definitions generate the same strict image allowlist used by Next
     isSupplierImageUrlAllowed(
       "midocean",
       "https://cdn1.midocean.com/document/ar1249-green.pdf",
+    ),
+    false,
+  )
+  assert.equal(
+    isSupplierImageUrlAllowed(
+      "xdconnects",
+      "https://static.xdconnects.com/ProductImages/Large/100804-001.jpg",
+    ),
+    true,
+  )
+  assert.equal(
+    isSupplierImageUrlAllowed(
+      "xdconnects",
+      "https://static.xdconnects.com/ProductDecorationImages/100804-001.png",
     ),
     false,
   )

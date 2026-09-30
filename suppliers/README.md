@@ -3,9 +3,9 @@
 Every supplier is isolated by `supplierId` and `supplierSku`. Product slugs, variants, reports,
 and downloaded image paths use that pair, so two suppliers may safely use the same SKU.
 
-The enabled production suppliers are Macma, midocean, Cifra, and Blue Collection. Their API clients,
-payload types, category and decoration mappings, fixtures, and tests live in separate supplier
-directories; only the shared adapter contract and sync orchestration are common.
+The enabled production suppliers are Macma, midocean, XD Connects, Cifra, and Blue Collection.
+Their API clients, payload types, category and decoration mappings, fixtures, and tests live in
+separate supplier directories; only the shared adapter contract and sync orchestration are common.
 
 To add a supplier:
 
@@ -42,9 +42,9 @@ The catalog has two intentionally separate refresh modes:
   supplier photo URLs are still refreshed and remain the deployed image source.
 
 The GitHub Actions workflow runs inventory mode at 03:17 UTC Monday-Saturday and full mode at the
-same time on Sunday. Its concurrency group prevents overlapping writers. A commit is created only
-when deployable catalog JSON changes, and Firebase App Hosting then deploys that commit from its
-configured live branch.
+same time on Sunday. Its global FIFO concurrency queue prevents overlapping writers and preserves
+every pending run. A commit is created only when deployable catalog JSON changes, and Firebase App
+Hosting then deploys that commit from its configured live branch.
 
 Before publishing, the workflow validates every enabled supplier's API credentials, generated
 totals, unique supplier SKUs, positive output for every enabled supplier, Macma's exact
@@ -54,9 +54,11 @@ changes any other tracked source, or the target branch advances while the sync i
 fails instead of publishing data produced from stale code. Each run writes a GitHub step summary
 and retains its sync log and reports for 14 days.
 
-After deploying supplier-adapter or personalization-mapping changes, manually run `full` once from
-`main` with the deletion-guard bypass disabled. Daily inventory mode deliberately does not rewrite
-product metadata, photos, or personalization methods.
+Pushing supplier-adapter or personalization-mapping changes to `main` automatically selects a full
+sync. Wait for its generated-data bot commit and the Firebase rollout of that commit. Manually run
+`full` with the deletion-guard bypass disabled only if the push-triggered run did not complete.
+Daily inventory mode deliberately does not rewrite product metadata, photos, or personalization
+methods.
 
 Scheduled GitHub workflows run only from the repository default branch. Keep the workflow on
 `main`, configure App Hosting's live branch as `main` with automatic rollouts enabled, and ensure
@@ -74,6 +76,24 @@ confidential JSON/CSV tariff, novelties JSON/CSV, quantity-break prices, and
 web-order creation. Catalog and inventory syncs use the confidential tariff and
 price-range feeds. Order creation defaults to `commit: false`; production callers
 must explicitly opt into committing an order.
+
+### XD Connects
+
+XD Connects uses the account-specific V5 combined feed URL in `XDCONNECTS_FEED_URL`. The URL is a
+credential: keep it server-side and configure it as a GitHub Actions secret. The client validates
+the official feed host, downloads no more than once per 15 minutes, and shares the cached response
+between full and inventory parsing. The account-wide interval has one live-download owner: the
+globally serialized GitHub Actions workflow. Production-style local runs may read a valid existing
+cache but refuse a new XD download; injected feeds remain available to the automated tests. Feed
+prices are account net prices; RON feeds are converted to EUR using the daily European Central Bank
+reference rate. `XDCONNECTS_RON_PER_EUR` can optionally pin the number of RON per EUR for a
+deterministic run.
+
+Products are grouped by `ModelCode`, while every `ItemCode` remains a stable variant and inventory
+binding. The adapter retains zero-stock and outlet variants, current stock only, product media,
+exact default decoration codes, positions, and print sizes. The combined feed contains complete
+details for only the default decoration option, so other codes listed by the supplier are not
+invented as selectable methods.
 
 ### Blue Collection
 

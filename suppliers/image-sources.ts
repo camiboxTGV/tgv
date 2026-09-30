@@ -23,6 +23,14 @@ export const supplierImageSources = {
       pathnamePrefix: "/image/",
     },
   ],
+  xdconnects: [
+    {
+      protocol: "https",
+      hostname: "static.xdconnects.com",
+      port: "",
+      pathnamePrefix: "/ProductImages/Large/",
+    },
+  ],
   cifra: [
     {
       protocol: "https",

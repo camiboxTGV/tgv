@@ -10,11 +10,14 @@ This repo ships to **Firebase App Hosting**. Pushing to `main` triggers an autom
    - Repo → Settings → Secrets and variables → Actions
    - `MACMA_API_BASE`: `https://macma.ro/api/v2/<token>/en` (no trailing slash)
    - `MIDOCEAN_API_KEY`: the midocean gateway API key
+   - `XDCONNECTS_FEED_URL`: the account-specific XD Connects V5 combined-feed URL
    - `CIFRA_API_TOKEN`: the Cifra confidential catalog token
    - `BLUECOLLECTION_USERNAME`: the Blue Collection developer login
    - `BLUECOLLECTION_PASSWORD`: the generated Blue Collection API password
    - These are used only by the `Catalog data sync` workflow; Firebase never sees them.
    - `CIFRA_ORDER_API_KEY` is a separate optional credential for direct order reads and is not used by catalog sync.
+   - Optional Actions variable `XDCONNECTS_RON_PER_EUR` pins the RON-per-EUR conversion rate;
+     otherwise the workflow reads the daily European Central Bank reference rate.
 
 2. **Confirm the Firebase backend** is linked to `main` on this repo.
    - Firebase console → App Hosting → your backend → Settings → Repository
@@ -23,7 +26,17 @@ This repo ships to **Firebase App Hosting**. Pushing to `main` triggers an autom
 
 3. **Run `npm run build` locally before pushing.** If the build fails locally, it will fail on Firebase too.
 
-4. **Push.** Firebase detects the commit and runs `npm install && npm run build` on their infrastructure.
+4. **Push the supplier implementation.** The path-filtered `Catalog data sync` workflow starts a
+   full sync on `main`. Firebase may first deploy the source commit with the preceding generated
+   snapshot; that is expected.
+
+5. **Wait for the generated-data commit.** Confirm the workflow summary and
+   `lib/content/generated/sync-report.json` show positive fetched and normalized counts for
+   `xdconnects`, with no unexpected drops or unknown personalization codes. The workflow then
+   commits the generated catalog to `main`.
+
+6. **Confirm the following Firebase rollout is green.** This rollout is built from the bot commit
+   and is the first release that contains the generated XD Connects products.
 
 ## What auto-deploys on push
 
@@ -63,6 +76,8 @@ This repo ships to **Firebase App Hosting**. Pushing to `main` triggers an autom
 |---|---|---|
 | `MACMA_API_BASE` | GitHub repo secrets | `.github/workflows/sync-catalog.yml` |
 | `MIDOCEAN_API_KEY` | GitHub repo secrets | `.github/workflows/sync-catalog.yml` |
+| `XDCONNECTS_FEED_URL` | GitHub repo secrets | `.github/workflows/sync-catalog.yml` |
+| `XDCONNECTS_RON_PER_EUR` (optional) | GitHub repo Actions variables | `.github/workflows/sync-catalog.yml` |
 | `CIFRA_API_TOKEN` | GitHub repo secrets | `.github/workflows/sync-catalog.yml` |
 | `BLUECOLLECTION_USERNAME` | GitHub repo secrets | `.github/workflows/sync-catalog.yml` |
 | `BLUECOLLECTION_PASSWORD` | GitHub repo secrets | `.github/workflows/sync-catalog.yml` |
