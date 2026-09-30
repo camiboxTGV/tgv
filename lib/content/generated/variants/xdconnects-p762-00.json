@@ -1,0 +1,44 @@
+[
+  {
+    "contentKey": "51a1cf509d6a009d",
+    "supplierVariantId": "P762.001",
+    "stock": 1101,
+    "stockLevel": "in-stock",
+    "price": 48.5,
+    "color": {
+      "name": "black",
+      "hex": "#3D332B"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "d67d1a906e7ff74c",
+    "supplierVariantId": "P762.002",
+    "stock": 320,
+    "stockLevel": "in-stock",
+    "price": 48.5,
+    "color": {
+      "name": "anthracite",
+      "hex": "#686663"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "d7f6be87df25e666",
+    "supplierVariantId": "P762.005",
+    "stock": 253,
+    "stockLevel": "in-stock",
+    "price": 48.5,
+    "color": {
+      "name": "navy",
+      "hex": "#003049"
+    },
+    "imageRefs": [
+      2
+    ]
+  }
+]

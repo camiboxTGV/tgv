@@ -1,0 +1,44 @@
+[
+  {
+    "contentKey": "1a74edac60e48a75",
+    "supplierVariantId": "P732.045",
+    "stock": 1066,
+    "stockLevel": "in-stock",
+    "price": 29.13,
+    "color": {
+      "name": "blue",
+      "hex": "#0F2B5B"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "5bece004eb7725ed",
+    "supplierVariantId": "P732.041",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 29.13,
+    "color": {
+      "name": "anthracite",
+      "hex": "#2B2B28"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "b94f684dd9e5900f",
+    "supplierVariantId": "P732.042",
+    "stock": 483,
+    "stockLevel": "in-stock",
+    "price": 24.2,
+    "color": {
+      "name": "grey",
+      "hex": "#AFAAA3"
+    },
+    "imageRefs": [
+      1
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "contentKey": "6c96f46b0314aa99",
+    "supplierVariantId": "P439.0008",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 26.2,
+    "color": {
+      "name": "orange",
+      "hex": "#EAAF0F"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "817eea7001811601",
+    "supplierVariantId": "P439.0033",
+    "stock": 1498,
+    "stockLevel": "in-stock",
+    "price": 26.2,
+    "color": {
+      "name": "turquoise",
+      "hex": "#206779"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "ae15c656db1354ff",
+    "supplierVariantId": "P439.0027",
+    "stock": 582,
+    "stockLevel": "in-stock",
+    "price": 26.2,
+    "color": {
+      "name": "olive green",
+      "hex": "#215B33"
+    },
+    "imageRefs": [
+      1
+    ]
+  }
+]

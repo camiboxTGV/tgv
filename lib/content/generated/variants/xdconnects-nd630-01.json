@@ -1,0 +1,44 @@
+[
+  {
+    "contentKey": "20a55221f97de56d",
+    "supplierVariantId": "ND630.0119",
+    "stock": 8,
+    "stockLevel": "low",
+    "price": 16.49,
+    "color": {
+      "name": "beige",
+      "hex": "#BAAA95"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "26ba6ab18cc28fed",
+    "supplierVariantId": "ND630.0125",
+    "stock": 1162,
+    "stockLevel": "in-stock",
+    "price": 16.49,
+    "color": {
+      "name": "navy",
+      "hex": "#2A3244"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "a983c4f510a7bb1d",
+    "supplierVariantId": "ND630.0101",
+    "stock": 2660,
+    "stockLevel": "in-stock",
+    "price": 16.49,
+    "color": {
+      "name": "black",
+      "hex": "#3D332B"
+    },
+    "imageRefs": [
+      0
+    ]
+  }
+]

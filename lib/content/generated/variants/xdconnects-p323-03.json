@@ -1,0 +1,30 @@
+[
+  {
+    "contentKey": "198a527be5010458",
+    "supplierVariantId": "P323.0303",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 7.84,
+    "color": {
+      "name": "white",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "6b6814f7d7f2f903",
+    "supplierVariantId": "P323.0301",
+    "stock": 348,
+    "stockLevel": "in-stock",
+    "price": 7.84,
+    "color": {
+      "name": "black",
+      "hex": "#3D332B"
+    },
+    "imageRefs": [
+      0
+    ]
+  }
+]

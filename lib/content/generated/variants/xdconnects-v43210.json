@@ -1,0 +1,86 @@
+[
+  {
+    "contentKey": "02d20e16c66edcdd",
+    "supplierVariantId": "V4321001",
+    "stock": 10379,
+    "stockLevel": "in-stock",
+    "price": 14.41,
+    "color": {
+      "name": "black",
+      "hex": "#2D2926"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "4043ec1f60facfd3",
+    "supplierVariantId": "V4321002",
+    "stock": 4900,
+    "stockLevel": "in-stock",
+    "price": 14.41,
+    "color": {
+      "name": "silver",
+      "hex": "#D1CEC6"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "a4e7646c88bc0889",
+    "supplierVariantId": "V4321012",
+    "stock": 1618,
+    "stockLevel": "in-stock",
+    "price": 14.41,
+    "color": {
+      "name": "grey",
+      "hex": "#9D968D"
+    },
+    "imageRefs": [
+      5
+    ]
+  },
+  {
+    "contentKey": "cab6a9ab94e0ac11",
+    "supplierVariantId": "V4321005",
+    "stock": 1800,
+    "stockLevel": "in-stock",
+    "price": 14.41,
+    "color": {
+      "name": "navy",
+      "hex": "#315470"
+    },
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "cb164fb07205121b",
+    "supplierVariantId": "V4321007",
+    "stock": 559,
+    "stockLevel": "in-stock",
+    "price": 14.41,
+    "color": {
+      "name": "green",
+      "hex": "#4E6548"
+    },
+    "imageRefs": [
+      4
+    ]
+  },
+  {
+    "contentKey": "d9382fe7c3dff98e",
+    "supplierVariantId": "V4321003",
+    "stock": 991,
+    "stockLevel": "in-stock",
+    "price": 14.41,
+    "color": {
+      "name": "white",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      2
+    ]
+  }
+]

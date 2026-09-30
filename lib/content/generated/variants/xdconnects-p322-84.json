@@ -1,0 +1,30 @@
+[
+  {
+    "contentKey": "22ab4eccdd3a83ac",
+    "supplierVariantId": "P322.842",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 48.5,
+    "color": {
+      "name": "silver",
+      "hex": "#D1CEC6"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "44ba4e10ebf1c937",
+    "supplierVariantId": "P322.841",
+    "stock": 1544,
+    "stockLevel": "in-stock",
+    "price": 48.5,
+    "color": {
+      "name": "black",
+      "hex": "#3D332B"
+    },
+    "imageRefs": [
+      0
+    ]
+  }
+]

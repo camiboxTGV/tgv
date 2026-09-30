@@ -1,0 +1,512 @@
+[
+  {
+    "contentKey": "0b8df01a33bf2a6d",
+    "supplierVariantId": "T9603.001.L",
+    "stock": 719,
+    "stockLevel": "in-stock",
+    "price": 34.26,
+    "color": {
+      "name": "black",
+      "hex": "#3D332B"
+    },
+    "size": "L",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "0c77a15f90e34e0f",
+    "supplierVariantId": "T9603.002.XS",
+    "stock": 310,
+    "stockLevel": "in-stock",
+    "price": 34.26,
+    "color": {
+      "name": "navy",
+      "hex": "#282D3C"
+    },
+    "size": "XS",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "1861466a9997d097",
+    "supplierVariantId": "T9603.001.XL",
+    "stock": 546,
+    "stockLevel": "in-stock",
+    "price": 34.26,
+    "color": {
+      "name": "black",
+      "hex": "#3D332B"
+    },
+    "size": "XL",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "1a244c5902af578b",
+    "supplierVariantId": "T9603.023.XL",
+    "stock": 482,
+    "stockLevel": "in-stock",
+    "price": 34.26,
+    "color": {
+      "name": "iceberg green",
+      "hex": "#A5B2AA"
+    },
+    "size": "XL",
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "2e218314f9741ec5",
+    "supplierVariantId": "T9603.001.XXS",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 34.26,
+    "color": {
+      "name": "black",
+      "hex": "#3D332B"
+    },
+    "size": "XXS",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "2f0cde19f2309cd2",
+    "supplierVariantId": "T9603.001.M",
+    "stock": 594,
+    "stockLevel": "in-stock",
+    "price": 34.26,
+    "color": {
+      "name": "black",
+      "hex": "#3D332B"
+    },
+    "size": "M",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "3096d1d02713078f",
+    "supplierVariantId": "T9603.001.5XL",
+    "stock": 10,
+    "stockLevel": "in-stock",
+    "price": 34.26,
+    "color": {
+      "name": "black",
+      "hex": "#3D332B"
+    },
+    "size": "5XL",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "48ab9e372c11825c",
+    "supplierVariantId": "T9603.023.XXS",
+    "stock": 54,
+    "stockLevel": "in-stock",
+    "price": 34.26,
+    "color": {
+      "name": "iceberg green",
+      "hex": "#A5B2AA"
+    },
+    "size": "XXS",
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "510461c8e4cb9ae1",
+    "supplierVariantId": "T9603.027.XXL",
+    "stock": 56,
+    "stockLevel": "in-stock",
+    "price": 34.26,
+    "color": {
+      "name": "storm grey",
+      "hex": "#92949B"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "557f4799e225c6dd",
+    "supplierVariantId": "T9603.002.XXS",
+    "stock": 106,
+    "stockLevel": "in-stock",
+    "price": 34.26,
+    "color": {
+      "name": "navy",
+      "hex": "#282D3C"
+    },
+    "size": "XXS",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "57cdfa43ce349bb3",
+    "supplierVariantId": "T9603.002.XXXL",
+    "stock": 188,
+    "stockLevel": "in-stock",
+    "price": 34.26,
+    "color": {
+      "name": "navy",
+      "hex": "#282D3C"
+    },
+    "size": "XXXL",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "5ad4453f77e74b09",
+    "supplierVariantId": "T9603.023.L",
+    "stock": 830,
+    "stockLevel": "in-stock",
+    "price": 34.26,
+    "color": {
+      "name": "iceberg green",
+      "hex": "#A5B2AA"
+    },
+    "size": "L",
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "614aef5591bf811b",
+    "supplierVariantId": "T9603.002.L",
+    "stock": 2167,
+    "stockLevel": "in-stock",
+    "price": 34.26,
+    "color": {
+      "name": "navy",
+      "hex": "#282D3C"
+    },
+    "size": "L",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "6533e91cf0dcff28",
+    "supplierVariantId": "T9603.002.M",
+    "stock": 2204,
+    "stockLevel": "in-stock",
+    "price": 34.26,
+    "color": {
+      "name": "navy",
+      "hex": "#282D3C"
+    },
+    "size": "M",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "703e67d7d1bb22ea",
+    "supplierVariantId": "T9603.027.XXXL",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 34.26,
+    "color": {
+      "name": "storm grey",
+      "hex": "#92949B"
+    },
+    "size": "XXXL",
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "7c8f9405626eb4bf",
+    "supplierVariantId": "T9603.027.XS",
+    "stock": 20,
+    "stockLevel": "in-stock",
+    "price": 34.26,
+    "color": {
+      "name": "storm grey",
+      "hex": "#92949B"
+    },
+    "size": "XS",
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "867371e9c809b00f",
+    "supplierVariantId": "T9603.023.XS",
+    "stock": 83,
+    "stockLevel": "in-stock",
+    "price": 34.26,
+    "color": {
+      "name": "iceberg green",
+      "hex": "#A5B2AA"
+    },
+    "size": "XS",
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "9c66f4689900af74",
+    "supplierVariantId": "T9603.027.S",
+    "stock": 131,
+    "stockLevel": "in-stock",
+    "price": 34.26,
+    "color": {
+      "name": "storm grey",
+      "hex": "#92949B"
+    },
+    "size": "S",
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "b1e5796484961403",
+    "supplierVariantId": "T9603.002.S",
+    "stock": 1168,
+    "stockLevel": "in-stock",
+    "price": 34.26,
+    "color": {
+      "name": "navy",
+      "hex": "#282D3C"
+    },
+    "size": "S",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "b39b1066a29afe59",
+    "supplierVariantId": "T9603.001.4XL",
+    "stock": 6,
+    "stockLevel": "low",
+    "price": 34.26,
+    "color": {
+      "name": "black",
+      "hex": "#3D332B"
+    },
+    "size": "4XL",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "b921cb1e9985ddcd",
+    "supplierVariantId": "T9603.027.M",
+    "stock": 212,
+    "stockLevel": "in-stock",
+    "price": 34.26,
+    "color": {
+      "name": "storm grey",
+      "hex": "#92949B"
+    },
+    "size": "M",
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "c2c87cdc218ed747",
+    "supplierVariantId": "T9603.023.M",
+    "stock": 597,
+    "stockLevel": "in-stock",
+    "price": 34.26,
+    "color": {
+      "name": "iceberg green",
+      "hex": "#A5B2AA"
+    },
+    "size": "M",
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "c41f73c5191f0ae5",
+    "supplierVariantId": "T9603.023.S",
+    "stock": 448,
+    "stockLevel": "in-stock",
+    "price": 34.26,
+    "color": {
+      "name": "iceberg green",
+      "hex": "#A5B2AA"
+    },
+    "size": "S",
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "c8875d7a333cc2dc",
+    "supplierVariantId": "T9603.001.XS",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 34.26,
+    "color": {
+      "name": "black",
+      "hex": "#3D332B"
+    },
+    "size": "XS",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "c8fdb31a5d494a17",
+    "supplierVariantId": "T9603.002.XL",
+    "stock": 1474,
+    "stockLevel": "in-stock",
+    "price": 34.26,
+    "color": {
+      "name": "navy",
+      "hex": "#282D3C"
+    },
+    "size": "XL",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "cb8811117fcbef6f",
+    "supplierVariantId": "T9603.002.XXL",
+    "stock": 679,
+    "stockLevel": "in-stock",
+    "price": 34.26,
+    "color": {
+      "name": "navy",
+      "hex": "#282D3C"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "d8c07cb92ae0b74d",
+    "supplierVariantId": "T9603.001.XXXL",
+    "stock": 95,
+    "stockLevel": "in-stock",
+    "price": 34.26,
+    "color": {
+      "name": "black",
+      "hex": "#3D332B"
+    },
+    "size": "XXXL",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "d91914be014eebce",
+    "supplierVariantId": "T9603.027.XXS",
+    "stock": 13,
+    "stockLevel": "in-stock",
+    "price": 34.26,
+    "color": {
+      "name": "storm grey",
+      "hex": "#92949B"
+    },
+    "size": "XXS",
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "da43c34c7d6a4074",
+    "supplierVariantId": "T9603.023.XXXL",
+    "stock": 75,
+    "stockLevel": "in-stock",
+    "price": 34.26,
+    "color": {
+      "name": "iceberg green",
+      "hex": "#A5B2AA"
+    },
+    "size": "XXXL",
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "df0f91cfadb8bd4a",
+    "supplierVariantId": "T9603.023.XXL",
+    "stock": 119,
+    "stockLevel": "in-stock",
+    "price": 34.26,
+    "color": {
+      "name": "iceberg green",
+      "hex": "#A5B2AA"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "e273ba0bd911cfb1",
+    "supplierVariantId": "T9603.027.XL",
+    "stock": 184,
+    "stockLevel": "in-stock",
+    "price": 34.26,
+    "color": {
+      "name": "storm grey",
+      "hex": "#92949B"
+    },
+    "size": "XL",
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "e4a4c7fde01d4792",
+    "supplierVariantId": "T9603.027.L",
+    "stock": 294,
+    "stockLevel": "in-stock",
+    "price": 34.26,
+    "color": {
+      "name": "storm grey",
+      "hex": "#92949B"
+    },
+    "size": "L",
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "f1083ad15b566012",
+    "supplierVariantId": "T9603.001.S",
+    "stock": 358,
+    "stockLevel": "in-stock",
+    "price": 34.26,
+    "color": {
+      "name": "black",
+      "hex": "#3D332B"
+    },
+    "size": "S",
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "fdc5b8e30b24a04e",
+    "supplierVariantId": "T9603.001.XXL",
+    "stock": 323,
+    "stockLevel": "in-stock",
+    "price": 34.26,
+    "color": {
+      "name": "black",
+      "hex": "#3D332B"
+    },
+    "size": "XXL",
+    "imageRefs": [
+      0
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "contentKey": "33b9546f6547f3d4",
+    "supplierVariantId": "P221.551",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 4.79,
+    "color": {
+      "name": "black",
+      "hex": "#3D332B"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "56e01d5dc2969dc3",
+    "supplierVariantId": "P221.553",
+    "stock": 3344,
+    "stockLevel": "in-stock",
+    "price": 4.79,
+    "color": {
+      "name": "white",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "ea8d5abd6ea92f07",
+    "supplierVariantId": "P221.552",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 4.79,
+    "color": {
+      "name": "grey",
+      "hex": "#A3A2A0"
+    },
+    "imageRefs": [
+      1
+    ]
+  }
+]

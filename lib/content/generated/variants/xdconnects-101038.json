@@ -1,0 +1,30 @@
+[
+  {
+    "contentKey": "910db22444e0e138",
+    "supplierVariantId": "101038-001",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 12.65,
+    "color": {
+      "name": "black",
+      "hex": "#3D332B"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "a21aef8c105cb434",
+    "supplierVariantId": "101038-410",
+    "stock": 158,
+    "stockLevel": "in-stock",
+    "price": 12.65,
+    "color": {
+      "name": "navy",
+      "hex": "#003049"
+    },
+    "imageRefs": [
+      1
+    ]
+  }
+]

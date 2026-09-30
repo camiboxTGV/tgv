@@ -1,0 +1,30 @@
+[
+  {
+    "contentKey": "3bc9ed30d4ba2237",
+    "supplierVariantId": "50951",
+    "stock": 2242,
+    "stockLevel": "in-stock",
+    "price": 6.65,
+    "color": {
+      "name": "white",
+      "hex": "#FFFFFF"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "47881a1166cc68be",
+    "supplierVariantId": "50950",
+    "stock": 6,
+    "stockLevel": "low",
+    "price": 6.65,
+    "color": {
+      "name": "black",
+      "hex": "#3D332B"
+    },
+    "imageRefs": [
+      0
+    ]
+  }
+]

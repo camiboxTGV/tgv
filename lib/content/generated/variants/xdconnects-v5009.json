@@ -1,0 +1,58 @@
+[
+  {
+    "contentKey": "7991a22f9e54cd5d",
+    "supplierVariantId": "500918",
+    "stock": 10,
+    "stockLevel": "in-stock",
+    "price": 32.02,
+    "color": {
+      "name": "green",
+      "hex": "#4F4F47"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "7da84f2b95ffd869",
+    "supplierVariantId": "500919",
+    "stock": 1236,
+    "stockLevel": "in-stock",
+    "price": 32.02,
+    "color": {
+      "name": "black",
+      "hex": "#3D4043"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "7f2db5159764ed4c",
+    "supplierVariantId": "500920",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 32.02,
+    "color": {
+      "name": "greige",
+      "hex": "#AD9F93"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "d7d56a929de29861",
+    "supplierVariantId": "500921",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 32.02,
+    "color": {
+      "name": "navy",
+      "hex": "#444E5A"
+    },
+    "imageRefs": [
+      3
+    ]
+  }
+]

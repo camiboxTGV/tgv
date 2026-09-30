@@ -1,0 +1,58 @@
+[
+  {
+    "contentKey": "2fffe7423bc1b38c",
+    "supplierVariantId": "RBPLB12GFG",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 32.88,
+    "color": {
+      "name": "green",
+      "hex": "#3C4E47"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "9620513a1ba32a35",
+    "supplierVariantId": "RBPLB12B",
+    "stock": 95,
+    "stockLevel": "in-stock",
+    "price": 32.88,
+    "color": {
+      "name": "Bubble gum",
+      "hex": "#F484C4"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "b71f8850795bc2bf",
+    "supplierVariantId": "RBPLB12PG",
+    "stock": 346,
+    "stockLevel": "in-stock",
+    "price": 32.88,
+    "color": {
+      "name": "pink",
+      "hex": "#F7D1CC"
+    },
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "e9a2fa6f03c17e6e",
+    "supplierVariantId": "RBPLB12MM",
+    "stock": 102,
+    "stockLevel": "in-stock",
+    "price": 32.88,
+    "color": {
+      "name": "blue",
+      "hex": "#5E99AA"
+    },
+    "imageRefs": [
+      2
+    ]
+  }
+]

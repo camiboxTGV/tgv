@@ -1,0 +1,30 @@
+[
+  {
+    "contentKey": "1cb3c89c54aaf2a9",
+    "supplierVariantId": "P788.111",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 10.37,
+    "color": {
+      "name": "black",
+      "hex": "#3D332B"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "adb9ba3facfa4ada",
+    "supplierVariantId": "P788.112",
+    "stock": 1146,
+    "stockLevel": "in-stock",
+    "price": 7.98,
+    "color": {
+      "name": "beige",
+      "hex": "#B39F8D"
+    },
+    "imageRefs": [
+      1
+    ]
+  }
+]

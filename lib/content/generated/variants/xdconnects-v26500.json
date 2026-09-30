@@ -1,0 +1,58 @@
+[
+  {
+    "contentKey": "40ac3e11263f9750",
+    "supplierVariantId": "V2650007",
+    "stock": 3,
+    "stockLevel": "low",
+    "price": 9.6,
+    "color": {
+      "name": "green",
+      "hex": "#4F4F47"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "5b2f866266ae27c8",
+    "supplierVariantId": "V2650025",
+    "stock": 1994,
+    "stockLevel": "in-stock",
+    "price": 9.6,
+    "color": {
+      "name": "navy",
+      "hex": "#444E5A"
+    },
+    "imageRefs": [
+      3
+    ]
+  },
+  {
+    "contentKey": "e2f4e8e9a56abf66",
+    "supplierVariantId": "V2650001",
+    "stock": 1240,
+    "stockLevel": "in-stock",
+    "price": 9.6,
+    "color": {
+      "name": "black",
+      "hex": "#3D4043"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "e4e1a376c6247952",
+    "supplierVariantId": "V2650019",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 9.6,
+    "color": {
+      "name": "greige",
+      "hex": "#AD9F93"
+    },
+    "imageRefs": [
+      2
+    ]
+  }
+]

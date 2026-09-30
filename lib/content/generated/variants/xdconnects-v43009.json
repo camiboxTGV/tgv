@@ -1,0 +1,44 @@
+[
+  {
+    "contentKey": "3cef93dfdcf401a5",
+    "supplierVariantId": "V4300901",
+    "stock": 3270,
+    "stockLevel": "in-stock",
+    "price": 11.53,
+    "color": {
+      "name": "black",
+      "hex": "#3D332B"
+    },
+    "imageRefs": [
+      0
+    ]
+  },
+  {
+    "contentKey": "de3d5bff89f13c2b",
+    "supplierVariantId": "V4300907",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 11.53,
+    "color": {
+      "name": "green",
+      "hex": "#585C3B"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "e9a9566ce714d6f2",
+    "supplierVariantId": "V4300925",
+    "stock": 2177,
+    "stockLevel": "in-stock",
+    "price": 11.53,
+    "color": {
+      "name": "navy",
+      "hex": "#003049"
+    },
+    "imageRefs": [
+      2
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "contentKey": "93bdc03effd952de",
+    "supplierVariantId": "60024",
+    "stock": 2654,
+    "stockLevel": "in-stock",
+    "price": 12.49,
+    "color": {
+      "name": "grey",
+      "hex": "#7F7C81"
+    },
+    "imageRefs": [
+      1
+    ]
+  },
+  {
+    "contentKey": "a61485b5df30d9e8",
+    "supplierVariantId": "60026",
+    "stock": 299,
+    "stockLevel": "in-stock",
+    "price": 12.49,
+    "color": {
+      "name": "blue",
+      "hex": "#3E4E5F"
+    },
+    "imageRefs": [
+      2
+    ]
+  },
+  {
+    "contentKey": "a829b57d62e5036a",
+    "supplierVariantId": "60022",
+    "stock": 0,
+    "stockLevel": "out-of-stock",
+    "price": 12.49,
+    "color": {
+      "name": "black",
+      "hex": "#4D4B4F"
+    },
+    "imageRefs": [
+      0
+    ]
+  }
+]

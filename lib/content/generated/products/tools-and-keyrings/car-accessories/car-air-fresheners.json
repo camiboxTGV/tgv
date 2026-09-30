@@ -45,7 +45,7 @@
       "https://www.publicatalogue.com/image/cache/data/details/10031-RO-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10031-RO-02-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:12:54.057Z",
+    "fetchedAt": "2026-09-30T13:40:44.367Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -142,6 +142,7 @@
     "supplierId": "cifra",
     "supplierSku": "10160",
     "supplierVariantIds": [
+      "10160-AZ",
       "10160-BL",
       "10160-CE",
       "10160-NE",
@@ -155,43 +156,51 @@
     "stock": 22560,
     "stockLevel": "in-stock",
     "images": [
+      "https://www.publicatalogue.com/image/cache/data/10160-AZ-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10160-AZ-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10160-AZ-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10160-AZ-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/10160-BL-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10160-BL-01-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10160-BL-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10160-BL-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10160-BL-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10160-BL-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/10160-CE-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10160-CE-02-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10160-CE-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10160-CE-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10160-CE-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10160-CE-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/10160-NE-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10160-NE-03-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10160-NE-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10160-NE-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10160-NE-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/10160-RO-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10160-RO-02-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10160-RO-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10160-RO-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10160-RO-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/10160-RS-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10160-RS-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10160-RS-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10160-RS-01-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10160-RS-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/10160-RY-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10160-RY-03-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10160-RY-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10160-RY-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10160-RY-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/10160-VE-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10160-VE-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10160-VE-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10160-VE-03-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10160-VE-01-500x500.jpg"
+      "https://www.publicatalogue.com/image/cache/data/details/10160-VE-02-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:12:54.057Z",
-    "variantCount": 7,
-    "colorCount": 7,
+    "fetchedAt": "2026-09-30T13:40:44.367Z",
+    "variantCount": 8,
+    "colorCount": 8,
     "sizeCount": 0,
     "colorSwatches": [
       {
         "name": "Black",
         "hex": "#000000"
+      },
+      {
+        "name": "Blue",
+        "hex": "#4169E1"
       },
       {
         "name": "Green",
@@ -243,7 +252,7 @@
         "key": "carton-dimensions",
         "label": "Carton dimensions",
         "labelRo": "Dimensiuni cutie",
-        "value": "40,0 x 15,5 x 30,0 cm"
+        "value": "0,0 x 0,0 x 0,0 cm · 40,0 x 15,5 x 30,0 cm"
       },
       {
         "key": "gross-carton-weight",
@@ -279,7 +288,6 @@
         "value": "GENERAL:416"
       }
     ],
-    "weightGrams": 32,
     "descriptionLong": "Bag hanger with textured PVC finish. Available in a wide variety of colors. Ideal for use at any type of event.With a magnet for a perfect folding. Includes presentation case.",
     "hasVariantDetail": true
   },
@@ -314,7 +322,7 @@
       "https://www.publicatalogue.com/image/cache/data/details/10165-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10165-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:12:54.057Z",
+    "fetchedAt": "2026-09-30T13:40:44.367Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,
@@ -404,7 +412,7 @@
       "https://www.publicatalogue.com/image/cache/data/details/10551-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10551-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:12:54.057Z",
+    "fetchedAt": "2026-09-30T13:40:44.367Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,
@@ -508,20 +516,20 @@
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/10746-AZ-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10746-AZ-04-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10746-AZ-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10746-AZ-04-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10746-AZ-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10746-AZ-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/10746-NE-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/10746-NE-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10746-NE-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10746-NE-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/10746-NE-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/10746-RO-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10746-RO-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10746-RO-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/10746-RO-01-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:12:54.057Z",
+    "fetchedAt": "2026-09-30T13:40:44.367Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -637,13 +645,13 @@
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/11050-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/11050-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/11050-04-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/11050-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11050-05-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/11050-01-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/11050-05-500x500.jpg"
+      "https://www.publicatalogue.com/image/cache/data/details/11050-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11050-02-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-30T09:39:09.518Z",
+    "fetchedAt": "2026-09-30T13:40:44.367Z",
     "variantCount": 1,
     "colorCount": 0,
     "sizeCount": 0,
@@ -740,22 +748,22 @@
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/11109-OR-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/11109-OR-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/11109-OR-03-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/11109-OR-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/11109-OR-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11109-OR-02-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11109-OR-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/11109-PT-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/11109-PT-04-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/11109-PT-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/11109-PT-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/11109-PT-03-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11109-PT-04-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11109-PT-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/11109-RS-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/11109-RS-03-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/11109-RS-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/11109-RS-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/11109-RS-04-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:12:54.057Z",
+    "fetchedAt": "2026-09-30T13:40:44.367Z",
     "variantCount": 3,
     "colorCount": 3,
     "sizeCount": 0,
@@ -855,10 +863,10 @@
     "stockLevel": "in-stock",
     "images": [
       "https://www.publicatalogue.com/image/cache/data/11110-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/11110-02-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/11110-01-500x500.jpg"
+      "https://www.publicatalogue.com/image/cache/data/details/11110-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/11110-02-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:12:54.057Z",
+    "fetchedAt": "2026-09-30T13:40:44.367Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -963,10 +971,10 @@
       "https://www.publicatalogue.com/image/cache/data/details/D-013-FU-02-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/details/D-013-FU-01-500x500.jpg",
       "https://www.publicatalogue.com/image/cache/data/D-013-RO-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/D-013-RO-02-500x500.jpg",
-      "https://www.publicatalogue.com/image/cache/data/details/D-013-RO-01-500x500.jpg"
+      "https://www.publicatalogue.com/image/cache/data/details/D-013-RO-01-500x500.jpg",
+      "https://www.publicatalogue.com/image/cache/data/details/D-013-RO-02-500x500.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:12:54.057Z",
+    "fetchedAt": "2026-09-30T13:40:44.367Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 0,
@@ -1076,7 +1084,7 @@
       "https://macma.ro/products/jpg/M/9026877_1.jpg",
       "https://macma.ro/products/jpg/M/9026877_2.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:13:06.803Z",
+    "fetchedAt": "2026-09-30T13:40:51.758Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1163,7 +1171,7 @@
       "https://macma.ro/products/jpg/M/9089106_1.jpg",
       "https://macma.ro/products/jpg/M/9089106_2.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:13:06.803Z",
+    "fetchedAt": "2026-09-30T13:40:51.758Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1264,7 +1272,7 @@
       "https://macma.ro/products/jpg/M/9099508_1.jpg",
       "https://macma.ro/products/jpg/M/9099508_2.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:13:06.803Z",
+    "fetchedAt": "2026-09-30T13:40:51.758Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1356,7 +1364,7 @@
       "https://macma.ro/products/jpg/M/9265607_9.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/9265607_lifestyle_10.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:13:06.803Z",
+    "fetchedAt": "2026-09-30T13:40:51.758Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1464,7 +1472,7 @@
       "https://macma.ro/products/jpg/M/9288808_4.jpg",
       "https://macma.ro/products/jpg/M/9288808_5.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:13:06.803Z",
+    "fetchedAt": "2026-09-30T13:40:51.758Z",
     "variantCount": 2,
     "colorCount": 2,
     "sizeCount": 1,
@@ -1565,7 +1573,7 @@
       "https://macma.ro/products/jpg/M/lifestyle/9548777_lifestyle_2.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/9548777_lifestyle_3.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:13:06.803Z",
+    "fetchedAt": "2026-09-30T13:40:51.758Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1662,7 +1670,7 @@
       "https://macma.ro/products/jpg/M/9549307_6.jpg",
       "https://macma.ro/products/jpg/M/9549307_7.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:13:06.803Z",
+    "fetchedAt": "2026-09-30T13:40:51.758Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1752,7 +1760,7 @@
       "https://macma.ro/products/jpg/M/9573599_8.jpg",
       "https://macma.ro/products/jpg/M/lifestyle/9573599_lifestyle_1.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:13:06.803Z",
+    "fetchedAt": "2026-09-30T13:40:51.758Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1839,7 +1847,7 @@
       "https://macma.ro/products/jpg/M/9901104_2.jpg",
       "https://macma.ro/products/jpg/M/9901104_1.jpg"
     ],
-    "fetchedAt": "2026-09-30T09:39:12.321Z",
+    "fetchedAt": "2026-09-30T13:40:51.758Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -1932,7 +1940,7 @@
       "https://macma.ro/products/jpg/M/9901266_1.jpg",
       "https://macma.ro/products/jpg/M/9901210_0.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:13:06.803Z",
+    "fetchedAt": "2026-09-30T13:40:51.758Z",
     "variantCount": 4,
     "colorCount": 4,
     "sizeCount": 0,
@@ -2045,7 +2053,7 @@
       "https://cdn1.midocean.com/image/700X700/mo2960-03-print.jpg",
       "https://cdn1.midocean.com/image/700X700/mo2960-03-box.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:12:53.241Z",
+    "fetchedAt": "2026-09-30T13:40:40.586Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
@@ -2158,7 +2166,7 @@
     ],
     "price": 1.73,
     "priceFrom": false,
-    "stock": 11264,
+    "stock": 11144,
     "stockLevel": "in-stock",
     "images": [
       "https://cdn1.midocean.com/image/700X700/mo6206-40.jpg",
@@ -2168,7 +2176,7 @@
       "https://cdn1.midocean.com/image/700X700/mo6206-40-detail.jpg",
       "https://cdn1.midocean.com/image/700X700/mo6206-40-box.jpg"
     ],
-    "fetchedAt": "2026-09-29T15:12:53.241Z",
+    "fetchedAt": "2026-09-30T13:40:40.586Z",
     "variantCount": 1,
     "colorCount": 1,
     "sizeCount": 0,
