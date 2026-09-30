@@ -1,22 +1,17 @@
 name: Probe Makito feed
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - ".github/workflows/probe-makito.yml"
-      - "scripts/probe-makito.ts"
-      - "suppliers/makito/**"
   workflow_dispatch:
 
 permissions:
   contents: read
 
 concurrency:
-  # Makito is disabled in the catalog workflow while this one-shot probe runs.
-  group: makito-contract-probe
+  # Share the catalog queue so this diagnostic can never compete for Makito's
+  # account-wide request bucket with a production sync.
+  group: catalog-data-sync-xdconnects
   cancel-in-progress: false
+  queue: max
 
 jobs:
   probe:

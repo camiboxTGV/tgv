@@ -56,7 +56,7 @@ export const supplierDefinitions = [
   {
     id: "makito",
     displayName: "Makito",
-    enabled: false,
+    enabled: true,
     allowProductsWithoutImages: false,
     imageSources: supplierImageSources.makito,
     loadAdapter: () => import("./makito/adapter.ts"),

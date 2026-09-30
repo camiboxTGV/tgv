@@ -249,8 +249,13 @@ jobs:
 
       - name: Detect changes
         id: diff
+        shell: bash
         run: |
-          git add -A -- lib/content/generated public/catalog/makito
+          set -euo pipefail
+          git add -A -- lib/content/generated
+          if [[ -d public/catalog/makito ]] || git ls-files --error-unmatch public/catalog/makito >/dev/null 2>&1; then
+            git add -A -- public/catalog/makito
+          fi
           if git diff --cached --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
           else

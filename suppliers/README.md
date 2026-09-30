@@ -3,10 +3,9 @@
 Every supplier is isolated by `supplierId` and `supplierSku`. Product slugs, variants, reports,
 and downloaded image paths use that pair, so two suppliers may safely use the same SKU.
 
-The enabled production suppliers are Macma, midocean, XD Connects, Cifra, and Blue Collection.
+The enabled production suppliers are Macma, midocean, XD Connects, Makito, Cifra, and Blue Collection.
 Their API clients, payload types, category and decoration mappings, fixtures, and tests live in
 separate supplier directories; only the shared adapter contract and sync orchestration are common.
-Makito is implemented and registered, but remains disabled behind the activation gates below.
 
 To add a supplier:
 
@@ -41,8 +40,9 @@ The catalog has two intentionally separate refresh modes:
   suspicious partial feeds. If an older catalog has no stable inventory bindings yet, the command
   performs one fail-safe full bootstrap sync.
 - `npm run sync:catalog -- --mode=full --skip-images` fetches the product list, photo URLs, prices and
-  stock, then rebuilds generated catalog data. `--skip-images` skips the optional local binary cache;
-  supplier photo URLs are still refreshed and remain the deployed image source.
+  stock, then rebuilds generated catalog data. `--skip-images` skips the optional local binary cache
+  for public supplier assets. Makito deliberately overrides that flag for one protected product
+  image per product, because its committed static mirror is the deployed image source.
 
 The GitHub Actions workflow runs inventory mode at 03:17 UTC Monday-Saturday and full mode at the
 same time on Sunday. Its global FIFO concurrency queue prevents overlapping writers, avoids
@@ -53,10 +53,10 @@ its configured live branch.
 Before publishing, the workflow validates every enabled supplier's API credentials, generated
 totals, unique supplier SKUs, positive output for every enabled supplier, Macma's exact
 personalization payload, and the F38 S2/DC/DT/DW regression canary. It then runs the test suite and
-a production build. Automated commits are restricted to `lib/content/generated/**`; if the build
-changes any other tracked source, or the target branch advances while the sync is running, the job
-fails instead of publishing data produced from stale code. Each run writes a GitHub step summary
-and retains its sync log and reports for 14 days.
+a production build. Automated commits are restricted to `lib/content/generated/**` and
+`public/catalog/makito/**`; if the build changes any other tracked source, or the target branch
+advances while the sync is running, the job fails instead of publishing data produced from stale
+code. Each run writes a GitHub step summary and retains its sync log and reports for 14 days.
 
 Pushing supplier-adapter or personalization-mapping changes to `main` automatically selects a full
 sync. Wait for its generated-data bot commit and the Firebase rollout of that commit. Manually run
@@ -102,8 +102,9 @@ invented as selectable methods.
 ### Makito
 
 Makito uses `MAKITO_CLIENT_ID` and `MAKITO_CLIENT_SECRET` to obtain a bearer token. Keep local
-values in `.env.local`. Do not add workflow or runtime copies until the activation review below is
-complete.
+values in `.env.local` only for local supplier runs; production values live in GitHub Actions
+secrets and are used only by the serialized catalog workflow. Firebase App Hosting does not need
+either credential.
 
 The client can read Makito's whole-file catalog, stock, price, print-price and print-configuration
 JSON snapshots. Inventory syncs read only the snapshots needed to update existing price and stock
@@ -114,18 +115,17 @@ Makito's request limit is an account-wide token bucket with capacity 100 and a r
 requests per minute. The client throttles one process and retries bounded transient failures, but
 separate App Hosting instances and the GitHub runner cannot share that in-memory state.
 
-Makito catalog assets are authenticated. The same-origin image route contains a hardened,
-allowlisted authenticated fetch path, but it is not production-enabled: a cache miss would share
-the supplier account bucket, and process-local limiting cannot coordinate across instances or
-deployments. Mirror the assets to durable storage before activation, or add a genuinely shared
-limiter and preferably quota-isolated runtime credentials.
+Makito catalog assets are authenticated. Full syncs fetch one protected image per publishable
+product through the same process-local rate limiter, convert it to WebP, and persist it under
+`public/catalog/makito/`. Catalog pages use only those committed same-origin files; runtime image
+requests never contact Makito. The initial mirror is intentionally long-running, while later full
+syncs reuse files whose source URL is unchanged.
 
-Pricing is also activation-gated. Makito's public docs show `amount`, `baseQuantity`, and quantity
-scales but do not define their arithmetic or state whether price-list `material` identifies a
-product or variant. The adapter therefore refuses to publish a guessed price. Validate a live
-snapshot and obtain supplier confirmation, configure an explicit resolver/binding, solve protected
-asset delivery, then enable the registry entry and perform a reviewed dry run. Until then, builds
-and scheduled syncs do not contact Makito.
+The live account contract uses product references as price-list `material` keys. Each single scale
+contains quantity `1`, and its EUR `amount` is divided by `baseQuantity` to obtain the unit price.
+Stock uses a separate 11-digit material id, recovered from the validated product/variant asset
+path and expanded from the product price for inventory updates. Products without a matching price
+are skipped; partial, mixed-scope, duplicate, or conflicting bindings abort publication.
 
 ### Blue Collection
 
