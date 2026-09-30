@@ -154,7 +154,6 @@ function feeds(
         },
       ],
     },
-    printPriceList: { generatedAt: FETCHED_AT, printPriceList: [] },
     fetchedAt: FETCHED_AT,
     ...overrides,
   }

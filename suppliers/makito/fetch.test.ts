@@ -190,12 +190,13 @@ test("Makito full and inventory loaders authenticate once and request exact snap
 
   const full = await loadMakitoCatalogFeeds(api)
   const inventory = await loadMakitoInventoryFeeds(api)
+  const printPrices = await api.getPrintPriceList()
 
   assert.equal(full.catalog.products[0]?.ref, 12345)
   assert.equal(full.stock.stocks[0]?.material, "12345001")
   assert.equal(full.priceList.priceList[0]?.currency, "EUR")
   assert.equal(full.printConfig.products.length, 1)
-  assert.equal(full.printPriceList.printPriceList.length, 1)
+  assert.equal(printPrices.printPriceList.length, 1)
   assert.equal(full.fetchedAt, "2026-09-30T12:00:00.000Z")
   assert.equal(inventory.stock.stocks.length, 1)
   assert.equal(inventory.priceList.priceList.length, 1)
@@ -220,12 +221,11 @@ test("Makito full and inventory loaders authenticate once and request exact snap
     assert.equal(request.url.href.includes(CLIENT_SECRET), false)
   }
 
-  const fullPaths = protectedRequests.slice(0, 5).map(({ url }) => url.pathname).sort()
+  const fullPaths = protectedRequests.slice(0, 4).map(({ url }) => url.pathname).sort()
   assert.deepEqual(fullPaths, [
     "/catalog/files",
     "/price-list/files",
     "/print-config/files",
-    "/print-price-list/files",
     "/stock/files",
   ])
   const catalogUrl = protectedRequests.find(({ url }) => url.pathname === "/catalog/files")?.url

@@ -6,13 +6,16 @@ on:
       - main
     paths:
       - ".github/workflows/probe-makito.yml"
+      - "scripts/probe-makito.ts"
+      - "suppliers/makito/**"
   workflow_dispatch:
 
 permissions:
   contents: read
 
 concurrency:
-  group: catalog-data-sync-xdconnects
+  # Makito is disabled in the catalog workflow while this one-shot probe runs.
+  group: makito-contract-probe
   cancel-in-progress: false
 
 jobs:

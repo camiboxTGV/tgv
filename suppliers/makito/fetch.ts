@@ -605,19 +605,17 @@ export function resetMakitoClientMemoForTests(): void {
 export async function loadMakitoCatalogFeeds(
   client = getMakitoClientFromEnv(),
 ): Promise<MakitoCatalogFeeds> {
-  const [catalog, stock, priceList, printConfig, printPriceList] = await Promise.all([
+  const [catalog, stock, priceList, printConfig] = await Promise.all([
     client.getCatalog(),
     client.getStock(),
     client.getPriceList(),
     client.getPrintConfig(),
-    client.getPrintPriceList(),
   ])
   return {
     catalog,
     stock,
     priceList,
     printConfig,
-    printPriceList,
     fetchedAt: client.fetchedAt(),
   }
 }

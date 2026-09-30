@@ -27,12 +27,11 @@ function distinctLimited(values: Iterable<string>, limit = 25): string[] {
 
 async function main(): Promise<void> {
   const client = createMakitoClientFromEnv()
-  const [catalog, stock, prices, printConfig, printPrices] = await Promise.all([
+  const [catalog, stock, prices, printConfig] = await Promise.all([
     client.getCatalog(),
     client.getStock(),
     client.getPriceList(),
     client.getPrintConfig(),
-    client.getPrintPriceList(),
   ])
 
   const productRefs = new Set(
@@ -88,10 +87,6 @@ async function main(): Promise<void> {
     printConfig: {
       products: printConfig.products.length,
       sampledKeys: keysOf(printConfig.products),
-    },
-    printPrices: {
-      records: printPrices.printPriceList.length,
-      sampledKeys: keysOf(printPrices.printPriceList),
     },
   }
 

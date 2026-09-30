@@ -119,7 +119,6 @@ export interface MakitoCatalogFeeds {
   stock: MakitoStockSnapshot
   priceList: MakitoPriceListSnapshot
   printConfig: MakitoPrintConfigSnapshot
-  printPriceList: MakitoPrintPriceListSnapshot
   fetchedAt: string
 }
 
