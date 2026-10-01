@@ -1,0 +1,5 @@
+env:
+  - variable: SMTP_PASSWORD
+    secret: smtpPassword
+    availability:
+      - RUNTIME

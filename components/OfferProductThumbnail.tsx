@@ -4,6 +4,14 @@ import { useEffect, useState } from "react"
 import Image from "next/image"
 import { isSafeOfferThumbnailUrl } from "@/lib/offer/storage"
 
+function isUnscopedCatalogImage(src: string): boolean {
+  if (!src.startsWith("/api/catalog-image/")) return false
+  const category = new URL(src, "https://local.invalid").searchParams.get(
+    "category",
+  )
+  return !category
+}
+
 export default function OfferProductThumbnail({
   thumbnailUrl,
   slug,
@@ -15,9 +23,11 @@ export default function OfferProductThumbnail({
   category: string
   variantKey?: string
 }>) {
-  const providedSrc = isSafeOfferThumbnailUrl(thumbnailUrl)
-    ? thumbnailUrl
-    : undefined
+  const providedSrc =
+    isSafeOfferThumbnailUrl(thumbnailUrl) &&
+    !isUnscopedCatalogImage(thumbnailUrl)
+      ? thumbnailUrl
+      : undefined
   const sourceKey = [slug, category, variantKey ?? "", providedSrc ?? ""].join("\u0000")
   const [resolved, setResolved] = useState<{ key: string; src: string }>()
   const [failures, setFailures] = useState<{ key: string; sources: string[] }>()

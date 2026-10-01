@@ -12,9 +12,8 @@ import {
 } from "@/lib/content/catalog"
 import { pickCategoryImage } from "@/lib/content/category-images"
 import {
-  allProducts,
   countProductsUnder,
-  getProductBySlug,
+  getProductByCategoryPath,
   getProductsByCategoryPath,
   getProductVariants,
 } from "@/lib/content/catalog.server"
@@ -27,7 +26,11 @@ import {
   splitPath,
   type CategoryNode,
 } from "@/lib/content/categories"
+import { paginateItems } from "@/lib/content/pagination"
 import LocalizedText from "@/components/LocalizedText"
+
+export const dynamic = "force-static"
+export const dynamicParams = true
 
 interface PageProps {
   params: Promise<{ slug: string[] }>
@@ -47,6 +50,7 @@ const VALID_CATEGORY_PATHS = new Set(allCategorySlugPaths())
 interface ResolvedParams {
   kind: "category" | "product" | "missing"
   segments: string[]
+  page?: number
   productSlug?: string
   categorySegments?: string[]
 }
@@ -54,17 +58,45 @@ interface ResolvedParams {
 function resolveSlug(slug: string[]): ResolvedParams {
   const slugPath = slug.join("/")
   if (VALID_CATEGORY_PATHS.has(slugPath)) {
-    return { kind: "category", segments: slug }
+    return { kind: "category", segments: slug, page: 1 }
+  }
+
+  if (slug.at(-2) === "page") {
+    const rawPage = slug.at(-1) ?? ""
+    const page = /^\d+$/.test(rawPage) ? Number(rawPage) : Number.NaN
+    const categorySegments = slug.slice(0, -2)
+    const categoryPath = categorySegments.join("/")
+    const category = getCategoryByPath(categorySegments)
+    if (
+      Number.isSafeInteger(page) &&
+      page > 1 &&
+      rawPage === String(page) &&
+      VALID_CATEGORY_PATHS.has(categoryPath) &&
+      category &&
+      isLeaf(category)
+    ) {
+      return {
+        kind: "category",
+        segments: categorySegments,
+        page,
+      }
+    }
+    return { kind: "missing", segments: slug }
   }
   if (slug.length < 2) return { kind: "missing", segments: slug }
   const parent = slug.slice(0, -1)
   const parentPath = parent.join("/")
-  if (!VALID_CATEGORY_PATHS.has(parentPath)) {
+  const parentCategory = getCategoryByPath(parent)
+  if (
+    !VALID_CATEGORY_PATHS.has(parentPath) ||
+    !parentCategory ||
+    !isLeaf(parentCategory)
+  ) {
     return { kind: "missing", segments: slug }
   }
   const productSlug = slug.at(-1)
   if (!productSlug) return { kind: "missing", segments: slug }
-  const product = getProductBySlug(productSlug)
+  const product = getProductByCategoryPath(productSlug, parent)
   if (!product || product.category !== parentPath) {
     return { kind: "missing", segments: slug }
   }
@@ -77,13 +109,9 @@ function resolveSlug(slug: string[]): ResolvedParams {
 }
 
 export function generateStaticParams() {
-  const categoryParams = allCategorySlugPaths().map((slugPath) => ({
+  return allCategorySlugPaths().map((slugPath) => ({
     slug: splitPath(slugPath),
   }))
-  const productParams = allProducts().map((p) => ({
-    slug: [...splitPath(p.category), p.slug],
-  }))
-  return [...categoryParams, ...productParams]
 }
 
 export async function generateMetadata({
@@ -93,17 +121,20 @@ export async function generateMetadata({
   const resolved = resolveSlug(slug)
 
   if (resolved.kind === "category") {
-    const node = getCategoryByPath(slug)
+    const node = getCategoryByPath(resolved.segments)
     if (!node) return { title: "Catalog — TGV-Media" }
     return {
-      title: `${node.name} — Catalog — TGV-Media`,
+      title: `${node.name}${(resolved.page ?? 1) > 1 ? ` — Page ${resolved.page}` : ""} — Catalog — TGV-Media`,
       description:
         node.description ?? `Browse ${node.name.toLowerCase()} products.`,
     }
   }
 
   if (resolved.kind === "product" && resolved.productSlug) {
-    const product = getProductBySlug(resolved.productSlug)
+    const product = getProductByCategoryPath(
+      resolved.productSlug,
+      resolved.categorySegments ?? [],
+    )
     if (!product) return { title: "Catalog — TGV-Media" }
     const leaf = findNode(splitPath(product.category))
     const description = (product.descriptionLong ?? product.summary).slice(0, 160)
@@ -131,7 +162,10 @@ export default async function CatalogPage({ params }: Readonly<PageProps>) {
   if (resolved.kind === "missing") notFound()
 
   if (resolved.kind === "product" && resolved.productSlug && resolved.categorySegments) {
-    const product = getProductBySlug(resolved.productSlug)
+    const product = getProductByCategoryPath(
+      resolved.productSlug,
+      resolved.categorySegments,
+    )
     if (!product) notFound()
     const variants = product.hasVariantDetail
       ? getProductVariants(product.slug)
@@ -145,10 +179,21 @@ export default async function CatalogPage({ params }: Readonly<PageProps>) {
     )
   }
 
-  return <CategoryView segments={resolved.segments} />
+  return (
+    <CategoryView
+      segments={resolved.segments}
+      requestedPage={resolved.page ?? 1}
+    />
+  )
 }
 
-function CategoryView({ segments }: Readonly<{ segments: string[] }>) {
+function CategoryView({
+  segments,
+  requestedPage,
+}: Readonly<{
+  segments: string[]
+  requestedPage: number
+}>) {
   const node = getCategoryByPath(segments)
   if (!node) notFound()
 
@@ -214,7 +259,7 @@ function CategoryView({ segments }: Readonly<{ segments: string[] }>) {
       </section>
 
       {isLeafNode ? (
-        <LeafProducts slug={segments} />
+        <LeafProducts slug={segments} requestedPage={requestedPage} />
       ) : (
         <SubcategoryGrid
           parentPath={segments}
@@ -373,9 +418,16 @@ function CrumbItem({
   )
 }
 
-function LeafProducts({ slug }: Readonly<{ slug: string[] }>) {
+function LeafProducts({
+  slug,
+  requestedPage,
+}: Readonly<{
+  slug: string[]
+  requestedPage: number
+}>) {
   const products = getProductsByCategoryPath(slug)
   if (products.length === 0) {
+    if (requestedPage > 1) notFound()
     const node = findNode(slug)
     if (node?.contentType === "project") {
       return (
@@ -417,19 +469,84 @@ function LeafProducts({ slug }: Readonly<{ slug: string[] }>) {
       </section>
     )
   }
+  const pagination = paginateItems(products, requestedPage)
+  if (requestedPage > pagination.totalPages) notFound()
+
   return (
     <section className="mx-auto px-6 lg:px-8 py-12 lg:py-16 max-w-6xl">
+      <p className="mb-6 text-sm text-[var(--text-muted)]">
+        <LocalizedText
+          en={`Showing ${pagination.start}–${pagination.end} of ${pagination.totalItems} products`}
+          ro={`Sunt afișate produsele ${pagination.start}–${pagination.end} din ${pagination.totalItems}`}
+        />
+      </p>
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-        {products.map((product, index) => (
+        {pagination.items.map((product, index) => (
           <ProductCard
             key={product.slug}
             product={product}
-            priority={index < 3}
+            priority={index === 0}
           />
         ))}
       </div>
+      {pagination.totalPages > 1 ? (
+        <CatalogPagination
+          slug={slug}
+          page={pagination.page}
+          totalPages={pagination.totalPages}
+        />
+      ) : null}
     </section>
   )
+}
+
+function CatalogPagination({
+  slug,
+  page,
+  totalPages,
+}: Readonly<{
+  slug: string[]
+  page: number
+  totalPages: number
+}>) {
+  return (
+    <nav
+      aria-label="Catalog pages"
+      className="mt-10 flex items-center justify-between gap-4 border-t border-[var(--border-soft)] pt-6"
+    >
+      {page > 1 ? (
+        <Link
+          href={catalogPageHref(slug, page - 1)}
+          className="rounded-xl border border-[var(--border)] bg-[var(--surface)] px-4 py-2.5 text-sm font-semibold text-[var(--brand-black)] transition-colors hover:border-[var(--brand-orange)]"
+        >
+          <LocalizedText en="← Previous" ro="← Înapoi" />
+        </Link>
+      ) : (
+        <span />
+      )}
+      <p className="text-sm text-[var(--text-muted)]">
+        <LocalizedText
+          en={`Page ${page} of ${totalPages}`}
+          ro={`Pagina ${page} din ${totalPages}`}
+        />
+      </p>
+      {page < totalPages ? (
+        <Link
+          href={catalogPageHref(slug, page + 1)}
+          className="rounded-xl bg-[var(--brand-orange)] px-4 py-2.5 text-sm font-semibold text-white transition-opacity hover:opacity-90"
+        >
+          <LocalizedText en="Next →" ro="Înainte →" />
+        </Link>
+      ) : (
+        <span />
+      )}
+    </nav>
+  )
+}
+
+function catalogPageHref(slug: string[], page: number): string {
+  const base = `/catalog/${slug.join("/")}`
+  return page <= 1 ? base : `${base}/page/${page}`
 }
 
 function SubcategoryGrid({
@@ -457,7 +574,7 @@ function SubcategoryGrid({
               category={child}
               href={`/catalog/${childPath.join("/")}`}
               productCount={countProductsUnder(child, parentPath)}
-              priority={index < 3}
+              priority={index === 0}
               representativeImage={representativeImage}
             />
           )

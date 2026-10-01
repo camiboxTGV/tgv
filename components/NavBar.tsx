@@ -123,6 +123,7 @@ export default function NavBar() {
       <div className="flex items-center justify-between gap-4 mx-auto px-6 lg:px-8 py-4 max-w-6xl xl:gap-6">
         <Link
           href="/"
+          prefetch={false}
           className="shrink-0 text-xl font-[family-name:var(--font-outfit)] font-bold tracking-tight text-[var(--brand-black)]"
         >
           TGV<span className="text-[var(--brand-orange)]">•</span>Media
@@ -134,6 +135,7 @@ export default function NavBar() {
               <Link
                 key={link.href}
                 href={link.href}
+                prefetch={false}
                 className={`text-sm font-medium transition-colors ${
                   isActive(link.href)
                     ? "text-[var(--brand-black)]"
@@ -153,6 +155,7 @@ export default function NavBar() {
             {hydrated && count > 0 && (
               <Link
                 href="/offer"
+                prefetch={false}
                 aria-label={
                   locale === "ro"
                     ? `${count} ${count === 1 ? "produs" : "produse"} în oferta ta`
@@ -165,6 +168,7 @@ export default function NavBar() {
             )}
             <Link
               href="/contact"
+              prefetch={false}
               className="inline-flex items-center whitespace-nowrap px-5 py-2.5 text-sm font-semibold text-white bg-[var(--primary)] hover:bg-[var(--primary-hover)] rounded-full transition-colors"
             >
               {locale === "ro" ? "Începe un proiect" : "Start a project"}
@@ -212,6 +216,7 @@ export default function NavBar() {
           <div className="flex items-center justify-between">
             <Link
               href="/"
+              prefetch={false}
               onClick={() => closeMenu()}
               className="text-xl font-[family-name:var(--font-outfit)] font-bold tracking-tight text-[var(--brand-black)]"
             >
@@ -257,6 +262,7 @@ export default function NavBar() {
               <Link
                 key={link.href}
                 href={link.href}
+                prefetch={false}
                 onClick={() => closeMenu()}
                 className={`text-2xl font-[family-name:var(--font-outfit)] font-semibold ${
                   isActive(link.href)
@@ -272,6 +278,7 @@ export default function NavBar() {
           {hydrated && count > 0 && (
             <Link
               href="/offer"
+              prefetch={false}
               onClick={() => closeMenu()}
               className="inline-flex items-center justify-center gap-2 mt-auto mb-3 px-6 py-3 text-sm font-semibold text-[var(--brand-orange)] bg-[var(--surface)] border border-[var(--brand-orange)] rounded-full"
             >
@@ -283,6 +290,7 @@ export default function NavBar() {
           )}
           <Link
             href="/contact"
+            prefetch={false}
             onClick={() => closeMenu()}
             className={`inline-flex items-center justify-center px-6 py-3.5 text-base font-semibold text-white bg-[var(--primary)] hover:bg-[var(--primary-hover)] rounded-full transition-colors ${
               hydrated && count > 0 ? "" : "mt-auto"

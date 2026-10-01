@@ -22,29 +22,47 @@ This repo ships to **Firebase App Hosting**. Pushing to `main` triggers an autom
    - Optional Actions variable `XDCONNECTS_RON_PER_EUR` pins the RON-per-EUR conversion rate;
      otherwise the workflow reads the daily European Central Bank reference rate.
 
-2. **Confirm the Firebase backend** is linked to `main` on this repo.
+2. **Rotate and provision the contact mailbox password.**
+   - Rotate the mailbox credential before deployment; an earlier application fallback exposed the
+     previous value in repository history.
+   - From an authenticated Firebase CLI, run `firebase apphosting:secrets:set smtpPassword` and
+     enter the rotated password when prompted. Accept the prompt to grant the App Hosting backend
+     access, or grant access explicitly if the secret already exists.
+   - The committed `apphosting.yaml` exposes this secret only at runtime as `SMTP_PASSWORD`.
+     Local development must provide `SMTP_PASSWORD` in `.env.local`; the application deliberately
+     refuses to send mail when it is missing or blank.
+   - In Firebase App Hosting settings, remove any stale plain `SMTP_PASSWORD` environment-variable
+     override. Console-managed variables take precedence over `apphosting.yaml` and could otherwise
+     keep the rotated credential from taking effect.
+   - After any future rotation, create a new `smtpPassword` version and trigger a new rollout so
+     the live backend is pinned to the new version.
+
+3. **Confirm the Firebase backend** is linked to `main` on this repo.
    - Firebase console → App Hosting → your backend → Settings → Repository
    - Branch: `main`
    - Auto-deploy: enabled
 
-3. **Run `npm run build` locally before pushing.** If the build fails locally, it will fail on Firebase too.
+4. **Run `npm run build` locally before pushing.** If the build fails locally, it will fail on Firebase too.
 
-4. **Push the supplier implementation.** The path-filtered `Catalog data sync` workflow starts a
+5. **Push the supplier implementation.** The path-filtered `Catalog data sync` workflow starts a
    full sync on `main`. Firebase may first deploy the source commit with the preceding generated
    snapshot; that is expected.
 
-5. **Wait for the generated-data commit.** Confirm the workflow summary and
+6. **Wait for the generated-data commit.** Confirm the workflow summary and
    `lib/content/generated/sync-report.json` show positive fetched and normalized counts for
    every enabled supplier, with no unexpected drops or unreviewed personalization codes. The
    workflow then commits the generated catalog to `main`.
 
-6. **Confirm the following Firebase rollout is green.** This rollout is built from the bot commit
+7. **Confirm the following Firebase rollout is green.** This rollout is built from the bot commit
    and contains the refreshed generated products.
 
 ## What auto-deploys on push
 
 - Every push to `main` → Firebase App Hosting build → deploy.
 - The build reads `lib/content/generated/**` straight from the repo. No supplier API access is needed during build or deploy.
+- `.github/workflows/ci.yml` runs tests, type-checking, and a production build for pull requests
+  and `main` pushes. Require its `Site CI / verify` check in branch protection so failures cannot
+  reach the auto-deploy branch.
 
 ## What the daily GitHub Action does
 
@@ -92,7 +110,7 @@ This repo ships to **Firebase App Hosting**. Pushing to `main` triggers an autom
 | `BLUECOLLECTION_PASSWORD` | GitHub repo secrets | `.github/workflows/sync-catalog.yml` |
 | `MAKITO_CLIENT_ID` | GitHub repo secrets | `.github/workflows/sync-catalog.yml` |
 | `MAKITO_CLIENT_SECRET` | GitHub repo secrets | `.github/workflows/sync-catalog.yml` |
-| (none currently) | Firebase App Hosting | — |
+| `smtpPassword` (`SMTP_PASSWORD`) | Google Cloud Secret Manager via Firebase App Hosting | `apphosting.yaml`, contact notification runtime |
 
 The workflow summary and generated sync report are the source of truth for current per-supplier
 product totals and catalog size.

@@ -47,16 +47,35 @@ function loadLeafProducts(slugPath: string): CatalogProduct[] {
       return {
         ...product,
         images: sourceUrls.map((sourceUrl, index) =>
-          catalogImageProxyPath(product.slug, index, sourceUrl),
+          catalogImageProxyPath(product.slug, index, sourceUrl, slugPath),
         ),
       }
     })
     cachedCategories.set(slugPath, list)
     return list
-  } catch {
-    cachedCategories.set(slugPath, [])
-    return []
+  } catch (error) {
+    if (isMissingFile(error)) {
+      cachedCategories.set(slugPath, [])
+      return []
+    }
+    throw new Error(
+      `Cannot load generated catalog category "${slugPath}": ${errorMessage(error)}`,
+      { cause: error },
+    )
   }
+}
+
+function isMissingFile(error: unknown): boolean {
+  return (
+    typeof error === "object" &&
+    error !== null &&
+    "code" in error &&
+    error.code === "ENOENT"
+  )
+}
+
+function errorMessage(error: unknown): string {
+  return error instanceof Error ? error.message : "unknown error"
 }
 
 function loadAllProducts(): CatalogProduct[] {
@@ -96,6 +115,15 @@ export function getProductBySlug(slug: string): CatalogProduct | undefined {
   return bySlugIndex().get(slug)
 }
 
+export function getProductByCategoryPath(
+  slug: string,
+  categorySegments: string[],
+): CatalogProduct | undefined {
+  return getProductsByCategoryPath(categorySegments).find(
+    (product) => product.slug === slug,
+  )
+}
+
 export interface CatalogImageSource {
   supplierId: string
   sourceUrl: string
@@ -105,8 +133,26 @@ export interface CatalogImageSource {
 export function getCatalogImageSource(
   productSlug: string,
   index: number,
+  categoryPath?: string | null,
 ): CatalogImageSource | undefined {
-  bySlugIndex()
+  if (categoryPath) {
+    const segments = splitPath(categoryPath)
+    const node = findNode(segments)
+    if (
+      !node ||
+      !isLeaf(node) ||
+      joinPath(segments) !== categoryPath ||
+      !loadLeafProducts(categoryPath).some(
+        (product) => product.slug === productSlug,
+      )
+    ) {
+      return undefined
+    }
+  } else {
+    // Compatibility path for offer rows and already-indexed URLs created before
+    // category-scoped image URLs were introduced.
+    bySlugIndex()
+  }
   const cached = cachedImageSources.get(productSlug)
   const sourceUrl = cached?.sourceUrls[index]
   if (!cached || !sourceUrl || !isRemoteCatalogImage(sourceUrl)) return undefined
@@ -141,8 +187,14 @@ export function getProductVariants(slug: string): ProductVariant[] {
     const list = filterCatalogStock(JSON.parse(txt) as ProductVariant[])
     cachedVariants.set(slug, list)
     return list
-  } catch {
-    cachedVariants.set(slug, [])
-    return []
+  } catch (error) {
+    if (isMissingFile(error)) {
+      cachedVariants.set(slug, [])
+      return []
+    }
+    throw new Error(
+      `Cannot load generated variants for "${slug}": ${errorMessage(error)}`,
+      { cause: error },
+    )
   }
 }

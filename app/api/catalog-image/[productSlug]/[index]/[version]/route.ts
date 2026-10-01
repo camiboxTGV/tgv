@@ -13,6 +13,17 @@ export const runtime = "nodejs"
 const MAX_SOURCE_BYTES = 25 * 1024 * 1024
 const FETCH_TIMEOUT_MS = 20_000
 const FETCH_ATTEMPTS = 3
+const MAX_CONCURRENT_IMAGE_JOBS = 4
+
+sharp.cache({ memory: 16, files: 0, items: 32 })
+
+let activeImageJobs = 0
+const imageJobQueue: Array<{
+  grant: () => void
+  reject: (reason: Error) => void
+  signal: AbortSignal
+  onAbort: () => void
+}> = []
 
 interface RouteContext {
   params: Promise<{
@@ -27,7 +38,8 @@ export async function GET(request: Request, context: RouteContext): Promise<Resp
   if (!/^\d+$/.test(rawIndex)) return imageError(404, "invalid image index")
 
   const index = Number(rawIndex)
-  const source = getCatalogImageSource(productSlug, index)
+  const category = new URL(request.url).searchParams.get("category")
+  const source = getCatalogImageSource(productSlug, index, category)
   if (!source || source.version !== version) {
     return imageError(404, "unknown catalog image")
   }
@@ -41,45 +53,92 @@ export async function GET(request: Request, context: RouteContext): Promise<Resp
   }
 
   const controller = new AbortController()
+  const abortForDisconnectedClient = () => controller.abort(request.signal.reason)
+  if (request.signal.aborted) abortForDisconnectedClient()
+  else request.signal.addEventListener("abort", abortForDisconnectedClient, { once: true })
   const timeout = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS)
   try {
-    const upstream = await fetchSupplierImage(
-      source.supplierId,
-      source.sourceUrl,
-      controller.signal,
-    )
-    if (!upstream.ok) {
-      await cancelResponseBody(upstream)
-      return imageError(502, `supplier returned HTTP ${upstream.status}`)
+    const releaseImageJob = await acquireImageJob(controller.signal)
+    try {
+      const upstream = await fetchSupplierImage(
+        source.supplierId,
+        source.sourceUrl,
+        controller.signal,
+      )
+      if (!upstream.ok) {
+        await cancelResponseBody(upstream)
+        return imageError(502, `supplier returned HTTP ${upstream.status}`)
+      }
+
+      const contentType = upstream.headers.get("content-type")?.toLowerCase() ?? ""
+      if (!contentType.startsWith("image/")) {
+        await cancelResponseBody(upstream)
+        return imageError(502, "supplier returned a non-image response")
+      }
+
+      const sourceBytes = await readBoundedImageResponse(upstream, MAX_SOURCE_BYTES)
+
+      const output = await sharp(sourceBytes, {
+        failOn: "error",
+        limitInputPixels: 80_000_000,
+        sequentialRead: true,
+      })
+        .rotate()
+        .resize({ width: 1600, withoutEnlargement: true })
+        .webp({ quality: 82 })
+        .toBuffer()
+
+      const headers = imageHeaders(etag)
+      headers.set("Content-Length", String(output.length))
+      return new Response(new Uint8Array(output), { status: 200, headers })
+    } finally {
+      releaseImageJob()
     }
-
-    const contentType = upstream.headers.get("content-type")?.toLowerCase() ?? ""
-    if (!contentType.startsWith("image/")) {
-      await cancelResponseBody(upstream)
-      return imageError(502, "supplier returned a non-image response")
-    }
-
-    const sourceBytes = await readBoundedImageResponse(upstream, MAX_SOURCE_BYTES)
-
-    const output = await sharp(sourceBytes, {
-      failOn: "error",
-      limitInputPixels: 80_000_000,
-      sequentialRead: true,
-    })
-      .rotate()
-      .resize({ width: 1600, withoutEnlargement: true })
-      .webp({ quality: 82 })
-      .toBuffer()
-
-    const headers = imageHeaders(etag)
-    headers.set("Content-Length", String(output.length))
-    return new Response(new Uint8Array(output), { status: 200, headers })
   } catch (error) {
     const reason = error instanceof Error ? error.message : "unknown error"
     return imageError(502, `catalog image processing failed: ${reason}`)
   } finally {
     clearTimeout(timeout)
+    request.signal.removeEventListener("abort", abortForDisconnectedClient)
   }
+}
+
+function acquireImageJob(signal: AbortSignal): Promise<() => void> {
+  if (signal.aborted) {
+    return Promise.reject(new Error("catalog image request was aborted"))
+  }
+
+  return new Promise((resolve, reject) => {
+    const waiter = {
+      grant: () => {
+        signal.removeEventListener("abort", waiter.onAbort)
+        activeImageJobs += 1
+        let released = false
+        resolve(() => {
+          if (released) return
+          released = true
+          activeImageJobs -= 1
+          imageJobQueue.shift()?.grant()
+        })
+      },
+      reject,
+      signal,
+      onAbort: () => {
+        const index = imageJobQueue.indexOf(waiter)
+        if (index >= 0) imageJobQueue.splice(index, 1)
+        reject(new Error("catalog image request was aborted"))
+      },
+    }
+
+    signal.addEventListener("abort", waiter.onAbort, { once: true })
+    if (signal.aborted) {
+      waiter.onAbort()
+    } else if (activeImageJobs < MAX_CONCURRENT_IMAGE_JOBS) {
+      waiter.grant()
+    } else {
+      imageJobQueue.push(waiter)
+    }
+  })
 }
 
 async function fetchSupplierImage(

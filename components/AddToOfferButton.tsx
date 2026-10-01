@@ -4,15 +4,30 @@ import { useOffer } from "@/components/OfferProvider"
 import type { CatalogProduct, ProductVariant } from "@/lib/content/catalog"
 import { offerThumbnailFor } from "@/lib/offer/thumbnail"
 
+export type AddToOfferProduct = Pick<
+  CatalogProduct,
+  | "slug"
+  | "name"
+  | "category"
+  | "supplierId"
+  | "supplierSku"
+  | "stockLevel"
+  | "price"
+  | "personalizations"
+  | "images"
+>
+
 interface Props {
-  product: CatalogProduct
+  product: AddToOfferProduct
   variant?: ProductVariant | null
+  hasFreshSupplierMethods: boolean
   size?: "sm" | "md"
 }
 
 export default function AddToOfferButton({
   product,
   variant,
+  hasFreshSupplierMethods,
   size = "sm",
 }: Readonly<Props>) {
   const { add, has, hasLine, hydrated } = useOffer()
@@ -21,7 +36,6 @@ export default function AddToOfferButton({
   const outOfStock =
     variant?.stockLevel === "out-of-stock" || product.stockLevel === "out-of-stock"
   const sizeClass = size === "md" ? "py-3 text-base" : "py-2.5 text-sm"
-  const hasFreshSupplierMethods = (product.supplierPersonalizations?.length ?? 0) > 0
   const calculatorMethods =
     product.supplierId === "macma" && !hasFreshSupplierMethods
       ? []

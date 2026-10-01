@@ -4,7 +4,9 @@ import {
   DEADLINE_PRESETS,
   EMAIL_REGEX,
   MAX_CONTEXT_CHARS,
+  MAX_FILE_COUNT,
   MAX_FILE_BYTES,
+  MAX_MULTIPART_BODY_BYTES,
   MAX_TOTAL_UPLOAD_BYTES,
   MIN_CONTEXT_CHARS,
   QUANTITY_BUCKETS,
@@ -12,7 +14,7 @@ import {
   type DeadlinePreset,
   type QuantityBucket,
 } from "@/lib/contact/types"
-import type { OfferItem } from "@/lib/offer/storage"
+import { parseSelectedProducts } from "@/lib/contact/selected-products"
 import {
   renderContactEmail,
   type AttachmentSummary,
@@ -20,6 +22,9 @@ import {
 import { sendContactNotification, type EmailAttachment } from "@/lib/email/smtp"
 
 export const runtime = "nodejs"
+
+const MAX_CONCURRENT_CONTACT_REQUESTS = 2
+let activeContactRequests = 0
 
 function bad(error: string, status = 400) {
   return NextResponse.json({ ok: false, error }, { status })
@@ -35,25 +40,43 @@ function isValidDeadlinePreset(value: unknown): value is DeadlinePreset | null {
   return typeof value === "string" && (DEADLINE_PRESETS as string[]).includes(value)
 }
 
-function parseProducts(raw: FormDataEntryValue | null): OfferItem[] {
-  if (typeof raw !== "string" || raw.length === 0) return []
-  try {
-    const parsed = JSON.parse(raw)
-    if (!Array.isArray(parsed)) return []
-    return parsed.filter(
-      (v): v is OfferItem =>
-        !!v &&
-        typeof v === "object" &&
-        typeof v.slug === "string" &&
-        typeof v.name === "string" &&
-        typeof v.category === "string" &&
-        typeof v.quantity === "number" &&
-        Number.isFinite(v.quantity) &&
-        v.quantity >= 1,
-    )
-  } catch {
-    return []
+class MultipartBodyTooLargeError extends Error {
+  constructor() {
+    super("Multipart request exceeds the upload limit")
+    this.name = "MultipartBodyTooLargeError"
   }
+}
+
+async function parseMultipartFormData(request: Request): Promise<FormData> {
+  if (!request.body) return request.formData()
+  const contentType = request.headers.get("content-type")
+  if (!contentType) throw new TypeError("Missing content type")
+
+  let receivedBytes = 0
+  const reader = request.body.getReader()
+  const limitedBody = new ReadableStream<Uint8Array>({
+    async pull(controller) {
+      const { done, value } = await reader.read()
+      if (done) {
+        controller.close()
+        return
+      }
+      receivedBytes += value.byteLength
+      if (receivedBytes > MAX_MULTIPART_BODY_BYTES) {
+        await reader.cancel()
+        controller.error(new MultipartBodyTooLargeError())
+        return
+      }
+      controller.enqueue(value)
+    },
+    cancel(reason) {
+      return reader.cancel(reason)
+    },
+  })
+
+  return new Response(limitedBody, {
+    headers: { "Content-Type": contentType },
+  }).formData()
 }
 
 function hasAllowedExtension(filename: string): boolean {
@@ -61,11 +84,42 @@ function hasAllowedExtension(filename: string): boolean {
   return ACCEPTED_FILE_EXTENSIONS.some((ext) => lower.endsWith(ext))
 }
 
-export async function POST(request: Request) {
+export async function POST(request: Request): Promise<Response> {
+  if (activeContactRequests >= MAX_CONCURRENT_CONTACT_REQUESTS) {
+    return NextResponse.json(
+      { ok: false, error: "server_busy" },
+      { status: 503, headers: { "Retry-After": "10" } },
+    )
+  }
+
+  activeContactRequests += 1
+  try {
+    return await handleContactRequest(request)
+  } finally {
+    activeContactRequests -= 1
+  }
+}
+
+async function handleContactRequest(request: Request): Promise<Response> {
+  const rawContentLength = request.headers.get("content-length")
+  if (rawContentLength !== null) {
+    if (!/^\d+$/.test(rawContentLength)) return bad("invalid_form")
+    const contentLength = Number(rawContentLength)
+    if (
+      !Number.isSafeInteger(contentLength) ||
+      contentLength > MAX_MULTIPART_BODY_BYTES
+    ) {
+      return bad("upload_total_too_large", 413)
+    }
+  }
+
   let form: FormData
   try {
-    form = await request.formData()
-  } catch {
+    form = await parseMultipartFormData(request)
+  } catch (error) {
+    if (error instanceof MultipartBodyTooLargeError) {
+      return bad("upload_total_too_large", 413)
+    }
     return bad("invalid_form")
   }
 
@@ -84,7 +138,7 @@ export async function POST(request: Request) {
       : null
   const deadlineDate = (form.get("deadlineDate") ?? "").toString().trim()
   const context = (form.get("context") ?? "").toString()
-  const selectedProducts = parseProducts(form.get("selectedProducts"))
+  const selectedProducts = parseSelectedProducts(form.get("selectedProducts"))
 
   if (name.length === 0) return bad("name_required")
   if (!EMAIL_REGEX.test(email)) return bad("email_invalid")
@@ -103,8 +157,10 @@ export async function POST(request: Request) {
   const contextTrimmed = context.trim()
   if (contextTrimmed.length < MIN_CONTEXT_CHARS) return bad("context_too_short")
   if (context.length > MAX_CONTEXT_CHARS) return bad("context_too_long")
+  if (selectedProducts === null) return bad("products_invalid")
 
   const fileEntries = form.getAll("files").filter((v): v is File => v instanceof File)
+  if (fileEntries.length > MAX_FILE_COUNT) return bad("too_many_files")
   let totalBytes = 0
   const attachments: EmailAttachment[] = []
   const summaries: AttachmentSummary[] = []
@@ -138,9 +194,8 @@ export async function POST(request: Request) {
     submittedAt: new Date().toISOString(),
   }
 
-  const rendered = renderContactEmail(payload, summaries)
-
   try {
+    const rendered = renderContactEmail(payload, summaries)
     await sendContactNotification(rendered, attachments, email)
   } catch (err) {
     console.error("[contact] send failed", err instanceof Error ? err.message : err)

@@ -23,3 +23,15 @@ test("local catalog images bypass the proxy", () => {
     "/images/categories/bags.webp",
   )
 })
+
+test("catalog image proxy paths can scope cold lookups to one category", () => {
+  const source = "https://example.com/products/123.jpg"
+  const category = "office-and-writing/writing-instruments/ball-pens"
+  const path = catalogImageProxyPath("example-123", 2, source, category)
+
+  assert.match(
+    path,
+    /^\/api\/catalog-image\/example-123\/2\/[a-f0-9]{20}\?category=/,
+  )
+  assert.equal(new URL(path, "https://example.test").searchParams.get("category"), category)
+})

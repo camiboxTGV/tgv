@@ -1,18 +1,16 @@
-import Fuse, { type FuseResult } from "fuse.js"
 import { allProducts } from "@/lib/content/catalog.server"
 import type { CatalogProduct } from "@/lib/content/catalog"
 import { findNode, splitPath } from "@/lib/content/categories"
 import {
-  FUSE_OPTIONS,
   SEARCH_MAX_QUERY_LENGTH,
   SEARCH_RESULT_LIMIT,
 } from "@/lib/search/fuseConfig"
 import {
-  compareSearchCandidates,
-  normalizeSearchText,
-  searchQueryTokens,
-  searchRelevanceScore,
-} from "@/lib/search/ranking"
+  compareSearchIndexHits,
+  highlightSearchName,
+  SearchIndex,
+  type SearchIndexHit,
+} from "@/lib/search/searchIndex"
 import { compareCatalogSort, type SearchSort } from "@/lib/search/sorting"
 import type { SearchResult } from "@/lib/search/types"
 
@@ -20,14 +18,8 @@ interface IndexedCatalogProduct {
   slug: string
   name: string
   supplierSku: string
-  supplierVariantIds: string[]
   category: string
   categoryLabel: string
-  summary: string
-  brand: string
-  personalizations: CatalogProduct["personalizations"]
-  supplierPersonalizations: string[]
-  searchText: string
   price: number
   priceFrom: boolean
   stockLevel: CatalogProduct["stockLevel"]
@@ -49,8 +41,33 @@ export interface CatalogSearchResults {
   limit: number
 }
 
-let fuseInstance: Fuse<IndexedCatalogProduct> | null = null
+let searchIndexInstance: SearchIndex<IndexedCatalogProduct> | null = null
 const labelCache = new Map<string, string>()
+
+const SEARCHABLE_SPECIFICATION_KEYS = new Set([
+  "bluetooth-version",
+  "canopy-diameter",
+  "charging-power",
+  "eco",
+  "fabric",
+  "fabric-weight",
+  "fit",
+  "gender",
+  "laptop-size",
+  "material",
+  "materials",
+  "notebook-format",
+  "pages",
+  "paper-ruling",
+  "paper-weight",
+  "pen-mechanism",
+  "pen-refill",
+  "play-time",
+  "powerbank-capacity",
+  "recycled-content",
+  "umbrella-mechanism",
+  "waterproof-level",
+])
 
 export function sanitizeSearchQuery(raw: string): string {
   return raw.trim().replace(/\s+/g, " ").slice(0, SEARCH_MAX_QUERY_LENGTH)
@@ -71,54 +88,71 @@ function categoryLabel(path: string): string {
   return label
 }
 
-function getFuse(): Fuse<IndexedCatalogProduct> {
-  if (fuseInstance) return fuseInstance
+function searchableKeywords(product: CatalogProduct): string[] {
+  const supplierPersonalizations = (product.supplierPersonalizations ?? []).flatMap(
+    (method) => [method.code, method.label, method.labelRo ?? ""],
+  )
+  const specifications = (product.specifications ?? [])
+    .filter((specification) => SEARCHABLE_SPECIFICATION_KEYS.has(specification.key))
+    .flatMap((specification) => [
+      specification.key,
+      specification.label,
+      specification.labelRo ?? "",
+      specification.value,
+      specification.valueRo ?? "",
+    ])
 
-  const indexed: IndexedCatalogProduct[] = allProducts().map((product) => {
+  return [
+    product.supplierId,
+    ...product.personalizations,
+    ...supplierPersonalizations,
+    ...(product.colorSwatches ?? []).map((color) => color.name),
+    ...(product.availableSizes ?? []),
+    product.capacity ?? "",
+    ...specifications,
+  ].filter((keyword) => (
+    keyword.length > 0 &&
+    !/^https?:\/\//i.test(keyword) &&
+    !/\bwww\./i.test(keyword) &&
+    !/^[a-f0-9]{24,}$/i.test(keyword)
+  ))
+}
+
+function getSearchIndex(): SearchIndex<IndexedCatalogProduct> {
+  if (searchIndexInstance) return searchIndexInstance
+
+  const sources = allProducts().map((product) => {
     const label = categoryLabel(product.category)
-    const supplierPersonalizations = (product.supplierPersonalizations ?? []).flatMap(
-      (method) => [method.code, method.label, method.labelRo ?? ""],
-    )
     const brand = product.brand ?? ""
     const supplierVariantIds = product.supplierVariantIds ?? []
-    return {
+    const item: IndexedCatalogProduct = {
       slug: product.slug,
       name: product.name,
       supplierSku: product.supplierSku,
-      supplierVariantIds,
       category: product.category,
       categoryLabel: label,
-      summary: product.summary,
-      brand,
-      personalizations: product.personalizations,
-      supplierPersonalizations,
-      searchText: normalizeSearchText(
-        [
-          product.name,
-          product.supplierSku,
-          ...supplierVariantIds,
-          brand,
-          label,
-          product.summary,
-          ...product.personalizations,
-          ...supplierPersonalizations,
-        ].join(" "),
-      ),
       price: product.price,
       priceFrom: product.priceFrom,
       stockLevel: product.stockLevel,
       thumbnail: product.images[0] ?? null,
     }
+    return {
+      item,
+      name: item.name,
+      codes: [item.supplierSku, ...supplierVariantIds],
+      brand,
+      category: item.categoryLabel,
+      summary: product.summary,
+      keywords: searchableKeywords(product),
+      stockLevel: item.stockLevel,
+    }
   })
 
-  fuseInstance = new Fuse(indexed, FUSE_OPTIONS)
-  return fuseInstance
+  searchIndexInstance = new SearchIndex(sources)
+  return searchIndexInstance
 }
 
-function toSearchResult(hit: FuseResult<IndexedCatalogProduct>): SearchResult {
-  const nameMatches = hit.matches
-    ?.filter((match) => match.key === "name")
-    .flatMap((match) => match.indices) ?? []
+function toSearchResult(hit: SearchIndexHit<IndexedCatalogProduct>): SearchResult {
   return {
     slug: hit.item.slug,
     name: hit.item.name,
@@ -129,40 +163,12 @@ function toSearchResult(hit: FuseResult<IndexedCatalogProduct>): SearchResult {
     priceFrom: hit.item.priceFrom,
     stockLevel: hit.item.stockLevel,
     thumbnail: hit.item.thumbnail,
-    matches: nameMatches,
+    matches: highlightSearchName(hit.item.name, hit.nameMatchTokens),
   }
 }
 
-function searchHits(query: string): FuseResult<IndexedCatalogProduct>[] {
-  const fuse = getFuse()
-  const tokens = searchQueryTokens(query)
-  if (tokens.length <= 1) return fuse.search(query)
-
-  const resultsByToken = tokens.map((token) => fuse.search(token))
-  if (resultsByToken.some((hits) => hits.length === 0)) return []
-
-  const ordered = [...resultsByToken].sort((left, right) => left.length - right.length)
-  const lookupTables = ordered.slice(1).map(
-    (hits) => new Map(hits.map((hit) => [hit.refIndex, hit])),
-  )
-
-  return ordered[0].flatMap((firstHit) => {
-    const matchingHits = [
-      firstHit,
-      ...lookupTables.map((lookup) => lookup.get(firstHit.refIndex)),
-    ]
-    if (matchingHits.some((hit) => hit === undefined)) return []
-
-    const completeHits = matchingHits as FuseResult<IndexedCatalogProduct>[]
-    return [{
-      item: firstHit.item,
-      refIndex: firstHit.refIndex,
-      score:
-        completeHits.reduce((sum, hit) => sum + (hit.score ?? 1), 0) /
-        completeHits.length,
-      matches: completeHits.flatMap((hit) => hit.matches ?? []),
-    }]
-  })
+function searchHits(query: string): readonly SearchIndexHit<IndexedCatalogProduct>[] {
+  return getSearchIndex().search(query)
 }
 
 export function searchCatalog(rawQuery: string, options: SearchOptions = {}): CatalogSearchResults {
@@ -175,14 +181,18 @@ export function searchCatalog(rawQuery: string, options: SearchOptions = {}): Ca
     return { results: [], query, total: 0, hasMore: false, offset, limit }
   }
 
-  const hits = searchHits(query).map((hit) => ({
-    ...hit,
-    relevance: searchRelevanceScore(hit.item, query),
-  }))
-  hits.sort((left, right) => (
-    compareCatalogSort(left.item, right.item, sort) ||
-    compareSearchCandidates(left, right, query)
-  ))
+  const hits = [...searchHits(query)]
+  if (sort !== "relevance") {
+    hits.sort((left, right) => (
+      compareCatalogSort(left.item, right.item, sort) ||
+      compareSearchIndexHits(
+        left,
+        right,
+        (item) => item.name,
+        (item) => item.stockLevel,
+      )
+    ))
+  }
 
   const total = hits.length
   const results = hits.slice(offset, offset + limit).map(toSearchResult)

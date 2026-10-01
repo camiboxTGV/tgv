@@ -40,7 +40,7 @@ export default function CategoryCard({
             alt={category.name}
             fill
             loading={priority ? "eager" : "lazy"}
-            sizes="(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw"
+            sizes="(min-width: 1024px) 352px, (min-width: 640px) 45vw, calc(100vw - 48px)"
             className={usesProductImage
               ? "object-contain p-4 transition-transform duration-500 group-hover:scale-[1.04]"
               : "object-cover transition-transform duration-500 group-hover:scale-[1.04]"}

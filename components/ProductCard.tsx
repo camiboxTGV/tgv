@@ -1,6 +1,8 @@
 import Image from "next/image"
 import Link from "next/link"
-import AddToOfferButton from "@/components/AddToOfferButton"
+import AddToOfferButton, {
+  type AddToOfferProduct,
+} from "@/components/AddToOfferButton"
 import PriceScopeNotice from "@/components/pricing/PriceScopeNotice"
 import StockBadge from "@/components/StockBadge"
 import {
@@ -14,30 +16,45 @@ interface Props {
   priority?: boolean
 }
 
+const PRICE_FORMATTER = new Intl.NumberFormat("en-IE", {
+  style: "currency",
+  currency: "EUR",
+  minimumFractionDigits: 2,
+  maximumFractionDigits: 2,
+})
+
+const DATE_FORMATTER = new Intl.DateTimeFormat("en-GB", {
+  day: "2-digit",
+  month: "short",
+  year: "numeric",
+})
+
 function formatPrice(value: number): string {
-  return new Intl.NumberFormat("en-IE", {
-    style: "currency",
-    currency: "EUR",
-    minimumFractionDigits: 2,
-    maximumFractionDigits: 2,
-  }).format(value)
+  return PRICE_FORMATTER.format(value)
 }
 
 function formatAsOfDate(iso: string): string {
   const date = new Date(iso)
   if (Number.isNaN(date.getTime())) return ""
-  return new Intl.DateTimeFormat("en-GB", {
-    day: "2-digit",
-    month: "short",
-    year: "numeric",
-  }).format(date)
+  return DATE_FORMATTER.format(date)
 }
 
 export default function ProductCard({ product, priority = false }: Readonly<Props>) {
-  const firstImage = product.images[0]
+  const firstImage = product.images.find((image) => image.trim().length > 0)
   const asOf = formatAsOfDate(product.fetchedAt)
   const detailHref = `/catalog/${product.category}/${product.slug}`
   const supplierPersonalizations = product.supplierPersonalizations ?? []
+  const offerProduct: AddToOfferProduct = {
+    slug: product.slug,
+    name: product.name,
+    category: product.category,
+    supplierId: product.supplierId,
+    supplierSku: product.supplierSku,
+    stockLevel: product.stockLevel,
+    price: product.price,
+    personalizations: product.personalizations,
+    images: firstImage ? [firstImage] : [],
+  }
 
   return (
     <article
@@ -46,6 +63,7 @@ export default function ProductCard({ product, priority = false }: Readonly<Prop
     >
       <Link
         href={detailHref}
+        prefetch={false}
         className="flex flex-col gap-4 focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--brand-orange)] focus-visible:ring-offset-2 focus-visible:ring-offset-[var(--bg)] rounded-xl"
       >
         <div className="relative overflow-hidden aspect-[4/3] rounded-xl border border-[var(--border-soft)] bg-[var(--surface)]">
@@ -141,7 +159,10 @@ export default function ProductCard({ product, priority = false }: Readonly<Prop
         ) : null}
       </Link>
 
-      <AddToOfferButton product={product} />
+      <AddToOfferButton
+        product={offerProduct}
+        hasFreshSupplierMethods={supplierPersonalizations.length > 0}
+      />
     </article>
   )
 }

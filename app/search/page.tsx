@@ -19,6 +19,13 @@ interface SearchPageProps {
   readonly searchParams: Promise<{ q?: string; page?: string; sort?: string }>
 }
 
+const PRICE_FORMATTER = new Intl.NumberFormat("en-IE", {
+  style: "currency",
+  currency: "EUR",
+  minimumFractionDigits: 2,
+  maximumFractionDigits: 2,
+})
+
 function pageNumber(value: string | undefined): number {
   const parsed = Number(value)
   return Number.isInteger(parsed) && parsed > 0 ? parsed : 1
@@ -32,12 +39,7 @@ function pageHref(query: string, page: number, sort: SearchSort): string {
 }
 
 function formatPrice(value: number): string {
-  return new Intl.NumberFormat("en-IE", {
-    style: "currency",
-    currency: "EUR",
-    minimumFractionDigits: 2,
-    maximumFractionDigits: 2,
-  }).format(value)
+  return PRICE_FORMATTER.format(value)
 }
 
 function ResultCard({ result }: Readonly<{ result: SearchResult }>) {
@@ -47,6 +49,7 @@ function ResultCard({ result }: Readonly<{ result: SearchResult }>) {
     <article className="group flex flex-col overflow-hidden rounded-2xl border border-[var(--border)] bg-[var(--surface)] transition-colors hover:border-[var(--border-strong)]">
       <Link
         href={href}
+        prefetch={false}
         className="flex h-full flex-col focus:outline-none focus-visible:ring-2 focus-visible:ring-inset focus-visible:ring-[var(--brand-orange)]"
       >
         <div className="relative aspect-[4/3] overflow-hidden border-b border-[var(--border-soft)] bg-white">
@@ -105,12 +108,13 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
   const sort = normalizeSearchSort(params.sort)
   const initialSearch = searchCatalog(params.q ?? "", {
     limit: SEARCH_PAGE_SIZE,
+    offset: (requestedPage - 1) * SEARCH_PAGE_SIZE,
     sort,
   })
   const totalPages = Math.max(1, Math.ceil(initialSearch.total / SEARCH_PAGE_SIZE))
   const currentPage = Math.min(requestedPage, totalPages)
   const search =
-    currentPage === 1
+    currentPage === requestedPage
       ? initialSearch
       : searchCatalog(params.q ?? "", {
           limit: SEARCH_PAGE_SIZE,

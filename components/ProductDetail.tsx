@@ -278,6 +278,7 @@ export default function ProductDetail({
               <AddToOfferButton
                 product={product}
                 variant={selectedVariant}
+                hasFreshSupplierMethods={supplierPersonalizations.length > 0}
                 size="md"
               />
             </div>

@@ -60,7 +60,7 @@ export default function CatalogPage() {
               category={category}
               href={`/catalog/${category.slug}`}
               productCount={countProductsUnder(category)}
-              priority={index < 3}
+              priority={index === 0}
             />
           ))}
         </div>

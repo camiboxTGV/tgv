@@ -17,7 +17,11 @@ export function catalogImageProxyPath(
   productSlug: string,
   index: number,
   sourceUrl: string,
+  categoryPath?: string,
 ): string {
   if (!isRemoteCatalogImage(sourceUrl)) return sourceUrl
-  return `/api/catalog-image/${encodeURIComponent(productSlug)}/${index}/${catalogImageVersion(sourceUrl)}`
+  const category = categoryPath
+    ? `?category=${encodeURIComponent(categoryPath)}`
+    : ""
+  return `/api/catalog-image/${encodeURIComponent(productSlug)}/${index}/${catalogImageVersion(sourceUrl)}${category}`
 }

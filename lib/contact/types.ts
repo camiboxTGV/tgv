@@ -18,8 +18,12 @@ export const DEADLINE_PRESET_LABELS: Record<DeadlinePreset, string> = {
   flexible: "Flexible",
 }
 
-export const MAX_FILE_BYTES = 25 * 1024 * 1024
-export const MAX_TOTAL_UPLOAD_BYTES = 35 * 1024 * 1024
+// Keep multipart requests below Cloud Run's ingress ceiling and leave room for
+// MIME/base64 expansion when Nodemailer forwards the artwork.
+export const MAX_FILE_BYTES = 18 * 1024 * 1024
+export const MAX_TOTAL_UPLOAD_BYTES = 20 * 1024 * 1024
+export const MAX_FILE_COUNT = 5
+export const MAX_MULTIPART_BODY_BYTES = 21 * 1024 * 1024
 
 export const ACCEPTED_FILE_EXTENSIONS = [
   ".ai",

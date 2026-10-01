@@ -6,6 +6,8 @@ interface Props {
   files: File[]
   onChange: (files: File[]) => void
   maxBytes: number
+  maxTotalBytes: number
+  maxFiles: number
   accept: string
   hint?: string
 }
@@ -17,6 +19,8 @@ export default function FileDropZone({
   files,
   onChange,
   maxBytes,
+  maxTotalBytes,
+  maxFiles,
   accept,
   hint,
 }: Props) {
@@ -39,7 +43,18 @@ export default function FileDropZone({
     setError(null)
     const existingKeys = new Set(files.map(fileKey))
     const fresh = arr.filter((f) => !existingKeys.has(fileKey(f)))
-    onChange([...files, ...fresh])
+    const next = [...files, ...fresh]
+    if (next.length > maxFiles) {
+      setError(`You can attach up to ${maxFiles} files.`)
+      return
+    }
+    const nextTotalBytes = next.reduce((sum, file) => sum + file.size, 0)
+    if (nextTotalBytes > maxTotalBytes) {
+      setError(`Total attachments can be up to ${formatBytes(maxTotalBytes)}.`)
+      return
+    }
+    setError(null)
+    onChange(next)
   }
 
   const removeAt = (idx: number) => {
@@ -107,7 +122,7 @@ export default function FileDropZone({
           {hint ?? ACCEPTED_HELPER}
         </span>
         <span className="text-xs text-[var(--text-muted)]">
-          Max {formatBytes(maxBytes)} per file
+          Max {formatBytes(maxBytes)} per file · {formatBytes(maxTotalBytes)} total · {maxFiles} files
         </span>
         <input
           id={inputId}

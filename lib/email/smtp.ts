@@ -14,23 +14,67 @@ export interface RenderedEmail {
 
 let cachedTransporter: Transporter | null = null
 
-// TODO: move SMTP_PASSWORD to Firebase App Hosting secret (Google Secret Manager)
-// referenced from apphosting.yaml. Hard-coded here temporarily to unblock the
-// first deploy. Rotate the mailbox password after the secret is wired up.
-const SMTP_PASSWORD_FALLBACK = "T77#GV00gen!"
+const SMTP_CONNECTION_TIMEOUT_MS = 15_000
+const SMTP_GREETING_TIMEOUT_MS = 15_000
+const SMTP_SOCKET_TIMEOUT_MS = 60_000
+
+export interface SmtpConfig {
+  host: string
+  port: number
+  secure: boolean
+  user: string
+  pass: string
+  connectionTimeout: number
+  greetingTimeout: number
+  socketTimeout: number
+}
+
+type SmtpEnvironment = Readonly<Record<string, string | undefined>>
+
+export function resolveSmtpConfig(env: SmtpEnvironment): SmtpConfig {
+  const rawPort = (env.SMTP_PORT ?? "465").trim()
+  if (!/^\d+$/.test(rawPort)) {
+    throw new Error("SMTP_PORT must be an integer between 1 and 65535")
+  }
+
+  const port = Number(rawPort)
+  if (!Number.isSafeInteger(port) || port < 1 || port > 65_535) {
+    throw new Error("SMTP_PORT must be an integer between 1 and 65535")
+  }
+
+  const rawSecure = (env.SMTP_SECURE ?? "true").trim().toLowerCase()
+  if (rawSecure !== "true" && rawSecure !== "false") {
+    throw new Error('SMTP_SECURE must be either "true" or "false"')
+  }
+
+  const pass = env.SMTP_PASSWORD
+  if (pass === undefined || pass.trim().length === 0) {
+    throw new Error("SMTP_PASSWORD is required")
+  }
+
+  return {
+    host: env.SMTP_HOST ?? "mail.tgv-media.ro",
+    port,
+    secure: rawSecure === "true",
+    user: env.SMTP_USER ?? "tgv@tgv-media.ro",
+    pass,
+    connectionTimeout: SMTP_CONNECTION_TIMEOUT_MS,
+    greetingTimeout: SMTP_GREETING_TIMEOUT_MS,
+    socketTimeout: SMTP_SOCKET_TIMEOUT_MS,
+  }
+}
 
 function getTransporter(): Transporter {
   if (cachedTransporter) return cachedTransporter
-  const host = process.env.SMTP_HOST ?? "mail.tgv-media.ro"
-  const port = Number.parseInt(process.env.SMTP_PORT ?? "465", 10)
-  const secure = (process.env.SMTP_SECURE ?? "true").toLowerCase() !== "false"
-  const user = process.env.SMTP_USER ?? "tgv@tgv-media.ro"
-  const pass = process.env.SMTP_PASSWORD ?? SMTP_PASSWORD_FALLBACK
+  const config = resolveSmtpConfig(process.env)
   cachedTransporter = nodemailer.createTransport({
-    host,
-    port,
-    secure,
-    auth: { user, pass },
+    host: config.host,
+    port: config.port,
+    secure: config.secure,
+    auth: { user: config.user, pass: config.pass },
+    connectionTimeout: config.connectionTimeout,
+    greetingTimeout: config.greetingTimeout,
+    socketTimeout: config.socketTimeout,
   })
   return cachedTransporter
 }

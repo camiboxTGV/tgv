@@ -13,7 +13,9 @@ import {
   ACCEPT_FILES_ATTR,
   EMAIL_REGEX,
   MAX_CONTEXT_CHARS,
+  MAX_FILE_COUNT,
   MAX_FILE_BYTES,
+  MAX_TOTAL_UPLOAD_BYTES,
   MIN_CONTEXT_CHARS,
   type DeadlinePreset,
   type QuantityBucket,
@@ -71,11 +73,17 @@ function todayIso(): string {
 function errorMessage(code: string): string {
   switch (code) {
     case "file_too_large":
-      return "One of your files exceeds the 25 MB limit."
+      return "One of your files exceeds the 18 MB limit."
     case "file_type_not_allowed":
       return "One of your files has an unsupported format."
     case "upload_total_too_large":
       return "Total attachments exceed the upload limit. Please split into fewer files."
+    case "too_many_files":
+      return "You can attach up to 5 files."
+    case "products_invalid":
+      return "The selected product list is invalid. Refresh the page and try again."
+    case "server_busy":
+      return "The contact service is busy. Please wait a moment and try again."
     case "network":
       return "We couldn't reach the server. Check your connection and try again."
     case "send_failed":
@@ -375,6 +383,8 @@ export default function ContactForm() {
           files={state.files}
           onChange={(files) => update("files", files)}
           maxBytes={MAX_FILE_BYTES}
+          maxTotalBytes={MAX_TOTAL_UPLOAD_BYTES}
+          maxFiles={MAX_FILE_COUNT}
           accept={ACCEPT_FILES_ATTR}
         />
       </FieldGroup>

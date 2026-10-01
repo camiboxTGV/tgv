@@ -29,8 +29,12 @@ export default function LanguageProvider({
   const [locale, setLocaleState] = useState<Locale>(DEFAULT_LOCALE)
 
   useEffect(() => {
-    const stored = window.localStorage.getItem(LOCALE_STORAGE_KEY)
-    if (isLocale(stored)) setLocaleState(stored)
+    try {
+      const stored = window.localStorage.getItem(LOCALE_STORAGE_KEY)
+      if (isLocale(stored)) setLocaleState(stored)
+    } catch {
+      // Storage can be blocked by browser privacy settings; English remains usable.
+    }
   }, [])
 
   useEffect(() => {
@@ -40,7 +44,11 @@ export default function LanguageProvider({
 
   const setLocale = useCallback((nextLocale: Locale) => {
     setLocaleState(nextLocale)
-    window.localStorage.setItem(LOCALE_STORAGE_KEY, nextLocale)
+    try {
+      window.localStorage.setItem(LOCALE_STORAGE_KEY, nextLocale)
+    } catch {
+      // Keep the in-memory selection even when persistent storage is unavailable.
+    }
   }, [])
 
   const value = useMemo(() => ({ locale, setLocale }), [locale, setLocale])

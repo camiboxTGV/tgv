@@ -100,8 +100,8 @@ export default function HomeProjectCarousel({ items }: Readonly<Props>) {
                   src={item.image}
                   alt={localized.imageAlt}
                   fill
-                  priority={index < 3}
-                  sizes="(max-width: 640px) 82vw, (max-width: 1024px) 48vw, 31vw"
+                  priority={index === 0}
+                  sizes="(max-width: 640px) 82vw, (max-width: 1024px) 48vw, 352px"
                   className="object-cover transition-transform duration-700 hover:scale-[1.025]"
                 />
               </div>
