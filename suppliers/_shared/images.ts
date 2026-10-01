@@ -202,7 +202,11 @@ async function fetchAsBuffer(
       throw new Error(`HTTP ${response.status}`)
     }
     const contentType = response.headers.get("content-type")?.toLowerCase()
-    if (contentType && !contentType.startsWith("image/")) {
+    const authenticatedBinaryImage =
+      fetchImage !== undefined &&
+      contentType !== undefined &&
+      /^application\/octet-stream(?:\s*;|$)/i.test(contentType)
+    if (contentType && !contentType.startsWith("image/") && !authenticatedBinaryImage) {
       await cancelResponseBody(response)
       throw new Error(`unexpected content type ${contentType}`)
     }

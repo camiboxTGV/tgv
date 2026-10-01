@@ -137,6 +137,17 @@ jobs:
             exit 1
           fi
 
+      - name: Verify Makito production contract
+        if: steps.mode.outputs.mode == 'full'
+        env:
+          MAKITO_CLIENT_ID: ${{ secrets.MAKITO_CLIENT_ID }}
+          MAKITO_CLIENT_SECRET: ${{ secrets.MAKITO_CLIENT_SECRET }}
+        run: |
+          node --experimental-strip-types scripts/probe-makito.ts
+          # Replenish the five account-bucket tokens consumed by the probe
+          # before the full sync starts with a fresh process-local limiter.
+          sleep 15
+
       - name: Enforce XD Connects download interval
         shell: bash
         env:

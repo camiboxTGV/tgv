@@ -1,5 +1,9 @@
 import { createMakitoClientFromEnv } from "../suppliers/makito/fetch.ts"
 import {
+  cancelResponseBody,
+  readBoundedImageResponse,
+} from "../suppliers/_shared/image-response.ts"
+import {
   adapter as makitoAdapter,
   buildMakitoInventorySnapshot,
   buildMakitoProducts,
@@ -82,6 +86,7 @@ async function main(): Promise<void> {
     priceList: prices,
     fetchedAt,
   })
+  await verifyImageDelivery(products[0]?.images[0], client)
 
   const productRefs = new Set(
     catalog.products.map((product) => identifier(product.ref)).filter(isString),
@@ -172,6 +177,7 @@ async function main(): Promise<void> {
         stockBindings: inventory.stock.size,
       },
       imageCandidates: products.reduce((count, product) => count + product.images.length, 0),
+      imagePreflight: "passed",
     },
     schema: {
       catalog: {
@@ -244,6 +250,32 @@ async function main(): Promise<void> {
   }
 
   console.log(JSON.stringify(summary, null, 2))
+}
+
+async function verifyImageDelivery(
+  sourceUrl: string | undefined,
+  client: ReturnType<typeof createMakitoClientFromEnv>,
+): Promise<void> {
+  if (!sourceUrl) throw new Error("Makito image preflight has no candidate")
+  const response = await client.fetchAsset(sourceUrl)
+  const contentType = response.headers.get("content-type")?.toLowerCase()
+  if (
+    contentType &&
+    !contentType.startsWith("image/") &&
+    !/^application\/octet-stream(?:\s*;|$)/i.test(contentType)
+  ) {
+    await cancelResponseBody(response)
+    throw new Error("Makito image preflight returned an unsupported media type")
+  }
+  const bytes = await readBoundedImageResponse(response, 25 * 1024 * 1024)
+  const { default: sharp } = await import("sharp")
+  const converted = await sharp(bytes, { limitInputPixels: 40_000_000 })
+    .resize({ width: 1200, withoutEnlargement: true })
+    .webp({ quality: 82 })
+    .toBuffer()
+  if (converted.byteLength === 0) {
+    throw new Error("Makito image preflight produced an empty image")
+  }
 }
 
 function isString(value: string | null): value is string {

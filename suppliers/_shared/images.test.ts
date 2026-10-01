@@ -362,6 +362,52 @@ test("image processing preserves resize and WebP conversion while rejecting over
   })
 })
 
+test("authenticated mirrors accept generic binary media only when Sharp decodes an image", async () => {
+  await withTempRepo(async (repoRoot) => {
+    const manifest: ImageManifest = { entries: {} }
+    const valid = await downloadProductImages({
+      repoRoot,
+      supplierId: "makito",
+      supplierSku: "BINARY-IMAGE",
+      sourceUrls: ["https://apis.makito.es/catalog/assets/binary-image"],
+      manifest,
+      fetchImage: async () =>
+        new Response(TINY_PNG, {
+          headers: { "content-type": "application/octet-stream" },
+        }),
+    })
+    assert.equal(valid.downloaded, 1)
+    assert.equal(
+      (await readFile(join(repoRoot, "public/catalog/makito/BINARY-IMAGE/00.webp")))
+        .byteLength > 0,
+      true,
+    )
+
+    const originalConsoleError = console.error
+    console.error = () => {}
+    try {
+      const invalid = await downloadProductImages({
+        repoRoot,
+        supplierId: "makito",
+        supplierSku: "BINARY-NOT-IMAGE",
+        sourceUrls: ["https://apis.makito.es/catalog/assets/binary-not-image"],
+        manifest,
+        fetchImage: async () =>
+          new Response(Buffer.from("not an image"), {
+            headers: { "content-type": "application/octet-stream" },
+          }),
+      })
+      assert.equal(invalid.failed, 1)
+      assert.equal(
+        Object.keys(manifest.entries).some((key) => key.includes("BINARY-NOT-IMAGE")),
+        false,
+      )
+    } finally {
+      console.error = originalConsoleError
+    }
+  })
+})
+
 test("authenticated mirror responses are streamed through the byte limit and cancelled", async () => {
   await withTempRepo(async (repoRoot) => {
     let cancellations = 0
