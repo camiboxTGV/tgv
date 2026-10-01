@@ -9,6 +9,7 @@ import {
   useState,
 } from "react"
 import {
+  isSafeOfferThumbnailUrl,
   lineKey,
   type OfferItem,
   readOffer,
@@ -25,6 +26,7 @@ export interface AddToOfferInput {
   variantKey?: string
   colorName?: string
   sizeLabel?: string
+  thumbnailUrl?: string
   priceSnapshot?: number
   personalizations?: Personalization[]
 }
@@ -120,6 +122,9 @@ export default function OfferProvider({
           variantKey: input.variantKey,
           colorName: input.colorName,
           sizeLabel: input.sizeLabel,
+          thumbnailUrl: isSafeOfferThumbnailUrl(input.thumbnailUrl)
+            ? input.thumbnailUrl
+            : undefined,
           priceSnapshot: input.priceSnapshot,
           personalizations: input.personalizations,
         },

@@ -3,6 +3,7 @@ import Link from "next/link"
 import { categories } from "@/lib/content/catalog"
 import { services } from "@/lib/content/services"
 import LocalizedText from "@/components/LocalizedText"
+import TeamPhotoGrid from "@/components/TeamPhotoGrid"
 
 export const metadata: Metadata = {
   title: "About — TGV-Media",
@@ -382,7 +383,6 @@ function Process() {
 interface TeamRole {
   role: string
   body: string
-  accent: string
 }
 
 function Team() {
@@ -390,32 +390,26 @@ function Team() {
     {
       role: "Production lead",
       body: "Owns the floor — sequencing, deadlines and the final proof sign-off before dispatch.",
-      accent: "linear-gradient(135deg, #FF6600 0%, #0F0F10 100%)",
     },
     {
       role: "Senior decorator",
       body: "Runs the laser and UV stations. Calibrates per substrate, per artwork, per run.",
-      accent: "linear-gradient(135deg, #0F0F10 0%, #4D4D4D 100%)",
     },
     {
       role: "Artwork & proofing",
       body: "Receives client files, vectorises, colour-matches and prepares production-ready artwork.",
-      accent: "linear-gradient(135deg, #4D4D4D 0%, #FF6600 100%)",
     },
     {
       role: "Finishing specialist",
       body: "Handles foil, emboss and lamination — the tactile finishes that signal premium in hand.",
-      accent: "linear-gradient(135deg, #FF6600 0%, #4D4D4D 60%, #0F0F10 100%)",
     },
     {
       role: "Custom fabrication",
       body: "Engineers and builds bespoke pieces from raw stock — displays, awards, packaging prototypes.",
-      accent: "linear-gradient(135deg, #0F0F10 0%, #FF6600 100%)",
     },
     {
       role: "Account & briefing",
       body: "Your single point of contact from first brief to dispatch — translates campaign into production.",
-      accent: "linear-gradient(135deg, #4D4D4D 0%, #0F0F10 100%)",
     },
   ]
 
@@ -425,25 +419,24 @@ function Team() {
         <LocalizedText en="The team" ro="Echipa" />
       </p>
       <h2 className="mt-3 max-w-3xl text-3xl sm:text-4xl lg:text-5xl font-[family-name:var(--font-outfit)] font-semibold text-[var(--brand-black)]">
-        <LocalizedText en="The roles behind every job." ro="Rolurile din spatele fiecărui proiect." />
+        <LocalizedText en="The people and roles behind every job." ro="Oamenii și rolurile din spatele fiecărui proiect." />
       </h2>
       <p className="mt-4 max-w-2xl text-base lg:text-lg text-[var(--text-soft)] leading-relaxed">
         <LocalizedText en="A small, specialised team — every brief touches each of these hands." ro="O echipă restrânsă și specializată — fiecare brief trece prin mâinile noastre." />
       </p>
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-10">
+      <div className="mt-10">
+        <TeamPhotoGrid />
+      </div>
+      <p className="mt-12 text-xs font-semibold uppercase tracking-widest text-[var(--text-muted)]">
+        <LocalizedText en="How we work together" ro="Cum lucrăm împreună" />
+      </p>
+      <div className="mt-4 grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3">
         {team.map((t) => (
           <article
             key={t.role}
-            className="flex flex-col gap-3 p-4 bg-[var(--surface)] border border-[var(--border)] rounded-2xl"
+            className="flex flex-col gap-3 rounded-2xl border border-[var(--border)] bg-[var(--surface)] p-6"
           >
-            <div className="relative overflow-hidden aspect-square rounded-xl">
-              {/* Inline style: data-driven gradient avatar from TeamRole.accent — pattern reused from CategoryCard/ProductCard */}
-              <div
-                aria-hidden="true"
-                className="absolute inset-0"
-                style={{ background: t.accent }}
-              />
-            </div>
+            <span aria-hidden="true" className="h-1 w-10 rounded-full bg-[var(--brand-orange)]" />
             <h3 className="text-base font-[family-name:var(--font-outfit)] font-semibold text-[var(--brand-black)]">
               {t.role}
             </h3>

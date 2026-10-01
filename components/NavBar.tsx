@@ -1,6 +1,6 @@
 "use client"
 
-import { useEffect, useState } from "react"
+import { useEffect, useRef, useState } from "react"
 import Link from "next/link"
 import { usePathname } from "next/navigation"
 import { useOffer } from "@/components/OfferProvider"
@@ -26,6 +26,15 @@ export default function NavBar() {
   const { count, hydrated } = useOffer()
   const [scrolled, setScrolled] = useState(false)
   const [open, setOpen] = useState(false)
+  const menuButtonRef = useRef<HTMLButtonElement>(null)
+  const menuRef = useRef<HTMLDivElement>(null)
+
+  const closeMenu = (restoreFocus = false) => {
+    setOpen(false)
+    if (restoreFocus) {
+      window.requestAnimationFrame(() => menuButtonRef.current?.focus())
+    }
+  }
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 8)
@@ -44,27 +53,83 @@ export default function NavBar() {
     }
   }, [open])
 
+  useEffect(() => {
+    if (!open) return
+
+    const desktop = window.matchMedia("(min-width: 1024px)")
+    const onKeyDown = (event: KeyboardEvent) => {
+      if (event.key === "Escape") {
+        closeMenu(true)
+        return
+      }
+      if (event.key !== "Tab") return
+
+      const focusable = Array.from(
+        menuRef.current?.querySelectorAll<HTMLElement>(
+          'a[href], button:not([disabled]), input:not([disabled]), select:not([disabled]), textarea:not([disabled]), [tabindex]:not([tabindex="-1"])',
+        ) ?? [],
+      ).filter((element) => element.getClientRects().length > 0)
+      if (focusable.length === 0) {
+        event.preventDefault()
+        return
+      }
+
+      const first = focusable[0]
+      const last = focusable[focusable.length - 1]
+      if (event.shiftKey && document.activeElement === first) {
+        event.preventDefault()
+        last.focus()
+      } else if (!event.shiftKey && document.activeElement === last) {
+        event.preventDefault()
+        first.focus()
+      }
+    }
+    const onDesktop = (event: MediaQueryListEvent) => {
+      if (event.matches) setOpen(false)
+    }
+
+    window.addEventListener("keydown", onKeyDown)
+    desktop.addEventListener("change", onDesktop)
+
+    const dialog = menuRef.current
+    const inerted = dialog
+      ? Array.from(document.body.children).filter(
+          (element) => element !== dialog && !element.hasAttribute("inert"),
+        )
+      : []
+    inerted.forEach((element) => element.setAttribute("inert", ""))
+
+    return () => {
+      window.removeEventListener("keydown", onKeyDown)
+      desktop.removeEventListener("change", onDesktop)
+      inerted.forEach((element) => element.removeAttribute("inert"))
+    }
+  }, [open])
+
   const isActive = (href: string) =>
     pathname === href || (href !== "/" && pathname?.startsWith(href))
 
+  const countLabel = count > 99 ? "99+" : String(count)
+
   return (
-    <header
-      className={`sticky top-0 z-50 w-full transition-colors ${
-        scrolled
-          ? "bg-[var(--surface)]/90 backdrop-blur border-b border-[var(--border-soft)]"
-          : "bg-transparent"
-      }`}
-    >
-      <div className="flex items-center justify-between gap-6 mx-auto px-6 lg:px-8 py-4 max-w-6xl">
+    <>
+      <header
+        className={`sticky top-0 z-50 w-full transition-colors ${
+          scrolled
+            ? "bg-[var(--surface)]/90 backdrop-blur border-b border-[var(--border-soft)]"
+            : "bg-transparent"
+        }`}
+      >
+      <div className="flex items-center justify-between gap-4 mx-auto px-6 lg:px-8 py-4 max-w-6xl xl:gap-6">
         <Link
           href="/"
-          className="text-xl font-[family-name:var(--font-outfit)] font-bold tracking-tight text-[var(--brand-black)]"
+          className="shrink-0 text-xl font-[family-name:var(--font-outfit)] font-bold tracking-tight text-[var(--brand-black)]"
         >
           TGV<span className="text-[var(--brand-orange)]">•</span>Media
         </Link>
 
-        <div className="hidden md:flex grow items-center justify-end gap-6">
-          <nav className="flex items-center gap-8">
+        <div className="hidden min-w-0 grow items-center justify-end gap-4 lg:flex xl:gap-6">
+          <nav className="flex shrink-0 items-center gap-5 xl:gap-8">
             {links.map((link) => (
               <Link
                 key={link.href}
@@ -80,11 +145,11 @@ export default function NavBar() {
             ))}
           </nav>
 
-          <SearchBox className="w-56 lg:w-72" />
+          <SearchBox className="w-44 shrink-0 xl:w-72" />
 
           <LanguageSwitch />
 
-          <div className="flex items-center gap-3">
+          <div className="flex shrink-0 items-center gap-3">
             {hydrated && count > 0 && (
               <Link
                 href="/offer"
@@ -93,14 +158,14 @@ export default function NavBar() {
                     ? `${count} ${count === 1 ? "produs" : "produse"} în oferta ta`
                     : `${count} item${count === 1 ? "" : "s"} in your offer`
                 }
-                className="inline-flex items-center justify-center w-8 h-8 text-xs font-semibold text-[var(--brand-orange)] bg-[var(--surface)] border border-[var(--brand-orange)] rounded-full hover:bg-[var(--brand-orange)] hover:text-white transition-colors"
+                className="inline-flex h-8 min-w-8 items-center justify-center rounded-full border border-[var(--brand-orange)] bg-[var(--surface)] px-2 text-xs font-semibold tabular-nums text-[var(--brand-orange)] transition-colors hover:bg-[var(--brand-orange)] hover:text-white"
               >
-                {count}
+                {countLabel}
               </Link>
             )}
             <Link
               href="/contact"
-              className="inline-flex items-center px-5 py-2.5 text-sm font-semibold text-white bg-[var(--primary)] hover:bg-[var(--primary-hover)] rounded-full transition-colors"
+              className="inline-flex items-center whitespace-nowrap px-5 py-2.5 text-sm font-semibold text-white bg-[var(--primary)] hover:bg-[var(--primary-hover)] rounded-full transition-colors"
             >
               {locale === "ro" ? "Începe un proiect" : "Start a project"}
             </Link>
@@ -108,10 +173,13 @@ export default function NavBar() {
         </div>
 
         <button
+          ref={menuButtonRef}
           type="button"
           onClick={() => setOpen(true)}
           aria-label={locale === "ro" ? "Deschide meniul" : "Open menu"}
-          className="md:hidden inline-flex items-center justify-center p-2 w-10 h-10 rounded-md text-[var(--brand-black)] hover:bg-[var(--surface-soft)]"
+          aria-expanded={open}
+          aria-controls="mobile-navigation"
+          className="inline-flex items-center justify-center p-2 w-10 h-10 rounded-md text-[var(--brand-black)] hover:bg-[var(--surface-soft)] lg:hidden"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -130,21 +198,30 @@ export default function NavBar() {
           </svg>
         </button>
       </div>
+      </header>
 
       {open && (
-        <div className="md:hidden fixed inset-0 z-50 flex flex-col p-6 bg-[var(--surface)]">
+        <div
+          ref={menuRef}
+          id="mobile-navigation"
+          role="dialog"
+          aria-modal="true"
+          aria-label={locale === "ro" ? "Meniu principal" : "Main menu"}
+          className="fixed inset-0 z-[60] flex max-h-dvh min-h-dvh flex-col overflow-y-auto overscroll-contain bg-[var(--surface)] p-6 lg:hidden"
+        >
           <div className="flex items-center justify-between">
             <Link
               href="/"
-              onClick={() => setOpen(false)}
+              onClick={() => closeMenu()}
               className="text-xl font-[family-name:var(--font-outfit)] font-bold tracking-tight text-[var(--brand-black)]"
             >
-              TGV<span className="text-[var(--brand-orange)]">-</span>Media
+              TGV<span className="text-[var(--brand-orange)]">•</span>Media
             </Link>
             <button
               type="button"
-              onClick={() => setOpen(false)}
+              onClick={() => closeMenu(true)}
               aria-label={locale === "ro" ? "Închide meniul" : "Close menu"}
+              autoFocus
               className="inline-flex items-center justify-center p-2 w-10 h-10 rounded-md text-[var(--brand-black)] hover:bg-[var(--surface-soft)]"
             >
               <svg
@@ -167,7 +244,7 @@ export default function NavBar() {
           <div className="mt-8">
             <SearchBox
               className="w-full"
-              onNavigate={() => setOpen(false)}
+              onNavigate={() => closeMenu()}
             />
           </div>
 
@@ -180,7 +257,7 @@ export default function NavBar() {
               <Link
                 key={link.href}
                 href={link.href}
-                onClick={() => setOpen(false)}
+                onClick={() => closeMenu()}
                 className={`text-2xl font-[family-name:var(--font-outfit)] font-semibold ${
                   isActive(link.href)
                     ? "text-[var(--brand-orange)]"
@@ -195,7 +272,7 @@ export default function NavBar() {
           {hydrated && count > 0 && (
             <Link
               href="/offer"
-              onClick={() => setOpen(false)}
+              onClick={() => closeMenu()}
               className="inline-flex items-center justify-center gap-2 mt-auto mb-3 px-6 py-3 text-sm font-semibold text-[var(--brand-orange)] bg-[var(--surface)] border border-[var(--brand-orange)] rounded-full"
             >
               <span>
@@ -206,7 +283,7 @@ export default function NavBar() {
           )}
           <Link
             href="/contact"
-            onClick={() => setOpen(false)}
+            onClick={() => closeMenu()}
             className={`inline-flex items-center justify-center px-6 py-3.5 text-base font-semibold text-white bg-[var(--primary)] hover:bg-[var(--primary-hover)] rounded-full transition-colors ${
               hydrated && count > 0 ? "" : "mt-auto"
             }`}
@@ -215,6 +292,6 @@ export default function NavBar() {
           </Link>
         </div>
       )}
-    </header>
+    </>
   )
 }

@@ -2,6 +2,7 @@
 
 import { useOffer } from "@/components/OfferProvider"
 import type { CatalogProduct, ProductVariant } from "@/lib/content/catalog"
+import { offerThumbnailFor } from "@/lib/offer/thumbnail"
 
 interface Props {
   product: CatalogProduct
@@ -80,6 +81,7 @@ export default function AddToOfferButton({
           variantKey: variant?.contentKey,
           colorName: variant?.color?.name,
           sizeLabel: variant?.size,
+          thumbnailUrl: offerThumbnailFor(product, variant),
           priceSnapshot: variant?.price ?? product.price,
           personalizations: calculatorMethods,
         })

@@ -3,6 +3,7 @@
 import Link from "next/link"
 import { useRouter } from "next/navigation"
 import { useOffer } from "@/components/OfferProvider"
+import OfferProductThumbnail from "@/components/OfferProductThumbnail"
 import DecorationEstimator from "@/components/pricing/DecorationEstimator"
 import { getCategoryBySlugPath, getTopCategories } from "@/lib/content/catalog"
 import { lineKey, serializeForUrl } from "@/lib/offer/storage"
@@ -69,32 +70,40 @@ export default function OfferPage() {
                   key={key}
                   className="p-5 bg-[var(--surface)] border border-[var(--border)] rounded-2xl"
                 >
-                  <div className="flex flex-col sm:flex-row sm:items-center gap-4">
-                    <div className="flex-1 min-w-0">
-                      <h3 className="text-base font-[family-name:var(--font-outfit)] font-semibold text-[var(--brand-black)] truncate">
-                        {item.name}
-                      </h3>
-                      <p className="mt-0.5 text-xs text-[var(--text-muted)]">
-                        {category?.name ?? item.category}
-                        {item.supplierSku ? (
-                          <>
-                            {" · "}
-                            <span className="font-mono font-semibold text-[var(--text-soft)]">
-                              {ro ? "Cod" : "Code"} {item.supplierSku}
-                            </span>
-                          </>
-                        ) : null}
-                        {variantLabel ? (
-                          <>
-                            {" · "}
-                            <span className="text-[var(--text-soft)] font-medium">
-                              {variantLabel}
-                            </span>
-                          </>
-                        ) : null}
-                      </p>
+                  <div className="flex flex-col gap-4 sm:flex-row sm:items-center">
+                    <div className="flex min-w-0 flex-1 items-center gap-4">
+                      <OfferProductThumbnail
+                        thumbnailUrl={item.thumbnailUrl}
+                        slug={item.slug}
+                        category={item.category}
+                        variantKey={item.variantKey}
+                      />
+                      <div className="min-w-0 flex-1">
+                        <h3 className="line-clamp-2 text-base font-[family-name:var(--font-outfit)] font-semibold text-[var(--brand-black)]">
+                          {item.name}
+                        </h3>
+                        <p className="mt-0.5 text-xs text-[var(--text-muted)]">
+                          {category?.name ?? item.category}
+                          {item.supplierSku ? (
+                            <>
+                              {" · "}
+                              <span className="font-mono font-semibold text-[var(--text-soft)]">
+                                {ro ? "Cod" : "Code"} {item.supplierSku}
+                              </span>
+                            </>
+                          ) : null}
+                          {variantLabel ? (
+                            <>
+                              {" · "}
+                              <span className="text-[var(--text-soft)] font-medium">
+                                {variantLabel}
+                              </span>
+                            </>
+                          ) : null}
+                        </p>
+                      </div>
                     </div>
-                    <div className="flex items-center gap-3">
+                    <div className="flex shrink-0 items-center justify-end gap-3">
                       <QtyControl
                         value={item.quantity}
                         onChange={(n) => setLineQuantity(key, n)}

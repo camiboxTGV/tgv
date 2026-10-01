@@ -13,6 +13,7 @@ export interface OfferItem {
   variantKey?: string
   colorName?: string
   sizeLabel?: string
+  thumbnailUrl?: string
   priceSnapshot?: number
   personalizations?: Personalization[]
 }
@@ -22,6 +23,18 @@ export function lineKey(item: Pick<OfferItem, "slug" | "variantKey">): string {
 }
 
 const isBrowser = () => typeof window !== "undefined"
+
+export function isSafeOfferThumbnailUrl(value: unknown): value is string {
+  return (
+    typeof value === "string" &&
+    value.length > 1 &&
+    value.length <= 2048 &&
+    value.startsWith("/") &&
+    !value.startsWith("//") &&
+    !value.includes("\\") &&
+    !/[\u0000-\u001F\u007F]/.test(value)
+  )
+}
 
 function isValidItem(value: unknown): value is OfferItem {
   if (!value || typeof value !== "object") return false
@@ -61,6 +74,20 @@ function isValidItem(value: unknown): value is OfferItem {
   return true
 }
 
+function normalizeItem(value: unknown): OfferItem | null {
+  if (!isValidItem(value)) return null
+  if (
+    value.thumbnailUrl === undefined ||
+    isSafeOfferThumbnailUrl(value.thumbnailUrl)
+  ) {
+    return value
+  }
+
+  const sanitized = { ...value }
+  delete sanitized.thumbnailUrl
+  return sanitized
+}
+
 interface LegacyOfferItem {
   slug: string
   name: string
@@ -87,7 +114,11 @@ export function readOffer(): OfferItem[] {
     const raw = window.localStorage.getItem(OFFER_STORAGE_KEY)
     if (raw) {
       const parsed = JSON.parse(raw)
-      if (Array.isArray(parsed)) return parsed.filter(isValidItem)
+      if (Array.isArray(parsed)) {
+        return parsed
+          .map(normalizeItem)
+          .filter((item): item is OfferItem => item !== null)
+      }
       return []
     }
   } catch {
@@ -150,7 +181,9 @@ export function deserializeFromUrl(s: string): OfferItem[] | null {
       : Buffer.from(b64, "base64").toString("utf-8")
     const parsed = JSON.parse(json)
     if (!Array.isArray(parsed)) return null
-    const items = parsed.filter(isValidItem)
+    const items = parsed
+      .map(normalizeItem)
+      .filter((item): item is OfferItem => item !== null)
     return items
   } catch {
     return null
