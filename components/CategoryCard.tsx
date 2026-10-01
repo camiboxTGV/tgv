@@ -1,7 +1,7 @@
 "use client"
 
 import Image from "next/image"
-import Link from "next/link"
+import IntentPrefetchLink from "@/components/IntentPrefetchLink"
 import {
   categoryItemLabel,
   type CategoryNode,
@@ -29,7 +29,7 @@ export default function CategoryCard({
   const image = representativeImage ?? category.image
   const usesProductImage = Boolean(representativeImage)
   return (
-    <Link
+    <IntentPrefetchLink
       href={target}
       className="group flex flex-col gap-3 overflow-hidden"
     >
@@ -76,6 +76,6 @@ export default function CategoryCard({
           <span aria-hidden="true">→</span>
         </span>
       </div>
-    </Link>
+    </IntentPrefetchLink>
   )
 }

@@ -1,6 +1,7 @@
 import type { Metadata } from "next"
 import Image from "next/image"
 import Link from "next/link"
+import IntentPrefetchLink from "@/components/IntentPrefetchLink"
 import LocalizedText from "@/components/LocalizedText"
 import PriceScopeNotice from "@/components/pricing/PriceScopeNotice"
 import SearchSortSelect from "@/components/SearchSortSelect"
@@ -47,9 +48,8 @@ function ResultCard({ result }: Readonly<{ result: SearchResult }>) {
 
   return (
     <article className="group flex flex-col overflow-hidden rounded-2xl border border-[var(--border)] bg-[var(--surface)] transition-colors hover:border-[var(--border-strong)]">
-      <Link
+      <IntentPrefetchLink
         href={href}
-        prefetch={false}
         className="flex h-full flex-col focus:outline-none focus-visible:ring-2 focus-visible:ring-inset focus-visible:ring-[var(--brand-orange)]"
       >
         <div className="relative aspect-[4/3] overflow-hidden border-b border-[var(--border-soft)] bg-white">
@@ -97,7 +97,7 @@ function ResultCard({ result }: Readonly<{ result: SearchResult }>) {
             className="text-[11px] leading-relaxed text-[var(--text-muted)]"
           />
         </div>
-      </Link>
+      </IntentPrefetchLink>
     </article>
   )
 }

@@ -1,8 +1,8 @@
 import Image from "next/image"
-import Link from "next/link"
 import AddToOfferButton, {
   type AddToOfferProduct,
 } from "@/components/AddToOfferButton"
+import IntentPrefetchLink from "@/components/IntentPrefetchLink"
 import PriceScopeNotice from "@/components/pricing/PriceScopeNotice"
 import StockBadge from "@/components/StockBadge"
 import {
@@ -61,9 +61,8 @@ export default function ProductCard({ product, priority = false }: Readonly<Prop
       id={product.slug}
       className="group flex flex-col gap-4 p-4 bg-[var(--surface)] border border-[var(--border)] rounded-2xl hover:border-[var(--border-strong)] transition-colors"
     >
-      <Link
+      <IntentPrefetchLink
         href={detailHref}
-        prefetch={false}
         className="flex flex-col gap-4 focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--brand-orange)] focus-visible:ring-offset-2 focus-visible:ring-offset-[var(--bg)] rounded-xl"
       >
         <div className="relative overflow-hidden aspect-[4/3] rounded-xl border border-[var(--border-soft)] bg-[var(--surface)]">
@@ -157,7 +156,7 @@ export default function ProductCard({ product, priority = false }: Readonly<Prop
             Price as of {asOf}. Indicative — final quote on request.
           </p>
         ) : null}
-      </Link>
+      </IntentPrefetchLink>
 
       <AddToOfferButton
         product={offerProduct}

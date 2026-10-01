@@ -1,6 +1,6 @@
 "use client"
 
-import Link from "next/link"
+import IntentPrefetchLink from "@/components/IntentPrefetchLink"
 import SocialLinks from "@/components/SocialLinks"
 import { services } from "@/lib/content/services"
 import { useLanguage } from "@/components/LanguageProvider"
@@ -47,12 +47,12 @@ export default function Footer() {
     <footer className="bg-[var(--surface-elevated)] border-t border-[var(--border)]">
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 mx-auto px-6 lg:px-12 py-12 max-w-6xl">
         <div>
-          <Link
+          <IntentPrefetchLink
             href="/"
             className="text-xl font-[family-name:var(--font-outfit)] font-bold tracking-tight text-[var(--brand-black)]"
           >
             TGV<span className="text-[var(--brand-orange)]">-</span>Media
-          </Link>
+          </IntentPrefetchLink>
           <p className="mt-4 text-sm leading-relaxed text-[var(--text-muted)]">
             {copy.description}
           </p>
@@ -88,12 +88,12 @@ export default function Footer() {
           <ul className="flex flex-col gap-2 mt-4">
             {services.map((service) => (
               <li key={service.slug}>
-                <Link
+                <IntentPrefetchLink
                   href={`/services/${service.slug}`}
                   className="text-sm text-[var(--text-soft)] hover:text-[var(--brand-black)] transition-colors"
                 >
                   {localizeService(service, locale).title}
-                </Link>
+                </IntentPrefetchLink>
               </li>
             ))}
           </ul>
@@ -105,28 +105,28 @@ export default function Footer() {
           </h3>
           <ul className="flex flex-col gap-2 mt-4">
             <li>
-              <Link
+              <IntentPrefetchLink
                 href="/catalog"
                 className="text-sm text-[var(--text-soft)] hover:text-[var(--brand-black)] transition-colors"
               >
                 {copy.catalog}
-              </Link>
+              </IntentPrefetchLink>
             </li>
             <li>
-              <Link
+              <IntentPrefetchLink
                 href="/offer"
                 className="text-sm text-[var(--text-soft)] hover:text-[var(--brand-black)] transition-colors"
               >
                 {copy.offer}
-              </Link>
+              </IntentPrefetchLink>
             </li>
             <li>
-              <Link
+              <IntentPrefetchLink
                 href="/pricing"
                 className="text-sm text-[var(--text-soft)] hover:text-[var(--brand-black)] transition-colors"
               >
                 {copy.calculator}
-              </Link>
+              </IntentPrefetchLink>
             </li>
             <li>
               <a
@@ -138,28 +138,28 @@ export default function Footer() {
               </a>
             </li>
             <li>
-              <Link
+              <IntentPrefetchLink
                 href="/portfolio"
                 className="text-sm text-[var(--text-soft)] hover:text-[var(--brand-black)] transition-colors"
               >
                 {copy.portfolio}
-              </Link>
+              </IntentPrefetchLink>
             </li>
             <li>
-              <Link
+              <IntentPrefetchLink
                 href="/about"
                 className="text-sm text-[var(--text-soft)] hover:text-[var(--brand-black)] transition-colors"
               >
                 {copy.about}
-              </Link>
+              </IntentPrefetchLink>
             </li>
             <li>
-              <Link
+              <IntentPrefetchLink
                 href="/contact"
                 className="text-sm text-[var(--text-soft)] hover:text-[var(--brand-black)] transition-colors"
               >
                 {copy.contact}
-              </Link>
+              </IntentPrefetchLink>
             </li>
           </ul>
         </div>
@@ -197,12 +197,12 @@ export default function Footer() {
         <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3 mx-auto px-6 lg:px-12 py-5 max-w-6xl text-xs text-[var(--text-muted)]">
           <p>© {year} TGV-Media. {copy.rights}</p>
           <div className="flex items-center gap-5">
-            <Link
+            <IntentPrefetchLink
               href="/sitemap"
               className="hover:text-[var(--brand-black)] transition-colors"
             >
               {copy.sitemap}
-            </Link>
+            </IntentPrefetchLink>
           </div>
         </div>
       </div>
