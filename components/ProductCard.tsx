@@ -10,6 +10,7 @@ import {
   type CatalogProduct,
 } from "@/lib/content/catalog"
 import { catalogColourBackground } from "@/lib/content/catalog-colors"
+import { productCardColourSummary } from "@/lib/content/product-card-colours"
 
 interface Props {
   product: CatalogProduct
@@ -173,32 +174,49 @@ function VariantSummary({
   swatches: CatalogProduct["colorSwatches"]
   sizeCount: number
 }>) {
-  const visibleSwatches = swatches && swatches.length > 1 ? swatches : null
+  const { visibleSwatches, extraCount } = productCardColourSummary(swatches)
+  const hasSwatches = visibleSwatches.length > 0
   const hasSizes = sizeCount > 1
-  if (!visibleSwatches && !hasSizes) return null
+  if (!hasSwatches && !hasSizes) return null
 
-  const extra = visibleSwatches ? Math.max(0, visibleSwatches.length - 8) : 0
-  const sizeChipClass = visibleSwatches
+  const colourSummary = hasSwatches
+    ? `Available colours: ${visibleSwatches.map((colour) => colour.name).join(", ")}${
+        extraCount > 0 ? `, and ${extraCount} more` : ""
+      }`
+    : undefined
+
+  const sizeChipClass = hasSwatches
     ? "ml-1 px-2 py-0.5 text-xs text-[var(--text-soft)] bg-[var(--surface-soft)] border border-[var(--border-soft)] rounded-full"
     : "px-2 py-0.5 text-xs text-[var(--text-soft)] bg-[var(--surface-soft)] border border-[var(--border-soft)] rounded-full"
 
   return (
     <div className="flex flex-wrap items-center gap-1.5">
-      {visibleSwatches
-        ? visibleSwatches.slice(0, 8).map((c) => (
+      {hasSwatches ? (
+        <span
+          role="img"
+          aria-label={colourSummary}
+          className="inline-flex flex-wrap items-center gap-1.5"
+        >
+          {visibleSwatches.map((c) => (
             <span
               key={c.name}
-              aria-label={c.name}
+              aria-hidden="true"
               title={c.name}
-              className="inline-block w-4 h-4 rounded-full border border-[var(--border)]"
+              className="inline-block h-4 w-4 rounded-full border border-[var(--text-muted)]"
               style={{
                 background: catalogColourBackground(c.name, c.hex),
               }}
             />
-          ))
-        : null}
-      {extra > 0 ? (
-        <span className="text-[11px] text-[var(--text-muted)]">+{extra}</span>
+          ))}
+          {extraCount > 0 ? (
+            <span
+              aria-hidden="true"
+              className="text-[11px] text-[var(--text-muted)]"
+            >
+              +{extraCount}
+            </span>
+          ) : null}
+        </span>
       ) : null}
       {hasSizes ? <span className={sizeChipClass}>{sizeCount} sizes</span> : null}
     </div>

@@ -4,6 +4,7 @@ import {
   QUANTITY_BUCKET_LABELS,
   type ContactPayload,
 } from "../contact/types.ts"
+import { summarizeDecorationSelection } from "../pricing/decoration-selection.ts"
 import { getPriceDisclosure } from "../pricing/disclosure.ts"
 import type { RenderedEmail } from "./smtp.ts"
 
@@ -92,9 +93,11 @@ export function renderContactEmail(
 ): RenderedEmail {
   const hasProducts = payload.selectedProducts.length > 0
   const company = payload.company.trim().length > 0 ? payload.company.trim() : "no company"
+  const contactIdentity =
+    payload.name.trim() || payload.email.trim() || "Website visitor"
   const subject = hasProducts
-    ? `New brief — ${payload.name} (${company}) — ${payload.selectedProducts.length} product${payload.selectedProducts.length === 1 ? "" : "s"}`
-    : `New brief — ${payload.name} (${company}) — general request`
+    ? `New brief — ${contactIdentity} (${company}) — ${payload.selectedProducts.length} product${payload.selectedProducts.length === 1 ? "" : "s"}`
+    : `New brief — ${contactIdentity} (${company}) — general request`
 
   return {
     subject,
@@ -110,13 +113,16 @@ function renderHtml(
   const hasProducts = payload.selectedProducts.length > 0
   const qty = quantityText(payload)
 
-  const contactRows: string[] = [
-    row("Name", escapeHtml(payload.name)),
+  const contactRows: string[] = []
+  if (payload.name.trim().length > 0) {
+    contactRows.push(row("Name", escapeHtml(payload.name.trim())))
+  }
+  contactRows.push(
     row(
       "Email",
       `<a href="mailto:${escapeHtml(payload.email)}" style="color:${BRAND_ORANGE};text-decoration:none;">${escapeHtml(payload.email)}</a>`,
     ),
-  ]
+  )
   if (payload.phone.trim().length > 0) {
     contactRows.push(row("Phone", escapeHtml(payload.phone)))
   }
@@ -155,13 +161,13 @@ function renderHtml(
       </table>
     </div>
 
-    <h3 style="margin:24px 0 8px;font-size:14px;color:${TEXT_PRIMARY};">Message</h3>
-    <div style="padding:16px 20px;background:${SURFACE_SOFT};border:1px solid ${BORDER};border-radius:12px;font-size:14px;line-height:1.6;color:${TEXT_SOFT};">${nl2br(payload.context)}</div>
+    ${payload.context.trim().length > 0 ? `<h3 style="margin:24px 0 8px;font-size:14px;color:${TEXT_PRIMARY};">Message</h3>
+    <div style="padding:16px 20px;background:${SURFACE_SOFT};border:1px solid ${BORDER};border-radius:12px;font-size:14px;line-height:1.6;color:${TEXT_SOFT};">${nl2br(payload.context)}</div>` : ""}
 
     ${productsBlock}
     ${attachmentsBlock}
 
-    <p style="margin:24px 0 0;font-size:12px;color:${TEXT_MUTED};">Reply to this email to reach ${escapeHtml(payload.name)} directly.</p>
+    <p style="margin:24px 0 0;font-size:12px;color:${TEXT_MUTED};">Reply to this email to reach ${escapeHtml(payload.name.trim() || payload.email.trim() || "the sender")} directly.</p>
   </div>
 </body>
 </html>`
@@ -181,12 +187,22 @@ function renderProductsTable(items: OfferItem[]): string {
   const rows = items
     .map((item) => {
       const variant = variantLabel(item)
+      const decoration = summarizeDecorationSelection(item)
       const unit = item.priceSnapshot
       const subtotal = typeof unit === "number" ? unit * item.quantity : null
       if (typeof subtotal === "number") {
         total += subtotal
         hasAnyPrice = true
       }
+      const decorationRow = decoration
+        ? `<tr>
+        <td colspan="5" style="padding:10px 12px 12px;border-bottom:1px solid ${BORDER};background:${SURFACE_SOFT};font-size:12px;line-height:1.6;color:${TEXT_SOFT};vertical-align:top;">
+          <div style="font-weight:700;color:${TEXT_PRIMARY};">Selected personalization: ${escapeHtml(decoration.method)}</div>
+          <div>${decoration.options.map(escapeHtml).join(" · ")}</div>
+          <div style="margin-top:4px;"><strong>Personalization estimate:</strong> ${escapeHtml(decoration.decorationPrice)}${decoration.lineTotal ? ` · <strong>Products + personalization:</strong> ${escapeHtml(decoration.lineTotal)}` : ""}</div>
+        </td>
+      </tr>`
+        : ""
       return `<tr>
         <td style="padding:10px 12px;border-bottom:1px solid ${BORDER};font-size:13px;color:${TEXT_PRIMARY};vertical-align:top;">
           <div style="font-weight:600;">${escapeHtml(item.name)}</div>
@@ -197,7 +213,7 @@ function renderProductsTable(items: OfferItem[]): string {
         <td style="padding:10px 12px;border-bottom:1px solid ${BORDER};font-size:13px;color:${TEXT_PRIMARY};vertical-align:top;text-align:right;">${item.quantity}</td>
         <td style="padding:10px 12px;border-bottom:1px solid ${BORDER};font-size:13px;color:${TEXT_SOFT};vertical-align:top;text-align:right;">${typeof unit === "number" ? formatPrice(unit) : "&mdash;"}</td>
         <td style="padding:10px 12px;border-bottom:1px solid ${BORDER};font-size:13px;color:${TEXT_PRIMARY};vertical-align:top;text-align:right;font-weight:600;">${typeof subtotal === "number" ? formatPrice(subtotal) : "&mdash;"}</td>
-      </tr>`
+      </tr>${decorationRow}`
     })
     .join("")
 
@@ -221,7 +237,7 @@ function renderProductsTable(items: OfferItem[]): string {
       </thead>
       <tbody>${rows}${totalRow}</tbody>
     </table>
-    <p style="margin:8px 0 0;font-size:11px;color:${TEXT_MUTED};">Prices are indicative snapshots captured when the customer built the offer. Final quote is issued manually.</p>
+    <p style="margin:8px 0 0;font-size:11px;color:${TEXT_MUTED};">Prices are indicative server-catalog prices resolved when the request was submitted. Final quote is issued manually.</p>
     <p style="margin:8px 0 0;padding:10px 12px;border-left:3px solid ${BRAND_ORANGE};background:${SURFACE_SOFT};font-size:12px;font-weight:600;line-height:1.5;color:${TEXT_PRIMARY};">${escapeHtml(priceDisclosure.internalQuoteReminder)}</p>`
 }
 
@@ -236,15 +252,17 @@ function renderText(
   lines.push("NEW CONTACT BRIEF")
   lines.push(`Submitted ${formatTimestamp(payload.submittedAt)} (Europe/Bucharest)`)
   lines.push("")
-  lines.push(`Name:     ${payload.name}`)
+  if (payload.name.trim()) lines.push(`Name:     ${payload.name.trim()}`)
   lines.push(`Email:    ${payload.email}`)
   if (payload.phone.trim()) lines.push(`Phone:    ${payload.phone}`)
   if (payload.company.trim()) lines.push(`Company:  ${payload.company}`)
   lines.push(`Deadline: ${deadlineText(payload)}`)
   if (!hasProducts && qty) lines.push(`Quantity: ${qty}`)
-  lines.push("")
-  lines.push("Message:")
-  lines.push(payload.context)
+  if (payload.context.trim()) {
+    lines.push("")
+    lines.push("Message:")
+    lines.push(payload.context)
+  }
   lines.push("")
 
   if (hasProducts) {
@@ -253,6 +271,7 @@ function renderText(
     lines.push(`Selected products (${payload.selectedProducts.length}):`)
     for (const item of payload.selectedProducts) {
       const variant = variantLabel(item)
+      const decoration = summarizeDecorationSelection(item)
       const unit = item.priceSnapshot
       const subtotal = typeof unit === "number" ? unit * item.quantity : null
       if (typeof subtotal === "number") {
@@ -268,6 +287,14 @@ function renderText(
         typeof subtotal === "number" ? `= ${formatPrice(subtotal)}` : null,
       ].filter(Boolean)
       lines.push(parts.join(" "))
+      if (decoration) {
+        lines.push(`  Personalization: ${decoration.method}`)
+        lines.push(`  Options: ${decoration.options.join(" · ")}`)
+        lines.push(`  Personalization estimate: ${decoration.decorationPrice}`)
+        if (decoration.lineTotal) {
+          lines.push(`  Products + personalization: ${decoration.lineTotal}`)
+        }
+      }
     }
     if (hasAnyPrice) {
       lines.push("")

@@ -19,6 +19,11 @@ import {
   type TextileFormat,
   type UvFormat,
 } from "@/lib/pricing/calculator"
+import {
+  MAX_ARTWORK_HOURS,
+  clampArtworkHours,
+  normalizeDecorationOptions,
+} from "@/lib/pricing/decoration-options"
 import { getPriceDisclosure } from "@/lib/pricing/disclosure"
 import { useLanguage } from "@/components/LanguageProvider"
 
@@ -28,6 +33,8 @@ interface Props {
   onQuantityChange?: (quantity: number) => void
   productUnitPrice?: number
   productName?: string
+  initialOptions?: DecorationOptions
+  onOptionsChange?: (options: DecorationOptions) => void
 }
 
 export default function DecorationEstimator({
@@ -36,22 +43,39 @@ export default function DecorationEstimator({
   onQuantityChange,
   productUnitPrice,
   productName,
+  initialOptions,
+  onOptionsChange,
 }: Readonly<Props>) {
   const { locale } = useLanguage()
   const ro = locale === "ro"
   const priceDisclosure = getPriceDisclosure(locale)
   const available = methods
-  const [options, setOptions] = useState<DecorationOptions>(() => ({
-    ...DEFAULT_DECORATION_OPTIONS,
-    method: available[0] ?? "uv-print",
-  }))
+  const [options, setOptions] = useState<DecorationOptions>(() =>
+    normalizeDecorationOptions(
+      initialOptions && available.includes(initialOptions.method)
+        ? initialOptions
+        : {
+            ...DEFAULT_DECORATION_OPTIONS,
+            method: available[0] ?? "uv-print",
+          },
+    ),
+  )
+  const [hasSavedOptions, setHasSavedOptions] = useState(
+    () =>
+      initialOptions !== undefined &&
+      available.includes(initialOptions.method),
+  )
+  const [optionsSaved, setOptionsSaved] = useState(hasSavedOptions)
 
   useEffect(() => {
     if (!available.includes(options.method)) {
-      setOptions((current) => ({
-        ...current,
-        method: available[0] ?? "uv-print",
-      }))
+      setOptionsSaved(false)
+      setOptions((current) =>
+        normalizeDecorationOptions({
+          ...current,
+          method: available[0] ?? "uv-print",
+        }),
+      )
     }
   }, [available, options.method])
 
@@ -71,6 +95,19 @@ export default function DecorationEstimator({
     value: DecorationOptions[K],
   ) => setOptions((current) => ({ ...current, [key]: value }))
 
+  const selectDecorationMethod = (method: Personalization) => {
+    setOptions((current) =>
+      normalizeDecorationOptions({ ...current, method }),
+    )
+  }
+
+  const saveDecorationOptions = () => {
+    if (!onOptionsChange || !available.includes(options.method)) return
+    onOptionsChange(options)
+    setHasSavedOptions(true)
+    setOptionsSaved(true)
+  }
+
   if (available.length === 0) {
     return (
       <div className="rounded-2xl border border-[var(--border)] bg-[var(--surface-soft)] p-4 sm:p-5">
@@ -87,7 +124,16 @@ export default function DecorationEstimator({
   }
 
   return (
-    <div className="rounded-2xl border border-[var(--border)] bg-[var(--surface-soft)] p-4 sm:p-5">
+    <div
+      className="rounded-2xl border border-[var(--border)] bg-[var(--surface-soft)] p-4 sm:p-5"
+      onChangeCapture={(event) => {
+        if (
+          (event.target as HTMLElement).dataset.decorationQuantity !== "true"
+        ) {
+          setOptionsSaved(false)
+        }
+      }}
+    >
       <div className="flex flex-col gap-1">
         <p className="text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange)]">
           {ro ? "Calculator orientativ" : "Indicative calculator"}
@@ -105,6 +151,7 @@ export default function DecorationEstimator({
               min={1}
               max={1000000}
               value={quantity}
+              data-decoration-quantity="true"
               onChange={(event) => onQuantityChange(Number(event.target.value))}
               className="h-11 w-full rounded-xl border border-[var(--border)] bg-[var(--surface)] px-3 text-sm text-[var(--brand-black)] outline-none focus:border-[var(--brand-orange)]"
             />
@@ -114,7 +161,9 @@ export default function DecorationEstimator({
         <Field label={ro ? "Metodă de personalizare" : "Decoration method"}>
           <select
             value={options.method}
-            onChange={(event) => update("method", event.target.value as Personalization)}
+            onChange={(event) =>
+              selectDecorationMethod(event.target.value as Personalization)
+            }
             className="h-11 w-full rounded-xl border border-[var(--border)] bg-[var(--surface)] px-3 text-sm text-[var(--brand-black)] outline-none focus:border-[var(--brand-orange)]"
           >
             {available.map((method) => (
@@ -227,9 +276,15 @@ export default function DecorationEstimator({
             <input
               type="number"
               min={0}
+              max={MAX_ARTWORK_HOURS}
               step={0.25}
               value={options.artworkHours}
-              onChange={(event) => update("artworkHours", Number(event.target.value))}
+              onChange={(event) =>
+                update(
+                  "artworkHours",
+                  clampArtworkHours(Number(event.target.value)),
+                )
+              }
               className="h-11 w-full rounded-xl border border-[var(--border)] bg-[var(--surface)] px-3 pr-20 text-sm text-[var(--brand-black)] outline-none focus:border-[var(--brand-orange)]"
             />
             <span className="pointer-events-none absolute inset-y-0 right-3 flex items-center text-xs text-[var(--text-muted)]">€25/{ro ? "oră" : "hour"}</span>
@@ -307,6 +362,54 @@ export default function DecorationEstimator({
               : "Indicative decoration-only estimate in EUR, excluding VAT. Artwork, substrate, positioning, and production feasibility are confirmed in the final quote."}
         </p>
       </div>
+
+      {onOptionsChange ? (
+        <div className="mt-4 flex flex-col gap-2 rounded-xl border border-[var(--border)] bg-[var(--surface)] p-4 sm:flex-row sm:items-center sm:justify-between">
+          <p
+            role="status"
+            aria-live="polite"
+            className={`text-sm ${
+              optionsSaved
+                ? "font-medium text-[var(--brand-black)]"
+                : "text-[var(--text-soft)]"
+            }`}
+          >
+            {optionsSaved ? (
+              <>
+                <span aria-hidden="true" className="mr-1 text-[var(--brand-orange)]">
+                  ✓
+                </span>
+                {ro
+                  ? "Personalizarea este salvată în cerere."
+                  : "Personalization saved in your request."}
+              </>
+            ) : hasSavedOptions ? (
+              ro ? (
+                "Modificările nu sunt încă salvate în cerere."
+              ) : (
+                "Your changes are not saved in the request yet."
+              )
+            ) : ro ? (
+              "Estimarea nu a fost încă adăugată în cerere."
+            ) : (
+              "This estimate is not in your request yet."
+            )}
+          </p>
+          <button
+            type="button"
+            onClick={saveDecorationOptions}
+            className="inline-flex shrink-0 items-center justify-center rounded-full bg-[var(--brand-orange)] px-5 py-2.5 text-sm font-semibold text-white transition-transform hover:scale-[1.02]"
+          >
+            {hasSavedOptions
+              ? ro
+                ? "Actualizează personalizarea salvată"
+                : "Update saved personalization"
+              : ro
+                ? "Adaugă personalizarea în cerere"
+                : "Add this personalization to request"}
+          </button>
+        </div>
+      ) : null}
     </div>
   )
 }

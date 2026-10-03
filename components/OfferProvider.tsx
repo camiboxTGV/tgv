@@ -9,13 +9,15 @@ import {
   useState,
 } from "react"
 import {
+  hasOfferCapacity,
   isSafeOfferThumbnailUrl,
   lineKey,
   type OfferItem,
-  readOffer,
+  readOfferResult,
   writeOffer,
 } from "@/lib/offer/storage"
 import type { Personalization } from "@/lib/content/catalog"
+import type { DecorationOptions } from "@/lib/pricing/calculator"
 
 export interface AddToOfferInput {
   slug: string
@@ -36,12 +38,15 @@ interface OfferContextValue {
   count: number
   totalQuantity: number
   hydrated: boolean
+  offerLoadError: boolean
   has: (slug: string) => boolean
   hasLine: (key: string) => boolean
   add: (input: AddToOfferInput) => void
   remove: (key: string) => void
   setLineQuantity: (key: string, quantity: number) => void
+  setLineDecoration: (key: string, options: DecorationOptions) => void
   clear: () => void
+  resetInvalidOffer: () => void
 }
 
 const OfferContext = createContext<OfferContextValue | null>(null)
@@ -83,15 +88,18 @@ export default function OfferProvider({
 }>) {
   const [items, setItems] = useState<OfferItem[]>([])
   const [hydrated, setHydrated] = useState(false)
+  const [offerLoadError, setOfferLoadError] = useState(false)
 
   useEffect(() => {
-    setItems(readOffer())
+    const result = readOfferResult()
+    setItems(result.items)
+    setOfferLoadError(result.error !== null)
     setHydrated(true)
   }, [])
 
   useEffect(() => {
-    if (hydrated) writeOffer(items)
-  }, [items, hydrated])
+    if (hydrated && !offerLoadError) writeOffer(items)
+  }, [items, hydrated, offerLoadError])
 
   const has = useCallback(
     (slug: string) => items.some((i) => i.slug === slug),
@@ -104,10 +112,12 @@ export default function OfferProvider({
   )
 
   const add = useCallback((input: AddToOfferInput) => {
+    setOfferLoadError(false)
     const newKey = input.variantKey ?? input.slug
     let added = false
     let nextCount = 0
     setItems((prev) => {
+      if (!hasOfferCapacity(prev)) return prev
       if (prev.some((i) => lineKey(i) === newKey)) return prev
       added = true
       const next: OfferItem[] = [
@@ -151,7 +161,23 @@ export default function OfferProvider({
     )
   }, [])
 
+  const setLineDecoration = useCallback(
+    (key: string, decorationOptions: DecorationOptions) => {
+      setItems((prev) =>
+        prev.map((item) =>
+          lineKey(item) === key ? { ...item, decorationOptions } : item,
+        ),
+      )
+    },
+    [],
+  )
+
   const clear = useCallback(() => setItems([]), [])
+
+  const resetInvalidOffer = useCallback(() => {
+    setItems([])
+    setOfferLoadError(false)
+  }, [])
 
   const value = useMemo<OfferContextValue>(
     () => ({
@@ -159,14 +185,29 @@ export default function OfferProvider({
       count: items.length,
       totalQuantity: items.reduce((sum, i) => sum + i.quantity, 0),
       hydrated,
+      offerLoadError,
       has,
       hasLine,
       add,
       remove,
       setLineQuantity,
+      setLineDecoration,
       clear,
+      resetInvalidOffer,
     }),
-    [items, hydrated, has, hasLine, add, remove, setLineQuantity, clear],
+    [
+      items,
+      hydrated,
+      offerLoadError,
+      has,
+      hasLine,
+      add,
+      remove,
+      setLineQuantity,
+      setLineDecoration,
+      clear,
+      resetInvalidOffer,
+    ],
   )
 
   return (

@@ -43,7 +43,6 @@ export const ACCEPT_FILES_ATTR = ACCEPTED_FILE_EXTENSIONS.join(",")
 
 export const EMAIL_REGEX = /^[^\s@]+@[^\s@]+\.[^\s@]+$/
 
-export const MIN_CONTEXT_CHARS = 20
 export const MAX_CONTEXT_CHARS = 2000
 
 export const QUANTITY_BUCKETS: QuantityBucket[] = [

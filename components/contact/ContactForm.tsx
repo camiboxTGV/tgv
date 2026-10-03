@@ -1,22 +1,28 @@
 "use client"
 
 import Link from "next/link"
-import { useEffect, useId, useMemo, useState } from "react"
+import { useEffect, useMemo, useState } from "react"
 import { useSearchParams } from "next/navigation"
 import ChipGroup from "@/components/contact/ChipGroup"
 import FileDropZone from "@/components/contact/FileDropZone"
 import { useOffer } from "@/components/OfferProvider"
 import { useLanguage } from "@/components/LanguageProvider"
 import { getPriceDisclosure } from "@/lib/pricing/disclosure"
-import { deserializeFromUrl, lineKey, type OfferItem } from "@/lib/offer/storage"
+import { lineKey, type OfferItem } from "@/lib/offer/storage"
+import { summarizeDecorationSelection } from "@/lib/pricing/decoration-selection"
+import { toTimeZoneDateInputValue } from "@/lib/contact/local-date"
+import {
+  CONTACT_FIELD_LIMITS,
+  hasContactPhone,
+  hasRequiredContactDetails,
+  isValidContactEmail,
+} from "@/lib/contact/required-contact"
 import {
   ACCEPT_FILES_ATTR,
-  EMAIL_REGEX,
   MAX_CONTEXT_CHARS,
   MAX_FILE_COUNT,
   MAX_FILE_BYTES,
   MAX_TOTAL_UPLOAD_BYTES,
-  MIN_CONTEXT_CHARS,
   type DeadlinePreset,
   type QuantityBucket,
 } from "@/lib/contact/types"
@@ -64,12 +70,6 @@ const initial: FormState = {
   files: [],
 }
 
-function todayIso(): string {
-  const d = new Date()
-  d.setHours(0, 0, 0, 0)
-  return d.toISOString().slice(0, 10)
-}
-
 function errorMessage(code: string): string {
   switch (code) {
     case "file_too_large":
@@ -82,6 +82,10 @@ function errorMessage(code: string): string {
       return "You can attach up to 5 files."
     case "products_invalid":
       return "The selected product list is invalid. Refresh the page and try again."
+    case "phone_required":
+      return "A phone number is required."
+    case "phone_invalid":
+      return "Use a valid phone number with 6 to 15 digits."
     case "server_busy":
       return "The contact service is busy. Please wait a moment and try again."
     case "network":
@@ -109,31 +113,21 @@ export default function ContactForm() {
 
   const fromOffer = searchParams?.get("from") === "offer"
   const hasSelectedProducts = selectedProducts.length > 0
+  const optionalText = ro ? "opțional" : "optional"
 
   useEffect(() => {
     if (!fromOffer) return
-    const itemsParam = searchParams?.get("items")
-    if (itemsParam) {
-      const decoded = deserializeFromUrl(itemsParam)
-      if (decoded && decoded.length > 0) {
-        setSelectedProducts(decoded)
-        return
-      }
-    }
     if (offerItems.length > 0) setSelectedProducts(offerItems)
-  }, [fromOffer, searchParams, offerItems])
+  }, [fromOffer, offerItems])
 
   const requiredValid = useMemo(() => {
-    const deadlineOk = state.deadlinePreset !== null || state.deadlineDate.length > 0
-    return (
-      state.name.trim().length > 0 &&
-      EMAIL_REGEX.test(state.email.trim()) &&
-      deadlineOk &&
-      state.context.trim().length >= MIN_CONTEXT_CHARS
-    )
-  }, [state])
+    return hasRequiredContactDetails(state.email, state.phone)
+  }, [state.email, state.phone])
 
-  const minDeadline = useMemo(() => todayIso(), [])
+  const minDeadline = useMemo(
+    () => toTimeZoneDateInputValue(new Date(), "Europe/Bucharest"),
+    [],
+  )
 
   function update<K extends keyof FormState>(key: K, value: FormState[K]) {
     setState((s) => ({ ...s, [key]: value }))
@@ -155,31 +149,22 @@ export default function ContactForm() {
     value: FormState[K],
   ): string | undefined {
     switch (key) {
-      case "name":
-        return (value as string).trim().length > 0 ? undefined : "Required."
       case "email": {
         const v = (value as string).trim()
-        if (v.length === 0) return "Required."
-        if (!EMAIL_REGEX.test(v)) return "Use a valid email."
+        if (v.length === 0) return ro ? "Obligatoriu." : "Required."
+        if (!isValidContactEmail(v)) {
+          return ro ? "Introdu un email valid." : "Use a valid email."
+        }
         return undefined
       }
-      case "deadlinePreset":
-      case "deadlineDate": {
-        const presetSet =
-          key === "deadlinePreset"
-            ? value !== null
-            : state.deadlinePreset !== null
-        const dateSet =
-          key === "deadlineDate"
-            ? (value as string).length > 0
-            : state.deadlineDate.length > 0
-        return presetSet || dateSet ? undefined : "Pick a timeframe or exact date."
-      }
-      case "context": {
+      case "phone": {
         const v = (value as string).trim()
-        if (v.length === 0) return "Required."
-        if (v.length < MIN_CONTEXT_CHARS)
-          return `Tell us a bit more (min ${MIN_CONTEXT_CHARS} chars, ${v.length} so far).`
+        if (v.length === 0) return ro ? "Obligatoriu." : "Required."
+        if (!hasContactPhone(v)) {
+          return ro
+            ? "Introdu un număr valid cu 6–15 cifre."
+            : "Use a valid number with 6–15 digits."
+        }
         return undefined
       }
       default:
@@ -189,7 +174,7 @@ export default function ContactForm() {
 
   function validateAll(): boolean {
     const all: Errors = {}
-    const keys: (keyof FormState)[] = ["name", "email", "deadlinePreset", "context"]
+    const keys: (keyof FormState)[] = ["email", "phone"]
     keys.forEach((k) => {
       const err = validateField(k, state[k])
       if (err) all[k] = err
@@ -248,6 +233,14 @@ export default function ContactForm() {
     return (
       <SuccessCard
         hadSelection={selectedProducts.length > 0}
+        hadBriefDetails={
+          selectedProducts.length > 0 ||
+          state.quantity !== null ||
+          state.deadlinePreset !== null ||
+          state.deadlineDate.length > 0 ||
+          state.context.trim().length > 0 ||
+          state.files.length > 0
+        }
         locale={locale}
         onClearOffer={clear}
       />
@@ -260,52 +253,110 @@ export default function ContactForm() {
       noValidate
       className="flex flex-col gap-10 p-6 lg:p-10 bg-[var(--surface)] border border-[var(--border)] rounded-3xl"
     >
+      {fromOffer ? (
+        <div
+          role="note"
+          className="rounded-2xl border border-[var(--brand-orange)]/30 bg-[var(--brand-orange)]/5 p-5"
+        >
+          <p className="text-xs font-semibold uppercase tracking-widest text-[var(--brand-black)]">
+            {ro ? "Pasul 2 din 2" : "Step 2 of 2"}
+          </p>
+          <h2 className="mt-2 text-xl font-[family-name:var(--font-outfit)] font-semibold text-[var(--brand-black)]">
+            {ro
+              ? "Adaugă datele de contact și trimite cererea."
+              : "Add your contact details and send the request."}
+          </h2>
+          <p className="mt-2 text-sm leading-relaxed text-[var(--text-soft)]">
+            {ro
+              ? "Selecția ta este pregătită, dar nu a fost încă trimisă. Cererea ajunge la noi numai după ce apeși butonul de trimitere de la finalul formularului."
+              : "Your selection is ready, but it has not been sent yet. We receive it only after you press the send button at the end of this form."}
+          </p>
+        </div>
+      ) : null}
+
       {selectedProducts.length > 0 && (
         <SelectedProductsPanel items={selectedProducts} locale={locale} />
       )}
 
+      <p
+        id="contact-required-fields"
+        role="note"
+        className="rounded-xl bg-[var(--surface-soft)] px-4 py-3 text-sm leading-relaxed text-[var(--text-soft)]"
+      >
+        <strong className="font-semibold text-[var(--brand-black)]">
+          {ro ? "Doar emailul și telefonul sunt obligatorii." : "Only email and phone are required."}
+        </strong>{" "}
+        {ro
+          ? "Toate celelalte câmpuri sunt opționale și ne ajută să pregătim mai repede oferta."
+          : "Everything else is optional and helps us prepare your quote faster."}
+      </p>
+
       <FieldGroup label={ro ? "Despre tine" : "About you"}>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
           <Field
+            id="contact-name"
             label={ro ? "Nume" : "Name"}
-            required
-            error={errors.name}
+            optionalText={optionalText}
           >
             <input
+              id="contact-name"
               type="text"
+              maxLength={CONTACT_FIELD_LIMITS.name}
               value={state.name}
               onChange={(e) => update("name", e.target.value)}
-              onBlur={() => markTouched("name")}
               autoComplete="name"
-              className={inputClass(!!errors.name)}
+              className={inputClass(false)}
             />
           </Field>
           <Field
+            id="contact-email"
             label="Email"
             required
             error={errors.email}
           >
             <input
+              id="contact-email"
               type="email"
+              maxLength={CONTACT_FIELD_LIMITS.email}
               value={state.email}
               onChange={(e) => update("email", e.target.value)}
               onBlur={() => markTouched("email")}
               autoComplete="email"
+              required
+              aria-invalid={!!errors.email}
+              aria-describedby="contact-email-details"
               className={inputClass(!!errors.email)}
             />
           </Field>
-          <Field label={ro ? "Telefon" : "Phone"} error={errors.phone}>
+          <Field
+            id="contact-phone"
+            label={ro ? "Telefon" : "Phone"}
+            required
+            error={errors.phone}
+          >
             <input
+              id="contact-phone"
               type="tel"
+              maxLength={CONTACT_FIELD_LIMITS.phone}
               value={state.phone}
               onChange={(e) => update("phone", e.target.value)}
+              onBlur={() => markTouched("phone")}
               autoComplete="tel"
-              className={inputClass(false)}
+              required
+              aria-invalid={!!errors.phone}
+              aria-describedby="contact-phone-details"
+              className={inputClass(!!errors.phone)}
             />
           </Field>
-          <Field label={ro ? "Companie" : "Company"} error={errors.company}>
+          <Field
+            id="contact-company"
+            label={ro ? "Companie" : "Company"}
+            optionalText={optionalText}
+          >
             <input
+              id="contact-company"
               type="text"
+              maxLength={CONTACT_FIELD_LIMITS.company}
               value={state.company}
               onChange={(e) => update("company", e.target.value)}
               autoComplete="organization"
@@ -318,10 +369,14 @@ export default function ContactForm() {
       <FieldGroup label={ro ? "Despre proiect" : "About the project"}>
         <div className="flex flex-col gap-6">
           {!hasSelectedProducts && (
-            <Field label={ro ? "Cantitate estimată" : "Quantity estimate"}>
+            <Field
+              label={ro ? "Cantitate estimată" : "Quantity estimate"}
+              optionalText={optionalText}
+            >
               <ChipGroup
                 variant="single"
                 name="quantity"
+                label={ro ? "Cantitate estimată" : "Quantity estimate"}
                 options={QUANTITY_BUCKETS}
                 value={state.quantity}
                 onChange={(v) => update("quantity", v)}
@@ -329,6 +384,8 @@ export default function ContactForm() {
               {state.quantity === "other" && (
                 <input
                   type="text"
+                  maxLength={CONTACT_FIELD_LIMITS.quantityOther}
+                  aria-label={ro ? "Altă cantitate" : "Other quantity"}
                   placeholder={ro ? "ex. 12.500 bucăți" : "e.g. 12,500 units"}
                   value={state.quantityOther}
                   onChange={(e) => update("quantityOther", e.target.value)}
@@ -339,8 +396,7 @@ export default function ContactForm() {
           )}
           <Field
             label={ro ? "Termen limită" : "Deadline"}
-            required
-            error={errors.deadlinePreset}
+            optionalText={optionalText}
             help={ro ? "Alege un interval sau o dată exactă" : "Pick a timeframe or set an exact date"}
           >
             <DeadlinePicker
@@ -350,35 +406,38 @@ export default function ContactForm() {
               onPresetChange={(v) => {
                 update("deadlinePreset", v)
                 if (v !== null) update("deadlineDate", "")
-                markTouched("deadlinePreset")
               }}
               onDateChange={(v) => {
                 update("deadlineDate", v)
                 if (v.length > 0) update("deadlinePreset", null)
-                markTouched("deadlineDate")
               }}
               locale={locale}
             />
           </Field>
           <Field
+            id="contact-context"
             label={ro ? "Spune-ne despre eveniment, public sau campanie" : "Tell us about the event, audience or campaign"}
-            required
-            error={errors.context}
+            optionalText={optionalText}
             help={`${state.context.length}/${MAX_CONTEXT_CHARS}`}
           >
             <textarea
+              id="contact-context"
               value={state.context}
+              maxLength={MAX_CONTEXT_CHARS}
               onChange={(e) => update("context", e.target.value.slice(0, MAX_CONTEXT_CHARS))}
-              onBlur={() => markTouched("context")}
               rows={5}
               placeholder={ro ? "Cui se adresează, când are loc și cum arată rezultatul dorit…" : "Who is it for, when does it happen, what does success look like…"}
-              className={`${inputClass(!!errors.context)} resize-y min-h-32`}
+              aria-describedby="contact-context-details"
+              className={`${inputClass(false)} resize-y min-h-32`}
             />
           </Field>
         </div>
       </FieldGroup>
 
-      <FieldGroup label={ro ? "Fișiere și grafică" : "Files & artwork"}>
+      <FieldGroup
+        label={ro ? "Fișiere și grafică" : "Files & artwork"}
+        optionalText={optionalText}
+      >
         <FileDropZone
           files={state.files}
           onChange={(files) => update("files", files)}
@@ -406,9 +465,23 @@ export default function ContactForm() {
             {submitError}
           </div>
         )}
+        <p
+          id="contact-submit-help"
+          aria-live="polite"
+          className="text-center text-sm text-[var(--text-soft)]"
+        >
+          {requiredValid
+            ? ro
+              ? "Datele obligatorii sunt complete. Poți trimite cererea."
+              : "Required details are complete. You can send the request."
+            : ro
+              ? "Completează un email valid și numărul de telefon pentru a activa trimiterea."
+              : "Enter a valid email and your phone number to enable sending."}
+        </p>
         <button
           type="submit"
           disabled={!requiredValid || submitting}
+          aria-describedby="contact-required-fields contact-submit-help"
           className={`inline-flex items-center justify-center gap-2 px-6 py-4 w-full text-base font-semibold text-white rounded-full transition-all ${
             !requiredValid || submitting
               ? "bg-[var(--text-muted)] cursor-not-allowed"
@@ -417,7 +490,15 @@ export default function ContactForm() {
         >
           {submitting ? (ro ? "Se trimite…" : "Sending…") : (
             <>
-              <span>{ro ? "Trimite brieful" : "Send brief"}</span>
+              <span>
+                {ro
+                  ? hasSelectedProducts
+                    ? "Trimite cererea de ofertă"
+                    : "Trimite cererea"
+                  : hasSelectedProducts
+                    ? "Send quote request"
+                    : "Send request"}
+              </span>
               <span aria-hidden="true">→</span>
             </>
           )}
@@ -447,15 +528,25 @@ function inputClass(hasError: boolean): string {
 
 function FieldGroup({
   label,
+  optionalText,
   children,
 }: {
   label: string
+  optionalText?: string
   children: React.ReactNode
 }) {
   return (
     <div className="flex flex-col gap-5">
       <h3 className="text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange)]">
         {label}
+        {optionalText ? (
+          <>
+            {" "}
+            <span className="ml-2 font-normal normal-case tracking-normal text-[var(--text-muted)]">
+              ({optionalText})
+            </span>
+          </>
+        ) : null}
       </h3>
       {children}
     </div>
@@ -463,33 +554,52 @@ function FieldGroup({
 }
 
 function Field({
+  id,
   label,
   required,
+  optionalText,
   error,
   help,
   children,
 }: {
+  id?: string
   label: string
   required?: boolean
+  optionalText?: string
   error?: string
   help?: string
   children: React.ReactNode
 }) {
-  const id = useId()
+  const labelContent = (
+    <span className="flex items-center gap-1 text-sm font-medium text-[var(--text-soft)]">
+      {label}
+      {required ? (
+        <span aria-hidden="true" className="text-[var(--brand-orange)]">
+          *
+        </span>
+      ) : null}
+      {optionalText ? (
+        <span className="font-normal text-[var(--text-muted)]">
+          ({optionalText})
+        </span>
+      ) : null}
+    </span>
+  )
+
   return (
-    <label htmlFor={id} className="flex flex-col gap-2">
-      <span className="flex items-center gap-1 text-sm font-medium text-[var(--text-soft)]">
-        {label}
-        {required && <span className="text-[var(--brand-orange)]">*</span>}
-      </span>
+    <div className="flex flex-col gap-2">
+      {id ? <label htmlFor={id}>{labelContent}</label> : labelContent}
       {children}
-      <span className="flex items-center justify-between gap-2 text-xs">
+      <span
+        id={id ? `${id}-details` : undefined}
+        className="flex items-center justify-between gap-2 text-xs"
+      >
         <span className="text-[var(--brand-orange)]">{error ?? ""}</span>
         {help && (
           <span className="text-[var(--text-muted)]">{help}</span>
         )}
       </span>
-    </label>
+    </div>
   )
 }
 
@@ -511,27 +621,48 @@ function DeadlinePicker({
   const ro = locale === "ro"
   const activeHint = DEADLINE_PRESETS.find((p) => p.value === preset)?.hint
   return (
-    <div className="flex flex-col gap-3">
-      <div className="grid grid-cols-2 sm:grid-cols-4 gap-2">
+    <fieldset className="flex flex-col gap-3">
+      <legend className="sr-only">
+        {ro ? "Interval preferat" : "Preferred timeframe"}
+      </legend>
+      <div className="grid grid-cols-2 gap-2 sm:grid-cols-3">
+        <label className="cursor-pointer">
+          <input
+            type="radio"
+            name="deadline-preset"
+            value=""
+            checked={preset === null && date.length === 0}
+            onChange={() => {
+              onPresetChange(null)
+              onDateChange("")
+            }}
+            className="peer sr-only"
+          />
+          <span className="flex h-full items-center justify-center rounded-xl border border-[var(--border)] bg-[var(--surface)] px-3 py-3 text-center text-sm font-medium text-[var(--text-soft)] transition-all hover:scale-[1.02] hover:border-[var(--border-strong)] peer-checked:border-[var(--brand-orange)] peer-checked:bg-[var(--brand-orange)] peer-checked:text-white peer-focus-visible:outline-none peer-focus-visible:ring-2 peer-focus-visible:ring-[var(--brand-orange)] peer-focus-visible:ring-offset-2">
+            {ro ? "Fără preferință" : "No preference"}
+          </span>
+        </label>
         {DEADLINE_PRESETS.map((opt) => {
           const selected = preset === opt.value
           return (
-            <button
+            <label
               key={opt.value}
-              type="button"
-              role="radio"
-              aria-checked={selected}
-              onClick={() => onPresetChange(selected ? null : opt.value)}
-              className={`flex items-center justify-center px-3 py-3 text-sm font-medium rounded-xl border transition-all hover:scale-[1.02] ${
-                selected
-                  ? "text-white bg-[var(--brand-orange)] border-[var(--brand-orange)]"
-                  : "text-[var(--text-soft)] bg-[var(--surface)] border-[var(--border)] hover:border-[var(--border-strong)]"
-              }`}
+              className="cursor-pointer"
             >
-              {ro
-                ? ({ "2-weeks": "În 2 săptămâni", "1-month": "Într-o lună", "2-3-months": "2–3 luni", flexible: "Flexibil" } as const)[opt.value]
-                : opt.label}
-            </button>
+              <input
+                type="radio"
+                name="deadline-preset"
+                value={opt.value}
+                checked={selected}
+                onChange={() => onPresetChange(opt.value)}
+                className="peer sr-only"
+              />
+              <span className="flex h-full items-center justify-center rounded-xl border border-[var(--border)] bg-[var(--surface)] px-3 py-3 text-center text-sm font-medium text-[var(--text-soft)] transition-all hover:scale-[1.02] hover:border-[var(--border-strong)] peer-checked:border-[var(--brand-orange)] peer-checked:bg-[var(--brand-orange)] peer-checked:text-white peer-focus-visible:outline-none peer-focus-visible:ring-2 peer-focus-visible:ring-[var(--brand-orange)] peer-focus-visible:ring-offset-2">
+                {ro
+                  ? ({ "2-weeks": "În 2 săptămâni", "1-month": "Într-o lună", "2-3-months": "2–3 luni", flexible: "Flexibil" } as const)[opt.value]
+                  : opt.label}
+              </span>
+            </label>
           )
         })}
       </div>
@@ -560,7 +691,7 @@ function DeadlinePicker({
           className={inputClass(false)}
         />
       </label>
-    </div>
+    </fieldset>
   )
 }
 
@@ -587,30 +718,52 @@ function SelectedProductsPanel({
           {ro ? "Editează selecția" : "Edit selection"} →
         </Link>
       </div>
-      <div className="flex flex-wrap gap-2">
+      <ul className="flex flex-col gap-2">
         {items.map((item) => {
           const variantLabel = [item.colorName, item.sizeLabel]
             .filter(Boolean)
             .join(" · ")
+          const decoration = summarizeDecorationSelection(item, locale)
           return (
-            <span
+            <li
               key={lineKey(item)}
-              className="inline-flex items-center gap-2 px-3 py-1.5 text-xs font-medium text-[var(--brand-black)] bg-[var(--surface)] border border-[var(--border)] rounded-full"
+              className="rounded-xl border border-[var(--border)] bg-[var(--surface)] px-3 py-2.5 text-xs text-[var(--brand-black)]"
             >
-              {item.name}
-              {item.supplierSku && (
-                <span className="font-mono text-[var(--text-soft)]">
-                  · {item.supplierSku}
-                </span>
-              )}
-              {variantLabel && (
-                <span className="text-[var(--text-soft)]">· {variantLabel}</span>
-              )}
-              <span className="text-[var(--text-muted)]">× {item.quantity}</span>
-            </span>
+              <div className="flex flex-wrap items-center gap-x-2 gap-y-1 font-medium">
+                <span>{item.name}</span>
+                {item.supplierSku ? (
+                  <span className="font-mono text-[var(--text-soft)]">
+                    {item.supplierSku}
+                  </span>
+                ) : null}
+                {variantLabel ? (
+                  <span className="text-[var(--text-soft)]">{variantLabel}</span>
+                ) : null}
+                <span className="text-[var(--text-muted)]">× {item.quantity}</span>
+              </div>
+              {decoration ? (
+                <div className="mt-2 border-t border-[var(--border-soft)] pt-2 leading-relaxed text-[var(--text-soft)]">
+                  <p>
+                    <span className="font-semibold text-[var(--brand-black)]">
+                      {ro ? "Personalizare selectată" : "Selected personalization"}:
+                    </span>{" "}
+                    {decoration.method}
+                  </p>
+                  <p className="mt-0.5 text-[var(--text-muted)]">
+                    {decoration.options.join(" · ")}
+                  </p>
+                  <p className="mt-1 font-medium text-[var(--brand-black)]">
+                    {ro ? "Estimare personalizare" : "Personalization estimate"}: {decoration.decorationPrice}
+                    {decoration.lineTotal
+                      ? ` · ${ro ? "Produse + personalizare" : "Products + personalization"}: ${decoration.lineTotal}`
+                      : ""}
+                  </p>
+                </div>
+              ) : null}
+            </li>
           )
         })}
-      </div>
+      </ul>
       <p className="rounded-xl border border-[var(--border-soft)] bg-[var(--surface)] px-3 py-2 text-xs leading-relaxed text-[var(--text-muted)]">
         {priceDisclosure.compact}
       </p>
@@ -620,10 +773,12 @@ function SelectedProductsPanel({
 
 function SuccessCard({
   hadSelection,
+  hadBriefDetails,
   locale,
   onClearOffer,
 }: {
   hadSelection: boolean
+  hadBriefDetails: boolean
   locale: "ro" | "en"
   onClearOffer: () => void
 }) {
@@ -652,12 +807,16 @@ function SuccessCard({
       </span>
       <div className="flex flex-col gap-2">
         <h2 className="text-3xl sm:text-4xl font-[family-name:var(--font-outfit)] font-semibold text-[var(--brand-black)]">
-          {ro ? "Am primit brieful." : "Brief received."}
+          {ro ? "Am primit cererea." : "Request received."}
         </h2>
         <p className="text-base lg:text-lg text-[var(--text-soft)] leading-relaxed">
-          {ro
-            ? "Mulțumim. Un membru al echipei de producție va analiza brieful și va reveni în cel mult o zi lucrătoare cu oferta și planul de mostre."
-            : "Thank you. A member of our production team will review your brief and come back within 1 business day with a quote and a sample plan."}
+          {hadBriefDetails
+            ? ro
+              ? "Mulțumim. Un membru al echipei de producție va analiza detaliile și va reveni în cel mult o zi lucrătoare cu următorii pași, iar unde este posibil, cu oferta și planul de mostre."
+              : "Thank you. A member of our production team will review the details and come back within 1 business day with next steps and, where possible, a quote and sample plan."
+            : ro
+              ? "Mulțumim. Te vom contacta în cel mult o zi lucrătoare pentru a clarifica detaliile proiectului și următorii pași."
+              : "Thank you. We'll contact you within 1 business day to clarify the project details and next steps."}
         </p>
         {hadSelection ? (
           <p className="text-sm leading-relaxed text-[var(--text-muted)]">

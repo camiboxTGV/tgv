@@ -6,6 +6,9 @@ import LocalizedText from "@/components/LocalizedText"
 import PriceScopeNotice from "@/components/pricing/PriceScopeNotice"
 import SearchSortSelect from "@/components/SearchSortSelect"
 import StockBadge from "@/components/StockBadge"
+import { catalogColourBackground } from "@/lib/content/catalog-colors"
+import { productCardColourSummary } from "@/lib/content/product-card-colours"
+import { getProductBySlug } from "@/lib/content/catalog.server"
 import { searchCatalog } from "@/lib/search/catalogSearch.server"
 import { SEARCH_MAX_QUERY_LENGTH, SEARCH_PAGE_SIZE } from "@/lib/search/fuseConfig"
 import { normalizeSearchSort, type SearchSort } from "@/lib/search/sorting"
@@ -45,6 +48,12 @@ function formatPrice(value: number): string {
 
 function ResultCard({ result }: Readonly<{ result: SearchResult }>) {
   const href = `/catalog/${result.category}/${result.slug}`
+  const { visibleSwatches, extraCount } = productCardColourSummary(
+    getProductBySlug(result.slug)?.colorSwatches,
+  )
+  const colourSummary = `Available colours: ${visibleSwatches
+    .map((colour) => colour.name)
+    .join(", ")}${extraCount > 0 ? `, and ${extraCount} more` : ""}`
 
   return (
     <article className="group flex flex-col overflow-hidden rounded-2xl border border-[var(--border)] bg-[var(--surface)] transition-colors hover:border-[var(--border-strong)]">
@@ -79,6 +88,33 @@ function ResultCard({ result }: Readonly<{ result: SearchResult }>) {
           <p className="font-mono text-[11px] font-semibold uppercase tracking-wide text-[var(--text-muted)]">
             <LocalizedText en="Code" ro="Cod" /> {result.supplierSku}
           </p>
+          {visibleSwatches.length > 0 ? (
+            <div
+              role="img"
+              aria-label={colourSummary}
+              className="flex flex-wrap items-center gap-1.5"
+            >
+              {visibleSwatches.map((colour) => (
+                <span
+                  key={colour.name}
+                  aria-hidden="true"
+                  title={colour.name}
+                  className="inline-block h-4 w-4 rounded-full border border-[var(--text-muted)]"
+                  style={{
+                    background: catalogColourBackground(colour.name, colour.hex),
+                  }}
+                />
+              ))}
+              {extraCount > 0 ? (
+                <span
+                  aria-hidden="true"
+                  className="text-[11px] text-[var(--text-muted)]"
+                >
+                  +{extraCount}
+                </span>
+              ) : null}
+            </div>
+          ) : null}
           <div className="mt-auto flex items-baseline gap-2 pt-3">
             {result.priceFrom ? (
               <span className="text-xs text-[var(--text-muted)]">

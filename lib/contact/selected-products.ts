@@ -1,8 +1,14 @@
 import type { Personalization } from "@/lib/content/catalog"
-import type { OfferItem } from "@/lib/offer/storage"
+import {
+  lineKey,
+  MAX_OFFER_ITEMS,
+  MAX_OFFER_REQUEST_JSON_CHARS,
+  type OfferItem,
+} from "../offer/storage.ts"
+import { parseDecorationOptions } from "../pricing/decoration-options.ts"
 
-export const MAX_SELECTED_PRODUCTS = 50
-export const MAX_SELECTED_PRODUCTS_JSON_CHARS = 128 * 1024
+export const MAX_SELECTED_PRODUCTS = MAX_OFFER_ITEMS
+export const MAX_SELECTED_PRODUCTS_JSON_CHARS = MAX_OFFER_REQUEST_JSON_CHARS
 
 const MAX_QUANTITY = 1_000_000
 const MAX_PRICE_SNAPSHOT = 1_000_000_000
@@ -45,6 +51,7 @@ export function parseSelectedProducts(raw: unknown): OfferItem[] | null {
   if (!Array.isArray(parsed) || parsed.length > MAX_SELECTED_PRODUCTS) return null
 
   const items: OfferItem[] = []
+  const seenLineKeys = new Set<string>()
   for (const value of parsed) {
     if (!value || typeof value !== "object") return null
     const candidate = value as Record<string, unknown>
@@ -106,6 +113,20 @@ export function parseSelectedProducts(raw: unknown): OfferItem[] | null {
       item.personalizations = [...new Set(candidate.personalizations)]
     }
 
+    if (candidate.decorationOptions !== undefined) {
+      const decorationOptions = parseDecorationOptions(candidate.decorationOptions)
+      if (
+        !decorationOptions ||
+        !item.personalizations?.includes(decorationOptions.method)
+      ) {
+        return null
+      }
+      item.decorationOptions = decorationOptions
+    }
+
+    const key = lineKey(item)
+    if (seenLineKeys.has(key)) return null
+    seenLineKeys.add(key)
     items.push(item)
   }
 

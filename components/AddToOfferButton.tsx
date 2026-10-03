@@ -1,7 +1,9 @@
 "use client"
 
 import { useOffer } from "@/components/OfferProvider"
+import { useLanguage } from "@/components/LanguageProvider"
 import type { CatalogProduct, ProductVariant } from "@/lib/content/catalog"
+import { MAX_OFFER_ITEMS } from "@/lib/offer/storage"
 import { offerThumbnailFor } from "@/lib/offer/thumbnail"
 
 export type AddToOfferProduct = Pick<
@@ -30,9 +32,11 @@ export default function AddToOfferButton({
   hasFreshSupplierMethods,
   size = "sm",
 }: Readonly<Props>) {
-  const { add, has, hasLine, hydrated } = useOffer()
+  const { locale } = useLanguage()
+  const { add, has, hasLine, count, hydrated } = useOffer()
   const lineKey = variant?.contentKey ?? product.slug
   const added = hydrated && hasLine(lineKey)
+  const offerLimitReached = hydrated && count >= MAX_OFFER_ITEMS
   const outOfStock =
     variant?.stockLevel === "out-of-stock" || product.stockLevel === "out-of-stock"
   const sizeClass = size === "md" ? "py-3 text-base" : "py-2.5 text-sm"
@@ -77,6 +81,27 @@ export default function AddToOfferButton({
         >
           <polyline points="20 6 9 17 4 12" />
         </svg>
+        {label}
+      </button>
+    )
+  }
+
+  if (offerLimitReached) {
+    const label =
+      locale === "ro"
+        ? `Limita de ${MAX_OFFER_ITEMS} de produse a fost atinsă`
+        : `${MAX_OFFER_ITEMS}-product offer limit reached`
+    return (
+      <button
+        type="button"
+        disabled
+        aria-label={`${label}. ${
+          locale === "ro"
+            ? "Elimină un produs din ofertă pentru a adăuga altul."
+            : "Remove a product from your offer to add another."
+        }`}
+        className={`inline-flex items-center justify-center gap-2 px-4 w-full font-semibold text-[var(--text-muted)] bg-[var(--surface-soft)] border border-[var(--border-soft)] rounded-full cursor-not-allowed ${sizeClass}`}
+      >
         {label}
       </button>
     )

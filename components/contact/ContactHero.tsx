@@ -11,8 +11,8 @@ interface Step {
 const STEPS: Step[] = [
   {
     n: "01",
-    title: "We review your brief",
-    body: "Our team reads your message, files and selected products within 1 business day.",
+    title: "We review your request",
+    body: "We review any details you share. If you send only contact information, we'll follow up to clarify the brief within 1 business day.",
   },
   {
     n: "02",
@@ -27,7 +27,7 @@ const STEPS: Step[] = [
 ]
 
 const STEPS_RO: Step[] = [
-  { n: "01", title: "Analizăm brieful", body: "Echipa citește mesajul, fișierele și produsele selectate în cel mult o zi lucrătoare." },
+  { n: "01", title: "Analizăm cererea", body: "Analizăm orice detalii trimiți. Dacă lași doar datele de contact, revenim în cel mult o zi lucrătoare pentru a clarifica brieful." },
   { n: "02", title: "Primești oferta și planul de mostre", body: "Trimitem o ofertă transparentă, planul de mostre și tehnica recomandată pentru material." },
   { n: "03", title: "Începe producția", body: "După aprobarea probei, producția începe, iar livrarea are loc în 5–10 zile lucrătoare." },
 ]
@@ -49,8 +49,8 @@ export default function ContactHero() {
         </h1>
         <p className="mt-5 max-w-md text-sm lg:text-base text-white/70 leading-relaxed">
           {ro
-            ? "Spune-ne despre proiect. Trimite grafica, contextul evenimentului și imaginile de referință — revenim cu un plan."
-            : "Tell us about your project. Send us your artwork, the event context and any reference images — we'll come back with a plan."}
+            ? "Emailul și telefonul sunt suficiente pentru început. Opțional, adaugă detalii despre proiect, grafică sau imagini de referință — revenim cu un plan."
+            : "Email and phone are enough to get started. Optionally add project details, artwork or reference images — we'll come back with a plan."}
         </p>
       </div>
 

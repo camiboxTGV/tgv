@@ -2,6 +2,7 @@ import type { Metadata } from "next"
 import { Suspense } from "react"
 import ContactHero from "@/components/contact/ContactHero"
 import ContactForm from "@/components/contact/ContactForm"
+import OfferContactGuard from "@/components/contact/OfferContactGuard"
 import ContactDetails from "@/components/contact/ContactDetails"
 import TeamPortraits from "@/components/contact/TeamPortraits"
 import PricingCalculatorCallout from "@/components/contact/PricingCalculatorCallout"
@@ -27,7 +28,9 @@ export default async function ContactPage({ searchParams }: ContactPageProps) {
         <PricingCalculatorCallout />
       </div>
       <Suspense fallback={null}>
-        <ContactForm />
+        <OfferContactGuard>
+          <ContactForm />
+        </OfferContactGuard>
       </Suspense>
     </div>
   )

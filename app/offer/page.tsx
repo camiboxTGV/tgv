@@ -3,24 +3,34 @@
 import Link from "next/link"
 import { useRouter } from "next/navigation"
 import { useOffer } from "@/components/OfferProvider"
+import OfferSelectionError from "@/components/OfferSelectionError"
 import OfferProductThumbnail from "@/components/OfferProductThumbnail"
 import DecorationEstimator from "@/components/pricing/DecorationEstimator"
 import { getCategoryBySlugPath, getTopCategories } from "@/lib/content/catalog"
-import { lineKey, serializeForUrl } from "@/lib/offer/storage"
+import { lineKey } from "@/lib/offer/storage"
 import { getPriceDisclosure } from "@/lib/pricing/disclosure"
 import { useLanguage } from "@/components/LanguageProvider"
 
 export default function OfferPage() {
-  const { items, count, totalQuantity, hydrated, remove, setLineQuantity, clear } =
-    useOffer()
+  const {
+    items,
+    count,
+    totalQuantity,
+    hydrated,
+    offerLoadError,
+    remove,
+    setLineQuantity,
+    setLineDecoration,
+    clear,
+    resetInvalidOffer,
+  } = useOffer()
   const router = useRouter()
   const { locale } = useLanguage()
   const ro = locale === "ro"
   const priceDisclosure = getPriceDisclosure(locale)
 
   const goToBrief = () => {
-    const encoded = serializeForUrl(items)
-    router.push(`/contact?from=offer&items=${encoded}`)
+    router.push("/contact?from=offer")
   }
 
   return (
@@ -30,13 +40,14 @@ export default function OfferPage() {
           {ro ? "Oferta ta" : "Your offer"}
         </p>
         <h1 className="mt-4 text-4xl sm:text-5xl lg:text-6xl font-[family-name:var(--font-outfit)] font-bold leading-tight tracking-tight text-[var(--brand-black)]">
-          {ro ? "Construiește brieful." : "Build the brief."}
+          {ro ? "Verifică selecția." : "Review your selection."}
         </h1>
         <p className="mt-6 max-w-2xl text-lg text-[var(--text-soft)] leading-relaxed">
           {ro
-            ? "Ajustează cantitățile, estimează metodele de producție disponibile, apoi trimite brieful. Verificăm grafica și revenim cu oferta finală."
-            : "Adjust quantities, estimate eligible production methods, then send the brief. We'll validate the artwork and return the final quote."}
+            ? "Acesta este primul din doi pași. Ajustează cantitățile și personalizarea, apoi adaugă emailul și telefonul în formularul de contact pentru a trimite cererea."
+            : "This is the first of two steps. Adjust quantities and personalization, then add your email and phone in the contact form to send the request."}
         </p>
+        <OfferRequestSteps locale={locale} />
       </section>
 
       {!hydrated ? (
@@ -44,6 +55,15 @@ export default function OfferPage() {
           <div className="p-6 bg-[var(--surface)] border border-[var(--border)] rounded-2xl text-sm text-[var(--text-muted)]">
             {ro ? "Se încarcă oferta…" : "Loading your offer…"}
           </div>
+        </section>
+      ) : offerLoadError ? (
+        <section className="mx-auto px-6 lg:px-8 pb-24 max-w-4xl">
+          <OfferSelectionError
+            locale={locale}
+            mode="invalid-storage"
+            onReset={resetInvalidOffer}
+            showBackToOffer={false}
+          />
         </section>
       ) : count === 0 ? (
         <EmptyState locale={locale} />
@@ -144,6 +164,10 @@ export default function OfferPage() {
                         quantity={item.quantity}
                         productUnitPrice={item.priceSnapshot}
                         productName={item.name}
+                        initialOptions={item.decorationOptions}
+                        onOptionsChange={(options) =>
+                          setLineDecoration(key, options)
+                        }
                       />
                     </div>
                   </details>
@@ -152,16 +176,23 @@ export default function OfferPage() {
             })}
           </ul>
 
-          <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mt-8 p-5 bg-[var(--surface-elevated)] rounded-2xl">
-            <div className="text-sm text-[var(--text-soft)]">
-              <span className="font-semibold text-[var(--brand-black)]">
-                {count}
-              </span>{" "}
-              {ro ? (count === 1 ? "produs" : "produse") : (count === 1 ? "product" : "products")} ·{" "}
-              <span className="font-semibold text-[var(--brand-black)]">
-                {totalQuantity}
-              </span>{" "}
-              {ro ? "bucăți în total" : "total units"}
+          <div className="flex flex-col sm:flex-row sm:items-end justify-between gap-5 mt-8 p-5 bg-[var(--surface-elevated)] rounded-2xl">
+            <div>
+              <div className="text-sm text-[var(--text-soft)]">
+                <span className="font-semibold text-[var(--brand-black)]">
+                  {count}
+                </span>{" "}
+                {ro ? (count === 1 ? "produs" : "produse") : (count === 1 ? "product" : "products")} ·{" "}
+                <span className="font-semibold text-[var(--brand-black)]">
+                  {totalQuantity}
+                </span>{" "}
+                {ro ? "bucăți în total" : "total units"}
+              </div>
+              <p className="mt-2 max-w-md text-sm font-medium leading-relaxed text-[var(--brand-black)]">
+                {ro
+                  ? "Cererea nu a fost trimisă încă. Următorul pas: adaugă emailul și telefonul, apoi trimite formularul."
+                  : "Your request has not been sent yet. Next: add your email and phone, then submit the form."}
+              </p>
             </div>
             <div className="flex flex-col sm:flex-row gap-3">
               <button
@@ -176,7 +207,11 @@ export default function OfferPage() {
                 onClick={goToBrief}
                 className="inline-flex items-center justify-center gap-2 px-6 py-3 text-sm font-semibold text-white bg-[var(--brand-orange)] rounded-full hover:scale-[1.02] transition-transform"
               >
-                <span>{ro ? "Continuă către brief" : "Continue to brief"}</span>
+                <span>
+                  {ro
+                    ? "Pasul 2: adaugă datele de contact"
+                    : "Step 2: add contact details"}
+                </span>
                 <span aria-hidden="true">→</span>
               </button>
             </div>
@@ -204,6 +239,38 @@ export default function OfferPage() {
         </section>
       )}
     </>
+  )
+}
+
+function OfferRequestSteps({
+  locale,
+}: Readonly<{
+  locale: "ro" | "en"
+}>) {
+  const ro = locale === "ro"
+
+  return (
+    <ol
+      aria-label={ro ? "Pașii cererii de ofertă" : "Quote request steps"}
+      className="mt-8 grid grid-cols-1 gap-3 sm:grid-cols-2"
+    >
+      <li className="rounded-2xl bg-[var(--brand-black)] p-4 text-white">
+        <p className="text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange-bright)]">
+          {ro ? "Pasul 1 din 2 · Acum" : "Step 1 of 2 · Now"}
+        </p>
+        <p className="mt-2 font-[family-name:var(--font-outfit)] text-lg font-semibold">
+          {ro ? "Verifică produsele" : "Review products"}
+        </p>
+      </li>
+      <li className="rounded-2xl border border-[var(--border)] bg-[var(--surface)] p-4">
+        <p className="text-xs font-semibold uppercase tracking-widest text-[var(--text-muted)]">
+          {ro ? "Pasul 2 din 2 · Urmează" : "Step 2 of 2 · Next"}
+        </p>
+        <p className="mt-2 font-[family-name:var(--font-outfit)] text-lg font-semibold text-[var(--brand-black)]">
+          {ro ? "Adaugă emailul și telefonul" : "Add email and phone"}
+        </p>
+      </li>
+    </ol>
   )
 }
 

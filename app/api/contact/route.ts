@@ -2,19 +2,29 @@ import { NextResponse } from "next/server"
 import {
   ACCEPTED_FILE_EXTENSIONS,
   DEADLINE_PRESETS,
-  EMAIL_REGEX,
   MAX_CONTEXT_CHARS,
   MAX_FILE_COUNT,
   MAX_FILE_BYTES,
   MAX_MULTIPART_BODY_BYTES,
   MAX_TOTAL_UPLOAD_BYTES,
-  MIN_CONTEXT_CHARS,
   QUANTITY_BUCKETS,
   type ContactPayload,
   type DeadlinePreset,
   type QuantityBucket,
 } from "@/lib/contact/types"
+import {
+  hasContactPhone,
+  isValidContactDateInput,
+  isValidContactEmail,
+  isWithinContactFieldLimit,
+} from "@/lib/contact/required-contact"
+import { toTimeZoneDateInputValue } from "@/lib/contact/local-date"
+import { resolveSelectedProductsAgainstCatalog } from "@/lib/contact/authoritative-selected-products"
 import { parseSelectedProducts } from "@/lib/contact/selected-products"
+import {
+  getProductBySlug,
+  getProductVariants,
+} from "@/lib/content/catalog.server"
 import {
   renderContactEmail,
   type AttachmentSummary,
@@ -138,25 +148,33 @@ async function handleContactRequest(request: Request): Promise<Response> {
       : null
   const deadlineDate = (form.get("deadlineDate") ?? "").toString().trim()
   const context = (form.get("context") ?? "").toString()
-  const selectedProducts = parseSelectedProducts(form.get("selectedProducts"))
+  const parsedSelectedProducts = parseSelectedProducts(form.get("selectedProducts"))
 
-  if (name.length === 0) return bad("name_required")
-  if (!EMAIL_REGEX.test(email)) return bad("email_invalid")
+  if (
+    !isWithinContactFieldLimit("name", name) ||
+    !isWithinContactFieldLimit("company", company) ||
+    !isWithinContactFieldLimit("quantityOther", quantityOther)
+  ) {
+    return bad("invalid_form")
+  }
+  if (!isValidContactEmail(email)) return bad("email_invalid")
+  if (phone.length === 0) return bad("phone_required")
+  if (!hasContactPhone(phone)) return bad("phone_invalid")
   if (!isValidQuantity(quantity)) return bad("quantity_invalid")
   if (!isValidDeadlinePreset(deadlinePreset)) return bad("deadline_preset_invalid")
-  if (deadlinePreset === null && deadlineDate.length === 0) {
-    return bad("deadline_required")
-  }
   if (deadlineDate.length > 0) {
-    const parsed = new Date(deadlineDate)
-    if (Number.isNaN(parsed.getTime())) return bad("deadline_date_invalid")
-    const today = new Date()
-    today.setHours(0, 0, 0, 0)
-    if (parsed.getTime() < today.getTime()) return bad("deadline_date_past")
+    if (!isValidContactDateInput(deadlineDate)) {
+      return bad("deadline_date_invalid")
+    }
+    const today = toTimeZoneDateInputValue(new Date(), "Europe/Bucharest")
+    if (deadlineDate < today) return bad("deadline_date_past")
   }
-  const contextTrimmed = context.trim()
-  if (contextTrimmed.length < MIN_CONTEXT_CHARS) return bad("context_too_short")
   if (context.length > MAX_CONTEXT_CHARS) return bad("context_too_long")
+  if (parsedSelectedProducts === null) return bad("products_invalid")
+  const selectedProducts = resolveSelectedProductsAgainstCatalog(
+    parsedSelectedProducts,
+    { getProductBySlug, getProductVariants },
+  )
   if (selectedProducts === null) return bad("products_invalid")
 
   const fileEntries = form.getAll("files").filter((v): v is File => v instanceof File)
