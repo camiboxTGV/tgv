@@ -447,8 +447,24 @@ test("Makito validates variant asset ownership and mirrors one protected product
   assert.equal(buildProducts(feeds())[0]?.variants?.every((variant) => !variant.images), true)
 })
 
+test("Makito ignores directory asset URLs and falls back to a concrete variant image", () => {
+  const directoryUrl = asset("P-100/principal/")
+  const products = buildProducts(feeds({
+    catalog: {
+      products: [product({ image: directoryUrl })],
+    },
+  }))
+
+  assert.equal(isTrustedMakitoCatalogAssetUrl(directoryUrl), false)
+  assert.equal(
+    products[0]?.images[0],
+    asset("P-100/10001000001/principal/10001-blue.jpg"),
+  )
+})
+
 test("Makito catalog assets are restricted to the exact protected HTTPS namespace", () => {
   assert.equal(isTrustedMakitoCatalogAssetUrl(asset("P-100/main.jpg")), true)
+  assert.equal(isTrustedMakitoCatalogAssetUrl(asset("P-100/principal%2F")), false)
   assert.equal(
     isTrustedMakitoCatalogAssetUrl("http://apis.makito.es/catalog/assets/P-100/main.jpg"),
     false,

@@ -161,7 +161,13 @@ export function isTrustedMakitoCatalogAssetUrl(value: unknown): value is string 
   } catch {
     return false
   }
-  if (!decodedPath.startsWith(CATALOG_ASSET_PREFIX) || decodedPath.includes("\\")) {
+  // The catalog also emits directory endpoints such as `<ref>/principal/`;
+  // they return 403, so only concrete asset paths are safe mirror candidates.
+  if (
+    !decodedPath.startsWith(CATALOG_ASSET_PREFIX) ||
+    decodedPath.endsWith("/") ||
+    decodedPath.includes("\\")
+  ) {
     return false
   }
   const segments = decodedPath.split("/")
