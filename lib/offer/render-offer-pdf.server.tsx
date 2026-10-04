@@ -18,6 +18,7 @@ import type {
 import { OFFER_PDF_TIME_ZONE } from "./offer-document.ts"
 import { OfferPdfNotes } from "./offer-pdf-notes.ts"
 
+const SITE_URL = "https://www.tgv-media.ro"
 const BRAND_ORANGE = "#FF6600"
 const BRAND_ORANGE_TEXT = "#9F3F00"
 const BRAND_BLACK = "#0F0F10"
@@ -192,6 +193,7 @@ const styles = StyleSheet.create({
     justifyContent: "center",
     marginRight: 12,
     overflow: "hidden",
+    textDecoration: "none",
   },
   productImage: {
     width: 64,
@@ -217,9 +219,11 @@ const styles = StyleSheet.create({
     textTransform: "uppercase",
   },
   productName: {
+    color: BRAND_BLACK,
     fontSize: 12.5,
     fontWeight: 700,
     lineHeight: 1.25,
+    textDecoration: "underline",
   },
   productMeta: {
     color: TEXT_MUTED,
@@ -555,7 +559,7 @@ function OfferPdfDocument({ model }: { model: OfferDocumentModel }) {
 
         <View style={styles.contactRow} wrap={false}>
           <Text style={styles.contactText}>office@tgv-media.ro</Text>
-          <Link src="https://www.tgv-media.ro" style={styles.contactLink}>
+          <Link src={SITE_URL} style={styles.contactLink}>
             www.tgv-media.ro
           </Link>
         </View>
@@ -591,22 +595,25 @@ function ProductLine({
     item.variantLabel ? `${copy.variant}: ${item.variantLabel}` : null,
     item.category.replaceAll("/", " / "),
   ].filter(Boolean)
+  const productUrl = `${SITE_URL}/catalog/${item.category}/${item.slug}`
 
   return (
     <View style={styles.productCard} wrap={false}>
       <View style={styles.productTop}>
-        <View style={styles.imageBox}>
+        <Link src={productUrl} style={styles.imageBox}>
           {item.imageData ? (
             <PdfImage src={item.imageData} style={styles.productImage} />
           ) : (
             <Text style={styles.imagePlaceholder}>TGV</Text>
           )}
-        </View>
+        </Link>
         <View style={styles.productMain}>
           <Text style={styles.lineNumber}>
             {copy.line} {index + 1}
           </Text>
-          <Text style={styles.productName}>{item.name}</Text>
+          <Link src={productUrl} style={styles.productName}>
+            {item.name}
+          </Link>
           <Text style={styles.productMeta}>{meta.join("  ·  ")}</Text>
           <View style={styles.priceGrid}>
             <View style={styles.priceCell}>
