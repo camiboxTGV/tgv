@@ -33,11 +33,11 @@ Font.register({
   family: "Lato",
   fonts: [
     {
-      src: join(process.cwd(), "public/fonts/pdf/Lato-Regular.ttf"),
+      src: join(process.cwd(), "lib/offer/fonts/Lato-Regular.ttf"),
       fontWeight: 400,
     },
     {
-      src: join(process.cwd(), "public/fonts/pdf/Lato-Bold.ttf"),
+      src: join(process.cwd(), "lib/offer/fonts/Lato-Bold.ttf"),
       fontWeight: 700,
     },
   ],
