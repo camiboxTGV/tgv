@@ -158,14 +158,14 @@ export default function NavBar() {
                     ? `${count} ${count === 1 ? "produs" : "produse"} în oferta ta`
                     : `${count} item${count === 1 ? "" : "s"} in your offer`
                 }
-                className="inline-flex h-8 min-w-8 items-center justify-center rounded-full border border-[var(--brand-orange)] bg-[var(--surface)] px-2 text-xs font-semibold tabular-nums text-[var(--brand-orange)] transition-colors hover:bg-[var(--brand-orange)] hover:text-white"
+                className="inline-flex h-8 min-w-8 items-center justify-center rounded-full border border-[var(--brand-orange-focus)] bg-[var(--surface)] px-2 text-xs font-semibold tabular-nums text-[var(--brand-orange-text)] transition-colors hover:border-[var(--brand-orange)] hover:bg-[var(--brand-orange)] hover:text-[var(--brand-black)]"
               >
                 {countLabel}
               </Link>
             )}
             <Link
               href="/contact"
-              className="inline-flex items-center whitespace-nowrap px-5 py-2.5 text-sm font-semibold text-white bg-[var(--primary)] hover:bg-[var(--primary-hover)] rounded-full transition-colors"
+              className="inline-flex items-center whitespace-nowrap px-5 py-2.5 text-sm font-semibold text-[var(--brand-black)] bg-[var(--primary)] hover:bg-[var(--primary-hover)] rounded-full transition-colors"
             >
               {locale === "ro" ? "Începe un proiect" : "Start a project"}
             </Link>
@@ -260,7 +260,7 @@ export default function NavBar() {
                 onClick={() => closeMenu()}
                 className={`text-2xl font-[family-name:var(--font-outfit)] font-semibold ${
                   isActive(link.href)
-                    ? "text-[var(--brand-orange)]"
+                    ? "text-[var(--brand-orange-text)]"
                     : "text-[var(--brand-black)]"
                 }`}
               >
@@ -273,7 +273,7 @@ export default function NavBar() {
             <Link
               href="/offer"
               onClick={() => closeMenu()}
-              className="inline-flex items-center justify-center gap-2 mt-auto mb-3 px-6 py-3 text-sm font-semibold text-[var(--brand-orange)] bg-[var(--surface)] border border-[var(--brand-orange)] rounded-full"
+              className="inline-flex items-center justify-center gap-2 mt-auto mb-3 px-6 py-3 text-sm font-semibold text-[var(--brand-orange-text)] bg-[var(--surface)] border border-[var(--brand-orange-focus)] rounded-full"
             >
               <span>
                 {locale === "ro" ? "Construiește oferta" : "Build my offer"} ({count})
@@ -284,7 +284,7 @@ export default function NavBar() {
           <Link
             href="/contact"
             onClick={() => closeMenu()}
-            className={`inline-flex items-center justify-center px-6 py-3.5 text-base font-semibold text-white bg-[var(--primary)] hover:bg-[var(--primary-hover)] rounded-full transition-colors ${
+            className={`inline-flex items-center justify-center px-6 py-3.5 text-base font-semibold text-[var(--brand-black)] bg-[var(--primary)] hover:bg-[var(--primary-hover)] rounded-full transition-colors ${
               hydrated && count > 0 ? "" : "mt-auto"
             }`}
           >

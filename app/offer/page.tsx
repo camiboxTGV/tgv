@@ -5,6 +5,7 @@ import { useRouter } from "next/navigation"
 import { useOffer } from "@/components/OfferProvider"
 import OfferSelectionError from "@/components/OfferSelectionError"
 import OfferProductThumbnail from "@/components/OfferProductThumbnail"
+import OfferPdfExport from "@/components/OfferPdfExport"
 import DecorationEstimator from "@/components/pricing/DecorationEstimator"
 import { getCategoryBySlugPath, getTopCategories } from "@/lib/content/catalog"
 import { lineKey } from "@/lib/offer/storage"
@@ -70,7 +71,7 @@ export default function OfferPage() {
       ) : (
         <section className="mx-auto px-6 lg:px-8 pb-24 max-w-4xl">
           <aside className="mb-6 rounded-2xl border border-[var(--brand-orange)]/25 bg-[var(--surface-soft)] p-5">
-            <p className="text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange)]">
+            <p className="text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange-text)]">
               {ro ? "Cum se finalizează prețul" : "How final pricing works"}
             </p>
             <p className="mt-2 text-sm leading-relaxed text-[var(--text-soft)]">
@@ -78,6 +79,9 @@ export default function OfferPage() {
             </p>
           </aside>
 
+          <h2 className="sr-only">
+            {ro ? "Produsele selectate" : "Selected products"}
+          </h2>
           <ul className="flex flex-col gap-3">
             {items.map((item) => {
               const category = getCategoryBySlugPath(item.category)
@@ -133,7 +137,7 @@ export default function OfferPage() {
                         type="button"
                         onClick={() => remove(key)}
                         aria-label={`${ro ? "Elimină" : "Remove"} ${item.name}`}
-                        className="inline-flex items-center justify-center w-9 h-9 text-[var(--text-muted)] hover:text-[var(--brand-orange)] bg-[var(--surface-soft)] hover:bg-[var(--surface)] border border-[var(--border-soft)] rounded-full transition-colors"
+                        className="inline-flex items-center justify-center w-9 h-9 text-[var(--text-muted)] hover:text-[var(--brand-orange-text)] bg-[var(--surface-soft)] hover:bg-[var(--surface)] border border-[var(--border-soft)] rounded-full transition-colors"
                       >
                         <svg
                           xmlns="http://www.w3.org/2000/svg"
@@ -154,7 +158,7 @@ export default function OfferPage() {
                   </div>
 
                   <details className="group mt-4 border-t border-[var(--border-soft)] pt-4">
-                    <summary className="cursor-pointer list-none text-sm font-semibold text-[var(--brand-orange)]">
+                    <summary className="cursor-pointer list-none text-sm font-semibold text-[var(--brand-orange-text)]">
                       <span className="group-open:hidden">{ro ? "Calculează această poziție" : "Calculate this line"} +</span>
                       <span className="hidden group-open:inline">{ro ? "Ascunde calculatorul" : "Hide calculator"} −</span>
                     </summary>
@@ -175,6 +179,8 @@ export default function OfferPage() {
               )
             })}
           </ul>
+
+          <OfferPdfExport items={items} locale={locale} />
 
           <div className="flex flex-col sm:flex-row sm:items-end justify-between gap-5 mt-8 p-5 bg-[var(--surface-elevated)] rounded-2xl">
             <div>
@@ -205,7 +211,7 @@ export default function OfferPage() {
               <button
                 type="button"
                 onClick={goToBrief}
-                className="inline-flex items-center justify-center gap-2 px-6 py-3 text-sm font-semibold text-white bg-[var(--brand-orange)] rounded-full hover:scale-[1.02] transition-transform"
+                className="inline-flex items-center justify-center gap-2 px-6 py-3 text-sm font-semibold text-[var(--brand-black)] bg-[var(--brand-orange)] rounded-full hover:scale-[1.02] transition-transform"
               >
                 <span>
                   {ro
@@ -221,7 +227,7 @@ export default function OfferPage() {
             <div className="flex flex-wrap gap-x-6 gap-y-3">
               <Link
                 href="/catalog"
-                className="inline-flex items-center gap-2 text-sm font-medium text-[var(--brand-orange)] hover:gap-3 transition-all"
+                className="inline-flex items-center gap-2 text-sm font-medium text-[var(--brand-orange-text)] hover:gap-3 transition-all"
               >
                 <span aria-hidden="true">←</span>
                 <span>{ro ? "Continuă în catalog" : "Continue browsing the catalog"}</span>
@@ -229,7 +235,7 @@ export default function OfferPage() {
               <a
                 href="/downloads/tgv-media-personalization-pricing.pdf"
                 download
-                className="inline-flex items-center gap-2 text-sm font-medium text-[var(--brand-orange)] hover:gap-3 transition-all"
+                className="inline-flex items-center gap-2 text-sm font-medium text-[var(--brand-orange-text)] hover:gap-3 transition-all"
               >
                 <span>{ro ? "Descarcă lista completă de prețuri (PDF)" : "Download full price list (PDF)"}</span>
                 <span aria-hidden="true">↓</span>
@@ -308,7 +314,7 @@ function EmptyState({ locale }: Readonly<{ locale: "ro" | "en" }>) {
               <span className="text-sm font-medium text-[var(--brand-black)]">
                 {c.name}
               </span>
-              <span aria-hidden="true" className="text-[var(--brand-orange)]">
+              <span aria-hidden="true" className="text-[var(--brand-orange-text)]">
                 →
               </span>
             </Link>
@@ -316,7 +322,7 @@ function EmptyState({ locale }: Readonly<{ locale: "ro" | "en" }>) {
         </div>
         <Link
           href="/catalog"
-          className="inline-flex items-center justify-center gap-2 px-6 py-3 text-sm font-semibold text-white bg-[var(--brand-orange)] rounded-full hover:scale-[1.02] transition-transform"
+          className="inline-flex items-center justify-center gap-2 px-6 py-3 text-sm font-semibold text-[var(--brand-black)] bg-[var(--brand-orange)] rounded-full hover:scale-[1.02] transition-transform"
         >
           <span>{ro ? "Vezi catalogul" : "Browse catalog"}</span>
           <span aria-hidden="true">→</span>
@@ -342,7 +348,7 @@ function QtyControl({
         type="button"
         onClick={() => onChange(value - 1)}
         aria-label={ro ? "Scade cantitatea" : "Decrease quantity"}
-        className="inline-flex items-center justify-center w-9 h-9 text-[var(--text-soft)] hover:text-[var(--brand-orange)] transition-colors"
+        className="inline-flex items-center justify-center w-9 h-9 text-[var(--text-soft)] hover:text-[var(--brand-orange-text)] transition-colors"
       >
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -365,13 +371,13 @@ function QtyControl({
         value={value}
         onChange={(e) => onChange(Number(e.target.value))}
         aria-label={ro ? "Cantitate" : "Quantity"}
-        className="w-16 text-center text-sm font-semibold text-[var(--brand-black)] bg-transparent border-none outline-none focus:ring-2 focus:ring-[var(--brand-orange)] rounded-full"
+        className="w-16 text-center text-sm font-semibold text-[var(--brand-black)] bg-transparent border-none outline-none focus:ring-2 focus:ring-[var(--brand-orange-focus)] rounded-full"
       />
       <button
         type="button"
         onClick={() => onChange(value + 1)}
         aria-label={ro ? "Crește cantitatea" : "Increase quantity"}
-        className="inline-flex items-center justify-center w-9 h-9 text-[var(--text-soft)] hover:text-[var(--brand-orange)] transition-colors"
+        className="inline-flex items-center justify-center w-9 h-9 text-[var(--text-soft)] hover:text-[var(--brand-orange-text)] transition-colors"
       >
         <svg
           xmlns="http://www.w3.org/2000/svg"

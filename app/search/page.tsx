@@ -59,7 +59,7 @@ function ResultCard({ result }: Readonly<{ result: SearchResult }>) {
     <article className="group flex flex-col overflow-hidden rounded-2xl border border-[var(--border)] bg-[var(--surface)] transition-colors hover:border-[var(--border-strong)]">
       <IntentPrefetchLink
         href={href}
-        className="flex h-full flex-col focus:outline-none focus-visible:ring-2 focus-visible:ring-inset focus-visible:ring-[var(--brand-orange)]"
+        className="flex h-full flex-col focus:outline-none focus-visible:ring-2 focus-visible:ring-inset focus-visible:ring-[var(--brand-orange-focus)]"
       >
         <div className="relative aspect-[4/3] overflow-hidden border-b border-[var(--border-soft)] bg-white">
           {result.thumbnail ? (
@@ -182,11 +182,11 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
           required
           autoFocus={!query}
           placeholder="Product name, code, brand, or category"
-          className="min-w-0 grow rounded-xl border border-[var(--border)] bg-[var(--surface)] px-4 py-3 text-[var(--brand-black)] outline-none transition-colors placeholder:text-[var(--text-muted)] focus:border-[var(--brand-orange)] focus:ring-2 focus:ring-[var(--brand-orange)]/20"
+          className="min-w-0 grow rounded-xl border border-[var(--border)] bg-[var(--surface)] px-4 py-3 text-[var(--brand-black)] outline-none transition-colors placeholder:text-[var(--text-muted)] focus:border-[var(--brand-orange-focus)] focus:ring-2 focus:ring-[var(--brand-orange-focus)]/20"
         />
         <button
           type="submit"
-          className="shrink-0 rounded-xl bg-[var(--brand-orange)] px-5 py-3 text-sm font-semibold text-white transition-opacity hover:opacity-90 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[var(--brand-orange)] focus-visible:ring-offset-2"
+          className="shrink-0 rounded-xl bg-[var(--brand-orange)] px-5 py-3 text-sm font-semibold text-[var(--brand-black)] transition-opacity hover:opacity-90 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[var(--brand-orange-focus)] focus-visible:ring-offset-2"
         >
           <LocalizedText en="Search" ro="Caută" />
         </button>
@@ -249,7 +249,7 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
               {currentPage > 1 ? (
                 <Link
                   href={pageHref(query, currentPage - 1, sort)}
-                  className="rounded-xl border border-[var(--border)] bg-[var(--surface)] px-4 py-2.5 text-sm font-semibold text-[var(--brand-black)] transition-colors hover:border-[var(--brand-orange)]"
+                  className="rounded-xl border border-[var(--border)] bg-[var(--surface)] px-4 py-2.5 text-sm font-semibold text-[var(--brand-black)] transition-colors hover:border-[var(--brand-orange-focus)]"
                 >
                   <LocalizedText en="← Previous" ro="← Înapoi" />
                 </Link>
@@ -259,7 +259,7 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
               {currentPage < totalPages ? (
                 <Link
                   href={pageHref(query, currentPage + 1, sort)}
-                  className="rounded-xl bg-[var(--brand-orange)] px-4 py-2.5 text-sm font-semibold text-white transition-opacity hover:opacity-90"
+                  className="rounded-xl bg-[var(--brand-orange)] px-4 py-2.5 text-sm font-semibold text-[var(--brand-black)] transition-opacity hover:opacity-90"
                 >
                   <LocalizedText en="Next →" ro="Înainte →" />
                 </Link>

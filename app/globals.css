@@ -1,8 +1,11 @@
 @import "tailwindcss";
 
 :root {
-  --brand-orange: #B34700;
-  --brand-orange-bright: #FF6600;
+  --brand-orange: #ff6600;
+  --brand-orange-bright: #ff6600;
+  --brand-orange-text: #b34700;
+  --brand-orange-focus: #b34700;
+  --brand-orange-hover: #e65c00;
   --brand-gray: #4D4D4D;
   --brand-black: #0F0F10;
 
@@ -19,14 +22,16 @@
   --border-soft: #ECEBF2;
   --border-strong: #D2D1DA;
 
-  --primary: #B34700;
-  --primary-hover: #9F3F00;
+  --primary: #ff6600;
+  --primary-hover: #e65c00;
   --secondary: #4D4D4D;
   --secondary-hover: #4D4D4D;
 }
 
 @theme inline {
   --color-brand-orange: var(--brand-orange);
+  --color-brand-orange-text: var(--brand-orange-text);
+  --color-brand-orange-focus: var(--brand-orange-focus);
   --color-brand-gray: var(--brand-gray);
   --color-brand-black: var(--brand-black);
 

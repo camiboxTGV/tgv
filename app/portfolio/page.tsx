@@ -18,7 +18,7 @@ export default function PortfolioPage() {
         </p>
         <h1 className="mt-4 max-w-4xl text-4xl sm:text-5xl lg:text-6xl font-[family-name:var(--font-outfit)] font-bold leading-tight tracking-tight text-[var(--brand-black)]">
           <LocalizedText en="A slice of work coming out of the " ro="O selecție de proiecte din " />
-          <span className="text-[var(--brand-orange)]">
+          <span className="text-[var(--brand-orange-text)]">
             <LocalizedText en="production floor" ro="atelierul nostru" />
           </span>.
         </h1>

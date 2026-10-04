@@ -64,7 +64,7 @@ export default function ProductCard({ product, priority = false }: Readonly<Prop
     >
       <IntentPrefetchLink
         href={detailHref}
-        className="flex flex-col gap-4 focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--brand-orange)] focus-visible:ring-offset-2 focus-visible:ring-offset-[var(--bg)] rounded-xl"
+        className="flex flex-col gap-4 focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--brand-orange-focus)] focus-visible:ring-offset-2 focus-visible:ring-offset-[var(--bg)] rounded-xl"
       >
         <div className="relative overflow-hidden aspect-[4/3] rounded-xl border border-[var(--border-soft)] bg-[var(--surface)]">
           {firstImage ? (

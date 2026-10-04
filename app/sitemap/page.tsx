@@ -83,7 +83,7 @@ export default function SitemapPage() {
         </p>
         <h1 className="mt-4 text-4xl sm:text-5xl lg:text-6xl font-[family-name:var(--font-outfit)] font-bold leading-tight tracking-tight text-[var(--brand-black)]">
           Every page,{" "}
-          <span className="text-[var(--brand-orange)]">at a glance</span>.
+          <span className="text-[var(--brand-orange-text)]">at a glance</span>.
         </h1>
         <p className="mt-6 text-lg text-[var(--text-soft)] leading-relaxed">
           A human-readable map of the TGV-Media site. If you're looking for a
@@ -122,7 +122,7 @@ export default function SitemapPage() {
                       </span>
                       <span
                         aria-hidden="true"
-                        className="mt-1 text-[var(--text-muted)] group-hover:text-[var(--brand-orange)] group-hover:translate-x-1 transition-all"
+                        className="mt-1 text-[var(--text-muted)] group-hover:text-[var(--brand-orange-text)] group-hover:translate-x-1 transition-all"
                       >
                         →
                       </span>

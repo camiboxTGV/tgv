@@ -38,7 +38,7 @@ export default function OfferSelectionError({
       role="alert"
       className="rounded-3xl border border-[var(--brand-orange)]/40 bg-[var(--surface)] p-6 lg:p-8"
     >
-      <p className="text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange)]">
+      <p className="text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange-text)]">
         {ro ? "Selecția necesită atenție" : "Selection needs attention"}
       </p>
       <h2 className="mt-3 text-2xl font-[family-name:var(--font-outfit)] font-semibold text-[var(--brand-black)]">
@@ -57,7 +57,7 @@ export default function OfferSelectionError({
         {recoveryHref ? (
           <Link
             href={recoveryHref}
-            className="inline-flex items-center justify-center rounded-full bg-[var(--brand-orange)] px-5 py-2.5 text-sm font-semibold text-white"
+            className="inline-flex items-center justify-center rounded-full bg-[var(--brand-orange)] px-5 py-2.5 text-sm font-semibold text-[var(--brand-black)]"
           >
             {ro ? "Folosește oferta salvată" : "Use saved offer"}
           </Link>
@@ -66,7 +66,7 @@ export default function OfferSelectionError({
           <button
             type="button"
             onClick={onReset}
-            className="inline-flex items-center justify-center rounded-full bg-[var(--brand-orange)] px-5 py-2.5 text-sm font-semibold text-white"
+            className="inline-flex items-center justify-center rounded-full bg-[var(--brand-orange)] px-5 py-2.5 text-sm font-semibold text-[var(--brand-black)]"
           >
             {ro ? "Refă oferta" : "Rebuild offer"}
           </button>
@@ -74,7 +74,7 @@ export default function OfferSelectionError({
         {!recoveryHref && !onReset ? (
           <Link
             href="/catalog"
-            className="inline-flex items-center justify-center rounded-full bg-[var(--brand-orange)] px-5 py-2.5 text-sm font-semibold text-white"
+            className="inline-flex items-center justify-center rounded-full bg-[var(--brand-orange)] px-5 py-2.5 text-sm font-semibold text-[var(--brand-black)]"
           >
             {ro ? "Alege produse" : "Choose products"}
           </Link>

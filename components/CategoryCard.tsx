@@ -71,7 +71,7 @@ export default function CategoryCard({
             {category.description}
           </p>
         ) : null}
-        <span className="inline-flex items-center gap-1.5 mt-1 text-xs font-medium text-[var(--brand-orange)] group-hover:gap-2 transition-all">
+        <span className="inline-flex items-center gap-1.5 mt-1 text-xs font-medium text-[var(--brand-orange-text)] group-hover:gap-2 transition-all">
           <span>{ro ? "Explorează categoria" : `Browse ${category.name.toLowerCase()}`}</span>
           <span aria-hidden="true">→</span>
         </span>

@@ -15,7 +15,7 @@ const STOCK_LABEL: Record<StockLevel, string> = {
 
 const STOCK_CLASS: Record<StockLevel, string> = {
   "in-stock":
-    "text-[var(--brand-orange)] bg-[color-mix(in_srgb,var(--brand-orange)_10%,transparent)] border-[color-mix(in_srgb,var(--brand-orange)_25%,transparent)]",
+    "text-[var(--brand-orange-text)] bg-[color-mix(in_srgb,var(--brand-orange)_10%,transparent)] border-[color-mix(in_srgb,var(--brand-orange)_25%,transparent)]",
   "low": "text-[#A15C00] bg-[#FFF4E5] border-[#F5D9AE]",
   "out-of-stock":
     "text-[var(--text-muted)] bg-[var(--surface-soft)] border-[var(--border-soft)]",

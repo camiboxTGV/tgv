@@ -238,7 +238,7 @@ function CategoryView({
             style={{ background: node.accent }}
           />
         ) : null}
-        <p className="relative text-sm font-semibold uppercase tracking-widest text-[var(--brand-orange)]">
+        <p className="relative text-sm font-semibold uppercase tracking-widest text-[var(--brand-orange-text)]">
           Catalog
         </p>
         <h1 className="relative mt-4 max-w-3xl text-4xl sm:text-5xl lg:text-6xl font-[family-name:var(--font-outfit)] font-bold leading-tight tracking-tight text-[var(--brand-black)]">
@@ -433,7 +433,7 @@ function LeafProducts({
       return (
         <section className="mx-auto px-6 lg:px-8 py-12 lg:py-16 max-w-6xl">
           <div className="flex flex-col items-start max-w-2xl p-7 sm:p-9 bg-[var(--surface)] border border-[var(--border)] rounded-3xl">
-            <p className="text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange)]">
+            <p className="text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange-text)]">
               <LocalizedText en="Bespoke portfolio" ro="Portofoliu custom" />
             </p>
             <h2 className="mt-3 text-2xl sm:text-3xl font-[family-name:var(--font-outfit)] font-semibold text-[var(--brand-black)]">
@@ -445,7 +445,7 @@ function LeafProducts({
             <div className="flex flex-wrap gap-3 mt-6">
               <Link
                 href="/portfolio"
-                className="inline-flex items-center gap-2 px-5 py-2.5 text-sm font-semibold text-white bg-[var(--brand-orange)] hover:bg-[var(--brand-orange-hover)] rounded-full transition-colors"
+                className="inline-flex items-center gap-2 px-5 py-2.5 text-sm font-semibold text-[var(--brand-black)] bg-[var(--brand-orange)] hover:bg-[var(--brand-orange-hover)] rounded-full transition-colors"
               >
                 <LocalizedText en="View portfolio" ro="Vezi portofoliul" />
                 <span aria-hidden="true">→</span>
@@ -517,7 +517,7 @@ function CatalogPagination({
       {page > 1 ? (
         <Link
           href={catalogPageHref(slug, page - 1)}
-          className="rounded-xl border border-[var(--border)] bg-[var(--surface)] px-4 py-2.5 text-sm font-semibold text-[var(--brand-black)] transition-colors hover:border-[var(--brand-orange)]"
+          className="rounded-xl border border-[var(--border)] bg-[var(--surface)] px-4 py-2.5 text-sm font-semibold text-[var(--brand-black)] transition-colors hover:border-[var(--brand-orange-focus)]"
         >
           <LocalizedText en="← Previous" ro="← Înapoi" />
         </Link>
@@ -533,7 +533,7 @@ function CatalogPagination({
       {page < totalPages ? (
         <Link
           href={catalogPageHref(slug, page + 1)}
-          className="rounded-xl bg-[var(--brand-orange)] px-4 py-2.5 text-sm font-semibold text-white transition-opacity hover:opacity-90"
+          className="rounded-xl bg-[var(--brand-orange)] px-4 py-2.5 text-sm font-semibold text-[var(--brand-black)] transition-opacity hover:opacity-90"
         >
           <LocalizedText en="Next →" ro="Înainte →" />
         </Link>

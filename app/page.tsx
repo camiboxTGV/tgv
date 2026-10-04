@@ -38,13 +38,13 @@ function Hero({ locale }: Readonly<{ locale: Locale }>) {
   return (
     <section className="relative overflow-hidden">
       <div className="flex flex-col items-start mx-auto px-6 lg:px-8 pt-20 pb-16 lg:pt-32 lg:pb-24 max-w-6xl">
-        <span className="inline-flex items-center gap-2 px-3 py-1 text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange)] bg-[var(--surface)] border border-[var(--brand-orange)] rounded-full">
+        <span className="inline-flex items-center gap-2 px-3 py-1 text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange-text)] bg-[var(--surface)] border border-[var(--brand-orange-focus)] rounded-full">
           <span className="w-1.5 h-1.5 rounded-full bg-[var(--brand-orange)]" />
           <span>{locale === "ro" ? "9 tehnici în atelier" : "9 in-house techniques"}</span>
         </span>
         <h1 className="mt-6 max-w-4xl text-4xl sm:text-5xl lg:text-6xl font-[family-name:var(--font-outfit)] font-bold leading-tight tracking-tight text-[var(--brand-black)]">
           {locale === "ro" ? "Producție custom. " : "Custom production. "}
-          <span className="text-[var(--brand-orange)]">
+          <span className="text-[var(--brand-orange-text)]">
             {locale === "ro" ? "Nouă" : "Nine"}
           </span>{" "}
           {locale === "ro" ? "tehnici. Un singur flux." : "techniques. One workflow."}
@@ -57,7 +57,7 @@ function Hero({ locale }: Readonly<{ locale: Locale }>) {
         <div className="flex flex-col sm:flex-row gap-3 mt-10">
           <Link
             href="/contact"
-            className="inline-flex items-center justify-center px-6 py-3 text-sm font-semibold text-white bg-[var(--primary)] hover:bg-[var(--primary-hover)] rounded-full transition-colors"
+            className="inline-flex items-center justify-center px-6 py-3 text-sm font-semibold text-[var(--brand-black)] bg-[var(--primary)] hover:bg-[var(--primary-hover)] rounded-full transition-colors"
           >
             {locale === "ro" ? "Începe un proiect" : "Start a project"}
           </Link>
@@ -195,7 +195,7 @@ function TrustBand({ locale }: Readonly<{ locale: Locale }>) {
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 mx-auto px-6 lg:px-8 py-16 lg:py-20 max-w-6xl">
         {pillars.map((pillar) => (
           <div key={pillar.title} className="flex flex-col gap-3">
-            <span className="inline-flex items-center justify-center w-11 h-11 text-[var(--brand-orange)] bg-[var(--surface-soft)] rounded-xl">
+            <span className="inline-flex items-center justify-center w-11 h-11 text-[var(--brand-orange-text)] bg-[var(--surface-soft)] rounded-xl">
               {pillar.icon}
             </span>
             <h3 className="text-lg font-[family-name:var(--font-outfit)] font-semibold text-[var(--brand-black)]">
@@ -235,7 +235,7 @@ function ServicesPreview({ locale }: Readonly<{ locale: Locale }>) {
       <div className="flex justify-start mt-10">
         <Link
           href="/services"
-          className="inline-flex items-center gap-2 text-sm font-medium text-[var(--brand-orange)] hover:gap-3 transition-all"
+          className="inline-flex items-center gap-2 text-sm font-medium text-[var(--brand-orange-text)] hover:gap-3 transition-all"
         >
           <span>{locale === "ro" ? "Vezi toate serviciile" : "View all services"}</span>
           <span aria-hidden="true">→</span>
@@ -283,7 +283,7 @@ function TechniquesStrip({ locale }: Readonly<{ locale: Locale }>) {
         <div className="flex justify-start mt-10">
           <Link
             href="/techniques"
-            className="inline-flex items-center gap-2 text-sm font-medium text-[var(--brand-orange)] hover:gap-3 transition-all"
+            className="inline-flex items-center gap-2 text-sm font-medium text-[var(--brand-orange-text)] hover:gap-3 transition-all"
           >
             <span>{locale === "ro" ? "Explorează toate tehnicile" : "Explore all techniques"}</span>
             <span aria-hidden="true">→</span>
@@ -345,7 +345,7 @@ function FeaturedWork({ locale }: Readonly<{ locale: Locale }>) {
       <div className="flex justify-start mt-10">
         <Link
           href="/portfolio"
-          className="inline-flex items-center gap-2 text-sm font-medium text-[var(--brand-orange)] hover:gap-3 transition-all"
+          className="inline-flex items-center gap-2 text-sm font-medium text-[var(--brand-orange-text)] hover:gap-3 transition-all"
         >
           <span>{locale === "ro" ? "Vezi portofoliul complet" : "See full portfolio"}</span>
           <span aria-hidden="true">→</span>
@@ -370,7 +370,7 @@ function ClosingCTA({ locale }: Readonly<{ locale: Locale }>) {
         </p>
         <Link
           href="/contact"
-          className="inline-flex items-center justify-center mt-10 px-6 py-3 text-sm font-semibold text-white bg-[var(--primary)] hover:bg-[var(--primary-hover)] rounded-full transition-colors"
+          className="inline-flex items-center justify-center mt-10 px-6 py-3 text-sm font-semibold text-[var(--brand-black)] bg-[var(--primary)] hover:bg-[var(--primary-hover)] rounded-full transition-colors"
         >
           {locale === "ro" ? "Cere o ofertă" : "Get a quote"}
         </Link>

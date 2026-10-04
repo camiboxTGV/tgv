@@ -19,7 +19,7 @@ export default function ServicesPage() {
         </p>
         <h1 className="mt-4 max-w-3xl text-4xl sm:text-5xl lg:text-6xl font-[family-name:var(--font-outfit)] font-bold leading-tight tracking-tight text-[var(--brand-black)]">
           <LocalizedText en="Four services. " ro="Patru servicii. " />
-          <span className="text-[var(--brand-orange)]">
+          <span className="text-[var(--brand-orange-text)]">
             <LocalizedText en="One" ro="Un singur" />
           </span>{" "}
           <LocalizedText en="production house." ro="atelier de producție." />
@@ -54,7 +54,7 @@ export default function ServicesPage() {
           </p>
           <Link
             href="/contact"
-            className="inline-flex items-center justify-center mt-8 px-6 py-3 text-sm font-semibold text-white bg-[var(--primary)] hover:bg-[var(--primary-hover)] rounded-full transition-colors"
+            className="inline-flex items-center justify-center mt-8 px-6 py-3 text-sm font-semibold text-[var(--brand-black)] bg-[var(--primary)] hover:bg-[var(--primary-hover)] rounded-full transition-colors"
           >
             <LocalizedText en="Start a project" ro="Începe un proiect" />
           </Link>

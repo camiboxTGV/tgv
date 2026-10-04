@@ -33,8 +33,8 @@ export default function SocialLinks({
           aria-label={`Follow TGV-Media on ${social.label}`}
           className={
             showLabels
-              ? "group inline-flex items-center gap-2.5 px-4 py-2.5 text-sm font-semibold text-[var(--brand-black)] bg-[var(--surface)] border border-[var(--border)] hover:border-[var(--brand-orange)] rounded-full transition-colors"
-              : "inline-flex items-center justify-center w-10 h-10 text-[var(--text-soft)] border border-[var(--border)] hover:text-white hover:bg-[var(--brand-orange)] hover:border-[var(--brand-orange)] rounded-full transition-colors"
+              ? "group inline-flex items-center gap-2.5 px-4 py-2.5 text-sm font-semibold text-[var(--brand-black)] bg-[var(--surface)] border border-[var(--border)] hover:border-[var(--brand-orange-focus)] rounded-full transition-colors"
+              : "inline-flex items-center justify-center w-10 h-10 text-[var(--text-soft)] border border-[var(--border)] hover:text-[var(--brand-black)] hover:bg-[var(--brand-orange)] hover:border-[var(--brand-orange)] rounded-full transition-colors"
           }
         >
           <svg

@@ -64,7 +64,7 @@ export default function PortfolioGallery({ items }: Props) {
       <section className="mx-auto px-6 lg:px-8 pb-16 lg:pb-24 max-w-6xl">
         {filter !== "all" ? (
           <div className="mb-8 max-w-3xl rounded-2xl border border-[var(--border)] bg-[var(--surface)] p-5 sm:p-6">
-            <p className="text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange)]">
+            <p className="text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange-text)]">
               {locale === "ro" ? PORTFOLIO_LABELS_RO[filter] : PORTFOLIO_CATEGORY_LABELS[filter]}
             </p>
             <p className="mt-2 text-sm leading-relaxed text-[var(--text-soft)] sm:text-base">
@@ -85,7 +85,7 @@ export default function PortfolioGallery({ items }: Props) {
             <button
               type="button"
               onClick={() => setFilter("all")}
-              className="inline-flex items-center gap-2 text-sm font-medium text-[var(--brand-orange)] hover:gap-3 transition-all"
+              className="inline-flex items-center gap-2 text-sm font-medium text-[var(--brand-orange-text)] hover:gap-3 transition-all"
             >
               <span>{locale === "ro" ? "Arată toate proiectele" : "Show all work"}</span>
               <span aria-hidden="true">→</span>
@@ -107,7 +107,7 @@ export default function PortfolioGallery({ items }: Props) {
           </p>
           <Link
             href="/contact"
-            className="inline-flex items-center justify-center mt-8 px-6 py-3 text-sm font-semibold text-white bg-[var(--primary)] hover:bg-[var(--primary-hover)] rounded-full transition-colors"
+            className="inline-flex items-center justify-center mt-8 px-6 py-3 text-sm font-semibold text-[var(--brand-black)] bg-[var(--primary)] hover:bg-[var(--primary-hover)] rounded-full transition-colors"
           >
             {locale === "ro" ? "Începe un proiect" : "Start a project"}
           </Link>
@@ -135,7 +135,7 @@ function FilterChip({
       aria-pressed={active}
       className={`inline-flex items-center gap-2 px-4 py-2 text-sm font-medium rounded-full border whitespace-nowrap transition-all ${
         active
-          ? "text-white bg-[var(--brand-orange)] border-[var(--brand-orange)]"
+          ? "text-[var(--brand-black)] bg-[var(--brand-orange)] border-[var(--brand-orange)]"
           : "text-[var(--text-soft)] bg-[var(--surface)] border-[var(--border)] hover:border-[var(--border-strong)]"
       }`}
     >

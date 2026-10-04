@@ -10,11 +10,11 @@ export default function PricingCalculatorCallout() {
       />
 
       <div className="relative flex items-start gap-4">
-        <span className="inline-flex h-12 w-12 shrink-0 items-center justify-center rounded-2xl bg-[var(--brand-orange)] text-white shadow-sm">
+        <span className="inline-flex h-12 w-12 shrink-0 items-center justify-center rounded-2xl bg-[var(--brand-orange)] text-[var(--brand-black)] shadow-sm">
           <CalculatorIcon />
         </span>
         <div>
-          <p className="text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange)]">
+          <p className="text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange-text)]">
             <LocalizedText en="Plan your budget" ro="Planifică bugetul" />
           </p>
           <h2 className="mt-2 font-[family-name:var(--font-outfit)] text-xl font-semibold leading-tight text-[var(--brand-black)] lg:text-2xl">
@@ -35,7 +35,7 @@ export default function PricingCalculatorCallout() {
 
       <Link
         href="/pricing"
-        className="relative mt-5 inline-flex items-center gap-2 rounded-full bg-[var(--brand-black)] px-5 py-2.5 text-sm font-semibold text-white transition-all hover:-translate-y-0.5 hover:bg-[var(--brand-orange)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[var(--brand-orange)] focus-visible:ring-offset-2"
+        className="relative mt-5 inline-flex items-center gap-2 rounded-full bg-[var(--brand-black)] px-5 py-2.5 text-sm font-semibold text-white transition-all hover:-translate-y-0.5 hover:bg-[var(--brand-orange)] hover:text-[var(--brand-black)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[var(--brand-orange-focus)] focus-visible:ring-offset-2"
       >
         <LocalizedText en="Open price calculator" ro="Deschide calculatorul de preț" />
         <ArrowIcon />

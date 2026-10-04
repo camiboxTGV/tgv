@@ -66,7 +66,7 @@ export default function AddToOfferButton({
         type="button"
         disabled
         aria-label={`${product.name} already in your offer`}
-        className={`inline-flex items-center justify-center gap-2 px-4 w-full font-semibold text-[var(--brand-orange)] bg-[var(--surface)] border border-[var(--brand-orange)] rounded-full cursor-default ${sizeClass}`}
+        className={`inline-flex items-center justify-center gap-2 px-4 w-full font-semibold text-[var(--brand-orange-text)] bg-[var(--surface)] border border-[var(--brand-orange-focus)] rounded-full cursor-default ${sizeClass}`}
       >
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -125,7 +125,7 @@ export default function AddToOfferButton({
           personalizations: calculatorMethods,
         })
       }
-      className={`inline-flex items-center justify-center px-4 w-full font-semibold text-white bg-[var(--brand-black)] hover:bg-[var(--brand-orange)] rounded-full transition-colors ${sizeClass}`}
+      className={`inline-flex items-center justify-center px-4 w-full font-semibold text-white bg-[var(--brand-black)] hover:bg-[var(--brand-orange)] hover:text-[var(--brand-black)] rounded-full transition-colors ${sizeClass}`}
     >
       Add to my offer
     </button>

@@ -12,7 +12,7 @@ export default function TeamPortraits() {
         <div>
           <div className="flex items-center gap-4">
             <span className="block w-16 h-1 bg-[var(--brand-orange)]" />
-            <p className="text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange)]">
+            <p className="text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange-text)]">
               {ro ? "Echipa" : "The team"}
             </p>
           </div>

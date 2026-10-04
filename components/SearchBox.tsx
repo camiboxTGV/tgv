@@ -181,7 +181,7 @@ export default function SearchBox({ className, onNavigate }: SearchBoxProps) {
           if (status !== "idle") setIsOpen(true)
         }}
         onKeyDown={onKeyDown}
-        className="px-4 py-2.5 w-full text-sm text-[var(--brand-black)] placeholder:text-[var(--text-muted)] bg-[var(--surface-soft)] border border-transparent rounded-xl outline-none transition-colors focus:bg-[var(--surface)] focus:ring-2 focus:ring-[var(--brand-orange)]"
+        className="px-4 py-2.5 w-full text-sm text-[var(--brand-black)] placeholder:text-[var(--text-muted)] bg-[var(--surface-soft)] border border-transparent rounded-xl outline-none transition-colors focus:bg-[var(--surface)] focus:ring-2 focus:ring-[var(--brand-orange-focus)]"
       />
       {isOpen && (
         <div className="absolute top-full right-0 left-0 z-40 mt-2 overflow-hidden rounded-xl border border-[var(--border-soft)] bg-[var(--surface)] shadow-lg">
@@ -244,7 +244,7 @@ export default function SearchBox({ className, onNavigate }: SearchBoxProps) {
                     {" · "}{r.categoryLabel}
                   </span>
                 </div>
-                <span className="shrink-0 text-sm font-semibold text-[var(--brand-orange)]">
+                <span className="shrink-0 text-sm font-semibold text-[var(--brand-orange-text)]">
                   {r.priceFrom ? (locale === "ro" ? "de la " : "from ") : ""}
                   {r.price.toFixed(2)} €
                 </span>
@@ -263,7 +263,7 @@ export default function SearchBox({ className, onNavigate }: SearchBoxProps) {
                 event.preventDefault()
                 viewAllResults()
               }}
-              className="flex w-full items-center justify-between gap-4 border-t border-[var(--border-soft)] px-4 py-3 text-left text-sm font-semibold text-[var(--brand-orange)] transition-colors hover:bg-[var(--surface-soft)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-inset focus-visible:ring-[var(--brand-orange)]"
+              className="flex w-full items-center justify-between gap-4 border-t border-[var(--border-soft)] px-4 py-3 text-left text-sm font-semibold text-[var(--brand-orange-text)] transition-colors hover:bg-[var(--surface-soft)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-inset focus-visible:ring-[var(--brand-orange-focus)]"
             >
               <span>
                 {locale === "ro"

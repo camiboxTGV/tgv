@@ -65,7 +65,7 @@ export default function Footer() {
                 href="https://qreactive.ro"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-[var(--text-soft)] transition-colors hover:text-[var(--brand-orange)]"
+                className="text-[var(--text-soft)] transition-colors hover:text-[var(--brand-orange-text)]"
               >
                 qreactive.ro ↗
               </a>
@@ -73,7 +73,7 @@ export default function Footer() {
                 href="https://inkme.ro"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-[var(--text-soft)] transition-colors hover:text-[var(--brand-orange)]"
+                className="text-[var(--text-soft)] transition-colors hover:text-[var(--brand-orange-text)]"
               >
                 inkme.ro ↗
               </a>

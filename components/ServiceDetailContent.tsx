@@ -27,11 +27,11 @@ export default function ServiceDetailContent({
 
       <section className="relative mx-auto max-w-6xl overflow-hidden px-6 pb-12 pt-8 lg:px-8 lg:pb-16 lg:pt-12">
         <div aria-hidden="true" className="absolute right-0 top-0 h-48 w-48 rounded-full opacity-20 blur-3xl lg:h-72 lg:w-72" style={{ background: service.accent }} />
-        <p className="relative text-sm font-semibold uppercase tracking-widest text-[var(--brand-orange)]">{ro ? "Serviciu" : "Service"}</p>
+        <p className="relative text-sm font-semibold uppercase tracking-widest text-[var(--brand-orange-text)]">{ro ? "Serviciu" : "Service"}</p>
         <h1 className="relative mt-4 max-w-4xl font-[family-name:var(--font-outfit)] text-4xl font-bold leading-tight tracking-tight text-[var(--brand-black)] sm:text-5xl lg:text-6xl">{localized.title}</h1>
         <p className="relative mt-6 max-w-2xl text-lg leading-relaxed text-[var(--text-soft)]">{localized.lead}</p>
         <div className="relative mt-10 flex flex-col gap-3 sm:flex-row">
-          <Link href="/contact" className="inline-flex items-center justify-center rounded-full bg-[var(--primary)] px-6 py-3 text-sm font-semibold text-white transition-colors hover:bg-[var(--primary-hover)]">{ro ? "Începe un proiect" : "Start a project"}</Link>
+          <Link href="/contact" className="inline-flex items-center justify-center rounded-full bg-[var(--primary)] px-6 py-3 text-sm font-semibold text-[var(--brand-black)] transition-colors hover:bg-[var(--primary-hover)]">{ro ? "Începe un proiect" : "Start a project"}</Link>
           <Link href="/catalog" className="inline-flex items-center justify-center rounded-full border border-[var(--border-strong)] bg-transparent px-6 py-3 text-sm font-semibold text-[var(--brand-black)] transition-colors hover:bg-[var(--surface-soft)]">{ro ? "Vezi catalogul" : "Browse catalog"}</Link>
         </div>
       </section>
@@ -59,7 +59,7 @@ export default function ServiceDetailContent({
         <ul className="mt-8 grid grid-cols-1 gap-3 md:grid-cols-2">
           {localized.useCases.map((useCase) => (
             <li key={useCase} className="flex items-start gap-3 rounded-xl border border-[var(--border)] bg-[var(--surface)] p-4">
-              <span aria-hidden="true" className="mt-0.5 inline-flex h-5 w-5 items-center justify-center rounded-full bg-[var(--surface-soft)] text-[var(--brand-orange)]">✓</span>
+              <span aria-hidden="true" className="mt-0.5 inline-flex h-5 w-5 items-center justify-center rounded-full bg-[var(--surface-soft)] text-[var(--brand-orange-text)]">✓</span>
               <span className="text-sm leading-relaxed text-[var(--text-soft)]">{useCase}</span>
             </li>
           ))}
@@ -71,7 +71,7 @@ export default function ServiceDetailContent({
           <span className="block h-1 w-16 bg-[var(--brand-orange)]" />
           <h2 className="mt-6 max-w-2xl font-[family-name:var(--font-outfit)] text-2xl font-semibold text-white sm:text-3xl lg:text-4xl">{ro ? "Ai grafica pregătită? Trimite-ne-o." : "Have artwork? Send it across."}</h2>
           <p className="mt-4 max-w-xl text-base leading-relaxed text-white/70">{ro ? "Verificăm fișierul, recomandăm tehnica potrivită și revenim cu o ofertă și un plan de mostre." : "We'll review the file, recommend the right technique and come back with a quote and sample plan."}</p>
-          <Link href="/contact" className="mt-8 inline-flex items-center justify-center rounded-full bg-[var(--primary)] px-6 py-3 text-sm font-semibold text-white transition-colors hover:bg-[var(--primary-hover)]">{ro ? "Începe un proiect" : "Start a project"}</Link>
+          <Link href="/contact" className="mt-8 inline-flex items-center justify-center rounded-full bg-[var(--primary)] px-6 py-3 text-sm font-semibold text-[var(--brand-black)] transition-colors hover:bg-[var(--primary-hover)]">{ro ? "Începe un proiect" : "Start a project"}</Link>
         </div>
       </section>
 
@@ -87,7 +87,7 @@ export default function ServiceDetailContent({
                   <span aria-hidden="true" className="absolute left-0 top-0 h-full w-1" style={{ background: candidate.accent }} />
                   <h3 className="font-[family-name:var(--font-outfit)] text-base font-semibold text-[var(--brand-black)]">{item.title}</h3>
                   <p className="line-clamp-2 text-sm text-[var(--text-muted)]">{item.summary}</p>
-                  <span className="mt-2 inline-flex items-center gap-1.5 text-xs font-medium text-[var(--brand-orange)] transition-all group-hover:gap-2">{ro ? "Vezi serviciul" : "View service"} <span aria-hidden="true">→</span></span>
+                  <span className="mt-2 inline-flex items-center gap-1.5 text-xs font-medium text-[var(--brand-orange-text)] transition-all group-hover:gap-2">{ro ? "Vezi serviciul" : "View service"} <span aria-hidden="true">→</span></span>
                 </Link>
               )
             })}

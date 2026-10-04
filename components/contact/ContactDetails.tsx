@@ -51,7 +51,7 @@ export default function ContactDetails() {
     <section className="flex flex-col gap-8">
       <div className="flex items-center gap-4">
         <span className="block w-16 h-1 bg-[var(--brand-orange)]" />
-        <p className="text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange)]">
+        <p className="text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange-text)]">
           {ro ? "Contact direct" : "Reach us directly"}
         </p>
       </div>
@@ -94,9 +94,9 @@ function ChannelCard({ channel }: { channel: ContactChannel }) {
       href={channel.href}
       target={isExternal ? "_blank" : undefined}
       rel={isExternal ? "noopener noreferrer" : undefined}
-      className="group relative flex flex-col gap-4 p-6 lg:p-7 bg-[var(--surface)] border border-[var(--border-soft)] rounded-3xl hover:border-[var(--brand-orange)] hover:-translate-y-0.5 transition-all"
+      className="group relative flex flex-col gap-4 p-6 lg:p-7 bg-[var(--surface)] border border-[var(--border-soft)] rounded-3xl hover:border-[var(--brand-orange-focus)] hover:-translate-y-0.5 transition-all"
     >
-      <span className="inline-flex items-center justify-center w-12 h-12 text-[var(--brand-orange)] bg-[var(--brand-orange)]/10 rounded-2xl group-hover:bg-[var(--brand-orange)] group-hover:text-white transition-colors">
+      <span className="inline-flex items-center justify-center w-12 h-12 text-[var(--brand-orange-text)] bg-[var(--brand-orange)]/10 rounded-2xl group-hover:bg-[var(--brand-orange)] group-hover:text-[var(--brand-black)] transition-colors">
         <ChannelIcon name={channel.icon} />
       </span>
 
@@ -112,7 +112,7 @@ function ChannelCard({ channel }: { channel: ContactChannel }) {
 
       <span
         aria-hidden="true"
-        className="absolute top-6 right-6 text-[var(--text-muted)] group-hover:text-[var(--brand-orange)] group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-all"
+        className="absolute top-6 right-6 text-[var(--text-muted)] group-hover:text-[var(--brand-orange-text)] group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-all"
       >
         <svg
           xmlns="http://www.w3.org/2000/svg"

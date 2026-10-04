@@ -54,7 +54,7 @@ export default function ChipGroup<T extends string>(props: Props<T>) {
               onClick={() => handleClick(opt.value)}
               className={`inline-flex items-center px-4 py-2 text-sm font-medium rounded-full border transition-all hover:scale-[1.03] ${
                 selected
-                  ? "text-white bg-[var(--brand-orange)] border-[var(--brand-orange)]"
+                  ? "text-[var(--brand-black)] bg-[var(--brand-orange)] border-[var(--brand-orange)]"
                   : "text-[var(--text-soft)] bg-[var(--surface)] border-[var(--border)] hover:border-[var(--border-strong)]"
               }`}
             >

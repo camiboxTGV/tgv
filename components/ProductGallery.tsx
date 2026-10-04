@@ -167,7 +167,7 @@ export default function ProductGallery({
                 onClick={() => setIndex(i)}
                 className={`relative flex-shrink-0 w-20 h-20 rounded-xl overflow-hidden snap-start border border-[var(--border-soft)] bg-[var(--surface)] transition-all ${
                   active
-                    ? "ring-2 ring-[var(--brand-orange)] ring-offset-2 ring-offset-[var(--bg)]"
+                    ? "ring-2 ring-[var(--brand-orange-focus)] ring-offset-2 ring-offset-[var(--bg)]"
                     : "opacity-70 hover:opacity-100"
                 }`}
               >

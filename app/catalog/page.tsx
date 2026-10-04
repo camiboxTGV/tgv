@@ -36,7 +36,7 @@ export default function CatalogPage() {
         </p>
         <h1 className="mt-4 max-w-3xl text-4xl sm:text-5xl lg:text-6xl font-[family-name:var(--font-outfit)] font-bold leading-tight tracking-tight text-[var(--brand-black)]">
           <LocalizedText en="Browse personalizable " ro="Descoperă produse " />
-          <span className="text-[var(--brand-orange)]"><LocalizedText en="products" ro="personalizabile" /></span>.
+          <span className="text-[var(--brand-orange-text)]"><LocalizedText en="products" ro="personalizabile" /></span>.
         </h1>
         <div className="mt-6 max-w-3xl rounded-2xl border border-[var(--border-soft)] bg-[var(--surface)] p-5">
           <PriceScopeNotice
@@ -96,7 +96,7 @@ export default function CatalogPage() {
                 key={step.n}
                 className="flex flex-col gap-2 p-6 bg-[var(--surface-soft)] rounded-2xl"
               >
-                <span className="text-3xl font-[family-name:var(--font-outfit)] font-bold text-[var(--brand-orange)]">
+                <span className="text-3xl font-[family-name:var(--font-outfit)] font-bold text-[var(--brand-orange-text)]">
                   {step.n}
                 </span>
                 <h3 className="text-lg font-[family-name:var(--font-outfit)] font-semibold text-[var(--brand-black)]">
@@ -124,7 +124,7 @@ export default function CatalogPage() {
               key={p}
               className="flex flex-col gap-1 p-4 bg-[var(--surface-soft)] border border-[var(--border-soft)] rounded-xl"
             >
-              <span className="text-xs font-semibold uppercase tracking-wider text-[var(--brand-orange)]">
+              <span className="text-xs font-semibold uppercase tracking-wider text-[var(--brand-orange-text)]">
                 {PERSONALIZATION_LABELS[p].short}
               </span>
               <span className="text-sm font-medium text-[var(--brand-black)]">
@@ -136,7 +136,7 @@ export default function CatalogPage() {
         <div className="mt-10">
           <Link
             href="/services/custom-production-integrated-branding"
-            className="inline-flex items-center gap-2 text-sm font-medium text-[var(--brand-orange)] hover:gap-3 transition-all"
+            className="inline-flex items-center gap-2 text-sm font-medium text-[var(--brand-orange-text)] hover:gap-3 transition-all"
           >
             <span><LocalizedText en="Learn more about custom production and integrated branding" ro="Află mai multe despre producția custom și brandingul integrat" /></span>
             <span aria-hidden="true">→</span>

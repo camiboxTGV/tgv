@@ -111,7 +111,7 @@ export default function DecorationEstimator({
   if (available.length === 0) {
     return (
       <div className="rounded-2xl border border-[var(--border)] bg-[var(--surface-soft)] p-4 sm:p-5">
-        <p className="text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange)]">
+        <p className="text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange-text)]">
           {ro ? "Ofertă manuală" : "Manual quote"}
         </p>
         <p className="mt-2 text-sm leading-relaxed text-[var(--text-soft)]">
@@ -135,7 +135,7 @@ export default function DecorationEstimator({
       }}
     >
       <div className="flex flex-col gap-1">
-        <p className="text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange)]">
+        <p className="text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange-text)]">
           {ro ? "Calculator orientativ" : "Indicative calculator"}
         </p>
         {productName ? (
@@ -153,7 +153,7 @@ export default function DecorationEstimator({
               value={quantity}
               data-decoration-quantity="true"
               onChange={(event) => onQuantityChange(Number(event.target.value))}
-              className="h-11 w-full rounded-xl border border-[var(--border)] bg-[var(--surface)] px-3 text-sm text-[var(--brand-black)] outline-none focus:border-[var(--brand-orange)]"
+              className="h-11 w-full rounded-xl border border-[var(--border)] bg-[var(--surface)] px-3 text-sm text-[var(--brand-black)] outline-none focus:border-[var(--brand-orange-focus)]"
             />
           </Field>
         ) : null}
@@ -164,7 +164,7 @@ export default function DecorationEstimator({
             onChange={(event) =>
               selectDecorationMethod(event.target.value as Personalization)
             }
-            className="h-11 w-full rounded-xl border border-[var(--border)] bg-[var(--surface)] px-3 text-sm text-[var(--brand-black)] outline-none focus:border-[var(--brand-orange)]"
+            className="h-11 w-full rounded-xl border border-[var(--border)] bg-[var(--surface)] px-3 text-sm text-[var(--brand-black)] outline-none focus:border-[var(--brand-orange-focus)]"
           >
             {available.map((method) => (
               <option key={method} value={method}>
@@ -188,7 +188,7 @@ export default function DecorationEstimator({
             <select
               value={options.uvFormat}
               onChange={(event) => update("uvFormat", event.target.value as UvFormat)}
-              className="h-11 w-full rounded-xl border border-[var(--border)] bg-[var(--surface)] px-3 text-sm text-[var(--brand-black)] outline-none focus:border-[var(--brand-orange)]"
+              className="h-11 w-full rounded-xl border border-[var(--border)] bg-[var(--surface)] px-3 text-sm text-[var(--brand-black)] outline-none focus:border-[var(--brand-orange-focus)]"
             >
               {Object.entries(UV_FORMAT_LABELS).map(([value, label]) => (
                 <option key={value} value={value}>{ro ? uvFormatRo(value as UvFormat) : label}</option>
@@ -202,7 +202,7 @@ export default function DecorationEstimator({
             <select
               value={options.laserSize}
               onChange={(event) => update("laserSize", event.target.value as LaserSize)}
-              className="h-11 w-full rounded-xl border border-[var(--border)] bg-[var(--surface)] px-3 text-sm text-[var(--brand-black)] outline-none focus:border-[var(--brand-orange)]"
+              className="h-11 w-full rounded-xl border border-[var(--border)] bg-[var(--surface)] px-3 text-sm text-[var(--brand-black)] outline-none focus:border-[var(--brand-orange-focus)]"
             >
               {Object.entries(LASER_SIZE_LABELS).map(([value, label]) => (
                 <option key={value} value={value}>{ro ? laserSizeRo(value as LaserSize) : label}</option>
@@ -216,7 +216,7 @@ export default function DecorationEstimator({
             <select
               value={options.co2Material}
               onChange={(event) => update("co2Material", event.target.value as "standard" | "silicone")}
-              className="h-11 w-full rounded-xl border border-[var(--border)] bg-[var(--surface)] px-3 text-sm text-[var(--brand-black)] outline-none focus:border-[var(--brand-orange)]"
+              className="h-11 w-full rounded-xl border border-[var(--border)] bg-[var(--surface)] px-3 text-sm text-[var(--brand-black)] outline-none focus:border-[var(--brand-orange-focus)]"
             >
               <option value="standard">{ro ? "Hârtie, piele, textile, acril, lemn, plută, sticlă, metal acoperit" : "Paper, leather, textile, acrylic, wood, cork, glass, coated metal"}</option>
               <option value="silicone">{ro ? "Silicon" : "Silicone"}</option>
@@ -230,7 +230,7 @@ export default function DecorationEstimator({
               <select
                 value={options.padInkSystem}
                 onChange={(event) => update("padInkSystem", event.target.value as PadInkSystem)}
-                className="h-11 w-full rounded-xl border border-[var(--border)] bg-[var(--surface)] px-3 text-sm text-[var(--brand-black)] outline-none focus:border-[var(--brand-orange)]"
+                className="h-11 w-full rounded-xl border border-[var(--border)] bg-[var(--surface)] px-3 text-sm text-[var(--brand-black)] outline-none focus:border-[var(--brand-orange-focus)]"
               >
                 <option value="mono">{ro ? "Monocomponentă · PVC, ABS, polistiren" : "Mono-component · PVC, ABS, polystyrene"}</option>
                 <option value="two-component">{ro ? "Bicomponentă · PE, melamină, piele, metal lăcuit" : "Two-component · PE, melamine, leather, coated metal"}</option>
@@ -246,7 +246,7 @@ export default function DecorationEstimator({
               <select
                 value={options.textileFormat}
                 onChange={(event) => update("textileFormat", event.target.value as TextileFormat)}
-                className="h-11 w-full rounded-xl border border-[var(--border)] bg-[var(--surface)] px-3 text-sm text-[var(--brand-black)] outline-none focus:border-[var(--brand-orange)]"
+                className="h-11 w-full rounded-xl border border-[var(--border)] bg-[var(--surface)] px-3 text-sm text-[var(--brand-black)] outline-none focus:border-[var(--brand-orange-focus)]"
               >
                 <option value="10x10">10 × 10 cm</option>
                 <option value="20x30">20 × 30 cm</option>
@@ -260,7 +260,7 @@ export default function DecorationEstimator({
           <select
             value={options.handlingRate}
             onChange={(event) => update("handlingRate", Number(event.target.value) as HandlingRate)}
-            className="h-11 w-full rounded-xl border border-[var(--border)] bg-[var(--surface)] px-3 text-sm text-[var(--brand-black)] outline-none focus:border-[var(--brand-orange)]"
+            className="h-11 w-full rounded-xl border border-[var(--border)] bg-[var(--surface)] px-3 text-sm text-[var(--brand-black)] outline-none focus:border-[var(--brand-orange-focus)]"
           >
             <option value={0}>{ro ? "Fără" : "None"}</option>
             {options.method !== "textile-transfer" ? (
@@ -285,7 +285,7 @@ export default function DecorationEstimator({
                   clampArtworkHours(Number(event.target.value)),
                 )
               }
-              className="h-11 w-full rounded-xl border border-[var(--border)] bg-[var(--surface)] px-3 pr-20 text-sm text-[var(--brand-black)] outline-none focus:border-[var(--brand-orange)]"
+              className="h-11 w-full rounded-xl border border-[var(--border)] bg-[var(--surface)] px-3 pr-20 text-sm text-[var(--brand-black)] outline-none focus:border-[var(--brand-orange-focus)]"
             />
             <span className="pointer-events-none absolute inset-y-0 right-3 flex items-center text-xs text-[var(--text-muted)]">€25/{ro ? "oră" : "hour"}</span>
           </div>
@@ -376,7 +376,7 @@ export default function DecorationEstimator({
           >
             {optionsSaved ? (
               <>
-                <span aria-hidden="true" className="mr-1 text-[var(--brand-orange)]">
+                <span aria-hidden="true" className="mr-1 text-[var(--brand-orange-text)]">
                   ✓
                 </span>
                 {ro
@@ -398,7 +398,7 @@ export default function DecorationEstimator({
           <button
             type="button"
             onClick={saveDecorationOptions}
-            className="inline-flex shrink-0 items-center justify-center rounded-full bg-[var(--brand-orange)] px-5 py-2.5 text-sm font-semibold text-white transition-transform hover:scale-[1.02]"
+            className="inline-flex shrink-0 items-center justify-center rounded-full bg-[var(--brand-orange)] px-5 py-2.5 text-sm font-semibold text-[var(--brand-black)] transition-transform hover:scale-[1.02]"
           >
             {hasSavedOptions
               ? ro
@@ -439,7 +439,7 @@ function ColorField({
       <select
         value={options.printColors}
         onChange={(event) => update("printColors", Number(event.target.value) as PrintColors)}
-        className="h-11 w-full rounded-xl border border-[var(--border)] bg-[var(--surface)] px-3 text-sm text-[var(--brand-black)] outline-none focus:border-[var(--brand-orange)]"
+        className="h-11 w-full rounded-xl border border-[var(--border)] bg-[var(--surface)] px-3 text-sm text-[var(--brand-black)] outline-none focus:border-[var(--brand-orange-focus)]"
       >
         {([1, 2, 3, 4, 5, 6] as const).map((colors) => (
           <option key={colors} value={colors}>{colors} {ro ? (colors === 1 ? "culoare" : "culori") : (colors === 1 ? "colour" : "colours")}</option>
@@ -489,7 +489,7 @@ function Check({
         type="checkbox"
         checked={checked}
         onChange={(event) => onChange(event.target.checked)}
-        className="mt-0.5 accent-[var(--brand-orange)]"
+        className="mt-0.5 accent-[var(--brand-orange-focus)]"
       />
       <span>{label}</span>
     </label>

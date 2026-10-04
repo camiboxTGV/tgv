@@ -35,7 +35,7 @@ function Hero() {
         </p>
         <h1 className="mt-4 max-w-4xl text-4xl sm:text-5xl lg:text-6xl font-[family-name:var(--font-outfit)] font-bold leading-tight tracking-tight text-[var(--brand-black)]">
           <LocalizedText en="We're a " ro="Suntem un atelier de " />
-          <span className="text-[var(--brand-orange)]"><LocalizedText en="production" ro="producție" /></span>{" "}
+          <span className="text-[var(--brand-orange-text)]"><LocalizedText en="production" ro="producție" /></span>{" "}
           <LocalizedText en="house — not a print shop." ro="— nu doar o tipografie." />
         </h1>
         <p className="mt-6 max-w-2xl text-lg text-[var(--text-soft)] leading-relaxed">
@@ -47,7 +47,7 @@ function Hero() {
         <div className="flex flex-col sm:flex-row gap-3 mt-10">
           <Link
             href="/contact"
-            className="inline-flex items-center justify-center px-6 py-3 text-sm font-semibold text-white bg-[var(--primary)] hover:bg-[var(--primary-hover)] rounded-full transition-colors"
+            className="inline-flex items-center justify-center px-6 py-3 text-sm font-semibold text-[var(--brand-black)] bg-[var(--primary)] hover:bg-[var(--primary-hover)] rounded-full transition-colors"
           >
             <LocalizedText en="Start a project" ro="Începe un proiect" />
           </Link>
@@ -75,7 +75,7 @@ function Numbers() {
       <div className="grid grid-cols-2 lg:grid-cols-4 gap-8 mx-auto px-6 lg:px-8 py-12 lg:py-16 max-w-6xl">
         {stats.map((s, index) => (
           <div key={index} className="flex flex-col gap-2">
-            <span className="text-4xl sm:text-5xl lg:text-6xl font-[family-name:var(--font-outfit)] font-bold tracking-tight text-[var(--brand-orange)]">
+            <span className="text-4xl sm:text-5xl lg:text-6xl font-[family-name:var(--font-outfit)] font-bold tracking-tight text-[var(--brand-orange-text)]">
               {s.value}
             </span>
             <span className="text-sm leading-snug text-[var(--text-soft)]">
@@ -250,7 +250,7 @@ function Workshop() {
               key={c.title}
               className="flex flex-col gap-3 p-6 bg-[var(--bg)] border border-[var(--border-soft)] rounded-2xl"
             >
-              <span className="inline-flex items-center justify-center w-11 h-11 text-[var(--brand-orange)] bg-[var(--surface-soft)] rounded-xl">
+              <span className="inline-flex items-center justify-center w-11 h-11 text-[var(--brand-orange-text)] bg-[var(--surface-soft)] rounded-xl">
                 {c.icon}
               </span>
               <h3 className="text-lg font-[family-name:var(--font-outfit)] font-semibold text-[var(--brand-black)]">
@@ -363,7 +363,7 @@ function Process() {
               key={step.n}
               className="flex flex-col gap-3 p-6 bg-[var(--bg)] border border-[var(--border-soft)] rounded-2xl"
             >
-              <span className="text-3xl lg:text-4xl font-[family-name:var(--font-outfit)] font-bold text-[var(--brand-orange)]">
+              <span className="text-3xl lg:text-4xl font-[family-name:var(--font-outfit)] font-bold text-[var(--brand-orange-text)]">
                 {step.n}
               </span>
               <h3 className="text-lg font-[family-name:var(--font-outfit)] font-semibold text-[var(--brand-black)]">
@@ -463,7 +463,7 @@ function ClosingCTA() {
         </p>
         <Link
           href="/contact"
-          className="inline-flex items-center justify-center mt-10 px-6 py-3 text-sm font-semibold text-white bg-[var(--primary)] hover:bg-[var(--primary-hover)] rounded-full transition-colors"
+          className="inline-flex items-center justify-center mt-10 px-6 py-3 text-sm font-semibold text-[var(--brand-black)] bg-[var(--primary)] hover:bg-[var(--primary-hover)] rounded-full transition-colors"
         >
           <LocalizedText en="Start a project" ro="Începe un proiect" />
         </Link>

@@ -26,8 +26,8 @@ export default function LanguageSwitch({
             aria-label={option === "ro" ? "Română" : "English"}
             className={`rounded-full px-2 py-1 text-[11px] font-semibold transition-colors ${
               active
-                ? "bg-[var(--brand-orange)] text-white"
-                : "text-[var(--text-muted)] hover:text-[var(--brand-orange)]"
+                ? "bg-[var(--brand-orange)] text-[var(--brand-black)]"
+                : "text-[var(--text-muted)] hover:text-[var(--brand-orange-text)]"
             }`}
           >
             {option.toUpperCase()}

@@ -460,7 +460,7 @@ export default function ContactForm() {
         {submitError && (
           <div
             role="alert"
-            className="px-4 py-3 text-sm text-[var(--brand-orange)] bg-[var(--surface-soft)] border border-[var(--brand-orange)] rounded-xl"
+            className="px-4 py-3 text-sm text-[var(--brand-orange-text)] bg-[var(--surface-soft)] border border-[var(--brand-orange-focus)] rounded-xl"
           >
             {submitError}
           </div>
@@ -482,10 +482,10 @@ export default function ContactForm() {
           type="submit"
           disabled={!requiredValid || submitting}
           aria-describedby="contact-required-fields contact-submit-help"
-          className={`inline-flex items-center justify-center gap-2 px-6 py-4 w-full text-base font-semibold text-white rounded-full transition-all ${
+          className={`inline-flex items-center justify-center gap-2 px-6 py-4 w-full text-base font-semibold rounded-full transition-all ${
             !requiredValid || submitting
-              ? "bg-[var(--text-muted)] cursor-not-allowed"
-              : "bg-[var(--brand-orange)] hover:scale-[1.01]"
+              ? "bg-[var(--text-muted)] text-white cursor-not-allowed"
+              : "bg-[var(--brand-orange)] text-[var(--brand-black)] hover:scale-[1.01]"
           }`}
         >
           {submitting ? (ro ? "Se trimite…" : "Sending…") : (
@@ -507,7 +507,7 @@ export default function ContactForm() {
           {ro ? "Prin trimitere ești de acord cu " : "By sending you agree to our "}
           <Link
             href="/privacy"
-            className="text-[var(--text-soft)] hover:text-[var(--brand-orange)] underline"
+            className="text-[var(--text-soft)] hover:text-[var(--brand-orange-text)] underline"
           >
             {ro ? "politica de confidențialitate" : "privacy policy"}
           </Link>
@@ -519,10 +519,10 @@ export default function ContactForm() {
 }
 
 function inputClass(hasError: boolean): string {
-  return `block px-4 py-3 w-full text-sm text-[var(--brand-black)] bg-[var(--surface-soft)] border rounded-xl outline-none transition-colors focus:bg-[var(--surface)] focus:ring-2 focus:ring-[var(--brand-orange)] ${
+  return `block px-4 py-3 w-full text-sm text-[var(--brand-black)] bg-[var(--surface-soft)] border rounded-xl outline-none transition-colors focus:bg-[var(--surface)] focus:ring-2 focus:ring-[var(--brand-orange-focus)] ${
     hasError
-      ? "border-[var(--brand-orange)]"
-      : "border-transparent focus:border-[var(--brand-orange)]"
+      ? "border-[var(--brand-orange-focus)]"
+      : "border-transparent focus:border-[var(--brand-orange-focus)]"
   }`
 }
 
@@ -537,7 +537,7 @@ function FieldGroup({
 }) {
   return (
     <div className="flex flex-col gap-5">
-      <h3 className="text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange)]">
+      <h3 className="text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange-text)]">
         {label}
         {optionalText ? (
           <>
@@ -574,7 +574,7 @@ function Field({
     <span className="flex items-center gap-1 text-sm font-medium text-[var(--text-soft)]">
       {label}
       {required ? (
-        <span aria-hidden="true" className="text-[var(--brand-orange)]">
+        <span aria-hidden="true" className="text-[var(--brand-orange-text)]">
           *
         </span>
       ) : null}
@@ -594,7 +594,7 @@ function Field({
         id={id ? `${id}-details` : undefined}
         className="flex items-center justify-between gap-2 text-xs"
       >
-        <span className="text-[var(--brand-orange)]">{error ?? ""}</span>
+        <span className="text-[var(--brand-orange-text)]">{error ?? ""}</span>
         {help && (
           <span className="text-[var(--text-muted)]">{help}</span>
         )}
@@ -638,7 +638,7 @@ function DeadlinePicker({
             }}
             className="peer sr-only"
           />
-          <span className="flex h-full items-center justify-center rounded-xl border border-[var(--border)] bg-[var(--surface)] px-3 py-3 text-center text-sm font-medium text-[var(--text-soft)] transition-all hover:scale-[1.02] hover:border-[var(--border-strong)] peer-checked:border-[var(--brand-orange)] peer-checked:bg-[var(--brand-orange)] peer-checked:text-white peer-focus-visible:outline-none peer-focus-visible:ring-2 peer-focus-visible:ring-[var(--brand-orange)] peer-focus-visible:ring-offset-2">
+          <span className="flex h-full items-center justify-center rounded-xl border border-[var(--border)] bg-[var(--surface)] px-3 py-3 text-center text-sm font-medium text-[var(--text-soft)] transition-all hover:scale-[1.02] hover:border-[var(--border-strong)] peer-checked:border-[var(--brand-orange)] peer-checked:bg-[var(--brand-orange)] peer-checked:text-[var(--brand-black)] peer-focus-visible:outline-none peer-focus-visible:ring-2 peer-focus-visible:ring-[var(--brand-orange-focus)] peer-focus-visible:ring-offset-2">
             {ro ? "Fără preferință" : "No preference"}
           </span>
         </label>
@@ -657,7 +657,7 @@ function DeadlinePicker({
                 onChange={() => onPresetChange(opt.value)}
                 className="peer sr-only"
               />
-              <span className="flex h-full items-center justify-center rounded-xl border border-[var(--border)] bg-[var(--surface)] px-3 py-3 text-center text-sm font-medium text-[var(--text-soft)] transition-all hover:scale-[1.02] hover:border-[var(--border-strong)] peer-checked:border-[var(--brand-orange)] peer-checked:bg-[var(--brand-orange)] peer-checked:text-white peer-focus-visible:outline-none peer-focus-visible:ring-2 peer-focus-visible:ring-[var(--brand-orange)] peer-focus-visible:ring-offset-2">
+              <span className="flex h-full items-center justify-center rounded-xl border border-[var(--border)] bg-[var(--surface)] px-3 py-3 text-center text-sm font-medium text-[var(--text-soft)] transition-all hover:scale-[1.02] hover:border-[var(--border-strong)] peer-checked:border-[var(--brand-orange)] peer-checked:bg-[var(--brand-orange)] peer-checked:text-[var(--brand-black)] peer-focus-visible:outline-none peer-focus-visible:ring-2 peer-focus-visible:ring-[var(--brand-orange-focus)] peer-focus-visible:ring-offset-2">
                 {ro
                   ? ({ "2-weeks": "În 2 săptămâni", "1-month": "Într-o lună", "2-3-months": "2–3 luni", flexible: "Flexibil" } as const)[opt.value]
                   : opt.label}
@@ -708,12 +708,12 @@ function SelectedProductsPanel({
   return (
     <div className="flex flex-col gap-3 p-5 bg-[var(--surface-soft)] border border-[var(--border-soft)] rounded-2xl">
       <div className="flex items-center justify-between gap-3">
-        <h3 className="text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange)]">
+        <h3 className="text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange-text)]">
           {ro ? "Produse selectate" : "Selected products"} ({items.length})
         </h3>
         <Link
           href="/offer"
-          className="text-xs font-medium text-[var(--text-soft)] hover:text-[var(--brand-orange)] transition-colors"
+          className="text-xs font-medium text-[var(--text-soft)] hover:text-[var(--brand-orange-text)] transition-colors"
         >
           {ro ? "Editează selecția" : "Edit selection"} →
         </Link>
@@ -789,7 +789,7 @@ function SuccessCard({
     <div className="flex flex-col items-start gap-6 p-8 lg:p-12 bg-[var(--surface)] border border-[var(--border)] rounded-3xl">
       <span
         aria-hidden="true"
-        className="inline-flex items-center justify-center w-16 h-16 text-white bg-[var(--brand-orange)] rounded-2xl"
+        className="inline-flex items-center justify-center w-16 h-16 text-[var(--brand-black)] bg-[var(--brand-orange)] rounded-2xl"
       >
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -827,7 +827,7 @@ function SuccessCard({
       <div className="flex flex-col sm:flex-row gap-3 pt-2">
         <Link
           href="/"
-          className="inline-flex items-center justify-center gap-2 px-6 py-3 text-sm font-semibold text-white bg-[var(--brand-orange)] rounded-full hover:scale-[1.02] transition-transform"
+          className="inline-flex items-center justify-center gap-2 px-6 py-3 text-sm font-semibold text-[var(--brand-black)] bg-[var(--brand-orange)] rounded-full hover:scale-[1.02] transition-transform"
         >
           <span>{ro ? "Înapoi la pagina principală" : "Back to homepage"}</span>
           <span aria-hidden="true">→</span>

@@ -18,7 +18,7 @@ export default function PricingPage() {
         </p>
         <h1 className="mt-4 max-w-3xl font-[family-name:var(--font-outfit)] text-4xl font-bold leading-tight tracking-tight text-[var(--brand-black)] sm:text-5xl lg:text-6xl">
           <LocalizedText en="Estimate your " ro="Estimează costul de " />
-          <span className="text-[var(--brand-orange)]">
+          <span className="text-[var(--brand-orange-text)]">
             <LocalizedText en="personalisation" ro="personalizare" />
           </span>.
         </h1>
@@ -35,7 +35,7 @@ export default function PricingPage() {
         <div className="mt-6 flex flex-col gap-3 sm:flex-row">
           <Link
             href="/catalog"
-            className="inline-flex items-center justify-center rounded-full bg-[var(--brand-orange)] px-6 py-3 text-sm font-semibold text-white transition-transform hover:scale-[1.02]"
+            className="inline-flex items-center justify-center rounded-full bg-[var(--brand-orange)] px-6 py-3 text-sm font-semibold text-[var(--brand-black)] transition-transform hover:scale-[1.02]"
           >
             <LocalizedText en="Choose products from the catalog" ro="Alege produse din catalog" />
           </Link>

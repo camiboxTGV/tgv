@@ -65,7 +65,7 @@ export default function HomeProjectCarousel({ items }: Readonly<Props>) {
               type="button"
               onClick={() => moveTo(active - 1)}
               aria-label={locale === "ro" ? "Proiectul anterior" : "Previous project"}
-              className="inline-flex h-9 w-9 items-center justify-center rounded-full border border-[var(--border)] bg-[var(--surface)] text-[var(--brand-black)] transition-colors hover:border-[var(--brand-orange)] hover:text-[var(--brand-orange)]"
+              className="inline-flex h-9 w-9 items-center justify-center rounded-full border border-[var(--border)] bg-[var(--surface)] text-[var(--brand-black)] transition-colors hover:border-[var(--brand-orange-focus)] hover:text-[var(--brand-orange-text)]"
             >
               ←
             </button>
@@ -73,7 +73,7 @@ export default function HomeProjectCarousel({ items }: Readonly<Props>) {
               type="button"
               onClick={() => moveTo(active + 1)}
               aria-label={locale === "ro" ? "Proiectul următor" : "Next project"}
-              className="inline-flex h-9 w-9 items-center justify-center rounded-full border border-[var(--border)] bg-[var(--surface)] text-[var(--brand-black)] transition-colors hover:border-[var(--brand-orange)] hover:text-[var(--brand-orange)]"
+              className="inline-flex h-9 w-9 items-center justify-center rounded-full border border-[var(--border)] bg-[var(--surface)] text-[var(--brand-black)] transition-colors hover:border-[var(--brand-orange-focus)] hover:text-[var(--brand-orange-text)]"
             >
               →
             </button>

@@ -191,7 +191,7 @@ export default function VariantPicker({
                   title={color}
                   className={`relative w-9 h-9 rounded-full border transition-all ${
                     active
-                      ? "ring-2 ring-[var(--brand-orange)] ring-offset-2 ring-offset-[var(--bg)] border-transparent"
+                      ? "ring-2 ring-[var(--brand-orange-focus)] ring-offset-2 ring-offset-[var(--bg)] border-transparent"
                       : "border-[var(--border)] hover:border-[var(--border-strong)]"
                   } ${!hasAnyInStock ? "opacity-40" : ""}`}
                   style={{

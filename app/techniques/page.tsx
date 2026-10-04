@@ -19,7 +19,7 @@ export default function TechniquesPage() {
         </p>
         <h1 className="mt-4 max-w-4xl text-4xl sm:text-5xl lg:text-6xl font-[family-name:var(--font-outfit)] font-bold leading-tight tracking-tight text-[var(--brand-black)]">
           <LocalizedText en="Nine techniques. " ro="Nouă tehnici. " />
-          <span className="text-[var(--brand-orange)]"><LocalizedText en="One" ro="Un singur" /></span>{" "}
+          <span className="text-[var(--brand-orange-text)]"><LocalizedText en="One" ro="Un singur" /></span>{" "}
           <LocalizedText en="production workflow." ro="flux de producție." />
         </h1>
         <p className="mt-6 max-w-2xl text-lg text-[var(--text-soft)] leading-relaxed">
@@ -48,7 +48,7 @@ export default function TechniquesPage() {
           </p>
           <Link
             href="/contact"
-            className="inline-flex items-center justify-center mt-8 px-6 py-3 text-sm font-semibold text-white bg-[var(--primary)] hover:bg-[var(--primary-hover)] rounded-full transition-colors"
+            className="inline-flex items-center justify-center mt-8 px-6 py-3 text-sm font-semibold text-[var(--brand-black)] bg-[var(--primary)] hover:bg-[var(--primary-hover)] rounded-full transition-colors"
           >
             <LocalizedText en="Start a project" ro="Începe un proiect" />
           </Link>

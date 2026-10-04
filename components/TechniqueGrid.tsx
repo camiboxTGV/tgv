@@ -19,14 +19,14 @@ export default function TechniqueGrid({
             id={technique.slug}
             className="flex flex-col gap-5 rounded-2xl border border-[var(--border)] bg-[var(--surface)] p-6"
           >
-            <span className="text-xs font-semibold tracking-widest text-[var(--brand-orange)]">
+            <span className="text-xs font-semibold tracking-widest text-[var(--brand-orange-text)]">
               {String(index + 1).padStart(2, "0")}
             </span>
             <div>
               <h2 className="text-xl font-[family-name:var(--font-outfit)] font-semibold text-[var(--brand-black)]">
                 {localized.title}
               </h2>
-              <p className="mt-2 text-sm font-medium leading-relaxed text-[var(--brand-orange)]">
+              <p className="mt-2 text-sm font-medium leading-relaxed text-[var(--brand-orange-text)]">
                 {localized.bestFor}
               </p>
             </div>

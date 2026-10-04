@@ -85,16 +85,16 @@ export default function FileDropZone({
         }}
         className={`flex flex-col items-center justify-center gap-3 px-6 py-10 w-full text-center bg-[var(--surface-soft)] border-2 border-dashed rounded-2xl transition-colors ${
           dragActive
-            ? "border-[var(--brand-orange)] bg-[var(--surface)]"
-            : "border-[var(--border-strong)] hover:border-[var(--brand-orange)]"
+            ? "border-[var(--brand-orange-focus)] bg-[var(--surface)]"
+            : "border-[var(--border-strong)] hover:border-[var(--brand-orange-focus)]"
         }`}
       >
         <span
           aria-hidden="true"
           className={`inline-flex items-center justify-center w-12 h-12 rounded-full transition-colors ${
             dragActive
-              ? "text-white bg-[var(--brand-orange)]"
-              : "text-[var(--brand-orange)] bg-[var(--surface)]"
+              ? "text-[var(--brand-black)] bg-[var(--brand-orange)]"
+              : "text-[var(--brand-orange-text)] bg-[var(--surface)]"
           }`}
         >
           <svg
@@ -139,7 +139,7 @@ export default function FileDropZone({
       </button>
 
       {error && (
-        <p className="text-xs text-[var(--brand-orange)]">{error}</p>
+        <p className="text-xs text-[var(--brand-orange-text)]">{error}</p>
       )}
 
       {files.length > 0 && (
@@ -152,7 +152,7 @@ export default function FileDropZone({
             <button
               type="button"
               onClick={() => onChange([])}
-              className="font-medium text-[var(--text-soft)] hover:text-[var(--brand-orange)] transition-colors"
+              className="font-medium text-[var(--text-soft)] hover:text-[var(--brand-orange-text)] transition-colors"
             >
               Clear all
             </button>
@@ -165,7 +165,7 @@ export default function FileDropZone({
               >
                 <span
                   aria-hidden="true"
-                  className="inline-flex items-center justify-center w-8 h-8 text-[var(--brand-orange)] bg-[var(--surface-soft)] rounded-lg"
+                  className="inline-flex items-center justify-center w-8 h-8 text-[var(--brand-orange-text)] bg-[var(--surface-soft)] rounded-lg"
                 >
                   <FileFamilyIcon name={file.name} />
                 </span>
@@ -181,7 +181,7 @@ export default function FileDropZone({
                   type="button"
                   onClick={() => removeAt(idx)}
                   aria-label={`Remove ${file.name}`}
-                  className="inline-flex items-center justify-center w-8 h-8 text-[var(--text-muted)] hover:text-[var(--brand-orange)] transition-colors"
+                  className="inline-flex items-center justify-center w-8 h-8 text-[var(--text-muted)] hover:text-[var(--brand-orange-text)] transition-colors"
                 >
                   <svg
                     xmlns="http://www.w3.org/2000/svg"

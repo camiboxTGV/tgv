@@ -1,3 +1,9 @@
+runConfig:
+  cpu: 1
+  memoryMiB: 1024
+  maxInstances: 3
+  concurrency: 10
+
 env:
   - variable: SMTP_PASSWORD
     secret: smtpPassword

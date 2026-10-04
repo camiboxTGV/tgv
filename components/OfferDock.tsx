@@ -30,9 +30,9 @@ export default function OfferDock() {
   return (
     <Link
       href="/offer"
-      className="inline-flex fixed right-6 bottom-6 z-40 items-center gap-3 px-5 py-3 text-sm font-semibold text-white bg-[var(--brand-orange)] rounded-full shadow-xl hover:scale-[1.02] transition-transform"
+      className="inline-flex fixed right-6 bottom-6 z-40 items-center gap-3 px-5 py-3 text-sm font-semibold text-[var(--brand-black)] bg-[var(--brand-orange)] rounded-full shadow-xl hover:scale-[1.02] transition-transform"
     >
-      <span className="inline-flex items-center justify-center w-6 h-6 text-xs text-[var(--brand-orange)] bg-white rounded-full">
+      <span className="inline-flex items-center justify-center w-6 h-6 text-xs text-[var(--brand-orange-text)] bg-white rounded-full">
         {count}
       </span>
       <span>{locale === "ro" ? "Construiește oferta" : "Build my offer"}</span>

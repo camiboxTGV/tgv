@@ -52,7 +52,7 @@ export default function ServiceCard({ service }: Props) {
       )}
       <Link
         href={`/services/${service.slug}`}
-        className="inline-flex items-center gap-2 mt-2 text-sm font-medium text-[var(--brand-orange)] group-hover:gap-3 transition-all"
+        className="inline-flex items-center gap-2 mt-2 text-sm font-medium text-[var(--brand-orange-text)] group-hover:gap-3 transition-all"
       >
         <span>{locale === "ro" ? "Vezi serviciul" : "View service"}</span>
         <span aria-hidden="true">→</span>

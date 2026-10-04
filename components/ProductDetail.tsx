@@ -166,7 +166,7 @@ export default function ProductDetail({
           <div className="flex flex-col gap-6">
             <div className="flex flex-col gap-3">
               {product.brand ? (
-                <span className="text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange)]">
+                <span className="text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange-text)]">
                   {product.brand}
                 </span>
               ) : null}
@@ -225,7 +225,7 @@ export default function ProductDetail({
             {variants.length > 0 ? (
               <section className="rounded-2xl border border-[var(--border-soft)] bg-[var(--surface)] p-4 sm:p-5">
                 <div className="mb-4 flex flex-col gap-1">
-                  <h2 className="text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange)]">
+                  <h2 className="text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange-text)]">
                     {ro ? "Opțiuni disponibile" : "Available options"}
                   </h2>
                   <p className="text-xs leading-relaxed text-[var(--text-muted)]">
@@ -360,7 +360,7 @@ function ProductInformation({
 
   return (
     <section className="rounded-2xl border border-[var(--border-soft)] bg-[var(--surface)] p-4 sm:p-5">
-      <h2 className="text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange)]">
+      <h2 className="text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange-text)]">
         {ro ? "Detalii produs" : "Product details"}
       </h2>
       {description ? (
@@ -401,7 +401,7 @@ function SupplierPersonalizations({
   return (
     <section className="rounded-2xl border border-[var(--border-soft)] bg-[var(--surface-soft)] p-4">
       <div className="flex flex-col gap-1">
-        <h2 className="text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange)]">
+        <h2 className="text-xs font-semibold uppercase tracking-widest text-[var(--brand-orange-text)]">
           {ro ? "Metode de personalizare" : "Personalisation methods"}
         </h2>
         <p className="text-xs leading-relaxed text-[var(--text-muted)]">
@@ -466,7 +466,7 @@ function Description({ text, locale }: Readonly<{ text: string; locale: "ro" | "
         <p className="text-sm leading-relaxed text-[var(--text-soft)] whitespace-pre-line group-open:hidden">
           {text.slice(0, 380)}…
         </p>
-        <span className="inline-flex items-center gap-1 mt-2 text-xs font-medium text-[var(--brand-orange)] group-open:hidden">
+        <span className="inline-flex items-center gap-1 mt-2 text-xs font-medium text-[var(--brand-orange-text)] group-open:hidden">
           {locale === "ro" ? "Arată descrierea completă" : "Show full description"}
           <span aria-hidden="true">↓</span>
         </span>
@@ -474,7 +474,7 @@ function Description({ text, locale }: Readonly<{ text: string; locale: "ro" | "
       <p className="text-sm leading-relaxed text-[var(--text-soft)] whitespace-pre-line">
         {text}
       </p>
-      <span className="inline-flex items-center gap-1 mt-2 text-xs font-medium text-[var(--brand-orange)] cursor-pointer">
+      <span className="inline-flex items-center gap-1 mt-2 text-xs font-medium text-[var(--brand-orange-text)] cursor-pointer">
         {locale === "ro" ? "Arată mai puțin" : "Show less"} <span aria-hidden="true">↑</span>
       </span>
     </details>
